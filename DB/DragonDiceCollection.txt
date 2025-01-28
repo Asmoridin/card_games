@@ -1,0 +1,736 @@
+Androsphinx;Dwarves;Monster;0
+Behemoth;Dwarves;Monster;0
+Gargoyle;Dwarves;Monster;0
+Roc;Dwarves;Monster;0
+Umber Hulk;Dwarves;Monster;0
+Warlord;Dwarves;Rare;0
+Skirmisher;Dwarves;Rare;0
+Crack Shot;Dwarves;Rare;0
+Mammoth Rider;Dwarves;Rare;0
+Wizard;Dwarves;Rare;0
+Sergeant;Dwarves;Uncommon;0
+Patroller;Dwarves;Uncommon;0
+Marksman;Dwarves;Uncommon;0
+Lizard Rider;Dwarves;Uncommon;0
+Thaumaturgist;Dwarves;Uncommon;0
+Footman;Dwarves;Common;0
+Sentry;Dwarves;Common;0
+Crossbowman;Dwarves;Common;0
+Pony Rider;Dwarves;Common;0
+Theugist;Dwarves;Common;0
+Coral Giant;Coral Elves;Monster;0
+Gryphon;Coral Elves;Monster;0
+Leviathan;Coral Elves;Monster;0
+Sprite Swarm;Coral Elves;Monster;0
+Tako;Coral Elves;Monster;0
+Protector;Coral Elves;Rare;0
+Herald;Coral Elves;Rare;0
+Sharpshooter;Coral Elves;Rare;0
+Eagle Knight;Coral Elves;Rare;0
+Enchanter;Coral Elves;Rare;0
+Trooper;Coral Elves;Uncommon;0
+Courier;Coral Elves;Uncommon;0
+Archer;Coral Elves;Uncommon;0
+Knight;Coral Elves;Uncommon;0
+Conjurer;Coral Elves;Uncommon;0
+Fighter;Coral Elves;Common;0
+Guard;Coral Elves;Common;0
+Bowman;Coral Elves;Common;0
+Horseman;Coral Elves;Common;0
+Evoker;Coral Elves;Common;0
+Cannibal;Goblins;Monster;0
+Death Naga;Goblins;Monster;0
+Harpies;Goblins;Monster;0
+Shambler;Goblins;Monster;0
+Troll;Goblins;Monster;0
+Marauder;Goblins;Rare;0
+Filcher;Goblins;Rare;0
+Deadeye;Goblins;Rare;0
+Leopard Rider;Goblins;Rare;0
+Death Mage;Goblins;Rare;0
+Cutthroat;Goblins;Uncommon;0
+Ambusher;Goblins;Uncommon;0
+Slingman;Goblins;Uncommon;0
+Wolf Rider;Goblins;Uncommon;0
+Hedge Wizard;Goblins;Uncommon;0
+Thug;Goblins;Common;0
+Mugger;Goblins;Common;0
+Pelter;Goblins;Common;0
+Wardog Rider;Goblins;Common;0
+Trickster;Goblins;Common;0
+Beholder;Lava Elves;Monster;0
+Drider;Lava Elves;Monster;0
+Hell Hound;Lava Elves;Monster;0
+Lurker in the Deep;Lava Elves;Monster;0
+Rakshasa;Lava Elves;Monster;0
+Conqueror;Lava Elves;Rare;0
+Infiltrator;Lava Elves;Rare;0
+Assassin;Lava Elves;Rare;0
+Wyvern Rider;Lava Elves;Rare;0
+Necromancer;Lava Elves;Rare;0
+Duelist;Lava Elves;Uncommon;0
+Spy;Lava Elves;Uncommon;0
+Dead Shot;Lava Elves;Uncommon;0
+Scorpion Knight;Lava Elves;Uncommon;0
+Warlock;Lava Elves;Uncommon;0
+Bladesman;Lava Elves;Common;0
+Scout;Lava Elves;Common;0
+Fusilier;Lava Elves;Common;0
+Spider Rider;Lava Elves;Common;0
+Adept;Lava Elves;Common;0
+Centaur;Amazons;Monster;0
+Chimera;Amazons;Monster;0
+Hydra;Amazons;Monster;0
+Medusa;Amazons;Monster;0
+Nightmare;Amazons;Monster;0
+War Chief;Amazons;Rare;0
+Harbinger;Amazons;Rare;0
+Spearer;Amazons;Rare;0
+War Driver;Amazons;Rare;0
+Oracle;Amazons;Rare;0
+Warrior;Amazons;Uncommon;0
+Envoy;Amazons;Uncommon;0
+Javelineer;Amazons;Uncommon;0
+Battle Rider;Amazons;Uncommon;0
+Visionary;Amazons;Uncommon;0
+Soldier;Amazons;Common;0
+Runner;Amazons;Common;0
+Darter;Amazons;Common;0
+Charioteer;Amazons;Common;0
+Seer;Amazons;Common;0
+Fireshadow;Fire Walkers;Monster;1
+Genie;Fire Walkers;Monster;0
+Gorgon;Fire Walkers;Monster;1
+Phoenix;Fire Walkers;Monster;1
+Salamander;Fire Walkers;Monster;2
+Sentinel;Fire Walkers;Rare;2
+Expeditioner;Fire Walkers;Rare;2
+Firestormer;Fire Walkers;Rare;0
+Daybringer;Fire Walkers;Rare;1
+Ashbringer;Fire Walkers;Rare;0
+Watcher;Fire Walkers;Uncommon;3
+Adventurer;Fire Walkers;Uncommon;3
+Firemaster;Fire Walkers;Uncommon;2
+Nightsbane;Fire Walkers;Uncommon;1
+Sunflare;Fire Walkers;Uncommon;1
+Guardian;Fire Walkers;Common;2
+Explorer;Fire Walkers;Common;1
+Firestarter;Fire Walkers;Common;3
+Shadowchaser;Fire Walkers;Common;9
+Sunburst;Fire Walkers;Common;5
+Carrion Crawler;Undead;Monster;0
+Dracolich;Undead;Monster;0
+Fenhound;Undead;Monster;0
+Minor Death;Undead;Monster;1
+Skeletal Steed;Undead;Monster;0
+Mummy;Undead;Rare;1
+Death Knight;Undead;Rare;0
+Ghost;Undead;Rare;0
+Vampire;Undead;Rare;0
+Lich;Undead;Rare;0
+Wight;Undead;Uncommon;0
+Revenant;Undead;Uncommon;0
+Spectre;Undead;Uncommon;0
+Ghast;Undead;Uncommon;2
+Heucuva;Undead;Uncommon;0
+Zombie;Undead;Common;1
+Skeleton;Undead;Common;1
+Wraith;Undead;Common;0
+Ghoul;Undead;Common;1
+Apparition;Undead;Common;1
+Bear-folk;Feral;Monster;0
+Elephant-folk;Feral;Monster;0
+Lion-folk;Feral;Monster;0
+Owl-folk;Feral;Monster;0
+Rhino-folk;Feral;Monster;0
+Tiger-folk;Feral;Rare;0
+Wolf-folk;Feral;Rare;0
+Vulture-folk;Feral;Rare;0
+Buffalo-folk;Feral;Rare;0
+Wolverine-folk;Feral;Rare;0
+Leopard-folk;Feral;Uncommon;0
+Fox-folk;Feral;Uncommon;0
+Hawk-folk;Feral;Uncommon;0
+Horse-folk;Feral;Uncommon;0
+Badger-folk;Feral;Uncommon;0
+Lynx-folk;Feral;Common;0
+Hound-folk;Feral;Common;0
+Falcon-folk;Feral;Common;0
+Anelope-folk;Feral;Common;0
+Weasel-folk;Feral;Common;0
+Crocosaur;Swamp Stalkers;Monster;0
+Mudmen;Swamp Stalkers;Monster;0
+Ormyrr;Swamp Stalkers;Monster;0
+Swamp Beast;Swamp Stalkers;Monster;0
+Swamp Giant;Swamp Stalkers;Monster;1
+Annihilator;Swamp Stalkers;Rare;0
+Invader;Swamp Stalkers;Rare;0
+Deluger;Swamp Stalkers;Rare;0
+Wave Rider;Swamp Stalkers;Rare;0
+Swamp Wizard;Swamp Stalkers;Rare;0
+Ravager;Swamp Stalkers;Uncommon;0
+Raider;Swamp Stalkers;Uncommon;0
+Stormer;Swamp Stalkers;Uncommon;0
+Marsh Swimmer;Swamp Stalkers;Uncommon;0
+Marsh Mage;Swamp Stalkers;Uncommon;0
+Warmonger;Swamp Stalkers;Common;0
+Striker;Swamp Stalkers;Common;0
+Sprayer;Swamp Stalkers;Common;0
+Bog Runner;Swamp Stalkers;Common;0
+Bog Adept;Swamp Stalkers;Common;0
+Cryohydra;Frostwings;Monster;2
+Frost Ogre;Frostwings;Monster;1
+Remorhaz;Frostwings;Monster;3
+Wolf Pack;Frostwings;Monster;2
+Yeti;Frostwings;Monster;2
+Vindicator;Frostwings;Rare;1
+Devastator;Frostwings;Rare;3
+Assailer;Frostwings;Rare;0
+Bear Master;Frostwings;Rare;2
+Magi;Frostwings;Rare;0
+Defender;Frostwings;Uncommon;4
+Dispatcher;Frostwings;Uncommon;3
+Assaulter;Frostwings;Uncommon;0
+Wolf Master;Frostwings;Uncommon;3
+Magus;Frostwings;Uncommon;1
+Advocate;Frostwings;Common;4
+Destroyer;Frostwings;Common;4
+Attacker;Frostwings;Common;5
+Hound Master;Frostwings;Common;2
+Apprentice;Frostwings;Common;6
+Ettercap;Scalders;Monster;0
+Quickling;Scalders;Monster;0
+Uneelie Faerie;Scalders;Monster;0
+Web Birds;Scalders;Monster;0
+Will o’ Wisp;Scalders;Monster;0
+Searer;Scalders;Rare;0
+Charkin;Scalders;Rare;0
+Blazer;Scalders;Rare;0
+Dragonne Knight;Scalders;Rare;0
+Inferno;Scalders;Rare;0
+Scorcher;Scalders;Uncommon;0
+Igniter;Scalders;Uncommon;0
+Burner;Scalders;Uncommon;0
+Dragonne Rider;Scalders;Uncommon;0
+Smolderer;Scalders;Uncommon;0
+Singeman;Scalders;Common;0
+Kindler;Scalders;Common;0
+Glower;Scalders;Common;0
+Dragonne Tender;Scalders;Common;0
+Sparker;Scalders;Common;0
+Darktree;Treefolk;Monster;1
+Redwood;Treefolk;Monster;1
+Satyr;Treefolk;Monster;1
+Strangle Vine;Treefolk;Monster;1
+Unicorn;Treefolk;Monster;1
+Oak Lord;Treefolk;Rare;1
+Noble Willow;Treefolk;Rare;1
+Pine Prince;Treefolk;Rare;0
+Lady Nereid;Treefolk;Rare;1
+Eldar Dryad;Treefolk;Rare;1
+Oak;Treefolk;Uncommon;1
+Willow;Treefolk;Uncommon;3
+Pine;Treefolk;Uncommon;4
+Naiad;Treefolk;Uncommon;2
+Dryad;Treefolk;Uncommon;0
+Oakling;Treefolk;Common;3
+Willowing;Treefolk;Common;3
+Pineline;Treefolk;Common;5
+Nymph;Treefolk;Common;5
+Hamadryad;Treefolk;Common;4
+Bronze Medallion;Medallion;Champion;1
+Silver Medallion;Medallion;Champion;1
+Gold Medallion;Medallion;Champion;1
+Water Flying Carpet;Items;Artifact;2
+Water Dragonstaff;Items;Artifact;0
+Water Mantlet;Items;Artifact;0
+Water Blade Golem;Items;Artifact;0
+Water Trebuchet;Items;Artifact;0
+Water Mithril Shield;Items;Rare;0
+Water Seven League Boots;Items;Rare;1
+Water Vorpal Sword;Items;Rare;0
+Water Magi Crown;Items;Rare;0
+Water Heartseeker;Items;Rare;0
+Water Steel Buckler;Items;Uncommon;0
+Water Winged Sandals;Items;Uncommon;0
+Water Dawn Blade;Items;Uncommon;0
+Water Ring of Stars;Items;Uncommon;0
+Water Eyebiter;Items;Uncommon;0
+Water Wooden Targe;Items;Common;0
+Water Speed Slippers;Items;Common;1
+Water Flicker Foil;Items;Common;0
+Water Sight Stone;Items;Common;1
+Water Trueflyer;Items;Common;0
+Air Flying Carpet;Items;Artifact;0
+Air Dragonstaff;Items;Artifact;0
+Air Mantlet;Items;Artifact;0
+Air Blade Golem;Items;Artifact;0
+Air Trebuchet;Items;Artifact;1
+Air Mithril Shield;Items;Rare;0
+Air Seven League Boots;Items;Rare;0
+Air Vorpal Sword;Items;Rare;0
+Air Magi Crown;Items;Rare;0
+Air Heartseeker;Items;Rare;1
+Air Steel Buckler;Items;Uncommon;1
+Air Winged Sandals;Items;Uncommon;0
+Air Dawn Blade;Items;Uncommon;0
+Air Ring of Stars;Items;Uncommon;1
+Air Eyebiter;Items;Uncommon;0
+Air Wooden Targe;Items;Common;0
+Air Speed Slippers;Items;Common;0
+Air Flicker Foil;Items;Common;0
+Air Sight Stone;Items;Common;0
+Air Trueflyer;Items;Common;0
+Fire Flying Carpet;Items;Artifact;0
+Fire Dragonstaff;Items;Artifact;0
+Fire Mantlet;Items;Artifact;0
+Fire Blade Golem;Items;Artifact;0
+Fire Trebuchet;Items;Artifact;0
+Fire Mithril Shield;Items;Rare;0
+Fire Seven League Boots;Items;Rare;0
+Fire Vorpal Sword;Items;Rare;0
+Fire Magi Crown;Items;Rare;1
+Fire Heartseeker;Items;Rare;1
+Fire Steel Buckler;Items;Uncommon;0
+Fire Winged Sandals;Items;Uncommon;0
+Fire Dawn Blade;Items;Uncommon;0
+Fire Ring of Stars;Items;Uncommon;0
+Fire Eyebiter;Items;Uncommon;1
+Fire Wooden Targe;Items;Common;0
+Fire Speed Slippers;Items;Common;0
+Fire Flicker Foil;Items;Common;0
+Fire Sight Stone;Items;Common;0
+Fire Trueflyer;Items;Common;1
+Earth Flying Carpet;Items;Artifact;0
+Earth Dragonstaff;Items;Artifact;1
+Earth Mantlet;Items;Artifact;0
+Earth Blade Golem;Items;Artifact;0
+Earth Trebuchet;Items;Artifact;0
+Earth Mithril Shield;Items;Rare;0
+Earth Seven League Boots;Items;Rare;2
+Earth Vorpal Sword;Items;Rare;0
+Earth Magi Crown;Items;Rare;0
+Earth Heartseeker;Items;Rare;0
+Earth Steel Buckler;Items;Uncommon;0
+Earth Winged Sandals;Items;Uncommon;0
+Earth Dawn Blade;Items;Uncommon;0
+Earth Ring of Stars;Items;Uncommon;0
+Earth Eyebiter;Items;Uncommon;1
+Earth Wooden Targe;Items;Common;0
+Earth Speed Slippers;Items;Common;0
+Earth Flicker Foil;Items;Common;0
+Earth Sight Stone;Items;Common;0
+Earth Trueflyer;Items;Common;1
+Death Flying Carpet;Items;Artifact;0
+Death Dragonstaff;Items;Artifact;0
+Death Mantlet;Items;Artifact;0
+Death Blade Golem;Items;Artifact;1
+Death Trebuchet;Items;Artifact;1
+Death Mithril Shield;Items;Rare;0
+Death Seven League Boots;Items;Rare;0
+Death Vorpal Sword;Items;Rare;0
+Death Magi Crown;Items;Rare;0
+Death Heartseeker;Items;Rare;0
+Death Steel Buckler;Items;Uncommon;0
+Death Winged Sandals;Items;Uncommon;1
+Death Dawn Blade;Items;Uncommon;0
+Death Ring of Stars;Items;Uncommon;0
+Death Eyebiter;Items;Uncommon;0
+Death Wooden Targe;Items;Common;1
+Death Speed Slippers;Items;Common;0
+Death Flicker Foil;Items;Common;0
+Death Sight Stone;Items;Common;0
+Death Trueflyer;Items;Common;1
+Death Drake;Dragons;Dragon;1
+Death Wyrm;Dragons;Dragon;1
+Air Drake;Dragons;Dragon;2
+Air Wyrm;Dragons;Dragon;0
+Earth Drake;Dragons;Dragon;1
+Earth Wyrm;Dragons;Dragon;1
+Water Drake;Dragons;Dragon;1
+Water Wyrm;Dragons;Dragon;0
+Fire Drake;Dragons;Dragon;1
+Fire Wyrm;Dragons;Dragon;1
+Ivory Drake;Dragons;Dragon;0
+Ivory Wyrm;Dragons;Dragon;0
+White Drake;Dragons;Dragon;0
+White Wyrm;Dragons;Dragon;0
+Frostwing Drake;Dragons;Dragon;1
+Frostwing Wyrm;Dragons;Dragon;0
+Goblin Drake;Dragons;Dragon;0
+Goblin Wyrm;Dragons;Dragon;0
+Swampstalker Drake;Dragons;Dragon;0
+Lavaelf Drake;Dragons;Dragon;0
+Undead Drake;Dragons;Dragon;0
+Feral Drake;Dragons;Dragon;1
+Coralelf Drake;Dragons;Dragon;1
+Firewalker Drake;Dragons;Dragon;1
+BlueIvory Drake;Dragons;Dragon;1
+Treefolk Drake;Dragons;Dragon;0
+Dwarf Drake;Dragons;Dragon;0
+GoldIvory Drake;Dragons;Dragon;0
+Scalder Drake;Dragons;Dragon;0
+GreenIvory Drake;Dragons;Dragon;0
+RedIvory Drake;Dragons;Dragon;0
+Swampstalker Wyrm;Dragons;Dragon;0
+Lavaelf Wyrm;Dragons;Dragon;0
+Undead Wyrm;Dragons;Dragon;0
+Feral Wyrm;Dragons;Dragon;0
+Coralelf Wyrm;Dragons;Dragon;0
+Firewalker Wyrm;Dragons;Dragon;0
+BlueIvory Wyrm;Dragons;Dragon;0
+Treefolk Wyrm;Dragons;Dragon;0
+Dwarf Wyrm;Dragons;Dragon;0
+GoldIvory Wyrm;Dragons;Dragon;0
+Scalder Wyrm;Dragons;Dragon;0
+GreenIvory Wyrm;Dragons;Dragon;0
+RedIvory Wyrm;Dragons;Dragon;0
+Death Dragonvictor;Dragonkin;Champion;0
+Death Dragonvedette;Dragonkin;Champion;0
+Death Dragonstallion;Dragonkin;Champion;0
+Death Dragonchamp;Dragonkin;Rare;0
+Death Dragonspy;Dragonkin;Rare;0
+Death Dragonsteed;Dragonkin;Rare;1
+Death Dragonhero;Dragonkin;Uncommon;1
+Death Dragonsentry;Dragonkin;Uncommon;1
+Death Dragonmount;Dragonkin;Uncommon;0
+Death Dragontroop;Dragonkin;Common;1
+Death Dragonscout;Dragonkin;Common;2
+Death Dragonfoal;Dragonkin;Common;0
+Air Dragonvictor;Dragonkin;Champion;0
+Air Dragonvedette;Dragonkin;Champion;0
+Air Dragonstallion;Dragonkin;Champion;0
+Air Dragonchamp;Dragonkin;Rare;0
+Air Dragonspy;Dragonkin;Rare;0
+Air Dragonsteed;Dragonkin;Rare;0
+Air Dragonhero;Dragonkin;Uncommon;1
+Air Dragonsentry;Dragonkin;Uncommon;0
+Air Dragonmount;Dragonkin;Uncommon;0
+Air Dragontroop;Dragonkin;Common;0
+Air Dragonscout;Dragonkin;Common;2
+Air Dragonfoal;Dragonkin;Common;2
+Earth Dragonvictor;Dragonkin;Champion;0
+Earth Dragonvedette;Dragonkin;Champion;0
+Earth Dragonstallion;Dragonkin;Champion;0
+Earth Dragonchamp;Dragonkin;Rare;0
+Earth Dragonspy;Dragonkin;Rare;0
+Earth Dragonsteed;Dragonkin;Rare;0
+Earth Dragonhero;Dragonkin;Uncommon;2
+Earth Dragonsentry;Dragonkin;Uncommon;0
+Earth Dragonmount;Dragonkin;Uncommon;0
+Earth Dragontroop;Dragonkin;Common;1
+Earth Dragonscout;Dragonkin;Common;0
+Earth Dragonfoal;Dragonkin;Common;0
+Water Dragonvictor;Dragonkin;Champion;0
+Water Dragonvedette;Dragonkin;Champion;0
+Water Dragonstallion;Dragonkin;Champion;1
+Water Dragonchamp;Dragonkin;Rare;0
+Water Dragonspy;Dragonkin;Rare;1
+Water Dragonsteed;Dragonkin;Rare;1
+Water Dragonhero;Dragonkin;Uncommon;0
+Water Dragonsentry;Dragonkin;Uncommon;0
+Water Dragonmount;Dragonkin;Uncommon;0
+Water Dragontroop;Dragonkin;Common;1
+Water Dragonscout;Dragonkin;Common;0
+Water Dragonfoal;Dragonkin;Common;1
+Fire Dragonvictor;Dragonkin;Champion;1
+Fire Dragonvedette;Dragonkin;Champion;0
+Fire Dragonstallion;Dragonkin;Champion;0
+Fire Dragonchamp;Dragonkin;Rare;1
+Fire Dragonspy;Dragonkin;Rare;0
+Fire Dragonsteed;Dragonkin;Rare;0
+Fire Dragonhero;Dragonkin;Uncommon;1
+Fire Dragonsentry;Dragonkin;Uncommon;0
+Fire Dragonmount;Dragonkin;Uncommon;0
+Fire Dragontroop;Dragonkin;Common;0
+Fire Dragonscout;Dragonkin;Common;1
+Fire Dragonfoal;Dragonkin;Common;1
+Bronze Dracolem Champion;Dracolem;Champion;0
+Silver Dracolem Champion;Dracolem;Champion;1
+Gold Dracolem Champion;Dracolem;Champion;1
+Dragon Slayer;Eldarim;Champion;1
+Dragon Crusader;Eldarim;Champion;0
+Dragon Lord;Eldarim;Champion;0
+Water Dragon Hunter;Eldarim;Champion;0
+Water Dragon Zealot;Eldarim;Champion;0
+Water Dragon Master;Eldarim;Champion;0
+Water Trog Disciple;Eldarim;Rare;0
+Water Selumari Disciple;Eldarim;Rare;0
+Water Morehl Bodyguard;Eldarim;Rare;0
+Water Vagha Bodyguard;Eldarim;Rare;1
+Water Trog Sorcerer;Eldarim;Rare;0
+Water Morehl Sorcerer;Eldarim;Rare;0
+Water Trog Devotee;Eldarim;Uncommon;1
+Water Morehl Devotee;Eldarim;Uncommon;1
+Water Selumari Devotee;Eldarim;Uncommon;0
+Water Selumari Escort;Eldarim;Uncommon;0
+Water Vagha Escort;Eldarim;Uncommon;0
+Water Morehl Escort;Eldarim;Uncommon;0
+Water Vagha Racer;Eldarim;Uncommon;0
+Water Morehl Racer;Eldarim;Uncommon;1
+Water Trog Racer;Eldarim;Uncommon;0
+Water Vagha Enthraller;Eldarim;Uncommon;1
+Water Morehl Enthraller;Eldarim;Uncommon;1
+Water Trog Enthraller;Eldarim;Uncommon;1
+Water Trog Follower;Eldarim;Common;2
+Water Vagha Follower;Eldarim;Common;0
+Water Morehl Follower;Eldarim;Common;1
+Water Selumari Follower;Eldarim;Common;1
+Water Trog Warder;Eldarim;Common;1
+Water Vagha Warder;Eldarim;Common;0
+Water Morehl Warder;Eldarim;Common;0
+Water Selumari Warder;Eldarim;Common;1
+Water Trog Toxophilite;Eldarim;Common;0
+Water Vagha Toxophilite;Eldarim;Common;0
+Water Morehl Toxophilite;Eldarim;Common;0
+Water Selumari Toxophilite;Eldarim;Common;0
+Water Selumari Sprinter;Eldarim;Common;0
+Water Trog Sprinter;Eldarim;Common;1
+Water Vagha Sprinter;Eldarim;Common;0
+Water Morehl Sprinter;Eldarim;Common;0
+Water Trog Spellbinder;Eldarim;Common;0
+Water Vagha Spellbinder;Eldarim;Common;0
+Water Morehl Spellbinder;Eldarim;Common;2
+Water Selumari Spellbinder;Eldarim;Common;0
+Air Dragon Hunter;Eldarim;Champion;0
+Air Dragon Zealot;Eldarim;Champion;0
+Air Dragon Master;Eldarim;Champion;0
+Air Trog Disciple;Eldarim;Rare;0
+Air Selumari Disciple;Eldarim;Rare;0
+Air Morehl Bodyguard;Eldarim;Rare;1
+Air Vagha Bodyguard;Eldarim;Rare;2
+Air Trog Sorcerer;Eldarim;Rare;0
+Air Morehl Sorcerer;Eldarim;Rare;0
+Air Trog Devotee;Eldarim;Uncommon;0
+Air Morehl Devotee;Eldarim;Uncommon;0
+Air Selumari Devotee;Eldarim;Uncommon;1
+Air Selumari Escort;Eldarim;Uncommon;0
+Air Vagha Escort;Eldarim;Uncommon;1
+Air Morehl Escort;Eldarim;Uncommon;0
+Air Vagha Racer;Eldarim;Uncommon;0
+Air Morehl Racer;Eldarim;Uncommon;1
+Air Trog Racer;Eldarim;Uncommon;1
+Air Vagha Enthraller;Eldarim;Uncommon;0
+Air Morehl Enthraller;Eldarim;Uncommon;0
+Air Trog Enthraller;Eldarim;Uncommon;1
+Air Trog Follower;Eldarim;Common;0
+Air Vagha Follower;Eldarim;Common;1
+Air Morehl Follower;Eldarim;Common;0
+Air Selumari Follower;Eldarim;Common;0
+Air Trog Warder;Eldarim;Common;0
+Air Vagha Warder;Eldarim;Common;3
+Air Morehl Warder;Eldarim;Common;0
+Air Selumari Warder;Eldarim;Common;1
+Air Trog Toxophilite;Eldarim;Common;1
+Air Vagha Toxophilite;Eldarim;Common;0
+Air Morehl Toxophilite;Eldarim;Common;2
+Air Selumari Toxophilite;Eldarim;Common;0
+Air Selumari Sprinter;Eldarim;Common;2
+Air Trog Sprinter;Eldarim;Common;0
+Air Vagha Sprinter;Eldarim;Common;0
+Air Morehl Sprinter;Eldarim;Common;0
+Air Trog Spellbinder;Eldarim;Common;0
+Air Vagha Spellbinder;Eldarim;Common;0
+Air Morehl Spellbinder;Eldarim;Common;0
+Air Selumari Spellbinder;Eldarim;Common;0
+Fire Dragon Hunter;Eldarim;Champion;0
+Fire Dragon Zealot;Eldarim;Champion;0
+Fire Dragon Master;Eldarim;Champion;0
+Fire Trog Disciple;Eldarim;Rare;1
+Fire Selumari Disciple;Eldarim;Rare;0
+Fire Morehl Bodyguard;Eldarim;Rare;0
+Fire Vagha Bodyguard;Eldarim;Rare;2
+Fire Trog Sorcerer;Eldarim;Rare;0
+Fire Morehl Sorcerer;Eldarim;Rare;1
+Fire Trog Devotee;Eldarim;Uncommon;1
+Fire Morehl Devotee;Eldarim;Uncommon;0
+Fire Selumari Devotee;Eldarim;Uncommon;0
+Fire Selumari Escort;Eldarim;Uncommon;0
+Fire Vagha Escort;Eldarim;Uncommon;1
+Fire Morehl Escort;Eldarim;Uncommon;1
+Fire Vagha Racer;Eldarim;Uncommon;0
+Fire Morehl Racer;Eldarim;Uncommon;0
+Fire Trog Racer;Eldarim;Uncommon;0
+Fire Vagha Enthraller;Eldarim;Uncommon;2
+Fire Morehl Enthraller;Eldarim;Uncommon;0
+Fire Trog Enthraller;Eldarim;Uncommon;0
+Fire Trog Follower;Eldarim;Common;0
+Fire Vagha Follower;Eldarim;Common;0
+Fire Morehl Follower;Eldarim;Common;1
+Fire Selumari Follower;Eldarim;Common;0
+Fire Trog Warder;Eldarim;Common;0
+Fire Vagha Warder;Eldarim;Common;1
+Fire Morehl Warder;Eldarim;Common;0
+Fire Selumari Warder;Eldarim;Common;1
+Fire Trog Toxophilite;Eldarim;Common;0
+Fire Vagha Toxophilite;Eldarim;Common;0
+Fire Morehl Toxophilite;Eldarim;Common;1
+Fire Selumari Toxophilite;Eldarim;Common;1
+Fire Selumari Sprinter;Eldarim;Common;0
+Fire Trog Sprinter;Eldarim;Common;0
+Fire Vagha Sprinter;Eldarim;Common;0
+Fire Morehl Sprinter;Eldarim;Common;1
+Fire Trog Spellbinder;Eldarim;Common;1
+Fire Vagha Spellbinder;Eldarim;Common;0
+Fire Morehl Spellbinder;Eldarim;Common;0
+Fire Selumari Spellbinder;Eldarim;Common;1
+Earth Dragon Hunter;Eldarim;Champion;0
+Earth Dragon Zealot;Eldarim;Champion;0
+Earth Dragon Master;Eldarim;Champion;0
+Earth Trog Disciple;Eldarim;Rare;0
+Earth Selumari Disciple;Eldarim;Rare;0
+Earth Morehl Bodyguard;Eldarim;Rare;1
+Earth Vagha Bodyguard;Eldarim;Rare;0
+Earth Trog Sorcerer;Eldarim;Rare;0
+Earth Morehl Sorcerer;Eldarim;Rare;0
+Earth Trog Devotee;Eldarim;Uncommon;0
+Earth Morehl Devotee;Eldarim;Uncommon;0
+Earth Selumari Devotee;Eldarim;Uncommon;0
+Earth Selumari Escort;Eldarim;Uncommon;0
+Earth Vagha Escort;Eldarim;Uncommon;0
+Earth Morehl Escort;Eldarim;Uncommon;0
+Earth Vagha Racer;Eldarim;Uncommon;1
+Earth Morehl Racer;Eldarim;Uncommon;0
+Earth Trog Racer;Eldarim;Uncommon;0
+Earth Vagha Enthraller;Eldarim;Uncommon;0
+Earth Morehl Enthraller;Eldarim;Uncommon;2
+Earth Trog Enthraller;Eldarim;Uncommon;0
+Earth Trog Follower;Eldarim;Common;0
+Earth Vagha Follower;Eldarim;Common;0
+Earth Morehl Follower;Eldarim;Common;0
+Earth Selumari Follower;Eldarim;Common;0
+Earth Trog Warder;Eldarim;Common;0
+Earth Vagha Warder;Eldarim;Common;1
+Earth Morehl Warder;Eldarim;Common;0
+Earth Selumari Warder;Eldarim;Common;1
+Earth Trog Toxophilite;Eldarim;Common;0
+Earth Vagha Toxophilite;Eldarim;Common;0
+Earth Morehl Toxophilite;Eldarim;Common;0
+Earth Selumari Toxophilite;Eldarim;Common;2
+Earth Selumari Sprinter;Eldarim;Common;0
+Earth Trog Sprinter;Eldarim;Common;0
+Earth Vagha Sprinter;Eldarim;Common;1
+Earth Morehl Sprinter;Eldarim;Common;0
+Earth Trog Spellbinder;Eldarim;Common;0
+Earth Vagha Spellbinder;Eldarim;Common;0
+Earth Morehl Spellbinder;Eldarim;Common;1
+Earth Selumari Spellbinder;Eldarim;Common;0
+Death Dragon Hunter;Eldarim;Champion;0
+Death Dragon Zealot;Eldarim;Champion;0
+Death Dragon Master;Eldarim;Champion;0
+Death Trog Disciple;Eldarim;Rare;0
+Death Selumari Disciple;Eldarim;Rare;1
+Death Morehl Bodyguard;Eldarim;Rare;0
+Death Vagha Bodyguard;Eldarim;Rare;0
+Death Trog Sorcerer;Eldarim;Rare;1
+Death Morehl Sorcerer;Eldarim;Rare;3
+Death Trog Devotee;Eldarim;Uncommon;0
+Death Morehl Devotee;Eldarim;Uncommon;0
+Death Selumari Devotee;Eldarim;Uncommon;1
+Death Selumari Escort;Eldarim;Uncommon;0
+Death Vagha Escort;Eldarim;Uncommon;0
+Death Morehl Escort;Eldarim;Uncommon;0
+Death Vagha Racer;Eldarim;Uncommon;0
+Death Morehl Racer;Eldarim;Uncommon;0
+Death Trog Racer;Eldarim;Uncommon;1
+Death Vagha Enthraller;Eldarim;Uncommon;0
+Death Morehl Enthraller;Eldarim;Uncommon;0
+Death Trog Enthraller;Eldarim;Uncommon;0
+Death Trog Follower;Eldarim;Common;2
+Death Vagha Follower;Eldarim;Common;1
+Death Morehl Follower;Eldarim;Common;0
+Death Selumari Follower;Eldarim;Common;1
+Death Trog Warder;Eldarim;Common;0
+Death Vagha Warder;Eldarim;Common;0
+Death Morehl Warder;Eldarim;Common;0
+Death Selumari Warder;Eldarim;Common;1
+Death Trog Toxophilite;Eldarim;Common;1
+Death Vagha Toxophilite;Eldarim;Common;1
+Death Morehl Toxophilite;Eldarim;Common;0
+Death Selumari Toxophilite;Eldarim;Common;1
+Death Selumari Sprinter;Eldarim;Common;0
+Death Trog Sprinter;Eldarim;Common;0
+Death Vagha Sprinter;Eldarim;Common;0
+Death Morehl Sprinter;Eldarim;Common;0
+Death Trog Spellbinder;Eldarim;Common;0
+Death Vagha Spellbinder;Eldarim;Common;0
+Death Morehl Spellbinder;Eldarim;Common;0
+Death Selumari Spellbinder;Eldarim;Common;1
+Elemental;Relics;Artifact;0
+Earthfang;Relics;Artifact;1
+Coastland Tower;Major Terrain;Other;0
+Coastland City;Major Terrain;Other;0
+Coastland Standing Stone;Major Terrain;Other;2
+Coastland Temple;Major Terrain;Other;0
+Highland Tower;Major Terrain;Other;1
+Highland City;Major Terrain;Other;2
+Highland Standing Stone;Major Terrain;Other;1
+Highland Temple;Major Terrain;Other;1
+Swampland Tower;Major Terrain;Other;0
+Swampland City;Major Terrain;Other;0
+Swampland Standing Stone;Major Terrain;Other;1
+Swampland Temple;Major Terrain;Other;2
+Flatland Tower;Major Terrain;Other;0
+Flatland City;Major Terrain;Other;1
+Flatland Standing Stone;Major Terrain;Other;1
+Flatland Temple;Major Terrain;Other;1
+Wasteland Tower;Major Terrain;Other;0
+Wasteland City;Major Terrain;Other;1
+Wasteland Standing Stone;Major Terrain;Other;0
+Wasteland Temple;Major Terrain;Other;0
+Feyland Tower;Major Terrain;Other;1
+Feyland City;Major Terrain;Other;0
+Feyland Standing Stone;Major Terrain;Other;0
+Feyland Temple;Major Terrain;Other;0
+Coastland Bridge;Minor Terrain;Other;0
+Coastland Knoll;Minor Terrain;Other;1
+Coastland Woods;Minor Terrain;Other;0
+Coastland Village;Minor Terrain;Other;0
+Highland Bridge;Minor Terrain;Other;0
+Highland Knoll;Minor Terrain;Other;0
+Highland Woods;Minor Terrain;Other;1
+Highland Village;Minor Terrain;Other;0
+Swampland Bridge;Minor Terrain;Other;0
+Swampland Knoll;Minor Terrain;Other;0
+Swampland Woods;Minor Terrain;Other;1
+Swampland Village;Minor Terrain;Other;0
+Flatland Bridge;Minor Terrain;Other;1
+Flatland Knoll;Minor Terrain;Other;0
+Flatland Woods;Minor Terrain;Other;0
+Flatland Village;Minor Terrain;Other;0
+Wasteland Bridge;Minor Terrain;Other;0
+Wasteland Knoll;Minor Terrain;Other;0
+Wasteland Woods;Minor Terrain;Other;0
+Wasteland Village;Minor Terrain;Other;1
+Feyland Bridge;Minor Terrain;Other;1
+Feyland Knoll;Minor Terrain;Other;0
+Feyland Woods;Minor Terrain;Other;0
+Feyland Village;Minor Terrain;Other;0
+Deadland Bridge;Minor Terrain;Other;1
+Deadland Knoll;Minor Terrain;Other;1
+Deadland Woods;Minor Terrain;Other;2
+Deadland Village;Minor Terrain;Other;1
+Coastland Castle;Special Terrain;Other;0
+Coastland Dragon's Lair;Special Terrain;Other;0
+Coastland Grove;Special Terrain;Other;0
+Coastland Vortex;Special Terrain;Other;0
+Highland Castle;Special Terrain;Other;0
+Highland Dragon's Lair;Special Terrain;Other;0
+Highland Grove;Special Terrain;Other;0
+Highland Vortex;Special Terrain;Other;0
+Swampland Castle;Special Terrain;Other;0
+Swampland Dragon's Lair;Special Terrain;Other;0
+Swampland Grove;Special Terrain;Other;0
+Swampland Vortex;Special Terrain;Other;0
+Flatland Castle;Special Terrain;Other;0
+Flatland Dragon's Lair;Special Terrain;Other;0
+Flatland Grove;Special Terrain;Other;0
+Flatland Vortex;Special Terrain;Other;0
+Wasteland Castle;Special Terrain;Other;0
+Wasteland Dragon's Lair;Special Terrain;Other;0
+Wasteland Grove;Special Terrain;Other;0
+Wasteland Vortex;Special Terrain;Other;0
+Feyland Castle;Special Terrain;Other;0
+Feyland Dragon's Lair;Special Terrain;Other;0
+Feyland Grove;Special Terrain;Other;0
+Feyland Vortex;Special Terrain;Other;0
