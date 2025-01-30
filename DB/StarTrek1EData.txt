@@ -21,6 +21,7 @@ Angelo Tassoni;Personnel;Non-Aligned;The Borg;56;55;4;0
 Aramax;Personnel;Cardassian;Mirror, Mirror;57,4833;;4;0
 Archer;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;606,5251,6049,6412,6775,7697,8061;;4;1
 Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;0
+Armus - Skin of Evil;Dilemma;Planet;Premiere;609,3587,4039,6050,6413,6776,7698,8062;;4;1
 Assault Vessel;Ship;Bajoran;Deep Space 9/Virtual Promos;59,4448,5822;;4;0
 Atul;Personnel;Klingon;The Dominion;60;;4;0
 Ayala;Personnel;Federation;Voyager;61;62;4;0
@@ -39,6 +40,7 @@ Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703,7625;;4;0
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
 Battle Cruiser;Ship;Romulan;Mirror, Mirror;71;3067;4;0
 Betazoid Gift Box;Artifact;;Premiere/Virtual Promos;7054,430,3476,3583,6328,6691;;2;1
+Birth of "Junior";Dilemma;Space;Premiere;441,6756,4040,6030,6393,7678,8042;;4;1
 Bochra;Personnel;Romulan;Premiere;731,6066,7714,6429,6792;;2;1
 Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
 Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;0
@@ -58,6 +60,7 @@ Cargo Bay;Site;;Rules of Acquisition/Homefront V;87,4462;;2;0
 Catalog Phenomena;Mission;Space;Voyager;88;;4;0
 Cavit;Personnel;Federation;Voyager;89;;4;0
 Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
+Chalnoth;Dilemma;Planet;Premiere;808,6070,6433,6796,7718,8082;;4;1
 Chief O'Brien;Personnel;Romulan;Blaze of Glory;91;;4;0
 Christopher Hobson;Personnel;Federation;Premiere;92,5980,6343,6706,7628;;4;0
 Collect Sample;Mission;Space;Rules of Acquisition;93;;4;0
@@ -66,12 +69,13 @@ Columbus;Ship;Federation;The Trouble with Tribbles;95;;4;0
 Combat Vessel;Ship;Non-Aligned;Premiere;96,5981,6344,6707,7629;;4;0
 Construct Depot;Mission;Space;The Dominion;97;;4;0
 Corez;Personnel;Kazon;Voyager;98;;4;0
+Cosmic String Fragment;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;881,6072,6435,6798,7126,7720,8084;;4;1
 Coutu;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;99,7104;;4;0
 Covert Installation;Mission;Planet;Premiere;885,6073,6436,6799;;2;1
 Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 Cravic Warship;Ship;Non-Aligned;Holodeck Adventures;101;;4;0
 Crewman Wilson;Personnel;Federation;Mirror, Mirror;102,4843;;4;0
-Crystalline Entity;Dilemma;Dual;Premiere;899,3588,6076,6439,6802;;4;1
+Crystalline Entity;Dilemma;Dual;Premiere;899,3588,6076,6439,6802;;4;3
 D'deridex Advanced;Ship;Romulan;The Dominion/Reflections;113,3581;;4;0
 D'deridex;Ship;Romulan;Premiere;112,5983,6346,6709,7631;;4;1
 D'Kora Marauder;Ship;Ferengi;Rules of Acquisition;117;;4;0
@@ -432,8 +436,16 @@ Tarellian Plague Ship;Dilemma;Space;Premiere;673,5644,6060,6423,6786,7708;;4;1
 Targ;Personnel;Klingon;Alternate Universe;380;;4;0
 Tarus;Personnel;Romulan;Premiere;381,6020,6383,6746,7668;;4;3
 Taul;Personnel;Romulan;Premiere;382,6021,6384,6747,7669;;4;1
+Taurik;Personnel;Federation;Premiere;383,6022,6385,6748,7670,8034;;4;0
+Taylor Moore;Personnel;Federation;Deep Space 9;384;;4;0
+Taymar Bern;Personnel;Bajoran;Mirror, Mirror;385,4832;;4;0
 Tebok;Personnel;Romulan;Premiere;2212,6283,6646,7009,7931;;2;1
+Telari;Personnel;Vidiian;Voyager;386;;4;0
+Telle;Personnel;Cardassian;The Dominion/Virtual Promos;387,5809;;4;0
+Temo'Zuma;Personnel;Dominion;The Dominion;388;;4;0
 Temporal Causality Loop;Dilemma;Space;Premiere;2218,6285,6648,7011,7933;;4;1
+Ten of Nineteen;Personnel;Borg;First Contact;389;;4;0
+Terran Outpost;Facility;Federation;Mirror, Mirror/Homefront VI;390,4700;;4;0
 The Traveler: Transcendence;Event;;Premiere/Virtual Promos;2286,5173,5652,6291,6654,7017,7939;;4;1
 Thei;Personnel;Romulan;Premiere;393,6023,6386,6749,7671;;4;1
 Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;1
@@ -466,12 +478,12 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,4074,5272,6026,6389,6752,7674,8038;;4;1
 Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 
-# Done through card 380
-#381-382
+# Done through card 390
 #393
 #400
 #407
 #430
+#441
 #445
 #556-557
 #561
@@ -479,12 +491,15 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #582
 #586
 #606
+#609
 #656
 #662
 #673
 #706
 #731
 #747
+#808
+#881
 #885
 #899
 #953
@@ -563,13 +578,13 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #3538-3539
 #3578
 #3580-3581
-#3583
+#3587-3583
 #3588
 #3617
 #3627
 #3839
 #3927
-#4041
+#4039-4041
 #4049
 #4052-4055
 #4060
@@ -603,13 +618,12 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #4668
 #4678
 #4697
-#4699
+#4699-4700
 #4702-4704
 #4706
 #4824
 #4828
-#4831
-#4833-4834
+#4831-4834
 #4843-4845
 #4848
 #4850
@@ -639,25 +653,27 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #5649-5650
 #5652
 #5655
+#5809
 #5817
 #5822
 #5824
 #5900-5901
 #5909-5912
 #5917
-#5966-6021
-#6023-6024
+#5966-6024
 #6026
+#6030
 #6032
 #6037-6038
 #6040
 #6044
 #6046-6047
-#6049
+#6049-6050
 #6057-6058
 #6060
 #6065-6066
-#6073
+#6070
+#6072-6073
 #6076
 #6082-6083
 #6085-6087
@@ -704,19 +720,20 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6299
 #6307-6308
 #6319
-#6328-6384
-#6386-6387
+#6328-6387
 #6389
+#6393
 #6395
 #6400-6401
 #6403
 #6407
 #6409-6410
-#6412
+#6412-6413
 #6420-6421
 #6423
 #6428-6429
-#6436
+#6433
+#6435-6436
 #6439
 #6445-6446
 #6448-6450
@@ -762,19 +779,20 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6662
 #6670-6671
 #6682
-#6691-6747
-#6749-6750
+#6691-6750
 #6752
+#6756
 #6758
 #6763-6764
 #6766
 #6770
 #6772-6773
-#6775
+#6775-6776
 #6783-6784
 #6786
 #6791-6792
-#6799
+#6796
+#6798-6799
 #6802
 #6808-6809
 #6811-6813
@@ -822,6 +840,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7045
 #7054-7058
 #7098-7120
+#7126
 #7131
 #7133
 #7147-7149
@@ -839,18 +858,20 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7527
 #7529
 #7613
-#7615-7669
-#7671-7672
+#7615-7672
 #7674
+#7678
 #7680
 #7685-7686
 #7688
 #7692
 #7694-7695
-#7697
+#7697-7698
 #7705-7706
 #7708
 #7713-7714
+#7718
+#7720
 #7730-7731
 #7733-7735
 #7747-7748
@@ -893,8 +914,12 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7955-7956
 #7967
 #8022-8023
+#8034
 #8038
-#8061
+#8042
+#8061-8062
+#8082
+#8084
 #8094
 #8130
 #8162

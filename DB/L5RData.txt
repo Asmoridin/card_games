@@ -221,6 +221,8 @@ Agasha Chieh • Experienced;Personality;Phoenix;Reign of Blood (Fixed);Rain of 
 Agasha Chieh;Personality;Phoenix;Broken Blades (Common);Four Winds (Gold);3;0
 Agasha Chieh;Personality;Phoenix;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Agasha Chisuzu;Personality;Phoenix;Drums of War (Uncommon);Age of Enlightenment (Lotus);3;0
+Agasha Dorai;Personality;Phoenix;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
+Agasha Dorai;Personality;Phoenix;Evil Portents (Common);Onyx Edition;3;0
 Agasha Fujita;Personality;Phoenix;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
 Agasha Fumihiro;Personality;Phoenix;Code of Bushido (Rare);Age of Enlightenment (Lotus);3;0
 Agasha Fumihiro;Personality;Phoenix;Code of Bushido (Rare);Rain of Blood (Diamond);3;0
@@ -360,6 +362,12 @@ Akodo Kakihara;Personality;Lion;Second City (Common);Destroyer War (Celestial);3
 Akodo Kamina;Personality;Lion;Second City (Uncommon)/Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
 Akodo Kamina;Personality;Lion;Second City (Uncommon);Destroyer War (Celestial);3;0
 Akodo Kaneka;Wind;;Gold Edition (Fixed);Four Winds (Gold);1;0
+Akodo Kano;Personality;Lion;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
+Akodo Katsumoto;Personality;Lion;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;0
+Akodo Kin;Personality;Lion;The Harbinger (Common);Destroyer War (Celestial);3;0
+Akodo Kisho;Personality;Lion;Emperor Edition (Fixed);Age of Conquest (Emperor);3;0
+Akodo Kitaka;Personality;Lion;Web of Lies (Common);Age of Enlightenment (Lotus);3;0
+Akodo Kitaka;Personality;Lion;Web of Lies (Common);Rain of Blood (Diamond);3;0
 Akodo Kurako;Personality;Lion;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Akodo Misaka;Personality;Lion;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Akodo Misaka;Personality;Lion;Evil Portents (Uncommon);Onyx Edition;3;0
@@ -546,8 +554,8 @@ Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);
 Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
 Deep Harbor;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Deep Harbor;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
-Defensive Fortificationl;Holding;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
-Defensive Fortificationl;Holding;;Evil Portents (Common);Onyx Edition;3;0
+Defensive Fortification;Holding;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;2
+Defensive Fortification;Holding;;Evil Portents (Common);Onyx Edition;3;0
 Defensive Memorial;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Defensive Memorial;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Defensive Memorial;Holding;;The Coming Storm (Common);A Brother's Destiny (Ivory Edition);3;0
@@ -685,8 +693,13 @@ Goblin "Barracks";Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twent
 Goblin "Barracks";Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Goblin Slingers;Follower;;Dark Allies (Common);Four Winds (Gold);3;0
 Goblin Slingers;Follower;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
-Goju Iaitsu;Personality;Spider;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
+Goblin Warmonger;Personality;Unaligned;Gold Edition (Common);Four Winds (Gold);3;0
+Goblin Warmonger;Personality;Unaligned;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
+Goblin Warmonger;Personality;Unaligned;Obsidian Edition (Common);Hidden Emperor (Jade);3;0
+Goju Iaitsu;Personality;Spider;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
 Goju Iaitsu;Personality;Spider;Evil Portents (Uncommon);Onyx Edition;3;0
+Goju Toriken;Personality;Spider;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
+Goju Toriken;Personality;Spider;Evil Portents (Common);Onyx Edition;3;0
 Goju Tsichu;Personality;Spider;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Goju Tsichu;Personality;Spider;The Blackest Storm (Fixed);Onyx Edition;3;0
 Grievous Wound;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -835,10 +848,22 @@ Kaiu Gairoa, Soul of Kaiu Genji;Personality;Crab;Onyx Edition (Fixed);Onyx Editi
 Kaiu Gairoa, Soul of Kaiu Genji;Personality;Crab;Onyx Edition (Fixed);Shattered Empire;3;0
 Kaiu Netsuko;Personality;Crab;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kaiu Netsuko;Personality;Crab;The Blackest Storm (Fixed);Onyx Edition;3;0
+Kakita Burei;Personality;Crane;Onyx Edition (Fixed);Onyx Edition;3;0
+Kakita Burei;Personality;Crane;Onyx Edition (Fixed);Shattered Empire;3;0
+Kakita Burei;Personality;Crane;The Coming Storm (Common);A Brother's Destiny (Ivory Edition);3;0
+Kakita Burei;Personality;Crane;The Coming Storm (Common);A Brother's Destiny (Twenty Festivals);3;0
+Kakita Daitsu • Experienced 2;Personality;Crane;Onyx Edition (Fixed);Onyx Edition;1;0
+Kakita Daitsu • Experienced 2;Personality;Crane;Onyx Edition (Fixed);Shattered Empire;1;0
+Kakita Karoe, Soul of Kakita Nara;Personality;Crane;Onyx Edition (Fixed);Onyx Edition;3;0
+Kakita Karoe, Soul of Kakita Nara;Personality;Crane;Onyx Edition (Fixed);Shattered Empire;3;0
 Kakita Kenjutsu School • Experienced;Holding;;Onyx Edition (Fixed);Onyx Edition;1;0
 Kakita Kenjutsu School • Experienced;Holding;;Onyx Edition (Fixed);Shattered Empire;1;0
+Kakita Koutetsu, Soul of Doji Hayaku;Personality;Crane;Onyx Edition (Fixed);Onyx Edition;3;0
+Kakita Koutetsu, Soul of Doji Hayaku;Personality;Crane;Onyx Edition (Fixed);Shattered Empire;3;0
 Kakita Seiyami;Personality;Crane;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kakita Seiyami;Personality;Crane;The Blackest Storm (Fixed);Onyx Edition;3;0
+Kakita Shinichi • Experienced 2;Personality;Crane;Onyx Edition (Fixed);Onyx Edition;1;0
+Kakita Shinichi • Experienced 2;Personality;Crane;Onyx Edition (Fixed);Shattered Empire;1;0
 Karda;Personality;Naga;Onyx Edition (Fixed);Onyx Edition;3;0
 Karda;Personality;Naga;Onyx Edition (Fixed);Shattered Empire;3;0
 Keisho;Personality;Unaligned;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;2
@@ -854,6 +879,8 @@ Kitra's Pride;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kitsu Toju;Personality;Lion;Obsidian Edition (Common)/Imperial Edition (Common)/Emerald Edition (Common);Clan Wars (Imperial);3;2
 Kitsuki Chotama;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kitsuki Chotama;Personality;Dragon;The Blackest Storm (Fixed);Onyx Edition;3;0
+Kitsuki Goto;Personality;Dragon;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
+Kitsuki Goto;Personality;Dragon;Evil Portents (Common);Onyx Edition;3;0
 Kitsuki Masamitsu • Experienced;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kitsuki Masamitsu • Experienced;Personality;Dragon;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kitsune Beiko • Experienced;Personality;Mantis;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -941,8 +968,16 @@ Militia Training Ground;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Militia Training Ground;Holding;;Words and Deeds (Rare);Race for the Throne (Samurai);3;0
 Mirror Armor;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Mirror Armor;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Mirumoto Asakura, Soul of Mirumoto Kijima;Personality;Dragon;Onyx Edition (Fixed);Onyx Edition;3;0
+Mirumoto Asakura, Soul of Mirumoto Kijima;Personality;Dragon;Onyx Edition (Fixed);Shattered Empire;3;0
 Mirumoto Daini;Personality;Dragon;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Mirumoto Daini;Personality;Dragon;Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
+Mirumoto Ezunuki, Soul of Mirumoto Ezuno;Personality;Dragon;Onyx Edition (Fixed);Onyx Edition;3;0
+Mirumoto Ezunuki, Soul of Mirumoto Ezuno;Personality;Dragon;Onyx Edition (Fixed);Shattered Empire;3;0
+Mirumoto Hichi, Soul of Mirumoto Kuroki;Personality;Dragon;Onyx Edition (Fixed);Onyx Edition;3;0
+Mirumoto Hichi, Soul of Mirumoto Kuroki;Personality;Dragon;Onyx Edition (Fixed);Shattered Empire;3;0
+Mirumoto Higashi;Personality;Dragon;Onyx Edition (Fixed);Onyx Edition;3;0
+Mirumoto Higashi;Personality;Dragon;Onyx Edition (Fixed);Shattered Empire;3;0
 Mirumoto Hitomi;Personality;Dragon/Toturi's Army;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Mirumoto Hitomi;Personality;Dragon/Toturi's Army;Obsidian Edition (Common);Hidden Emperor (Jade);3;0 # Due to Jade Extended rules
 Mirumoto Sadahachi;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -959,6 +994,8 @@ Moto Shai-Tan;Personality;Unaligned;The Blackest Storm (Fixed);A Brother's Desti
 Moto Shai-Tan;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Edition;3;0
 Moto Taosu;Personality;Unicorn;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Moto Taosu;Personality;Unicorn;The Blackest Storm (Fixed);Onyx Edition;3;0
+Moto Tsume;Personality;Unaligned;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;1
+Moto Tsume;Personality;Unaligned;Obsidian Edition (Uncommon);Hidden Emperor (Jade);3;0
 Mouth of Jigoku;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Mouth of Jigoku;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Muri;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -1186,8 +1223,12 @@ Shinden Hisui no Taiyo;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (
 Shinden Hisui no Taiyo;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Shingo Riding Stables • Experienced;Holding;;Onyx Edition (Fixed);Onyx Edition;1;0
 Shingo Riding Stables • Experienced;Holding;;Onyx Edition (Fixed);Shattered Empire;1;0
+Shinjo Hanari;Personality;Unicorn;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;2
+Shinjo Hanari;Personality;Unicorn;Storms Over Matsu Palace (Fixed);Hidden Emperor (Jade);3;0
 Shinjo Saeki • Experienced;Personality;Unicorn;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shinjo Saeki • Experienced;Personality;Unicorn;The Blackest Storm (Fixed);Onyx Edition;3;0
+Shinjo Yasamura;Personality;Unicorn;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;3
+Shinjo Yasamura;Personality;Unicorn;Obsidian Edition (Common);Hidden Emperor (Jade);3;0
 Shinjo Yokatsu • Inexperienced;Personality;Unicorn;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);1;1
 Shinjo Yokatsu • Inexperienced;Personality;Unicorn;Scorpion Clan Coup 1 (Uncommon);Hidden Emperor (Jade);1;0
 Shinjo's Courage;Strategy;;Dawn of the Empire (Fixed);Age of Enlightenment (Lotus);3;0
@@ -1209,6 +1250,8 @@ Shosuro Dokumaro;Personality;Scorpion;The Blackest Storm (Fixed);Onyx Edition;3;
 Shosuro Lineage;Strategy;;Honor's Veil (Uncommon);Race for the Throne (Samurai);3;3
 Shosuro Narami;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shosuro Narami;Personality;Scorpion;The Blackest Storm (Fixed);Onyx Edition;3;0
+Shosuro Ozu;Personality;Scorpion;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
+Shosuro Ozu;Personality;Scorpion;Evil Portents (Common);Onyx Edition;3;0
 Shosuro Saigyo • Experienced;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shosuro Saigyo • Experienced;Personality;Scorpion;The Blackest Storm (Fixed);Onyx Edition;3;0
 Shout of Challenge;Strategy;;Samurai Edition (Common);Race for the Throne (Samurai);3;1
@@ -1354,10 +1397,14 @@ The Face of Fear;Strategy;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
 The Face of Fear;Strategy;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 The Face of Fear;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 The Face of Fear;Strategy;;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
+The Feeding Hills;Holding;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
+The Feeding Hills;Holding;;Evil Portents (Uncommon);Onyx Edition;3;0
 The First Scroll Is Opened;Event;;Promotional–CWF (Promo);Hidden Emperor (Jade);1;0
 The First Scroll Is Opened;Event;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);1;1
 The Ikoma Halls;Holding;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
 The Ikoma Halls;Holding;;Evil Portents (Common);Onyx Edition;3;0
+The Iron Mountain School;Holding;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
+The Iron Mountain School;Holding;;Evil Portents (Common);Onyx Edition;3;0
 The Ivory Courtroom;Holding;;A Line in the Sand (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 The Ivory Courtroom;Holding;;A Line in the Sand (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 The Ivory Courtroom;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
@@ -1403,6 +1450,9 @@ Toshi Ranbo;Region;;Stronger Than Steel (Rare);Race for the Throne (Samurai);1;1
 Training Court;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Training Court;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 True Strength;Strategy;;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;1
+Tsuburu no Oni;Personality;Unaligned;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Tsuburu no Oni;Personality;Unaligned;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;1
+Tsuburu no Oni;Personality;Unaligned;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
 Tsuno Blade;Item;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Four Winds (Gold);3;0
 Tsuno Blade;Item;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Tsuruchi Kaito • Experienced;Personality;Mantis;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -1536,7 +1586,7 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Editi
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 
-# Done through card #225
+# Done through card #230
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 # Finished Page 4 Onyx Edition
@@ -1590,6 +1640,7 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #2786
 #2807
 #2835
+#2840
 #2923
 #2925
 #2969
@@ -1630,6 +1681,7 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #5079
 #5097
 #5153
+#5387
 #5451
 #5483
 #5497
@@ -1667,6 +1719,8 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #6769
 #6822
 #6825
+#6878
+#6966
 #6970
 #6976
 #6999
@@ -1720,6 +1774,7 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #8599
 #8661
 #8759
+#8771
 #8795
 #8946-8947
 #8956
@@ -1758,7 +1813,7 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #11561
 #11717
 #11722-11723
-#11736
+#11736-11737
 #11869
 #11874-11876
 #11880-11881
@@ -1766,18 +1821,16 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #12425
 #12429
 #12431
-#12435
-#12437
-#12439-12440
+#12435-12440
 #12443
 #12445
+#12453
 #12458
 #12460
 #12466
-#12471-12472
+#12470-12472
 #12476-12477
-#12481
-#12485
-#12487
+#12480-12481
+#12485-12487
 #12489
 #12492
