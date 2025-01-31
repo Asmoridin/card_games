@@ -6,6 +6,8 @@ Summarizes the current collection status of all tracked card/dice games
 
 import os
 
+from steve_utils.output_utils import double_print
+
 from card_games.list_scripts import anachronism
 from card_games.list_scripts import wyvern
 from card_games.list_scripts import lorcana
@@ -21,9 +23,6 @@ from card_games.list_scripts import star_wars_unlimited
 from card_games.list_scripts import tribbles
 from card_games.list_scripts import magic_gathering
 from card_games.list_scripts import l5r
-
-from steve_utils.output_utils import double_print
-
 
 if os.getcwd().endswith('card_games'):
     in_file = open("DB/NewCardGames.txt", encoding="UTF-8")

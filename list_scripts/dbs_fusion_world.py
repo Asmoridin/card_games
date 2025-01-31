@@ -24,6 +24,16 @@ class Deck:
         self.deck_name = deck_name
         self.deck_cards = deck_cards
         self.deck_color = deck_color
+    def get_cards(self):
+        """
+        Returns a dictionary of cards
+        """
+        return self.deck_cards
+    def get_color(self):
+        """
+        Return deck color(s)
+        """
+        return self.deck_color
 
 def read_decks(in_deck_lists, all_cards):
     """

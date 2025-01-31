@@ -76,6 +76,7 @@ Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 Cravic Warship;Ship;Non-Aligned;Holodeck Adventures;101;;4;0
 Crewman Wilson;Personnel;Federation;Mirror, Mirror;102,4843;;4;0
 Crystalline Entity;Dilemma;Dual;Premiere;899,3588,6076,6439,6802;;4;3
+Cytherians;Dilemma;Space;Premiere/Virtual Promos;906,3537,5572,6078,6441,6804,7726,8090;;4;1 # 1 PREM
 D'deridex Advanced;Ship;Romulan;The Dominion/Reflections;113,3581;;4;0
 D'deridex;Ship;Romulan;Premiere;112,5983,6346,6709,7631;;4;1
 D'Kora Marauder;Ship;Ferengi;Rules of Acquisition;117;;4;0
@@ -118,6 +119,7 @@ Eight of Eighteen;Personnel;Borg;The Borg;138;;4;0
 Eight of Fifteen;Personnel;Borg;The Borg;139;;4;0
 Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
 Eighteen of Nineteen;Personnel;Borg;First Contact;141;;4;0
+El-Adrel Creature;Dilemma;Planet;Premiere;1086,6097,6460,6823,7745,8109;;4;1
 Eleven of Eighteen;Personnel;Borg;The Borg;142;;4;0
 Eleven of Nineteen;Personnel;Borg;First Contact;143;;4;0
 Eleven of Seventeen;Personnel;Borg;Enhanced First Contact;144;;4;0
@@ -139,8 +141,10 @@ Expose Covert Supply;Mission;Planet;Premiere/Homefront;1175,3518,6116,6479,6842;
 Extraction;Mission;Planet;Premiere;1177,6117,6480,6843;;2;1
 Federation Outpost;Facility;Federation;Premiere/Homefront VI/Trouble with Tribbles Starter Decks;1189,4049,4699,6118,6481,6844,7133,7766,8130;;4;1
 Fek'lhr;Personnel;Klingon;Premiere;153,5989,6352,6715,7637;;4;0
+Female's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1194,1196,6120,6483,6846,7134,7768,8132;;4;1 # have 1 PREM
 Ferengi Shuttle;Ship;Ferengi;Rules of Acquisition;154;;4;0
 Fifteen of Seventeen;Personnel;Borg;First Contact;155;;4;0
+Firestorm;Dilemma;Planet;Premiere;1218,6122,6485,6848,7770,8134;;4;1
 Five of Eleven;Personnel;Borg;First Contact;156;;4;0
 Flaxian Scout Vessel;Ship;Non-Aligned;Deep Space 9;157;;4;0
 Fontaine;Personnel;Non-Aligned;Mirror, Mirror;42;;2;0
@@ -163,6 +167,7 @@ Gorath;Personnel;Klingon;Premiere;171,5992,6355,6718,7640;;4;0
 Gorrus;Personnel;Romulan;Mirror, Mirror;172;;4;0
 Gorta;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;173,5993,6356,6719,7108,7641;;4;0
 Graham Davis;Personnel;Federation;Deep Space 9;174;;4;0
+Gravitic Mine;Dilemma;Space;Premiere;1270,6130,6493,6856,7778,8142;;4;1
 Guest Quarters;Site;;Deep Space 9/Homefront V;175,4470;;2;0
 Gurat'urak;Personnel;Dominion;The Dominion;176;;4;0
 H.M.S. Bounty;Ship;Federation;The Motion Pictures/Virtual Promos;4662, 7251, 1278;1;2;0
@@ -423,6 +428,7 @@ Sumek;Personnel;Hirogen;Holodeck Adventures;368;367;4;0
 Suna;Personnel;Non-Aligned;Official Tournament Sealed Deck/Virtual Promos;369,5817,5901;;4;0
 Sunad;Personnel;Non-Aligned;All Good Things;370,4073,2611;;2;0
 Survey Star System;Mission;Space;Deep Space 9/Homefront IV;371;;4;0
+T'Lor;Personnel;Federation;Deep Space 9;399;;4;0
 Taar;Personnel;Ferengi;Rules of Acquisition/Coming of Age;372;;4;0
 Tagus;Personnel;Romulan;Mirror, Mirror;373;;4;0
 Tahglio;Personnel;Federation;The Motion Pictures;374,7204;;4;0
@@ -446,9 +452,16 @@ Temo'Zuma;Personnel;Dominion;The Dominion;388;;4;0
 Temporal Causality Loop;Dilemma;Space;Premiere;2218,6285,6648,7011,7933;;4;1
 Ten of Nineteen;Personnel;Borg;First Contact;389;;4;0
 Terran Outpost;Facility;Federation;Mirror, Mirror/Homefront VI;390,4700;;4;0
+Test Propulsion Systems;Mission;Space;Official Tournament Sealed Deck;391,4826,5913;;4;0
+Thaden;Personnel;Vidiian;Voyager;392;;4;0
 The Traveler: Transcendence;Event;;Premiere/Virtual Promos;2286,5173,5652,6291,6654,7017,7939;;4;1
 Thei;Personnel;Romulan;Premiere;393,6023,6386,6749,7671;;4;1
+Thenelak;Personnel;Romulan;The Borg;394;;4;0
+Thirteen of Nineteen;Personnel;Borg;First Contact;395;;4;0
+Thompson;Personnel;Federation;Voyager;396;397;4;0
+Thompson;Personnel;Non-Aligned;Voyager;397;396;4;0
 Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;1
+Three of Nineteen;Personnel;Borg;First Contact;398;;4;0
 Tokath;Personnel;Romulan;Premiere;2300,6294,6657,7020,7942;;2;1
 Tomalak;Personnel;Romulan;Premiere/Virtual Promo;2303,4892,6295,6658,7021,7943;;2;1
 Tomek;Personnel;Romulan;Premiere;400,6024,6387,6750,7672;;4;2
@@ -478,9 +491,7 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,4074,5272,6026,6389,6752,7674,8038;;4;1
 Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 
-# Done through card 390
-#393
-#400
+# Done through card 400
 #407
 #430
 #441
@@ -502,6 +513,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #881
 #885
 #899
+#906
 #953
 #958
 #980
@@ -509,6 +521,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #1005
 #1029
 #1056
+#1086
 #1109
 #1114-1115
 #1144-1145
@@ -517,7 +530,11 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #1175
 #1177
 #1189
+#1194
+#1196
+#1218
 #1253
+#1270
 #1278
 #1378
 #1390
@@ -575,7 +592,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #3513
 #3518
 #3529
-#3538-3539
+#3537-3539
 #3578
 #3580-3581
 #3587-3583
@@ -622,6 +639,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #4702-4704
 #4706
 #4824
+#4826
 #4828
 #4831-4834
 #4843-4845
@@ -644,6 +662,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #5435-5438
 #5449
 #5503-5504
+#5572
 #5591
 #5595
 #5597
@@ -658,7 +677,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #5822
 #5824
 #5900-5901
-#5909-5912
+#5909-5913
 #5917
 #5966-6024
 #6026
@@ -675,15 +694,20 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6070
 #6072-6073
 #6076
+#6078
 #6082-6083
 #6085-6087
 #6091
 #6094
+#6097
 #6099-6100
 #6106-6107
 #6110
 #6115-6118
+#6120
+#6122
 #6128
+#6130
 #6146-6148
 #6150
 #6156
@@ -735,15 +759,20 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6433
 #6435-6436
 #6439
+#6441
 #6445-6446
 #6448-6450
 #6454
 #6457
+#6460
 #6462-6463
 #6469-6470
 #6473
 #6478-6481
+#6483
+#6485
 #6491
+#6493
 #6509-6511
 #6513
 #6519
@@ -794,15 +823,20 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6796
 #6798-6799
 #6802
+#6804
 #6808-6809
 #6811-6813
 #6817
 #6820
+#6823
 #6825-6826
 #6832-6833
 #6836
 #6841-6844
+#6846
+#6848
 #6854
+#6856
 #6872-6874
 #6876
 #6882
@@ -842,7 +876,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7098-7120
 #7126
 #7131
-#7133
+#7133-7134
 #7147-7149
 #7159
 #7164
@@ -872,13 +906,18 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7713-7714
 #7718
 #7720
+#7726
 #7730-7731
 #7733-7735
+#7745
 #7747-7748
 #7754-7755
 #7758
 #7766
+#7768
+#7770
 #7776
+#7778
 #7795-7796
 #7798
 #7804
@@ -920,8 +959,13 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #8061-8062
 #8082
 #8084
+#8090
 #8094
+#8109
 #8130
+#8132
+#8134
+#8142
 #8162
 #8183-8184
 #8311

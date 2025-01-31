@@ -51,7 +51,7 @@ for id_line in id_lines:
     id_total_plays[identity_name] = 0
     seen_total[identity_name] = 0
     do_formats = ['Extended']
-    if id_format == 'Standard' or id_format == 'Startup':
+    if id_format in ['Standard', 'Startup']:
         do_formats.append('Standard')
     if id_format == 'Startup':
         do_formats.append('Startup')

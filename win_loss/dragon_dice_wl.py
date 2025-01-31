@@ -8,7 +8,7 @@ import os
 
 from steve_utils.output_utils import double_print
 from steve_utils.get_h_index import get_h_index
-import card_games.list_scripts.dragon_dice as dragon_dice
+from card_games.list_scripts import dragon_dice
 
 if os.getcwd().endswith('card_games'):
     out_file_h = open("wl_output/DragonDiceWLOut.txt", 'w', encoding="UTF-8")

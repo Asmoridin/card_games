@@ -434,6 +434,8 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 card_names = set()
 creature_types = {}
+PLANESWALKER_COUNT = 0
+planeswalkers = {}
 
 for line in lines:
     if line == '' or line.startswith('#'):
@@ -456,11 +458,20 @@ for line in lines:
     card_colors = validate_colors(card_colors)
     card_type = card_type.replace('—', '-')
     card_type, card_subtype = validate_types(card_type)
+
     if 'Creature' in card_type:
         for subtype in card_subtype:
             if subtype not in creature_types:
                 creature_types[subtype] = 0
             creature_types[subtype] += 1
+
+    if 'Planeswalker' in card_type:
+        for subtype in card_subtype:
+            if subtype not in planeswalkers:
+                planeswalkers[subtype] = []
+            planeswalkers[subtype].append(card_name)
+            PLANESWALKER_COUNT += 1
+
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
@@ -646,6 +657,9 @@ if __name__ == "__main__":
     if len(one_ofs) > 0:
         double_print("Following creature types have only one entry:", out_file_h)
         double_print(str(sorted(one_ofs)), out_file_h)
+
+    double_print(f"\n{PLANESWALKER_COUNT} total Planesalker cards in the game.", out_file_h)
+    print(planeswalkers)
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)

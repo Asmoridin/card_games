@@ -27,15 +27,14 @@ def get_meta_type(in_type):
     """
     if in_type in army_factions:
         return 'Unit'
-    elif in_type in ['Special Terrain', 'Major Terrain', 'Minor Terrain']:
+    if in_type in ['Special Terrain', 'Major Terrain', 'Minor Terrain']:
         return 'Terrain'
-    elif in_type in ['Items', 'Medallion', 'Relics']:
+    if in_type in ['Items', 'Medallion', 'Relics']:
         return 'Item'
-    elif in_type in ['Dragons', 'Dragonkin']:
+    if in_type in ['Dragons', 'Dragonkin']:
         return 'Dragon'
-    else:
-        print("Unhandled meta type: " + in_type)
-        return 'Unhandled'
+    print("Unhandled meta type: " + in_type)
+    return 'Unhandled'
 
 if os.getcwd().endswith('card_games'):
     file_h = open('DB/DragonDiceCollection.txt', 'r', encoding="UTF-8")

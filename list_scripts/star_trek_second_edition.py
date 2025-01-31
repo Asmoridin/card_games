@@ -152,7 +152,7 @@ chosen_set, filtered_lines = sort_and_filter(filter_lines, 1)
 chosen_card_type, filtered_lines = sort_and_filter(filtered_lines, 2)
 
 # For certain type, sort/filter by affiliation
-if chosen_card_type == 'Ship' or chosen_card_type == 'Personnel':
+if chosen_card_type in ['Ship', 'Personnel']:
     chosen_affil, filtered_lines = sort_and_filter(filtered_lines, 3)
     #print(chosen_affil)
 

@@ -43,19 +43,11 @@ def validate_powers(in_power):
         'Earth Control', 'Devices', 'Dark Miasma', 'Dark Melee', 'Dark Blast', 'Dark Armor',
         'Common Pool', 'Claws', 'Broad Sword', 'Battle Axe', 'Assault Rifle', 'Archery'
     ]
-    if in_power in valid_powers:
-        return in_power
-    if in_power.replace(' 1', '') in valid_powers:
-        return in_power.replace(' 1', '')
-    if in_power.replace(' 2', '') in valid_powers:
-        return in_power.replace(' 2', '')
-    if in_power.replace(' 3', '') in valid_powers:
-        return in_power.replace(' 3', '')
-    if in_power.replace(' 4', '') in valid_powers:
-        return in_power.replace(' 4', '')
-    if in_power.replace(' 6', '') in valid_powers:
-        return in_power.replace(' 6', '')
-    print("Invalid Power: " + in_power)
+    ret_power = in_power.replace(' 1', '').replace(' 2', '').replace(' 3', '')
+    ret_power = ret_power.replace(' 4', '').replace(' 6', '')
+    if ret_power in valid_powers:
+        return ret_power
+    print("Invalid Power: " + ret_power)
     return None
 
 if os.getcwd().endswith('card_games'):
