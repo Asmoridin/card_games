@@ -23,7 +23,7 @@ PREGAME_TYPES = ['Stronghold', 'Sensei', 'Wind']
 
 VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling', 'Scorpion', 'Crab', 'Crane', 'Dragon', 'Mantis',
     'Phoenix', 'Spider', 'Naga', 'Unaligned', 'Unicorn', 'Brotherhood of Shinsei', "Toturi's Army",
-    ]
+    'Ninja']
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
@@ -124,7 +124,7 @@ for line in in_lines:
     this_card_clans = []
     for check_clan in card_clan.split('/'):
         if check_clan != '' and check_clan not in VALID_CLANS:
-            print(f"Invalid clan: {card_clan}")
+            print(f"Invalid clan: {check_clan}")
             continue
         this_card_clans.append(check_clan)
     card_sets, card_rarities, modern_legal = parse_sets(card_name, card_sets)
