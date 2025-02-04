@@ -14,8 +14,10 @@ GAME_NAME = "Legend of the Five Rings"
 
 if os.getcwd().endswith('card_games'):
     file_h = open('DB/L5RData.txt', 'r', encoding="UTF-8")
+    OUT_FILE_NAME = "output/L5ROut.txt"
 else:
     file_h = open('card_games/DB/L5RData.txt', 'r', encoding="UTF-8")
+    OUT_FILE_NAME = "card_games/output/L5ROut.txt"
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality', 'Celestial']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor', 'Ring']
@@ -23,7 +25,7 @@ PREGAME_TYPES = ['Stronghold', 'Sensei', 'Wind']
 
 VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling', 'Scorpion', 'Crab', 'Crane', 'Dragon', 'Mantis',
     'Phoenix', 'Spider', 'Naga', 'Unaligned', 'Unicorn', 'Brotherhood of Shinsei', "Toturi's Army",
-    'Ninja']
+    'Ninja', 'Spirit', ]
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
@@ -245,10 +247,7 @@ _, filtered_list = sort_and_filter(filtered_list, 5)
 card_name, filtered_list = sort_and_filter(filtered_list, 0)
 
 if __name__=="__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/L5ROut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/L5ROut.txt", 'w', encoding="UTF-8")
+    out_file_h = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
 
     double_print("Legend of the Five Rings CCG Inventory Tracker Tool\n", out_file_h)
     double_print(f"There are {len(card_names)} distinct cards in the game.", out_file_h)

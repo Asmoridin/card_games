@@ -117,7 +117,9 @@ card_own_dict = {}
 NUM_LEADERS = 0
 OWN_LEADERS = 0
 for line in lines:
-    line = line.split('#')[0]
+    line = line.split('#')[0].strip()
+    if line == "":
+        continue
     try:
         card_name, card_subtypes, card_type, card_color, card_cost, card_number, card_set, \
             card_own = line.split(';')

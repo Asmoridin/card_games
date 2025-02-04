@@ -130,6 +130,7 @@ Enhanced Attack Ship;Ship;Dominion;Mirror, Mirror;146;;4;0
 Ensign Davis;Personnel;Federation;Mirror, Mirror;147,4844;;4;0
 Ensign Gaffney;Personnel;Federation;Mirror, Mirror;148,4845;;4;0
 Eris;Personnel;Dominion;The Dominion;149,4421;;4;0
+Escape Pod;Interrupt;;Premiere/Voyager/Homefront VI;1129,1130,4711,6103,6466,6829,7751,8115;;4;1 # Have 1 PREM
 Espionage: Romulan on Federation;Event;;Premiere;1144,6106,6469,6832,7754;;4;1
 Espionage: Romulan on Klingon;Event;;Premiere;1145,6107,6470,6833,7755;;4;1
 Establish Relations;Mission;Planet;Official Tournament Sealed Deck;150,5900;;4;0
@@ -341,6 +342,7 @@ Palteth;Personnel;Romulan;Premiere/Coming of Age;295,5449,6009,6372,6735,7657;;4
 Pardek;Personnel;Romulan;Premiere;1846,6229,6592,6955,7877;;2;1
 Parem;Personnel;Romulan;Premiere;1847,6230,6593,6956,7878;;2;1
 Parn;Personnel;Cardassian;Deep Space 9;297,4418;;4;0
+Particle Fountain;Interrupt;;Premiere;1849,6231,6594,6957,7879,8243;;4;2
 Patrol Neutral Zone;Mission;Space;First Contact;298,5650;;4;0
 Patrol Ship;Ship;Cardassian;Rules of Acquisition;299,4450;;4;0
 Paul Rice;Personnel;Federation;Alternate Universe;300;;4;0
@@ -354,7 +356,7 @@ Prak;Personnel;Ferengi;Rules of Acquisition;305;;4;0
 Pralor Unit 6263;Personnel;Non-Aligned;Holodeck Adventures;306;;4;0
 Pralor Warship;Ship;Non-Aligned;Holodeck Adventures;307;;4;0
 Prylar Mond;Personnel;Bajoran;Deep Space 9;308;;4;0
-Q;Dilemma;Dual;Premiere/Homefront VI;1919,3538,4668,6239,6602,6965,7887;;4;0 # Have one needing errata
+Q;Dilemma;Dual;Premiere/Homefront VI;1919,3538,4668,6239,6602,6965,7887;;4;0 # Have two needing errata
 Qol;Personnel;Ferengi;Rules of Acquisition;309;;4;0
 R'Mal;Personnel;Romulan;Blaze of Glory;324;;4;0
 Rabek;Personnel;Kazon;Voyager;310;;4;0
@@ -368,7 +370,7 @@ Rebel Encounter;Dilemma;Planet;Premiere;1962,6970,6244,6607,7892;;4;1
 Rebel Interceptor;Ship;Federation;Mirror, Mirror;316,4873;;4;0
 Regnor;Personnel;Klingon;The Motion Pictures;317,7197;;4;0
 Rekelen;Personnel;Cardassian;Deep Space 9;318,4420;;4;0
-REM Fatigue Hallucinations;Dilemma;Dual;Premiere;1989,6611,6248,6974,7896;;4;0 # Have 2 needing errata
+REM Fatigue Hallucinations;Dilemma;Dual;Premiere;1989,6611,6248,6974,7896;;4;0 # Have 3 needing errata
 Repair Mission;Mission;Space;Premiere;1997,6249,6612,6975,7897;;2;1
 Res-Q;Event;;Premiere/Trouble with Tribbles Starter Decks;2007,5267,6250,6613,6976,7898;;4;1
 Richard Wilkins;Personnel;Federation;First Contact;319;;4;0
@@ -397,7 +399,7 @@ Sela;Personnel;Romulan;Premiere;2089,3578,6262,6625,6988,7910;;2;1
 Selok;Personnel;Romulan;Premiere;339,6013,6376,6739,7661;;4;1
 Sethis;Personnel;Vidiian;Voyager;340;;4;0
 Seventeen of Eighteen;Personnel;Borg;The Borg;341;;4;0
-Shaka, When the Walls Fell;Dilemma;Dual;Premiere;2106,6263,6626,6989,7911;;4;2
+Shaka, When the Walls Fell;Dilemma;Dual;Premiere;2106,6263,6626,6989,7911;;4;3
 Shandor;Personnel;Bajoran;All Good Things;342;;4;0
 Sharic;Personnel;Non-Aligned;The Motion Pictures;343,7200;;4;0
 Ship Seizure;Interrupt;;Premiere;2115,6265,6628,6991,7913;;4;1
@@ -503,9 +505,19 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 Venatic Hunter;Ship;Hirogen;The Borg;408;;4;0
 Vidiian Cruiser;Ship;Vidiian;Voyager/Borderless Promos;409,5599;;4;0
 Vidiian Interceptor;Ship;Vidiian;Voyager;410;;4;0
+Vidiian Outpost;Facility;Vidiian;Voyager/Homefront VI;411,4707;;4;0
+Vidiian Scout Vessel;Ship;Vidiian;Voyager;412;;4;0
+Virak'kara;Personnel;Dominion;The Dominion;413;;4;0
+Voight;Personnel;Federation;The Motion Pictures;414,7205;;4;0
+Voktak;Personnel;Klingon;Blaze of Glory;415;;4;0
+Vornar;Personnel;Cardassian;Holodeck Adventures;416;;4;0
+Vulcan Lander;Ship;Non-Aligned;First Contact;417;;4;0
 Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
+Vurond;Personnel;Hirogen;The Borg;418;;4;0
+Wajahut;Personnel;Non-Aligned;The Motion Pictures;419,7206;;4;0
+Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 
-# Done through card 410
+# Done through card 420
 #430
 #441
 #445
@@ -537,6 +549,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #1086
 #1109
 #1114-1115
+#1129-1130
 #1144-1145
 #1159
 #1172
@@ -576,6 +589,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #1806
 #1810
 #1846-1847
+#1849
 #1863
 #1887
 #1919
@@ -654,7 +668,8 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #4697
 #4699-4700
 #4702-4704
-#4706
+#4706-4707
+#4711
 #4824
 #4826
 #4828
@@ -718,6 +733,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6094
 #6097
 #6099-6100
+#6103
 #6106-6107
 #6110
 #6115-6118
@@ -742,7 +758,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6222
 #6225
 #6227
-#6229-6230
+#6229-6231
 #6234
 #6238-6239
 #6242
@@ -784,6 +800,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6457
 #6460
 #6462-6463
+#6466
 #6469-6470
 #6473
 #6478-6481
@@ -807,7 +824,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6585
 #6588
 #6590
-#6592-6593
+#6592-6594
 #6597
 #6601-6602
 #6605
@@ -849,6 +866,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6820
 #6823
 #6825-6826
+#6829
 #6832-6833
 #6836
 #6841-6844
@@ -872,7 +890,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #6948
 #6951
 #6953
-#6955-6956
+#6955-6957
 #6960
 #6964-6965
 #6968
@@ -903,7 +921,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7164
 #7168
 #7180
-#7183-7204
+#7183-7206
 #7251
 #7327
 #7511
@@ -931,6 +949,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7733-7735
 #7745
 #7747-7748
+#7751
 #7754-7755
 #7758
 #7766
@@ -954,7 +973,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #7870
 #7873
 #7875
-#7877-7878
+#7877-7879
 #7882
 #7886-7887
 #7890
@@ -985,6 +1004,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #8090
 #8094
 #8109
+#8115
 #8130
 #8132
 #8134
@@ -996,4 +1016,5 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 #8199
 #8220
 #8222
+#8243
 #8311

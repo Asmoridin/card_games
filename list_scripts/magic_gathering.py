@@ -658,8 +658,11 @@ if __name__ == "__main__":
         double_print("Following creature types have only one entry:", out_file_h)
         double_print(str(sorted(one_ofs)), out_file_h)
 
-    double_print(f"\n{PLANESWALKER_COUNT} total Planesalker cards in the game.", out_file_h)
-    print(planeswalkers)
+    double_print(f"\n{len(planeswalkers)} total Planeswalkers in the game.", out_file_h)
+    double_print(f"{PLANESWALKER_COUNT} total Planeswalker cards in the game.", out_file_h)
+    for pw_name, pw_cards in sorted(planeswalkers.items()):
+        pw_str = f"{pw_name} ({len(pw_cards)}): {", ".join(sorted(pw_cards))}"
+        double_print(pw_str, out_file_h)
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)
