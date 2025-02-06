@@ -2367,9 +2367,9 @@ Portent;V;Event;;Unnatural Selection;Virtual;3;0
 Porthos;V/VP;Dilemma;;The Menagerie/Virtual Promo;Virtual;3;0
 Posturing;V;Interrupt;;Raise the Stakes;Virtual;3;0
 Power Loss;V;Event;;Balance of Terror;Virtual;3;3
-Power Shift;U/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
+Power Shift;U/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0 // Needs errata
 Power to the Shields;U;Interrupt;;Second Edition;Print;3;0
-Power to the Weapons;C;Event;;Energize;Print;3;0
+Power to the Weapons;C;Event;;Energize;Print;3;3
 Powerful Example;R;Interrupt;;Energize;Print;3;0
 Practical Evidence;V;Event;;Star Trek 50;Virtual;3;0
 Practice Orbital Maneuvers;U;Mission;;To Boldly Go;Print;2;0
@@ -2382,15 +2382,15 @@ Praxis, Offer Assistance;AP;Mission;;Timeless;Virtual;2;0
 Praxus;V;Personnel;Romulan;Second Chances;Virtual;3;0
 Precarious Position;V;Dilemma;;Strange Bedfellows;Virtual;3;0
 Precautionary Measures;U;Interrupt;;Energize;Print;3;0
-Precise Attack;U;Event;;Second Edition;Print;3;0
+Precise Attack;U;Event;;Second Edition;Print;3;3
 Predicament;U;Event;;In a Mirror Darkly;Print;3;0
 Predictable Response;V;Dilemma;;The Undiscovered Country;Virtual;3;0 // Reprint these
-Preeminent Precision;U;Event;;To Boldly Go;Print;3;0
+Preeminent Precision;U;Event;;To Boldly Go;Print;3;3
 Prefix Codes;C;Dilemma;;What You Leave Behind;Print;3;3
-Prejudice and Politics;U/VP;Event;;Second Edition/Virtual Promo;Both;3;0
+Prejudice and Politics;U/VP;Event;;Second Edition/Virtual Promo;Both;4;3 // Have 3 SE
 Preposterous Plan;V;Interrupt;;Matter of Time;Virtual;3;0
 Preservation Drone;C;Personnel;Borg;Call to Arms;Print;3;3
-Pressing On;V;Event;;Zero Hour;Virtual;3;0
+Pressing On;V;Event;;Zero Hour;Virtual;3;3
 Prevent Historical Disruption;V;Mission;;Matter of Time/Move Along Home;Virtual;2;0
 Preventative Repercussions;C;Dilemma;;In a Mirror Darkly;Print;3;0
 Preventative Ritual;U;Interrupt;;Captain's Log;Print;3;0
@@ -2398,7 +2398,7 @@ Primitive Culture;U;Dilemma;;Second Edition;Print;3;2
 Principled Stand;V;Event;;Heroes and Demons;Virtual;3;0
 Prison Compound;R/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Prisoner of the Exile;R;Dilemma;;What You Leave Behind;Print;3;1
-Process Identification;U;Event;;Second Edition;Print;3;0
+Process Identification;U;Event;;Second Edition;Print;3;3
 Proclamation of Doom;V;Dilemma;;All Our Yesterdays;Virtual;3;0
 Product Placement;V;Event;;Infinite Diversity Remastered;Virtual;3;0
 Professor Honey Bare, Way Too Smart for You;V/VP;Personnel;Non-Aligned;Second Chances/Virtual Promo;Virtual;3;0
@@ -2412,7 +2412,7 @@ Protection of the Tal Shiar;U;Interrupt;;Second Edition;Print;3;0
 Provocative Levity;V;Event;;Sacrifice of Angels;Virtual;3;0
 Provocative Ploy;V;Event;;Tapestry;Virtual;3;0
 Provoke Interstellar Incident;V;Mission;;Matter of Time;Virtual;2;0
-Provoked Attack;R;Event;;Strange New Worlds;Print;3;0
+Provoked Attack;R;Event;;Strange New Worlds;Print;3;1
 Proximity-Actuated Field;R;Dilemma;;Strange New Worlds;Print;3;1
 Pseudopod;R;Interrupt;;Call to Arms;Print;3;0
 Psionic Attack;R;Dilemma;;Captain's Log;Print;3;0
@@ -2420,8 +2420,8 @@ Psych Test;U;Dilemma;;Strange New Worlds;Print;3;3
 Psychic Receptacle;U;Dilemma;;Call to Arms;Print;3;1
 Psycho-Kinetic Attack;S;Dilemma;;Call to Arms;Print;3;3
 Psychokinetic Control;R;Dilemma;;These Are The Voyages;Print;3;0
-Psychological Pressure;R;Event;;Call to Arms;Print;3;0
-Psychotic Impulse;V;Event;;Shattered Mirror;Virtual;3;0
+Psychological Pressure;R;Event;;Call to Arms;Print;3;1
+Psychotic Impulse;V;Event;;Shattered Mirror;Virtual;3;3
 Ptol;V;Personnel;Romulan;Raise the Stakes;Virtual;3;0
 Pulling Rank;V;Event;;Face of the Enemy;Virtual;3;0
 Pulling the Strings;C;Event;;Necessary Evil;Print;3;0
@@ -2442,10 +2442,10 @@ Qualification;V;Dilemma;;Lower Decks;Virtual;3;3
 Qualor II, Qualor II Rendezvous;U;Mission;;Second Edition;Print;2;0
 Quantum Drone;V;Personnel;Borg;Lower Decks;Virtual;3;3
 Quantum Filament;R;Dilemma;;Call to Arms;Print;3;1
-Quantum Incursions;P;Event;;Fractured Time;Print;3;0
+Quantum Incursions;P;Event;;Fractured Time;Print;3;2
 Quantum Slipstream Drive;C;Interrupt;;Second Edition;Print;3;0
-Quarantine;P;Event;;Fractured Time;Print;3;0
-Quark's Advice;U;Event;;What You Leave Behind;Print;3;0
+Quarantine;P;Event;;Fractured Time;Print;3;3
+Quark's Advice;U;Event;;What You Leave Behind;Print;3;2
 Quark's Treasure, Sabotaged Shuttle;R;Ship;Ferengi;Captain's Log;Print;3;0
 Quark, Cordial Host;V;Personnel;Ferengi;Star Trek 50;Virtual;3;0
 Quark, Frontline Observer;V;Personnel;Ferengi;Apocalypse Rising;Virtual;3;0
@@ -2471,8 +2471,8 @@ Quest for the Sword of Kahless;U;Mission;;Second Edition;Print;2;0
 Quetsivoo, Unidentified Pirate Ship;V;Ship;Ferengi;Allegiance;Virtual;3;0
 Quick Trip;V;Interrupt;;Classification: Civilian;Virtual;3;0
 Quinn;V;Interrupt;;Extreme Measures;Virtual;3;0
-Quintessence;P;Event;;Reflections 2.0;Print;3;0
-Quite a Coincidence;C;Event;;Call to Arms;Print;3;0
+Quintessence;P;Event;;Reflections 2.0;Print;3;3
+Quite a Coincidence;C;Event;;Call to Arms;Print;3;3
 Raakin, Dominant Augment;R;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Rabal;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Race Relations;V;Dilemma;;Caretaker;Virtual;3;0

@@ -9,7 +9,7 @@ Alliance K'Vort;Ship;Klingon;Mirror, Mirror;47;;4;0
 Alliance Nor;Facility;Cardassian;Mirror, Mirror;48;;4;0
 Alliance Vor'Cha;Ship;Klingon;Mirror, Mirror;49,4874;;4;0
 Alpha Attack Ship;Ship;Dominion;Blaze of Glory;50;;4;0
-Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692;;4;1
+Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692;;4;2
 Amaros;Personnel;Non-Aligned;Deep Space 9;51,4442;;4;0
 Amet'alox;Personnel;Dominion;The Trouble with Tribbles;52;;4;0
 Analyze Radiation;Mission;Space;The Motion Pictures;53,7184;;4;0
@@ -372,7 +372,7 @@ Regnor;Personnel;Klingon;The Motion Pictures;317,7197;;4;0
 Rekelen;Personnel;Cardassian;Deep Space 9;318,4420;;4;0
 REM Fatigue Hallucinations;Dilemma;Dual;Premiere;1989,6611,6248,6974,7896;;4;0 # Have 3 needing errata
 Repair Mission;Mission;Space;Premiere;1997,6249,6612,6975,7897;;2;1
-Res-Q;Event;;Premiere/Trouble with Tribbles Starter Decks;2007,5267,6250,6613,6976,7898;;4;1
+Res-Q;Event;;Premiere/Trouble with Tribbles Starter Decks;2007,5267,6250,6613,6976,7898;;4;3
 Richard Wilkins;Personnel;Federation;First Contact;319;;4;0
 Rigelian Freighter;Ship;Non-Aligned;Deep Space 9;320;;4;0
 Ril;Personnel;Kazon;Voyager;321;;4;0
@@ -423,7 +423,7 @@ Space;Mission;Space;Q Continuum;360;;4;0
 Stadi;Personnel;Federation;Voyager;361;;4;0
 Starship Constitution (The Motion Pictures);Ship;Federation;The Motion Pictures;363,7203;;4;0
 Starship Constitution;Ship;Federation;The Trouble with Tribbles;362;;4;0
-Static Warp Bubble;Event;;Premiere;2159,6270,6633,6996,7918;;4;1
+Static Warp Bubble;Event;;Premiere;2159,6270,6633,6996,7918;;4;2
 Study "Hole in Space";Mission;Space;Premiere;2174,6272,6635,6998,7920;;2;1
 Study Badlands;Mission;Space;Deep Space 9/Homefront IV;364,4284;;4;0
 Study Plasma Storm;Mission;Space;Deep Space 9;365;;4;0
@@ -462,7 +462,7 @@ Ten of Nineteen;Personnel;Borg;First Contact;389;;4;0
 Terran Outpost;Facility;Federation;Mirror, Mirror/Homefront VI;390,4700;;4;0
 Test Propulsion Systems;Mission;Space;Official Tournament Sealed Deck;391,4826,5913;;4;0
 Thaden;Personnel;Vidiian;Voyager;392;;4;0
-The Traveler: Transcendence;Event;;Premiere/Virtual Promos;2286,5173,5652,6291,6654,7017,7939;;4;1
+The Traveler: Transcendence;Event;;Premiere/Virtual Promos;2286,5173,5652,6291,6654,7017,7939;;4;2
 Thei;Personnel;Romulan;Premiere;393,6023,6386,6749,7671;;4;1
 Thenelak;Personnel;Romulan;The Borg;394;;4;0
 Thirteen of Nineteen;Personnel;Borg;First Contact;395;;4;0
@@ -516,6 +516,7 @@ Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967;;2;1
 Vurond;Personnel;Hirogen;The Borg;418;;4;0
 Wajahut;Personnel;Non-Aligned;The Motion Pictures;419,7206;;4;0
 Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
+Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles Starter Decks;2462,4695,6322,6685,7048,7165,7970,8334;;4;1
 
 # Done through card 420
 #430
@@ -615,6 +616,7 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #2360
 #2369
 #2443
+#2462
 #2611
 #3067
 #3407
@@ -665,6 +667,7 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #4660-4662
 #4668
 #4678
+#4695
 #4697
 #4699-4700
 #4702-4704
@@ -779,6 +782,7 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #6299
 #6307-6308
 #6319
+#6322
 #6328-6389
 #6393
 #6395
@@ -845,6 +849,7 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #6662
 #6670-6671
 #6682
+#6685
 #6691-6752
 #6756
 #6758
@@ -911,6 +916,7 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #7025
 #7033-7034
 #7045
+#7048
 #7054-7058
 #7098-7120
 #7126
@@ -918,7 +924,7 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #7133-7134
 #7145-7149
 #7159
-#7164
+#7164-7165
 #7168
 #7180
 #7183-7206
@@ -994,6 +1000,7 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #7947
 #7955-7956
 #7967
+#7970
 #8022-8023
 #8034
 #8037-8038
@@ -1018,3 +1025,4 @@ Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 #8222
 #8243
 #8311
+#8334
