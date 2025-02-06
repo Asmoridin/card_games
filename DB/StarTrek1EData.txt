@@ -23,6 +23,7 @@ Archer;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;606,5251,6049
 Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;0
 Armus - Skin of Evil;Dilemma;Planet;Premiere;609,3587,4039,6050,6413,6776,7698,8062;;4;1
 Assault Vessel;Ship;Bajoran;Deep Space 9/Virtual Promos;59,4448,5822;;4;0
+Atmospheric Ionization;Event;;Premiere;634,6052,6415,6778,7700,8064;;4;1
 Atul;Personnel;Klingon;The Dominion;60;;4;0
 Ayala;Personnel;Federation;Voyager;61;62;4;0
 Ayala;Personnel;Non-Aligned;Voyager;62;61;4;0
@@ -39,6 +40,12 @@ Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter 
 Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703,7625;;4;0
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
 Battle Cruiser;Ship;Romulan;Mirror, Mirror;71;3067;4;0
+Benjamin Maxwell;Personnel;Federation;Premiere;424,6027,6390,6753,7520,7675,8039;;2;0
+Benjamin Sisko;Personnel;Federation;Deep Space 9;425,3556;;2;0
+Berik;Personnel;Ferengi;Rules of Acquisition;426;;2;0
+Berlingoff Rasmussen;Personnel;Non-Aligned;Alternate Universe;427;;2;0
+Berserk Changeling;Dilemma;Dual;The Dominion;428,5658,7503;;4;0
+Betazed Invasion;Mission;Planet;The Dominion;429;;2;0
 Betazoid Gift Box;Artifact;;Premiere/Virtual Promos;7054,430,3476,3583,6328,6691;;2;1
 Birth of "Junior";Dilemma;Space;Premiere;441,6756,4040,6030,6393,7678,8042;;4;1
 Bochra;Personnel;Romulan;Premiere;731,6066,7714,6429,6792;;2;1
@@ -141,6 +148,7 @@ Explore Typhon Expanse;Mission;Space;Premiere;1172,6115,6478,6841;;2;1
 Expose Covert Supply;Mission;Planet;Premiere/Homefront;1175,3518,6116,6479,6842;;2;1
 Extraction;Mission;Planet;Premiere;1177,6117,6480,6843;;2;1
 Federation Outpost;Facility;Federation;Premiere/Homefront VI/Trouble with Tribbles Starter Decks;1189,4049,4699,6118,6481,6844,7133,7766,8130;;4;1
+Federation PADD;Equipment;;Premiere;1190,6119,6482,6845,7510,7767,8131;;4;1
 Fek'lhr;Personnel;Klingon;Premiere;153,5989,6352,6715,7637;;4;0
 Female's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1194,1196,6120,6483,6846,7134,7768,8132;;4;1 # have 1 PREM
 Ferengi Shuttle;Ship;Ferengi;Rules of Acquisition;154;;4;0
@@ -200,6 +208,7 @@ Hirogen Outpost;Facility;Hirogen;The Borg/Homefront VI;182,4702;;4;0
 Hogan;Personnel;Federation;The Borg;183;184;4;0
 Hogan;Personnel;Non-Aligned;The Borg;184;183;4;0
 Hogue;Personnel;Cardassian;Deep Space 9;185,4416;;4;0
+Holo-Projectors;Event;;Premiere/Holodeck Adventures/Homefront VI;1301,1302,4692,6132,6495,6858,7780,8144;;4;1
 Holosuite;Site;;Holodeck Adventures/Homefront V;186,4468,7180;;2;0
 Hophalin;Personnel;Vidiian;Voyager;187;;4;0
 Hunting Vessel;Ship;Hirogen;The Borg/Borderless Promos;188,5595;;4;0
@@ -256,7 +265,7 @@ Keldon;Ship;Cardassian;Blaze of Glory;229;;4;0
 Kered;Personnel;Klingon;The Trouble with Tribbles;231;;4;0
 Kevin Uxbridge;Interrupt;;Premiere;1518,5649,6171,6534,6897,7819,8183;;4;0
 Khazara;Ship;Romulan;Premiere;1521,3627,6172,6535,6898,7820,8184;;2;1
-Kivas Fajo - Collector;Event;;Premiere/Virtual Promos;1530,4597,5639,6174,6537,6900,7822;;4;1 # Have 1 PREM
+Kivas Fajo - Collector;Event;;Premiere/Virtual Promos;1530,4597,5639,6174,6537,6900,7822;;4;2 # Have 2 PREM
 Klag;Personnel;Klingon;Premiere;232,6000,6363,6726;;4;0
 Kle'eg;Personnel;Klingon;Premiere;233,6727,7649,6001,6364;;4;0
 Klingon Empire Outpost;Facility;Klingon;Mirror, Mirror/Homefront VI;234,4704;;4;0
@@ -356,6 +365,7 @@ Prak;Personnel;Ferengi;Rules of Acquisition;305;;4;0
 Pralor Unit 6263;Personnel;Non-Aligned;Holodeck Adventures;306;;4;0
 Pralor Warship;Ship;Non-Aligned;Holodeck Adventures;307;;4;0
 Prylar Mond;Personnel;Bajoran;Deep Space 9;308;;4;0
+Q-Net;Event;;Premiere/Trouble with Tribbles Starter Decks;1925,6241,6604,6967,7152,7889,8253;;4;1
 Q;Dilemma;Dual;Premiere/Homefront VI;1919,3538,4668,6239,6602,6965,7887;;4;0 # Have two needing errata
 Qol;Personnel;Ferengi;Rules of Acquisition;309;;4;0
 R'Mal;Personnel;Romulan;Blaze of Glory;324;;4;0
@@ -517,9 +527,11 @@ Vurond;Personnel;Hirogen;The Borg;418;;4;0
 Wajahut;Personnel;Non-Aligned;The Motion Pictures;419,7206;;4;0
 Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
 Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles Starter Decks;2462,4695,6322,6685,7048,7165,7970,8334;;4;1
+William Telfer;Personnel;Federation;Voyager;421;;4;0
+Wodek'idan;Personnel;Dominion;Holodeck Adventures;422;423;4;0
+Wodek'idan;Personnel;Hirogen;Holodeck Adventures;423;422;4;0
 
-# Done through card 420
-#430
+# Done through card 430
 #441
 #445
 #556-557
@@ -529,6 +541,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #586
 #606
 #609
+#634
 #656
 #662
 #673
@@ -556,13 +569,14 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #1172
 #1175
 #1177
-#1189
+#1189-1190
 #1194
 #1196
 #1218
 #1253
 #1270
 #1278
+#1301-1302
 #1328
 #1365
 #1378
@@ -594,6 +608,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #1863
 #1887
 #1919
+#1925
 #1948-1949
 #1962
 #1989
@@ -625,6 +640,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #3518
 #3529
 #3537-3539
+#3556
 #3578
 #3580-3581
 #3587-3583
@@ -667,6 +683,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #4660-4662
 #4668
 #4678
+#4692
 #4695
 #4697
 #4699-4700
@@ -708,6 +725,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #5649-5650
 #5652
 #5655
+#5658
 #5809
 #5817
 #5822
@@ -715,7 +733,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #5900-5901
 #5909-5913
 #5917
-#5966-6026
+#5966-6027
 #6030
 #6032
 #6037-6038
@@ -723,6 +741,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6044
 #6046-6047
 #6049-6050
+#6052
 #6057-6058
 #6060
 #6065-6066
@@ -739,11 +758,11 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6103
 #6106-6107
 #6110
-#6115-6118
-#6120
+#6115-6120
 #6122
 #6128
 #6130
+#6132
 #6137
 #6145-6148
 #6150
@@ -764,7 +783,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6229-6231
 #6234
 #6238-6239
-#6242
+#6241-6242
 #6244
 #6248-6250
 #6256
@@ -783,7 +802,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6307-6308
 #6319
 #6322
-#6328-6389
+#6328-6390
 #6393
 #6395
 #6400-6401
@@ -791,6 +810,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6407
 #6409-6410
 #6412-6413
+#6415
 #6420-6421
 #6423
 #6428-6429
@@ -807,11 +827,11 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6466
 #6469-6470
 #6473
-#6478-6481
-#6483
+#6478-6483
 #6485
 #6491
 #6493
+#6495
 #6500
 #6508-6511
 #6513
@@ -831,7 +851,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6592-6594
 #6597
 #6601-6602
-#6605
+#6604-6605
 #6607
 #6611-6613
 #6619
@@ -850,7 +870,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6670-6671
 #6682
 #6685
-#6691-6752
+#6691-6753
 #6756
 #6758
 #6763-6764
@@ -858,6 +878,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6770
 #6772-6773
 #6775-6776
+#6778
 #6783-6784
 #6786
 #6791-6792
@@ -874,11 +895,11 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6829
 #6832-6833
 #6836
-#6841-6844
-#6846
+#6841-6846
 #6848
 #6854
 #6856
+#6858
 #6863
 #6871-6874
 #6876
@@ -898,7 +919,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #6955-6957
 #6960
 #6964-6965
-#6968
+#6967-6968
 #6970
 #6974-6976
 #6982
@@ -923,6 +944,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #7131
 #7133-7134
 #7145-7149
+#7152
 #7159
 #7164-7165
 #7168
@@ -930,14 +952,15 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #7183-7206
 #7251
 #7327
-#7511
+#7503
+#7510-7511
 #7516
-#7521
+#7520-7521
 #7524
 #7527
 #7529
 #7613
-#7615-7674
+#7615-7675
 #7678
 #7680
 #7685-7686
@@ -945,6 +968,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #7692
 #7694-7695
 #7697-7698
+#7700
 #7705-7706
 #7708
 #7713-7714
@@ -958,11 +982,11 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #7751
 #7754-7755
 #7758
-#7766
-#7768
+#7766-7768
 #7770
 #7776
 #7778
+#7780
 #7785
 #7793
 #7795-7796
@@ -982,7 +1006,7 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #7877-7879
 #7882
 #7886-7887
-#7890
+#7889-7890
 #7892
 #7896-7898
 #7904
@@ -1003,19 +1027,20 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #7970
 #8022-8023
 #8034
-#8037-8038
+#8037-8039
 #8042
 #8061-8062
+#8064
 #8082
 #8084
 #8090
 #8094
 #8109
 #8115
-#8130
-#8132
+#8130-8132
 #8134
 #8142
+#8144
 #8149
 #8157
 #8162
@@ -1024,5 +1049,6 @@ Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles 
 #8220
 #8222
 #8243
+#8253
 #8311
 #8334
