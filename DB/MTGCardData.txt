@@ -8779,13 +8779,15 @@ Overlord of the Hauntwoods;Enchantment Creature — Avatar Horror;G;Duskmourn: H
 #673317
 Optimistic Scavenger;Creature — Human Scout;W;Duskmourn: House of Horror (Uncommon);1
 #673406
-Acrobatic Cheerleader;Creature — Human Survivor;W;Duskmourn: House of Horror (Common);1
+Acrobatic Cheerleader;Creature — Human Survivor;W;Duskmourn: House of Horror (Common);2
 #673407
 Cult Healer;Creature — Human Doctor;W;Duskmourn: House of Horror (Common);1
 #673410
 Emerge from the Cocoon;Sorcery;W;Duskmourn: House of Horror (Common);1
 #673416
 Fear of Surveillance;Enchantment Creature — Nightmare;W;Duskmourn: House of Horror (Common);1
+#673417
+Friendly Ghost;Creature — Spirit;W;Duskmourn: House of Horror (Common);1
 #673429
 Patched Plaything;Artifact Creature — Toy;W;Duskmourn: House of Horror (Uncommon);1
 #673435
@@ -8800,6 +8802,8 @@ Unidentified Hovership;Artifact — Vehicle;W;Duskmourn: House of Horror (Rare);
 Bottomless Pool // Locker Room;Enchantment - Room;U;Duskmourn: House of Horror (Uncommon);1
 #673451
 Creeping Peeper;Creature — Eye;U;Duskmourn: House of Horror (Common);1
+#673459
+Erratic Apparition;Creature — Spirit;U;Duskmourn: House of Horror (Common);1
 #673466
 Ghostly Keybearer;Creature — Spirit;U;Duskmourn: House of Horror (Uncommon);1
 #673475
@@ -8814,6 +8818,10 @@ Unable to Scream;Enchantment — Aura;U;Duskmourn: House of Horror (Common);0
 Appendage Amalgam;Enchantment Creature — Horror;B;Duskmourn: House of Horror (Common);1
 #673490
 Cackling Slasher;Creature — Human Assassin;B;Duskmourn: House of Horror (Common);1
+#673504
+Final Vengeance;Sorcery;B;Duskmourn: House of Horror (Common);1
+#673506
+Give In to Violence;Instant;B;Duskmourn: House of Horror (Common);1
 #673508
 Innocuous Rat;Creature — Rat;B;Duskmourn: House of Horror (Common);2
 #673516
@@ -8836,6 +8844,8 @@ Fear of Being Hunted;Enchantment Creature — Nightmare;R;Duskmourn: House of Ho
 Fear of Burning Alive;Enchantment Creature — Nightmare;R;Duskmourn: House of Horror (Uncommon);1
 #673543
 Grab the Prize;Sorcery;R;Duskmourn: House of Horror (Common);2
+#673549
+Most Valuable Slayer;Creature — Human Warrior;R;Duskmourn: House of Horror (Common);1
 #673563
 Ticket Booth // Tunnel of Hate;Enchantment - Room;R;Duskmourn: House of Horror (Common);1
 #673571
@@ -8846,14 +8856,20 @@ Cautious Survivor;Creature — Elf Survivor;G;Duskmourn: House of Horror (Common
 Coordinated Clobbering;Sorcery;G;Duskmourn: House of Horror (Uncommon);1
 #673579
 Cryptid Inspector;Creature — Elf Warrior;G;Duskmourn: House of Horror (Common);1
+#673584
+Frantic Strength;Enchantment — Aura;G;Duskmourn: House of Horror (Common);1
 #673591
 Insidious Fungus;Creature — Fungus;G;Duskmourn: House of Horror (Uncommon);1
 #673594
 Manifest Dread;Sorcery;G;Duskmourn: House of Horror (Common);2
+#673596
+Monstrous Emergence;Sorcery;G;Duskmourn: House of Horror (Common);1
 #673598
 Overgrown Zealot;Creature — Elf Druid;G;Duskmourn: House of Horror (Uncommon);1
 #673602
 Say Its Name;Sorcery;G;Duskmourn: House of Horror (Common);1
+#673605
+Threats Around Every Corner;Enchantment;G;Duskmourn: House of Horror (Uncommon);1
 #673611
 Wary Watchdog;Creature — Dog;G;Duskmourn: House of Horror (Common);1
 #673614
@@ -8862,6 +8878,8 @@ Baseball Bat;Artifact — Equipment;G/W;Duskmourn: House of Horror (Uncommon);1
 Fear of Infinity;Enchantment Creature — Nightmare;B/U;Duskmourn: House of Horror (Uncommon);1
 #673621
 Growing Dread;Enchantment;G/U;Duskmourn: House of Horror (Uncommon);1
+#673622
+Inquisitive Glimmer;Enchantment Creature — Fox Glimmer;U/W;Duskmourn: House of Horror (Uncommon);1
 #673631
 Peer Past the Veil;Instant;G/R;Duskmourn: House of Horror (Rare);1
 #673634
@@ -8873,9 +8891,11 @@ Attack-in-the-Box;Artifact Creature — Toy;C;Duskmourn: House of Horror (Uncomm
 #673648
 Bear Trap;Artifact;C;Duskmourn: House of Horror (Common);1
 #673649
-Conductive Machete;Artifact — Equipment;C;Duskmourn: House of Horror (Uncommon);1
+Conductive Machete;Artifact — Equipment;C;Duskmourn: House of Horror (Uncommon);2
 #673653
-Ghost Vacuum;Artifact;C;Duskmourn: House of Horror (Rare);0
+Ghost Vacuum;Artifact;C;Duskmourn: House of Horror (Rare);1
+#673659
+Saw;Artifact — Equipment;C;Duskmourn: House of Horror (Uncommon);1
 #675219
 Chaos Is My Plaything;Scheme;C;Duskmourn: House of Horror Commander (Common);1
 #675222
