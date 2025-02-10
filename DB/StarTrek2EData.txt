@@ -2563,10 +2563,10 @@ Resolve Trade Dispute;V;Mission;;Unity;Virtual;2;0
 Respect in Diversity;V;Event;;A Time to Stand;Virtual;3;3
 Ressikan Flute;R/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Restock Ketracel-White;U;Mission;;Call to Arms;Print;2;0
-Restorative Responsibility;C;Event;;To Boldly Go;Print;3;0
+Restorative Responsibility;C;Event;;To Boldly Go;Print;3;3
 Restore Errant Moon;U;Mission;;What You Leave Behind;Print;2;0
 Restricted Area;U;Dilemma;;Call to Arms;Print;3;2
-Retaliation;R;Event;;Energize;Print;3;0
+Retaliation;R;Event;;Energize;Print;3;2
 Retaya, Chemical Agent;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
 Retaya, Urbane Poisoner;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Retrieve Materiel;U;Mission;;To Boldly Go;Print;2;0
@@ -2592,7 +2592,7 @@ Riley Shepard, Confident Cadet;C;Personnel;Federation;Necessary Evil;Print;3;0
 Rinax, Salvage Devastated Colony;V;Mission;;Phage;Virtual;2;0
 Rinnak Pire;VP;Personnel;Bajoran;Inheritance;Virtual;3;0
 Rionoj;V;Personnel;Non-Aligned;Hard Time;Virtual;3;0
-Ripple Effect;V;Event;;A Time to Stand;Virtual;3;0
+Ripple Effect;V;Event;;A Time to Stand;Virtual;3;3
 Risa, Shore Leave;U/VP;Mission;;What You Leave Behind/Virtual Promo;Both;2;0
 Rise to the Occasion;V;Interrupt;;Lower Decks;Virtual;3;0
 Rishon Uxbridge;V;Event;;The Menagerie;Virtual;3;0
@@ -2628,7 +2628,7 @@ Rom, Younger Brother;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Romara Cal, Personal Physician;V;Personnel;Bajoran;Shattered Mirror;Virtual;3;0
 Romulan Disruptor Pistol;U;Equipment;;Second Edition;Print;3;3
 Romulan Impersonator, "Geordi La Forge";V;Personnel;Romulan;Legacy;Virtual;3;0
-Romulan Intelligence Network;U;Event;;Second Edition;Print;3;0
+Romulan Intelligence Network;U;Event;;Second Edition;Print;3;3
 Romulan Scout Vessel;C;Ship;Romulan;Second Edition;Print;3;0
 Romulus Orbit, Covert Insertion;V;Mission;;Continuing Mission;Virtual;2;0
 Romulus, Patient Stronghold;V;Mission;;Face of the Enemy/Move Along Home;Virtual;2;0
@@ -2644,25 +2644,25 @@ Ru'afo, Reluctant "Partner";V;Personnel;Non-Aligned;Star Trek 50;Virtual;3;0
 Rude Awakening;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 Rudolph Ransom, Devious Captain;V;Personnel;Federation;Allegiance;Virtual;3;0
 Ruk, Old One Servitor;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
-Rule of Acquisition #102;U;Event;;To Boldly Go;Print;3;0
-Rule of Acquisition #141;R;Event;;Strange New Worlds;Print;3;0
-Rule of Acquisition #144;R;Event;;Strange New Worlds;Print;3;0
+Rule of Acquisition #102;U;Event;;To Boldly Go;Print;3;2
+Rule of Acquisition #141;R;Event;;Strange New Worlds;Print;3;1
+Rule of Acquisition #144;R;Event;;Strange New Worlds;Print;3;1
 Rule of Acquisition #16;R;Event;;Captain's Log;Print;3;0
 Rule of Acquisition #18;U;Event;;These Are The Voyages;Print;3;0
 Rule of Acquisition #194;V;Event;;Lineage;Virtual;3;0
-Rule of Acquisition #22;C;Event;;Strange New Worlds;Print;3;0
+Rule of Acquisition #22;C;Event;;Strange New Worlds;Print;3;3
 Rule of Acquisition #239;V;Interrupt;;Lineage;Virtual;3;0
 Rule of Acquisition #33;U/VP;Interrupt;;What You Leave Behind/Virtual Promo;Both;3;0
-Rule of Acquisition #34;V;Event;;Tacking Into the Wind;Virtual;3;0
+Rule of Acquisition #34;V;Event;;Tacking Into the Wind;Virtual;3;3
 Rule of Acquisition #45;V;Event;;Heroes and Demons;Virtual;3;0
 Rule of Acquisition #62;V;Event;;Heroes and Demons;Virtual;3;0
-Rule of Acquisition #6;R/VP;Event;;Strange New Worlds/Virtual Promo;Both;3;0
+Rule of Acquisition #6;R/VP;Event;;Strange New Worlds/Virtual Promo;Both;3;1 // Have 1 SNW
 Rule of Acquisition #75;V;Event;;Strange Bedfellows;Virtual;3;0
-Rule of Acquisition #76;C;Event;;Strange New Worlds;Print;3;0
+Rule of Acquisition #76;C;Event;;Strange New Worlds;Print;3;3
 Rules of Obedience;VP;Dilemma;;Inheritance;Virtual;3;0
 Ruling Council;V;Interrupt;;Peak Performance;Virtual;3;0
 Runabout Search;U;Mission;;Second Edition;Print;2;0
-Running a Tight Ship;R;Event;;Necessary Evil;Print;3;0
+Running a Tight Ship;R;Event;;Necessary Evil;Print;3;3
 Rush Job;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 Rusot, Proud Nationalist;U/VP;Personnel;Cardassian;Necessary Evil/Virtual Promo;Both;3;0
 Russell Toddman, Security Conscious;V;Personnel;Federation;Return to Grace;Virtual;3;0
@@ -2672,9 +2672,9 @@ Ruwon, Intelligence Analyst;R;Personnel;Romulan;Call to Arms;Print;3;0
 S'rrel;V/VP;Personnel;Federation;Zero Hour/Virtual Promo;Virtual;3;0
 S'Salk, Gorn Captain;R;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
 Saavik, Protégée;P;Personnel;Federation;Genesis;Print;3;0
-Sabotage Program;U;Event;;Call to Arms;Print;3;0
+Sabotage Program;U;Event;;Call to Arms;Print;3;1
 Sabotaged Reactor;C;Dilemma;;Captain's Log;Print;3;0
-Sabotaged Transporter;R;Event;;In a Mirror Darkly;Print;3;0
+Sabotaged Transporter;R;Event;;In a Mirror Darkly;Print;3;3
 Sabrun;C;Personnel;Romulan;Second Edition;Print;3;0
 Sainte Claire Wargame;V;Event;;Caretaker;Virtual;3;0
 Sakari Colony, Assimilate Resources;V;Mission;;Continuing Mission;Virtual;2;0
@@ -2682,7 +2682,7 @@ Sakonna, Gunrunner;R;Personnel;Non-Aligned;Energize;Print;3;0
 Sakonna, Puzzled Interrogator;V;Personnel;Non-Aligned;This Side of Paradise;Virtual;3;0
 Salvage Borg Ship;S;Mission;;Call to Arms;Print;2;0
 Salvaged Attack Ship, Sheep in Wolf's Clothing;V;Ship;Federation;Far Beyond the Stars;Virtual;3;0
-Salvaging the Wreckage;C;Event;;Energize;Print;3;0
+Salvaging the Wreckage;C;Event;;Energize;Print;3;3
 Sam'po, Left in Command;V;Personnel;Dominion;Heroes and Demons;Virtual;3;0
 Samantha Wildman, First Mother on Voyager;U;Personnel;Federation;Captain's Log;Print;3;0
 Samuel T. Cogley, Attorney at Law;V;Personnel;Federation;Classification: Civilian;Virtual;3;0
@@ -2708,7 +2708,7 @@ Scimitar, Reman Warbird;V;Ship;Romulan;Zero Hour;Virtual;3;0
 Scout Drone;V;Personnel;Borg;Classification: Civilian;Virtual;3;0
 Scrutiny Drone;V;Personnel;Borg;Raise the Stakes;Virtual;3;0
 Scum and Villainy;V;Event;;Sacrifice of Angels;Virtual;3;0
-Seal the Temple's Door;C;Event;;To Boldly Go;Print;3;0
+Seal the Temple's Door;C;Event;;To Boldly Go;Print;3;3
 Sean Hawkins;C;Personnel;Starfleet;These Are The Voyages;Print;3;0
 Search and Destroy;V;Event;;Sacrifice of Angels;Virtual;3;0
 Search and Rescue;U;Mission;;Second Edition;Print;2;0
@@ -2726,12 +2726,12 @@ Sector 3641, Locate Abducted Klingon;AP/V;Mission;;Timeless/Continuing Mission;V
 Sector 39-J, Investigate Annihilation;V;Mission;;Symbiosis;Virtual;2;0
 Sector 441, Analyze Radiation;V/VP;Mission;;Heroes and Demons/Virtual Promo;Virtual;2;0
 Security Briefing;S;Mission;;Second Edition;Print;2;0
-Security Drills;P/VP;Event;;Fractured Time/Virtual Promo;Both;3;0
+Security Drills;P/VP;Event;;Fractured Time/Virtual Promo;Both;3;2 // Have 2 FT
 Security Lockout;V;Dilemma;;Phage;Virtual;3;0
 Security Precautions;V;Event;;Unnatural Selection;Virtual;3;0
 Security Sweep;U;Interrupt;;Call to Arms;Print;3;0
 Security Weapons;C;Dilemma;;In a Mirror Darkly;Print;3;0
-Seeing Double;C;Event;;Strange New Worlds;Print;3;0
+Seeing Double;C;Event;;Strange New Worlds;Print;3;3
 Seek Savior;V;Mission;;Raise the Stakes;Virtual;2;0
 Sela, Cunning Strategist;R;Personnel;Romulan;What You Leave Behind;Print;3;0
 Sela, Daughter of Tasha;V;Personnel;Klingon;Heroes and Demons;Virtual;3;0
@@ -2744,9 +2744,9 @@ Self-Sealing Stem Bolts;V;Equipment;;Raise the Stakes;Virtual;3;3
 Selok, Deep Cover Operative;C;Personnel;Romulan;Necessary Evil;Print;3;0
 Selveth, Tal Shiar Pilot;U;Personnel;Romulan;Second Edition;Print;3;0
 Sense of Obligation;V;Interrupt;;Lineage;Virtual;3;0
-Sensing a Trap;U;Event;;Call to Arms;Print;3;0
+Sensing a Trap;U;Event;;Call to Arms;Print;3;2
 Sensor Sweep;U;Interrupt;;Second Edition;Print;3;0
-Sent Back;V;Event;;Peak Performance;Virtual;3;0
+Sent Back;V;Event;;Peak Performance;Virtual;3;3
 Sermon;R;Interrupt;;Second Edition;Print;3;0
 Serova, Warp Field Theorist;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Serrola, Tip of the Spear;V;Ship;Romulan;Far Beyond the Stars;Virtual;3;0
@@ -2755,7 +2755,7 @@ Seska, Cardassian Agent;U;Personnel;Federation;Captain's Log;Print;3;0
 Seska, Complicated Loyalties;V;Personnel;Bajoran;Caretaker;Virtual;3;0
 Seska, Pragmatic Agent;V;Personnel;Cardassian;Star Trek 50/Finding Our Way;Virtual;3;0
 Seskal, Comrade in Arms;U;Personnel;Cardassian;Necessary Evil;Print;3;0
-Set Up;R;Event;;Call to Arms;Print;3;0
+Set Up;R;Event;;Call to Arms;Print;3;1
 Setek;C;Personnel;Romulan;Necessary Evil;Print;3;0
 Seth Matthews, Red Squad Cadet;C;Personnel;Federation;Necessary Evil;Print;3;0
 Seth Mendoza;C;Personnel;Federation;Second Edition;Print;3;0
@@ -2772,10 +2772,10 @@ Seven of Nine, Prodigal Daughter;V;Personnel;Borg;This Side of Paradise;Virtual;
 Seven of Nine, Reclaimed Drone;C;Personnel;Federation;Captain's Log;Print;3;0
 Seven of Nine, Representative of the Hive;S/V;Personnel;Borg;Call to Arms/Finding Our Way;Both;3;0
 Seven of Nine, Undercover Operative;V;Personnel;Federation;Matter of Time;Virtual;3;0
-Severed Link;C;Event;;Call to Arms;Print;3;0
+Severed Link;C;Event;;Call to Arms;Print;3;3
 Sfreett, Deadly Flower;V;Personnel;Non-Aligned;Symbiosis;Virtual;3;0
 Sha Ka Ree, Quest for Infinite Knowledge;V;Mission;;Return to Grace;Virtual;2;0
-Shadow Operation;R;Event;;Energize;Print;3;0
+Shadow Operation;R;Event;;Energize;Print;3;1
 Shadowplay;V;Dilemma;;Lineage;Virtual;3;0
 Shady Resources;S;Interrupt;;Second Edition/Finding Our Way;Both;3;0
 Shakaar Edon, First Minister of Bajor;V;Personnel;Bajoran;Raise the Stakes;Virtual;3;0
@@ -2800,7 +2800,7 @@ Shinzon, Romulan Praetor;S;Personnel;Romulan;Second Edition;Print;3;0
 Shipboard Fire;P;Dilemma;;Reflections 2.0;Print;3;1
 Shock Troops;V;Event;;Sacrifice of Angels;Virtual;3;0
 Shocking Betrayal;U;Dilemma;;What You Leave Behind;Print;3;3
-Shocking Revelation;V;Event;;Shattered Mirror;Virtual;3;0
+Shocking Revelation;V;Event;;Shattered Mirror;Virtual;3;3
 Short Circuit;U;Dilemma;;Necessary Evil;Print;3;0
 Show Trial;V;Dilemma;;The Undiscovered Country;Virtual;3;2 // Need to re-print one
 Shran, Exchange Officer;V;Personnel;Starfleet;Star Trek 50;Virtual;3;0
@@ -2811,7 +2811,7 @@ Shri-tal;P;Interrupt;;Reflections 2.0;Print;3;0
 Shrouded in Light;V;Interrupt;;20th Anniversary Collection;Virtual;3;0
 Shuttlepod One, Reliable Transport;R;Ship;Starfleet;To Boldly Go;Print;3;0
 Shuttlepod Two, Landing Craft;R;Ship;Starfleet;To Boldly Go;Print;3;0
-Sickbay;U;Event;;Energize;Print;3;0
+Sickbay;U;Event;;Energize;Print;3;3
 Side by Side;U;Dilemma;;Necessary Evil;Print;3;0
 Sidney Albert, Hardhearted;V;Personnel;Federation;Caretaker;Virtual;3;0
 Sigmund Freud, Father of Psychoanalysis;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
@@ -2841,9 +2841,9 @@ Skullduggery;U;Dilemma;;Second Edition;Print;3;3
 Slar, Gorn Slave Master;R;Personnel;Non-Aligned;In a Mirror Darkly;Print;3;0
 Slightly Awkward;V;Event;;Infinite Diversity Remastered;Virtual;3;0
 Slightly Overbooked;V;Dilemma;;Raise the Stakes;Virtual;3;3
-Sluggo;R;Event;;Call to Arms;Print;3;0
+Sluggo;R;Event;;Call to Arms;Print;3;2
 Small Problems;U;Dilemma;;Strange New Worlds;Print;3;1
-Smuggling Run;U;Event;;Energize;Print;3;0
+Smuggling Run;U;Event;;Energize;Print;3;1
 So Many Enemies;C;Dilemma;;Call to Arms;Print;3;0 // Have 3+, but has been errata'd
 Sobi, Felicium Dealer;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
 Soft Sell;V;Event;;Symbiosis;Virtual;3;0
