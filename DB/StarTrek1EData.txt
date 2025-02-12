@@ -58,6 +58,7 @@ Bio-Neural Gel Pack;Equipment;;Voyager;438;;4;0
 Bioweapon Ruse;Mission;Planet;The Dominion;439,7514;;2;0
 Birta;Personnel;Ferengi;Rules of Acquisition;440;;2;0
 Birth of "Junior";Dilemma;Space;Premiere;441,6756,4040,6030,6393,7678,8042;;4;1
+Black Hole;Doorway;;Fajo Collection;442,5827;;4;0
 Bochra;Personnel;Romulan;Premiere;731,6066,7714,6429,6792;;2;1
 Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
 Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;0
@@ -113,7 +114,13 @@ Derell;Personnel;Cardassian;Deep Space 9;114;;4;0
 Devoras;Ship;Romulan;Premiere;953,6082,6445,6808,7730,8094;;2;1
 Dilanum;Personnel;Vidiian;The Borg;115;;4;0
 Diplomacy Mission;Mission;Planet;Premiere/Trouble with Tribbles Starter Decks;958,6083,6446,6809,7131,7731;;2;1
+Disrupt Alliance;Mission;Planet;Mirror, Mirror;443,4820;;2;0
+Disruptor Overload;Interrupt;;Premiere;444,6031,6394,6757,7679,8043;;4;0
 Distortion Field;Event;;Premiere;445,6032,6395,6758,7680;;4;1
+Distortion of Space/Time Continuum;Interrupt;;Premiere/Voyager;446,447,5654,6033,6396,6759,7681,8045;;4;0 # Needs errata
+Distraction;Dilemma;Dual;Mirror, Mirror;448,4798;;4;0
+Distress Mission;Mission;Planet;Introductory 2-Player Game/Virtual Promos;449,5815;;2;0
+Divert Power;Objective;;Voyager;450;;4;0
 Divok;Personnel;Klingon;Premiere/Coming of Age/Trouble with Tribbles Starter Decks;116,5437,5984,6347,6710,7105,7632;;4;0
 Dominion Battleship;Ship;Dominion;The Trouble with Tribbles;119;;4;0
 Doran;Personnel;Cardassian;Holodeck Adventures;121;122;4;0
@@ -422,11 +429,12 @@ Seventeen of Eighteen;Personnel;Borg;The Borg;341;;4;0
 Shaka, When the Walls Fell;Dilemma;Dual;Premiere;2106,6263,6626,6989,7911;;4;3
 Shandor;Personnel;Bajoran;All Good Things;342;;4;0
 Sharic;Personnel;Non-Aligned;The Motion Pictures;343,7200;;4;0
+Shelby;Personnel;Federation;Premiere;2111,4059,6264,6627,6990,7912,8276;;2;1
 Ship Seizure;Interrupt;;Premiere;2115,6265,6628,6991,7913;;4;1
-Simon Tarses;Personnel;Federation;Premiere;344,6014,6377,6740,7662;;4;0
+Simon Tarses;Personnel;Federation;Premiere;344,6014,6377,6740,7662;;4;1
 Sinaren;Personnel;Vidiian;The Borg;345;;4;0
 Sir Isaac Newton;Personnel;Federation;Premiere;346,6015,6378,6741,7663;;4;0
-Sito Jaxa;Personnel;Federation;Premiere;347,4060,6016,6379,6742,7664;;4;0
+Sito Jaxa;Personnel;Federation;Premiere;347,4060,6016,6379,6742,7664;;4;1
 Six of Eleven;Personnel;Borg;First Contact;348;;4;0
 Six of Nineteen;Personnel;Borg;Enhanced First Contact;349;;4;0
 Six of Seventeen;Personnel;Borg;First Contact;350;;4;0
@@ -437,6 +445,7 @@ Solok;Personnel;Ferengi;Rules of Acquisition;354;;4;0
 Son'a Battleship;Ship;Non-Aligned;The Motion Pictures;355,7201;;4;0
 Son'a Shuttle;Ship;Non-Aligned;The Motion Pictures;356,7202;;4;0
 Soong-type Android;Personnel;Non-Aligned;Q Continuum;357,5641;;4;0
+Soren;Personnel;Federation;Premiere;2136,6267,6630,6993,7915,8279;;2;1
 Sorum;Personnel;Vidiian;Voyager;358;;4;0
 Soto;Personnel;Non-Aligned;The Dominion;359;;4;0
 Space;Mission;Space;Q Continuum;360;;4;0
@@ -469,6 +478,7 @@ Tanar;Personnel;Kazon;The Borg;379;;4;0
 Tarellian Plague Ship;Dilemma;Space;Premiere;673,5644,6060,6423,6786,7708;;4;1
 Targ;Personnel;Klingon;Alternate Universe;380;;4;0
 Tarus;Personnel;Romulan;Premiere;381,6020,6383,6746,7668;;4;3
+Tasha Yar;Personnel;Federation;Premiere;681,6061,6424,6787,7709,8073;;2;1
 Taul;Personnel;Romulan;Premiere;382,6021,6384,6747,7669;;4;1
 Taurik;Personnel;Federation;Premiere;383,6022,6385,6748,7670,8034;;4;0
 Taylor Moore;Personnel;Federation;Deep Space 9;384;;4;0
@@ -545,9 +555,7 @@ Wodek'idan;Personnel;Dominion;Holodeck Adventures;422;423;4;0
 Wodek'idan;Personnel;Hirogen;Holodeck Adventures;423;422;4;0
 Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 
-# Done through card 440
-#441
-#445
+# Done through card 450
 #556-557
 #561
 #574
@@ -559,6 +567,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #656
 #662
 #673
+#681
 #706
 #731
 #747
@@ -633,7 +642,9 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #2077
 #2089
 #2106
+#2111
 #2115
+#2136
 #2159
 #2174
 #2180
@@ -673,7 +684,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #4039-4041
 #4049
 #4052-4055
-#4060
+#4059-4060
 #4063
 #4070
 #4073
@@ -711,6 +722,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #4702-4704
 #4706-4707
 #4711
+#4798
+#4820
 #4824
 #4826
 #4828
@@ -745,17 +758,18 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #5644
 #5649-5650
 #5652
-#5655
+#5654-5655
 #5658
 #5809
+#5815
 #5817
 #5822
 #5824
+#5827
 #5900-5901
 #5909-5913
 #5917
-#5966-6030
-#6032
+#5966-6033
 #6037-6038
 #6040
 #6044
@@ -763,7 +777,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6049-6050
 #6052
 #6057-6058
-#6060
+#6060-6061
 #6065-6066
 #6070
 #6072-6073
@@ -808,8 +822,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6248-6250
 #6256
 #6260
-#6262-6263
-#6265
+#6262-6265
+#6267
 #6270
 #6272
 #6275
@@ -823,8 +837,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6319
 #6322-6323
 #6325
-#6328-6393
-#6395
+#6328-6396
 #6400-6401
 #6403
 #6407
@@ -832,7 +845,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6412-6413
 #6415
 #6420-6421
-#6423
+#6423-6424
 #6428-6429
 #6433
 #6435-6436
@@ -876,8 +889,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6611-6613
 #6619
 #6623
-#6625-6626
-#6628
+#6625-6628
+#6630
 #6633
 #6635
 #6638
@@ -890,8 +903,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6670-6671
 #6682
 #6685-6686
-#6691-6756
-#6758
+#6691-6759
 #6763-6764
 #6766
 #6770
@@ -899,7 +911,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6775-6776
 #6778
 #6783-6784
-#6786
+#6786-6787
 #6688
 #6791-6792
 #6796
@@ -944,8 +956,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6974-6976
 #6982
 #6986
-#6988-6989
-#6991
+#6988-6991
+#6993
 #6996
 #6998
 #7001
@@ -982,8 +994,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7527
 #7529
 #7613
-#7615-7678
-#7680
+#7615-7681
 #7685-7686
 #7688
 #7692
@@ -991,7 +1002,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7697-7698
 #7700
 #7705-7706
-#7708
+#7708-7709
 #7713-7714
 #7718
 #7720
@@ -1033,8 +1044,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7896-7898
 #7904
 #7908
-#7910-7911
-#7913
+#7910-7913
+#7915
 #7918
 #7920
 #7923
@@ -1050,9 +1061,10 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7973
 #8022-8023
 #8034
-#8037-8042
+#8037-8045
 #8061-8062
 #8064
+#8073
 #8082
 #8084
 #8090
@@ -1073,6 +1085,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #8222
 #8243
 #8253
+#8276
+#8279
 #8305
 #8311
 #8334-8335

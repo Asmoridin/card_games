@@ -39,7 +39,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     "The Heaven's Will", "Path of the Destroyer", "Onyx Edition", "Promotional-Emperor",
     "Celestial Edition 15th Anniversary", "The New Order", "The Coming Storm", "Seeds of Decay",
     "A Line in the Sand", "Gates of Chaos", "Test of the Emerald and Jade Championships",
-    "Evil Portents",
+    "Evil Portents", "Aftermath",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',

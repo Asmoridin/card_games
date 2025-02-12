@@ -19,13 +19,14 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
     'Mirror, Mirror', 'First Contact', 'The Trouble with Tribbles', 'All Good Things', 'The Borg',
     'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', 
     'The Dominion', 'Starter Deck II', 'Holodeck Adventures', 'Official Tournament Sealed Deck',
-    'Enhanced First Contact', 'Q Continuum', 'Introductory 2-Player Game', 'Enhanced Premiere',]
+    'Enhanced First Contact', 'Q Continuum', 'Introductory 2-Player Game', 'Enhanced Premiere',
+    'Fajo Collection']
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',
     'Homefront IV', 'Homefront II',]
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
-    'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment']
+    'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
     'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian',]
 
