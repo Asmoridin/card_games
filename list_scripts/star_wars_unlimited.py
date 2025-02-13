@@ -35,6 +35,8 @@ def process_card_set(card_set_in):
             check_card_set = 'Shadows of the Galaxy'
         elif check_card_set == 'TWI':
             check_card_set = 'Twilight of the Republic'
+        elif check_card_set == 'JTL':
+            check_card_set = 'Jump to Lightspeed'
         else:
             print(f"Unknown card set {check_card_set}")
             return [[], []]
@@ -111,12 +113,22 @@ collection_dict = {}
 full_collection = {}
 card_need_dict = {}
 card_names = set()
+KEEP_READ = True
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
+    if line == "** END **":
+        KEEP_READ = False
+    if not KEEP_READ:
+        continue
     line = line.split('#')[0].strip() # Clears comments on lines
+    CARD_MAX = 3
     try:
-        card_name, card_set_info, card_type, card_colors, card_owned = line.split(';')
+        if line.count(';') == 4:
+            card_name, card_set_info, card_type, card_colors, card_owned = line.split(';')
+        else:
+            card_name, card_set_info, card_type, card_colors, card_owned, temp_max = line.split(';')
+            CARD_MAX = int(temp_max)
     except ValueError:
         print("Following line isn't formatted correctly:")
         print(line)
@@ -134,15 +146,13 @@ for line in lines:
         continue
 
     card_owned = int(card_owned)
-    CARD_MAX = 3
+
     if card_type in ['Leader', 'Base']:
         CARD_MAX = 1
     if card_owned > CARD_MAX:
         CARD_MAX = card_owned
     collection_dict[card_name] = card_owned
-    full_collection[card_name] = 3
-    if line.split(';')[2] in ['Base', 'Leader']:
-        full_collection[card_name] = 1
+    full_collection[card_name] = CARD_MAX
 
     TOTAL_MAX += CARD_MAX
     TOTAL_OWN += card_owned
