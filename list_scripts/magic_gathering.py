@@ -274,7 +274,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
         ret_formats = {"Vintage": 1}
     if is_relentless:
         for format_name in ret_formats:
-            ret_formats[format_name] = 15
+            ret_formats[format_name] = 25
     for format_name, format_qty in ret_formats.items():
         this_card_max = max(this_card_max, format_qty)
     ret_rarities = list(ret_rarities)
@@ -642,7 +642,7 @@ if __name__ == "__main__":
     double_print("*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
-        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie']
+        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', ]
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))

@@ -63,6 +63,7 @@ item_list = []
 TOTAL_MAX = 0
 TOTAL_OWN = 0
 NUM_HEROES = 0
+OWN_HEROES = 0
 for line in lines:
     line = line.split('//')[0]
     card_name, card_type, card_powers, card_rarity, card_set, card_own = line.split(';')
@@ -73,6 +74,7 @@ for line in lines:
     if card_type == 'Hero':
         CARD_MAX = 1
         NUM_HEROES += 1
+        OWN_HEROES += card_own
     else:
         CARD_MAX = 3
     TOTAL_MAX += CARD_MAX
@@ -104,7 +106,7 @@ if __name__=="__main__":
 
     double_print("City of Heroes CCG Inventory Tracker Tool\n", out_file_h)
 
-    double_print(f"There are {NUM_HEROES} heroes in the game\n", out_file_h)
+    double_print(f"There are {NUM_HEROES} heroes in the game. I own {OWN_HEROES}.\n", out_file_h)
 
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)

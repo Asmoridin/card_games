@@ -97,6 +97,7 @@ Crystalline Entity;Dilemma;Dual;Premiere;899,3588,6076,6439,6802;;4;3
 Cytherians;Dilemma;Space;Premiere/Virtual Promos;906,3537,5572,6078,6441,6804,7726,8090;;4;1 # 1 PREM
 D'deridex Advanced;Ship;Romulan;The Dominion/Reflections;113,3581;;4;0
 D'deridex;Ship;Romulan;Premiere;112,5983,6346,6709,7631;;4;1
+D'k Tahg;Equipment;;Blaze of Glory;453;;4;0
 D'Kora Marauder;Ship;Ferengi;Rules of Acquisition;117;;4;0
 D'Kora Transport;Ship;Ferengi;Rules of Acquisition;118,4079;;4;0
 D'vano;Personnel;Romulan;Mirror, Mirror;133;;4;0
@@ -122,6 +123,15 @@ Distraction;Dilemma;Dual;Mirror, Mirror;448,4798;;4;0
 Distress Mission;Mission;Planet;Introductory 2-Player Game/Virtual Promos;449,5815;;2;0
 Divert Power;Objective;;Voyager;450;;4;0
 Divok;Personnel;Klingon;Premiere/Coming of Age/Trouble with Tribbles Starter Decks;116,5437,5984,6347,6710,7105,7632;;4;0
+Dixon Hill's Business Card;Interrupt/Event;;Fajo Collection;452;;4;0
+Dixon Hill;Personnel;Non-Aligned;Holodeck Adventures;451;;2;0
+Dmitri Valtane;Personnel;Federation;The Motion Pictures;454,7207;;2;0
+DNA Clues;Dilemma;Dual;Deep Space 9/Virtual Promos;455,3589,4485;;4;0
+DNA Metamorphosis;Dilemma;Dual;Fajo Collection;456;;4;0
+Docking Pads;Site;;Deep Space 9/Homefront V;457,4464;;2;0
+Docking Ports;Site;;Deep Space 9/Homefront V;458,4465;;2;0
+Docking Procedures;Interrupt;;Deep Space 9/Virtual Promos;459,5728;;3;0
+Docking Pylons;Site;;Deep Space 9/Homefront V;460,4466;;2;0
 Dominion Battleship;Ship;Dominion;The Trouble with Tribbles;119;;4;0
 Doran;Personnel;Cardassian;Holodeck Adventures;121;122;4;0
 Doran;Personnel;Hirogen;Holodeck Adventures;122;121;4;0
@@ -413,9 +423,11 @@ Runabout;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;328,6010,6
 Saldin;Personnel;Kazon;Voyager;329;;4;0
 Sam Lavelle;Personnel;Federation;Holodeck Adventures;330;;4;0
 Sam'po;Personnel;Non-Aligned;The Motion Pictures;331,7198;;4;0
+Sarek;Personnel;Federation;Premiere/Virtual Promos;2051,5719,6255,6618,6981,7903,8267;;2;1 # Have 1 PREM
 Sarita Carson;Personnel;Federation;Blaze of Glory/Trouble with Tribbles Starter Decks;332,4434,7119;;4;0
 Sarjenka;Dilemma;Planet;Premiere;2053,6256,6619,6982,7904;;4;1
 Sarod;Personnel;Non-Aligned;The Motion Pictures;333,7199;;4;0
+Satelk;Personnel;Federation;Premiere;2056,6258,6621,6984,7906,8270;;2;1
 Science Vessel;Ship;Romulan;Premiere;334,4083,6011,6374,6737,7659,8023;;4;1
 Scout Vessel;Ship;Romulan;Premiere;335,6012,6375,6738,7660;;4;0
 Search for Weapons;Mission;Planet;Starter Deck II;336,4055,4824,7058;;4;0
@@ -520,11 +532,12 @@ Type 9 Shuttlecraft;Ship;Federation;Voyager;24;;4;0
 Type VI Shuttlecraft;Ship;Federation;Premiere;25,5968,6331,6694,7527,7616;;4;0
 U.S.S. Danube;Ship;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;26,4452,7098;;4;0
 U.S.S. Excelsior;Ship;Federation;Premiere;27,5969,6332,6695,7617;;4;0
-U.S.S. Galaxy;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;28,5970,6333,6696,7099,7618;;4;0
+U.S.S. Galaxy;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;28,5970,6333,6696,7099,7618;;4;1
 U.S.S. Intrepid;Ship;Federation;Voyager;29;;4;0
 U.S.S. Miranda;Ship;Federation;Premiere;30,5971,6334,6697,7619;;4;0
-U.S.S. Nebula;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;31,5972,6335,6698,7100,7529,7620;;4;0
+U.S.S. Nebula;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;31,5972,6335,6698,7100,7529,7620;;4;1
 U.S.S. Oberth;Ship;Federation;Premiere;32,4078,5973,6336,6699,7621;;4;0
+U.S.S. Yamato;Ship;Federation;Premiere;2400,6314,6677,7040,7962,8326;;2;1
 Ulani Belor;Personnel;Cardassian;Deep Space 9;33;;4;0
 Unicomplex;Facility;Borg;The Borg/Homefront;43,3513;;2;0
 Uri'lash;Personnel;Ferengi;All Good Things;34;;4;0
@@ -555,7 +568,7 @@ Wodek'idan;Personnel;Dominion;Holodeck Adventures;422;423;4;0
 Wodek'idan;Personnel;Hirogen;Holodeck Adventures;423;422;4;0
 Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 
-# Done through card 450
+# Done through card 460
 #556-557
 #561
 #574
@@ -638,7 +651,9 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #1989
 #1997
 #2007
+#2051
 #2053
+#2056
 #2077
 #2089
 #2106
@@ -657,6 +672,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #2303
 #2360
 #2369
+#2400
 #2443
 #2462
 #2466
@@ -675,7 +691,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #3578
 #3580-3581
 #3587-3583
-#3588
+#3588-3589
 #3617
 #3627
 #3839
@@ -711,8 +727,10 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #4468
 #4470
 #4477
+#4485
 #4597
 #4660-4662
+#4464-4466
 #4668
 #4678
 #4692
@@ -760,6 +778,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #5652
 #5654-5655
 #5658
+#5719
+#5728
 #5809
 #5815
 #5817
@@ -820,7 +840,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6241-6242
 #6244
 #6248-6250
-#6256
+#6255-6256
+#6258
 #6260
 #6262-6265
 #6267
@@ -834,6 +855,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6293-6295
 #6299
 #6307-6308
+#6314
 #6319
 #6322-6323
 #6325
@@ -887,7 +909,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6604-6605
 #6607
 #6611-6613
-#6619
+#6618-6619
+#6621
 #6623
 #6625-6628
 #6630
@@ -901,6 +924,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6656-6658
 #6662
 #6670-6671
+#6677
 #6682
 #6685-6686
 #6691-6759
@@ -954,7 +978,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #6967-6968
 #6970
 #6974-6976
-#6982
+#6981-6982
+#6984
 #6986
 #6988-6991
 #6993
@@ -968,6 +993,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7019-7021
 #7025
 #7033-7034
+#7040
 #7045
 #7048-7049
 #7051
@@ -982,7 +1008,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7164-7165
 #7168
 #7180
-#7183-7206
+#7183-7207
 #7251
 #7327
 #7503
@@ -1042,7 +1068,8 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7889-7890
 #7892
 #7896-7898
-#7904
+#7903-7904
+#7906
 #7908
 #7910-7913
 #7915
@@ -1056,6 +1083,7 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #7941-7943
 #7947
 #7955-7956
+#7962
 #7967
 #7970-7971
 #7973
@@ -1085,9 +1113,12 @@ Worf;Personnel;Federation;Premiere;2470,3566,4063,6325,6688,7051,7973,8337;;2;1
 #8222
 #8243
 #8253
+#8267
+#8270
 #8276
 #8279
 #8305
 #8311
+#8326
 #8334-8335
 #8337

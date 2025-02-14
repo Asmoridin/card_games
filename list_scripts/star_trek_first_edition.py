@@ -69,17 +69,22 @@ for line in in_lines:
     if card_name in card_names and card_alt_fac_num == "":
         print(f"Duplicate card name: {card_name}")
     card_names.add(card_name)
-    if card_type not in VALID_TYPES:
-        print(f"Invalid card type: {card_type}")
-        continue
-    if card_type in ['Ship', 'Personnel', 'Facility']:
-        if card_affil not in VALID_AFFILIATIONS:
-            print(f"Invalid affiliation: {card_affil}")
+    actual_types = []
+    for c_type in card_type.split('/'):
+        if c_type not in VALID_TYPES:
+            print(f"Invalid card type: {c_type}")
             continue
-    if card_type in ['Mission', 'Dilemma']:
-        if card_affil not in ['Planet', 'Space', 'Dual']:
-            print(f"Possibly mis-typed card: {card_name}")
-            continue
+        actual_types.append(c_type)
+
+    for c_type in actual_types:
+        if c_type in ['Ship', 'Personnel', 'Facility']:
+            if card_affil not in VALID_AFFILIATIONS:
+                print(f"Invalid affiliation: {card_affil}")
+                continue
+        if c_type in ['Mission', 'Dilemma']:
+            if card_affil not in ['Planet', 'Space', 'Dual']:
+                print(f"Possibly mis-typed card: {card_name}")
+                continue
     card_sets = card_sets.split('/')
 
     IS_PRINT = False
@@ -116,7 +121,7 @@ for line in in_lines:
         continue
     TOTAL_MAX += card_max
     TOTAL_OWN += card_own
-    card_lines.append([card_name, card_type, card_affil, card_sets, card_numbers, \
+    card_lines.append([card_name, actual_types, card_affil, card_sets, card_numbers, \
         alt_numbers, CARD_PRINT, card_own, card_max])
 
 print_choice, filtered_lines = sort_and_filter(card_lines, 6)

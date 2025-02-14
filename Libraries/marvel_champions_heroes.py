@@ -41,7 +41,7 @@ heroes.extend([
     Hero('Storm'), Hero('Gambit'), Hero('Rogue'), Hero('Cable'), Hero('Domino'), Hero('Psylocke'),
     Hero('Angel'), Hero('X-23'), Hero('Deadpool'), Hero('Bishop'), Hero('Magik'), Hero('Iceman'),
     Hero('Jubilee'), Hero('Nightcrawler'), Hero('Magneto'), #Hero('Maria Hill'), Hero('Nick Fury'),
-    #Hero('Black Panther (Shuri)')
+    #Hero('Black Panther (Shuri)'), Hero('Silk')
 ])
 
 hero_combinations = []

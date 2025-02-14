@@ -55,7 +55,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Duskmourn: House of Horror Commander", "Signature Spellbook: Gideon", "From the Vault: Lore",
     "Ugin's Fate promos", "Planeshift", "From the Vault: Legends", "Prophecy",
     "Mystery Booster 2: Convention Edition", "Magic: The Gathering Foundations Commander",
-    "Jumpstart 2025", "Innistrad Remastered", "SNC Game Day",
+    "Jumpstart 2025", "Innistrad Remastered", "SNC Game Day", "Aetherdrift Commander",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']

@@ -3015,14 +3015,14 @@ Tabor, Apoplectic Bajoran;V;Personnel;Bajoran;Favor the Bold/Finding Our Way;Vir
 Tacking Into the Wind;V/VP;Event;;Unity/Virtual Promo;Virtual;3;0
 Tactical Advantage;V;Event;;Unnatural Selection;Virtual;3;0
 Tactical Disadvantage;R/VP;Dilemma;;To Boldly Go/Virtual Promo;Both;3;1 // Have 1 TBG
-Tactical Planning;U;Event;;Second Edition;Print;3;0
+Tactical Planning;U;Event;;Second Edition;Print;3;3
 Tagus;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
 Tahna Los, Voice of the Kohn-Ma;U;Personnel;Bajoran;Call to Arms;Print;3;0
 Taibak, Prodigious Conditioner;V;Personnel;Romulan;Raise the Stakes;Virtual;3;0
 Tajor;V;Personnel;Cardassian;Return to Grace;Virtual;3;0
 Tak Tak Negotiations;V;Dilemma;;Caretaker;Virtual;3;0
 Takar, Exploit Populace;V;Mission;;Continuing Mission;Virtual;2;0
-Taken Prisoner;U;Event;;Second Edition;Print;3;0
+Taken Prisoner;U;Event;;Second Edition;Print;3;2
 Tal Celes, Imprecise Analyst;V;Personnel;Federation;Lower Decks;Virtual;3;0
 Tal'Aura, Impatient Senator;R;Personnel;Romulan;Second Edition;Print;3;0
 Tal, Alert Subcommander;U;Personnel;Romulan;These Are The Voyages;Print;3;0
@@ -3040,11 +3040,11 @@ Tama;U;Ship;Non-Aligned;Energize;Print;3;0
 Tamal, Technician;C;Personnel;Federation;Necessary Evil;Print;3;0
 Tamarian Vessel;C;Ship;Non-Aligned;Second Edition;Print;3;0
 Tamarith, Reformist;U;Personnel;Romulan;Necessary Evil;Print;3;0
-Tampering With Time;P;Event;;Fractured Time;Print;3;0
-Tapestry;R;Event;;Second Edition;Print;3;0
+Tampering With Time;P;Event;;Fractured Time;Print;3;3
+Tapestry;R;Event;;Second Edition;Print;3;2
 Tarakis, Repair Memorial;V;Mission;;Lower Decks;Virtual;2;0
 Target of Opportunity;V;Interrupt;;Lower Decks;Virtual;3;0
-Target Practice;C;Event;;To Boldly Go;Print;3;0
+Target Practice;C;Event;;To Boldly Go;Print;3;3
 Target the Main Generator;V;Event;;Sacrifice of Angels;Virtual;3;0
 Targeted for Assimilation;U;Event;;Necessary Evil;Print;3;0
 Targeting the Nacelles;U;Interrupt;;Captain's Log;Print;3;0
@@ -3072,21 +3072,21 @@ Teleportation Drone;V;Personnel;Borg;Shattered Mirror;Virtual;3;0
 Telle, Macet's Aide;V;Personnel;Cardassian;Favor the Bold;Virtual;3;0
 Telok, Bodyguard;U;Personnel;Klingon;In a Mirror Darkly;Print;3;0
 Temarek;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Temba, His Arms Wide;U;Event;;Energize;Print;3;0
+Temba, His Arms Wide;U;Event;;Energize;Print;3;3
 Temporal Conduit;C;Dilemma;;Captain's Log;Print;3;0
 Temporal Delineation;R;Interrupt;;To Boldly Go;Print;3;0
 Temporal Flux Energy Ribbon;R;Event;;In a Mirror Darkly;Print;3;0
-Temporal Incursion;R;Event;;Strange New Worlds;Print;3;0
+Temporal Incursion;R;Event;;Strange New Worlds;Print;3;1
 Temporal Misalignment;P/VP;Dilemma;;Fractured Time/Virtual Promo;Both;3;2 // Have 2 FT
-Temporal Test Subject;P;Event;;Fractured Time;Print;3;0
-Temporal Transporters;V;Event;;Matter of Time;Virtual;3;0
+Temporal Test Subject;P;Event;;Fractured Time;Print;3;2
+Temporal Transporters;V;Event;;Matter of Time;Virtual;3;3
 Temptation;U/VP;Dilemma;;Second Edition/Virtual Promo;Both;3;2 // Have 2 SE
 Tempted By Flesh;U;Event;;Necessary Evil;Print;3;0
 Tenak'talar, Dukat's Warship;V;Ship;Dominion;Shore Leave;Virtual;3;0
 Tenak'talar, Vanguard of the Occupation;V/VP;Ship;Dominion;Legacy/Virtual Promo;Virtual;3;0
 Tenak'talar, Weyoun's Warship;R;Ship;Dominion;Call to Arms;Print;3;0
 Tense Negotiations;C;Dilemma;;Second Edition;Print;3;3
-Tenuous Alliance;V;Event;;Raise the Stakes;Virtual;3;0
+Tenuous Alliance;V;Event;;Raise the Stakes;Virtual;3;0 // Has errata I need
 Teplan Prime, Subjugate Planet;V;Mission;;Strange Bedfellows;Virtual;2;0
 Terikof Belt, Navigate Plasma Storms;V;Mission;;Lower Decks;Virtual;2;0
 Terix;R;Ship;Romulan;Energize;Print;3;0
@@ -3098,13 +3098,13 @@ Tessa Omond, Temporal Conspirator;V;Personnel;Federation;Caretaker;Virtual;3;0
 Test of Wisdom;C;Dilemma;;Necessary Evil;Print;3;0
 Thaden, Procurement Specialist;V;Personnel;Vidiian;Phage;Virtual;3;0
 Thadiun Okona, Outrageous Rogue;V;Personnel;Non-Aligned;Tapestry;Virtual;3;0
-That's the Last Time;C;Event;;To Boldly Go;Print;3;0
+That's the Last Time;C;Event;;To Boldly Go;Print;3;3
 The Albino, Killer of Children;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 The Artificial Intelligence, Soul of an Artist;V;Personnel;Non-Aligned;The Omega Directive;Virtual;3;0
 The Beast at El-Adrel;V;Dilemma;;Favor the Bold;Virtual;3;3
 The Big Goodbye;V;Dilemma;;Unity;Virtual;3;0
 The Big Picture;V;Interrupt;;Zero Hour;Virtual;3;0
-The Blight;R;Event;;Call to Arms;Print;3;0
+The Blight;R;Event;;Call to Arms;Print;3;1
 The Captain's "Guest";V;Dilemma;;This Side of Paradise;Virtual;3;3
 The Caretaker's "Guests";P/VP;Dilemma;;Genesis/Virtual Promo;Both;3;0
 The Celestial Temple, Seek Prophetic Guidance;V;Mission;;The Menagerie;Virtual;2;0
@@ -3121,8 +3121,8 @@ The Clown: Guillotine;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;1
 The Clown: On His Throne;V;Dilemma;;Favor the Bold;Virtual;3;3
 The Clown: Ultimatum;V;Dilemma;;Caretaker;Virtual;3;0
 The Conscience of the King;V;Dilemma;;The Undiscovered Country;Virtual;3;2 // Need to reprint at least one
-The Cost of Freedom;V;Event;;The Undiscovered Country;Virtual;3;0
-The Crystalline Entity;R;Event;;Call to Arms;Print;3;0
+The Cost of Freedom;V;Event;;The Undiscovered Country;Virtual;3;0 // Need these reprinted
+The Crystalline Entity;R;Event;;Call to Arms;Print;3;1
 The Dal'Rok;R/VP;Dilemma;;In a Mirror Darkly/Virtual Promo;Both;3;0
 The Demands of Duty;R;Dilemma;;Call to Arms;Print;3;0
 The Devil, Fearsome Illusion;V;Personnel;Non-Aligned;Warp Pack: Access Denied;Virtual;3;0
@@ -3133,16 +3133,16 @@ The Doctor, Emergency Medical Hologram;R;Personnel;Federation;Captain's Log;Prin
 The Dominion Will Prevail;R;Event;;Captain's Log;Print;3;0
 The Doomsday Machine;V;Dilemma;;Sacrifice of Angels;Virtual;3;0
 The Dreamer and the Dream;R/VP;Dilemma;;Necessary Evil/Virtual Promo;Both;3;0
-The Edge of Forever;P;Event;;Fractured Time;Print;3;0
+The Edge of Forever;P;Event;;Fractured Time;Print;3;3
 The Enemy of My Enemy;V;Interrupt;;Far Beyond the Stars;Virtual;3;0
-The Enterprise Incident;R;Event;;Call to Arms;Print;3;0
+The Enterprise Incident;R;Event;;Call to Arms;Print;3;2
 The First Duty;V;Dilemma;;Infinite Diversity Remastered;Virtual;3;0
 The First of Many;C;Interrupt;;Necessary Evil;Print;3;0
 The Founder is Wise;C;Interrupt;;Call to Arms;Print;3;0
 The Genesis Effect;P;Event;;Genesis;Print;3;0
 The Gentleman Doctor McCoy;V;Dilemma;;This Side of Paradise;Virtual;3;3
 The Great Material Continuum;V;Event;;Lineage;Virtual;3;0
-The Hand of Apollo;V;Event;;Tacking Into the Wind;Virtual;3;0
+The Hand of Apollo;V;Event;;Tacking Into the Wind;Virtual;3;3
 The Inner Light;R;Event;;In a Mirror Darkly;Print;3;0
 The Key to Victory;C;Event;;Necessary Evil;Print;3;0
 The Killing Game;V;Dilemma;;Caretaker;Virtual;3;0
@@ -3153,24 +3153,24 @@ The Moon's a Window to Heaven;R;Dilemma;;Second Edition;Print;3;1
 The Muse;R;Event;;To Boldly Go;Print;3;0
 The Needs of the Few;V;Dilemma;;Unnatural Selection;Virtual;3;0
 The Needs of the Many;V;Dilemma;;Unnatural Selection;Virtual;3;0
-The New Occupation;C;Event;;What You Leave Behind;Print;3;0
+The New Occupation;C;Event;;What You Leave Behind;Print;3;3
 The New Resistance;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
 The Next Phase;V;Dilemma;;Unity;Virtual;3;0
 The Nth Degree;V;Dilemma;;Return to Grace;Virtual;3;0
 The Oracle's Punishment;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 The Order of Things;C;Interrupt;;Necessary Evil;Print;3;0
-The Orion Underworld;R;Event;;Second Edition;Print;3;0
+The Orion Underworld;R;Event;;Second Edition;Print;3;3
 The Pendari Champion, Electrifying Favorite;AP/VP;Personnel;Non-Aligned;Virtual Archive Portrait/Virtual Promo;Virtual;3;0
-The Perfect Tool;R;Event;;Necessary Evil;Print;3;0
+The Perfect Tool;R;Event;;Necessary Evil;Print;3;1
 The Perils of Peacemaking;V;Interrupt;;The Undiscovered Country;Virtual;3;0
 The Phage;R;Dilemma;;What You Leave Behind;Print;3;1
 The Phase;V;Dilemma;;Sacrifice of Angels;Virtual;3;0
-The Pillage of Bajor;U;Event;;Second Edition;Print;3;0
-The Play's the Thing;P/VP;Event;;Fractured Time/Virtual Promo;Both;3;0
+The Pillage of Bajor;U;Event;;Second Edition;Print;3;2
+The Play's the Thing;P/VP;Event;;Fractured Time/Virtual Promo;Both;3;2 // Have 2 FT
 The Promise;S;Interrupt;;Second Edition;Print;3;1
 The Prophets' Guidance;C;Interrupt;;Energize;Print;3;0
-The Reckoning;U;Event;;What You Leave Behind;Print;3;0
-The Reman Mines;U;Event;;Second Edition;Print;3;0
+The Reckoning;U;Event;;What You Leave Behind;Print;3;3
+The Reman Mines;U;Event;;Second Edition;Print;3;0 // Has errata
 The Rite of Emergence;R;Interrupt;;Necessary Evil;Print;3;0
 The Secret War;U;Dilemma;;In a Mirror Darkly;Print;3;0
 The Seen and the Unseen;V;Dilemma;;Favor the Bold;Virtual;3;0 // have 3 pre-errata
@@ -3181,21 +3181,21 @@ The Spirit of Kahless;R;Event;;Captain's Log;Print;3;0
 The Stars Are Made of Latinum;V;Event;;Symbiosis;Virtual;3;0
 The Stone of Gol;U;Equipment;;Necessary Evil;Print;3;1
 The Sword of Kahless;R/V/VP;Equipment;;Necessary Evil/Second Skin/Virtual Promo;Both;3;1 // Have 1 NE
-The Text of the Kosst Amojan;R;Event;;Energize;Print;3;0
+The Text of the Kosst Amojan;R;Event;;Energize;Print;3;3
 The Three Vipers;P;Dilemma;;Reflections 2.0;Print;3;0
 The Tides of Fortune;U;Interrupt;;Second Edition;Print;3;0
 The Traveler, Lakanta;VP;Personnel;Federation;Inheritance;Virtual;3;0
 The Traveler, Transcendent Explorer;P;Personnel;Non-Aligned;Fractured Time;Print;3;0
 The Trial Never Ended;U;Event;;Call to Arms;Print;3;1
 The Truth of War;C;Interrupt;;Energize;Print;3;0
-The Undiscovered Country;V;Event;;Favor the Bold;Virtual;3;0
+The Undiscovered Country;V;Event;;Favor the Bold;Virtual;3;0 // Needs errata
 The Viceroy, Advisor to the Praetor;R/VP;Personnel;Romulan;Captain's Log/Virtual Promo;Both;3;0
 The Viceroy, Shinzon's Protector;R;Personnel;Romulan;Second Edition;Print;3;0
-The Void Alliance;V;Event;;The Undiscovered Country;Virtual;3;0
+The Void Alliance;V;Event;;The Undiscovered Country;Virtual;3;1 // Need to reprint 2
 The Warrior's Anthem;V;Interrupt;;Return to Grace;Virtual;3;0
 The Waters, Aid Maritime Sovereignty;V;Mission;;Favor the Bold;Virtual;2;0 // have 1 pre-errata
 The Weak Will Perish;V/VP;Dilemma;;Balance of Terror/Virtual Promo/Finding Our Way;Virtual;5;3 // Have 3 BoT
-The Will of the Collective;U;Event;;Call to Arms;Print;3;0
+The Will of the Collective;U;Event;;Call to Arms;Print;3;2
 Thei, Candid Analyst;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
 Thelev, "Andorian" Terrorist;V;Personnel;Non-Aligned;All Our Yesterdays;Virtual;3;0
 Thermokinetic Explosion;R;Dilemma;;Captain's Log;Print;3;0
