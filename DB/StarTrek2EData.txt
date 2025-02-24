@@ -14,7 +14,7 @@ A Long Road;C;Interrupt;;Captain's Log;Print;3;0
 A Pattern of Lies;C;Dilemma;;Captain's Log;Print;3;0
 A Pleasant Surprise;C;Dilemma;;Necessary Evil;Print;3;0
 A Private Little War;V;Dilemma;;Infinite Diversity Remastered;Virtual;3;0
-A Q Scorned;V;Interrupt;;This Side of Paradise;Virtual;3;0
+A Q Scorned;V;Interrupt;;This Side of Paradise;Virtual;3;3
 A Royal Hunt;C;Dilemma;;Necessary Evil;Print;3;0
 A Royal Welcome;V;Interrupt;;This Side of Paradise;Virtual;3;0
 A Second Chance at Life;C;Event;;Call to Arms;Print;3;3
@@ -38,12 +38,12 @@ Acost Jared;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Acquire Captives;V;Mission;;Lineage;Virtual;2;0
 Acquire Illicit Explosives;U;Mission;;Second Edition;Print;2;0
 Acquired Disruptor Rifle;V;Equipment;;Heroes and Demons;Virtual;3;0
-Adapt;U;Interrupt;;Call to Arms;Print;3;0
+Adapt;U;Interrupt;;Call to Arms;Print;3;2
 Adapted to Service Us;P;Event;;Reflections 2.0;Print;3;0
 Adding to Our Perfection;U;Event;;Call to Arms;Print;3;1
 Adopted Authority;V/VP;Dilemma;;Second Skin/Virtual Promo/Unnatural Selection;Virtual;3;0
 Advanced Combat Training;U;Mission;;Strange New Worlds;Print;2;0
-Advanced Tactical Training;C;Interrupt;;What You Leave Behind;Print;3;0
+Advanced Tactical Training;C;Interrupt;;What You Leave Behind;Print;3;3
 Adversarial Trial;V;Dilemma;;Matter of Time;Virtual;3;0
 After Action Report;VP;Dilemma;;Virtual Promo;Virtual;3;0
 Aftereffects;C;Dilemma;;In a Mirror Darkly;Print;3;0
@@ -63,7 +63,7 @@ Ak'voh;R;Event;;Energize;Print;3;0
 Akorem Laan, Misguided Mystic;V;Personnel;Bajoran;The Menagerie;Virtual;3;0
 Akorem Laan, Revered Poet;U;Personnel;Bajoran;Energize;Print;3;0
 Akritirian Detention Facility, Prison Break;V;Mission;;Caretaker;Virtual;2;0
-Alarming Rumors;V;Interrupt;;Raise the Stakes;Virtual;3;0
+Alarming Rumors;V;Interrupt;;Raise the Stakes;Virtual;3;3
 Aldara;R;Ship;Cardassian;Energize;Print;3;0
 Aldea, Aid Legendary Civilization;V;Mission;;The Undiscovered Country;Virtual;2;0
 Alenis Grem, Occupation Historian;V;Personnel;Bajoran;Return to Grace;Virtual;3;0
@@ -88,7 +88,7 @@ Allocation Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Alluring Spy;C;Dilemma;;Necessary Evil/Finding Our Way;Both;3;1 // Have 1 NE
 Alpha 5 Approach, Transport Crash Survivor;V;Mission;;Infinite Diversity Remastered;Virtual;2;0
 Alsuran Sector, Utilize Abandoned Relay Station;V;Mission;;Lower Decks;Virtual;2;0
-Alternate Identity;R;Interrupt;;Second Edition;Print;3;0
+Alternate Identity;R;Interrupt;;Second Edition;Print;3;1
 Alternatives to Fighting;V;Dilemma;;A Time to Stand;Virtual;3;3
 Altman;C;Personnel;Federation;Second Edition;Print;3;0
 Altovar, Vindictive Criminal;R;Personnel;Non-Aligned;Second Edition;Print;3;0
@@ -99,24 +99,24 @@ Alynna Nechayev, Adamant Admiral;V;Personnel;Federation;This Side of Paradise;Vi
 Alyssa Ogawa, Chief Medical Officer;V;Personnel;Federation;The Menagerie;Virtual;3;0
 Alyssa Ogawa, Enterprise Medical Assistant;R;Personnel;Federation;Second Edition;Print;3;0
 Amanda Cole;C;Personnel;Starfleet;These Are The Voyages;Print;3;0
-Amanda Rogers;R/VP;Interrupt;;Second Edition/Virtual Promo;Both;3;0
+Amanda Rogers;R/VP;Interrupt;;Second Edition/Virtual Promo;Both;4;3 // Have 3 SE
 Amar'itak;C;Personnel;Dominion;Necessary Evil;Print;3;0
 Amarie, Information Broker;VP;Personnel;Non-Aligned;Inheritance;Virtual;3;0
 Amaros, Earnest Vanguard;U;Personnel;Non-Aligned;Energize;Print;3;0
 Amaros, Freedom Fighter;V;Personnel;Non-Aligned;Peak Performance;Virtual;3;0
 Amat'igan, Founder Bodyguard;V;Personnel;Dominion;Peak Performance;Virtual;3;0
 Ambassador Gral, High-Ranking Official;C;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
-Ambitious Intellect;V;Interrupt;;Unnatural Selection;Virtual;3;0
+Ambitious Intellect;V;Interrupt;;Unnatural Selection;Virtual;3;3
 Ammut'alar, Unexpected Threat;V;Ship;Dominion;Tacking Into the Wind;Virtual;3;0
 An Issue of Trust;R/VP;Dilemma;;Captain's Log/Virtual Promo;Both;3;3
 An Old Debt;S;Dilemma;;Call to Arms;Print;3;3
 Anachronistic Deviation;V;Dilemma;;Face of the Enemy;Virtual;3;0
 Anachronistic Meddlers;V;Dilemma;;All Our Yesterdays;Virtual;3;0
-Analyze;S;Interrupt;;Call to Arms;Print;3;2
+Analyze;S;Interrupt;;Call to Arms;Print;3;3
 Anara;C;Personnel;Bajoran;Second Edition;Print;3;0
 Anastasia Komananov, Russian Seductress;V;Personnel;Non-Aligned;This Side of Paradise;Virtual;3;0
 Ancient Grudge;V;Interrupt;;Strange Bedfellows;Virtual;3;0
-And Raise You;C;Interrupt;;Captain's Log;Print;3;0
+And Raise You;C;Interrupt;;Captain's Log;Print;3;1
 Andoria, Contact Reclusive Civilization;V;Mission;;Zero Hour;Virtual;2;0
 Andrea Brand, Academy Superintendent;U;Personnel;Federation;Second Edition;Print;3;0
 Andreas Colter;C;Personnel;Federation;Captain's Log;Print;3;0
@@ -167,7 +167,7 @@ Artificial Ability;V/VP;Dilemma;;Unnatural Selection/Virtual Promo;Virtual;3;0
 Artificial Wormhole;V;Dilemma;;Favor the Bold;Virtual;3;3
 Artim, Inspirational Child;V;Personnel;Non-Aligned;Heroes and Demons;Virtual;3;0
 Artistic License;V;Dilemma;;Balance of Terror;Virtual;3;3
-Ascertain;R;Interrupt;;Strange New Worlds;Print;3;0
+Ascertain;R;Interrupt;;Strange New Worlds;Print;3;1
 Assassin Team;V;Dilemma;;Raise the Stakes;Virtual;3;3
 Assassin's Blade;C;Dilemma;;Second Edition;Print;3;3
 Assassination Attempt;R;Dilemma;;Second Edition;Print;3;3
@@ -240,7 +240,7 @@ Bajoran Resistance Cell;V;Event;;Extreme Measures;Virtual;3;0
 Bajoran Scout Vessel;C;Ship;Bajoran;Second Edition;Print;3;0
 Bajoran Sector, Engage Enemy Forces;V;Mission;;Second Skin/The Omega Directive;Virtual;2;0
 Bandee;C;Personnel;Federation;Second Edition;Print;3;0
-Bank Heist;U;Interrupt;;Energize;Print;3;0
+Bank Heist;U;Interrupt;;Energize;Print;3;2
 Bar Brawl;V;Interrupt;;All Our Yesterdays;Virtual;3;0
 Baraka;P;Ship;Bajoran;Tenth Anniversary Collection;Print;3;0
 Bareil Antos, Escort;R;Personnel;Bajoran;Dangerous Missions;Print;3;0
@@ -367,7 +367,7 @@ Bregath;C;Personnel;Klingon;Energize;Print;3;0
 Brennan Scott;C;Personnel;Starfleet;In a Mirror Darkly;Print;3;0
 Brian Evethers;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
 Brian Sofin;V;Personnel;Federation;Return to Grace;Virtual;3;0
-Bridge Officer's Test;V;Interrupt;;Raise the Stakes;Virtual;3;0
+Bridge Officer's Test;V;Interrupt;;Raise the Stakes;Virtual;3;3
 Bridon;V;Personnel;Vidiian;Phage;Virtual;3;0
 Brief Reunion;U;Event;;Energize;Print;3;2
 Brilgar;C;Personnel;Bajoran;Second Edition;Print;3;0
@@ -435,7 +435,7 @@ Carlson;V;Personnel;Federation;Caretaker;Virtual;3;0
 Carol Marcus, Intelligent Scientist;P;Personnel;Non-Aligned;Genesis;Print;3;0
 Carolyn Palamas;C;Personnel;Federation;These Are The Voyages;Print;3;0
 Cartography Drone;C;Personnel;Borg;Call to Arms;Print;3;3
-Cascade Virus;R/V;Interrupt;;These Are The Voyages/Second Skin;Both;3;0
+Cascade Virus;R/V;Interrupt;;These Are The Voyages/Second Skin;Both;4;3 // have 3 TATV
 Casualties of the Occupation;V;Event;;Symbiosis;Virtual;3;3
 Casualties of War;R;Dilemma;;Energize;Print;3;1
 Casualties;R;Dilemma;;These Are The Voyages;Print;3;0
@@ -465,7 +465,7 @@ Challenging Revision;V;Dilemma;;Unnatural Selection;Virtual;3;0
 Chameloid Chicanery;C;Dilemma;;Captain's Log;Print;3;0
 Chance Observation;C;Interrupt;;Necessary Evil;Print;3;0
 Chang, Gorkon's Chief of Staff;U/VP;Personnel;Klingon;What You Leave Behind/Virtual Promo;Both;3;0
-Change of Heart;P;Interrupt;;Reflections 2.0;Print;3;0
+Change of Heart;P;Interrupt;;Reflections 2.0;Print;3;1
 Change of Venue;V;Event;;Sacrifice of Angels;Virtual;3;3
 Changed History;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
 Changeling Infiltrator;V;Personnel;Dominion;Legacy;Virtual;3;0
@@ -503,23 +503,23 @@ Chula: The Game;V/VP;Dilemma;;Return to Grace/Virtual Promo;Virtual;3;3
 Chula: The Precipice;V;Dilemma;;Legacy;Virtual;3;3
 Chula: Trickery;V;Dilemma;;Return to Grace;Virtual;3;0
 Chula: Unfortunate Roll;V;Dilemma;;Favor the Bold;Virtual;3;3
-Clandestine Agent;C;Interrupt;;Strange New Worlds;Print;3;0
+Clandestine Agent;C;Interrupt;;Strange New Worlds;Print;3;3
 Clandestine Kidnapping;V;Event;;Return to Grace;Virtual;3;0
 Clarity;R;Event;;What You Leave Behind;Print;3;2
 Clark Terrell, Reliant Captain;C;Personnel;Federation;What You Leave Behind;Print;3;0
 Clash at Chin'toka;U;Mission;;Call to Arms;Print;2;0
 Clashing Values;V;Dilemma;;Phage;Virtual;3;0
 Class 9 Nebula, Bypass Disputed Region;V;Mission;;Phage;Virtual;2;0
-Clear Ultimatum;C;Interrupt;;Strange New Worlds;Print;3;0
-Cloak and Dagger;V;Interrupt;;Tacking Into the Wind;Virtual;3;0
+Clear Ultimatum;C;Interrupt;;Strange New Worlds;Print;3;3
+Cloak and Dagger;V;Interrupt;;Tacking Into the Wind;Virtual;3;3
 Close Call;C;Dilemma;;Call to Arms;Print;3;3
-Cluttering Irrelevancies;U;Interrupt;;Strange New Worlds;Print;3;0
+Cluttering Irrelevancies;U;Interrupt;;Strange New Worlds;Print;3;3
 Cochrane, Voyager Shuttle;C;Ship;Federation;Captain's Log;Print;3;0
 Code Forty-Seven;V;Dilemma;;Peak Performance;Virtual;3;3
 Code of Honor;R;Dilemma;;Strange New Worlds;Print;3;1
 Code of the Ushaan;V;Event;;Sacrifice of Angels;Virtual;3;0
 Coil Spanner;V;Equipment;;Strange Bedfellows;Virtual;3;0
-Cold Calculations;V;Interrupt;;Lower Decks;Virtual;3;0
+Cold Calculations;V;Interrupt;;Lower Decks;Virtual;3;3
 Collapse Anti-Time Anomaly;P;Mission;;Fractured Time;Print;2;0
 Collateral Damage;C;Event;;Necessary Evil;Print;3;0
 Collect Omicron Particles;U;Mission;;Captain's Log;Print;2;0
@@ -529,7 +529,7 @@ Colony Preparations;U;Mission;;Second Edition;Print;2;0
 Columbia, The Second Warp Five Ship;R/VP;Ship;Starfleet;Captain's Log/Virtual Promo;Both;3;0
 Combat Vessel, Heavily Armed;V;Ship;Non-Aligned;Unnatural Selection;Virtual;3;0
 Combined Attack;V;Event;;Balance of Terror;Virtual;3;3
-Comfort Women;U;Interrupt;;Second Edition;Print;3;0
+Comfort Women;U;Interrupt;;Second Edition;Print;3;3
 Command Decisions;S;Dilemma;;Second Edition;Print;3;3
 Commanding Presence;V;Dilemma;;Balance of Terror;Virtual;3;3
 Common Cause;V;Event;;Second Skin/Strange Bedfellows;Virtual;3;0
@@ -542,13 +542,13 @@ Compromised Experiment;V;Dilemma;;Shattered Mirror;Virtual;3;3
 Compromised Tactics;V;Dilemma;;Lower Decks;Virtual;3;3
 Computation Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Conceal Unlikely Society;V;Mission;;Lineage;Virtual;2;0
-Condition Captive;R;Interrupt;;Second Edition/Finding Our Way;Both;3;0
+Condition Captive;R;Interrupt;;Second Edition/Finding Our Way;Both;3;2 // Have 2 SE
 Condition Red;U;Event;;These Are The Voyages;Print;3;3
 Confessions in the Pale Moonlight;R/VP;Event;;Energize/Virtual Promo;Both;3;0
 Confessions of a Captain;U;Event;;Captain's Log;Print;3;0
 Confined to Quarters;C;Dilemma;;Call to Arms;Print;3;0 // Need to print errata
 Conflict of Interests;V;Dilemma;;Lineage;Virtual;3;0
-Conflict;V;Interrupt;;Allegiance/Finding Our Way;Virtual;3;0
+Conflict;V;Interrupt;;Allegiance/Finding Our Way;Virtual;3;0 // Needs errata
 Connectivity Drone;V;Personnel;Borg;Hard Time;Virtual;3;0
 Conscription;R;Event;;Energize;Print;3;1
 Console Overload;C;Dilemma;;Second Edition;Print;3;3
@@ -571,7 +571,7 @@ Cosette, Reliable Raider;V;Ship;Federation;Tacking Into the Wind;Virtual;3;0
 Counterinsurgency Program;VP/R;Dilemma;;Necessary Evil/Virtual Promo;Both;3;0
 Countermeasure Drone;V;Personnel;Borg;Caretaker;Virtual;3;0
 Cousteau, Captain's Yacht;V;Ship;Federation;Heroes and Demons;Virtual;3;0
-Covenant;R/VP;Interrupt;;What You Leave Behind/Virtual Promo;Both;3;0
+Covenant;R/VP;Interrupt;;What You Leave Behind/Virtual Promo;Both;4;4
 Covert Ambush;V;Dilemma;;Raise the Stakes;Virtual;3;3
 Covert Collusion;V;Event;;Symbiosis;Virtual;3;0
 Covert Extraction;V;Dilemma;;Hard Time;Virtual;3;3
@@ -584,7 +584,7 @@ Cretak, Supporter of the Alliance;S/V;Personnel;Romulan;Second Edition/Second Sk
 Crew Advancement;C;Dilemma;;In a Mirror Darkly;Print;3;0
 Cripple Engines;V;Event;;Sacrifice of Angels;Virtual;3;0
 Crippling Attack;U;Dilemma;;Energize;Print;3;3
-Crippling Strike;V;Interrupt;;Strange Bedfellows;Virtual;3;0
+Crippling Strike;V;Interrupt;;Strange Bedfellows;Virtual;3;3
 Critical Care;U;Mission;;In a Mirror Darkly;Print;2;0
 Croden, Dissembler;V;Personnel;Non-Aligned;Extreme Measures;Virtual;3;0
 Crom, Open-minded;V;Personnel;Dominion;Lineage;Virtual;3;0

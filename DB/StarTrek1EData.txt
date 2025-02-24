@@ -1,4 +1,20 @@
 #Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs);Card Max;Card Own;
+... in the Engine Room;Trouble;;The Trouble with Tribbles;475;;4;0
+... in the Transporters;Trouble;;The Trouble with Tribbles;476;;4;0
+... on the Bridge;Trouble;;The Trouble with Tribbles;477;;4;0
+... on the Station;Trouble;;The Trouble with Tribbles;478;;4;0
+1 Tribble - Bonus;Tribble;;The Trouble with Tribbles;479;;4;0
+1 Tribble - Discard;Tribble;;The Trouble with Tribbles;480;;4;0
+1 Tribble - Go;Tribble;;The Trouble with Tribbles;481;;4;0
+1,000 Tribbles - Bonus;Tribble;;The Trouble with Tribbles;482;;4;0
+1,000 Tribbles - Discard;Tribble;;The Trouble with Tribbles;483;;4;0
+1,000 Tribbles - Rescue;Tribble;;The Trouble with Tribbles;484;;4;0
+10 and 01;Personnel;Non-Aligned;The Dominion;485,3572;;2;0
+10 Tribbles - Bonus;Tribble;;The Trouble with Tribbles;486;;4;0
+10 Tribbles - Go;Tribble;;The Trouble with Tribbles;487;;4;0
+10 Tribbles - Poison;Tribble;;The Trouble with Tribbles;488;;4;0
+10,000 Tribbles - Go;Tribble;;The Trouble with Tribbles;489;;4;0
+10,000 Tribbles - Poison;Tribble;;The Trouble with Tribbles;490;;4;0
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
 Alidar Jarok;Personnel;Romulan;Premiere;556,6037,6763,6400,7685;;2;1
 Alien Abduction;Dilemma;Planet;Premiere/Virtual Promos;557,5824,6038,6401,6764,7686;;4;0 # Need errata
@@ -311,7 +327,7 @@ Ktarian Game;Dilemma;Space;Premiere;1574,6187,6550,6913,7835,8199;;4;1
 Lam;Personnel;Dominion;The Trouble with Tribbles;244;;4;0
 Letek;Personnel;Ferengi;Rules of Acquisition;245;;4;0
 Limara'Son;Personnel;Dominion;The Dominion;246;;4;0
-Linda Larson;Personnel;Federation;Premiere;247,6004,6367,6730,7652;;4;0
+Linda Larson;Personnel;Federation;Premiere;247,6004,6367,6730,7652,8016;;4;1
 Lojal;Personnel;Federation;Deep Space 9;248;;4;0
 Lojur;Personnel;Federation;The Motion Pictures;249,7192;;4;0
 Lokirrim Vessel;Ship;Non-Aligned;All Good Things;250;;4;0
@@ -330,7 +346,7 @@ Mark Tobiaston;Personnel;Federation;The Motion Pictures;261,7193;;4;0
 Market Research;Mission;Space;Rules of Acquisition;262;;4;0
 Mas'ud;Personnel;Non-Aligned;The Motion Pictures;263,7194;;4;0
 Matriarchal Society;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1696,1697,5259,6203,6566,6929,7851;;4;1 # Have 1 Premiere, need 1 Voyager
-McKnight;Personnel;Federation;Premiere;264,6005,6368,6731,7653;;4;0
+McKnight;Personnel;Federation;Premiere;264,6005,6368,6731,7653,8017;;4;1
 Medical Kit;Equipment;;Premiere/Voyager/Trouble with Tribbles Starter Decks;1704,1705,5260,6204,6567,6930,7852;;4;1 # Have 1 PREM
 Mendak;Personnel;Romulan;Premiere;1713,6207,6570,6933,7855;;2;1
 Mendon;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks/Introductory 2-Player Game;265,6006,6369,6732,7113,7168,7654;;4;0
@@ -347,6 +363,7 @@ Mirok;Personnel;Romulan;Premiere;1736,6212,6575,6938,7860;;2;1
 Mirror Ferengi Shuttle;Ship;Ferengi;Mirror, Mirror;272;;4;0
 Mopak;Personnel;Romulan;Blaze of Glory;273;;4;0
 Mordoc;Personnel;Ferengi;The Trouble with Tribbles;274;;4;0
+Morgan Bateson;Personnel;Federation;Premiere;647,6055,6418,6781,7703,8067;;2;1
 Movar;Personnel;Romulan;Premiere;656,6057,6420,6783,7705;;2;1
 Mr. Andrews;Personnel;Federation;Mirror, Mirror;275,4850;;4;0
 N'Garen;Personnel;Klingon;Blaze of Glory/Trouble with Tribbles Starter Decks;284,7115;;4;0
@@ -362,6 +379,7 @@ Nava;Personnel;Ferengi;Rules of Acquisition;280,4438;;4;0
 Navok;Personnel;Romulan;Blaze of Glory;281;;4;0
 Nebula;Mission;Space;Q Continuum;282;;4;0
 Nekrit Supply Depot;Facility;Non-Aligned;Voyager;283;;4;0
+Nella Daren;Personnel;Federation;Premiere;1776,6217,6580,6943,7865,8229;;2;1
 Neral;Personnel;Romulan;Premiere;1779,6218,6581,6944,7866;;2;1
 Nilva;Personnel;Ferengi;Rules of Acquisition;285;;4;0
 Nine of Eleven;Personnel;Borg;First Contact;286;;4;0
@@ -408,6 +426,7 @@ Rase Norvan;Personnel;Bajoran;Deep Space 9;314;;4;0
 Rax'Na;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;315,7117;;4;0
 Rebel Encounter;Dilemma;Planet;Premiere;1962,6970,6244,6607,7892;;4;1
 Rebel Interceptor;Ship;Federation;Mirror, Mirror;316,4873;;4;0
+Reginald Barclay;Personnel;Federation;Premiere;1975,6246,6609,6972,7894,8258;;2;1
 Regnor;Personnel;Klingon;The Motion Pictures;317,7197;;4;0
 Rekelen;Personnel;Cardassian;Deep Space 9;318,4420;;4;0
 REM Fatigue Hallucinations;Dilemma;Dual;Premiere;1989,6611,6248,6974,7896;;4;0 # Have 3 needing errata
@@ -581,8 +600,12 @@ Yak'Talon;Personnel;Dominion;The Dominion;467;;4;0
 Yint;Personnel;Non-Aligned;The Trouble with Tribbles;468;;4;0
 Young Jem'Hadar;Personnel;Dominion;The Dominion;469;;4;0
 Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
+Zalkonian Vessel;Ship;Non-Aligned;Q Continuum/Homefront III;471,4129;;4;0
+Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
+Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
+Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 470
+# Done through card 490
 #556-557
 #561
 #574
@@ -591,6 +614,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #606
 #609
 #634
+#647
 #656
 #662
 #673
@@ -650,6 +674,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #1762
 #1764
 #1770
+#1776
 #1779
 #1794
 #1806
@@ -662,6 +687,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #1925
 #1948-1949
 #1962
+#1975
 #1989
 #1997
 #2007
@@ -704,6 +730,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #3556-3558
 #3565-3566
 #3568
+#3572
 #3578
 #3580-3583
 #3587-3589
@@ -723,6 +750,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #4078-4079
 #4081-4083
 #4112
+#4129
 #4186
 #4259
 #4284
@@ -732,6 +760,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #4416
 #4418
 #4420-4425
+#4427
 #4431
 #4434
 #4438
@@ -805,13 +834,14 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #5900-5901
 #5909-5913
 #5917
-#5966-6034
+#5966-6035
 #6037-6038
 #6040
 #6044
 #6046-6047
 #6049-6050
 #6052
+#6055
 #6057-6058
 #6060-6061
 #6065-6066
@@ -846,7 +876,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6207-6208
 #6210-6211
 #6212-6215
-#6218
+#6217-6218
 #6222
 #6225
 #6227
@@ -855,6 +885,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6238-6239
 #6241-6242
 #6244
+#6246
 #6248-6250
 #6252-6256
 #6258
@@ -876,13 +907,14 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6397
+#6328-6398
 #6400-6401
 #6403
 #6407
 #6409-6410
 #6412-6413
 #6415
+#6418
 #6420-6421
 #6423-6424
 #6428-6429
@@ -916,7 +948,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6566-6567
 #6570-6571
 #6573-6578
-#6581
+#6580-6581
 #6585
 #6588
 #6590
@@ -925,6 +957,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6601-6602
 #6604-6605
 #6607
+#6609
 #6611-6613
 #6615-6619
 #6621
@@ -945,13 +978,14 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6677
 #6682
 #6685-6686
-#6691-6760
+#6691-6761
 #6763-6764
 #6766
 #6770
 #6772-6773
 #6775-6776
 #6778
+#6781
 #6783-6784
 #6786-6787
 #6688
@@ -986,7 +1020,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6929-6930
 #6933-6934
 #6936-6941
-#6944
+#6943-6944
 #6948
 #6951
 #6953
@@ -995,6 +1029,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #6964-6965
 #6967-6968
 #6970
+#6972
 #6974-6976
 #6978-6982
 #6984
@@ -1038,13 +1073,14 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #7524-7525
 #7527-7529
 #7613
-#7615-7682
+#7615-7683
 #7685-7686
 #7688
 #7692
 #7694-7695
 #7697-7698
 #7700
+#7703
 #7705-7706
 #7708-7709
 #7713-7714
@@ -1076,7 +1112,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #7851-7852
 #7855-7856
 #7858-7863
-#7866
+#7865-7866
 #7870
 #7873
 #7875
@@ -1085,6 +1121,7 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #7886-7887
 #7889-7890
 #7892
+#7894
 #7896-7898
 #7900-7904
 #7906
@@ -1106,11 +1143,13 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #7967
 #7970-7971
 #7973
+#8016-8017
 #8022-8023
 #8034
-#8037-8046
+#8037-8047
 #8061-8062
 #8064
+#8067
 #8073
 #8082
 #8084
@@ -1130,12 +1169,14 @@ Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
 #8199
 #8220
 #8222
+#8229
 #8243
 #8253
 #8264-8267
 #8270
 #8276
 #8279
+#8258
 #8305
 #8311
 #8322
