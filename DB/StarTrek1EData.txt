@@ -15,6 +15,16 @@
 10 Tribbles - Poison;Tribble;;The Trouble with Tribbles;488;;4;0
 10,000 Tribbles - Go;Tribble;;The Trouble with Tribbles;489;;4;0
 10,000 Tribbles - Poison;Tribble;;The Trouble with Tribbles;490;;4;0
+10,000 Tribbles - Rescue;Tribble;;The Trouble with Tribbles;491;;4;0
+100 Tribbles - Bonus;Tribble;;The Trouble with Tribbles;492;;4;0
+100 Tribbles - Poison;Tribble;;The Trouble with Tribbles;493;;4;0
+100 Tribbles - Rescue;Tribble;;The Trouble with Tribbles;494;;4;0
+100,000 Tribbles - Clone;Tribble;;The Trouble with Tribbles;495;;4;0
+100,000 Tribbles - Discard;Tribble;;The Trouble with Tribbles;496;;4;0
+100,000 Tribbles - Rescue;Tribble;;The Trouble with Tribbles;497;;4;0
+1962 Roger Maris Baseball Card;Artifact;;Fajo Collection;498;;2;0
+1st Rule of Acquisition;Event;;Rules of Acquisition/Virtual Promos;499,7432;;4;0
+211th Rule of Acquisition;Event;;Rules of Acquisition;500;;4;0
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
 Alidar Jarok;Personnel;Romulan;Premiere;556,6037,6763,6400,7685;;2;1
 Alien Abduction;Dilemma;Planet;Premiere/Virtual Promos;557,5824,6038,6401,6764,7686;;4;0 # Need errata
@@ -214,6 +224,7 @@ Garren;Personnel;Hirogen;Holodeck Adventures;165;164;4;0
 Garren;Personnel;Romulan;Holodeck Adventures;164;165;4;0
 General Hazar;Personnel;Bajoran;The Dominion;166;;4;0
 Geological Survey;Mission;Planet;Starter Deck II;167,7056;;4;0
+Geordi La Forge;Personnel;Federation;Premiere;1243,3561,6127,6490,6853,7523,7775,8139;;2;1
 Ghoren;Personnel;Cardassian;Deep Space 9;168;;4;0
 Gibson;Personnel;Federation;Q Continuum/Trouble with Tribbles Starter Decks;169,7107;;4;0
 Giusti;Personnel;Federation;Premiere;170,5991,6354,6717,7639;;4;0
@@ -283,6 +294,7 @@ Jaheel;Personnel;Non-Aligned;Deep Space 9;201;;4;0
 Jaron;Personnel;Romulan;Premiere;202,5997,6360,6723,7645;;4;1
 Jasad;Personnel;Cardassian;Deep Space 9;203;;4;0
 Javek Len;Personnel;Bajoran;Mirror, Mirror;204,4828;;4;0
+Jean-Luc Picard;Personnel;Federation;Premiere/Virtual Promos;1457,3530,4089,4954,6163,6526,6889,7811,8175;;2;1 # Have 1 PREM, 2 different VP
 Jem'Hadar Attack Ship;Ship;Dominion;The Dominion;206;;4;0
 Jem'Hadar Warship;Ship;Dominion;The Dominion/Borderless Promos;208,5591;;4;0
 Jenok;Personnel;Romulan;The Trouble with Tribbles;209;;4;0
@@ -292,11 +304,13 @@ Joseph Carey;Personnel;Federation;Voyager;212;;4;0
 Joseph Travis;Personnel;Federation;First Contact;213;;4;0
 Jural;Personnel;Cardassian;Deep Space 9;214;;4;0
 K'chiQ;Personnel;Klingon;Q Continuum;227;;4;0
+K'Ehleyr;Personnel;Federation;Premiere;1506,6169,6532,6895,7817,8181;;2;1
 K'Tesh;Personnel;Klingon;Premiere;243,6003,6366,6729,7651;;4;0
 Kalita;Personnel;Non-Aligned;Deep Space 9;215,4444;;4;0
 Kallis Ven;Personnel;Bajoran;Deep Space 9;216;;4;0
 Kamok;Personnel;Klingon;The Borg;217;;4;0
 Kar'meth;Personnel;Klingon;Holodeck Adventures;220;;4;0
+Kareel Odan;Personnel;Federation;Premiere;1488,6167,6530,6893,7815,8179;;2;1
 Karemman Vessel;Ship;Non-Aligned;Rules of Acquisition;218,4451;;4;0
 Karen Loews;Personnel;Federation;Deep Space 9;219;;4;0
 Karnog;Personnel;Klingon;The Motion Pictures;221,7189;;4;0
@@ -325,6 +339,7 @@ Krozh;Personnel;Non-Aligned;Rules of Acquisition;241;;4;0
 Krunk;Personnel;Ferengi;Rules of Acquisition/Coming of Age;242,5435;;4;0
 Ktarian Game;Dilemma;Space;Premiere;1574,6187,6550,6913,7835,8199;;4;1
 Lam;Personnel;Dominion;The Trouble with Tribbles;244;;4;0
+Leah Brahms;Personnel;Federation;Premiere;1594,6192,6555,6918,7840,8204;;2;1
 Letek;Personnel;Ferengi;Rules of Acquisition;245;;4;0
 Limara'Son;Personnel;Dominion;The Dominion;246;;4;0
 Linda Larson;Personnel;Federation;Premiere;247,6004,6367,6730,7652,8016;;4;1
@@ -605,7 +620,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 490
+# Done through card 500
 #556-557
 #561
 #574
@@ -648,6 +663,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1194
 #1196
 #1218
+#1243
 #1253
 #1270
 #1278
@@ -660,10 +676,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1403
 #1421
 #1426
+#1457
+#1488
+#1506
 #1518
 #1521
 #1530
 #1574
+#1594
 #1674
 #1676
 #1696-1697
@@ -725,9 +745,10 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3476
 #3513
 #3518
-#3529
+#3529-3530
 #3537-3539
 #3556-3558
+#3561
 #3565-3566
 #3568
 #3572
@@ -749,6 +770,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4074
 #4078-4079
 #4081-4083
+#4089
 #4112
 #4129
 #4186
@@ -800,6 +822,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4873-4874
 #4876
 #4892
+#4954
 #5173
 #5250-5251
 #5257
@@ -860,7 +883,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6110
 #6115-6120
 #6122
-#6128
+#6127-6128
 #6130
 #6132
 #6137
@@ -868,9 +891,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6150
 #6156
 #6159
+#6163
+#6167
+#6169
 #6171-6172
 #6174
 #6187
+#6192
 #6201
 #6203-6204
 #6207-6208
@@ -933,7 +960,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6473
 #6478-6483
 #6485
-#6491
+#6490-6491
 #6493
 #6495
 #6500
@@ -941,9 +968,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6513
 #6519
 #6522
+#6526
+#6530
+#6532
 #6534-6535
 #6537
 #6550
+#6555
 #6564
 #6566-6567
 #6570-6571
@@ -1005,7 +1036,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6836
 #6841-6846
 #6848
-#6854
+#6853-6854
 #6856
 #6858
 #6863
@@ -1013,9 +1044,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6876
 #6882
 #6885
+#6889
+#6893
+#6895
 #6897-6898
 #6900
 #6913
+#6918
 #6927
 #6929-6930
 #6933-6934
@@ -1065,12 +1100,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7183-7208
 #7251
 #7327
+#7432
 #7503
 #7514
 #7510-7511
 #7516-7517
 #7520-7521
-#7524-7525
+#7523-7525
 #7527-7529
 #7613
 #7615-7683
@@ -1097,7 +1133,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7758
 #7766-7768
 #7770
-#7776
+#7775-7776
 #7778
 #7780
 #7785
@@ -1105,9 +1141,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7795-7796
 #7798
 #7804
+#7811
+#7815
+#7817
 #7819-7820
 #7822
 #7835
+#7840
 #7849
 #7851-7852
 #7855-7856
@@ -1160,13 +1200,18 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8115
 #8130-8132
 #8134
+#8139
 #8142
 #8144
 #8149
 #8157
 #8162
+#8175
+#8179
+#8181
 #8183-8184
 #8199
+#8204
 #8220
 #8222
 #8229

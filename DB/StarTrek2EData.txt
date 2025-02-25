@@ -593,7 +593,7 @@ Crowd Control;C;Event;;Energize;Print;3;3
 Cry "Havoc!";S;Event;;Second Edition;Print;3;3
 Cryptic Revelation;V;Interrupt;;The Menagerie;Virtual;3;0
 Culling Raid;V;Event;;Phage;Virtual;3;0
-Cultist Attack;C;Interrupt;;Call to Arms;Print;3;0
+Cultist Attack;C;Interrupt;;Call to Arms;Print;3;3
 Cultural Differences;C;Dilemma;;To Boldly Go;Print;3;3
 Cunningham, Assigned to the Galley;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Cure Blight;U;Mission;;Second Edition;Print;2;0
@@ -685,7 +685,7 @@ Deanna Troi, Major Rakal;P;Personnel;Romulan;Reflections 2.0;Print;3;0
 Deanna Troi, Par'Mach'kai;V;Personnel;Federation;The Menagerie;Virtual;3;0
 Deanna Troi, Principled Heart;V;Personnel;Federation;Heroes and Demons;Virtual;3;0
 Deanna Troi, Ship's Counselor;U;Personnel;Federation;Necessary Evil;Print;3;0
-Dear Friends;U;Interrupt;;What You Leave Behind;Print;3;0
+Dear Friends;U;Interrupt;;What You Leave Behind;Print;3;3
 Death's Shadow;V;Event;;Symbiosis;Virtual;3;0
 Debate Over Dinner;V;Event;;The Undiscovered Country;Virtual;3;0 // Reprint these
 Debris Field;C;Dilemma;;Second Edition;Print;3;3
@@ -706,7 +706,7 @@ Defragmentation Drone;C;Personnel;Borg;Necessary Evil;Print;3;0
 Deja Q;C;Event;;What You Leave Behind;Print;3;2
 Dejar, Cunning Saboteur;U;Personnel;Cardassian;Strange New Worlds;Print;3;0
 Delanh;V;Personnel;Vidiian;Phage;Virtual;3;0
-Delegated Assignment;R;Interrupt;;Strange New Worlds;Print;3;0
+Delegated Assignment;R;Interrupt;;Strange New Worlds;Print;3;3
 Deleted Subroutines;V;Interrupt;;Unnatural Selection;Virtual;3;0
 Delicate Negotiations;C;Event;;Strange New Worlds;Print;3;3
 Delirium;V/VP;Event;;Raise the Stakes/Virtual Promo;Virtual;4;3 // Have 3 RtS
@@ -755,8 +755,8 @@ Difficult Rescue;C;Dilemma;;Captain's Log;Print;3;0
 Dignitaries and Witnesses;P/VP;Dilemma;;Reflections 2.0/Virtual Promo;Both;3;1 // Have one REFL2
 Dikut'ukan;V;Personnel;Dominion;Raise the Stakes;Virtual;3;0
 Dilanum;V;Personnel;Vidiian;Phage;Virtual;3;0
-Dimensional Shifting;R;Interrupt;;Second Edition;Print;3;0
-Diplomatic Masquerade;U;Interrupt;;Energize;Print;3;0
+Dimensional Shifting;R;Interrupt;;Second Edition;Print;3;3
+Diplomatic Masquerade;U;Interrupt;;Energize;Print;3;3
 Diplomatic Offer;U;Event;;To Boldly Go;Print;3;2
 Diplomatic Overture;C;Event;;Second Edition;Print;3;3
 Disable Sensors;R;Event;;Energize;Print;3;0
@@ -768,9 +768,9 @@ Discard By-Product;V;Mission;;Lineage;Virtual;2;0
 Discommendation;V;Dilemma;;Return to Grace;Virtual;3;0
 Disconcerting Displacement;V;Interrupt;;Matter of Time;Virtual;3;0
 Discovered;U;Event;;These Are The Voyages;Print;3;0
-Discreet Inquiry;U;Interrupt;;Energize;Print;3;0
+Discreet Inquiry;U;Interrupt;;Energize;Print;3;2
 Disgraceful Assault;C;Dilemma;;Energize;Print;3;3
-Disinterested Visitant;R;Interrupt;;To Boldly Go;Print;3;0
+Disinterested Visitant;R;Interrupt;;To Boldly Go;Print;3;1
 Dispensing the White;C;Event;;Call to Arms;Print;3;3
 Display of Wealth;V;Event;;Unnatural Selection;Virtual;3;0
 Disruptive Presence;U;Event;;What You Leave Behind;Print;3;3
@@ -782,7 +782,7 @@ Distracting Exhibition;R;Event;;To Boldly Go;Print;3;0
 Distraction;C;Dilemma;;In a Mirror Darkly;Print;3;0
 Distress Call;R/VP;Dilemma;;These Are The Voyages/Virtual Promo;Both;3;0
 Divergent Goals;V;Dilemma;;Symbiosis;Virtual;3;0
-Diversionary Tactics;V;Interrupt;;Peak Performance;Virtual;3;0
+Diversionary Tactics;V;Interrupt;;Peak Performance;Virtual;3;3
 Divide and Conquer;V;Dilemma;;Lower Decks;Virtual;3;3
 Divisive Patron;V;Dilemma;;All Our Yesterdays;Virtual;3;0
 Divok;C;Personnel;Klingon;Energize;Print;3;2
@@ -802,7 +802,7 @@ Donatra, Honorable Commander;V;Personnel;Romulan;Extreme Measures;Virtual;3;0
 Doran;V;Personnel;Non-Aligned;Infinite Diversity Remastered;Virtual;3;0
 Dorian Collins, Acting Chief Petty Officer;C;Personnel;Federation;Necessary Evil;Print;3;0
 Dorvan V, Evacuate Colony;U;Mission;;Second Edition;Print;2;0
-Down to Business;V;Interrupt;;Raise the Stakes;Virtual;3;0
+Down to Business;V;Interrupt;;Raise the Stakes;Virtual;3;3
 Downfallen Civilization;V;Event;;Phage;Virtual;3;0
 Doyle;V;Personnel;Federation;Caretaker;Virtual;3;0
 Dr. Crell Moset, Medical Consultant Program;V;Personnel;Federation;Caretaker;Virtual;3;0
@@ -890,12 +890,12 @@ Emanations;V;Event;;Matter of Time;Virtual;3;0
 Emanuel Stevens;V;Personnel;Starfleet;A Less Perfect Union;Virtual;3;0
 Emck, Export Controller;V;Personnel;Non-Aligned;Extreme Measures;Virtual;3;0
 Emergency Evacuation;V;Event;;Face of the Enemy;Virtual;3;0
-Emergency Repairs;V;Interrupt;;A Time to Stand;Virtual;3;0
+Emergency Repairs;V;Interrupt;;A Time to Stand;Virtual;3;3
 Emergency Transport Unit;C/VP;Equipment;;Necessary Evil/Virtual Promo;Both;3;0
-Emergency Treatment;C;Interrupt;;Energize;Print;3;0
+Emergency Treatment;C;Interrupt;;Energize;Print;3;3
 Emok;C;Personnel;Cardassian;Second Edition;Print;3;0
 Emory Erickson, Father of the Transporter;U;Personnel;Starfleet;To Boldly Go;Print;3;0
-Empathic Touch;R;Interrupt;;Second Edition;Print;3;0
+Empathic Touch;R;Interrupt;;Second Edition;Print;3;1
 Empok Nor, Deadly Salvage;V;Mission;;Dead Stop;Virtual;2;0
 Empok Nor, Negotiate Prisoner Exchange;V;Mission;;Apocalypse Rising;Virtual;2;0
 Enabran Tain, "Retired" Spymaster;P/VP;Personnel;Cardassian;Reflections 2.0/Virtual Promo;Both;3;0
@@ -940,7 +940,7 @@ Evade Samaritan Snare;V;Mission;;Unity;Virtual;2;0
 Evaluate Soliton Wave;V;Mission;;Tacking Into the Wind;Virtual;2;0
 Evaluation Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Evans;C;Personnel;Federation;These Are The Voyages;Print;3;0
-Evasive Maneuvers;U;Interrupt;;Second Edition;Print;3;0
+Evasive Maneuvers;U;Interrupt;;Second Edition;Print;3;3
 Evek, Agent of Cardassian Justice;V/VP;Personnel;Cardassian;Legacy/Virtual Promo;Virtual;3;0
 Evek, Attaché to the Demilitarized Zone;R;Personnel;Cardassian;Second Edition;Print;3;0
 Evek, Harsh Interrogator;R;Personnel;Cardassian;Energize;Print;3;0
@@ -949,14 +949,14 @@ Examination Drone;C;Personnel;Borg;Necessary Evil;Print;3;0
 Excalbian Drama;C/VP;Dilemma;;These Are The Voyages/Virtual Promo;Both;3;0
 Excavation;U;Mission;;Second Edition;Print;2;0
 Exceed Engine Output;R/VP;Event;;Strange New Worlds/Virtual Promo;Both;3;1 // Have 1 SNW
-Exchange Program;V;Interrupt;;Peak Performance;Virtual;3;0
+Exchange Program;V;Interrupt;;Peak Performance;Virtual;3;3
 Executive Commission;V;Event;;Tacking Into the Wind;Virtual;3;3
 Exo III, Seek Lost Scientist;V;Mission;;The Menagerie;Virtual;2;0
 Exocomp;V;Equipment;;Legacy;Virtual;3;3
 Expand Business Opportunities;U;Mission;;What You Leave Behind;Print;2;0
 Expand the Collective;P;Event;;Fractured Time;Print;3;2
 Expedient Opportunity;V;Event;;Strange Bedfellows;Virtual;3;0
-Explicit Orders;P/VP;Interrupt;;Fractured Time/Virtual Promo;Both;3;0
+Explicit Orders;P/VP;Interrupt;;Fractured Time/Virtual Promo;Both;3;2 // Have 2 FT
 Exploit "Drought";V;Mission;;Lineage;Virtual;2;0
 Explore Black Cluster;S;Mission;;Second Edition;Print;2;0
 Explore Extradimensional World;V;Mission;;Raise the Stakes;Virtual;2;0
