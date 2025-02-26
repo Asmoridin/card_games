@@ -767,7 +767,7 @@ Kazuda Xiono, Best Pilot in the Galaxy;JTL-018-R;Leader;Y/W;0
 # Missing JTL-020
 Colossus;JTL-021-R;Base;U;0
 Resistance Headquarters;JTL-022-C;Base;G;0
-Theed Palace;JTL-023-C;Base;0
+Theed Palace;JTL-023-C;Base;G;0
 Data Vault;JTL-024-R;Base;G;0
 Thermal Oscillator;JTL-025-R;Base;R;0
 # Missing JTL-026
@@ -873,17 +873,17 @@ Tandem Assault;JTL-124-C;Event;G;0
 Eject;JTL-126-R;Event;G;0
 # Missing JTL-127
 # Missing JTL-128
-# Missing JTL-129
+Focus Fire;JTL-129-C;Event;G;0
 # Missing JTL-130
 Turbolaser Salvo;JTL-130-L;Event;G;0
 First Order Stormtrooper;JTL-132-C;Ground Unit;R/B;0
 Allegiant General Pryde, Ruthless and Loyal;JTL-133-R;Ground Unit;R/B;0
 General Hux, No Terms, No Surrender;JTL-134-U;Ground Unit;R/B;0
 Special Forces TIE Fighter;JTL-135-C;Space Unit;R/B;0
-# Missing JTL-136
+Prototype TIE Advanced;JTL-136-C;Space Unit;R/B;0
 # Missing JTL-137
 # Missing JTL-138
-Dengar, Crude and Slovenly;JTL-139-U;Grount Unit;R/B;0
+Dengar, Crude and Slovenly;JTL-139-U;Ground Unit;R/B;0
 IG-2000, Assassin's Aggressor;JTL-140-R;Space Unit;R/B;0
 IG-88, Murderous Phlutdroid;JTL- 141-R;Ground Unit;R/B;0
 # Missing JTL-142
@@ -912,13 +912,13 @@ Droid Missile Platform;JTL-162-C;Space Unit;R;0
 Hunting Aggressor;JTL-165-U;Space Unit;R;0
 # Missing JTL-166
 # Missing JTL-167
-# Missing JTL-168
+Insurgent Saboteurs;JTL-168-C;Ground Unit;R;0
 # Missing JTL-169
 # Missing JTL-170
 # Missing JTL-171
 # Missing JTL-172
 Fight Fire With Fire;JTL-173-C;Event;R;0
-# Missing JTL-174
+Hotshot Maneuver;JTL-174-R;Event;R;0
 # Missing JTL-175
 # Missing JTL-176
 Stay on Target;JTL-177-U;Event;R;0
@@ -939,7 +939,7 @@ Invincible, Naval Adversary;JTL-191-L;Space Unit;Y/B;0
 # Missing JTL-192
 I Have You Now;JTL-193-U;Event;Y/B;0
 # Missing JTL-194
-# Missing JTL-195
+Cat and Mouse;JTL-195-R;Event;Y/B;0
 Dagger Squadron Pilot;JTL-196-C;Ground Unit;Y/W;0
 Anakin Skywalker, I'll Try Spinning;JTL-197-U;Ground Unit;Y/W;0
 # Missing JTL-198
@@ -950,7 +950,7 @@ Black Squadron Scout Wing;JTL-202-C;Space Unit;Y/W;0
 Han Solo, Has His Moments;JTL-203-L;Ground Unit;Y/W;0
 Home One, On My Mark;JTL-204-L;Space Unit;Y/W;0
 # Missing JTL-205
-# Missing JTL-206
+Fly Casual;JTL-206-U;Event;Y/W;0
 # Missing JTL-207
 Never Tell Me the Odds;JTL-208-S;Event;Y/W;0
 It's a Trap;JTL-209-R;Event;Y/W;0
@@ -968,15 +968,15 @@ Guerilla Soldier;JTL-218-C;Ground Unit;Y;0
 Stolen AT-Hauler;JTL-221-L;Space Unit;Y;0
 # Missing JTL-222
 # Missing JTL-223
-# Missing JTL-224
+Shadowed Hover Tank;JTL-224-C;Ground Unit;Y;0
 # Missing JTL-225
 Radiant VII, Ambassadors' Arrival;JTL-226-L;Space Unit;Y;0
 # Missing JTL-227
-# Missing JTL-228
-# Missing JTL-229
+Barrel Roll;JTL-228-C;Event;Y;0
+Diversion;JTL-229-C;Event;Y;0
 Electromagnetic Pulse;JTL-230-C;Event;Y;0
 # Missing JTL-231
-# Missing JTL-232
+Jump to Lightspeed;JTL-232-R;Event;Y;0
 # Missing JTL-233
 # Missing JTL-234
 Commandeer;JTL-235-R;Event;Y;0
@@ -995,10 +995,15 @@ R2-D2, Artooooooooo!;JTL-245-U;Ground Unit;W;0
 # Missing JTL-248
 Millennium Falcon, Get Out And Push;JTL-249-S;Space Unit;W;0
 Sabine's Masterpiece, Crazy Colorful;JTL-250-R;Space Unit;W;0
-# Missing JTL-251
+Jedi Light Cruiser;JTL-251-C;Space Unit;W;0
 Tantive IV, Fleeing the Empire;JTL-252-U;Space Unit;W;0
 # Missing JTL-253
-# Missing JTL-254
-# Missing JTL-255
+Dedicated Wingmen;JTL-254-C;Event;W;0
+Sullustan Spacer;JTL-255-C;Ground Unit;N;0
 Swarming Vulture Droid;JTL-256-C;Space Unit;N;0;15
 # Missing JTL-257
+# Missing JTL-258
+# Missing JTL-259
+# Missing JTL-260
+Attack Run;JTL-261-C;Event;N;0
+# Missing JTL-262
