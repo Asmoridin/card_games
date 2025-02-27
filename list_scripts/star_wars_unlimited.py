@@ -114,6 +114,11 @@ full_collection = {}
 card_need_dict = {}
 card_names = set()
 KEEP_READ = True
+
+hyperfoil_list = []
+HYPER_MAX = 0
+HYPER_OWN = 0
+
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -121,6 +126,23 @@ for line in lines:
         KEEP_READ = False
     if not KEEP_READ:
         continue
+    HYPER_OWNED = 0
+    if line.count('#') > 0:
+        card_printings = line.split('#')[1].split(',')
+        for card_style in card_printings:
+            try:
+                print_qty, print_type = card_style.strip().split(' ')
+            except ValueError:
+                print("Something up with:")
+                print(line)
+                continue
+            print_qty = int(print_qty)
+            if print_type not in ['foil', 'hyperspace', 'hyperfoil', 'showcase']:
+                print(f"\nInvalid printing {print_type}")
+                print(line)
+            if print_type in ['hyperfoil', 'showcase']:
+                HYPER_OWNED += 1
+
     line = line.split('#')[0].strip() # Clears comments on lines
     CARD_MAX = 3
     try:
@@ -158,6 +180,17 @@ for line in lines:
     TOTAL_OWN += card_owned
     item_list.append((card_name, this_card_sets, this_card_rarities, card_type, card_colors,
         card_owned, CARD_MAX))
+
+    HAS_HYPER = True
+    if card_type == 'Base':
+        if this_card_rarities == ['Common']:
+            HAS_HYPER = False
+
+    if HAS_HYPER:
+        HYPER_MAX += 1
+        HYPER_OWN += HYPER_OWNED
+        hyperfoil_list.append((card_name, this_card_sets, this_card_rarities, card_type,
+            card_colors, HYPER_OWNED, 1))
 
 done_decks = []
 MIN_DECK_SIZE = 50
@@ -209,6 +242,14 @@ chosen_rarity, filtered_list = sort_and_filter(filtered_list, 2)
 chosen_card, filtered_list = sort_and_filter(filtered_list, 0)
 picked_item = filtered_list[0]
 
+# Hyperfoil filtering
+hyper_set, hyper_f_list = sort_and_filter(hyperfoil_list, 1)
+hyper_color, hyper_f_list = sort_and_filter(hyper_f_list, 4)
+hyper_type, hyper_f_list = sort_and_filter(hyper_f_list, 3)
+hyper_rarity, hyper_f_list = sort_and_filter(hyper_f_list, 2)
+hyper_card, hyper_f_list = sort_and_filter(hyper_f_list, 0)
+hyper_item = hyper_f_list[0]
+
 if __name__=="__main__":
     if os.getcwd().endswith('card_games'):
         out_file_h = open("output/StarWarsUnlimited.txt", 'w', encoding="UTF-8")
@@ -221,6 +262,13 @@ if __name__=="__main__":
     next_buy_string = f"Buy a {chosen_color} {chosen_type} from {chosen_set} - perhaps " + \
         f"{picked_item[0]} (have {picked_item[5]} out of {picked_item[6]})"
     double_print(next_buy_string, out_file_h)
+
+    hyper_string = f"\nHave {HYPER_OWN} out of {HYPER_MAX} hyperfoil cards - " + \
+        f"{100* HYPER_OWN/HYPER_MAX:.2f} percent"
+    double_print(f"{hyper_string}", out_file_h)
+    hyper_buy_string = f"Buy a {hyper_color} {hyper_type} from {hyper_set} - perhaps " + \
+        f"{hyper_item[0]} (have {hyper_item[5]} out of {hyper_item[6]})"
+    double_print(hyper_buy_string, out_file_h)
 
     double_print(f"\nNeed the ({MIN_DECK_SIZE}) following cards to finish the next closest " + \
         f"deck ({MIN_DECK_NAME})", out_file_h)
