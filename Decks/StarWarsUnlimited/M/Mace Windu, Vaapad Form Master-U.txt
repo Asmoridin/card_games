@@ -1,0 +1,139 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Il Mace-llaio (Fulminato)",
+    "author": "zasko"
+  },
+  "leader": {
+    "id": "TWI_013",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_021",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_044",
+      "count": 3
+    },
+    {
+      "id": "TWI_170",
+      "count": 3
+    },
+    {
+      "id": "SOR_167",
+      "count": 2
+    },
+    {
+      "id": "SOR_058",
+      "count": 2
+    },
+    {
+      "id": "TWI_152",
+      "count": 2
+    },
+    {
+      "id": "SHD_071",
+      "count": 2
+    },
+    {
+      "id": "SOR_045",
+      "count": 3
+    },
+    {
+      "id": "SOR_145",
+      "count": 2
+    },
+    {
+      "id": "SHD_044",
+      "count": 2
+    },
+    {
+      "id": "SOR_149",
+      "count": 2
+    },
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "SOR_052",
+      "count": 2
+    },
+    {
+      "id": "TWI_174",
+      "count": 3
+    },
+    {
+      "id": "SHD_078",
+      "count": 2
+    },
+    {
+      "id": "TWI_070",
+      "count": 3
+    },
+    {
+      "id": "SOR_051",
+      "count": 3
+    },
+    {
+      "id": "SHD_172",
+      "count": 2
+    },
+    {
+      "id": "SHD_066",
+      "count": 2
+    },
+    {
+      "id": "SHD_043",
+      "count": 2
+    },
+    {
+      "id": "TWI_077",
+      "count": 1
+    },
+    {
+      "id": "SHD_042",
+      "count": 2
+    },
+    {
+      "id": "SOR_173",
+      "count": 3
+    },
+    {
+      "id": "SHD_041",
+      "count": 3
+    },
+    {
+      "id": "TWI_146",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_062",
+      "count": 2
+    },
+    {
+      "id": "SOR_145",
+      "count": 1
+    },
+    {
+      "id": "SHD_248",
+      "count": 2
+    },
+    {
+      "id": "SHD_181",
+      "count": 2
+    },
+    {
+      "id": "SHD_043",
+      "count": 1
+    },
+    {
+      "id": "TWI_077",
+      "count": 1
+    }
+  ]
+}

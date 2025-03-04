@@ -1,0 +1,159 @@
+// Pulled 3/4/25 
+{
+  "metadata": {
+    "name": "Palpi Imperial 1.00",
+    "author": "CloneTrooper"
+  },
+  "leader": {
+    "id": "SOR_006",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_021",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_058",
+      "count": 3
+    },
+    {
+      "id": "SHD_090",
+      "count": 1
+    },
+    {
+      "id": "SOR_090",
+      "count": 1
+    },
+    {
+      "id": "SHD_122",
+      "count": 1
+    },
+    {
+      "id": "SHD_078",
+      "count": 1
+    },
+    {
+      "id": "SHD_085",
+      "count": 2
+    },
+    {
+      "id": "SOR_119",
+      "count": 2
+    },
+    {
+      "id": "SHD_094",
+      "count": 2
+    },
+    {
+      "id": "SOR_082",
+      "count": 3
+    },
+    {
+      "id": "SHD_028",
+      "count": 2
+    },
+    {
+      "id": "SOR_040",
+      "count": 1
+    },
+    {
+      "id": "SHD_030",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "SOR_036",
+      "count": 3
+    },
+    {
+      "id": "SOR_076",
+      "count": 2
+    },
+    {
+      "id": "SOR_043",
+      "count": 1
+    },
+    {
+      "id": "SOR_234",
+      "count": 2
+    },
+    {
+      "id": "SOR_041",
+      "count": 2
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "SOR_031",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 2
+    },
+    {
+      "id": "TWI_070",
+      "count": 2
+    },
+    {
+      "id": "SOR_037",
+      "count": 1
+    },
+    {
+      "id": "SOR_230",
+      "count": 3
+    },
+    {
+      "id": "SHD_037",
+      "count": 1
+    },
+    {
+      "id": "SHD_081",
+      "count": 3
+    },
+    {
+      "id": "SOR_109",
+      "count": 3
+    },
+    {
+      "id": "SOR_087",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_252",
+      "count": 1
+    },
+    {
+      "id": "SHD_063",
+      "count": 2
+    },
+    {
+      "id": "SHD_238",
+      "count": 1
+    },
+    {
+      "id": "SOR_224",
+      "count": 2
+    },
+    {
+      "id": "SOR_089",
+      "count": 1
+    },
+    {
+      "id": "TWI_033",
+      "count": 2
+    },
+    {
+      "id": "SOR_122",
+      "count": 1
+    }
+  ]
+}

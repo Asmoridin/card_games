@@ -1,0 +1,123 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Give her a shot",
+    "author": "erPeppo"
+  },
+  "leader": {
+    "id": "TWI_008",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_106",
+      "count": 3
+    },
+    {
+      "id": "SOR_104",
+      "count": 2
+    },
+    {
+      "id": "TWI_114",
+      "count": 3
+    },
+    {
+      "id": "TWI_091",
+      "count": 3
+    },
+    {
+      "id": "TWI_109",
+      "count": 3
+    },
+    {
+      "id": "TWI_090",
+      "count": 3
+    },
+    {
+      "id": "SOR_099",
+      "count": 2
+    },
+    {
+      "id": "TWI_101",
+      "count": 3
+    },
+    {
+      "id": "SOR_102",
+      "count": 1
+    },
+    {
+      "id": "SOR_109",
+      "count": 3
+    },
+    {
+      "id": "SOR_107",
+      "count": 3
+    },
+    {
+      "id": "TWI_092",
+      "count": 2
+    },
+    {
+      "id": "SHD_104",
+      "count": 1
+    },
+    {
+      "id": "SOR_097",
+      "count": 3
+    },
+    {
+      "id": "TWI_099",
+      "count": 2
+    },
+    {
+      "id": "TWI_111",
+      "count": 3
+    },
+    {
+      "id": "TWI_102",
+      "count": 3
+    },
+    {
+      "id": "TWI_094",
+      "count": 3
+    },
+    {
+      "id": "SOR_095",
+      "count": 3
+    },
+    {
+      "id": "TWI_129",
+      "count": 1
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_104",
+      "count": 1
+    },
+    {
+      "id": "SHD_262",
+      "count": 3
+    },
+    {
+      "id": "SOR_122",
+      "count": 2
+    },
+    {
+      "id": "SOR_102",
+      "count": 1
+    },
+    {
+      "id": "SHD_132",
+      "count": 2
+    },
+    {
+      "id": "TWI_099",
+      "count": 1
+    }
+  ]
+}

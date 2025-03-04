@@ -1,0 +1,123 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Bossk G30 3.3.0",
+    "author": "Travish4103"
+  },
+  "leader": {
+    "id": "SHD_010",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_023",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_137",
+      "count": 2
+    },
+    {
+      "id": "SHD_176",
+      "count": 3
+    },
+    {
+      "id": "SOR_087",
+      "count": 3
+    },
+    {
+      "id": "SOR_119",
+      "count": 3
+    },
+    {
+      "id": "TWI_170",
+      "count": 2
+    },
+    {
+      "id": "SHD_084",
+      "count": 3
+    },
+    {
+      "id": "SOR_139",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "SOR_090",
+      "count": 1
+    },
+    {
+      "id": "SHD_125",
+      "count": 3
+    },
+    {
+      "id": "SHD_238",
+      "count": 3
+    },
+    {
+      "id": "SHD_071",
+      "count": 2
+    },
+    {
+      "id": "TWI_238",
+      "count": 3
+    },
+    {
+      "id": "SHD_135",
+      "count": 1
+    },
+    {
+      "id": "SHD_090",
+      "count": 3
+    },
+    {
+      "id": "SOR_089",
+      "count": 3
+    },
+    {
+      "id": "SHD_123",
+      "count": 3
+    },
+    {
+      "id": "SHD_237",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SHD_172",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 3
+    },
+    {
+      "id": "SOR_134",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_135",
+      "count": 1
+    },
+    {
+      "id": "SOR_252",
+      "count": 2
+    },
+    {
+      "id": "SHD_262",
+      "count": 2
+    }
+  ]
+}

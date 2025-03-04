@@ -35,6 +35,16 @@
 6th Rule Of Acquisition;Event;;Rules of Acquisition;508;;4;0
 75th Rule of Acquisition;Event;;Rules of Acquisition;509;;4;0
 A Change of Plans;Interrupt;;First Contact/Homefront III;510,4105;;4;0
+A Fast Ship Would Be Nice;Dilemma;Dual;Mirror, Mirror/Virtual Promos;511,3689,4796;;4;0
+A Good Day To Live;Mission;Planet;Blaze of Glory;512;;2;0
+A Good Place to Die;Mission;Planet;Introductory 2-Player Game;513;;2;0
+Aamin Marritza;Personnel;Cardassian;Deep Space 9;514;;2;0
+Abandon Mission;Event;;First Contact;515;;4;0
+Abandon Ship!;Dilemma;Space;Official Tournament Sealed Deck;516,5902;;4;0
+Ablative Armor;Equipment;;Holodeck Adventures/Homefront II;517,3858;;4;0
+Access Denied;Objective;;Blaze of Glory/Referee Reprints;518,3086;;4;0
+Access Relay Station;Mission;Planet;Deep Space 9/Homefront IV;519,4265;;2;0
+Acquire Illicit Explosives;Mission;Space;Deep Space 9/Homefront IV;520,4266;;2;0
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
 Alidar Jarok;Personnel;Romulan;Premiere;556,6037,6763,6400,7685;;2;1
 Alien Abduction;Dilemma;Planet;Premiere/Virtual Promos;557,5824,6038,6401,6764,7686;;4;0 # Need errata
@@ -45,6 +55,8 @@ Alliance K'Vort;Ship;Klingon;Mirror, Mirror;47;;4;0
 Alliance Nor;Facility;Cardassian;Mirror, Mirror;48;;4;0
 Alliance Vor'Cha;Ship;Klingon;Mirror, Mirror;49,4874;;4;0
 Alpha Attack Ship;Ship;Dominion;Blaze of Glory;50;;4;0
+Alynna Nechayev;Personnel;Federation;Premiere;570,6042,6405,6768,7690,8054;;2;1
+Alyssa Ogawa;Personnel;Federation;Premiere/Coming of Age;571,5429,6043,6406,6769,7691,8055;;2;1
 Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692;;4;2
 Amaros;Personnel;Non-Aligned;Deep Space 9;51,4442;;4;0
 Amet'alox;Personnel;Dominion;The Trouble with Tribbles;52;;4;0
@@ -86,7 +98,7 @@ Betazed Invasion;Mission;Planet;The Dominion;429;;2;0
 Betazoid Gift Box;Artifact;;Premiere/Virtual Promos;7054,430,3476,3583,6328,6691;;2;1
 Beverly and Will;Personnel;Non-Aligned;Enhanced Premiere;432;;2;0
 Beverly Crusher (First Contact);Personnel;Federation;First Contact;434;;2;0
-Beverly Crusher;Personnel;Federation;Premiere;433,3557,6029,6392,6755,7677,8041;;2;0
+Beverly Crusher;Personnel;Federation;Premiere;433,3557,6029,6392,6755,7677,8041;;2;1
 Beverly Picard;Personnel;Federation;Alternate Universe;435,3558;;2;0
 Beware of Q;Objective;;Deep Space 9;436;;4;0
 Beyond the Subatomic;Interrupt;;Voyager;437;;4;0
@@ -108,7 +120,7 @@ Botanical Research;Mission;Planet;Starter Deck II;80,4053,7055;;4;0
 Bothan Vessel;Ship;Non-Aligned;Voyager;81;;4;0
 Breen Warship;Ship;Dominion;The Trouble with Tribbles;82;;4;0
 Calandra;Personnel;Non-Aligned;Rules of Acquisition;84;;4;0
-Calloway;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;85,5979,6342,6705,7103,7627;;4;0
+Calloway;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;85,5979,6342,6705,7103,7627,7991;;4;1
 Cardassian Shuttle;Ship;Cardassian;Deep Space 9;86;;4;0
 Cargo Bay;Site;;Rules of Acquisition/Homefront V;87,4462;;2;0
 Catalog Phenomena;Mission;Space;Voyager;88;;4;0
@@ -145,8 +157,10 @@ Dar;Personnel;Hirogen;Holodeck Adventures;106;105;4;0
 Darian Wallace;Personnel;Federation;Premiere;107,5982,6345,6708,7521,7630;;4;0
 Darmok;Ship;Non-Aligned;Official Tournament Sealed Deck;108,5917;;4;0
 Daro;Personnel;Cardassian;The Dominion;109,7516;;4;0
+Data;Personnel;Federation;Premiere;914,3559,6079,6442,6805,7727,8091;;2;1
 Daval;Personnel;Klingon;The Trouble with Tribbles;110;;4;0
 Davar;Personnel;Hirogen;The Borg;111;;4;0
+Deanna Troi;Personnel;Federation;Premiere;928,3560,6080,6443,6806,7728,8092;;2;1
 Derell;Personnel;Cardassian;Deep Space 9;114;;4;0
 Devoras;Ship;Romulan;Premiere;953,6082,6445,6808,7730,8094;;2;1
 Dilanum;Personnel;Vidiian;The Borg;115;;4;0
@@ -417,6 +431,7 @@ Nine of Twelve;Personnel;Borg;The Borg;289;;4;0
 Nirata;Personnel;Vidiian;Voyager;290;;4;0
 Nitrium Metal Parasites;Dilemma;Space;Premiere;1794,6222,6585,6948,7870;;4;0 # Have one needing errata
 Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
+Nutational Shields;Event;;Premiere;1809,6226,6589,6952,7874,8238;;4;1
 Ocett;Personnel;Non-Aligned;Premiere;1005,6087,6450,6813,7735;;2;1
 Oken'alak;Personnel;Dominion;Blaze of Glory;291;;4;0
 One of Eleven;Personnel;Borg;First Contact;292;;4;0
@@ -633,9 +648,10 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 510
+# Done through card 520
 #556-557
 #561
+#570-571
 #574
 #582
 #586
@@ -655,6 +671,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #885
 #899
 #906
+#914
+#928
 #953
 #958
 #980
@@ -713,7 +731,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1779
 #1794
 #1806
-#1810
+#1809-1810
 #1846-1847
 #1849
 #1863
@@ -756,14 +774,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2470
 #2611
 #3067
+#3086
 #3407
 #3476
 #3513
 #3518
 #3529-3530
 #3537-3539
-#3556-3558
-#3561
+#3556-3561
 #3565-3566
 #3568
 #3572
@@ -772,7 +790,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3587-3589
 #3617
 #3627
+#3689
 #3839
+#3858
 #3866
 #3927
 #4039-4041
@@ -791,6 +811,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4129
 #4186
 #4259
+#4265-4266
 #4284
 #4287
 #4406
@@ -822,6 +843,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4702-4704
 #4706-4707
 #4711
+#4796
 #4798
 #4820
 #4824
@@ -847,6 +869,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5262
 #5267
 #5272-5273
+#5429
 #5435-5438
 #5449
 #5503-5505
@@ -872,13 +895,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5822
 #5824
 #5827
-#5900-5901
+#5900-5902
 #5909-5913
 #5917
 #5966-6035
 #6037-6038
 #6040
-#6044
+#6042-6044
 #6046-6047
 #6049-6050
 #6052
@@ -889,7 +912,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6070
 #6072-6073
 #6076
-#6078
+#6078-6080
 #6082-6083
 #6085-6087
 #6091
@@ -924,8 +947,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6212-6215
 #6217-6218
 #6222
-#6225
-#6227
+#6225-6227
 #6229-6231
 #6234
 #6238-6239
@@ -956,7 +978,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6328-6398
 #6400-6401
 #6403
-#6407
+#6405-6407
 #6409-6410
 #6412-6413
 #6415
@@ -967,7 +989,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6433
 #6435-6436
 #6439
-#6441
+#6441-6443
 #6445-6446
 #6448-6450
 #6454
@@ -1001,8 +1023,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6573-6578
 #6580-6581
 #6585
-#6588
-#6590
+#6588-6590
 #6592-6594
 #6597
 #6601-6602
@@ -1032,7 +1053,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6761
 #6763-6764
 #6766
-#6770
+#6768-6770
 #6772-6773
 #6775-6776
 #6778
@@ -1044,7 +1065,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6796
 #6798-6799
 #6802
-#6804
+#6804-6806
 #6808-6809
 #6811-6813
 #6817
@@ -1078,8 +1099,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6936-6941
 #6943-6944
 #6948
-#6951
-#6953
+#6951-6953
 #6955-6957
 #6960
 #6964-6965
@@ -1131,7 +1151,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7615-7683
 #7685-7686
 #7688
-#7692
+#7690-7692
 #7694-7695
 #7697-7698
 #7700
@@ -1141,7 +1161,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7713-7714
 #7718
 #7720
-#7726
+#7726-7728
 #7730-7731
 #7733-7735
 #7741
@@ -1175,8 +1195,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7858-7863
 #7865-7866
 #7870
-#7873
-#7875
+#7873-7875
 #7877-7879
 #7882
 #7886-7887
@@ -1204,19 +1223,21 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7967
 #7970-7971
 #7973
+#7991
 #7998
 #8000
 #8016-8017
 #8022-8023
 #8034
 #8037-8047
+#8054-8055
 #8061-8062
 #8064
 #8067
 #8073
 #8082
 #8084
-#8090
+#8090-8092
 #8094
 #8105
 #8107
@@ -1240,6 +1261,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8220
 #8222
 #8229
+#8238
 #8243
 #8253
 #8264-8267

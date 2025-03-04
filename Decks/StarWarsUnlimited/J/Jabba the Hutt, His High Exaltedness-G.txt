@@ -1,0 +1,115 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Fulvous Homelander",
+    "author": "DarthBinks"
+  },
+  "leader": {
+    "id": "SHD_006",
+    "count": 1
+  },
+  "base": {
+    "id": "SHD_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_109",
+      "count": 3
+    },
+    {
+      "id": "SHD_091",
+      "count": 3
+    },
+    {
+      "id": "SHD_107",
+      "count": 3
+    },
+    {
+      "id": "TWI_118",
+      "count": 2
+    },
+    {
+      "id": "SOR_119",
+      "count": 2
+    },
+    {
+      "id": "TWI_082",
+      "count": 2
+    },
+    {
+      "id": "TWI_079",
+      "count": 3
+    },
+    {
+      "id": "SOR_105",
+      "count": 3
+    },
+    {
+      "id": "SHD_117",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_118",
+      "count": 3
+    },
+    {
+      "id": "SHD_090",
+      "count": 2
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SHD_112",
+      "count": 2
+    },
+    {
+      "id": "TWI_110",
+      "count": 3
+    },
+    {
+      "id": "SOR_107",
+      "count": 3
+    },
+    {
+      "id": "TWI_121",
+      "count": 3
+    },
+    {
+      "id": "TWI_101",
+      "count": 2
+    },
+    {
+      "id": "SOR_090",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "TWI_120",
+      "count": 3
+    },
+    {
+      "id": "TWI_082",
+      "count": 1
+    },
+    {
+      "id": "SHD_090",
+      "count": 1
+    },
+    {
+      "id": "SOR_089",
+      "count": 2
+    }
+  ]
+}

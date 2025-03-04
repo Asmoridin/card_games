@@ -1,0 +1,127 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "IDEN Green - RAMP",
+    "author": "mbjohnson7"
+  },
+  "leader": {
+    "id": "SOR_002",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_024",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_084",
+      "count": 3
+    },
+    {
+      "id": "SOR_077",
+      "count": 3
+    },
+    {
+      "id": "SHD_028",
+      "count": 3
+    },
+    {
+      "id": "SHD_031",
+      "count": 2
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    },
+    {
+      "id": "SHD_248",
+      "count": 1
+    },
+    {
+      "id": "SOR_040",
+      "count": 2
+    },
+    {
+      "id": "SOR_119",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "SOR_087",
+      "count": 3
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SOR_043",
+      "count": 3
+    },
+    {
+      "id": "SOR_183",
+      "count": 1
+    },
+    {
+      "id": "SOR_072",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SOR_107",
+      "count": 2
+    },
+    {
+      "id": "SOR_252",
+      "count": 1
+    },
+    {
+      "id": "SOR_058",
+      "count": 3
+    },
+    {
+      "id": "SOR_122",
+      "count": 3
+    },
+    {
+      "id": "SHD_125",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_035",
+      "count": 3
+    },
+    {
+      "id": "SHD_037",
+      "count": 3
+    },
+    {
+      "id": "SOR_040",
+      "count": 1
+    },
+    {
+      "id": "SOR_107",
+      "count": 1
+    },
+    {
+      "id": "TWI_070",
+      "count": 3
+    },
+    {
+      "id": "SHD_237",
+      "count": 2
+    },
+    {
+      "id": "SOR_233",
+      "count": 3
+    }
+  ]
+}

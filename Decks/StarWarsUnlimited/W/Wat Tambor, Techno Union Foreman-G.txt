@@ -1,0 +1,86 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Eburnean Aquaman",
+    "author": "MonoGram1"
+  },
+  "leader": {
+    "id": "TWI_006",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_104",
+      "count": 3
+    },
+    {
+      "id": "TWI_102",
+      "count": 3
+    },
+    {
+      "id": "SHD_084",
+      "count": 3
+    },
+    {
+      "id": "TWI_084",
+      "count": 3
+    },
+    {
+      "id": "SOR_109",
+      "count": 3
+    },
+    {
+      "id": "TWI_085",
+      "count": 2
+    },
+    {
+      "id": "TWI_081",
+      "count": 3
+    },
+    {
+      "id": "SHD_107",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "TWI_080",
+      "count": 3
+    },
+    {
+      "id": "TWI_122",
+      "count": 3
+    },
+    {
+      "id": "SOR_116",
+      "count": 3
+    },
+    {
+      "id": "SHD_112",
+      "count": 3
+    },
+    {
+      "id": "SHD_081",
+      "count": 3
+    },
+    {
+      "id": "SHD_237",
+      "count": 3
+    },
+    {
+      "id": "SHD_082",
+      "count": 3
+    },
+    {
+      "id": "SOR_106",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

@@ -1,0 +1,123 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Eat some worms - Copy",
+    "author": "izzaldizzal"
+  },
+  "leader": {
+    "id": "SHD_003",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_029",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "TWI_068",
+      "count": 2
+    },
+    {
+      "id": "SHD_043",
+      "count": 2
+    },
+    {
+      "id": "TWI_220",
+      "count": 3
+    },
+    {
+      "id": "SOR_238",
+      "count": 3
+    },
+    {
+      "id": "SOR_044",
+      "count": 3
+    },
+    {
+      "id": "SOR_052",
+      "count": 2
+    },
+    {
+      "id": "SOR_047",
+      "count": 2
+    },
+    {
+      "id": "SHD_042",
+      "count": 3
+    },
+    {
+      "id": "TWI_255",
+      "count": 3
+    },
+    {
+      "id": "SHD_079",
+      "count": 2
+    },
+    {
+      "id": "TWI_226",
+      "count": 3
+    },
+    {
+      "id": "SHD_078",
+      "count": 3
+    },
+    {
+      "id": "SHD_050",
+      "count": 1
+    },
+    {
+      "id": "SOR_045",
+      "count": 3
+    },
+    {
+      "id": "SOR_049",
+      "count": 2
+    },
+    {
+      "id": "TWI_052",
+      "count": 3
+    },
+    {
+      "id": "TWI_070",
+      "count": 3
+    },
+    {
+      "id": "SHD_041",
+      "count": 3
+    },
+    {
+      "id": "TWI_067",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_077",
+      "count": 1
+    },
+    {
+      "id": "SHD_071",
+      "count": 2
+    },
+    {
+      "id": "SHD_043",
+      "count": 1
+    },
+    {
+      "id": "SOR_070",
+      "count": 2
+    },
+    {
+      "id": "TWI_048",
+      "count": 2
+    },
+    {
+      "id": "SOR_252",
+      "count": 2
+    }
+  ]
+}

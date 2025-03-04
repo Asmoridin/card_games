@@ -4,6 +4,7 @@
 Collection tracker/purchase recommender for the Star Wars Unlimited card game.
 """
 
+import json
 import os
 
 from steve_utils.output_utils import double_print
@@ -65,18 +66,36 @@ def convert_colors(in_color):
             return []
     return ret_list
 
-def parse_deck(deck_lines, collection_dict_in):
+def parse_deck(deck_lines, collection_dict_in, in_card_ids):
     """
     Take a list of lines from a deck that has een read in, and convert the lines
     into an output dictionary
     """
     ret_dict = {}
+    deck_str = ''
     for deck_line in deck_lines:
         deck_line = deck_line.strip()
         if deck_line.startswith('//') or deck_line == '':
             continue
-        cards_needed, this_card_name = deck_line.split("\t")
-        cards_needed = int(cards_needed)
+        else:
+            deck_str += deck_line
+    deck_json = json.loads(deck_str)
+    deck_cards = {}
+    deck_cards[deck_json['leader']['id']] = deck_json['leader']['count']
+    deck_cards[deck_json['base']['id']] = deck_json['base']['count']
+    for card in deck_json['deck']:
+        deck_cards[card['id']] = card['count']
+    for card in deck_json['sideboard']:
+        if card['id'] not in deck_cards:
+            deck_cards[card['id']] = 0
+        deck_cards[card['id']] += card['count']
+    for deck_key, deck_values in deck_json.items():
+        if deck_key not in ['metadata', 'leader', 'base', 'deck', 'sideboard']:
+            print("Unhandled key in deck: ")
+            print(deck_key)
+            print(deck_values)
+    for this_card_name, cards_needed in deck_cards.items():
+        this_card_name = in_card_ids[this_card_name]
         if this_card_name not in collection_dict_in:
             print("Unknown card: " + this_card_name)
         if this_card_name not in ret_dict:
@@ -109,6 +128,7 @@ lines = [line.strip() for line in lines]
 item_list = []
 TOTAL_MAX = 0
 TOTAL_OWN = 0
+card_id_dict = {}
 collection_dict = {}
 full_collection = {}
 card_need_dict = {}
@@ -159,6 +179,10 @@ for line in lines:
         print(f"Duplicate card name: {card_name}")
     card_names.add(card_name)
     this_card_sets, this_card_rarities = process_card_set(card_set_info) # pylint: disable=unbalanced-tuple-unpacking
+    # Fill out card ID dict
+    for card_info in card_set_info.split('/'):
+        CARD_ID = '_'.join(card_info.split('-')[:-1])
+        card_id_dict[CARD_ID] = card_name
 
     if card_type not in valid_types:
         print(f"Invalid card type {card_type}")
@@ -196,24 +220,25 @@ done_decks = []
 MIN_DECK_SIZE = 50
 MIN_DECK_CARDS = {}
 MIN_DECK_NAME = ""
-for file_name in os.listdir(DECK_DIR):
-    this_deck_file = DECK_DIR + "/" + file_name
-    deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
-    this_deck_lines = deck_file_h.readlines()
-    deck_file_h.close()
-    this_deck_dict = parse_deck(this_deck_lines, collection_dict)
-    missing_cards = determine_missing(this_deck_dict, collection_dict)
-    if len(missing_cards) == 0:
-        done_decks.append(file_name)
-    else:
-        if len(missing_cards) < MIN_DECK_SIZE:
-            MIN_DECK_SIZE = len(missing_cards)
-            MIN_DECK_NAME = file_name
-            MIN_DECK_CARDS = missing_cards
-    for missing_card, missing_card_qty in missing_cards.items():
-        if missing_card not in card_need_dict:
-            card_need_dict[missing_card] = 0
-        card_need_dict[missing_card] += missing_card_qty
+for letter_start in os.listdir(DECK_DIR):
+    for file_name in os.listdir(DECK_DIR + "/" + letter_start):
+        this_deck_file = DECK_DIR + "/" + letter_start + "/" + file_name
+        deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
+        this_deck_lines = deck_file_h.readlines()
+        deck_file_h.close()
+        this_deck_dict = parse_deck(this_deck_lines, collection_dict, card_id_dict)
+        missing_cards = determine_missing(this_deck_dict, collection_dict)
+        if len(missing_cards) == 0:
+            done_decks.append(file_name)
+        else:
+            if len(missing_cards) < MIN_DECK_SIZE:
+                MIN_DECK_SIZE = len(missing_cards)
+                MIN_DECK_NAME = file_name
+                MIN_DECK_CARDS = missing_cards
+        for missing_card, missing_card_qty in missing_cards.items():
+            if missing_card not in card_need_dict:
+                card_need_dict[missing_card] = 0
+            card_need_dict[missing_card] += missing_card_qty
 
 missing_full_cards = determine_missing(full_collection, collection_dict)
 for missing_card, missing_card_qty in missing_full_cards.items():
@@ -274,8 +299,9 @@ if __name__=="__main__":
         f"deck ({MIN_DECK_NAME})", out_file_h)
     double_print(str(list(MIN_DECK_CARDS.items())), out_file_h)
 
-    double_print("\nFollowing decks I own all of the cards for:", out_file_h)
-    double_print(", ".join(done_decks), out_file_h)
+    if len(done_decks) > 0:
+        double_print("\nFollowing decks I own all of the cards for:", out_file_h)
+        double_print(", ".join(done_decks), out_file_h)
 
     double_print("\nMost needed cards:", out_file_h)
     for card_tuple in card_need_sorter[:10]:

@@ -1,0 +1,111 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Tournament Iden test v2 - Copy",
+    "author": "Wosho"
+  },
+  "leader": {
+    "id": "SOR_002",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_029",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_248",
+      "count": 1
+    },
+    {
+      "id": "SHD_184",
+      "count": 3
+    },
+    {
+      "id": "SHD_037",
+      "count": 2
+    },
+    {
+      "id": "SHD_222",
+      "count": 3
+    },
+    {
+      "id": "SOR_058",
+      "count": 3
+    },
+    {
+      "id": "SOR_177",
+      "count": 3
+    },
+    {
+      "id": "SOR_031",
+      "count": 3
+    },
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "SOR_183",
+      "count": 2
+    },
+    {
+      "id": "SOR_180",
+      "count": 3
+    },
+    {
+      "id": "SOR_043",
+      "count": 3
+    },
+    {
+      "id": "SOR_076",
+      "count": 3
+    },
+    {
+      "id": "SOR_186",
+      "count": 3
+    },
+    {
+      "id": "TWI_238",
+      "count": 3
+    },
+    {
+      "id": "SHD_078",
+      "count": 2
+    },
+    {
+      "id": "SHD_071",
+      "count": 3
+    },
+    {
+      "id": "SOR_040",
+      "count": 2
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    },
+    {
+      "id": "SOR_072",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_063",
+      "count": 3
+    },
+    {
+      "id": "SOR_252",
+      "count": 2
+    },
+    {
+      "id": "SHD_031",
+      "count": 3
+    },
+    {
+      "id": "SHD_072",
+      "count": 2
+    }
+  ]
+}

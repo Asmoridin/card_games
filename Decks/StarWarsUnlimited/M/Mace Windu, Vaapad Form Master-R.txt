@@ -1,0 +1,123 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Damage Everywhere",
+    "author": "GrandAdmiralFunk"
+  },
+  "leader": {
+    "id": "TWI_013",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_027",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_142",
+      "count": 3
+    },
+    {
+      "id": "TWI_150",
+      "count": 2
+    },
+    {
+      "id": "TWI_146",
+      "count": 1
+    },
+    {
+      "id": "TWI_171",
+      "count": 3
+    },
+    {
+      "id": "TWI_174",
+      "count": 3
+    },
+    {
+      "id": "SOR_145",
+      "count": 3
+    },
+    {
+      "id": "TWI_156",
+      "count": 2
+    },
+    {
+      "id": "SOR_144",
+      "count": 2
+    },
+    {
+      "id": "TWI_170",
+      "count": 3
+    },
+    {
+      "id": "TWI_155",
+      "count": 3
+    },
+    {
+      "id": "SOR_142",
+      "count": 3
+    },
+    {
+      "id": "SHD_158",
+      "count": 3
+    },
+    {
+      "id": "TWI_143",
+      "count": 2
+    },
+    {
+      "id": "SOR_149",
+      "count": 2
+    },
+    {
+      "id": "SHD_157",
+      "count": 3
+    },
+    {
+      "id": "TWI_164",
+      "count": 2
+    },
+    {
+      "id": "SOR_155",
+      "count": 2
+    },
+    {
+      "id": "TWI_151",
+      "count": 2
+    },
+    {
+      "id": "TWI_148",
+      "count": 3
+    },
+    {
+      "id": "SHD_148",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_166",
+      "count": 3
+    },
+    {
+      "id": "TWI_146",
+      "count": 1
+    },
+    {
+      "id": "SOR_173",
+      "count": 2
+    },
+    {
+      "id": "SHD_182",
+      "count": 1
+    },
+    {
+      "id": "SOR_150",
+      "count": 2
+    },
+    {
+      "id": "SHD_248",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Green Aggro",
+    "author": "Critchenator"
+  },
+  "leader": {
+    "id": "TWI_006",
+    "count": 1
+  },
+  "base": {
+    "id": "JTL_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_175",
+      "count": 3
+    },
+    {
+      "id": "SHD_083",
+      "count": 2
+    },
+    {
+      "id": "JTL_088",
+      "count": 3
+    },
+    {
+      "id": "TWI_104",
+      "count": 3
+    },
+    {
+      "id": "SHD_141",
+      "count": 3
+    },
+    {
+      "id": "JTL_132",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "JTL_124",
+      "count": 3
+    },
+    {
+      "id": "JTL_134",
+      "count": 3
+    },
+    {
+      "id": "JTL_133",
+      "count": 3
+    },
+    {
+      "id": "JTL_135",
+      "count": 3
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "SOR_087",
+      "count": 3
+    },
+    {
+      "id": "JTL_082",
+      "count": 3
+    },
+    {
+      "id": "TWI_114",
+      "count": 2
+    },
+    {
+      "id": "JTL_081",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

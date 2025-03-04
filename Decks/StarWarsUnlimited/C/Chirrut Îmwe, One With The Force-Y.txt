@@ -1,0 +1,123 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Chirrut Giallo",
+    "author": "arualdabor88"
+  },
+  "leader": {
+    "id": "SOR_004",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_030",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_044",
+      "count": 3
+    },
+    {
+      "id": "SOR_054",
+      "count": 3
+    },
+    {
+      "id": "SOR_238",
+      "count": 3
+    },
+    {
+      "id": "SOR_193",
+      "count": 3
+    },
+    {
+      "id": "SOR_047",
+      "count": 3
+    },
+    {
+      "id": "SOR_192",
+      "count": 3
+    },
+    {
+      "id": "SOR_245",
+      "count": 2
+    },
+    {
+      "id": "TWI_220",
+      "count": 3
+    },
+    {
+      "id": "SOR_051",
+      "count": 3
+    },
+    {
+      "id": "TWI_226",
+      "count": 2
+    },
+    {
+      "id": "SOR_055",
+      "count": 3
+    },
+    {
+      "id": "TWI_070",
+      "count": 2
+    },
+    {
+      "id": "SOR_241",
+      "count": 3
+    },
+    {
+      "id": "SHD_075",
+      "count": 2
+    },
+    {
+      "id": "SOR_200",
+      "count": 3
+    },
+    {
+      "id": "SOR_188",
+      "count": 2
+    },
+    {
+      "id": "SOR_049",
+      "count": 2
+    },
+    {
+      "id": "SOR_236",
+      "count": 2
+    },
+    {
+      "id": "SHD_078",
+      "count": 2
+    },
+    {
+      "id": "SOR_240",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "TWI_077",
+      "count": 2
+    },
+    {
+      "id": "TWI_226",
+      "count": 1
+    },
+    {
+      "id": "SHD_043",
+      "count": 2
+    },
+    {
+      "id": "SOR_194",
+      "count": 2
+    },
+    {
+      "id": "SOR_224",
+      "count": 2
+    },
+    {
+      "id": "SHD_078",
+      "count": 1
+    }
+  ]
+}

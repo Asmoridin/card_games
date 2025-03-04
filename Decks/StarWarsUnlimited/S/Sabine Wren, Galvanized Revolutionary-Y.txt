@@ -1,0 +1,107 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Sabine Yellow Heroic",
+    "author": "Jimnurm"
+  },
+  "leader": {
+    "id": "SOR_014",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_028",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_219",
+      "count": 2
+    },
+    {
+      "id": "SOR_152",
+      "count": 3
+    },
+    {
+      "id": "SOR_142",
+      "count": 3
+    },
+    {
+      "id": "SOR_193",
+      "count": 3
+    },
+    {
+      "id": "SOR_150",
+      "count": 3
+    },
+    {
+      "id": "SOR_240",
+      "count": 3
+    },
+    {
+      "id": "SOR_145",
+      "count": 3
+    },
+    {
+      "id": "SOR_140",
+      "count": 3
+    },
+    {
+      "id": "TWI_191",
+      "count": 3
+    },
+    {
+      "id": "SHD_206",
+      "count": 3
+    },
+    {
+      "id": "SHD_197",
+      "count": 3
+    },
+    {
+      "id": "TWI_224",
+      "count": 2
+    },
+    {
+      "id": "SHD_231",
+      "count": 2
+    },
+    {
+      "id": "SOR_141",
+      "count": 3
+    },
+    {
+      "id": "SOR_144",
+      "count": 3
+    },
+    {
+      "id": "SHD_154",
+      "count": 2
+    },
+    {
+      "id": "SHD_148",
+      "count": 3
+    },
+    {
+      "id": "SOR_143",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_219",
+      "count": 1
+    },
+    {
+      "id": "SHD_262",
+      "count": 3
+    },
+    {
+      "id": "SOR_200",
+      "count": 3
+    },
+    {
+      "id": "SOR_199",
+      "count": 3
+    }
+  ]
+}

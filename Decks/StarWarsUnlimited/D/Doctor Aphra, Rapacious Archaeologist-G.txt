@@ -1,0 +1,99 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Aphra ECL V1",
+    "author": "Zorgoth"
+  },
+  "leader": {
+    "id": "SHD_015",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_183",
+      "count": 3
+    },
+    {
+      "id": "SHD_094",
+      "count": 3
+    },
+    {
+      "id": "TWI_187",
+      "count": 3
+    },
+    {
+      "id": "SHD_084",
+      "count": 3
+    },
+    {
+      "id": "TWI_225",
+      "count": 3
+    },
+    {
+      "id": "SHD_229",
+      "count": 3
+    },
+    {
+      "id": "TWI_226",
+      "count": 3
+    },
+    {
+      "id": "TWI_223",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_237",
+      "count": 3
+    },
+    {
+      "id": "SOR_177",
+      "count": 3
+    },
+    {
+      "id": "SOR_087",
+      "count": 3
+    },
+    {
+      "id": "SOR_204",
+      "count": 3
+    },
+    {
+      "id": "SOR_186",
+      "count": 3
+    },
+    {
+      "id": "SOR_180",
+      "count": 3
+    },
+    {
+      "id": "SHD_090",
+      "count": 3
+    },
+    {
+      "id": "SHD_080",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_114",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "TWI_189",
+      "count": 2
+    }
+  ]
+}

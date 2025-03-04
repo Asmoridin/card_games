@@ -1,0 +1,86 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Ictarine Mercy",
+    "author": "LukeRising2"
+  },
+  "leader": {
+    "id": "SHD_008",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_023",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_243",
+      "count": 3
+    },
+    {
+      "id": "TWI_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_126",
+      "count": 3
+    },
+    {
+      "id": "SOR_119",
+      "count": 3
+    },
+    {
+      "id": "SHD_095",
+      "count": 3
+    },
+    {
+      "id": "SOR_104",
+      "count": 3
+    },
+    {
+      "id": "SHD_099",
+      "count": 3
+    },
+    {
+      "id": "SHD_098",
+      "count": 3
+    },
+    {
+      "id": "SHD_252",
+      "count": 2
+    },
+    {
+      "id": "SOR_102",
+      "count": 3
+    },
+    {
+      "id": "SOR_097",
+      "count": 3
+    },
+    {
+      "id": "SOR_107",
+      "count": 3
+    },
+    {
+      "id": "SOR_122",
+      "count": 3
+    },
+    {
+      "id": "SHD_104",
+      "count": 3
+    },
+    {
+      "id": "SHD_259",
+      "count": 3
+    },
+    {
+      "id": "SHD_250",
+      "count": 3
+    },
+    {
+      "id": "SOR_112",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

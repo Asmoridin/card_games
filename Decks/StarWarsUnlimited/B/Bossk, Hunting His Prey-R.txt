@@ -1,0 +1,131 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Aggro Bossk",
+    "author": "TheBenster"
+  },
+  "leader": {
+    "id": "SHD_010",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_169",
+      "count": 3
+    },
+    {
+      "id": "TWI_134",
+      "count": 3
+    },
+    {
+      "id": "SHD_137",
+      "count": 3
+    },
+    {
+      "id": "TWI_170",
+      "count": 3
+    },
+    {
+      "id": "TWI_237",
+      "count": 3
+    },
+    {
+      "id": "TWI_136",
+      "count": 2
+    },
+    {
+      "id": "SOR_134",
+      "count": 3
+    },
+    {
+      "id": "TWI_131",
+      "count": 3
+    },
+    {
+      "id": "SHD_139",
+      "count": 2
+    },
+    {
+      "id": "SHD_173",
+      "count": 3
+    },
+    {
+      "id": "TWI_155",
+      "count": 2
+    },
+    {
+      "id": "SHD_239",
+      "count": 3
+    },
+    {
+      "id": "TWI_138",
+      "count": 2
+    },
+    {
+      "id": "SHD_176",
+      "count": 2
+    },
+    {
+      "id": "SHD_261",
+      "count": 3
+    },
+    {
+      "id": "SHD_138",
+      "count": 3
+    },
+    {
+      "id": "SOR_163",
+      "count": 2
+    },
+    {
+      "id": "TWI_160",
+      "count": 3
+    },
+    {
+      "id": "SOR_226",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "TWI_130",
+      "count": 3
+    },
+    {
+      "id": "SHD_159",
+      "count": 1
+    },
+    {
+      "id": "SHD_157",
+      "count": 3
+    },
+    {
+      "id": "TWI_167",
+      "count": 2
+    },
+    {
+      "id": "SOR_139",
+      "count": 2
+    },
+    {
+      "id": "SHD_166",
+      "count": 2
+    },
+    {
+      "id": "SHD_133",
+      "count": 3
+    },
+    {
+      "id": "SHD_175",
+      "count": 2
+    },
+    {
+      "id": "SHD_254",
+      "count": 3
+    }
+  ]
+}

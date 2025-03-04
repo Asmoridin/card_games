@@ -1,0 +1,90 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Inquisidor Agresión 1.0",
+    "author": "jabaron"
+  },
+  "leader": {
+    "id": "SOR_011",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_167",
+      "count": 3
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "SHD_136",
+      "count": 3
+    },
+    {
+      "id": "SHD_137",
+      "count": 3
+    },
+    {
+      "id": "SOR_138",
+      "count": 3
+    },
+    {
+      "id": "SHD_169",
+      "count": 3
+    },
+    {
+      "id": "SHD_157",
+      "count": 3
+    },
+    {
+      "id": "SOR_155",
+      "count": 3
+    },
+    {
+      "id": "TWI_130",
+      "count": 3
+    },
+    {
+      "id": "SHD_158",
+      "count": 3
+    },
+    {
+      "id": "SOR_131",
+      "count": 3
+    },
+    {
+      "id": "SOR_139",
+      "count": 2
+    },
+    {
+      "id": "SOR_133",
+      "count": 3
+    },
+    {
+      "id": "SOR_135",
+      "count": 2
+    },
+    {
+      "id": "TWI_174",
+      "count": 2
+    },
+    {
+      "id": "SHD_138",
+      "count": 3
+    },
+    {
+      "id": "SOR_134",
+      "count": 3
+    },
+    {
+      "id": "SHD_159",
+      "count": 2
+    }
+  ],
+  "sideboard": []
+}

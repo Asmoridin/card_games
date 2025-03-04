@@ -1,0 +1,123 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Obi Green ECL Test 11",
+    "author": "BumbleBiz"
+  },
+  "leader": {
+    "id": "TWI_003",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_099",
+      "count": 3
+    },
+    {
+      "id": "SHD_078",
+      "count": 2
+    },
+    {
+      "id": "SOR_062",
+      "count": 2
+    },
+    {
+      "id": "SOR_051",
+      "count": 3
+    },
+    {
+      "id": "TWI_106",
+      "count": 3
+    },
+    {
+      "id": "TWI_111",
+      "count": 2
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "SOR_047",
+      "count": 2
+    },
+    {
+      "id": "SHD_103",
+      "count": 2
+    },
+    {
+      "id": "SOR_045",
+      "count": 3
+    },
+    {
+      "id": "TWI_048",
+      "count": 2
+    },
+    {
+      "id": "SHD_112",
+      "count": 3
+    },
+    {
+      "id": "SOR_095",
+      "count": 3
+    },
+    {
+      "id": "SOR_044",
+      "count": 2
+    },
+    {
+      "id": "TWI_246",
+      "count": 2
+    },
+    {
+      "id": "TWI_096",
+      "count": 3
+    },
+    {
+      "id": "SOR_104",
+      "count": 3
+    },
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "SOR_054",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_114",
+      "count": 2
+    },
+    {
+      "id": "SOR_098",
+      "count": 2
+    },
+    {
+      "id": "SHD_132",
+      "count": 1
+    },
+    {
+      "id": "SOR_058",
+      "count": 2
+    },
+    {
+      "id": "SOR_052",
+      "count": 1
+    },
+    {
+      "id": "SHD_262",
+      "count": 2
+    }
+  ]
+}

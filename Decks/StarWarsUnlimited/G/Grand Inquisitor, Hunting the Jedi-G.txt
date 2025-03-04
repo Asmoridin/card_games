@@ -1,0 +1,107 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "test inquisitore",
+    "author": "mandaloriano"
+  },
+  "leader": {
+    "id": "SOR_011",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_135",
+      "count": 2
+    },
+    {
+      "id": "SOR_087",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_237",
+      "count": 2
+    },
+    {
+      "id": "SHD_090",
+      "count": 2
+    },
+    {
+      "id": "SHD_236",
+      "count": 3
+    },
+    {
+      "id": "SOR_116",
+      "count": 2
+    },
+    {
+      "id": "SOR_228",
+      "count": 3
+    },
+    {
+      "id": "SOR_131",
+      "count": 3
+    },
+    {
+      "id": "SHD_084",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "SOR_135",
+      "count": 2
+    },
+    {
+      "id": "SOR_132",
+      "count": 2
+    },
+    {
+      "id": "SOR_134",
+      "count": 2
+    },
+    {
+      "id": "SHD_239",
+      "count": 2
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "TWI_174",
+      "count": 2
+    },
+    {
+      "id": "SHD_080",
+      "count": 3
+    },
+    {
+      "id": "SOR_167",
+      "count": 3
+    },
+    {
+      "id": "SOR_119",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "TWI_133",
+      "count": 3
+    },
+    {
+      "id": "SHD_174",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Hera Mid-Range",
+    "author": "DeadeyeDuncan"
+  },
+  "leader": {
+    "id": "SOR_008",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_027",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_047",
+      "count": 3
+    },
+    {
+      "id": "SOR_200",
+      "count": 3
+    },
+    {
+      "id": "SOR_102",
+      "count": 3
+    },
+    {
+      "id": "SHD_172",
+      "count": 3
+    },
+    {
+      "id": "SOR_104",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "TWI_174",
+      "count": 3
+    },
+    {
+      "id": "SOR_099",
+      "count": 3
+    },
+    {
+      "id": "TWI_096",
+      "count": 1
+    },
+    {
+      "id": "SHD_246",
+      "count": 3
+    },
+    {
+      "id": "SOR_192",
+      "count": 2
+    },
+    {
+      "id": "SOR_145",
+      "count": 3
+    },
+    {
+      "id": "TWI_148",
+      "count": 2
+    },
+    {
+      "id": "SOR_095",
+      "count": 3
+    },
+    {
+      "id": "SOR_098",
+      "count": 3
+    },
+    {
+      "id": "SHD_148",
+      "count": 2
+    },
+    {
+      "id": "TWI_147",
+      "count": 2
+    },
+    {
+      "id": "SOR_149",
+      "count": 2
+    },
+    {
+      "id": "SOR_188",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

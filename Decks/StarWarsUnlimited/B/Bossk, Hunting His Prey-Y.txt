@@ -1,0 +1,119 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Tangerine Tassadar",
+    "author": "rasss"
+  },
+  "leader": {
+    "id": "SHD_010",
+    "count": 1
+  },
+  "base": {
+    "id": "SHD_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_172",
+      "count": 1
+    },
+    {
+      "id": "SHD_139",
+      "count": 3
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "SOR_204",
+      "count": 3
+    },
+    {
+      "id": "SHD_138",
+      "count": 3
+    },
+    {
+      "id": "SHD_174",
+      "count": 2
+    },
+    {
+      "id": "SHD_231",
+      "count": 3
+    },
+    {
+      "id": "SHD_239",
+      "count": 2
+    },
+    {
+      "id": "SOR_179",
+      "count": 3
+    },
+    {
+      "id": "SOR_203",
+      "count": 3
+    },
+    {
+      "id": "SOR_134",
+      "count": 3
+    },
+    {
+      "id": "SHD_137",
+      "count": 3
+    },
+    {
+      "id": "TWI_187",
+      "count": 2
+    },
+    {
+      "id": "SHD_226",
+      "count": 3
+    },
+    {
+      "id": "SHD_173",
+      "count": 3
+    },
+    {
+      "id": "TWI_137",
+      "count": 1
+    },
+    {
+      "id": "SOR_182",
+      "count": 1
+    },
+    {
+      "id": "SHD_133",
+      "count": 3
+    },
+    {
+      "id": "SHD_181",
+      "count": 2
+    },
+    {
+      "id": "SHD_232",
+      "count": 3
+    },
+    {
+      "id": "SHD_176",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_219",
+      "count": 1
+    },
+    {
+      "id": "SHD_184",
+      "count": 3
+    },
+    {
+      "id": "TWI_227",
+      "count": 2
+    },
+    {
+      "id": "TWI_137",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Krennic the cunning",
+    "author": "TheBenster"
+  },
+  "leader": {
+    "id": "SOR_001",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_028",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_079",
+      "count": 1
+    },
+    {
+      "id": "SOR_182",
+      "count": 3
+    },
+    {
+      "id": "SHD_028",
+      "count": 3
+    },
+    {
+      "id": "SHD_058",
+      "count": 2
+    },
+    {
+      "id": "SHD_239",
+      "count": 3
+    },
+    {
+      "id": "SOR_032",
+      "count": 3
+    },
+    {
+      "id": "SOR_219",
+      "count": 3
+    },
+    {
+      "id": "SHD_191",
+      "count": 3
+    },
+    {
+      "id": "SHD_188",
+      "count": 3
+    },
+    {
+      "id": "TWI_036",
+      "count": 3
+    },
+    {
+      "id": "SHD_190",
+      "count": 2
+    },
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "SHD_231",
+      "count": 3
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    },
+    {
+      "id": "SOR_031",
+      "count": 3
+    },
+    {
+      "id": "SHD_036",
+      "count": 2
+    },
+    {
+      "id": "SHD_030",
+      "count": 2
+    },
+    {
+      "id": "SHD_032",
+      "count": 3
+    },
+    {
+      "id": "SOR_037",
+      "count": 3
+    },
+    {
+      "id": "SOR_179",
+      "count": 1
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_177",
+      "count": 3
+    },
+    {
+      "id": "SHD_029",
+      "count": 2
+    },
+    {
+      "id": "SOR_232",
+      "count": 3
+    },
+    {
+      "id": "SOR_178",
+      "count": 2
+    },
+    {
+      "id": "SHD_184",
+      "count": 2
+    },
+    {
+      "id": "TWI_187",
+      "count": 1
+    },
+    {
+      "id": "SHD_235",
+      "count": 2
+    },
+    {
+      "id": "SHD_078",
+      "count": 2
+    },
+    {
+      "id": "SOR_185",
+      "count": 3
+    },
+    {
+      "id": "SHD_066",
+      "count": 3
+    },
+    {
+      "id": "SHD_059",
+      "count": 2
+    },
+    {
+      "id": "SHD_194",
+      "count": 3
+    },
+    {
+      "id": "SOR_217",
+      "count": 3
+    }
+  ]
+}

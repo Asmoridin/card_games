@@ -1,0 +1,123 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Han Yellow V3.1",
+    "author": "DanSolos"
+  },
+  "leader": {
+    "id": "SOR_017",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_029",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_226",
+      "count": 2
+    },
+    {
+      "id": "SHD_248",
+      "count": 3
+    },
+    {
+      "id": "SOR_192",
+      "count": 3
+    },
+    {
+      "id": "SOR_194",
+      "count": 3
+    },
+    {
+      "id": "SHD_203",
+      "count": 2
+    },
+    {
+      "id": "SOR_203",
+      "count": 3
+    },
+    {
+      "id": "SHD_231",
+      "count": 3
+    },
+    {
+      "id": "SHD_202",
+      "count": 3
+    },
+    {
+      "id": "SOR_241",
+      "count": 3
+    },
+    {
+      "id": "SOR_201",
+      "count": 3
+    },
+    {
+      "id": "SOR_238",
+      "count": 3
+    },
+    {
+      "id": "SHD_207",
+      "count": 2
+    },
+    {
+      "id": "SHD_213",
+      "count": 3
+    },
+    {
+      "id": "SOR_193",
+      "count": 3
+    },
+    {
+      "id": "TWI_198",
+      "count": 1
+    },
+    {
+      "id": "SOR_217",
+      "count": 2
+    },
+    {
+      "id": "SOR_202",
+      "count": 1
+    },
+    {
+      "id": "SOR_198",
+      "count": 2
+    },
+    {
+      "id": "SHD_174",
+      "count": 3
+    },
+    {
+      "id": "SOR_200",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_204",
+      "count": 2
+    },
+    {
+      "id": "SOR_199",
+      "count": 2
+    },
+    {
+      "id": "SOR_202",
+      "count": 1
+    },
+    {
+      "id": "TWI_196",
+      "count": 2
+    },
+    {
+      "id": "SOR_198",
+      "count": 1
+    },
+    {
+      "id": "SOR_211",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+// Pulled 3/4/25
+{
+  "metadata": {
+    "name": "Padme Coordinate",
+    "author": "JLSW"
+  },
+  "leader": {
+    "id": "TWI_008",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_029",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_231",
+      "count": 1
+    },
+    {
+      "id": "TWI_109",
+      "count": 1
+    },
+    {
+      "id": "TWI_193",
+      "count": 3
+    },
+    {
+      "id": "TWI_192",
+      "count": 3
+    },
+    {
+      "id": "TWI_114",
+      "count": 2
+    },
+    {
+      "id": "SOR_189",
+      "count": 3
+    },
+    {
+      "id": "SHD_206",
+      "count": 3
+    },
+    {
+      "id": "TWI_129",
+      "count": 1
+    },
+    {
+      "id": "SHD_132",
+      "count": 3
+    },
+    {
+      "id": "TWI_191",
+      "count": 2
+    },
+    {
+      "id": "SOR_104",
+      "count": 3
+    },
+    {
+      "id": "TWI_213",
+      "count": 3
+    },
+    {
+      "id": "TWI_091",
+      "count": 3
+    },
+    {
+      "id": "TWI_208",
+      "count": 3
+    },
+    {
+      "id": "TWI_196",
+      "count": 3
+    },
+    {
+      "id": "TWI_092",
+      "count": 3
+    },
+    {
+      "id": "SOR_099",
+      "count": 2
+    },
+    {
+      "id": "SHD_123",
+      "count": 3
+    },
+    {
+      "id": "TWI_090",
+      "count": 2
+    },
+    {
+      "id": "TWI_111",
+      "count": 3
+    },
+    {
+      "id": "SHD_202",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_199",
+      "count": 2
+    },
+    {
+      "id": "TWI_109",
+      "count": 2
+    },
+    {
+      "id": "TWI_226",
+      "count": 1
+    },
+    {
+      "id": "TWI_246",
+      "count": 2
+    },
+    {
+      "id": "SOR_099",
+      "count": 1
+    },
+    {
+      "id": "SOR_200",
+      "count": 2
+    }
+  ]
+}

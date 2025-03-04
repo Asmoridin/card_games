@@ -1,0 +1,103 @@
+// Pulled 3/4/25 
+{
+  "metadata": {
+    "name": "Boba4-30 ver 4",
+    "author": "Soldack"
+  },
+  "leader": {
+    "id": "JTL_009",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_023",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "JTL_140",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "JTL_116",
+      "count": 3
+    },
+    {
+      "id": "JTL_133",
+      "count": 2
+    },
+    {
+      "id": "SOR_134",
+      "count": 3
+    },
+    {
+      "id": "JTL_237",
+      "count": 3
+    },
+    {
+      "id": "TWI_170",
+      "count": 3
+    },
+    {
+      "id": "JTL_139",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "JTL_132",
+      "count": 3
+    },
+    {
+      "id": "SHD_235",
+      "count": 3
+    },
+    {
+      "id": "JTL_240",
+      "count": 3
+    },
+    {
+      "id": "JTL_181",
+      "count": 3
+    },
+    {
+      "id": "JTL_170",
+      "count": 3
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SHD_166",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_114",
+      "count": 2
+    },
+    {
+      "id": "SHD_237",
+      "count": 3
+    },
+    {
+      "id": "SHD_262",
+      "count": 2
+    },
+    {
+      "id": "SHD_084",
+      "count": 3
+    }
+  ]
+}

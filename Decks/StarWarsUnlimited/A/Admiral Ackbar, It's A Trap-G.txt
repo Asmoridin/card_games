@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "name": "Controlled Chaos",
+    "author": "eShark"
+  },
+  "leader": {
+    "id": "JTL_016",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_193",
+      "count": 3
+    },
+    {
+      "id": "SOR_104",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "JTL_117",
+      "count": 3
+    },
+    {
+      "id": "TWI_114",
+      "count": 3
+    },
+    {
+      "id": "TWI_191",
+      "count": 3
+    },
+    {
+      "id": "TWI_096",
+      "count": 3
+    },
+    {
+      "id": "SOR_102",
+      "count": 2
+    },
+    {
+      "id": "TWI_211",
+      "count": 3
+    },
+    {
+      "id": "SOR_093",
+      "count": 3
+    },
+    {
+      "id": "TWI_199",
+      "count": 3
+    },
+    {
+      "id": "TWI_203",
+      "count": 3
+    },
+    {
+      "id": "SOR_189",
+      "count": 3
+    },
+    {
+      "id": "JTL_209",
+      "count": 2
+    },
+    {
+      "id": "JTL_204",
+      "count": 2
+    },
+    {
+      "id": "SOR_193",
+      "count": 2
+    },
+    {
+      "id": "TWI_196",
+      "count": 3
+    },
+    {
+      "id": "TWI_094",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "JTL_201",
+      "count": 3
+    },
+    {
+      "id": "SHD_105",
+      "count": 3
+    },
+    {
+      "id": "JTL_204",
+      "count": 1
+    },
+    {
+      "id": "SOR_224",
+      "count": 2
+    }
+  ]
+}
