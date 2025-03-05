@@ -1,0 +1,103 @@
+// Pulled 3/5/25
+{
+  "metadata": {
+    "name": "Cerulean Supergirl",
+    "author": "Numa"
+  },
+  "leader": {
+    "id": "SHD_011",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_160",
+      "count": 3
+    },
+    {
+      "id": "SHD_160",
+      "count": 3
+    },
+    {
+      "id": "SOR_157",
+      "count": 3
+    },
+    {
+      "id": "TWI_170",
+      "count": 3
+    },
+    {
+      "id": "TWI_154",
+      "count": 3
+    },
+    {
+      "id": "SOR_225",
+      "count": 3
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "SOR_156",
+      "count": 3
+    },
+    {
+      "id": "SOR_155",
+      "count": 3
+    },
+    {
+      "id": "SOR_159",
+      "count": 3
+    },
+    {
+      "id": "SHD_157",
+      "count": 3
+    },
+    {
+      "id": "SOR_137",
+      "count": 3
+    },
+    {
+      "id": "SHD_175",
+      "count": 2
+    },
+    {
+      "id": "SOR_128",
+      "count": 3
+    },
+    {
+      "id": "SHD_134",
+      "count": 3
+    },
+    {
+      "id": "SOR_139",
+      "count": 3
+    },
+    {
+      "id": "SHD_163",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_153",
+      "count": 1
+    },
+    {
+      "id": "TWI_131",
+      "count": 3
+    },
+    {
+      "id": "SOR_134",
+      "count": 4
+    },
+    {
+      "id": "SHD_166",
+      "count": 3
+    }
+  ]
+}

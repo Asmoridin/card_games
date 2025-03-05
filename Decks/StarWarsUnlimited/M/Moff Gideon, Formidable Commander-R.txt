@@ -1,0 +1,127 @@
+// Pulled 3/5/25
+{
+  "metadata": {
+    "name": "Formidable Commander",
+    "author": "SooMin"
+  },
+  "leader": {
+    "id": "SHD_007",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_026",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_128",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "TWI_110",
+      "count": 3
+    },
+    {
+      "id": "SOR_134",
+      "count": 3
+    },
+    {
+      "id": "SOR_225",
+      "count": 2
+    },
+    {
+      "id": "SOR_085",
+      "count": 1
+    },
+    {
+      "id": "SOR_119",
+      "count": 1
+    },
+    {
+      "id": "SHD_236",
+      "count": 3
+    },
+    {
+      "id": "SOR_082",
+      "count": 3
+    },
+    {
+      "id": "SHD_234",
+      "count": 3
+    },
+    {
+      "id": "SOR_087",
+      "count": 2
+    },
+    {
+      "id": "SHD_132",
+      "count": 1
+    },
+    {
+      "id": "SHD_242",
+      "count": 1
+    },
+    {
+      "id": "SOR_230",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "SOR_132",
+      "count": 1
+    },
+    {
+      "id": "SHD_237",
+      "count": 3
+    },
+    {
+      "id": "SHD_083",
+      "count": 3
+    },
+    {
+      "id": "SOR_139",
+      "count": 2
+    },
+    {
+      "id": "SHD_082",
+      "count": 2
+    },
+    {
+      "id": "SOR_231",
+      "count": 2
+    },
+    {
+      "id": "SOR_130",
+      "count": 2
+    },
+    {
+      "id": "SHD_090",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_114",
+      "count": 3
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SOR_089",
+      "count": 1
+    },
+    {
+      "id": "SHD_262",
+      "count": 3
+    }
+  ]
+}

@@ -23,7 +23,7 @@
 100,000 Tribbles - Clone;Tribble;;The Trouble with Tribbles;495;;4;0
 100,000 Tribbles - Discard;Tribble;;The Trouble with Tribbles;496;;4;0
 100,000 Tribbles - Rescue;Tribble;;The Trouble with Tribbles;497;;4;0
-1962 Roger Maris Baseball Card;Artifact;;Fajo Collection;498;;2;0
+1962 Roger Maris Baseball Card;Artifact;;Fajo Collection;498;;2;1
 1st Rule of Acquisition;Event;;Rules of Acquisition/Virtual Promos;499,7432;;4;0
 211th Rule of Acquisition;Event;;Rules of Acquisition;500;;4;0
 33rd Rule of Acquisition;Event;;Rules of Acquisition;501;;4;0
@@ -45,6 +45,13 @@ Ablative Armor;Equipment;;Holodeck Adventures/Homefront II;517,3858;;4;0
 Access Denied;Objective;;Blaze of Glory/Referee Reprints;518,3086;;4;0
 Access Relay Station;Mission;Planet;Deep Space 9/Homefront IV;519,4265;;2;0
 Acquire Illicit Explosives;Mission;Space;Deep Space 9/Homefront IV;520,4266;;2;0
+Acquire Technology;Mission;Planet;Voyager;521;;2;0
+Activate Subcommands;Event;;First Contact/The Borg;522,523;;4;0
+Activate Tractor Beam;Interrupt;;Deep Space 9;524;;4;0
+Adapt: Modulate Shields;Interrupt;;First Contact/The Borg;525,526;;4;0
+Adapt: Negate Obstruction;Interrupt;;First Contact/The Borg/Q Who?;527,528,5619;;4;0
+Add Distinctiveness;Incident;;Enhanced First Contact;529;;4;0
+Admiral Cartwright;Personnel;Federation;The Motion Pictures;530,7209;;2;0
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
 Alidar Jarok;Personnel;Romulan;Premiere;556,6037,6763,6400,7685;;2;1
 Alien Abduction;Dilemma;Planet;Premiere/Virtual Promos;557,5824,6038,6401,6764,7686;;4;0 # Need errata
@@ -95,7 +102,7 @@ Berik;Personnel;Ferengi;Rules of Acquisition;426;;2;0
 Berlingoff Rasmussen;Personnel;Non-Aligned;Alternate Universe;427;;2;0
 Berserk Changeling;Dilemma;Dual;The Dominion;428,5658,7503;;4;0
 Betazed Invasion;Mission;Planet;The Dominion;429;;2;0
-Betazoid Gift Box;Artifact;;Premiere/Virtual Promos;7054,430,3476,3583,6328,6691;;2;1
+Betazoid Gift Box;Artifact;;Premiere/Virtual Promos;7054,430,3476,3583,6328,6691;;2;2
 Beverly and Will;Personnel;Non-Aligned;Enhanced Premiere;432;;2;0
 Beverly Crusher (First Contact);Personnel;Federation;First Contact;434;;2;0
 Beverly Crusher;Personnel;Federation;Premiere;433,3557,6029,6392,6755,7677,8041;;2;1
@@ -107,6 +114,7 @@ Bioweapon Ruse;Mission;Planet;The Dominion;439,7514;;2;0
 Birta;Personnel;Ferengi;Rules of Acquisition;440;;2;0
 Birth of "Junior";Dilemma;Space;Premiere;441,6756,4040,6030,6393,7678,8042;;4;1
 Black Hole;Doorway;;Fajo Collection;442,5827;;4;0
+Blade of Tkon;Artifact;;Q Continuum;724;;2;1
 Bochra;Personnel;Romulan;Premiere;731,6066,7714,6429,6792;;2;1
 Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
 Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;0
@@ -121,6 +129,7 @@ Bothan Vessel;Ship;Non-Aligned;Voyager;81;;4;0
 Breen Warship;Ship;Dominion;The Trouble with Tribbles;82;;4;0
 Calandra;Personnel;Non-Aligned;Rules of Acquisition;84;;4;0
 Calloway;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;85,5979,6342,6705,7103,7627,7991;;4;1
+Canar;Artifact;;Q Continuum;775;;2;1
 Cardassian Shuttle;Ship;Cardassian;Deep Space 9;86;;4;0
 Cargo Bay;Site;;Rules of Acquisition/Homefront V;87,4462;;2;0
 Catalog Phenomena;Mission;Space;Voyager;88;;4;0
@@ -141,6 +150,7 @@ Covert Installation;Mission;Planet;Premiere;885,6073,6436,6799;;2;1
 Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 Cravic Warship;Ship;Non-Aligned;Holodeck Adventures;101;;4;0
 Crewman Wilson;Personnel;Federation;Mirror, Mirror;102,4843;;4;0
+Cryosatellite;Artifact;;Alternate Universe;898;;2;2
 Crystalline Entity;Dilemma;Dual;Premiere;899,3588,6076,6439,6802;;4;3
 Cytherians;Dilemma;Space;Premiere/Virtual Promos;906,3537,5572,6078,6441,6804,7726,8090;;4;1 # 1 PREM
 D'deridex Advanced;Ship;Romulan;The Dominion/Reflections;113,3581;;4;0
@@ -648,7 +658,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 520
+# Done through card 530
 #556-557
 #561
 #570-571
@@ -664,12 +674,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #673
 #681
 #706
+#724
 #731
 #747
+#775
 #808
 #881
 #885
-#899
+#898-899
 #906
 #914
 #928
@@ -786,7 +798,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3568
 #3572
 #3578
-#3580-3583
+#3580-3584
 #3587-3589
 #3617
 #3627
@@ -879,6 +891,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5597
 #5599
 #5604
+#5619
 #5637
 #5639-5641
 #5644
@@ -1137,7 +1150,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7164-7165
 #7168
 #7180
-#7183-7208
+#7183-7209
 #7251
 #7327
 #7432

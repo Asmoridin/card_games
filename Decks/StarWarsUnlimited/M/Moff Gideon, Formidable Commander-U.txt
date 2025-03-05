@@ -1,0 +1,111 @@
+// Pulled 3/5/25
+{
+  "metadata": {
+    "name": "Cerulean Thor - TWI",
+    "author": "Rhazior"
+  },
+  "leader": {
+    "id": "SHD_007",
+    "count": 1
+  },
+  "base": {
+    "id": "SHD_019",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_228",
+      "count": 3
+    },
+    {
+      "id": "SOR_109",
+      "count": 3
+    },
+    {
+      "id": "SHD_031",
+      "count": 3
+    },
+    {
+      "id": "TWI_111",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "SOR_119",
+      "count": 3
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_030",
+      "count": 3
+    },
+    {
+      "id": "TWI_034",
+      "count": 3
+    },
+    {
+      "id": "SHD_084",
+      "count": 3
+    },
+    {
+      "id": "SOR_087",
+      "count": 3
+    },
+    {
+      "id": "SOR_040",
+      "count": 3
+    },
+    {
+      "id": "SHD_242",
+      "count": 2
+    },
+    {
+      "id": "SHD_129",
+      "count": 3
+    },
+    {
+      "id": "SOR_031",
+      "count": 3
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "TWI_121",
+      "count": 2
+    },
+    {
+      "id": "SOR_062",
+      "count": 3
+    },
+    {
+      "id": "SOR_122",
+      "count": 2
+    },
+    {
+      "id": "SOR_082",
+      "count": 3
+    },
+    {
+      "id": "SHD_114",
+      "count": 2
+    },
+    {
+      "id": "SHD_089",
+      "count": 3
+    }
+  ]
+}

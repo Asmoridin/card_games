@@ -1,0 +1,102 @@
+// Pulled 3/5/25
+{
+  "metadata": {
+    "name": "Pink Ashe",
+    "author": "Ichusus"
+  },
+  "leader": {
+    "id": "SHD_011",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_019",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_046",
+      "count": 2
+    },
+    {
+      "id": "SHD_175",
+      "count": 3
+    },
+    {
+      "id": "SHD_075",
+      "count": 3
+    },
+    {
+      "id": "TWI_135",
+      "count": 1
+    },
+    {
+      "id": "SHD_067",
+      "count": 3
+    },
+    {
+      "id": "SHD_141",
+      "count": 2
+    },
+    {
+      "id": "SHD_258",
+      "count": 3
+    },
+    {
+      "id": "TWI_130",
+      "count": 3
+    },
+    {
+      "id": "SHD_136",
+      "count": 3
+    },
+    {
+      "id": "SHD_169",
+      "count": 2
+    },
+    {
+      "id": "SOR_159",
+      "count": 3
+    },
+    {
+      "id": "SHD_035",
+      "count": 2
+    },
+    {
+      "id": "SHD_162",
+      "count": 3
+    },
+    {
+      "id": "SOR_137",
+      "count": 3
+    },
+    {
+      "id": "SHD_058",
+      "count": 3
+    },
+    {
+      "id": "SOR_156",
+      "count": 3
+    },
+    {
+      "id": "SHD_056",
+      "count": 3
+    },
+    {
+      "id": "SOR_031",
+      "count": 3
+    },
+    {
+      "id": "SHD_073",
+      "count": 3
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

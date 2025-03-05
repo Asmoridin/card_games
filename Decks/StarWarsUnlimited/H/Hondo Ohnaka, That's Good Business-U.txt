@@ -1,0 +1,139 @@
+// Pulled 3/5/25
+{
+  "metadata": {
+    "name": "Hondo Ohnaka Bleu",
+    "author": "Chewby57"
+  },
+  "leader": {
+    "id": "SHD_005",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_020",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SHD_031",
+      "count": 2
+    },
+    {
+      "id": "SOR_076",
+      "count": 2
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    },
+    {
+      "id": "SHD_034",
+      "count": 2
+    },
+    {
+      "id": "SHD_075",
+      "count": 3
+    },
+    {
+      "id": "SOR_040",
+      "count": 2
+    },
+    {
+      "id": "SHD_065",
+      "count": 2
+    },
+    {
+      "id": "SHD_032",
+      "count": 3
+    },
+    {
+      "id": "TWI_077",
+      "count": 2
+    },
+    {
+      "id": "SOR_035",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 1
+    },
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "SOR_058",
+      "count": 3
+    },
+    {
+      "id": "SHD_079",
+      "count": 1
+    },
+    {
+      "id": "SHD_078",
+      "count": 1
+    },
+    {
+      "id": "SOR_031",
+      "count": 3
+    },
+    {
+      "id": "SOR_043",
+      "count": 3
+    },
+    {
+      "id": "SHD_037",
+      "count": 2
+    },
+    {
+      "id": "SHD_029",
+      "count": 3
+    },
+    {
+      "id": "SHD_090",
+      "count": 2
+    },
+    {
+      "id": "SHD_111",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_031",
+      "count": 1
+    },
+    {
+      "id": "SOR_252",
+      "count": 1
+    },
+    {
+      "id": "SHD_071",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 2
+    },
+    {
+      "id": "SOR_077",
+      "count": 1
+    },
+    {
+      "id": "SHD_079",
+      "count": 1
+    },
+    {
+      "id": "SHD_078",
+      "count": 1
+    }
+  ]
+}
