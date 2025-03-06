@@ -1,0 +1,111 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "JTL-Vader-Green-0",
+    "author": "TheHef-AL"
+  },
+  "leader": {
+    "id": "JTL_006",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_023",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "JTL_092",
+      "count": 2
+    },
+    {
+      "id": "SHD_132",
+      "count": 2
+    },
+    {
+      "id": "JTL_087",
+      "count": 3
+    },
+    {
+      "id": "JTL_082",
+      "count": 3
+    },
+    {
+      "id": "SOR_107",
+      "count": 3
+    },
+    {
+      "id": "JTL_237",
+      "count": 3
+    },
+    {
+      "id": "TWI_118",
+      "count": 2
+    },
+    {
+      "id": "TWI_123",
+      "count": 2
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "JTL_091",
+      "count": 2
+    },
+    {
+      "id": "SHD_108",
+      "count": 3
+    },
+    {
+      "id": "SOR_090",
+      "count": 2
+    },
+    {
+      "id": "JTL_081",
+      "count": 3
+    },
+    {
+      "id": "JTL_085",
+      "count": 3
+    },
+    {
+      "id": "SHD_084",
+      "count": 2
+    },
+    {
+      "id": "JTL_115",
+      "count": 3
+    },
+    {
+      "id": "JTL_107",
+      "count": 3
+    },
+    {
+      "id": "SHD_262",
+      "count": 3
+    },
+    {
+      "id": "SHD_112",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_237",
+      "count": 2
+    },
+    {
+      "id": "SOR_089",
+      "count": 2
+    },
+    {
+      "id": "SOR_109",
+      "count": 3
+    }
+  ]
+}

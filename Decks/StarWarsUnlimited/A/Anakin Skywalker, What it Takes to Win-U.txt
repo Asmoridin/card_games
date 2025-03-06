@@ -1,0 +1,115 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Test Anakin",
+    "author": "TLE94"
+  },
+  "leader": {
+    "id": "TWI_012",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_021",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_054",
+      "count": 3
+    },
+    {
+      "id": "SOR_167",
+      "count": 3
+    },
+    {
+      "id": "SHD_059",
+      "count": 3
+    },
+    {
+      "id": "SOR_062",
+      "count": 2
+    },
+    {
+      "id": "SHD_042",
+      "count": 2
+    },
+    {
+      "id": "SHD_078",
+      "count": 2
+    },
+    {
+      "id": "SOR_141",
+      "count": 2
+    },
+    {
+      "id": "SHD_172",
+      "count": 2
+    },
+    {
+      "id": "SHD_044",
+      "count": 1
+    },
+    {
+      "id": "SHD_153",
+      "count": 2
+    },
+    {
+      "id": "SOR_145",
+      "count": 3
+    },
+    {
+      "id": "SHD_041",
+      "count": 3
+    },
+    {
+      "id": "SHD_043",
+      "count": 3
+    },
+    {
+      "id": "TWI_070",
+      "count": 3
+    },
+    {
+      "id": "SOR_142",
+      "count": 3
+    },
+    {
+      "id": "SOR_047",
+      "count": 2
+    },
+    {
+      "id": "SHD_079",
+      "count": 1
+    },
+    {
+      "id": "SOR_051",
+      "count": 3
+    },
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "SOR_044",
+      "count": 3
+    },
+    {
+      "id": "SHD_148",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "TWI_048",
+      "count": 2
+    },
+    {
+      "id": "SHD_181",
+      "count": 2
+    },
+    {
+      "id": "SHD_079",
+      "count": 1
+    }
+  ]
+}

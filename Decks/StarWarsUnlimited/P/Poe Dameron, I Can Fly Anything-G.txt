@@ -1,0 +1,111 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Poe ECL I",
+    "author": "MathiasJilken"
+  },
+  "leader": {
+    "id": "JTL_013",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SHD_148",
+      "count": 3
+    },
+    {
+      "id": "JTL_126",
+      "count": 2
+    },
+    {
+      "id": "JTL_096",
+      "count": 3
+    },
+    {
+      "id": "JTL_097",
+      "count": 2
+    },
+    {
+      "id": "JTL_249",
+      "count": 3
+    },
+    {
+      "id": "JTL_245",
+      "count": 3
+    },
+    {
+      "id": "SHD_154",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "JTL_101",
+      "count": 3
+    },
+    {
+      "id": "SHD_153",
+      "count": 3
+    },
+    {
+      "id": "JTL_094",
+      "count": 2
+    },
+    {
+      "id": "SOR_150",
+      "count": 3
+    },
+    {
+      "id": "JTL_250",
+      "count": 2
+    },
+    {
+      "id": "JTL_147",
+      "count": 3
+    },
+    {
+      "id": "JTL_150",
+      "count": 2
+    },
+    {
+      "id": "SOR_141",
+      "count": 3
+    },
+    {
+      "id": "SOR_099",
+      "count": 3
+    },
+    {
+      "id": "JTL_103",
+      "count": 2
+    },
+    {
+      "id": "JTL_095",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_166",
+      "count": 3
+    },
+    {
+      "id": "JTL_148",
+      "count": 2
+    },
+    {
+      "id": "SOR_103",
+      "count": 2
+    },
+    {
+      "id": "SOR_152",
+      "count": 3
+    }
+  ]
+}

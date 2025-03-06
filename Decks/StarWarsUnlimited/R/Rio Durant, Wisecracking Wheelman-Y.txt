@@ -1,0 +1,86 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Eburnean Aquaman",
+    "author": "Gooz"
+  },
+  "leader": {
+    "id": "JTL_015",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_030",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "JTL_185",
+      "count": 3
+    },
+    {
+      "id": "SOR_203",
+      "count": 3
+    },
+    {
+      "id": "SOR_221",
+      "count": 3
+    },
+    {
+      "id": "SHD_187",
+      "count": 3
+    },
+    {
+      "id": "SOR_208",
+      "count": 3
+    },
+    {
+      "id": "SOR_178",
+      "count": 3
+    },
+    {
+      "id": "SOR_202",
+      "count": 2
+    },
+    {
+      "id": "SOR_177",
+      "count": 3
+    },
+    {
+      "id": "JTL_217",
+      "count": 3
+    },
+    {
+      "id": "JTL_210",
+      "count": 3
+    },
+    {
+      "id": "TWI_213",
+      "count": 3
+    },
+    {
+      "id": "SHD_231",
+      "count": 3
+    },
+    {
+      "id": "TWI_226",
+      "count": 3
+    },
+    {
+      "id": "SOR_186",
+      "count": 3
+    },
+    {
+      "id": "SHD_174",
+      "count": 3
+    },
+    {
+      "id": "JTL_223",
+      "count": 3
+    },
+    {
+      "id": "JTL_235",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

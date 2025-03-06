@@ -1,0 +1,94 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Maul - Force deck",
+    "author": "Wookiewinz"
+  },
+  "leader": {
+    "id": "TWI_009",
+    "count": 1
+  },
+  "base": {
+    "id": "SHD_019",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_131",
+      "count": 3
+    },
+    {
+      "id": "SHD_137",
+      "count": 3
+    },
+    {
+      "id": "SOR_137",
+      "count": 3
+    },
+    {
+      "id": "SOR_061",
+      "count": 3
+    },
+    {
+      "id": "SOR_072",
+      "count": 3
+    },
+    {
+      "id": "SHD_029",
+      "count": 3
+    },
+    {
+      "id": "TWI_133",
+      "count": 3
+    },
+    {
+      "id": "SHD_141",
+      "count": 2
+    },
+    {
+      "id": "TWI_135",
+      "count": 2
+    },
+    {
+      "id": "SOR_167",
+      "count": 3
+    },
+    {
+      "id": "TWI_137",
+      "count": 2
+    },
+    {
+      "id": "SOR_134",
+      "count": 3
+    },
+    {
+      "id": "SOR_139",
+      "count": 3
+    },
+    {
+      "id": "SOR_128",
+      "count": 3
+    },
+    {
+      "id": "SHD_182",
+      "count": 1
+    },
+    {
+      "id": "SHD_037",
+      "count": 2
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    },
+    {
+      "id": "SHD_143",
+      "count": 3
+    },
+    {
+      "id": "SOR_031",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

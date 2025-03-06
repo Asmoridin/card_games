@@ -1,0 +1,107 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Ahsoka Red - 1",
+    "author": "TheHef-AL"
+  },
+  "leader": {
+    "id": "TWI_011",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_155",
+      "count": 3
+    },
+    {
+      "id": "TWI_142",
+      "count": 3
+    },
+    {
+      "id": "SHD_148",
+      "count": 3
+    },
+    {
+      "id": "TWI_155",
+      "count": 3
+    },
+    {
+      "id": "TWI_144",
+      "count": 2
+    },
+    {
+      "id": "SHD_157",
+      "count": 3
+    },
+    {
+      "id": "TWI_143",
+      "count": 3
+    },
+    {
+      "id": "TWI_170",
+      "count": 3
+    },
+    {
+      "id": "SOR_143",
+      "count": 3
+    },
+    {
+      "id": "SOR_145",
+      "count": 2
+    },
+    {
+      "id": "TWI_147",
+      "count": 2
+    },
+    {
+      "id": "SOR_147",
+      "count": 2
+    },
+    {
+      "id": "SOR_240",
+      "count": 3
+    },
+    {
+      "id": "SOR_141",
+      "count": 3
+    },
+    {
+      "id": "TWI_174",
+      "count": 3
+    },
+    {
+      "id": "TWI_141",
+      "count": 3
+    },
+    {
+      "id": "SOR_144",
+      "count": 3
+    },
+    {
+      "id": "SOR_148",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_160",
+      "count": 3
+    },
+    {
+      "id": "SHD_181",
+      "count": 3
+    },
+    {
+      "id": "SHD_154",
+      "count": 2
+    },
+    {
+      "id": "SOR_140",
+      "count": 2
+    }
+  ]
+}

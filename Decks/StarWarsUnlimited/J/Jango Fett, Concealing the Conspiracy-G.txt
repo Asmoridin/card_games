@@ -1,0 +1,127 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Jango Fire",
+    "author": "Poulsouen"
+  },
+  "leader": {
+    "id": "TWI_016",
+    "count": 1
+  },
+  "base": {
+    "id": "TWI_024",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_089",
+      "count": 2
+    },
+    {
+      "id": "SOR_207",
+      "count": 3
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "SHD_090",
+      "count": 3
+    },
+    {
+      "id": "SOR_186",
+      "count": 2
+    },
+    {
+      "id": "SOR_119",
+      "count": 3
+    },
+    {
+      "id": "SOR_232",
+      "count": 3
+    },
+    {
+      "id": "SOR_184",
+      "count": 3
+    },
+    {
+      "id": "SOR_090",
+      "count": 2
+    },
+    {
+      "id": "SHD_194",
+      "count": 2
+    },
+    {
+      "id": "SHD_193",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "SOR_177",
+      "count": 3
+    },
+    {
+      "id": "TWI_181",
+      "count": 3
+    },
+    {
+      "id": "SOR_178",
+      "count": 3
+    },
+    {
+      "id": "TWI_224",
+      "count": 2
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SOR_179",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_087",
+      "count": 1
+    },
+    {
+      "id": "SHD_114",
+      "count": 3
+    },
+    {
+      "id": "SHD_262",
+      "count": 2
+    },
+    {
+      "id": "SHD_187",
+      "count": 3
+    },
+    {
+      "id": "TWI_226",
+      "count": 2
+    },
+    {
+      "id": "SHD_132",
+      "count": 2
+    },
+    {
+      "id": "TWI_182",
+      "count": 2
+    },
+    {
+      "id": "SHD_184",
+      "count": 3
+    }
+  ]
+}

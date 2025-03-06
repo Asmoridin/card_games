@@ -1,0 +1,131 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Vonreg ECL",
+    "author": "Chazz"
+  },
+  "leader": {
+    "id": "JTL_011",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_022",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_174",
+      "count": 2
+    },
+    {
+      "id": "SOR_112",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SOR_128",
+      "count": 3
+    },
+    {
+      "id": "JTL_137",
+      "count": 3
+    },
+    {
+      "id": "SOR_225",
+      "count": 3
+    },
+    {
+      "id": "JTL_081",
+      "count": 3
+    },
+    {
+      "id": "SOR_134",
+      "count": 2
+    },
+    {
+      "id": "SHD_166",
+      "count": 2
+    },
+    {
+      "id": "SHD_137",
+      "count": 2
+    },
+    {
+      "id": "SOR_087",
+      "count": 2
+    },
+    {
+      "id": "JTL_084",
+      "count": 3
+    },
+    {
+      "id": "SOR_139",
+      "count": 2
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "TWI_135",
+      "count": 2
+    },
+    {
+      "id": "JTL_139",
+      "count": 3
+    },
+    {
+      "id": "JTL_086",
+      "count": 3
+    },
+    {
+      "id": "JTL_142",
+      "count": 3
+    },
+    {
+      "id": "TWI_170",
+      "count": 2
+    },
+    {
+      "id": "JTL_085",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "JTL_083",
+      "count": 1
+    },
+    {
+      "id": "SOR_112",
+      "count": 1
+    },
+    {
+      "id": "SOR_134",
+      "count": 1
+    },
+    {
+      "id": "SHD_166",
+      "count": 1
+    },
+    {
+      "id": "JTL_181",
+      "count": 2
+    },
+    {
+      "id": "SOR_087",
+      "count": 1
+    },
+    {
+      "id": "TWI_170",
+      "count": 1
+    },
+    {
+      "id": "SOR_122",
+      "count": 2
+    }
+  ]
+}

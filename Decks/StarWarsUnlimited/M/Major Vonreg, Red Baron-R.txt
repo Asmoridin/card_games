@@ -1,0 +1,123 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Thermal Reg",
+    "author": "rwhii43"
+  },
+  "leader": {
+    "id": "JTL_011",
+    "count": 1
+  },
+  "base": {
+    "id": "JTL_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_132",
+      "count": 2
+    },
+    {
+      "id": "JTL_161",
+      "count": 2
+    },
+    {
+      "id": "JTL_177",
+      "count": 3
+    },
+    {
+      "id": "JTL_142",
+      "count": 2
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "SOR_155",
+      "count": 2
+    },
+    {
+      "id": "SOR_128",
+      "count": 3
+    },
+    {
+      "id": "SHD_137",
+      "count": 2
+    },
+    {
+      "id": "SHD_166",
+      "count": 3
+    },
+    {
+      "id": "JTL_162",
+      "count": 2
+    },
+    {
+      "id": "JTL_137",
+      "count": 3
+    },
+    {
+      "id": "JTL_170",
+      "count": 2
+    },
+    {
+      "id": "SHD_181",
+      "count": 2
+    },
+    {
+      "id": "JTL_241",
+      "count": 2
+    },
+    {
+      "id": "TWI_232",
+      "count": 2
+    },
+    {
+      "id": "SHD_157",
+      "count": 3
+    },
+    {
+      "id": "JTL_176",
+      "count": 2
+    },
+    {
+      "id": "SOR_156",
+      "count": 3
+    },
+    {
+      "id": "TWI_174",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_167",
+      "count": 2
+    },
+    {
+      "id": "SOR_153",
+      "count": 2
+    },
+    {
+      "id": "SOR_139",
+      "count": 2
+    },
+    {
+      "id": "SHD_181",
+      "count": 1
+    },
+    {
+      "id": "SOR_154",
+      "count": 1
+    },
+    {
+      "id": "JTL_164",
+      "count": 1
+    },
+    {
+      "id": "TWI_174",
+      "count": 1
+    }
+  ]
+}

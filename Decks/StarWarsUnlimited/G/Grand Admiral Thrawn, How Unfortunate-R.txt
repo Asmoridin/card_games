@@ -1,0 +1,103 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Thrawn Red",
+    "author": "Riley22748"
+  },
+  "leader": {
+    "id": "JTL_002",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_027",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "JTL_169",
+      "count": 2
+    },
+    {
+      "id": "SHD_144",
+      "count": 2
+    },
+    {
+      "id": "TWI_131",
+      "count": 3
+    },
+    {
+      "id": "JTL_162",
+      "count": 3
+    },
+    {
+      "id": "JTL_039",
+      "count": 3
+    },
+    {
+      "id": "JTL_033",
+      "count": 2
+    },
+    {
+      "id": "JTL_063",
+      "count": 2
+    },
+    {
+      "id": "JTL_060",
+      "count": 3
+    },
+    {
+      "id": "JTL_173",
+      "count": 2
+    },
+    {
+      "id": "SOR_226",
+      "count": 3
+    },
+    {
+      "id": "JTL_043",
+      "count": 2
+    },
+    {
+      "id": "SHD_058",
+      "count": 3
+    },
+    {
+      "id": "TWI_238",
+      "count": 2
+    },
+    {
+      "id": "JTL_242",
+      "count": 3
+    },
+    {
+      "id": "SOR_134",
+      "count": 3
+    },
+    {
+      "id": "SOR_031",
+      "count": 2
+    },
+    {
+      "id": "JTL_132",
+      "count": 3
+    },
+    {
+      "id": "SOR_233",
+      "count": 2
+    },
+    {
+      "id": "TWI_140",
+      "count": 2
+    },
+    {
+      "id": "JTL_032",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "JTL_063",
+      "count": 1
+    }
+  ]
+}

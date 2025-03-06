@@ -1,0 +1,95 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Rose",
+    "author": "Vambat"
+  },
+  "leader": {
+    "id": "JTL_004",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_024",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "JTL_104",
+      "count": 2
+    },
+    {
+      "id": "JTL_093",
+      "count": 3
+    },
+    {
+      "id": "SOR_100",
+      "count": 3
+    },
+    {
+      "id": "JTL_249",
+      "count": 3
+    },
+    {
+      "id": "SOR_093",
+      "count": 3
+    },
+    {
+      "id": "JTL_051",
+      "count": 3
+    },
+    {
+      "id": "JTL_048",
+      "count": 3
+    },
+    {
+      "id": "SHD_042",
+      "count": 3
+    },
+    {
+      "id": "JTL_046",
+      "count": 3
+    },
+    {
+      "id": "JTL_096",
+      "count": 3
+    },
+    {
+      "id": "JTL_103",
+      "count": 3
+    },
+    {
+      "id": "JTL_098",
+      "count": 3
+    },
+    {
+      "id": "JTL_054",
+      "count": 3
+    },
+    {
+      "id": "TWI_092",
+      "count": 3
+    },
+    {
+      "id": "JTL_052",
+      "count": 3
+    },
+    {
+      "id": "JTL_101",
+      "count": 3
+    },
+    {
+      "id": "SOR_099",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "JTL_104",
+      "count": 1
+    },
+    {
+      "id": "SHD_105",
+      "count": 3
+    }
+  ]
+}

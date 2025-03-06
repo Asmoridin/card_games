@@ -1,0 +1,86 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Jabba's Barge",
+    "author": "mbwun5"
+  },
+  "leader": {
+    "id": "TWI_017",
+    "count": 1
+  },
+  "base": {
+    "id": "SHD_026",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_238",
+      "count": 3
+    },
+    {
+      "id": "SOR_179",
+      "count": 3
+    },
+    {
+      "id": "SHD_214",
+      "count": 3
+    },
+    {
+      "id": "SHD_210",
+      "count": 3
+    },
+    {
+      "id": "SOR_197",
+      "count": 3
+    },
+    {
+      "id": "SHD_225",
+      "count": 2
+    },
+    {
+      "id": "SOR_196",
+      "count": 3
+    },
+    {
+      "id": "SOR_189",
+      "count": 3
+    },
+    {
+      "id": "SOR_181",
+      "count": 3
+    },
+    {
+      "id": "SHD_224",
+      "count": 3
+    },
+    {
+      "id": "SOR_236",
+      "count": 3
+    },
+    {
+      "id": "SOR_198",
+      "count": 3
+    },
+    {
+      "id": "SOR_203",
+      "count": 3
+    },
+    {
+      "id": "SOR_205",
+      "count": 3
+    },
+    {
+      "id": "SOR_184",
+      "count": 3
+    },
+    {
+      "id": "SOR_211",
+      "count": 3
+    },
+    {
+      "id": "SOR_177",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

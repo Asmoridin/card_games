@@ -1,0 +1,151 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Grievous Pseudo-Aggro",
+    "author": "Roto_der_Barbar"
+  },
+  "leader": {
+    "id": "TWI_015",
+    "count": 1
+  },
+  "base": {
+    "id": "SHD_019",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_033",
+      "count": 3
+    },
+    {
+      "id": "TWI_190",
+      "count": 3
+    },
+    {
+      "id": "SOR_226",
+      "count": 2
+    },
+    {
+      "id": "SHD_194",
+      "count": 3
+    },
+    {
+      "id": "SHD_231",
+      "count": 3
+    },
+    {
+      "id": "SOR_186",
+      "count": 1
+    },
+    {
+      "id": "TWI_237",
+      "count": 3
+    },
+    {
+      "id": "TWI_215",
+      "count": 3
+    },
+    {
+      "id": "TWI_036",
+      "count": 3
+    },
+    {
+      "id": "TWI_032",
+      "count": 3
+    },
+    {
+      "id": "TWI_039",
+      "count": 3
+    },
+    {
+      "id": "TWI_232",
+      "count": 2
+    },
+    {
+      "id": "SHD_188",
+      "count": 2
+    },
+    {
+      "id": "TWI_034",
+      "count": 2
+    },
+    {
+      "id": "TWI_182",
+      "count": 3
+    },
+    {
+      "id": "SHD_036",
+      "count": 1
+    },
+    {
+      "id": "TWI_236",
+      "count": 2
+    },
+    {
+      "id": "SOR_177",
+      "count": 3
+    },
+    {
+      "id": "SOR_037",
+      "count": 2
+    },
+    {
+      "id": "SHD_187",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_228",
+      "count": 1
+    },
+    {
+      "id": "TWI_187",
+      "count": 1
+    },
+    {
+      "id": "SOR_062",
+      "count": 1
+    },
+    {
+      "id": "TWI_233",
+      "count": 1
+    },
+    {
+      "id": "TWI_179",
+      "count": 2
+    },
+    {
+      "id": "SOR_034",
+      "count": 1
+    },
+    {
+      "id": "TWI_213",
+      "count": 1
+    },
+    {
+      "id": "TWI_257",
+      "count": 2
+    },
+    {
+      "id": "TWI_184",
+      "count": 1
+    },
+    {
+      "id": "SHD_077",
+      "count": 1
+    },
+    {
+      "id": "SHD_184",
+      "count": 1
+    },
+    {
+      "id": "SHD_193",
+      "count": 1
+    },
+    {
+      "id": "TWI_217",
+      "count": 1
+    }
+  ]
+}

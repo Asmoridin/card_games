@@ -1,0 +1,123 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Maroon Jean Grey",
+    "author": "linchawx920"
+  },
+  "leader": {
+    "id": "TWI_005",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_025",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SOR_156",
+      "count": 3
+    },
+    {
+      "id": "TWI_086",
+      "count": 2
+    },
+    {
+      "id": "TWI_112",
+      "count": 3
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "SHD_141",
+      "count": 2
+    },
+    {
+      "id": "TWI_080",
+      "count": 3
+    },
+    {
+      "id": "SOR_167",
+      "count": 3
+    },
+    {
+      "id": "SOR_131",
+      "count": 3
+    },
+    {
+      "id": "TWI_234",
+      "count": 2
+    },
+    {
+      "id": "TWI_084",
+      "count": 3
+    },
+    {
+      "id": "SOR_137",
+      "count": 2
+    },
+    {
+      "id": "SOR_087",
+      "count": 3
+    },
+    {
+      "id": "TWI_131",
+      "count": 3
+    },
+    {
+      "id": "SOR_138",
+      "count": 1
+    },
+    {
+      "id": "SHD_084",
+      "count": 3
+    },
+    {
+      "id": "SHD_175",
+      "count": 3
+    },
+    {
+      "id": "SOR_166",
+      "count": 1
+    },
+    {
+      "id": "TWI_118",
+      "count": 2
+    },
+    {
+      "id": "SHD_089",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 3
+    },
+    {
+      "id": "TWI_104",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_144",
+      "count": 1
+    },
+    {
+      "id": "SOR_168",
+      "count": 2
+    },
+    {
+      "id": "SHD_080",
+      "count": 1
+    },
+    {
+      "id": "TWI_167",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+// Pulled 3/6/25
+{
+  "metadata": {
+    "name": "Dooku, in control - v5.2",
+    "author": "TheNerf"
+  },
+  "leader": {
+    "id": "TWI_005",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_020",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "TWI_079",
+      "count": 3
+    },
+    {
+      "id": "TWI_127",
+      "count": 2
+    },
+    {
+      "id": "TWI_085",
+      "count": 2
+    },
+    {
+      "id": "SOR_041",
+      "count": 3
+    },
+    {
+      "id": "SOR_077",
+      "count": 2
+    },
+    {
+      "id": "TWI_232",
+      "count": 3
+    },
+    {
+      "id": "TWI_257",
+      "count": 1
+    },
+    {
+      "id": "TWI_039",
+      "count": 3
+    },
+    {
+      "id": "TWI_032",
+      "count": 3
+    },
+    {
+      "id": "TWI_237",
+      "count": 3
+    },
+    {
+      "id": "TWI_084",
+      "count": 3
+    },
+    {
+      "id": "TWI_063",
+      "count": 3
+    },
+    {
+      "id": "TWI_080",
+      "count": 2
+    },
+    {
+      "id": "SHD_085",
+      "count": 3
+    },
+    {
+      "id": "TWI_033",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "TWI_081",
+      "count": 3
+    },
+    {
+      "id": "SOR_226",
+      "count": 2
+    },
+    {
+      "id": "TWI_083",
+      "count": 2
+    },
+    {
+      "id": "TWI_113",
+      "count": 2
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SHD_093",
+      "count": 2
+    },
+    {
+      "id": "TWI_038",
+      "count": 3
+    },
+    {
+      "id": "TWI_077",
+      "count": 2
+    },
+    {
+      "id": "TWI_076",
+      "count": 2
+    },
+    {
+      "id": "TWI_067",
+      "count": 3
+    },
+    {
+      "id": "TWI_036",
+      "count": 3
+    }
+  ]
+}
