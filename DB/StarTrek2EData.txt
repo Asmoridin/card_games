@@ -184,7 +184,7 @@ Assist Rescue Operation;U;Dilemma;;To Boldly Go;Print;3;2
 Astrometrics Lab;C;Event;;Second Edition/Finding Our Way;Both;4;3 // Have 3 SE
 At an Impasse;U;Event;;Necessary Evil;Print;3;3
 At What Cost?;R;Event;;Necessary Evil/Infinite Diversity Remastered/Virtual Promo;Both;3;1 // Have 1 NE
-Athos IV, Maquis Base;U/V;Mission;;Energize/Move Along Home;Both;2;0
+Athos IV, Maquis Base;U/V;Mission;;Energize/Move Along Home;Both;3;2 // Have 2 ENE
 Audacious Assault;V;Event;;Lineage;Virtual;3;0
 Audit's Spoils;U;Ship;Ferengi;Strange New Worlds;Print;3;0
 Augmentation;V;Event;;Unnatural Selection;Virtual;3;0
@@ -231,8 +231,8 @@ BaH!;U;Event;;Second Edition;Print;3;3
 Bahrat's Space Station, Negotiate for Supplies;V;Mission;;Caretaker;Virtual;2;0
 Bait and Switch;V;Interrupt;;Warp Pack: Access Denied;Virtual;3;0
 Bajor, Blessed of the Prophets;V;Mission;;Move Along Home/Return to Grace;Virtual;2;0
-Bajor, Gift of the Prophets;U;Mission;;Second Edition/Move Along Home;Both;2;0
-Bajor, Terok Nor;V;Mission;;Move Along Home/Shattered Mirror;Virtual;2;0
+Bajor, Gift of the Prophets;U;Mission;;Second Edition/Move Along Home;Both;3;2 // Have 2 SE
+Bajor, Terok Nor;V;Mission;;Move Along Home/Shattered Mirror;Virtual;3;2 // Have 2 SM
 Bajoran Gratitude Festival;C;Event;;Second Edition;Print;3;3
 Bajoran Interceptor;C;Ship;Bajoran;Second Edition;Print;3;0
 Bajoran Phaser Pistol;U;Equipment;;Second Edition;Print;3;3
@@ -418,7 +418,7 @@ Captured by the Breen;U;Dilemma;;In a Mirror Darkly;Print;3;0
 Cardassia IV, Hold Secret Prisoners;V;Mission;;Return to Grace;Virtual;2;0
 Cardassia IV, Rescue Prisoners;U;Mission;;Second Edition;Print;2;0
 Cardassia Prime, Bastion of Resistance;V;Mission;;The Menagerie;Virtual;2;0
-Cardassia Prime, Hardscrabble World;U;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;2;0
+Cardassia Prime, Hardscrabble World;U;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;4;2 // Have 2 SE
 Cardassia Prime, Secure Homeworld;V;Mission;;The Omega Directive/Second Skin;Virtual;2;0
 Cardassia Prime, Subjugated Planet;V;Mission;;Apocalypse Rising/Move Along Home;Virtual;2;0
 Cardassian Outskirts, Kressari Rendezvous;U/VP;Mission;;Second Edition/Virtual Promo;Both;2;0
@@ -853,10 +853,10 @@ Earring of Li Nalas;V;Equipment;;Extreme Measures;Virtual;3;0
 Earth Orbit, Sabotage Power Grid;V;Mission;;Continuing Mission;Virtual;2;0
 Earth Outpost 4, Border Incursion;V;Mission;;Sacrifice of Angels;Virtual;2;0
 Earth, Conduct Espionage;V;Mission;;The Omega Directive;Virtual;2;0
-Earth, Cradle of the Federation;S/V/VP;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;3;0
-Earth, Home of Starfleet Command;U/V;Mission;;Second Edition/Move Along Home;Both;2;0
-Earth, Humanity's Home;U/V/VP;Mission;;To Boldly Go/Move Along Home/Virtual Promo;Both;3;0
-Earth, Lush and Beautiful Home;U/V/VP;Mission;;These Are The Voyages/Move Along Home/Virtual Promo;Both;3;0
+Earth, Cradle of the Federation;S/V/VP;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;4;2 // Have 2 SE
+Earth, Home of Starfleet Command;U/V;Mission;;Second Edition/Move Along Home;Both;3;2 // Have 2 SE
+Earth, Humanity's Home;U/V/VP;Mission;;To Boldly Go/Move Along Home/Virtual Promo;Both;4;2 // Have 2 TBG
+Earth, Lush and Beautiful Home;U/V/VP;Mission;;These Are The Voyages/Move Along Home/Virtual Promo;Both;3;1 // Have 1 TATV
 Earth, Reject the Impure;V;Mission;;A Less Perfect Union;Virtual;2;0
 Earth, Stop First Contact;V;Mission;;Legacy;Virtual;2;0
 Echo Papa Attack;V;Dilemma;;Raise the Stakes;Virtual;3;3
@@ -999,7 +999,7 @@ Ferengi Computer;U;Equipment;;Strange New Worlds;Print;3;2
 Ferengi Locator Bomb;V;Dilemma;;The Undiscovered Country;Virtual;3;0 // Should re-do these
 Ferengi Tradition;V;Event;;Extreme Measures;Virtual;3;0
 Ferengi Whip;C;Equipment;;Strange New Worlds;Print;3;3
-Ferenginar, Financial Hub;U/V;Mission;;Strange New Worlds/Move Along Home;Both;2;0
+Ferenginar, Financial Hub;U/V;Mission;;Strange New Worlds/Move Along Home;Both;3;2 // Have 2 SNW
 Ferocity;U;Event;;Energize;Print;3;3
 Fesarius Bluff;C;Dilemma;;These Are The Voyages;Print;3;0
 Feykaab;V;Personnel;Non-Aligned;Lower Decks;Virtual;3;0
@@ -1058,7 +1058,7 @@ Founder Leader, Intergalactic Warlord;V;Personnel;Dominion;Balance of Terror;Vir
 Founder Leader, Single-Minded;R;Personnel;Dominion;What You Leave Behind;Print;3;0
 Founder Trap;R;Interrupt;;Call to Arms;Print;3;3
 Founders' Homeworld, Contingent Refuge;V;Mission;;Move Along Home/Strange Bedfellows;Virtual;2;0
-Founders' Homeworld, Home of the Great Link;S/V;Mission;;Call to Arms/Move Along Home;Both;2;0
+Founders' Homeworld, Home of the Great Link;S/V;Mission;;Call to Arms/Move Along Home;Both;3;2 // Have 2 C2A
 Four of Nine, Heuristics Drone;R/V;Personnel;Borg;These Are The Voyages/Finding Our Way;Both;3;0
 Four of Twelve, Standardization Drone;U;Personnel;Borg;These Are The Voyages;Print;3;0
 Fourth, Neonatal Drone;U;Personnel;Borg;To Boldly Go;Print;3;0
@@ -1166,7 +1166,7 @@ Gregory Quinn, Alien Courier;V;Personnel;Federation;Balance of Terror;Virtual;3;
 Greitak;V;Personnel;Dominion;Hard Time;Virtual;3;0
 Grenis;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Grid 216, Trade with Ba'Neth Outpost;V;Mission;;Phage;Virtual;2;0
-Grid 296, Holographic Training Facility;V;Mission;;A Time to Stand/Move Along Home;Virtual;2;0
+Grid 296, Holographic Training Facility;V;Mission;;A Time to Stand/Move Along Home;Virtual;3;2 // Have 2 AttS
 Grid 532, Assimilate Species 10026;V;Mission;;Lower Decks;Virtual;2;0
 Grilka, Glorious Lady;R;Personnel;Klingon;In a Mirror Darkly;Print;3;0
 Grimp, Pessimist;U;Personnel;Ferengi;To Boldly Go;Print;3;0
@@ -2038,9 +2038,9 @@ Mortimer Harren, Reclusive Genius;V;Personnel;Federation;Lower Decks;Virtual;3;0
 Morulla;V;Personnel;Vidiian;Phage;Virtual;3;0
 Mot, The Barber;C;Personnel;Federation;What You Leave Behind;Print;3;0
 Motura, Eminent Sculptor;V;Personnel;Vidiian;Phage;Virtual;3;0
-Mouth of the Wormhole, Deep Space 9;S/V/VP;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;3;0
+Mouth of the Wormhole, Deep Space 9;S/V/VP;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;4;2 // Have 2 SE
 Mouth of the Wormhole, Form Labor Union;V;Mission;;Continuing Mission;Virtual;2;0
-Mouth of the Wormhole, Terok Nor;U/V;Mission;;Call to Arms/Move Along Home;Both;2;0
+Mouth of the Wormhole, Terok Nor;U/V;Mission;;Call to Arms/Move Along Home;Both;3;2 // Hvae 2 C2A
 Mouthpiece;V;Event;;Matter of Time;Virtual;3;0
 Movar, Political General;S;Personnel;Romulan;Second Edition;Print;3;0
 Mr. Tricorder;P;Dilemma;;Reflections 2.0;Print;3;0
@@ -2463,7 +2463,7 @@ Quark, True Ferengi;R/VP;Personnel;Ferengi;Strange New Worlds/Virtual Promo;Both
 Quark, Vastly Outnumbered;V;Personnel;Ferengi;Allegiance;Virtual;3;0
 Quarrel;C;Dilemma;;Strange New Worlds;Print;3;3
 Quarren Labor Shortage;U;Dilemma;;Second Edition;Print;3;3
-Quatal Prime, Quiet Mining Colony;V;Mission;;A Time to Stand/Move Along Home;Virtual;2;0
+Quatal Prime, Quiet Mining Colony;V;Mission;;A Time to Stand/Move Along Home;Virtual;3;2 // Have 2 AttS
 Queen's Borg Cube;P/VP;Ship;Borg;Tenth Anniversary Collection/Virtual Promo;Both;3;0
 Queen's Borg Sphere, Contingency Vessel;P/VP;Ship;Borg;Genesis/Virtual Promo;Both;3;0
 Quen Paltra;V;Personnel;Bajoran;Extreme Measures;Virtual;3;0
@@ -2632,7 +2632,7 @@ Romulan Intelligence Network;U;Event;;Second Edition;Print;3;3
 Romulan Scout Vessel;C;Ship;Romulan;Second Edition;Print;3;0
 Romulus Orbit, Covert Insertion;V;Mission;;Continuing Mission;Virtual;2;0
 Romulus, Patient Stronghold;V;Mission;;Face of the Enemy/Move Along Home;Virtual;2;0
-Romulus, Seat of Power;S/V;Mission;;Second Edition/Move Along Home;Both;2;0
+Romulus, Seat of Power;S/V;Mission;;Second Edition/Move Along Home;Both;3;2 // Have 2 SE
 Ronald Tracey, Delusional Captain;V;Personnel;Federation;Tacking Into the Wind;Virtual;3;0
 Rossi;V;Personnel;Starfleet;A Time to Stand;Virtual;3;0
 Rota Sevrin, Deranged Doctor;V;Personnel;Non-Aligned;Zero Hour;Virtual;3;0
@@ -3403,7 +3403,7 @@ Unfair Comparison;V;Dilemma;;Peak Performance;Virtual;3;3
 Unfair Terms;V;Dilemma;;Raise the Stakes;Virtual;3;3
 Unfamiliar Etiquette;V;Dilemma;;Zero Hour;Virtual;3;3
 Ungracious Hosts;U;Dilemma;;Necessary Evil;Print;3;0
-Unicomplex, Root of the Hive Mind;S/VP/V;Mission;;Call to Arms/Virtual Promo/Move Along Home;Both;2;1 // have 1 C2A
+Unicomplex, Root of the Hive Mind;S/VP/V;Mission;;Call to Arms/Virtual Promo/Move Along Home;Both;4;2 // have 2 C2A
 Unimatrix Zero;R/VP;Event;;In a Mirror Darkly/Virtual Promo;Both;3;0
 Uninvited;V;Interrupt;;Favor the Bold;Virtual;3;3
 Unionize;V;Dilemma;;Favor the Bold;Virtual;3;3
@@ -3497,7 +3497,7 @@ Vori Planet, Intervene in Local Conflict;V;Mission;;Phage;Virtual;2;0
 Vorik, Unflappable;V;Personnel;Federation;A Less Perfect Union;Virtual;3;0
 Vornar;V;Personnel;Cardassian;The Menagerie;Virtual;3;0
 Vorta Cloning;C;Event;;Call to Arms;Print;3;2
-Vorta Discipline;V;Interrupt;;Peak Performance;Virtual;3;0
+Vorta Discipline;V;Interrupt;;Peak Performance;Virtual;3;3
 Vorta Experiment Tables;U;Event;;In a Mirror Darkly;Print;3;0
 Vosk, Temporal Fanatic;U;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Voth City Ship, Challenge Doctrine;V/AP;Mission;;Timeless/Phage;Virtual;2;0
@@ -3517,25 +3517,25 @@ Warp Bubble Mishap;C;Dilemma;;To Boldly Go;Print;3;3
 Warp Speed Transfer;R;Interrupt;;Captain's Log;Print;3;0
 Warren Woods;V;Personnel;Starfleet;Continuing Mission;Virtual;3;0
 Warrior's Birthright;C;Event;;Second Edition;Print;3;3
-Warrior's Resolve;V;Interrupt;;The Undiscovered Country;Virtual;3;1
+Warrior's Resolve;V;Interrupt;;The Undiscovered Country;Virtual;3;2 // Reprint 1
 Watch Dog;C;Event;;In a Mirror Darkly;Print;3;0
 Watch Your Step;V;Dilemma;;This Side of Paradise;Virtual;3;3
 Watley, Recent Transfer;V;Personnel;Federation;This Side of Paradise;Virtual;3;0
 Wavefront;C;Dilemma;;Second Edition;Print;3;3
 We Are Back;C;Event;;Necessary Evil;Print;3;0
-We Are Klingon;U;Interrupt;;Energize;Print;3;0
+We Are Klingon;U;Interrupt;;Energize;Print;3;3
 We Require Your Expertise;V;Interrupt;;Caretaker;Virtual;3;0
 We Will Not Surrender;U;Event;;Energize;Print;3;2
 We'll Never Know;V;Dilemma;;The Undiscovered Country;Virtual;3;0 // Reprint this
 We're All On Strike;U;Event;;To Boldly Go;Print;3;2
-We're Everywhere;C;Interrupt;;Call to Arms;Print;3;0
+We're Everywhere;C;Interrupt;;Call to Arms;Print;3;3
 We're Mutants;U;Event;;Call to Arms;Print;3;2
 Weight of Command;V;Dilemma;;Zero Hour;Virtual;3;3
 Weird Planet Displaced in Time, Research Rapid Rotation;AP/V;Mission;;Timeless/Phage;Virtual;2;0
 Weiss, Glaring Tactician;V;Personnel;Non-Aligned;Unity;Virtual;3;0
 Weld Ram;C;Personnel;Bajoran;Second Edition;Print;3;0
 Well Wishes;V;Event;;Zero Hour;Virtual;3;3
-Well-Crafted Lure;U;Interrupt;;Energize;Print;3;0
+Well-Crafted Lure;U;Interrupt;;Energize;Print;3;2
 Well-Prepared Defenses;V;Dilemma;;Raise the Stakes;Virtual;3;3
 Wesley Crusher, Apprentice Traveler;V;Personnel;Non-Aligned;Tapestry;Virtual;3;0
 Wesley Crusher, Battleship Helmsman;C;Personnel;Federation;In a Mirror Darkly;Print;3;0
@@ -3611,7 +3611,7 @@ Yassim, Zealous Protester;R;Personnel;Bajoran;Call to Arms;Print;3;0
 Yedrin Dax, Heir Apostate;V;Personnel;Non-Aligned;Matter of Time;Virtual;3;0
 Yelgrun, Blunt Negotiator;R;Personnel;Dominion;Call to Arms;Print;3;0
 Yelsar;C;Personnel;Bajoran;Call to Arms;Print;3;0
-You Could Be Invaluable;U;Interrupt;;Call to Arms;Print;3;0
+You Could Be Invaluable;U;Interrupt;;Call to Arms;Print;3;2
 You Have a Disease;U;Event;;These Are The Voyages;Print;3;0
 You Vant to Go Back?;V;Dilemma;;Raise the Stakes;Virtual;3;3
 You've Always Been My Favorite;R/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0

@@ -62,6 +62,16 @@ Admiral Picard;Personnel;Federation;Introductory 2-Player Game;537;;2;0
 Admiral Riker;Personnel;Federation;All Good Things/The Dominion;538,3045,3522;;2;0
 Admiral Ross;Personnel;Federation;Blaze of Glory;539;;2;0
 Aftermath;Mission;Planet;Voyager;540;;2;0
+Aggressive Behavior;Dilemma;Space;Voyager;541;;4;0
+Agonizer;Equipment;;Mirror, Mirror;542,4802;;4;0
+Agony Booth;Incident;;Mirror, Mirror;543,4812;;4;0
+Agricultural Assessment;Mission;Planet;The Trouble with Tribbles;544;;2;0
+Ah-Kel and Ro-Kel;Personnel;Non-Aligned;Holodeck Adventures;545;;2;0
+Aid Clone Colony;Mission;Planet;All Good Things;546;;2;0
+Aid Fugitives;Mission;Planet;Deep Space 9;547;;2;0
+Airlock;Doorway;;Deep Space 9;548;;4;0
+Ajur;Personnel;Non-Aligned;Alternate Universe;549;;2;0
+Alas, Poor Drone;Event;;The Borg;550;;4;0
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
 Alidar Jarok;Personnel;Romulan;Premiere;556,6037,6763,6400,7685;;2;1
 Alien Abduction;Dilemma;Planet;Premiere/Virtual Promos;557,5824,6038,6401,6764,7686;;4;0 # Need errata
@@ -427,11 +437,13 @@ Minister Rozahn;Personnel;Bajoran;Deep Space 9;270,4411;;4;0
 Miradorn Raider;Ship;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;271,7114;;4;0
 Mirok;Personnel;Romulan;Premiere;1736,6212,6575,6938,7860;;2;1
 Mirror Ferengi Shuttle;Ship;Ferengi;Mirror, Mirror;272;;4;0
+Mona Lisa;Artifact;;Q Continuum;1748;;2;1
 Mopak;Personnel;Romulan;Blaze of Glory;273;;4;0
 Mordoc;Personnel;Ferengi;The Trouble with Tribbles;274;;4;0
 Morgan Bateson;Personnel;Federation;Premiere;647,6055,6418,6781,7703,8067;;2;1
 Movar;Personnel;Romulan;Premiere;656,6057,6420,6783,7705;;2;1
 Mr. Andrews;Personnel;Federation;Mirror, Mirror;275,4850;;4;0
+Mysterious Orb;Artifact;;Deep Space 9;1761;;2;1
 N'Garen;Personnel;Klingon;Blaze of Glory/Trouble with Tribbles Starter Decks;284,7115;;4;0
 N'Vek;Personnel;Romulan;Premiere;1810,6227,6590,6953,7875;;2;1
 Nadirum;Personnel;Vidiian;Voyager;276;;4;0
@@ -459,6 +471,8 @@ Nutational Shields;Event;;Premiere;1809,6226,6589,6952,7874,8238;;4;1
 Ocett;Personnel;Non-Aligned;Premiere;1005,6087,6450,6813,7735;;2;1
 Oken'alak;Personnel;Dominion;Blaze of Glory;291;;4;0
 One of Eleven;Personnel;Borg;First Contact;292;;4;0
+Ophidian Cane;Artifact;;Alternate Universe;1818;;2;2
+Orb of Prophecy and Change;Artifact;;The Dominion/First Anthology/Homefront VI;1824,3083,4665;;2;2
 Ornithar;Personnel;Dominion;The Dominion;293,4425;;4;0
 Orren Ran;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;294,7116;;4;0
 Pa'rena;Personnel;Non-Aligned;The Motion Pictures;296,7195;;4;0
@@ -672,7 +686,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 540
+# Done through card 550
 #556-557
 #561
 #570-571
@@ -753,7 +767,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1713-1714
 #1722-1723
 #1736
-#1762
+#1748
+#1761-1762
 #1764
 #1770
 #1776
@@ -761,6 +776,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1794
 #1806
 #1809-1810
+#1818
+#1824
 #1846-1847
 #1849
 #1863
@@ -804,6 +821,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2611
 #3045
 #3067
+#3083
 #3086
 #3407
 #3476
@@ -868,6 +886,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4597
 #4660-4662
 #4464-4466
+#4665
 #4668
 #4678
 #4692
@@ -879,6 +898,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4711
 #4796
 #4798
+#4802
+#4812
 #4820
 #4824
 #4826
