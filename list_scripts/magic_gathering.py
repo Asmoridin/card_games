@@ -426,9 +426,9 @@ commander_cats = get_categories(commander_cat_fh.readlines())
 commander_cat_fh.close()
 
 SET_CHECK = 0
-CHECK_SET = "Mirrodin"
-CHECK_AMOUNT = 306
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = "Darksteel"
+CHECK_AMOUNT = 165
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
@@ -475,8 +475,10 @@ for line in lines:
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
-    #if CHECK_SET in card_sets and 'Green' in card_colors:
+    #if CHECK_SET in card_sets and 'White' in card_colors:
     #if CHECK_SET in card_sets and 'Green' in card_colors and 'Creature' not in card_type:
+    #if CHECK_SET in card_sets and 'Artifact' in card_type:
+        #print(card_name)
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
@@ -643,7 +645,7 @@ if __name__ == "__main__":
     double_print("*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
-        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', ]
+        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', 'Warrior', ]
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))

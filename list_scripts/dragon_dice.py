@@ -131,8 +131,8 @@ if __name__=="__main__":
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
 
-    next_buy_string = f"Buy a {picked_item[2]} from {picked_item[1]} - perhaps a {picked_item[0]}"
-    double_print(next_buy_string, out_file_h)
+    NEXT_BUY_STRING = f"Buy a {picked_item[2]} from {picked_item[1]} - perhaps a {picked_item[0]}"
+    double_print(NEXT_BUY_STRING, out_file_h)
 
     double_print("\nPoints for each army:", out_file_h)
     for faction in sorted(army_factions):
