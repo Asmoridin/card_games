@@ -55,7 +55,7 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     "Battle of Beiden Pass", "L5R Experience", "Siege of Sleeping Mountain", 'Hidden Emperor 3',
     "Dawn of the Empire", "Reign of Blood", "Enemy of My Enemy", "Drums of War", "Code of Bushido",
     "Web of Lies", "Wrath of the Emperor", "Hidden Emperor 2", "Top Deck Booster Pack",
-    "Crab vs. Lion",
+    "Crab vs. Lion", "Heroes of Rokugan",
 ]
 VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (Gold)',
     'Rain of Blood (Diamond)', 'Age of Enlightenment (Lotus)', 'Race for the Throne (Samurai)',
@@ -135,7 +135,12 @@ for line in in_lines:
         continue
     card_names.add(card_name)
     card_max = int(card_max)
-    card_own = int(card_own)
+    try:
+        card_own = int(card_own)
+    except ValueError:
+        print("Invalid line:")
+        print(line)
+        continue
     format_map[card_format][0] += card_own
     format_map[card_format][1] += card_max
     TOTAL_MAX += card_max

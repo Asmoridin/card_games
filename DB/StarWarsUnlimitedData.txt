@@ -33,8 +33,8 @@ Ahsoka Tano, Chasing Whispers;JTL-201-R;Ground Unit;Y/W;0
 Ahsoka Tano, Snips;TWI-011-S;Leader;R/W;1
 Ahsoka's Padawan Lightsaber;TWI-248-S;Upgrade;W;3
 Aid from the Innocent;TWI-201-R;Event;Y/W;0
-Air Superiority;JTL-125-C;Event;G;0
-All Wings Report In;JTL-122-C;Event;G;0
+Air Superiority;JTL-125-C;Event;G;1
+All Wings Report In;JTL-122-C;Event;G;1
 Allegiant General Pryde, Ruthless and Loyal;JTL-133-R;Ground Unit;R/B;0
 Alliance Dispatcher;SOR-093-C;Ground Unit;G/W;3
 Alliance X-Wing;SOR-237-C;Space Unit;W;3
@@ -55,7 +55,7 @@ Asajj Ventress, Unparalleled Adversary;TWI-014-R;Leader;Y/B;0
 Asteroid Sanctuary;SOR-218-C;Event;Y;3
 Astromech Pilot;JTL-057-U;Ground Unit;U;0
 AT-AT Suppressor;SOR-039-U;Ground Unit;U/B;2 # 1 hyperspace
-AT-DP Occupier;JTL-163-C;Ground Unit;R;0
+AT-DP Occupier;JTL-163-C;Ground Unit;R;1
 AT-ST;SOR-232-C;Ground Unit;B;3 # 1 hyperfoil
 AT-TE Vanguard;TWI-247-U;Ground Unit;W;1
 Attack Pattern Delta;SOR-106-U;Event;G;3 # 1 foil, 1 hyperfoil
@@ -273,7 +273,7 @@ Droid Cohort;TWI-218-C;Upgrade;Y;3
 Droid Commando;TWI-081-C;Ground Unit;G/B;3 # 1 hyperspace
 Droid Deployment;TWI-237-C;Event;B;3 # 1 foil
 Droid Manufactory;TWI-022-R;Base;G;1
-Droid Missile Platform;JTL-162-C;Space Unit;R;0
+Droid Missile Platform;JTL-162-C;Space Unit;R;1
 Droid Starfighter;TWI-228-C;Space Unit;B;3
 Droideka Security;TWI-037-C;Ground Unit;B/U;3 # 1 foil
 Drop In;TWI-251-C;Event;W;3
@@ -282,12 +282,12 @@ Duchess's Champion;TWI-054-U;Ground Unit;U;1
 Dwarf Spider Droid;TWI-231-C;Ground Unit;B;2
 Eager Escort Fighter;JTL-112-C;Space Unit;G;0
 Echo Base Defender;SOR-098-C;Ground Unit;G/W;3
-Echo Base Engineer;JTL-044-C;Ground Unit;U/W;0
+Echo Base Engineer;JTL-044-C;Ground Unit;U/W;1
 Echo Base;SOR-024-C;Base;G;1 # 1 hyperspace
 Echo, Restored;SHD-099-U;Ground Unit;G/W;2
 Echo, Valiant ARC Trooper;TWI-090-U;Ground Unit;G/W;2
 Eject;JTL-126-R;Event;G;0
-Electromagnetic Pulse;JTL-230-C;Event;Y;0
+Electromagnetic Pulse;JTL-230-C;Event;Y;1
 Electrostaff;SOR-071-R;Upgrade;U;3
 Elite P-38 Starfighter;TWI-181-C;Space Unit;B/Y;3
 Embo, Stoic and Resolute;SHD-059-U;Ground Unit;U;2
@@ -308,7 +308,7 @@ Equalize;TWI-055-R;Event;U;0
 Escort Skiff;SOR-114-C;Ground Unit;G;3 # 1 hyperspace
 Eta-2 Light Interceptor;TWI-244-C;Space Unit;W;3
 Evacuate;SHD-233-L;Event;Y;1 # 1 hyperfoil
-Evasive Maneuver;JTL-262-C;Event;N;0
+Evasive Maneuver;JTL-262-C;Event;N;1
 Evidence of the Crime;SHD-077-R;Event;U;1
 Execute Order 66;TWI-239-R;Event;B;0
 Executor, Might of the Empire;JTL-090-L;Space Unit;G/B;0
@@ -366,7 +366,7 @@ General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;2
 General Draven, Doing What Must Be Done;JTL-117-R;Ground Unit;G;0
 General Grievous, General of the Droid Armies;TWI-015-S;Leader;B/Y;1
 General Grievous, Trophy Collector;TWI-034-L;Ground Unit;B/U;0
-General Hux, No Terms, No Surrender;JTL-134-U;Ground Unit;R/B;0
+General Hux, No Terms, No Surrender;JTL-134-U;Ground Unit;R/B;1
 General Krell, Heartless Tactician;SOR-105-R;Ground Unit;G;1
 General Rieekan, Defensive Strategist;SHD-103-R;Ground Unit;G/W;2
 General Tagge, Concerned Commander;SOR-080-U/SHD-081-S;Ground Unit;G/B;2
@@ -412,7 +412,7 @@ Han Solo, Worth the Risk;SHD-013-C;Leader;R/W;1 # 1 hyperspace
 Hardpoint Heavy Blaster;SOR-121-U;Upgrade;G;3
 Headhunter Squadron;TWI-253-C;Space Unit;N;2
 Headhunting;SHD-145-U;Event;R/B;3
-Heartless Tactics;JTL-194-U;Event;Y/B;0
+Heartless Tactics;JTL-194-U;Event;Y/B;1
 Heavy Persuader Tank;TWI-167-C;Ground Unit;R;2
 Hello There;TWI-052-U;Event;U/W;1
 Hera Syndulla, Spectre Two;SOR-008-R;Leader;G/W;1
@@ -583,7 +583,7 @@ Millennium Falcon, Lando's Pride;SHD-204-U;Space Unit;Y/W;2
 Millennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;1
 Mining Guild TIE Fighter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
-Mist Hunter, The Findsman's Pursuit;JTL-186-U;Space Unit;Y/B;0
+Mist Hunter, The Findsman's Pursuit;JTL-186-U;Space Unit;Y/B;1 # 1 foil
 Mister Bones, I Performed Violence;TWI-154-R;Ground Unit;R;1
 Modded Cohort;SHD-100-C;Ground Unit;G/W;3 # 1 foil
 Moff Gideon, Formidable Commander;SHD-007-S;Leader;G/B;1
@@ -598,7 +598,7 @@ Multi-Troop Transport;TWI-066-C;Ground Unit;U;2
 Munificent Frigate;JTL-069-C;Space Unit;U;0
 Mystic Reflection;SHD-051-R;Event;U/W;1
 Nabat Village;JTL-028-R;Base;Y;0
-Nadiri Dockyards;JTL-27-C;Base;R;0
+Nadiri Dockyards;JTL-027-C;Base;R;1
 Nala Se, Clone Engineer;TWI-001-R;Leader;B/U;0
 Nameless Valor;TWI-119-U;Upgrade;G;2
 Nebula Ignition;JTL-080-L;Event;U;0
@@ -682,7 +682,7 @@ Prisoner of War;TWI-227-U;Event;Y;3 # 1 foil
 Private Manufacturing;TWI-257-U;Event;N;3 # 1 hyperspace
 Privateer Crew;SHD-113-U;Ground Unit;G;3
 Privateer Scyk;SHD-212-C;Space Unit;Y;3 # 1 foil
-Profundity, We Fight!;JTL-154-L;Space Unit;R/W;0
+Profundity, We Fight!;JTL-154-L;Space Unit;R/W;1
 Protector of the Throne;SHD-247-C;Ground Unit;W;3 # 1 hyperspace
 Protector;SOR-057-U;Upgrade;U;2
 Prototype TIE Advanced;JTL-136-C;Space Unit;R/B;0
@@ -697,7 +697,7 @@ Qi'ra, I Alone Survived;SHD-002-R;Leader;U/B;1
 Qi'ra, Playing Her Part;SHD-202-R;Ground Unit;Y/W;1
 Quasar TIE Carrier;JTL-243-C;Space Unit;B;0
 Quinlan Vos, Sticking the Landing;TWI-018-C;Leader;W/Y;1
-R2-D2, Artooooooooo!;JTL-245-U;Ground Unit;W;0
+R2-D2, Artooooooooo!;JTL-245-U;Ground Unit;W;1
 R2-D2, Full of Solutions;TWI-193-U;Ground Unit;Y/W;2 # 1 foil
 R2-D2, Ignoring Protocol;SOR-236-S;Ground Unit;W;3
 Raddus, Holdo's Final Command;JTL-104-R;Space Unit;G/W;0
@@ -761,7 +761,7 @@ Rogue Operative;SOR-194-C;Ground Unit;W/Y;3 # 1 hyperspace
 Rogue Squadron Skirmisher;SOR-101-U;Ground Unit;G/W;3
 Rogue-class Starfighter;JTL-241-C;Space Unit;B;0
 Rose Tico, Dedicated to the Cause;SHD-045-U;Ground Unit;U/W;3
-Rose Tico, Saving What We Love;JTL-004-C;Leader;U/W;0
+Rose Tico, Saving What We Love;JTL-004-C;Leader;U/W;1
 Royal Guard Attaché;TWI-059-C;Ground Unit;U;3 # 1 foil
 Royal Security Fighter;JTL-061-C;Space Unit;U;0
 Rugged Survivors;SOR-067-C;Ground Unit;U;3 # 1 foil, 1 hyperspace
@@ -849,7 +849,7 @@ Street Gang Recruiter;SHD-260-C;Ground Unit;N;3 # 3 foil
 Strike True;SOR-127-C;Event;G;3 # 1 hyperspace
 Subjugating Starfighter;TWI-112-C;Space Unit;G;3
 Sugi, Hired Guardian;SHD-052-R;Ground Unit;U;2 # 1 foil
-Sullustan Spacer;JTL-255-C;Ground Unit;N;0
+Sullustan Spacer;JTL-255-C;Ground Unit;N;1
 Sundari Peacekeeper;SHD-098-U;Ground Unit;G/W;2
 Sundari;TWI-020-C;Base;U;1
 Super Battle Droid;TWI-230-C;Ground Unit;B;3
@@ -883,7 +883,7 @@ Tarfful, Kashyyyk Chieftain;SHD-250-R;Ground Unit;W;1
 Targeting Computer;JTL-171-R;Upgrade;R;0
 Tarkintown;SOR-025-R;Base;R;1
 Tech, Source of Insight;SHD-248-R;Ground Unit;W;1
-Techno Union Transport;JTL-190-C;Space Unit;Y/B;0
+Techno Union Transport;JTL-190-C;Space Unit;Y/B;1
 The Armorer, Survival Is Strength;SHD-047-U;Ground Unit;U/W;3
 The Chaos of War;SHD-159-R;Event;R;0
 The Client, Dictated By Discretion;SHD-031-U;Ground Unit;U/B;3 # 1 hyperspace, 1 foil

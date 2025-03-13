@@ -202,17 +202,17 @@ if __name__ == "__main__":
     else:
         out_file_h = open("card_games/wl_output/MarvelChampionsOut.txt", 'w', encoding="UTF-8")
     double_print("Generating a game", out_file_h)
-    summ_str = f"There are {TOTAL_HERO_CHOICES} different Hero/Aspect combinations, and " + \
+    SUMM_STR = f"There are {TOTAL_HERO_CHOICES} different Hero/Aspect combinations, and " + \
         f"{determine_combinations()} different game pairings"
-    double_print(summ_str, out_file_h)
+    double_print(SUMM_STR, out_file_h)
 
     play_str = f"Currently have played {len(hero_played_map) * 100 / TOTAL_HERO_CHOICES:.1f} " + \
         "percent of Hero/Aspects"
     double_print(play_str, out_file_h)
-    summ_str = f"There are {len(ChampHeroes.heroes)} heroes, {len(ChampEncounters.encounters)}" + \
+    SUMM_STR = f"There are {len(ChampHeroes.heroes)} heroes, {len(ChampEncounters.encounters)}" + \
         f" different encounters, and {len(ChampEncounters.modular_encounters)} different " + \
         "modular encounter sets\n"
-    double_print(summ_str, out_file_h)
+    double_print(SUMM_STR, out_file_h)
 
     # Choose first hero - always choose least played hero
     choice_1 = get_least_played_hero(hero_played_map)
@@ -237,35 +237,35 @@ if __name__ == "__main__":
     choice_2 = (choices[0][0], choices[0][1])
 
     hero_tuple = get_hero_stats(hero_played_map)
-    hero_str = f"Most played hero: {hero_tuple[0]} ({hero_tuple[1]} times). Least: " + \
+    HERO_STR = f"Most played hero: {hero_tuple[0]} ({hero_tuple[1]} times). Least: " + \
         f"{hero_tuple[2]} ({hero_tuple[3]})"
-    double_print(hero_str, out_file_h)
+    double_print(HERO_STR, out_file_h)
     aspect_tuple = get_aspect_stats(hero_played_map)
-    aspect_str = f"Most played aspect: {aspect_tuple[0]} ({aspect_tuple[1]} times). Least: " + \
+    ASPECT_STR = f"Most played aspect: {aspect_tuple[0]} ({aspect_tuple[1]} times). Least: " + \
         f"{aspect_tuple[2]} ({aspect_tuple[3]})"
-    double_print(aspect_str, out_file_h)
+    double_print(ASPECT_STR, out_file_h)
     scenario_tuple = get_villain_stats(enc_played_map)
-    vill_str = f"Most played scenario: {scenario_tuple[0]} ({scenario_tuple[1]} times). Least: " + \
+    VILL_STR = f"Most played scenario: {scenario_tuple[0]} ({scenario_tuple[1]} times). Least: " + \
         f"{scenario_tuple[2]} ({scenario_tuple[3]})"
-    double_print(vill_str, out_file_h)
+    double_print(VILL_STR, out_file_h)
     modular_tuple = get_modular_stats(enc_played_map)
-    mod_str = f"Most played modular encounter: {modular_tuple[0]} ({modular_tuple[1]} times). " + \
+    MOD_STR = f"Most played modular encounter: {modular_tuple[0]} ({modular_tuple[1]} times). " + \
         f"Least: {modular_tuple[2]} ({modular_tuple[3]})"
-    double_print(mod_str, out_file_h)
+    double_print(MOD_STR, out_file_h)
 
     # Choose an encounter
     encounter_choice = get_least_played_encounter(enc_played_map)
 
     hero_1_wl = get_hero_wl(choice_1[0], choice_1[1], hero_played_map)
     hero_2_wl = get_hero_wl(choice_2[0], choice_2[1], hero_played_map)
-    ha_str = f"\nHeroes/Aspects chosen: {'/'.join(choice_1[1])} {choice_1[0]} ({hero_1_wl[0]}W" + \
+    HA_STR = f"\nHeroes/Aspects chosen: {'/'.join(choice_1[1])} {choice_1[0]} ({hero_1_wl[0]}W" + \
         f"-{hero_1_wl[1]}L) and {'/'.join(choice_2[1])} {choice_2[0]} ({hero_2_wl[0]}W-" + \
         f"{hero_2_wl[1]}L)"
-    double_print(ha_str, out_file_h)
+    double_print(HA_STR, out_file_h)
     enc_wl = get_encounter_wl(encounter_choice[0], encounter_choice[1], enc_played_map)
-    enc_str = f"Chosen encounter is {'/'.join(encounter_choice[1])} {encounter_choice[0]} " + \
+    ENC_STR = f"Chosen encounter is {'/'.join(encounter_choice[1])} {encounter_choice[0]} " + \
         f"({enc_wl[0]}W-{enc_wl[1]}L)"
-    double_print(enc_str, out_file_h)
+    double_print(ENC_STR, out_file_h)
 
     double_print("\nTotal W-L by hero:", out_file_h)
     hero_wl = {}
@@ -279,8 +279,8 @@ if __name__ == "__main__":
         hero_spacer = " " * (30 - len(hero))
         hero_wins = hero_wl[hero][0]
         hero_losses = hero_wl[hero][1]
-        hero_wl_str = f"{hero}{hero_spacer}{hero_wins} - {hero_losses}"
-        double_print(hero_wl_str, out_file_h)
+        HERO_WL_STR = f"{hero}{hero_spacer}{hero_wins} - {hero_losses}"
+        double_print(HERO_WL_STR, out_file_h)
 
     overall_wl = [0, 0]
     double_print("\nTotal W-L by villain:", out_file_h)
@@ -298,8 +298,8 @@ if __name__ == "__main__":
         villain_spacer = " " * (30-len(villain))
         villain_wins = villain_wl[villain][0]
         villains_losses = villain_wl[villain][1]
-        villain_wl_str = f"{villain}{villain_spacer}{villain_wins} - {villains_losses}"
-        double_print(villain_wl_str, out_file_h)
+        VILLAIN_WL_STR = f"{villain}{villain_spacer}{villain_wins} - {villains_losses}"
+        double_print(VILLAIN_WL_STR, out_file_h)
 
     double_print("\nTotal W-L by aspect:", out_file_h)
     aspect_wl = {}

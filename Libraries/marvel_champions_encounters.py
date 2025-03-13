@@ -22,10 +22,13 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
     'Acolytes', 'Military Grade', 'Mutant Slayers', 'Nasty Boys', 'Black Tom Cassidy', 'Flight',
     'Super Strength', 'Telepathy', 'Extreme Measures', 'Mutant Insurrection', 'Infinites',
     'Dystopian Nightmare', 'Hounds', 'Dark Riders', 'Blue Moon', 'Genosha', 'Savage Land',
-    'Celestial Tech', 'Clan Akkaba', 'Sauron', 'Arcade', 'Crazy Gang', 'Hellfire'
+    'Celestial Tech', 'Clan Akkaba', 'Sauron', 'Arcade', 'Crazy Gang', 'Hellfire',
+    'A.I.M. Abduction', 'A.I.M. Science', "Batroc's Brigade", 'Scientist Supreme', 'S.H.I.E.L.D.',
 ]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
-modular_encounters = modular_encounters + mojo_encounters
+thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
+    'Power of the Atom', 'Supersonic', 'Batroc', ]
+modular_encounters = modular_encounters + mojo_encounters + thunderbolt_encounters
 
 encounters = []
 def get_req_by_encounter(encounter_set):
@@ -42,7 +45,8 @@ class Encounter:
     Objects that handle all the information for an encounter, including valid/choices for
     modular encounter sets
     """
-    def __init__(self, name, num_encounters, required_enc=None, can_infinity=True, mojo_only=False):
+    def __init__(self, name, num_encounters, required_enc=None, can_infinity=True, \
+        mojo_only=False, thunderbolt_only=False):
         self.name = name
         if type(num_encounters) != type(0):
             raise ValueError("Invalid modular encounter count")
@@ -55,13 +59,18 @@ class Encounter:
                 raise ValueError("Invalid required encounter: " + this_encounter)
         self.can_infinity = can_infinity
         self.mojo_only = mojo_only
+        self.thunderbolt_only = thunderbolt_only
     def gen_combos(self):
         """
         Generate all possible combos for this particular Encounter.
         """
         ret_list = []
+        if self.name == 'The Hood':
+            return []
         if self.mojo_only:
             modular_combos = itertools.combinations(mojo_encounters, self.num_encounters)
+        elif self.thunderbolt_only:
+            modular_combos = itertools.combinations(thunderbolt_encounters, self.num_encounters)
         else:
             modular_combos = itertools.combinations(modular_encounters, self.num_encounters)
         for modular_combo in modular_combos:
@@ -121,7 +130,12 @@ encounters.extend([
   Encounter('Four Horsemen', 2, can_infinity=False),
   Encounter('Apocalypse', 2),
   Encounter('Dark Beast', 1, ['Blue Moon', 'Genosha', 'Savage Land']),
-  Encounter('En Sabah Nur', 2)
+  Encounter('En Sabah Nur', 2),
+  Encounter('Black Widow', 2),
+  Encounter('Batroc', 2),
+  Encounter('M.O.D.O.K.', 1),
+  Encounter('Thunderbolts', 3, thunderbolt_only=True),
+  Encounter('Baron Zemo', 2)
 ])
 
 encounter_map = {}

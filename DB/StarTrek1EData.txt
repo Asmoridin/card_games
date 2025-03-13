@@ -100,9 +100,17 @@ Altovar;Personnel;Non-Aligned;Deep Space 9;568;;2;0
 Aluura;Personnel;Ferengi;Identity Crisis;3047;569;2;0
 Aluura;Personnel;Non-Aligned;Rules of Acquisition;569;3047;2;0
 Alynna Nechayev;Personnel;Federation;Premiere;570,6042,6405,6768,7690,8054;;2;1
+Alyssa Ogawa (First Contact);Personnel;Federation;First Contact/Trouble with Tribbles Starter Decks;572,5249;;2;0
 Alyssa Ogawa;Personnel;Federation;Premiere/Coming of Age;571,5429,6043,6406,6769,7691,8055;;2;1
-Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692;;4;2
+Amanda Grayson;Personnel;Federation;The Motion Pictures;573,7211;;2;0
+Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692,8056;;4;2
+Amanda's Parents;Q Event;;Q Continuum;575,7179;;4;0
+Amarie;Personnel;Non-Aligned;Premiere;576,6045,6408,6771,7693,8057;;2;0
 Amaros;Personnel;Non-Aligned;Deep Space 9;51,4442;;4;0
+Amat'igan;Personnel;Dominion;The Dominion;577;;2;0
+Ambassador Krajensky;Personnel;Federation;Rules of Acquisition;578;;2;0
+Ambassador Sarek;Personnel;Federation;The Motion Pictures;579,7212;;2;0
+Ambassador Tomalak;Personnel;Romulan;Blaze of Glory;580;;2;0
 Amet'alox;Personnel;Dominion;The Trouble with Tribbles;52;;4;0
 Analyze Radiation;Mission;Space;The Motion Pictures;53,7184;;4;0
 Anaphasic Organism;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;582,5250,6046,6409,6772,7694;;4;1
@@ -535,6 +543,7 @@ Rekelen;Personnel;Cardassian;Deep Space 9;318,4420;;4;0
 REM Fatigue Hallucinations;Dilemma;Dual;Premiere;1989,6611,6248,6974,7896;;4;0 # Have 3 needing errata
 Repair Mission;Mission;Space;Premiere;1997,6249,6612,6975,7897;;2;1
 Res-Q;Event;;Premiere/Trouble with Tribbles Starter Decks;2007,5267,6250,6613,6976,7898;;4;3
+Ressikan Flute;Artifact;;Alternate Universe;2008;;2;2
 Richard Galen;Personnel;Federation;Premiere;2023,6252,6615,6978,7900,8264;;2;1
 Richard Wilkins;Personnel;Federation;First Contact;319;;4;0
 Rigelian Freighter;Ship;Non-Aligned;Deep Space 9;320;;4;0
@@ -549,8 +558,10 @@ Romulan Shuttle;Ship;Romulan;Blaze of Glory;326;;4;0
 Rukor;Personnel;Klingon;Mirror, Mirror;327,4861;;4;0
 Runabout;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;328,6010,6373,6736,7118,7658,8022;;4;0
 Saldin;Personnel;Kazon;Voyager;329;;4;0
+Saltah'na Clock;Artifact;;Deep Space 9/Virtual Promos;2044,4594;;2;1 # Have 1 DS9
 Sam Lavelle;Personnel;Federation;Holodeck Adventures;330;;4;0
 Sam'po;Personnel;Non-Aligned;The Motion Pictures;331,7198;;4;0
+Samuel Clemens' Pocketwatch;Artifact;;Alternate Universe;2050;;2;2
 Sarek;Personnel;Federation;Premiere/Virtual Promos;2051,5719,6255,6618,6981,7903,8267;;2;1 # Have 1 PREM
 Sarita Carson;Personnel;Federation;Blaze of Glory/Trouble with Tribbles Starter Decks;332,4434,7119;;4;0
 Sarjenka;Dilemma;Planet;Premiere;2053,6256,6619,6982,7904;;4;1
@@ -615,6 +626,7 @@ Takirac;Personnel;Hirogen;The Borg;376;;4;0
 Takket;Personnel;Romulan;Premiere;377,6018,6381,6744,7666;;4;2
 Tallus;Personnel;Romulan;Premiere;378,6019,6382,6745,7667;;4;1
 Tanar;Personnel;Kazon;The Borg;379;;4;0
+Tantalus Field;Artifact;;Mirror, Mirror;671;;2;2
 Tarellian Plague Ship;Dilemma;Space;Premiere;673,5644,6060,6423,6786,7708;;4;1
 Targ;Personnel;Klingon;Alternate Universe;380;;4;0
 Tarus;Personnel;Romulan;Premiere;381,6020,6383,6746,7668;;4;3
@@ -639,7 +651,7 @@ Thirteen of Nineteen;Personnel;Borg;First Contact;395;;4;0
 Thomas Riker;Personnel;Federation;Premiere;1051,6093,6456,6819,7741,8105;;2;1
 Thompson;Personnel;Federation;Voyager;396;397;4;0
 Thompson;Personnel;Non-Aligned;Voyager;397;396;4;0
-Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;1
+Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;2
 Three of Nineteen;Personnel;Borg;First Contact;398;;4;0
 Toby Russell;Personnel;Federation;Premiere;2298,6293,6656,7019,7525,7941,8305;;2;1
 Tokath;Personnel;Romulan;Premiere;2300,6294,6657,7020,7942;;2;1
@@ -708,9 +720,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 570
-#571
-#574
+# Done through card 580
 #582
 #586
 #606
@@ -719,6 +729,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #647
 #656
 #662
+#671
 #673
 #681
 #706
@@ -810,10 +821,11 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1975
 #1989
 #1997
-#2007
+#2007-2008
 #2023
 #2033-2034
-#2051
+#2044
+#2050-2051
 #2053
 #2056
 #2077
@@ -908,6 +920,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4470
 #4477
 #4485
+#4594
 #4597
 #4660-4662
 #4665
@@ -943,8 +956,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4954
 #5170
 #5173
-#5248
-#5250-5251
+#5248-5251
 #5255
 #5257
 #5259-5260
@@ -982,8 +994,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5902
 #5909-5913
 #5917
-#5966-6044
-#6046-6047
+#5966-6047
 #6049-6050
 #6052
 #6055
@@ -1058,8 +1069,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6407
-#6409-6410
+#6328-6410
 #6412-6413
 #6415
 #6418
@@ -1132,8 +1142,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6677
 #6682
 #6685-6686
-#6691-6770
-#6772-6773
+#6691-6773
 #6775-6776
 #6778
 #6781
@@ -1218,8 +1227,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7164-7165
 #7168
 #7173
-#7180
-#7183-7210
+#7179-7180
+#7183-7212
 #7251
 #7327
 #7432
@@ -1230,8 +1239,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7520-7525
 #7527-7529
 #7613
-#7615-7692
-#7694-7695
+#7615-7695
 #7697-7698
 #7700
 #7703
@@ -1312,7 +1320,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8034
 #8037-8048
 #8051
-#8053-8055
+#8053-8057
 #8061-8062
 #8064
 #8067
