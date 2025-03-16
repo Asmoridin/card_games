@@ -14,9 +14,11 @@ GAME_NAME = "Legend of the Five Rings"
 
 if os.getcwd().endswith('card_games'):
     file_h = open('DB/L5RData.txt', 'r', encoding="UTF-8")
+    DECK_DIR = "Decks/L5R"
     OUT_FILE_NAME = "output/L5ROut.txt"
 else:
     file_h = open('card_games/DB/L5RData.txt', 'r', encoding="UTF-8")
+    DECK_DIR = "card_games/Decks/L5R"
     OUT_FILE_NAME = "card_games/output/L5ROut.txt"
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality', 'Celestial']
@@ -67,6 +69,18 @@ FORMAT_MAP = { # Maps a format name to its deck directory
     'Age of Conquest (Emperor)':'08 - Emperor',
 }
 
+class Deck:
+    """
+    Helper class for a deck, keeping a track of the name and composition
+    """
+    def __init__(self, deck_name, deck_cards, deck_date=None):
+        """
+        Basic constructor
+        """
+        self.deck_name = deck_name
+        self.deck_cards = deck_cards
+        self.deck_date = deck_date
+
 def parse_sets(this_card_name, set_string):
     """
     Take in a set string, and return a tuple:
@@ -96,7 +110,7 @@ def read_decks(deck_format):
     """
     Takes in a format, and returns a list of Deck objects
     """
-    #print(deck_format)
+    print(DECK_DIR + "/" + FORMAT_MAP[deck_format])
     return []
 
 def check_decks(list_of_decks, list_of_cards):
@@ -299,25 +313,23 @@ for card in card_lines:
             ivory_extended_cards[card[0]] = []
         if card[0] not in twenty_f_extended_cards:
             twenty_f_extended_cards[card[0]] = []
-        ivory_extended_cards[card[0]].append(card)
-        twenty_f_extended_cards[card[0]].append(card)
+        ivory_extended_cards[card[0]].append(card.copy())
+        twenty_f_extended_cards[card[0]].append(card.copy())
     if card[6] == "Age of Conquest (Emperor)":
         if card[0] not in ivory_extended_cards:
             ivory_extended_cards[card[0]] = []
-        ivory_extended_cards[card[0]].append(card)
+        ivory_extended_cards[card[0]].append(card.copy())
     if card[6] == "Onyx Edition":
         if card[0] not in twenty_f_extended_cards:
             twenty_f_extended_cards[card[0]] = []
-        twenty_f_extended_cards[card[0]].append(card)
-
-print(card_lines[:20])
+        twenty_f_extended_cards[card[0]].append(card.copy())
 
 # Get things set up for Ivory Extended (Emperor, Ivory, 20F)
 for card_name, card_printings in ivory_extended_cards.items():
     if len(card_printings) == 1:
         this_printing = card_printings[0]
         this_printing[6] = 'Ivory Extended'
-        card_lines.append(this_printing)
+        card_lines.append(this_printing.copy())
         format_map['Ivory Extended'][0] += this_printing[7]
         format_map['Ivory Extended'][1] += this_printing[8]
     else:
@@ -326,18 +338,16 @@ for card_name, card_printings in ivory_extended_cards.items():
             if VALID_FORMATS.index(card_printing[6]) > VALID_FORMATS.index(this_printing[6]):
                 this_printing = card_printing
         this_printing[6] = 'Ivory Extended'
-        card_lines.append(this_printing)
+        card_lines.append(this_printing.copy())
         format_map['Ivory Extended'][0] += this_printing[7]
         format_map['Ivory Extended'][1] += this_printing[8]
-
-print(card_lines[:20])
 
 # Get things set up for 20F Extended (Ivory, 20F, Onyx)
 for card_name, card_printings in twenty_f_extended_cards.items():
     if len(card_printings) == 1:
         this_printing = card_printings[0]
         this_printing[6] = '20F Extended'
-        card_lines.append(this_printing)
+        card_lines.append(this_printing.copy())
         format_map['20F Extended'][0] += this_printing[7]
         format_map['20F Extended'][1] += this_printing[8]
     else:
@@ -346,7 +356,7 @@ for card_name, card_printings in twenty_f_extended_cards.items():
             if VALID_FORMATS.index(card_printing[6]) > VALID_FORMATS.index(this_printing[6]):
                 this_printing = card_printing
         this_printing[6] = '20F Extended'
-        card_lines.append(this_printing)
+        card_lines.append(this_printing.copy())
         format_map['20F Extended'][0] += this_printing[7]
         format_map['20F Extended'][1] += this_printing[8]
 
@@ -376,7 +386,6 @@ if __name__=="__main__":
         f"{filtered_list[0][7]} out of {filtered_list[0][8]})", out_file_h)
 
     # Emperor Arc
-    print(card_lines[:20])
     emp_dict = process_formats("Age of Conquest (Emperor)", card_lines)
     print(emp_dict)
     handle_output("Age of Conquest (Emperor)", emp_dict, out_file_h)
