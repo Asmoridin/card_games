@@ -63,6 +63,10 @@ VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (G
     "A Brother's Destiny (Ivory Edition)", "A Brother's Destiny (Twenty Festivals)",
     'Onyx Edition', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', '20F Extended']
 
+FORMAT_MAP = { # Maps a format name to its deck directory
+    'Age of Conquest (Emperor)':'08 - Emperor',
+}
+
 def parse_sets(this_card_name, set_string):
     """
     Take in a set string, and return a tuple:
@@ -87,6 +91,107 @@ def parse_sets(this_card_name, set_string):
         else:
             print("[" + this_card_name + "] Issue with: " + set_part)
     return (ret_sets, list(ret_rarities), ret_modern_legal)
+
+def read_decks(deck_format):
+    """
+    Takes in a format, and returns a list of Deck objects
+    """
+    #print(deck_format)
+    return []
+
+def check_decks(list_of_decks, list_of_cards):
+    """
+    Given:
+    - a list of deck objects, and a list of relevant card tuples
+    Return:
+    - a list of tuples that are [DECK_NAME], [MISSING_NO], [MISSING_CARDS]
+    """
+    #print(list_of_decks)
+    #print(list_of_cards)
+    return []
+
+def aggregate_most_needed(deck_lists):
+    """
+    From a list of dicts, of cards missing for decks, generate a list of tuples of those cards
+    and a total weight of said cards
+    """
+    ret_list = []
+    temp_dict = {}
+    for deck_list in deck_lists:
+        for deck_card, deck_card_qty in deck_list[2].items():
+            if deck_card not in temp_dict:
+                temp_dict[deck_card] = 0
+            temp_dict[deck_card] += deck_card_qty
+    for temp_card, temp_card_qty in temp_dict.items():
+        ret_list.append((temp_card, temp_card_qty))
+    return ret_list
+
+def process_formats(in_format_name, raw_list):
+    """
+    Process information for the particular format, including decks, the database, suggestions
+    """
+    return_dict = {}
+    return_dict['FILTERED'] = {}
+    format_card_list = []
+    format_own = 0
+    format_total = 0
+    for in_card in raw_list:
+        if in_format_name == in_card[6]:
+            format_card_list.append(in_card)
+            format_total += in_card[8]
+            format_own += in_card[7]
+
+    format_cards = len(format_card_list)
+
+    return_dict['FILTERED']['set'], ft_filtered_list = \
+        sort_and_filter(format_card_list, 4, by_len = True)
+    return_dict['FILTERED']['deck'], ft_filtered_list = sort_and_filter(ft_filtered_list, 2)
+    return_dict['FILTERED']['type'], ft_filtered_list = sort_and_filter(ft_filtered_list, 1)
+    if return_dict['FILTERED']['type'] in ['Personality', 'Stronghold']:
+        _, ft_filtered_list = sort_and_filter(ft_filtered_list, 3)
+    _, ft_filtered_list = sort_and_filter(ft_filtered_list, 5)
+    return_dict['FILTERED']['name'], ft_filtered_list = sort_and_filter(ft_filtered_list, 0)
+    return_dict['ITEM'] = ft_filtered_list[0]
+
+    format_decks = read_decks(in_format_name)
+
+    format_decks_minus_own = check_decks(format_decks, format_card_list)
+    format_most_needed = aggregate_most_needed(format_decks_minus_own)
+    format_most_needed = sorted(format_most_needed, key=lambda x:(-1 * x[1], x[0]))
+    format_decks_minus_own = sorted(format_decks_minus_own, key=lambda x:x[1])
+    return_dict['FORMAT_OWN'] = format_own
+    return_dict['FORMAT_TOTAL'] = format_total
+    return_dict['FORMAT_CARDS'] = format_cards
+    return_dict['DECKS'] = format_decks_minus_own
+    return_dict['NEEDED'] = format_most_needed
+    return return_dict
+
+def handle_output(in_format_name, format_dict, dest_fh):
+    """
+    Handle the output, so I don't have to do this multiple times
+    """
+    double_print(f"\n*** {in_format_name.upper()} ***", dest_fh)
+
+    tot_str = f"There are {format_dict['FORMAT_CARDS']} {in_format_name} legal cards"
+    double_print(tot_str, dest_fh)
+
+    summ_str = f"Have {format_dict['FORMAT_OWN']} out of {format_dict['FORMAT_TOTAL']} - " + \
+        f"{100* format_dict['FORMAT_OWN']/format_dict['FORMAT_TOTAL']:.2f} percent of a playset"
+    double_print(summ_str, dest_fh)
+
+    purch_str = f"Chosen card is a(n) {format_dict['FILTERED']['type']} from " + \
+        f"{format_dict['FILTERED']['set']} - {format_dict['FILTERED']['name']}. I own " + \
+        f"{format_dict['ITEM'][7]} of {format_dict['ITEM'][8]}"
+    double_print(purch_str, dest_fh)
+
+
+    #double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
+    #    f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
+    #double_print(str(format_dict['DECKS'][0][2]), dest_fh)
+
+    double_print("\nMost needed cards are:", dest_fh)
+    for pr_card_tuple in format_dict['NEEDED'][:10]:
+        double_print(f" - {pr_card_tuple[0]}: {pr_card_tuple[1]}", dest_fh)
 
 in_lines = file_h.readlines()
 file_h.close()
@@ -205,6 +310,8 @@ for card in card_lines:
             twenty_f_extended_cards[card[0]] = []
         twenty_f_extended_cards[card[0]].append(card)
 
+print(card_lines[:20])
+
 # Get things set up for Ivory Extended (Emperor, Ivory, 20F)
 for card_name, card_printings in ivory_extended_cards.items():
     if len(card_printings) == 1:
@@ -222,6 +329,8 @@ for card_name, card_printings in ivory_extended_cards.items():
         card_lines.append(this_printing)
         format_map['Ivory Extended'][0] += this_printing[7]
         format_map['Ivory Extended'][1] += this_printing[8]
+
+print(card_lines[:20])
 
 # Get things set up for 20F Extended (Ivory, 20F, Onyx)
 for card_name, card_printings in twenty_f_extended_cards.items():
@@ -265,6 +374,12 @@ if __name__=="__main__":
         type_str = CLAN_CHOICE + " " + type_choice
     double_print(f"Suggested purchase is a {type_str} from {set_choice}: {card_name} (own " + \
         f"{filtered_list[0][7]} out of {filtered_list[0][8]})", out_file_h)
+
+    # Emperor Arc
+    print(card_lines[:20])
+    emp_dict = process_formats("Age of Conquest (Emperor)", card_lines)
+    print(emp_dict)
+    handle_output("Age of Conquest (Emperor)", emp_dict, out_file_h)
 
     double_print("\nCurrent inventory percentage by format:", out_file_h)
     format_sorter = format_map.items()
