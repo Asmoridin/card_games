@@ -9,6 +9,7 @@ import re
 
 from steve_utils.output_utils import double_print
 from steve_utils.sort_and_filter import sort_and_filter
+from steve_utils.check_inventory import check_inventory
 
 GAME_NAME = "Legend of the Five Rings"
 
@@ -41,7 +42,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     "The Heaven's Will", "Path of the Destroyer", "Onyx Edition", "Promotional-Emperor",
     "Celestial Edition 15th Anniversary", "The New Order", "The Coming Storm", "Seeds of Decay",
     "A Line in the Sand", "Gates of Chaos", "Test of the Emerald and Jade Championships",
-    "Evil Portents", "Aftermath", "Coils of Madness", "Torn Asunder",
+    "Evil Portents", "Aftermath", "Coils of Madness", "Torn Asunder", "The Shadow's Embrace",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -66,20 +67,14 @@ VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (G
     'Onyx Edition', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', '20F Extended']
 
 FORMAT_MAP = { # Maps a format name to its deck directory
+    'Age of Enlightenment (Lotus)':'05 - Lotus',
+    'Race for the Throne (Samurai)':'06 - Samurai',
+    'Destroyer War (Celestial)':'07 - Celestial',
     'Age of Conquest (Emperor)':'08 - Emperor',
+    "A Brother's Destiny (Twenty Festivals)":'10 - Twenty Festivals',
+    'Onyx Edition':'11 - Onyx Edition',
+    'Modern':'20 - Modern',
 }
-
-class Deck:
-    """
-    Helper class for a deck, keeping a track of the name and composition
-    """
-    def __init__(self, deck_name, deck_cards, deck_date=None):
-        """
-        Basic constructor
-        """
-        self.deck_name = deck_name
-        self.deck_cards = deck_cards
-        self.deck_date = deck_date
 
 def parse_sets(this_card_name, set_string):
     """
@@ -110,8 +105,38 @@ def read_decks(deck_format):
     """
     Takes in a format, and returns a list of Deck objects
     """
-    print(DECK_DIR + "/" + FORMAT_MAP[deck_format])
-    return []
+    ret_list = []
+    format_deck_dir = DECK_DIR + "/" + FORMAT_MAP[deck_format]
+    for deck_clan in os.listdir(format_deck_dir):
+        if deck_clan in ['Banned List.txt', 'General.txt']:
+            continue
+        for deck_filename in os.listdir(format_deck_dir + "/" + deck_clan):
+            deck_name = deck_clan + "/" + deck_filename
+            deck_fh = open(format_deck_dir + "/" + deck_name, 'r', encoding="UTF-8")
+            deck_lines = deck_fh.readlines()
+            deck_fh.close()
+            deck_lines = [line.strip() for line in deck_lines]
+            this_deck = {}
+            for deck_line in deck_lines:
+                if deck_line == '' or deck_line.startswith('#'):
+                    continue
+                if deck_line.startswith('Proxy Personality'):
+                    continue
+                if deck_line.startswith('Proxy Follower'):
+                    continue
+                try:
+                    deck_card_qty = int(deck_line.split(' ')[0])
+                except ValueError:
+                    print("Error in deck:")
+                    print(format_deck_dir + "/" + deck_name)
+                    print(deck_line)
+                    continue
+                deck_card_name = ' '.join(deck_line.split(' ')[1:]).strip()
+                if deck_card_name not in this_deck:
+                    this_deck[deck_card_name] = 0
+                this_deck[deck_card_name] += deck_card_qty
+            ret_list.append({'name':deck_name, 'list':this_deck})
+    return ret_list
 
 def check_decks(list_of_decks, list_of_cards):
     """
@@ -120,9 +145,19 @@ def check_decks(list_of_decks, list_of_cards):
     Return:
     - a list of tuples that are [DECK_NAME], [MISSING_NO], [MISSING_CARDS]
     """
-    #print(list_of_decks)
-    #print(list_of_cards)
-    return []
+
+    inventory_dict = {}
+    for in_card in list_of_cards:
+        inventory_dict[in_card[0]] = in_card[7]
+        # Potential card name cleanup
+        cleanup_rules = {'ó':'o'}
+        clean_name = in_card[0]
+        for start_letter, change_letter in cleanup_rules.items():
+            clean_name = clean_name.replace(start_letter, change_letter)
+        inventory_dict[clean_name] = in_card[7]
+
+    ret_list = check_inventory(list_of_decks, inventory_dict)
+    return ret_list
 
 def aggregate_most_needed(deck_lists):
     """
@@ -198,10 +233,9 @@ def handle_output(in_format_name, format_dict, dest_fh):
         f"{format_dict['ITEM'][7]} of {format_dict['ITEM'][8]}"
     double_print(purch_str, dest_fh)
 
-
-    #double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
-    #    f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
-    #double_print(str(format_dict['DECKS'][0][2]), dest_fh)
+    double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
+        f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
+    double_print(str(format_dict['DECKS'][0][2]), dest_fh)
 
     double_print("\nMost needed cards are:", dest_fh)
     for pr_card_tuple in format_dict['NEEDED'][:10]:
@@ -385,10 +419,33 @@ if __name__=="__main__":
     double_print(f"Suggested purchase is a {type_str} from {set_choice}: {card_name} (own " + \
         f"{filtered_list[0][7]} out of {filtered_list[0][8]})", out_file_h)
 
-    # Emperor Arc
+    # 05 Lotus Arc
+    lot_dict = process_formats("Age of Enlightenment (Lotus)", card_lines)
+    handle_output("Age of Enlightenment (Lotus)", lot_dict, out_file_h)
+
+    # 06 Samurai Arc
+    sam_dict = process_formats("Race for the Throne (Samurai)", card_lines)
+    handle_output("Race for the Throne (Samurai)", sam_dict, out_file_h)
+
+    # 07 Celestial Arc
+    cel_dict = process_formats("Destroyer War (Celestial)", card_lines)
+    handle_output("Destroyer War (Celestial)", cel_dict, out_file_h)
+
+    # 08 Emperor Arc
     emp_dict = process_formats("Age of Conquest (Emperor)", card_lines)
-    print(emp_dict)
     handle_output("Age of Conquest (Emperor)", emp_dict, out_file_h)
+
+    # 10 Twenty Festivals
+    twen_dict = process_formats("A Brother's Destiny (Twenty Festivals)", card_lines)
+    handle_output("A Brother's Destiny (Twenty Festivals)", twen_dict, out_file_h)
+
+    # 11 Onyx Edition
+    ony_dict = process_formats("Onyx Edition", card_lines)
+    handle_output("Onyx Edition", ony_dict, out_file_h)
+
+    # 20 Modern
+    mod_dict = process_formats("Modern", card_lines)
+    handle_output("Modern", mod_dict, out_file_h)
 
     double_print("\nCurrent inventory percentage by format:", out_file_h)
     format_sorter = format_map.items()
