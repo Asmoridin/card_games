@@ -87,10 +87,10 @@ def get_missing(in_decks, in_card_own_dict):
 
 if os.getcwd().endswith('card_games'):
     file_h = open('DB/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/DBSFusionWorld'
+    DECK_DIR = 'Decks/DBS Fusion World'
 else:
     file_h = open('card_games/DB/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/DBSFusionWorld'
+    DECK_DIR = 'card_games/Decks/DBS Fusion World'
 
 lines = file_h.readlines()
 file_h.close()

@@ -116,10 +116,10 @@ def determine_missing(deck_dict, collection_dict_in):
 
 if os.getcwd().endswith('card_games'):
     file_h = open('DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/StarWarsUnlimited'
+    DECK_DIR = 'Decks/Star Wars Unlimited'
 else:
     file_h = open('card_games/DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/StarWarsUnlimited'
+    DECK_DIR = 'card_games/Decks/Star Wars Unlimited'
 
 lines = file_h.readlines()
 file_h.close()
