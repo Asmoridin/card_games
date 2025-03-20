@@ -65,11 +65,13 @@ VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (G
     'Rain of Blood (Diamond)', 'Age of Enlightenment (Lotus)', 'Race for the Throne (Samurai)',
     'Destroyer War (Celestial)', 'Age of Conquest (Emperor)',
     "A Brother's Destiny (Ivory Edition)", "A Brother's Destiny (Twenty Festivals)",
-    'Onyx Edition', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', '20F Extended']
+    'Onyx Edition', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', '20F Extended',
+    'Jade Extended',]
 
 FORMAT_MAP = { # Maps a format name to its deck directory
     'Clan Wars (Imperial)':'01 - Imperial',
     'Hidden Emperor (Jade)':'02 - Jade',
+    'Jade Extended':'02.5 - Jade Extended',
     'Four Winds (Gold)':'03 - Gold',
     'Rain of Blood (Diamond)':'04 - Diamond',
     'Age of Enlightenment (Lotus)':'05 - Lotus',
@@ -339,6 +341,31 @@ for _, card_item in modern_cards.items():
     format_map['Modern'][0] += card_item[7]
     format_map['Modern'][1] += card_item[8]
 
+# Do work for Jade Extended
+jade_extended_cards = []
+imp_holding = []
+jade_names = set()
+for card in card_lines:
+    if card[6] == 'Hidden Emperor (Jade)':
+        jade_extended_cards.append(card)
+        jade_names.add(card[0])
+    if card[6] == 'Clan Wars (Imperial)':
+        if card[1] in ['Holding', 'Region', 'Follower', 'Ancestor', 'Item', 'Strategy']:
+            imp_holding.append(card)
+for card in jade_extended_cards:
+    new_card = card.copy()
+    new_card[6] = 'Jade Extended'
+    card_lines.append(new_card)
+    format_map['Jade Extended'][0] += new_card[7]
+    format_map['Jade Extended'][1] += new_card[8]
+for card in imp_holding:
+    if card[0] not in jade_names:
+        new_card = card.copy()
+        new_card[6] = 'Jade Extended'
+        card_lines.append(new_card)
+        format_map['Jade Extended'][0] += new_card[7]
+        format_map['Jade Extended'][1] += new_card[8]
+
 # Get things set up for Big Deck
 for card_name, card_printings in bigdeck_cards.items():
     most_recent_card = card_printings[0].copy()
@@ -442,6 +469,10 @@ if __name__=="__main__":
     # 02 Jade
     jade_dict = process_formats("Hidden Emperor (Jade)", card_lines)
     handle_output("Hidden Emperor (Jade)", jade_dict, out_file_h)
+
+    # 02.5 Jade Extended
+    jadeX_dict = process_formats("Jade Extended", card_lines)
+    handle_output("Jade Extended", jadeX_dict, out_file_h)
 
     # 03 Gold
     gold_dict = process_formats("Four Winds (Gold)", card_lines)

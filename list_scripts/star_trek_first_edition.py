@@ -23,7 +23,7 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
     'Fajo Collection', 'First Anthology', ]
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',
-    'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?']
+    'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation']
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',

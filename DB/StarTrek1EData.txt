@@ -35,7 +35,8 @@
 6th Rule Of Acquisition;Event;;Rules of Acquisition;508;;4;0
 75th Rule of Acquisition;Event;;Rules of Acquisition;509;;4;0
 A Change of Plans;Interrupt;;First Contact/Homefront III;510,4105;;4;0
-A Fast Ship Would Be Nice;Dilemma;Dual;Mirror, Mirror/Virtual Promos;511,3689,4796;;4;0
+A Fast Ship Would Be Nice;Dilemma;Dual;Mirror, Mirror/Virtual Promos;511,3689,4796;;4;2 # Have 3 MM
+A Good Day to Lie;Dilemma;Dual;The Next Generation/Homefront VI;3937,4677;;5;4 # Have 4 HF6
 A Good Day To Live;Mission;Planet;Blaze of Glory;512;;2;0
 A Good Place to Die;Mission;Planet;Introductory 2-Player Game;513;;2;0
 Aamin Marritza;Personnel;Cardassian;Deep Space 9;514;;2;0
@@ -122,7 +123,7 @@ Ancestral Vision;Event;;Voyager;585;;4;0
 Ancient Computer & Microvirus;Dilemma;Dual;Enhanced Premiere;587;;4;0
 Ancient Computer;Dilemma;Space;Premiere/Homefront VI;586,4678,6047,6410,6773,7695;;4;1 # have 1 PREM
 Android Headlock;Interrupt;;First Contact;588;;4;0
-Android Nightmares;Dilemma;Dual;Q Continuum;589;;4;0
+Android Nightmares;Dilemma;Dual;Q Continuum;589;;4;1
 Angelo Tassoni;Personnel;Federation;The Borg;55;56;4;0
 Angelo Tassoni;Personnel;Non-Aligned;The Borg;56;55;4;0
 Angry Mob;Dilemma;Planet;Deep Space 9;590,4373;;4;0
@@ -162,6 +163,7 @@ Bajoran Interceptor;Ship;Bajoran;Deep Space 9;65;;4;0
 Bajoran Raider;Ship;Bajoran;The Trouble with Tribbles;66;;4;0
 Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
 Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
+Balancing Act;Dilemma;Dual;First Contact/Voyager/Homefront III;699,700,4097;;4;4
 Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791,7713;;4;3
 Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
 Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703,7625;;4;0
@@ -758,6 +760,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #671
 #673
 #681
+#699-700
 #706
 #724
 #731
@@ -913,6 +916,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3885
 #3927
 #3934
+#3937
 #4039-4041
 #4047
 #4049
@@ -925,6 +929,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4078-4079
 #4081-4083
 #4089
+#4097
 #4105
 #4112
 #4129
@@ -957,7 +962,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4660-4662
 #4665
 #4668
-#4678-4679
+#4677-4679
 #4689
 #4692
 #4695
