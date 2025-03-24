@@ -137,6 +137,7 @@ Antique Machine Gun;Artifact;;First Contact;596;;2;0
 Anya;Personnel;Non-Aligned;The Dominion;598;;2;0
 Aphasia Device;Dilemma;Space;Deep Space 9;599;;2;0
 Apnex;Ship;Romulan;Rules of Acquisition;600;;2;0
+Ar-Q-ologist;Q Dilemma;;Holodeck Adventures;612;;4;0
 Arachnia;Personnel;Non-Aligned;Holodeck Adventures;601;;2;0
 Arak'Taral;Personnel;Dominion;The Dominion;602;;2;0
 Aramax;Personnel;Cardassian;Mirror, Mirror;57,4833;;4;0
@@ -149,7 +150,14 @@ Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;0
 Arms Deal;Dilemma;Dual;Deep Space 9;608,4374;;4;0
 Armus - Skin of Evil;Dilemma;Planet;Premiere;609,3587,4039,6050,6413,6776,7698,8062;;4;1
 Armus: Sticky Situation;Dilemma;Planet;Official Tournament Sealed Deck/Homefront VI;610,4679,5894;;4;0
+Arne Darvin;Personnel;Klingon;The Trouble with Tribbles;611;;2;0
+Artillery Attack;Dilemma;Planet;Mirror, Mirror/Virtual Promos;613,4595;;4;0
+Artim;Personnel;Non-Aligned;All Good Things;614;;2;0
+Arturis;Personnel;Non-Aligned;Voyager;615;;2;0
+Assassin's Blade;Dilemma;Dual;Deep Space 9/Voyager;616,617;;4;0
 Assault Vessel;Ship;Bajoran;Deep Space 9/Virtual Promos;59,4448,5822;;4;0
+Assign Mission Specialists;Objective;;First Contact/Voyager/The Next Generation: Supplemental/Trouble with Tribbles Starter Decks;618,619,4056,5648,7122;;4;0
+Assign Support Personnel;Objective;;The Trouble with Tribbles/Virtual Promos;620,4399,5636;;4;0
 Atmospheric Ionization;Event;;Premiere;634,6052,6415,6778,7700,8064;;4;1
 Atul;Personnel;Klingon;The Dominion;60;;4;0
 Ayala;Personnel;Federation;Voyager;61;62;4;0
@@ -164,7 +172,7 @@ Bajoran Raider;Ship;Bajoran;The Trouble with Tribbles;66;;4;0
 Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
 Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
 Balancing Act;Dilemma;Dual;First Contact/Voyager/Homefront III;699,700,4097;;4;4
-Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791,7713;;4;3
+Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791,7713,8077;;4;4
 Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
 Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703,7625;;4;0
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
@@ -203,14 +211,18 @@ Breen Warship;Ship;Dominion;The Trouble with Tribbles;82;;4;0
 Calandra;Personnel;Non-Aligned;Rules of Acquisition;84;;4;0
 Calloway;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;85,5979,6342,6705,7103,7627,7991;;4;1
 Canar;Artifact;;Q Continuum;775;;2;1
+Cardassian Processing;Dilemma;Dual;Homefront II;3848;;4;4
 Cardassian Shuttle;Ship;Cardassian;Deep Space 9;86;;4;0
+Cardassian Trap;Dilemma;Dual;Alternate Universe;793;;4;0 # Needs errata
 Cargo Bay;Site;;Rules of Acquisition/Homefront V;87,4462;;2;0
 Catalog Phenomena;Mission;Space;Voyager;88;;4;0
 Cavit;Personnel;Federation;Voyager;89;;4;0
 Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
 Chalnoth;Dilemma;Planet;Premiere;808,6070,6433,6796,7718,8082;;4;1
 Chief O'Brien;Personnel;Romulan;Blaze of Glory;91;;4;0
+Chinese Finger Puzzle;Dilemma;Dual;Q Continuum;824;;4;4
 Christopher Hobson;Personnel;Federation;Premiere;92,5980,6343,6706,7628;;4;0
+Chula: Crossroads;Dilemma;Dual;Rules of Acquisition;828;;4;1
 Collect Sample;Mission;Space;Rules of Acquisition;93;;4;0
 Colony Preparations;Mission;Planet;Deep Space 9;94;;4;0
 Columbus;Ship;Federation;The Trouble with Tribbles;95;;4;0
@@ -752,7 +764,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 610
+# Done through card 620
 #634
 #647
 #656
@@ -766,7 +778,10 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #731
 #747
 #775
+#793
 #808
+#824
+#828
 #881
 #885
 #898-899
@@ -911,6 +926,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3689
 #3839
 #3843
+#3848
 #3858
 #3866
 #3885
@@ -920,7 +936,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4039-4041
 #4047
 #4049
-#4052-4055
+#4052-4056
 #4059-4060
 #4063
 #4070
@@ -939,6 +955,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4284
 #4287
 #4373-4374
+#4399
 #4406
 #4411-4413
 #4416
@@ -957,7 +974,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4470
 #4477
 #4485
-#4594
+#4594-4595
 #4597
 #4660-4662
 #4665
@@ -1012,10 +1029,10 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5599
 #5604
 #5619
-#5637
+#5636-5637
 #5639-5642
 #5644
-#5649-5650
+#5648-5650
 #5652
 #5654-5655
 #5658
@@ -1253,7 +1270,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7048-7049
 #7051
 #7054-7058
-#7098-7121
+#7098-7122
 #7126
 #7131-7134
 #7145-7149
@@ -1360,6 +1377,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8064
 #8067
 #8073
+#8077
 #8082
 #8084
 #8090-8092

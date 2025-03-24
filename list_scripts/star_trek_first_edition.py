@@ -23,11 +23,12 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
     'Fajo Collection', 'First Anthology', ]
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',
-    'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation']
+    'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation',
+    'The Next Generation: Supplemental', ]
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',
-    'Trouble', 'Tribble', 'Q Event', 'Q Interrupt']
+    'Trouble', 'Tribble', 'Q Event', 'Q Interrupt', 'Q Dilemma']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
     'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian',]
 
