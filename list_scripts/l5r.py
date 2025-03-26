@@ -116,7 +116,7 @@ def parse_sets(this_card_name, set_string):
 
 def read_decks(deck_format):
     """
-    Takes in a format, and returns a list of Deck objects
+    Takes in a format, and returns a list of Deck dicts
     """
     ret_list = []
     format_deck_dir = DECK_DIR + "/" + FORMAT_MAP[deck_format]

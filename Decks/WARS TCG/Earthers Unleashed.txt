@@ -1,24 +1,26 @@
-With today's release of the WARS TCG, I set out to create a WARS deck that
-would give new players a feel for the game, but without a lot of the
-complicated card interactions that one tends to find in competitive decks. I
-also wanted to make the deck consist of cards from entirely one faction,
-thereby allowing new players to see how factions have strengths and
-weaknesses. Ultimately, I decided to focus on the Earther faction. The way I
-saw it, I've spent all my living years on Earth, so I should know more about
-these guys than anybody else, right?
-As can be gathered by glancing through the Incursion card list and
-comments by the game designers, the Earther faction is more about muscle
-than manipulation. They're your run-of-the-mill military. Well, almost. I've
-created a deck list that emphasizes Earther muscle; there are quite a few
-characters (mostly ground units) and a nice complement of vehicles and
-ships:
-Locations (7):
-1 Earth/Corporate Headquarters (suggested starting)
+# With today's release of the WARS TCG, I set out to create a WARS deck that
+# would give new players a feel for the game, but without a lot of the
+# complicated card interactions that one tends to find in competitive decks. I
+# also wanted to make the deck consist of cards from entirely one faction,
+# thereby allowing new players to see how factions have strengths and
+# weaknesses. Ultimately, I decided to focus on the Earther faction. The way I
+# saw it, I've spent all my living years on Earth, so I should know more about
+# these guys than anybody else, right?
+# As can be gathered by glancing through the Incursion card list and
+# comments by the game designers, the Earther faction is more about muscle
+# than manipulation. They're your run-of-the-mill military. Well, almost. I've
+# created a deck list that emphasizes Earther muscle; there are quite a few
+# characters (mostly ground units) and a nice complement of vehicles and
+# ships:
+
+
+# Locations (7):
+1 Earth/Corporate Headquarters (starting)
 1 Earth/Humanity's Home
 2 Ganymede/Exploratory Camp
 2 Ganymede/Hunters' Camp
 1 Luna/Military Outpost
-Characters (19):
+# Characters (19):
 2 Chan Whitmer
 1 Ivan McCarr
 1 Pavel Royerk
@@ -29,11 +31,11 @@ Characters (19):
 3 Vanguard Trooper
 3 Close Support Pilot
 2 Veteran Pilot
-Vehicles (5):
+# Vehicles (5):
 2 GR-Blade
 1 Howler's Blades
 2 Infantry Support Vehicle
-Ships (8):
+# Ships (8):
 1 Seyaltika
 1 Tahka Quarrel
 1 Inca 1
@@ -42,65 +44,67 @@ Ships (8):
 1 Luna Garrison Fighter
 1 Escort Cruiser
 1 Salvaged Transport
-Assets (8):
+# Assets (8):
 2 Advanced Research
 1 Fighter Support
 1 First Aid
 2 Slippery
 2 Recovery
-Weapons (5):
+# Weapons (5):
 2 LongBow Missile 27-B
 3 Sidearm
-Interrupts (8):
+# Interrupts (8):
 4 Collaborative Strike
 2 Hostilities Unleashed
 2 Syndicate Interference
-Strategy
-This deck is designed to do most of its fighting and draining at site locations,
-as is evident by the relatively small number of ships and pilots. For setting up
-your army, Vanguard Trooper is great. Not only does he have a 4 destiny,
-but his ability, which is free, lets you play a unit at a related site for 1 less
-energy. Both Infantry Officer and Grav Operator are small units, but they get
-power boosts if you have characters with tactics greater than 2 and 4,
-respectively. This won't be a problem as several of your unique Earthers
-satisfy these requirements. Let me also say a word about ammunition
-because there is some good stuff in this deck. Both the LongBow Missile 27-
-B (for ships) and the Sidearm (for characters) are great choices. They both
-have destinies of 4 and cause +1 attrition at their locations. In addition, they
-both have abilities that let you damage your opponent's ships.
-Ships? Yeah, couldn't keep that hidden for long could I? The thing is, as
-much as I wanted to put all of my efforts into site domination, it's just too
-much of a risk to have a deck devoid of space fighters. Looking closely at the
-ships you'll notice that there are a few Quay fighters (Seyaltika, Tahka
-Quarrel). I know, the deceptions keep coming - I said the deck was going to
-be all Earther. Still, as much as I wanted to have a unified army, I'm always
-willing to do a bit of splashing in order to expand on a tactical theme. The
-theme in question revolves around the Infiltrator keyword. Many of the unique
-Earthers are Infiltrators (Chan Whitmer, Ivan McCarr, Pavel Royerk) and they
-enable you to play the asset Slippery. This card, although it has a costly 1
-destiny, prevents either player from attacking at the site of its bearer
-(provided he/she is an Infiltrator and you only have Infiltrators at that site).
-This is a great way to prevent your opponent from causing you a painful
-energy drain. The equivalent of this ability at a sector is the Quay asset,
-Recovery - thus the need for a few Quay ships. The Earther faction is very
-limited when it comes to manipulating the battlefield, so I really couldn't pass
-up this ability.
-I'd like to end this article with a discussion of the deck's Interrupts. All three
-have the commonality of being high destiny (4 or 5) cards with relatively
-small costs. Collaborative Strike is a great 5 destiny used interrupt that
-makes your unit +4 power and +4 defense if it has a weapon. For Earther
-brute force, this is an all around great card. Speaking of brute force,
-Hostilities Unleashed is also a 5 destiny interrupt, and although it is lost after
-its use, the loss is worth it. The card lets you initiate an attack (for free) at a
-location where a battle has already taken place. That's two attacks for the
-price of the interrupt (3 Earther icons and the payment of 2 energy). Finally,
-there is the glorious Syndicate Interference. It is another 4 destiny used
-interrupt, but this one's special because it gives your Earthers some added
-manipulation. Basically, if you are about to get drained at a site, your
-opponent must pay 1 energy for each unit they have there or dismiss that
-unit.
-Although there's nothing particularly tricky about this deck, it's a good look
-into the Earther faction. What's really great is that although Earthers
-specialize in direct assault strategies, they still have a handful of tricks at
-their disposal. You'll find this subtlety in all the factions of the WARS TCG -
-it's one of the main reasons this game is so much fun play
+
+
+# Strategy
+# This deck is designed to do most of its fighting and draining at site locations,
+# as is evident by the relatively small number of ships and pilots. For setting up
+# your army, Vanguard Trooper is great. Not only does he have a 4 destiny,
+# but his ability, which is free, lets you play a unit at a related site for 1 less
+# energy. Both Infantry Officer and Grav Operator are small units, but they get
+# power boosts if you have characters with tactics greater than 2 and 4,
+# respectively. This won't be a problem as several of your unique Earthers
+# satisfy these requirements. Let me also say a word about ammunition
+# because there is some good stuff in this deck. Both the LongBow Missile 27-
+# B (for ships) and the Sidearm (for characters) are great choices. They both
+# have destinies of 4 and cause +1 attrition at their locations. In addition, they
+# both have abilities that let you damage your opponent's ships.
+# Ships? Yeah, couldn't keep that hidden for long could I? The thing is, as
+# much as I wanted to put all of my efforts into site domination, it's just too
+# much of a risk to have a deck devoid of space fighters. Looking closely at the
+# ships you'll notice that there are a few Quay fighters (Seyaltika, Tahka
+# Quarrel). I know, the deceptions keep coming - I said the deck was going to
+# be all Earther. Still, as much as I wanted to have a unified army, I'm always
+# willing to do a bit of splashing in order to expand on a tactical theme. The
+# theme in question revolves around the Infiltrator keyword. Many of the unique
+# Earthers are Infiltrators (Chan Whitmer, Ivan McCarr, Pavel Royerk) and they
+# enable you to play the asset Slippery. This card, although it has a costly 1
+# destiny, prevents either player from attacking at the site of its bearer
+# (provided he/she is an Infiltrator and you only have Infiltrators at that site).
+# This is a great way to prevent your opponent from causing you a painful
+# energy drain. The equivalent of this ability at a sector is the Quay asset,
+# Recovery - thus the need for a few Quay ships. The Earther faction is very
+# limited when it comes to manipulating the battlefield, so I really couldn't pass
+# up this ability.
+# I'd like to end this article with a discussion of the deck's Interrupts. All three
+# have the commonality of being high destiny (4 or 5) cards with relatively
+# small costs. Collaborative Strike is a great 5 destiny used interrupt that
+# makes your unit +4 power and +4 defense if it has a weapon. For Earther
+# brute force, this is an all around great card. Speaking of brute force,
+# Hostilities Unleashed is also a 5 destiny interrupt, and although it is lost after
+# its use, the loss is worth it. The card lets you initiate an attack (for free) at a
+# location where a battle has already taken place. That's two attacks for the
+# price of the interrupt (3 Earther icons and the payment of 2 energy). Finally,
+# # there is the glorious Syndicate Interference. It is another 4 destiny used
+# interrupt, but this one's special because it gives your Earthers some added
+# manipulation. Basically, if you are about to get drained at a site, your
+# opponent must pay 1 energy for each unit they have there or dismiss that
+# unit.
+# Although there's nothing particularly tricky about this deck, it's a good look
+# into the Earther faction. What's really great is that although Earthers
+# specialize in direct assault strategies, they still have a handful of tricks at
+# their disposal. You'll find this subtlety in all the factions of the WARS TCG -
+# it's one of the main reasons this game is so much fun play

@@ -166,8 +166,16 @@ Assimilate Starship;Objective;;First Contact;626,627;;4;0
 Assimilate This!;Interrupt;;First Contact;628;;4;0
 Assimilation Table;Equipment;;First Contact;629;;4;0
 Assimilation Tubules;Equipment;;First Contact;630;;4;0
+Assist Cooperative;Mission;Planet;Voyager;631;;2;0
+Asteroid Sanctuary;Interrupt;;Premiere;632,6051,6414,6777,7513,7699,8063;;4;0
+Astral Eddy;Dilemma;Space;Voyager;633;;4;0
 Atmospheric Ionization;Event;;Premiere;634,6052,6415,6778,7700,8064;;4;1
+Attack Pattern Delta;Interrupt;;Blaze of Glory/BaH!;635,3703;;4;0
+Attack Wing;Tactic;;Blaze of Glory/BaH!;636,3704;;10;0
 Atul;Personnel;Klingon;The Dominion;60;;4;0
+Auto-Destruct Sequence;Interrupt;;Premiere/Voyager;637,638,6053,6416,6779,7701,8065;;4;0
+Automated Security System;Event;;Deep Space 9;639;;4;0
+Avert Danger;Mission;Planet;Introductory 2-Player Game;640;;2;0
 Ayala;Personnel;Federation;Voyager;61;62;4;0
 Ayala;Personnel;Non-Aligned;Voyager;62;61;4;0
 Azet'izan;Personnel;Dominion;The Dominion;63;;4;0
@@ -231,6 +239,11 @@ Chief O'Brien;Personnel;Romulan;Blaze of Glory;91;;4;0
 Chinese Finger Puzzle;Dilemma;Dual;Q Continuum;824;;4;4
 Christopher Hobson;Personnel;Federation;Premiere;92,5980,6343,6706,7628;;4;0
 Chula: Crossroads;Dilemma;Dual;Rules of Acquisition;828;;4;1
+Chula: The Chandra;Dilemma;Dual;The Dominion/Homefront;832,3487;;5;4 # Have 4 HF
+Chula: The Door;Dilemma;Dual;Rules of Acquisition;834,7504;;4;2
+Chula: The Drink;Dilemma;Dual;The Trouble with Tribbles/Virtual Promos;835,4658;;4;1 # Hae 1 TwT
+Chula: The Game;Dilemma;Dual;Mirror, Mirror/Virtual Promos;836,5731;;5;4 # Have 4 MM
+Chula: The Lights;Dilemma;Dual;Blaze of Glory/Homefront/Trouble with Tribbles Starter Decks;837,3488,5254;;5;4 # Have 4 HF
 Collect Sample;Mission;Space;Rules of Acquisition;93;;4;0
 Colony Preparations;Mission;Planet;Deep Space 9;94;;4;0
 Columbus;Ship;Federation;The Trouble with Tribbles;95;;4;0
@@ -772,8 +785,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 630
-#634
+# Done through card 640
 #647
 #656
 #662
@@ -790,6 +802,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #808
 #824
 #828
+#832
+#834-837
 #881
 #885
 #898-899
@@ -915,6 +929,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3086
 #3407
 #3476
+#3487-3488
 #3513-3514
 #3518
 #3522
@@ -933,6 +948,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3617
 #3627
 #3689
+#3703-3704
 #3839
 #3843
 #3848
@@ -986,6 +1002,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4485
 #4594-4595
 #4597
+#4658
 #4660-4662
 #4665
 #4668
@@ -1021,7 +1038,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5170
 #5173
 #5248-5251
-#5255
+#5254-5255
 #5257
 #5259-5260
 #5262
@@ -1048,6 +1065,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5658
 #5719
 #5728
+#5731
 #5809
 #5813
 #5815
@@ -1059,8 +1077,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5902
 #5909-5913
 #5917-5918
-#5966-6050
-#6052
+#5966-6053
 #6055
 #6057-6058
 #6060-6061
@@ -1133,8 +1150,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6413
-#6415
+#6328-6416
 #6418
 #6420-6421
 #6423-6424
@@ -1205,8 +1221,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6679
 #6682
 #6685-6686
-#6691-6776
-#6778
+#6691-6779
 #6781
 #6783-6784
 #6786-6787
@@ -1294,16 +1309,15 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7251
 #7327
 #7432
-#7503
-#7514
+#7503-7504
 #7510-7511
+#7513-7514
 #7516-7517
 #7520-7525
 #7527-7529
 #7546
 #7613
-#7615-7698
-#7700
+#7615-7701
 #7703
 #7705-7706
 #7708-7709
@@ -1383,8 +1397,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8037-8048
 #8051
 #8053-8057
-#8060-8062
-#8064
+#8060-8065
 #8067
 #8073
 #8077
