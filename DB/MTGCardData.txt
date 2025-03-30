@@ -1333,6 +1333,7 @@ Deadly Insect;Creature — Insect;G;Alliances (Common)/Mercadian Masques (Common
 Deadshot;Sorcery;R;Tempest (Rare)/Tempest Remastered (Uncommon);0
 Death Bomb;Instant;B;Planeshift (Common);0
 Death Charmer;Creature — Worm Mercenary;B;Prophecy (Common);0
+Death Cloud;Sorcery;B;Darksteel (Rare)/Modern Masters (Rare);0
 Death Grasp;Sorcery;B/W;Apocalypse (Rare)/Duel Decks: Sorin vs. Tibalt (Rare)/Commander 2013 Edition (Rare)/Vintage Masters (Uncommon)/Commander 2015 (Rare);0
 Death Match;Enchantment;B;Onslaught (Rare);0
 Death Mutation;Sorcery;G/B;Apocalypse (Uncommon)/Magic: The Gathering-Commander (Uncommon);0
@@ -2450,6 +2451,7 @@ Gosta Dirk;Legendary Creature — Human Warrior;W/U;Legends (Rare);0
 Grab the Reins;Instant;R;Mirrodin (Uncommon)/Commander 2016 (Uncommon);0
 Graceful Antelope;Creature — Antelope;W;Odyssey (Rare);0
 Grafted Skullcap;Artifact;C;Seventh Edition (Rare)/Urza's Saga (Rare);0
+Grafted Wargear;Artifact — Equipment;C;Fifth Dawn (Uncommon)/Commander Legends (Uncommon);0
 Grand Coliseum;Land;C;Onslaught (Rare)/Vintage Masters (Rare)/Commander 2016 (Rare);0
 Grand Melee;Enchantment;R;Onslaught (Rare);0
 Grandmother Sengir;Legendary Creature — Human Wizard;B;Homelands (Rare)/Masters Edition II (Rare);0
@@ -3181,6 +3183,7 @@ Last Chance;Sorcery;R;Starter 1999 (Rare)/Portal (Rare)/Masters Edition IV (Rare
 Last Laugh;Enchantment;B;Torment (Rare);0
 Last Rites;Sorcery;B;Odyssey (Common)/Premium Deck Series: Graveborn (Common);0
 Last Stand;Sorcery;B/U/G/R/W;Apocalypse (Rare)/Planechase 2012 Edition (Rare)/Planechase Anthology (Rare);0
+Last Word;Instant;U;Darksteel (Rare);0
 Last-Ditch Effort;Instant;R;Urza's Legacy (Uncommon);0
 Lat-Nam's Legacy;Instant;U;Alliances (Common)/Masters Edition II (Common);0
 Latulla's Orders;Enchantment — Aura;R;Prophecy (Common);0
@@ -6279,6 +6282,7 @@ Vebulid;Creature — Phyrexian Horror;B;Urza's Saga (Rare);0
 Vec Townships;Land;C;Tempest (Uncommon)/Battle Royale Box Set (Uncommon)/Tempest Remastered (Uncommon);0
 Vedalken Archmage;Creature — Vedalken Wizard;U;Mirrodin (Rare)/Jumpstart (Rare);0
 Vedalken Engineer;Creature — Vedalken Artificer;U;Darksteel (Common)/Planechase (Common)/Commander 2016 (Common)/Kamigawa: Neon Dynasty Commander (Common)/Jumpstart 2022 (Common);0
+Vedalken Mastermind;Creature — Vedalken Wizard;U;Fifth Dawn (Uncommon)/Tenth Edition (Uncommon);0
 Vedalken Orrery;Artifact;C;Fifth Dawn (Rare)/Magic: The Gathering—Conspiracy (Rare)/Double Masters 2022 (Rare);0
 Vedalken Shackles;Artifact;C;Fifth Dawn (Rare)/Modern Masters (Mythic Rare)/Masterpiece Series: Kaladesh Inventions (Special);0
 Veil of Birds;Enchantment;U;Urza's Saga (Common);0
@@ -6816,9 +6820,7 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 50440
-#50647
-Death Cloud;Sorcery;B;Darksteel (Rare)/Modern Masters (Rare);0
+# Done through card 50929
 #50939
 Arcbound Slith;Artifact Creature — Slith;C;Darksteel (Uncommon)/Planechase (Uncommon);0
 #50943
@@ -6871,8 +6873,12 @@ Beacon of Unrest;Sorcery;B;Fifth Dawn (Rare)/Tenth Edition (Rare)/Planechase (Ra
 Eternal Witness;Creature — Human Shaman;G;Fifth Dawn (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Duel Decks: Izzet vs. Golgari (Uncommon)/Modern Masters (Uncommon)/Commander 2015 (Uncommon)/Commander Anthology (Uncommon)/Commander Anthology 2018 (Uncommon)/Ultimate Masters (Uncommon)/Ultimate Box Toppers (Special)/Secret Lair Drop (Rare)/Commander Legends (Uncommon)/Time Spiral Remastered (Bonus)/Innistrad: Midnight Hunt Commander (Uncommon)/Double Masters 2022 (Uncommon)/Commander Masters (Uncommon)/Modern Horizons 3 Commander (Uncommon);0
 #51629
 Solarion;Artifact Creature — Construct;C;Fifth Dawn (Rare);0
+#51633
+Krark-Clan Ironworks;Artifact;C;Fifth Dawn (Uncommon)/Mystery Booster 2: Convention Edition (Uncommon);0
 #51634
 Blinkmoth Infusion;Instant;U;Fifth Dawn (Rare);0
+#72686
+Angel's Feather;Artifact;C;Ninth Edition (Uncommon)/Darksteel (Uncommon)/Tenth Edition (Uncommon)/Duel Decks: Divine vs. Demonic (Uncommon)/Magic 2010 (Uncommon)/Magic 2011 (Uncommon)/Magic 2012 (Uncommon)/Duel Decks Anthology, Divine vs. Demonic (Uncommon);0
 #72720
 Arcbound Wanderer;Artifact Creature — Golem;C;Fifth Dawn (Uncommon)/Modern Masters (Common);0
 #72725
@@ -6937,6 +6943,8 @@ Nezumi Shadow-Watcher;Creature — Rat Warrior;B;Betrayers of Kamigawa (Uncommon
 Tendo Ice Bridge;Land;C;Betrayers of Kamigawa (Rare)/Modern Horizons 3 Commander (Rare);0
 #74492
 Tomb of Urami;Legendary Land;C;Saviors of Kamigawa (Rare);0
+#74510
+Yukora, the Prisoner;Legendary Creature — Demon Spirit;B;Betrayers of Kamigawa (Rare);0
 #74560
 Kagemaro's Clutch;Enchantment — Aura;B;Saviors of Kamigawa (Common);0
 #74590
@@ -6945,6 +6953,8 @@ Horobi's Whisper;Instant — Arcane;B;Betrayers of Kamigawa (Common)/Modern Mast
 Ogre Marauder;Creature — Ogre Warrior;B;Betrayers of Kamigawa (Uncommon);0
 #74620
 Patron of the Kitsune;Legendary Creature — Spirit;W;Betrayers of Kamigawa (Rare);0
+#74626
+Ink-Eyes, Servant of Oni;Legendary Creature — Rat Ninja;B;Betrayers of Kamigawa (Rare)/Planechase 2012 Edition (Rare)/From the Vault: Twenty (Mythic Rare)/Planechase Anthology (Rare)/Secret Lair Drop (Rare)/Bloomburrow Commander (Rare);0
 #74637
 Floodbringer;Creature — Moonfolk Wizard;U;Betrayers of Kamigawa (Common);0
 #74646
@@ -7195,6 +7205,8 @@ Loaming Shaman;Creature — Centaur Shaman;G;Dissension (Rare)/Commander 2015 (R
 Utopia Sprawl;Enchantment — Aura;G;Dissension (Common)/Masters 25 (Uncommon)/Adventures in the Forgotten Realms Commander (Common)/Wilds of Eldraine Enchanting Tales (Uncommon)/Wilds of Eldraine Commander (Common)/Ravnica Remastered (Uncommon);0
 #107682
 Leyline of the Void;Enchantment;B;Guildpact (Rare)/Magic 2011 (Rare)/Core Set 2020 (Rare)/Time Spiral Remastered (Bonus)/Wilds of Eldraine Enchanting Tales (Rare)/Duskmourn: House of Horror (Rare);0
+#107693
+Wreak Havoc;Sorcery;G/R;Guildpact (Uncommon);0
 #108795
 Ophidian Eye;Enchantment — Aura;U;Time Spiral (Common);0
 #108897
@@ -7207,6 +7219,8 @@ Empty the Warrens;Sorcery;R;Time Spiral (Common)/Modern Masters (Common)/Duel De
 Ancient Grudge;Instant;R;Time Spiral (Common)/Innistrad (Common)/Modern Masters 2017 Edition (Uncommon)/Secret Lair Drop (Rare)/Time Spiral Remastered (Common)/Historic Anthology 5 (Common)/Mystery Booster 2: Convention Edition (Common);0
 #111188
 Rakdos Pit Dragon;Creature — Dragon;R;Dissension (Rare)/Duel Decks: Jace vs. Chandra (Rare)/Duel Decks Anthology, Jace vs. Chandra (Rare)/Guild Kit: Rakdos (Rare)/Ravnica Remastered (Uncommon);0
+#111202
+Wrecking Ball;Instant;B/R;Dissension (Common)/Magic: The Gathering-Commander (Common)/Modern Masters 2015 Edition (Uncommon)/Commander Anthology (Common)/Guild Kit: Rakdos (Common);0
 #113509
 Amrou Seekers;Creature — Kithkin Rebel;W;Time Spiral (Common)/Modern Masters (Common)/Time Spiral Remastered (Common);0
 #113523
@@ -7235,6 +7249,8 @@ Phyrexian Ironfoot;Snow Artifact Creature — Phyrexian Construct;C;Coldsnap (Un
 Void Maw;Creature — Horror;B;Coldsnap (Rare);0
 #121132
 Frost Raptor;Snow Creature — Bird;U;Coldsnap (Common);0
+#121133
+Gristle Grinner;Creature — Zombie;B;Coldsnap (Uncommon)/Jumpstart (Uncommon);0
 #121136
 Rimebound Dead;Snow Creature — Skeleton;B;Coldsnap (Common);0
 #121138
@@ -7275,6 +7291,8 @@ Boreal Shelf;Snow Land;C;Coldsnap (Uncommon);0
 Chill to the Bone;Instant;B;Coldsnap (Common);0
 #121193
 Boreal Druid;Snow Creature — Elf Druid;G;Coldsnap (Common);0
+#121194
+Gutless Ghoul;Snow Creature — Zombie;B;Coldsnap (Common);0
 #121196
 Adarkar Valkyrie;Snow Creature — Angel;W;Coldsnap (Rare)/Modern Masters (Rare)/Commander 2014 (Rare)/Commander 2018 (Rare);0
 #121197
@@ -7587,6 +7605,8 @@ Overwhelming Stampede;Sorcery;G;Magic 2011 (Rare)/Commander 2014 (Rare)/Modern M
 Grave Titan;Creature — Giant;B;Magic 2011 (Mythic Rare)/Magic 2012 (Mythic Rare)/Commander 2014 (Mythic Rare)/Secret Lair Drop (Mythic Rare)/Murders at Karlov Manor Commander (Mythic Rare)/Magic The Gathering—Fallout (Mythic Rare)/Aetherdrift Commander (Mythic Rare);1
 #205019
 Preordain;Sorcery;U;Magic 2011 (Common)/Duel Decks: Venser vs. Koth (Common)/Commander 2015 (Common)/Commander Legends (Common)/Streets of New Capenna Commander (Common)/The Brothers' War Commander (Common)/Jumpstart 2022 (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Doctor Who Commander (Common)/Outlaws of Thunder Junction Commander (Common);0
+#205027
+Primeval Titan;Creature — Giant;G;Magic 2011 (Mythic Rare)/Magic 2012 (Mythic Rare)/Modern Masters 2015 Edition (Mythic Rare)/Iconic Masters (Mythic Rare)/Secret Lair Drop (Mythic Rare)/Time Spiral Remastered (Bonus);0
 #205035
 Liliana's Caress;Enchantment;B;Magic 2011 (Uncommon);0
 #205036
@@ -7637,6 +7657,8 @@ Black Sun's Zenith;Sorcery;B;Mirrodin Besieged (Rare)/Commander 2014 (Rare)/Murd
 Sangromancer;Creature — Vampire Shaman;B;Mirrodin Besieged (Rare)/Conspiracy: Take the Crown (Rare)/Commander 2016 (Rare)/Commander 2017 (Rare)/Jumpstart (Rare)/Commander 2021 (Rare)/Jumpstart 2025 (Rare);0
 #214345
 Caged Sun;Artifact;C;New Phyrexia (Rare)/Commander 2014 (Rare)/Commander Anthology 2018 (Rare)/Warhammer 40,000 Commander (Rare)/The Brothers' War Retro Artifacts (Mythic Rare);1
+#214359
+Lashwrithe;Artifact — Equipment;C;New Phyrexia (Rare)/Commander 2014 (Rare);0
 #214368
 Sword of War and Peace;Artifact — Equipment;C;New Phyrexia (Mythic Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Double Masters (Mythic Rare);1
 #214375
@@ -7797,6 +7819,8 @@ Thalia, Guardian of Thraben;Legendary Creature — Human Soldier;W;Dark Ascensio
 Shardless Agent;Artifact Creature — Human Rogue;G/U;Planechase 2012 Edition (Uncommon)/Eternal Masters (Rare)/Planechase Anthology (Uncommon)/Modern Horizons 2 (Rare);0
 #270939
 Grim Backwoods;Land;C;Dark Ascension (Rare)/Commander 2013 Edition (Rare)/Commander 2015 (Rare)/Commander Anthology (Rare)/Commander 2018 (Rare)/Ikoria Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
+#270966
+Azorius Guildgate;Land — Gate;C;Return to Ravnica (Common)/Dragon's Maze (Common)/Commander 2013 Edition (Common)/Modern Masters 2017 Edition (Common)/Commander Anthology (Common)/Commander 2018 (Common)/Ravnica Allegiance (Common)/Kaldheim Commander (Common)/Ravnica Remastered (Common)/Ravnica Clue Edition (Common)/Magic: The Gathering Foundations (Common);0
 #270969
 Sphere of Safety;Enchantment;W;Return to Ravnica (Uncommon)/Commander 2016 (Uncommon)/Ravnica Remastered (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #277995
@@ -8047,6 +8071,8 @@ Untamed Hunger;Enchantment — Aura;B;Oath of the Gatewatch (Common)/Welcome Dec
 Tajuru Pathwarden;Creature — Elf Warrior Ally;G;Oath of the Gatewatch (Common)/Jumpstart: Historic Horizons (Common)/Magic: The Gathering Foundations (Common)/Jumpstart 2025 (Common);1
 #407680
 Crumbling Vestige;Land;C;Oath of the Gatewatch (Common);0
+#407684
+Mirrorpool;Land;C;Oath of the Gatewatch (Mythic Rare)/Commander Masters (Mythic Rare);0
 #407693
 Wastes;Basic Land;C;Oath of the Gatewatch (Common)/Time Spiral Remastered (Bonus)/Jumpstart 2022 (Common)/Commander Masters (Common)/Modern Horizons 3 Commander (Common);0
 #409784
@@ -8387,6 +8413,8 @@ Tatyova, Benthic Druid;Legendary Creature — Merfolk Druid;G/U;Dominaria (Uncom
 Damping Sphere;Artifact;C;Dominaria (Uncommon)/Dominaria Remastered (Uncommon);0
 #443112
 Mox Amber;Artifact;C;Dominaria (Mythic Rare)/The Brothers' War Retro Artifacts (Mythic Rare);0
+#443113
+Navigator's Compass;Artifact;C;Dominaria (Common);0
 #446009
 Spellseeker;Creature — Human Wizard;U;Battlebond (Rare)/Commander Masters (Mythic Rare);0
 #446030
@@ -8493,6 +8521,8 @@ Theater of Horrors;Enchantment;B/R;Ravnica Allegiance (Rare)/Adventures in the F
 Karn, the Great Creator;Legendary Planeswalker — Karn;C;War of the Spark (Rare)/Ravnica Remastered (Mythic Rare)/Bloomburrow Commander (Mythic Rare)/Mystery Booster 2: Convention Edition (Rare);0
 #460943
 God-Eternal Oketra;Legendary Creature — Zombie God;W;War of the Spark (Mythic Rare)/Aetherdrift Commander (Mythic Rare);1
+#460951
+Parhelion II;Legendary Artifact — Vehicle;W;War of the Spark (Rare)/Kamigawa: Neon Dynasty Commander (Rare);0
 #460972
 Commence the Endgame;Instant;U;War of the Spark (Rare)/Aetherdrift Commander (Rare);1
 #460976
@@ -8555,6 +8585,8 @@ Collector Ouphe;Creature — Ouphe;G;Modern Horizons (Rare);0
 Force of Vigor;Instant;G;Modern Horizons (Rare)/Outlaws of Thunder Junction Breaking News (Mythic Rare);0
 #464117
 Hexdrinker;Creature — Snake;G;Modern Horizons (Mythic Rare);0
+#464125
+Rime Tender;Snow Creature — Human Druid;G;Modern Horizons (Common);0
 #464150
 Good-Fortune Unicorn;Creature — Unicorn;G/W;Modern Horizons (Uncommon)/March of the Machine Commander (Uncommon)/Magic: The Gathering Foundations (Uncommon);0
 #464151
@@ -8585,6 +8617,8 @@ Chandra, Awakened Inferno;Legendary Planeswalker — Chandra;R;Core Set 2020 (My
 Goblin Smuggler;Creature — Goblin Rogue;R;Core Set 2020 (Common)/Magic: The Gathering Foundations (Common)/Jumpstart 2025 (Common);1
 #466907
 Rapacious Dragon;Creature — Dragon;R;Core Set 2020 (Uncommon)/Jumpstart (Uncommon)/Double Masters (Common)/Game Night: Free-For-All (Common)/Jumpstart 2022 (Uncommon)/Commander Masters (Common)/Magic: The Gathering Foundations (Common)/Jumpstart 2025 (Uncommon);1
+#466923
+Elvish Reclaimer;Creature — Elf Warrior;G;Core Set 2020 (Rare)/Mystery Booster 2: Convention Edition (Rare);0
 #466952
 Veil of Summer;Instant;G;Core Set 2020 (Uncommon)/Mystery Booster 2: Convention Edition (Uncommon);0
 #466960
@@ -8771,6 +8805,8 @@ Skyclave Apparition;Creature — Kor Spirit;W;Zendikar Rising (Rare)/SNC Game Da
 Glasspool Mimic;Creature — Shapeshifter Rogue;U;Zendikar Rising (Rare);0
 #491706
 Sea Gate Restoration;Sorcery;U;Zendikar Rising (Mythic Rare);0
+#491717
+Thieving Skydiver;Creature — Merfolk Rogue;U;Zendikar Rising (Rare)/The Lost Caverns of Ixalan Commander (Rare)/Outlaws of Thunder Junction Commander (Rare);0
 #491737
 Feed the Swarm;Sorcery;B;Zendikar Rising (Common)/Commander 2021 (Common)/Innistrad: Midnight Hunt Commander (Common)/Innistrad: Crimson Vow Commander (Common)/Streets of New Capenna Commander (Common)/Commander Legends: Battle for Baldur's Gate (Common)/The Brothers' War Commander (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Commander Masters (Common)/Doctor Who Commander (Common)/The Lost Caverns of Ixalan Commander (Common)/Outlaws of Thunder Junction Commander (Common)/Duskmourn: House of Horror Commander (Common)/Magic: The Gathering Foundations (Common);1
 #491743
@@ -8835,6 +8871,8 @@ Maskwood Nexus;Artifact;C;Kaldheim (Rare)/Commander Legends: Battle for Baldur's
 Ice Tunnel;Snow Land — Island Swamp;C;Kaldheim (Land);0
 #503885
 Port of Karfell;Land;C;Kaldheim (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon)/The Lost Caverns of Ixalan Commander (Uncommon)/Murders at Karlov Manor Commander (Uncommon);0
+#503886
+Rimewood Falls;Snow Land — Forest Island;C;Kaldheim (Land);0
 #503893
 Volatile Fjord;Snow Land — Island Mountain;C;Kaldheim (Land);0
 #503895
@@ -8971,6 +9009,8 @@ Find the Path;Enchantment — Aura;G;Adventures in the Forgotten Realms (Common)
 Gretchen Titchwillow;Legendary Creature — Halfling Druid;U/G;Adventures in the Forgotten Realms (Uncommon);0
 #527530
 Eye of Vecna;Legendary Artifact;C;Adventures in the Forgotten Realms (Rare);0
+#527546
+Lair of the Hydra;Land;C;Adventures in the Forgotten Realms (Rare)/Modern Horizons 3 Commander (Rare);0
 #527548
 Treasure Vault;Artifact Land;C;Adventures in the Forgotten Realms (Rare)/Magic The Gathering—Fallout (Rare)/Aetherdrift Commander (Rare);1
 #531528
@@ -9017,6 +9057,8 @@ Howl of the Hunt;Enchantment — Aura;G;Innistrad: Midnight Hunt (Common)/Jumpst
 Outland Liberator;Creature — Human Werewolf;G;Innistrad: Midnight Hunt (Uncommon);0
 #534981
 Pestilent Wolf;Creature — Wolf;G;Innistrad: Midnight Hunt (Common)/Jumpstart 2022 (Common);0
+#534988
+Snarling Wolf;Creature — Wolf;G;Innistrad: Midnight Hunt (Common)/Innistrad: Crimson Vow (Common);0
 #534997
 Unnatural Growth;Enchantment;G;Innistrad: Midnight Hunt (Rare)/Wilds of Eldraine Enchanting Tales (Rare)/Bloomburrow Commander (Rare)/Innistrad Remastered (Rare);1
 #534999
@@ -9071,6 +9113,8 @@ Nature's Embrace;Enchantment — Aura;G;Innistrad: Crimson Vow (Common);0
 Oakshade Stalker;Creature — Human Ranger Werewolf;G;Innistrad: Crimson Vow (Uncommon);0
 #541080
 Packsong Pup;Creature — Wolf;G;Innistrad: Crimson Vow (Uncommon)/Jumpstart 2022 (Uncommon);0
+#541090
+Sporeback Wolf;Creature — Wolf;G;Innistrad: Crimson Vow (Common)/Jumpstart 2022 (Common);0
 #541096
 Witch's Web;Instant;G;Innistrad: Crimson Vow (Common);1
 #541115
@@ -9113,6 +9157,8 @@ Boseiju, Who Endures;Legendary Land;C;Kamigawa: Neon Dynasty (Rare);0
 Eiganjo, Seat of the Empire;Legendary Land;C;Kamigawa: Neon Dynasty (Rare);0
 #548584
 Otawara, Soaring City;Legendary Land;C;Kamigawa: Neon Dynasty (Rare);0
+#548591
+Takenuma, Abandoned Mire;Legendary Land;C;Kamigawa: Neon Dynasty (Rare);0
 #548594
 Uncharted Haven;Land;C;Kamigawa: Neon Dynasty (Common)/Bloomburrow (Common)/Magic: The Gathering Foundations (Common);4
 #553584
@@ -9453,6 +9499,8 @@ One with the Multiverse;Enchantment;U;The Brothers' War (Mythic Rare)/Duskmourn:
 Depth Charge Colossus;Artifact Creature — Dreadnought;C;The Brothers' War (Common);0
 #583675
 Disciples of Gix;Creature — Phyrexian Human;B;The Brothers' War (Uncommon);0
+#583682
+Gix's Command;Sorcery;B;The Brothers' War (Rare);0
 #583732
 Penregon Strongbull;Creature — Minotaur;R;The Brothers' War (Common);0
 #583748
@@ -9519,6 +9567,8 @@ Atraxa, Grand Unifier;Legendary Creature — Phyrexian Angel;G/W/U/B;Phyrexia: A
 Cephalopod Sentry;Artifact Creature — Phyrexian Squid;U/W;Phyrexia: All Will Be One (Uncommon);0
 #602732
 Glissa Sunslayer;Legendary Creature — Phyrexian Zombie Elf;B/G;Phyrexia: All Will Be One (Rare);0
+#602735
+Kaya, Intangible Slayer;Legendary Planeswalker — Kaya;B/W;Phyrexia: All Will Be One (Rare);0
 #602752
 Argentum Masticore;Artifact Creature — Phyrexian Masticore;C;Phyrexia: All Will Be One (Rare);0
 #602782
@@ -9877,6 +9927,8 @@ Seething Landscape;Land;C;Modern Horizons 3 (Common);0
 Benthic Anomaly;Creature — Eldrazi Serpent;U/C;Modern Horizons 3 Commander (Rare);0
 #665060
 Barrowgoyf;Creature — Lhurgoyf;B;Modern Horizons 3 Commander (Rare);0
+#665092
+Talon Gates of Madara;Land — Gate;C;Modern Horizons 3 Commander (Rare);0
 #667033
 What Must Be Done;Sorcery;W;Assassin's Creed (Rare);1
 #667135
