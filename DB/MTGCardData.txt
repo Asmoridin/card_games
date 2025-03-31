@@ -238,10 +238,14 @@ Arcane Spyglass;Artifact;C;Darksteel (Common);0
 Arcane Teachings;Enchantment — Aura;R;Judgment (Common)/Tenth Edition (Uncommon);0
 Arcanis the Omnipotent;Legendary Creature — Wizard;U;Onslaught (Rare)/Tenth Edition (Rare)/Duel Decks: Speed vs. Cunning (Mythic Rare)/Eternal Masters (Rare)/Commander 2017 (Rare)/Dominaria Remastered (Rare)/Magic: The Gathering Foundations (Rare);0
 Arcbound Bruiser;Artifact Creature — Golem;C;Darksteel (Common);0
+Arcbound Crusher;Artifact Creature — Juggernaut;C;Darksteel (Uncommon)/Planechase (Uncommon);0
+Arcbound Fiend;Artifact Creature — Horror;C;Darksteel (Uncommon);0
 Arcbound Hybrid;Artifact Creature — Beast;C;Darksteel (Common);0
 Arcbound Lancer;Artifact Creature — Beast;C;Darksteel (Uncommon);0
 Arcbound Overseer;Artifact Creature — Golem;C;Darksteel (Rare);0
+Arcbound Ravager;Artifact Creature — Beast;C;Darksteel (Rare)/Modern Masters (Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Secret Lair Drop (Rare);0
 Arcbound Reclaimer;Artifact Creature — Golem;C;Darksteel (Rare);0
+Arcbound Slith;Artifact Creature — Slith;C;Darksteel (Uncommon)/Planechase (Uncommon);0
 Arcbound Stinger;Artifact Creature — Insect;C;Darksteel (Common)/Modern Masters (Common);0
 Arcbound Worker;Artifact Creature — Construct;C;Darksteel (Common)/Duel Decks: Elspeth vs. Tezzeret (Common)/Modern Masters (Common);0
 Archaeological Dig;Land;C;Invasion (Uncommon);0
@@ -1587,6 +1591,7 @@ Dregs of Sorrow;Sorcery;B;Seventh Edition (Rare)/Tempest (Rare)/Commander 2014 (
 Drift of the Dead;Creature — Wall;B;Ice Age (Uncommon)/Masters Edition II (Common);0
 Drifting Djinn;Creature — Djinn;U;Urza's Saga (Rare);0
 Drifting Meadow;Land;C;Urza's Saga (Common)/Battle Royale Box Set (Common)/Commander 2013 Edition (Common)/Commander 2014 (Common)/Commander 2015 (Common)/Commander Anthology 2018 (Common)/Ikoria Commander (Common)/Dominaria Remastered (Common);0
+Drill-Skimmer;Artifact Creature — Thopter;C;Darksteel (Common);0
 Drinker of Sorrow;Creature — Horror;B;Legions (Rare);0
 Dripping Dead;Creature — Zombie;B;Legions (Common);0
 Dromar's Attendant;Artifact Creature — Golem;C;Invasion (Uncommon);0
@@ -2270,6 +2275,7 @@ Gerrard's Command;Instant;G/W;Planeshift (Common)/Duel Decks: Phyrexia vs. the C
 Gerrard's Irregulars;Creature — Human Soldier;R;Mercadian Masques (Common);0
 Gerrard's Verdict;Sorcery;B/W;Apocalypse (Uncommon)/Dominaria Remastered (Uncommon);0
 Gerrard's Wisdom;Sorcery;W;Seventh Edition (Uncommon)/Weatherlight (Uncommon)/Starter 1999 (Rare);0
+Geth's Grimoire;Artifact;C;Darksteel (Uncommon);0
 Ghastly Demise;Instant;B;Odyssey (Common)/Commander Legends (Common);0
 Ghastly Remains;Creature — Zombie;B;Legions (Rare);0
 Ghazbán Ogre;Creature — Ogre;G;Fifth Edition (Common)/Arabian Nights (Common)/Chronicles (Common)/Masters Edition (Common);0
@@ -3502,6 +3508,7 @@ Melee;Instant;R;Ice Age (Uncommon);0
 Melesse Spirit;Creature — Angel Spirit;W;Mirage (Uncommon);0
 Meltdown;Sorcery;R;Urza's Saga (Uncommon)/Modern Horizons 3 (Uncommon);0
 Melting;Enchantment;R;Ice Age (Uncommon);0
+Memnarch;Legendary Artifact Creature — Wizard;C;Darksteel (Rare)/Archenemy (Rare)/From the Vault: Lore (Mythic Rare);0
 Memory Crystal;Artifact;C;Exodus (Rare);0
 Memory Jar;Artifact;C;Urza's Legacy (Rare)/From the Vault: Relics (Mythic Rare)/Vintage Masters (Mythic Rare);0
 Memory Lapse;Instant;U;Fifth Edition (Common)/Classic Sixth Edition (Common)/Seventh Edition (Common)/Homelands (Common)/Mirage (Common)/Duel Decks: Jace vs. Vraska (Common)/Eternal Masters (Common)/Strixhaven Mystical Archive (Rare);0
@@ -5308,6 +5315,7 @@ Slithery Stalker;Creature — Nightmare Horror;B;Torment (Uncommon);0
 Sliver Overlord;Legendary Creature — Sliver Mutant;G/W/U/B/R;Scourge (Rare)/Premium Deck Series: Slivers (Mythic Rare)/Secret Lair Drop (Rare);0
 Sliver Queen, Brood Mother (Vanguard);Vanguard;C;Vanguard (Special);0
 Sliver Queen;Legendary Creature — Sliver;W/U/R/G/B;Stronghold (Rare)/Tempest Remastered (Mythic Rare);0
+Slobad, Goblin Tinkerer;Legendary Creature — Goblin Artificer;R;Darksteel (Rare)/Commander 2016 (Rare)/The Brothers' War Commander (Rare);0
 Slow Motion;Enchantment — Aura;U;Urza's Legacy (Common);0
 Sluggishness;Enchantment — Aura;R;Urza's Legacy (Common);0
 Smash;Instant;R;Apocalypse (Common)/Ravnica: City of Guilds (Common)/Tenth Edition (Common);0
@@ -6820,13 +6828,7 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 50929
-#50939
-Arcbound Slith;Artifact Creature — Slith;C;Darksteel (Uncommon)/Planechase (Uncommon);0
-#50943
-Arcbound Ravager;Artifact Creature — Beast;C;Darksteel (Rare)/Modern Masters (Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Secret Lair Drop (Rare);0
-#51070
-Geth's Grimoire;Artifact;C;Darksteel (Uncommon);0
+# Done through card 51070
 #51088
 Acquire;Sorcery;U;Fifth Dawn (Rare);0
 #51091

@@ -289,7 +289,7 @@ Disrupt Alliance;Mission;Planet;Mirror, Mirror;443,4820;;2;0
 Disruptor Overload;Interrupt;;Premiere;444,6031,6394,6757,7679,8043;;4;0
 Distortion Field;Event;;Premiere;445,6032,6395,6758,7680;;4;1
 Distortion of Space/Time Continuum;Interrupt;;Premiere/Voyager;446,447,5654,6033,6396,6759,7681,8045;;4;0 # Needs errata
-Distraction;Dilemma;Dual;Mirror, Mirror;448,4798;;4;0
+Distraction;Dilemma;Dual;Mirror, Mirror;448,4798;;4;4
 Distress Mission;Mission;Planet;Introductory 2-Player Game/Virtual Promos;449,5815;;2;0
 Divert Power;Objective;;Voyager;450;;4;0
 Divok;Personnel;Klingon;Premiere/Coming of Age/Trouble with Tribbles Starter Decks;116,5437,5984,6347,6710,7105,7632;;4;0
@@ -797,6 +797,10 @@ Zefram Cochrane's Telescope;Artifact;;First Contact;2495;;2;2
 Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
+Dal'Rok;Dilemma;Dual;Deep Space 9/Homefront;909,3489,5646;;5;4 # Have 4 HF
+Dangerous Liaisons;Dilemma;Dual;Rules of Acquisition/Trouble with Tribbles Starter Decks;913,7128;;4;4
+Dead End;Dilemma;Dual;First Contact/Homefront/Trouble with Tribbles Starter Decks;926,3490,7129;;5;4 # Have 4 HF
+Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 
 # Done through card 650
 #656
@@ -821,8 +825,10 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #885
 #898-899
 #906
-#914
+#909
+#913-914
 #921
+#926
 #928
 #953
 #958
@@ -943,7 +949,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3086
 #3407
 #3476
-#3487-3488
+#3487-3490
 #3513-3514
 #3518
 #3522
@@ -967,6 +973,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3843
 #3846
 #3848
+#3851
 #3858
 #3866
 #3885
@@ -1074,6 +1081,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5636-5637
 #5639-5642
 #5644
+#5646
 #5648-5650
 #5652
 #5654-5655
@@ -1309,6 +1317,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7054-7058
 #7098-7122
 #7126
+#7128-7129
 #7131-7134
 #7145-7149
 #7152
