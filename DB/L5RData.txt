@@ -843,6 +843,18 @@ Asahina Dorai • Experienced;Personality;Crane;Ambition's Debt (Rare);Hidden Em
 Asahina Dorai;Personality;Crane;The Dark Journey Home (Common);Hidden Emperor (Jade);3;0
 Asahina Ekei • Experienced;Personality;Crane;The Harbinger (Rare);Destroyer War (Celestial);1;0
 Asahina Ekei;Personality;Crane;Stronger Than Steel (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;0
+Asahina Handen;Personality;Crane;A Perfect Cut (Uncommon);Four Winds (Gold);1;0
+Asahina Hideki;Personality;Brotherhood of Shinsei/Crane;Khan's Defiance (Common);Age of Enlightenment (Lotus);3;0
+Asahina Hideki;Personality;Brotherhood of Shinsei/Crane;Khan's Defiance (Common);Race for the Throne (Samurai);3;0
+Asahina Hira • Experienced;Personality;Crane;Drums of War (Rare);Age of Enlightenment (Lotus);1;0
+Asahina House Guard;Follower;;Emperor Edition (Fixed);Age of Conquest (Emperor);1;0
+Asahina Itoeko;Personality;Crane;Heaven & Earth (Common);Four Winds (Gold);3;0
+Asahina Itoeko;Personality;Crane;Heaven & Earth (Common);Rain of Blood (Diamond);3;0
+Asahina Kasai;Personality;Crane;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
+Asahina Keigo;Personality;Crane;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
+Asahina Keitaro • Experienced;Personality;Crane;Words and Deeds (Rare);Race for the Throne (Samurai);1;0
+Asahina Keitaro;Personality;Crane;Dark Allies (Uncommon);Four Winds (Gold);3;0
+Asahina Kimita;Personality;Crane;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
 Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);Onyx Edition;3;0
 Asako Misai;Personality;Phoenix;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
@@ -1217,6 +1229,8 @@ Death's Caress;Spell;;Reign of Blood (Common);Rain of Blood (Diamond);3;1
 Deathseeker's Glory;Strategy;;Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Decayed Blade;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Decayed Blade;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Deeds, Not Words;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Deeds, Not Words;Strategy;;The Dark Journey Home (Uncommon);Hidden Emperor (Jade);3;0
 Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
 Deep Harbor;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
@@ -1455,6 +1469,8 @@ Final Sacrifice;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
 Final Sacrifice;Strategy;;Words and Deeds (Uncommon);Race for the Throne (Samurai);3;0
 Final Stroke;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Final Stroke;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Fires of Retribution;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
+Fires of Retribution;Strategy;;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;0
 Flame's Protection;Spell;;Onyx Edition (Fixed);Onyx Edition;3;0
 Flame's Protection;Spell;;Onyx Edition (Fixed);Shattered Empire;3;0
 Flashy Technique;Strategy;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
@@ -1475,13 +1491,24 @@ Focus;Strategy;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
 For the Empire;Strategy;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 For the Empire;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 For the Empire;Strategy;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
+For the Fallen;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+For the Fallen;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+For the Fallen;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+For the Fallen;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+For the Fallen;Strategy;;The Truest Test (Rare);Age of Enlightenment (Lotus);3;0
+For the Fallen;Strategy;;The Truest Test (Rare);Race for the Throne (Samurai);3;0
 Foreboding Path;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Foreboding Path;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Forged Documents;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Forged Documents;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Forged Documents;Strategy;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Freezing the Lifeblood;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Freezing the Lifeblood;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
 Freezing the Lifeblood;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Freezing the Lifeblood;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Freezing the Lifeblood;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
 Freezing the Lifeblood;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;2
 Front Rank Troops;Follower;;Aftermath (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Front Rank Troops;Follower;;Aftermath (Uncommon);Age of Conquest (Emperor);3;0
@@ -1565,6 +1592,7 @@ Haramaki-do;Item;;Onyx Edition (Fixed);Shattered Empire;3;0
 Hardy Infantry;Follower;;Hidden City (Rare);Rain of Blood (Diamond);3;0
 Hardy Infantry;Follower;;Onyx Edition (Fixed);Onyx Edition;3;0
 Hardy Infantry;Follower;;Onyx Edition (Fixed);Shattered Empire;3;0
+Harsh Lessons;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;0
 Harukaze, the Confidant;Personality;Unaligned;A Line in the Sand (Rare);A Brother's Destiny (Ivory Edition);3;0
 Harukaze, the Confidant;Personality;Unaligned;A Line in the Sand (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Harukaze, the Confidant;Personality;Unaligned;Onyx Edition (Fixed);Onyx Edition;3;0
@@ -1593,6 +1621,9 @@ Heavy Infantry;Follower;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Heavy Infantry;Follower;;Onyx Edition (Fixed)/Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Heavy Infantry;Follower;;Onyx Edition (Fixed);Shattered Empire;3;0
 Heavy Infantry;Follower;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
+Heedless Assault;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Heedless Assault;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Heedless Assault;Strategy;;The Plague War (Rare);Destroyer War (Celestial);3;0
 Heichi Chokei;Personality;Unaligned/Brotherhood of Shinsei;Obsidian Edition (Common)/Imperial Edition (Common)/Emerald Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Heichi Chokei;Personality;Unaligned/Brotherhood of Shinsei;Pearl Edition (Common)/Jade Edition (Common);Hidden Emperor (Jade);3;0
 Heichi Tadama, Favored by the Celestial Dragon • Experienced;Personality;Crab;Onyx Edition (Fixed);Onyx Edition;1;0
@@ -1711,9 +1742,23 @@ Inazuma's Caress;Spell;;Evil Portents (Common);A Brother's Destiny (Twenty Festi
 Inazuma's Caress;Spell;;Evil Portents (Common);Onyx Edition;3;0
 Indigent Revelers;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Indigent Revelers;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Inexplicable Challenge;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Inexplicable Challenge;Strategy;;Glory of the Empire (Rare);Destroyer War (Celestial);3;0
+Inexplicable Challenge;Strategy;;Glory of the Empire (Rare);Race for the Throne (Samurai);3;0
+Inexplicable Challenge;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Inexplicable Challenge;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Inexplicable Challenge;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Inexplicable Challenge;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Infamous Strike;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Infamous Strike;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Infamous Strike;Strategy;;The Dead of Winter (Rare);Destroyer War (Celestial);3;0
 Inheriting an Heirloom;Event;;Celestial Edition (Uncommon);Destroyer War (Celestial);1;0
 Inheriting an Heirloom;Event;;Onyx Edition (Fixed);Onyx Edition;1;0
 Inheriting an Heirloom;Event;;Onyx Edition (Fixed);Shattered Empire;1;0
+Inspired Leadership;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Inspired Leadership;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Inspired Leadership;Strategy;;The Coming Storm (Rare);A Brother's Destiny (Ivory Edition);3;0
+Inspired Leadership;Strategy;;The Coming Storm (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Intersecting Highways;Strategy;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;3
 Intervening Spirit;Spell;;Onyx Edition (Fixed);Onyx Edition;3;0
 Intervening Spirit;Spell;;Onyx Edition (Fixed);Shattered Empire;3;0
@@ -1721,6 +1766,13 @@ Intervening Spirit;Spell;;Second City (Uncommon);Age of Conquest (Emperor);3;0
 Intervening Spirit;Spell;;Second City (Uncommon);Destroyer War (Celestial);3;0
 Into the Shinomen;Strategy;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;2
 Into the Shinomen;Strategy;;Evil Portents (Common);Onyx Edition;3;0
+Introspection;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Introspection;Strategy;;Heaven & Earth (Rare);Four Winds (Gold);3;0
+Introspection;Strategy;;Heaven & Earth (Rare);Rain of Blood (Diamond);3;0
+Introspection;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Introspection;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Inward Focus;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Inward Focus;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
 Irasshai;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Irasshai;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Iron Defenders;Follower;;Broken Blades (Uncommon);Four Winds (Gold);3;0
@@ -1929,6 +1981,10 @@ Lessons from Kuro;Item;;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain
 Lessons from Kuro;Item;;Hidden Emperor 4 (Uncommon);Hidden Emperor (Jade);3;0
 Libraries of Kyuden Isawa;Holding;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;2
 Libraries of Kyuden Isawa;Holding;;Evil Portents (Common);Onyx Edition;3;0
+Lies, Lies, Lies...;Strategy;;Anvil of Despair (Uncommon);Clan Wars (Imperial);3;0
+Lies, Lies, Lies...;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Lies, Lies, Lies...;Strategy;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);3;0
+Lies, Lies, Lies...;Strategy;;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
 Lieutenant Morito;Follower;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);1;1
 Lieutenant Sukune;Follower;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);1;1
 Light Cavalry;Follower;;Gold Edition (Common);Four Winds (Gold);3;0
@@ -2789,6 +2845,8 @@ Sweeping Maneuvers;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twe
 Sweeping Maneuvers;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Tadaka's Method;Spell;;Onyx Edition (Fixed);Onyx Edition;3;0
 Tadaka's Method;Spell;;Onyx Edition (Fixed);Shattered Empire;3;0
+Take the Initiative;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
+Take the Initiative;Strategy;;Hidden Emperor 5 (Common);Hidden Emperor (Jade);3;0
 Tamori Busuke;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Tamori Busuke;Personality;Dragon;The Blackest Storm (Fixed);Onyx Edition;3;0
 Tamori Nishiki;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -3269,7 +3327,7 @@ Zombie Troops;Follower;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden 
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Destiny (Twenty Festivals);3;0
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 
-# Done through card #490
+# Done through card #500
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 # Finished Page 4 Onyx Edition
@@ -3331,6 +3389,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #1882
 #1899
 #1903
+#1917
 #1945
 #1956
 #2014
@@ -3362,10 +3421,11 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #2503
 #2505
 #2550
+#2575
 #2602
 #2610-2611
 #2619
-#2633
+#2633-2634
 #2694
 #2749
 #2777
@@ -3384,11 +3444,12 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #2925
 #2969
 #2973
+#2980
 #2995
 #3000
 #3040
 #3043
-#3048
+#3047-3048
 #3070
 #3240
 #3264
@@ -3403,8 +3464,11 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #3574
 #3586
 #3694
+#3743
+#3746
 #3755
 #3787-3788
+#3793
 #3802
 #3841
 #3910
@@ -3435,6 +3499,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #4696
 #4705
 #4711
+#4726
 #4728-4729
 #4733-4734
 #4736
@@ -3587,6 +3652,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #7658
 #7660
 #7672
+#7744
 #7808
 #7852
 #7862
@@ -3695,6 +3761,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #9709
 #9893
 #9895
+#9908
 #9945
 #10033
 #10109
@@ -3764,6 +3831,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #11801
 #11808
 #11820-11821
+#11834
 #11869
 #11874-11876
 #11880-11881
