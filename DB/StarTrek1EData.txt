@@ -270,7 +270,9 @@ D'Kora Transport;Ship;Ferengi;Rules of Acquisition;118,4079;;4;0
 D'vano;Personnel;Romulan;Mirror, Mirror;133;;4;0
 D'Vin;Personnel;Romulan;Blaze of Glory;134;;4;0
 Dakol;Personnel;Cardassian;Deep Space 9;103;;4;0
+Dal'Rok;Dilemma;Dual;Deep Space 9/Homefront;909,3489,5646;;5;4 # Have 4 HF
 Danderdag;Personnel;Non-Aligned;The Trouble with Tribbles;104;;4;0
+Dangerous Liaisons;Dilemma;Dual;Rules of Acquisition/Trouble with Tribbles Starter Decks;913,7128;;4;4
 Dar;Personnel;Dominion;Holodeck Adventures;105;106;4;0
 Dar;Personnel;Hirogen;Holodeck Adventures;106;105;4;0
 Darian Wallace;Personnel;Federation;Premiere;107,5982,6345,6708,7521,7630;;4;0
@@ -280,9 +282,11 @@ Data's Head;Artifact;;Alternate Universe;921,3533;;2;2
 Data;Personnel;Federation;Premiere;914,3559,6079,6442,6805,7727,8091;;2;1
 Daval;Personnel;Klingon;The Trouble with Tribbles;110;;4;0
 Davar;Personnel;Hirogen;The Borg;111;;4;0
+Dead End;Dilemma;Dual;First Contact/Homefront/Trouble with Tribbles Starter Decks;926,3490,7129;;5;4 # Have 4 HF
 Deanna Troi;Personnel;Federation;Premiere;928,3560,6080,6443,6806,7728,8092;;2;1
 Derell;Personnel;Cardassian;Deep Space 9;114;;4;0
 Devoras;Ship;Romulan;Premiere;953,6082,6445,6808,7730,8094;;2;1
+Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 Dilanum;Personnel;Vidiian;The Borg;115;;4;0
 Diplomacy Mission;Mission;Planet;Premiere/Trouble with Tribbles Starter Decks;958,6083,6446,6809,7131,7731;;2;1
 Disrupt Alliance;Mission;Planet;Mirror, Mirror;443,4820;;2;0
@@ -297,7 +301,7 @@ Dixon Hill's Business Card;Interrupt/Event;;Fajo Collection;452;;4;0
 Dixon Hill;Personnel;Non-Aligned;Holodeck Adventures;451;;2;0
 Dmitri Valtane;Personnel;Federation;The Motion Pictures;454,7207;;2;0
 DNA Clues;Dilemma;Dual;Deep Space 9/Virtual Promos;455,3589,4485;;4;0
-DNA Metamorphosis;Dilemma;Dual;Fajo Collection;456;;4;0
+DNA Metamorphosis;Dilemma;Dual;Fajo Collection;456;;4;1
 Docking Pads;Site;;Deep Space 9/Homefront V;457,4464;;2;0
 Docking Ports;Site;;Deep Space 9/Homefront V;458,4465;;2;0
 Docking Procedures;Interrupt;;Deep Space 9/Virtual Promos;459,5728;;3;0
@@ -323,6 +327,7 @@ Duran'Adar;Personnel;Dominion;Blaze of Glory;132;;4;0
 E.M.H. Program;Personnel;Federation;First Contact;135;;4;0
 E.M.H.-Mark II;Personnel;Federation;Holodeck Adventures;136;;4;0
 Edan'Atal;Personnel;Dominion;Rules of Acquisition;137;;4;0
+Edo Probe;Dilemma;Dual;Alternate Universe/Virtual Promos;1082,5171,5656;;5;4 # Have 4 AU
 Eight of Eighteen;Personnel;Borg;The Borg;138;;4;0
 Eight of Fifteen;Personnel;Borg;The Borg;139;;4;0
 Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
@@ -332,11 +337,13 @@ Eleven of Eighteen;Personnel;Borg;The Borg;142;;4;0
 Eleven of Nineteen;Personnel;Borg;First Contact;143;;4;0
 Eleven of Seventeen;Personnel;Borg;Enhanced First Contact;144;;4;0
 Eleven of Twelve;Personnel;Borg;The Borg;145;;4;0
+Empathic Echo;Dilemma;Dual;Alternate Universe;1103;;4;4
 Energy Vortex;Interrupt;;Premiere;1109,6099,6462,6825,7747;;4;1
 Engineering Kit;Equipment;;Premiere/Voyager;1114,1115,6100,6463,6826,7748;;4;2 # Have 2 PREM
 Enhanced Attack Ship;Ship;Dominion;Mirror, Mirror;146;;4;0
 Ensign Davis;Personnel;Federation;Mirror, Mirror;147,4844;;4;0
 Ensign Gaffney;Personnel;Federation;Mirror, Mirror;148,4845;;4;0
+Ensure Their Silence;Dilemma;Dual;Crossover;4721;;4;4
 Erik Pressman;Personnel;Federation;Premiere;1128,6102,6465,6828,7750,8114;;2;0 # Needs errata
 Eris;Personnel;Dominion;The Dominion;149,4421;;4;0
 Escape Pod;Interrupt;;Premiere/Voyager/Homefront VI;1129,1130,4711,6103,6466,6829,7751,8115;;4;1 # Have 1 PREM
@@ -348,6 +355,7 @@ Exocomp;Personnel;Federation;Premiere;151,5988,6351,6714,7636,8000;;4;0
 Explore Interstellar Matter;Mission;Space;Official Tournament Sealed Deck;152,5909;;4;0
 Explore Typhon Expanse;Mission;Space;Premiere;1172,6115,6478,6841;;2;1
 Expose Covert Supply;Mission;Planet;Premiere/Homefront;1175,3518,6116,6479,6842;;2;1
+Exposed Power Relay;Dilemma;Dual;Crossover;4723;;4;4
 Extraction;Mission;Planet;Premiere;1177,6117,6480,6843;;2;1
 Federation Outpost;Facility;Federation;Premiere/Homefront VI/Trouble with Tribbles Starter Decks;1189,4049,4699,6118,6481,6844,7133,7766,8130;;4;1
 Federation PADD;Equipment;;Premiere;1190,6119,6482,6845,7510,7767,8131;;4;1
@@ -540,8 +548,17 @@ Morgan Bateson;Personnel;Federation;Premiere;647,6055,6418,6781,7703,8067;;2;1
 Morka;Personnel;Klingon;Deep Space 9/Trouble with Tribbles Starter Decks;648,5264;;2;0
 Morn;Personnel;Non-Aligned;Rules of Acquisition/Virtual Promos;649,3846;;2;0
 Morta;Personnel;Ferengi;Rules of Acquisition;650;;2;0
+Mortal Q;Personnel;Non-Aligned;Q Continuum;651;;2;0
+Mortimer Harren;Personnel;Federation;Voyager;652;;2;0
+Mot the Barber;Personnel;Federation;Premiere;653,6056,6419,6782,7704,8068;;2;0
+Mot's Advice;Event;;Alternate Universe;654;;4;0
+Motura;Personnel;Vidiian;Voyager;655;;2;0
 Movar;Personnel;Romulan;Premiere;656,6057,6420,6783,7705;;2;1
 Mr. Andrews;Personnel;Federation;Mirror, Mirror;275,4850;;4;0
+Mr. Brunt;Personnel;Ferengi;Mirror, Mirror;657,4855;;2;0
+Mr. Garak;Personnel;Non-Aligned;Holodeck Adventures;658;;2;0
+Mr. Homn;Personnel;Federation;Q Continuum;659;;2;0
+Mr. Nog;Personnel;Ferengi;Mirror, Mirror;660,4856;;2;0
 Mysterious Orb;Artifact;;Deep Space 9;1761;;2;1
 N'Garen;Personnel;Klingon;Blaze of Glory/Trouble with Tribbles Starter Decks;284,7115;;4;0
 N'Vek;Personnel;Romulan;Premiere;1810,6227,6590,6953,7875;;2;1
@@ -797,13 +814,8 @@ Zefram Cochrane's Telescope;Artifact;;First Contact;2495;;2;2
 Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
-Dal'Rok;Dilemma;Dual;Deep Space 9/Homefront;909,3489,5646;;5;4 # Have 4 HF
-Dangerous Liaisons;Dilemma;Dual;Rules of Acquisition/Trouble with Tribbles Starter Decks;913,7128;;4;4
-Dead End;Dilemma;Dual;First Contact/Homefront/Trouble with Tribbles Starter Decks;926,3490,7129;;5;4 # Have 4 HF
-Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 
-# Done through card 650
-#656
+# Done through card 660
 #662
 #671
 #673
@@ -839,7 +851,9 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #1051
 #1056
 #1062
+#1082
 #1086
+#1103
 #1109
 #1114-1115
 #1128-1130
@@ -1037,6 +1051,8 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #4702-4704
 #4706-4707
 #4711
+#4721
+#4723
 #4796
 #4798
 #4802
@@ -1049,6 +1065,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #4843-4845
 #4848
 #4850
+#4855-4856
 #4859-4862
 #4864
 #4869
@@ -1057,7 +1074,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #4876
 #4892
 #4954
-#5170
+#5170-5171
 #5173
 #5248-5251
 #5254-5255
@@ -1084,7 +1101,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #5646
 #5648-5650
 #5652
-#5654-5655
+#5654-5656
 #5658
 #5719
 #5728
@@ -1100,8 +1117,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #5900-5902
 #5909-5913
 #5917-5918
-#5966-6055
-#6057-6058
+#5966-6058
 #6060-6061
 #6065-6066
 #6070
@@ -1172,8 +1188,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #6319
 #6322-6323
 #6325
-#6328-6418
-#6420-6421
+#6328-6421
 #6423-6424
 #6428-6429
 #6433
@@ -1242,8 +1257,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #6679
 #6682
 #6685-6686
-#6691-6781
-#6783-6784
+#6691-6784
 #6786-6787
 #6688
 #6791-6792
@@ -1338,8 +1352,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #7527-7529
 #7546
 #7613
-#7615-7703
-#7705-7706
+#7615-7706
 #7708-7709
 #7713-7714
 #7718
@@ -1417,7 +1430,7 @@ Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 #8037-8048
 #8051
 #8053-8057
-#8060-8067
+#8060-8068
 #8073
 #8077
 #8082

@@ -428,7 +428,7 @@ commander_cats = get_categories(commander_cat_fh.readlines())
 commander_cat_fh.close()
 
 SET_CHECK = 0
-CHECK_SET = "Darksteel"
+CHECK_SET = "Fifth Dawn"
 CHECK_AMOUNT = 165
 SET_CHECK += 0 # Extra basic lands
 
