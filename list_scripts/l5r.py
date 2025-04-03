@@ -498,7 +498,7 @@ if __name__=="__main__":
     # 02.5 Jade Extended
     jadeX_dict = process_formats("Jade Extended", card_lines)
     handle_output("Jade Extended", jadeX_dict, out_file_h)
-    
+
     # 02.7 Jade Open
     jadeopen_dict = process_formats("Jade Open", card_lines)
     handle_output("Jade Open", jadeopen_dict, out_file_h)
