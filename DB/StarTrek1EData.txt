@@ -374,12 +374,13 @@ Forsaken;Dilemma;Dual;Homefront II;3852;;4;4
 Founder;Personnel;Dominion;The Dominion;158,4422;;4;0
 Four of Eleven;Personnel;Borg;First Contact;159;;4;0
 Fractured Time;Dilemma;Dual;Homefront II;3854;;4;4
-Frame of Mind;Dilemma;Dual;Alternate Universe/Homefront VI;1234,4680;;4;1 # Have 1 HFVI
+Frame of Mind;Dilemma;Dual;Alternate Universe/Homefront VI;1234,4680;;4;4
+Friendly Fire;Dilemma;Dual;The Dominion/Homefront/Virtual Promos;1237,3492,7318;;5;4 # Need 1 VP
 Frool;Personnel;Ferengi;Rules of Acquisition;160;;4;0
 Galathon;Personnel;Romulan;Premiere;161,5990,6353,6716,7638;;4;1
 Galor;Ship;Cardassian;Deep Space 9;162,4449;;4;0
 Gantt;Personnel;Bajoran;Mirror, Mirror;163;;4;0
-Gaps in Normal Space;Event;;Premiere;989,6086,6449,6812,7511,7734;;4;1
+Gaps in Normal Space;Event;;Premiere;989,6086,6449,6812,7511,7734;;4;0 # Needs errata
 Garren;Personnel;Hirogen;Holodeck Adventures;165;164;4;0
 Garren;Personnel;Romulan;Holodeck Adventures;164;165;4;0
 General Hazar;Personnel;Bajoran;The Dominion;166;;4;0
@@ -421,6 +422,7 @@ Hate Crime;Dilemma;Dual;Deep Space 9;17;;4;0
 Hawk;Personnel;Federation;First Contact;18;;2;0
 Hazardous Duty;Dilemma;Dual;Blaze of Glory/Voyager/Trouble with Tribbles Starter Decks;19,20,5504;;4;0
 Henreid;Personnel;Federation;The Motion Pictures;181,7186;;4;0
+Hippocratic Oath;Dilemma;Dual;Official Tournament Sealed Deck/Virtual Promos;1287,5347,5903;;4;2 # Have 2 OTSD
 Hirogen Outpost;Facility;Hirogen;The Borg/Homefront VI;182,4702;;4;0
 Hogan;Personnel;Federation;The Borg;183;184;4;0
 Hogan;Personnel;Non-Aligned;The Borg;184;183;4;0
@@ -439,6 +441,7 @@ I.S.S. Constitution;Ship;Federation;Mirror, Mirror;193,4871;;4;0
 Iconian Computer Weapon;Dilemma;Space;Premiere;1365,6145,6508,6871,7793,8157;;4;1
 Iconian Gateway;Artifact;;Alternate Universe/Virtual Promos;1366,8363;;2;0 # Needs errata
 Impassable Door;Dilemma;Planet;Premiere;1378,6146,6509,6872;;4;1
+Implication;Dilemma;Dual;Voyager/Virtual Promos;1380,5722;;4;2 # Have 2 VOY
 Impose Order;Mission;Planet;Official Tournament Sealed Deck;194,4054,5910;;4;0
 Incoming Message - Federation;Interrupt;;Premiere;1390,6147,6510,6873,7795;;4;1
 Incoming Message - Klingon;Interrupt;;Premiere;1392,6148,6511,6874,7796;;4;1
@@ -563,6 +566,7 @@ Mr. Brunt;Personnel;Ferengi;Mirror, Mirror;657,4855;;2;0
 Mr. Garak;Personnel;Non-Aligned;Holodeck Adventures;658;;2;0
 Mr. Homn;Personnel;Federation;Q Continuum;659;;2;0
 Mr. Nog;Personnel;Ferengi;Mirror, Mirror;660,4856;;2;0
+Mr. Quark;Personnel;Ferengi;Mirror, Mirror/Virtual Promos;661,4713,4857;;2;0
 Mysterious Orb;Artifact;;Deep Space 9;1761;;2;1
 N'Garen;Personnel;Klingon;Blaze of Glory/Trouble with Tribbles Starter Decks;284,7115;;4;0
 N'Vek;Personnel;Romulan;Premiere;1810,6227,6590,6953,7875;;2;1
@@ -717,10 +721,19 @@ Tagus;Personnel;Romulan;Mirror, Mirror;373;;4;0
 Tahglio;Personnel;Federation;The Motion Pictures;374,7204;;4;0
 Taibak;Personnel;Romulan;Premiere;662,6058,6421,6784,7706;;2;1
 Taitt;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;375,6017,6380,6743,7120,7524,7665;;4;0
+Tak Tak Negotiation;Mission;Planet;Voyager;663;;2;0
 Takirac;Personnel;Hirogen;The Borg;376;;4;0
 Takket;Personnel;Romulan;Premiere;377,6018,6381,6744,7666;;4;2
+Talak'talan;Personnel;Dominion;The Dominion;664;;2;0
+Tallera;Personnel;Non-Aligned;The Next Generation: Supplemental;4075;665;2;0
+Tallera;Personnel;Romulan;Fajo Collection;665;4075;2;0
 Tallus;Personnel;Romulan;Premiere;378,6019,6382,6745,7667;;4;1
+Talosian Cage;Dilemma;Planet;Holodeck Adventures/Virtual Promos;666,7371;;4;0
+Tam Elbrun;Personnel;Federation;Premiere;667,6059,6422,6785,7707,8071;;2;0
+Tama;Ship;Non-Aligned;Alternate Universe;668;;2;0
+Tamarith;Personnel;Romulan;Blaze of Glory;669;;2;0
 Tanar;Personnel;Kazon;The Borg;379;;4;0
+Tanis;Personnel;Non-Aligned;Voyager;670;;2;0
 Tantalus Field;Artifact;;Mirror, Mirror;671;;2;2
 Tarellian Plague Ship;Dilemma;Space;Premiere;673,5644,6060,6423,6786,7708;;4;1
 Targ;Personnel;Klingon;Alternate Universe;380;;4;0
@@ -819,8 +832,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 660
-#662
+# Done through card 670
 #671
 #673
 #681
@@ -871,15 +883,18 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1218
 #1226
 #1234
+#1237
 #1243
 #1253
 #1270
 #1278
+#1287
 #1301-1302
 #1308
 #1328
 #1365-1366
 #1378
+#1380
 #1390
 #1392
 #1403
@@ -967,6 +982,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3407
 #3476
 #3487-3490
+#3492
 #3513-3514
 #3518
 #3522
@@ -1056,6 +1072,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4702-4704
 #4706-4707
 #4711
+#4713
 #4721
 #4723-4724
 #4796
@@ -1070,7 +1087,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4843-4845
 #4848
 #4850
-#4855-4856
+#4855-4857
 #4859-4862
 #4864
 #4869
@@ -1088,6 +1105,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5262-5264
 #5267
 #5272-5273
+#5347
 #5429
 #5435-5438
 #5449
@@ -1109,6 +1127,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5654-5656
 #5658
 #5719
+#5722
 #5728
 #5731
 #5809
@@ -1119,11 +1138,10 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5824
 #5827
 #5894
-#5900-5902
+#5900-5903
 #5909-5913
 #5917-5918
-#5966-6058
-#6060-6061
+#5966-6061
 #6065-6066
 #6070
 #6072-6073
@@ -1193,8 +1211,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6421
-#6423-6424
+#6328-6424
 #6428-6429
 #6433
 #6435-6436
@@ -1262,8 +1279,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6679
 #6682
 #6685-6686
-#6691-6784
-#6786-6787
+#6691-6787
 #6688
 #6791-6792
 #6796
@@ -1347,7 +1363,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7179-7180
 #7183-7212
 #7251
+#7318
 #7327
+#7371
 #7432
 #7503-7504
 #7510-7511
@@ -1357,8 +1375,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7527-7529
 #7546
 #7613
-#7615-7706
-#7708-7709
+#7615-7709
 #7713-7714
 #7718
 #7720
@@ -1436,6 +1453,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8051
 #8053-8057
 #8060-8068
+#8071
 #8073
 #8077
 #8082
