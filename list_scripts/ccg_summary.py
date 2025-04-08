@@ -73,6 +73,7 @@ for game in started_games:
 
 game_data.append(("New Game", NEW_GAMES_STARTED + 1, new_games_count + 1))
 game_data = sorted(game_data, key=lambda x:(x[1]/x[2], -1 * (x[2] - x[1])))
+largest_collection = sorted(game_data, key=lambda x:x[1], reverse = True)
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card_games'):
@@ -94,5 +95,11 @@ if __name__ == "__main__":
         info_p = info_h/info_t
         pt_str = f"- {info_n}: {100 * info_p:.2f} ({info_h}/{info_t})"
         double_print(pt_str, out_file_h)
+
+    double_print("\nLargest Collections:", out_file_h)
+    for game_info in largest_collection[:5]:
+        info_n, info_h, _  = game_info
+        PT_STR = f"- {info_n}: {info_h}"
+        double_print(PT_STR, out_file_h)
 
     out_file_h.close()

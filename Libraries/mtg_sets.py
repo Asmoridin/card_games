@@ -56,6 +56,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Ugin's Fate promos", "Planeshift", "From the Vault: Legends", "Prophecy",
     "Mystery Booster 2: Convention Edition", "Magic: The Gathering Foundations Commander",
     "Jumpstart 2025", "Innistrad Remastered", "SNC Game Day", "Aetherdrift Commander",
+    "Tarkir: Dragonstorm Commander",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
@@ -74,7 +75,7 @@ STANDARD_SETS = ["Dominaria United", "The Brothers' War", "Phyrexia: All Will Be
     "March of the Machine", "March of the Machine: The Aftermath", "Wilds of Eldraine",
     "The Lost Caverns of Ixalan", "Murders at Karlov Manor", "Outlaws of Thunder Junction",
     "Outlaws of Thunder Junction: The Big Score", "Bloomburrow", "Duskmourn: House of Horror",
-    "Magic: The Gathering Foundations", "Aetherdrift", ]
+    "Magic: The Gathering Foundations", "Aetherdrift", "Tarkir: Dragonstorm",]
 
 # These sets are legal in Pioneer, Modern, and older formats
 PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 Core Set", "Theros",
