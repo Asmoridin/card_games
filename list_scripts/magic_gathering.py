@@ -33,6 +33,14 @@ class Deck:
         self.deck_cards = deck_cards
         self.deck_date = deck_date
 
+def fix_card_name(in_card_name):
+    """
+    Handle various ways that cards are written different than the Oracle official way
+    """
+    if in_card_name == 'Bedeck/Bedazzle':
+        return "Bedeck // Bedazzle"
+    return in_card_name
+
 def read_decks(deck_format):
     """
     Takes in a format, and returns a list of Deck objects
@@ -64,6 +72,7 @@ def read_decks(deck_format):
                         continue
                     deck_card_qty = int(deck_line.split(' ')[0])
                     deck_card_name = ' '.join(deck_line.split(' ')[1:]).strip()
+                    deck_card_name = fix_card_name(deck_card_name)
                     if deck_card_name not in this_deck:
                         this_deck[deck_card_name] = 0
                     this_deck[deck_card_name] += deck_card_qty
@@ -84,6 +93,7 @@ def read_decks(deck_format):
                     continue
                 deck_card_qty = int(deck_line.split(' ')[0])
                 deck_card_name = ' '.join(deck_line.split(' ')[1:])
+                deck_card_name = fix_card_name(deck_card_name)
                 if deck_card_name not in this_deck:
                     this_deck[deck_card_name] = 0
                 this_deck[deck_card_name] += deck_card_qty

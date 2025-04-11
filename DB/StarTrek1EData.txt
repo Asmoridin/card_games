@@ -735,8 +735,16 @@ Tamarith;Personnel;Romulan;Blaze of Glory;669;;2;0
 Tanar;Personnel;Kazon;The Borg;379;;4;0
 Tanis;Personnel;Non-Aligned;Voyager;670;;2;0
 Tantalus Field;Artifact;;Mirror, Mirror;671;;2;2
+Tarchannen Study;Mission;Dual;Q Continuum;672;;2;0
 Tarellian Plague Ship;Dilemma;Space;Premiere;673,5644,6060,6423,6786,7708;;4;1
 Targ;Personnel;Klingon;Alternate Universe;380;;4;0
+Target Engines;Tactic;;Blaze of Glory/BaH!;674,3730;;10;0
+Target Shields;Tactic;;Blaze of Glory/BaH!;675,3731;;10;0
+Target These Coordinates;Tactic;;Blaze of Glory/BaH!;676,3732;;10;0
+Target Warp Field Coils;Tactic;;The Motion Pictures/BaH!;677,3727,7213;;10;0
+Target Weapons;Tactic;;Blaze of Glory/BaH!;678,3733;;10;0
+Taris;Personnel;Romulan;Q Continuum;679,3616;;2;0
+Tarmin;Personnel;Non-Aligned;Q Continuum;680;;2;0
 Tarus;Personnel;Romulan;Premiere;381,6020,6383,6746,7668;;4;3
 Tasha Yar;Personnel;Federation;Premiere;681,6061,6424,6787,7709,8073;;2;1
 Taul;Personnel;Romulan;Premiere;382,6021,6384,6747,7669;;4;1
@@ -832,9 +840,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 670
-#671
-#673
+# Done through card 680
 #681
 #699-700
 #706
@@ -998,10 +1004,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3587-3589
 #3600
 #3607
-#3617
+#3616-3617
 #3627-3628
 #3689
 #3703-3704
+#3727
+#3730-3733
 #3839
 #3843
 #3846
@@ -1361,7 +1369,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7169
 #7173
 #7179-7180
-#7183-7212
+#7183-7213
 #7251
 #7318
 #7327
