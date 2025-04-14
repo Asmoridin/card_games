@@ -14,7 +14,7 @@ GAME_NAME = "Lorcana"
 valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
 card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
-    "Shimmering Skies", "Azurite Sea"]
+    "Shimmering Skies", "Azurite Sea", "Archazia's Island",]
 
 if os.getcwd().endswith('card_games'):
     file_h = open('DB/LorcanaData.txt', 'r', encoding="UTF-8")
@@ -37,8 +37,10 @@ for line in lines:
     card_names.add(card_name)
     if card_type not in valid_types:
         print("Invalid card type: " + card_type)
-    if card_color not in valid_colors:
-        print("Invalid card color: " + card_color)
+    card_colors = card_color.split('/')
+    for card_color in card_colors:
+        if card_color not in valid_colors:
+            print("Invalid card color: " + card_color)
     if card_rarity not in ['Common', 'Uncommon', 'Rare', 'Super Rare', 'Legendary']:
         print("Invalid rarity: " + card_rarity)
     card_own = int(card_own)
@@ -50,7 +52,7 @@ for line in lines:
     CARD_MAX = 4
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
-    item_list.append((card_name, card_type, card_color, card_set, card_rarity, card_own, CARD_MAX))
+    item_list.append((card_name, card_type, card_colors, card_set, card_rarity, card_own, CARD_MAX))
 
 # Filter by card_set
 chosen_set, filtered_list = sort_and_filter(item_list, 3)
