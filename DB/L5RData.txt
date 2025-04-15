@@ -887,6 +887,17 @@ Asahina Tomo;Personality;Crane;Imperial Edition (Common)/Emerald Edition (Common
 Asahina Tomo;Personality;Crane;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
 Asahina Tsukiyoka;Personality;Crane;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
 Asahina Uojin;Personality;Crane;Scorpion Clan Coup 2 (Common);Clan Wars (Imperial);3;0
+Asahina Yasutora;Personality;Crane;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
+Asahina Yoshino • Experienced;Personality;Crane;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);1;0
+Asahina Yoshino;Personality;Crane;Lotus Edition (Common)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
+Asahina's Blessing;Spell;;Dark Allies (Rare);Four Winds (Gold);3;0
+Asahina's Breath;Spell;;Gold Edition (Rare);Four Winds (Gold);3;0
+Asahina's Breath;Spell;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);3;0
+Asako Ayako;Personality;Phoenix;Empire at War (Uncommon);Destroyer War (Celestial);3;0
+Asako Bairei • Experienced 2;Personality;Phoenix;Rise of the Shogun (Rare);Age of Enlightenment (Lotus);1;0
+Asako Bairei • Experienced 3;Personality;Phoenix;Stronger Than Steel (Rare);Race for the Throne (Samurai);1;0
+Asako Bairei • Experienced 4;Personality;Phoenix;The Plague War (Rare);Destroyer War (Celestial);1;0
+Asako Bairei;Personality;Phoenix;Broken Blades (Rare);Four Winds (Gold);1;0
 Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);Onyx Edition;3;0
 Asako Misai;Personality;Phoenix;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
@@ -918,6 +929,8 @@ Avoid Fate;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edi
 Avoid Fate;Strategy;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);3;0
 Bajapakhi;Personality;Naga;Onyx Edition (Fixed);Onyx Edition;3;0
 Bajapakhi;Personality;Naga;Onyx Edition (Fixed);Shattered Empire;3;0
+Balash Sensei;Sensei;;Onyx Edition (Fixed);Onyx Edition;1;0
+Balash Sensei;Sensei;;Onyx Edition (Fixed);Shattered Empire;1;0
 Balash • Experienced 2;Personality;Naga;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Balash • Experienced 2;Personality;Naga;The Blackest Storm (Fixed);Onyx Edition;3;0
 Banish All Doubt;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
@@ -1002,6 +1015,8 @@ Black Riders;Follower;;Aftermath (Rare);A Brother's Destiny (Ivory Edition);3;0
 Black Riders;Follower;;Aftermath (Rare);Age of Conquest (Emperor);3;0
 Black Riders;Follower;;Onyx Edition (Fixed);Onyx Edition;3;0
 Black Riders;Follower;;Onyx Edition (Fixed);Shattered Empire;3;0
+Black Watch Sensei;Sensei;;Onyx Edition (Fixed);Onyx Edition;1;0
+Black Watch Sensei;Sensei;;Onyx Edition (Fixed);Shattered Empire;1;0
 Blackened Claws;Item;;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Blackened Claws;Item;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Blackened Claws;Item;;Hidden Emperor 6 (Common);Hidden Emperor (Jade);3;0
@@ -1123,6 +1138,10 @@ Collapsing Bridge;Holding;;The Imperial Gift 2 (Fixed);Destroyer War (Celestial)
 Colonial Farm;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Colonial Farm;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Colonial Farm;Holding;;Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
+Colonial Temple;Holding;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Colonial Temple;Holding;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;0
+Colonial Temple;Holding;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
+Colonial Temple;Holding;;Twenty Festivals (Common);Onyx Edition;3;0
 Come One at a Time;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Come One at a Time;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;0
 Come One at a Time;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
@@ -1432,6 +1451,8 @@ Encircled Terrain;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
 Encircled Terrain;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
 Encircled Terrain;Strategy;;Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
 Encircled Terrain;Strategy;;Samurai Edition (Common)/Tomorrow (Fixed);Race for the Throne (Samurai);3;0
+Endo Sensei;Sensei;;Onyx Edition (Fixed);Onyx Edition;1;0
+Endo Sensei;Sensei;;Onyx Edition (Fixed);Shattered Empire;1;0
 Energy Transference;Spell;;Gold Edition (Common);Four Winds (Gold);3;0
 Energy Transference;Spell;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;3
 Entrapping Terrain;Strategy;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
@@ -1473,14 +1494,14 @@ Family Library;Holding;;Dawn of the Empire (Fixed);Age of Enlightenment (Lotus);
 Family Library;Holding;;Dawn of the Empire (Fixed);Rain of Blood (Diamond);3;3
 Family Library;Holding;;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
 Family Library;Holding;;Ivory Edition (Uncommon)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
-Family Library;Holding;;Ivory Edition (Uncommon)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;1
+Family Library;Holding;;Ivory Edition (Uncommon)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;3
 Family Library;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Family Library;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Family Library;Holding;;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
 Famous Bazaar;Holding;;Celestial Edition (Rare)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
 Famous Bazaar;Holding;;Honor's Veil (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;2
 Famous Bazaar;Holding;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
-Famous Bazaar;Holding;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Famous Bazaar;Holding;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;1
 Famous Bazaar;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Famous Bazaar;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Fang of Vengeance;Item;;Thunderous Acclaim (Common);A Brother's Destiny (Twenty Festivals);3;2
@@ -3367,6 +3388,8 @@ Tsuruchi Taito • Experienced;Personality;Mantis;Evil Portents (Rare);A Brother
 Tsuruchi Taito • Experienced;Personality;Mantis;Evil Portents (Rare);Onyx Edition;3;0
 Tsuruchi Taito;Personality;Mantis;A Line in the Sand (Uncommon)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Tsuruchi Taito;Personality;Mantis;A Line in the Sand (Uncommon)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;3
+Tsuruchi Yashiro, Defender of the Obsidian Blades • Experienced;Personality;Mantis;The Coming Storm (Rare);A Brother's Destiny (Ivory Edition);1;0
+Tsuruchi Yashiro, Defender of the Obsidian Blades • Experienced;Personality;Mantis;The Coming Storm (Rare);A Brother's Destiny (Twenty Festivals);1;1
 Twin Thunders Strike;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Twin Thunders Strike;Spell;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Twisting Ravine;Strategy;;The Dark Journey Home (Common);Hidden Emperor (Jade);3;1
@@ -3557,11 +3580,18 @@ Welcoming Demeanor;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twe
 Welcoming Demeanor;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Well Prepared;Strategy;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Well Prepared;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Well Prepared;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Well Prepared;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
 Well Prepared;Strategy;;Samurai Edition (Fixed)/Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
 Well Prepared;Strategy;;Winds of Change (Common);Four Winds (Gold);3;0
 Well Prepared;Strategy;;Winds of Change (Common);Rain of Blood (Diamond);3;0
 What Will Come;Spell;;Onyx Edition (Fixed);Onyx Edition;3;0
 What Will Come;Spell;;Onyx Edition (Fixed);Shattered Empire;3;0
+Wheels within Wheels;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Wheels within Wheels;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Wheels within Wheels;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Wheels within Wheels;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Wheels within Wheels;Strategy;;Test of the Emerald and Jade Championships (Fixed);Race for the Throne (Samurai);3;0
 When Darkness Draws Near;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 When Darkness Draws Near;Strategy;;Shadowlands (Rare);Clan Wars (Imperial);3;3
 Where the Sun Walked;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
@@ -3575,6 +3605,11 @@ White Shore Plain;Strategy;;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
 White Shore Plain;Strategy;;Gold Edition (Uncommon)/Promotional–Gold (Promo);Four Winds (Gold);3;0
 Wicked Chain;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Wicked Chain;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Will;Strategy;;Celestial Edition (Rare)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
+Will;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Will;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Will;Strategy;;Rise of the Shogun (Rare);Age of Enlightenment (Lotus);3;0
+Will;Strategy;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
 Wind Born Speed;Spell;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;2
 Winds of Change;Spell;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Winds of Change;Spell;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;1
@@ -3595,6 +3630,15 @@ Without Your Weapons;Strategy;;Evil Portents (Uncommon);Onyx Edition;3;0
 Woodland Reserves;Strategy;;Ambition's Debt (Common);Hidden Emperor (Jade);3;3
 Words of Ice;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Words of Ice;Spell;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Wounded in Battle;Strategy;;Battle of Beiden Pass (Fixed)/Shadowlands (Common);Clan Wars (Imperial);3;0
+Wounded in Battle;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Wounded in Battle;Strategy;;Ivory Edition (Uncommon)/Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);3;0
+Wounded in Battle;Strategy;;Ivory Edition (Uncommon)/Promotional–Ivory (Promo);A Brother's Destiny (Twenty Festivals);3;0
+Wounded in Battle;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon)/Top Deck Booster Pack (Fixed);Hidden Emperor (Jade);3;0
+Wounded in Battle;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Wounded in Battle;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Wounded in Battle;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Wounded in Battle;Strategy;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
 Wrath of Suitengu;Spell;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
 Wrath of Suitengu;Spell;;Evil Portents (Uncommon);Onyx Edition;3;0
 Wyrm Riders;Follower;;Celestial Edition (Common);Destroyer War (Celestial);3;0
@@ -3640,6 +3684,8 @@ Yoritomo Hiromi, the Final Storm • Experienced 3;Personality;Mantis;The Blacke
 Yoritomo Tamiya;Personality;Mantis;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Yoritomo Tamiya;Personality;Mantis;Evil Portents (Uncommon);Onyx Edition;3;0
 Yoritomo Technique;Strategy;;Hidden Emperor 5 (Uncommon);Hidden Emperor (Jade);3;3
+Yoritomo Tsuhime;Personality;Mantis;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;3
+Yoritomo Tsuhime;Personality;Mantis;Twenty Festivals (Common);Onyx Edition;3;0
 Yoritomo, Son of Storms • ExperiencedCW;Personality;Mantis;Siege: Clan War (Fixed);A Brother's Destiny (Twenty Festivals);1;1
 Yoritomo, Son of Storms • ExperiencedCW;Personality;Mantis;Siege: Clan War (Fixed);Onyx Edition;1;0
 Yosuchi;Personality;Unaligned;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
@@ -3651,6 +3697,12 @@ Your Heart's Enemy;Spell;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor)
 Your Life is Mine;Strategy;;Forbidden Knowledge (Rare);Clan Wars (Imperial);3;2
 Your True Colors;Strategy;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Your True Colors;Strategy;;Evil Portents (Uncommon);Onyx Edition;3;0
+Your True Nature;Strategy;;A Line in the Sand (Uncommon);A Brother's Destiny (Ivory Edition);3;0
+Your True Nature;Strategy;;A Line in the Sand (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Your True Nature;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Your True Nature;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
+Zanshin;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
+Zanshin;Strategy;;Onyx Edition (Fixed);Shattered Empire;3;0
 Zenathaar, Warrior of the Bright Eye • Experienced;Personality;Naga;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zenathaar, Warrior of the Bright Eye • Experienced;Personality;Naga;The Blackest Storm (Fixed);Onyx Edition;3;0
 Zenko, Soul of Zanaru;Personality;Unaligned;Onyx Edition (Fixed);Onyx Edition;3;0
@@ -3665,7 +3717,7 @@ Zombie Troops;Follower;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden 
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Destiny (Twenty Festivals);3;0
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 
-# Done through card #520
+# Done through card #530
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 # Finished Page 4 Onyx Edition
@@ -4140,15 +4192,18 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #9265
 #9281
 #9287
+#9300
 #9302
 #9309
 #9319
 #9323
+#9330
 #9338
 #9343
 #9345-9346
 #9356
 #9368
+#9380
 #9413
 #9449
 #9468
@@ -4178,6 +4233,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #10354
 #10384
 #10420
+#10433
 #10514
 #10583
 #10607
@@ -4239,10 +4295,12 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #11670
 #11685-11686
 #11690
+#11699
 #11717
 #11722-11723
 #11736-11737
 #11745
+#11755
 #11801
 #11808
 #11820-11821
@@ -4265,6 +4323,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 #12015
 #12019
 #12130-12131
+#12138
 #12198
 #12220
 #12226

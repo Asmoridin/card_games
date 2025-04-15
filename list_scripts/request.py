@@ -4,10 +4,12 @@
 Little module to find next set of cards in large MTG Oracle gaps
 """
 
+
 import time
 import os
-import requests
-import requests.exceptions
+import pip._vendor.requests as requests
+#import requests
+#import requests.exceptions
 
 def make_call(number):
     """
@@ -25,7 +27,7 @@ def make_call(number):
         return 0
     return 1
 
-for x in range(51376, 900000):
+for x in range(52069, 900000):
     time.sleep(1)
     RESULT = make_call(x)
     if RESULT == -1:

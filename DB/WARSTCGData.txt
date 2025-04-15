@@ -1,6 +1,6 @@
 "Battleaxe" Boden;Nowhere to Hide;R;Maverick;CHARACTER • Hellcats • Tech • Unit;4;2
 "Two-Way" Berson;Incursion;R;Maverick;CHARACTER • Cartel • Tech • Unit;4;1
-Abominable Presence;Incursion;U;Quay;INTERRUPT (Used);4;0
+Abominable Presence;Incursion;U;Quay;INTERRUPT (Used);4;2
 Accord Negotiation;Incursion;R;Maverick;ASSET (Site);4;1
 Ace McCallister;Incursion;R;Maverick;CHARACTER • Kizen • Nest • Unit;4;1
 Advanced Research;Incursion;U;Earther;ASSET (Character Infiltrator);4;3
@@ -12,12 +12,12 @@ Alnak Station/Hallway;Incursion;R;Independent;LOCATION (Site);4;0
 Alnak Station/Launch Bay;Incursion;C;Independent;LOCATION (Site) • Port;4;0
 Alnak;Incursion;R;Quay;CHARACTER • Luhus • Predator • Unit;4;2
 Amorian Shipyard;Incursion;R;Gongen;ASSET;4;1
-Anakatika;Nowhere to Hide;U;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;0
+Anakatika;Nowhere to Hide;U;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;3
 Anant Aeronaut;Incursion;C;Shi;CHARACTER • Crown • Anant • Unit;4;4
 Anant Attendant;Incursion;C;Shi;CHARACTER • Anant • Tech • Unit;4;2
 Ancestral Garden;Incursion;R;Gongen;ORDER (Lost);4;3
 Anticipation;Incursion;C;Earther;INTERRUPT (Used);4;4
-Apparition;Incursion;R;Quay;INTERRUPT (Lost);4;0
+Apparition;Incursion;R;Quay;INTERRUPT (Lost);4;1
 Arethusa/Remote Power Plant;Nowhere to Hide;C;Independent;LOCATION (Sector) • Asteroid;4;2
 Arhnaknak;Incursion;R;Quay;CHARACTER • Katal • Inverter • Unit;4;1
 Aris Thantos;Nowhere to Hide;R;Maverick;CHARACTER • Accord • Rogue • Unit;4;0
@@ -28,7 +28,7 @@ Assailing Vatarma;Incursion;C;Shi;WEAPON (Character) • Melee • Ranged;4;4
 Assault Carbine;Nowhere to Hide;C;Shi;WEAPON (Character) • Ranged;4;3
 Assault Guru;Incursion;C;Earther;CHARACTER • CISyn • Tech • Unit;4;4
 Atlantis;Incursion;R;Earther;SHIP (Capacity 3) • iCom • Capital;4;1
-Attack Plan;Nowhere to Hide;C;Quay;INTERRUPT (Lost);4;0
+Attack Plan;Nowhere to Hide;C;Quay;INTERRUPT (Lost);4;1
 Banak Ilnasit;Nowhere to Hide;R;Quay;CHARACTER • Kizen • Qurim • Unit;4;0
 Bean Counter;Incursion;C;Maverick;CHARACTER • Cartel • Merchant • Unit;4;3
 Begging for Mercy;Nowhere to Hide;R;Maverick;INTERRUPT (Lost);4;1
@@ -39,7 +39,7 @@ Belt/Pilgrims' Holdings;Nowhere to Hide;U;Independent;LOCATION (Sector) • Aste
 Blinding Scream;Nowhere to Hide;U;Shi;INTERRUPT (Lost);4;3
 Blockade;Incursion;U;Earther;ASSET (Site);4;3
 Boxer;Incursion;U;Maverick;VEHICLE • Cogs • Unit;4;4
-Breaching;Nowhere to Hide;U;Quay;INTERRUPT (Used);4;0
+Breaching;Nowhere to Hide;U;Quay;INTERRUPT (Used);4;2
 Brief Encounter;Incursion;U;Shi;INTERRUPT (Used);4;2
 Capture;Incursion;R;Quay;ASSET;4;2
 Carabinier;Nowhere to Hide;C;Shi;CHARACTER • Anant • Warrior • Unit;4;4
@@ -59,7 +59,7 @@ Chicken;Incursion;U;Maverick;INTERRUPT (Used);4;3
 Chijo Katana;Incursion;U;Gongen;WEAPON (Kizen) • Melee;4;2
 Chijo Warrior;Incursion;C;Gongen;CHARACTER • Chijo • Warrior • Unit;4;4
 Chindon Relk;Nowhere to Hide;U;Earther;CHARACTER • Kizen • CISyn • Unit;4;3
-Chuluktika;Incursion;U;Quay;SHIP (Capacity 5) • Makal • Capital;4;0
+Chuluktika;Incursion;U;Quay;SHIP (Capacity 5) • Makal • Capital;4;3
 CISyn Coordinators;Nowhere to Hide;C;Earther;CHARACTER • Kizen • CISyn • Unit;4;1
 CISyn Retaliation;Incursion;R;Earther;INTERRUPT (Lost);4;1
 Clandestine Team;Nowhere to Hide;C;Quay;CHARACTER • Tahka • Predator • Unit;4;2
@@ -76,7 +76,7 @@ Collaborative Strike;Incursion;C;Earther;INTERRUPT (Used);4;4
 Colt-Burton MK. 412;Incursion;U;Maverick;WEAPON (Character) • Ranged;4;2
 Combat Support T.S.V.;Nowhere to Hide;U;Gongen;VEHICLE • Ikazuchi • Unit;4;2
 Commerce Authority Fighter;Incursion;U;Earther;SHIP (Capacity 1) • iCom • Fighter;4;3
-Conservation;Incursion;R;Quay;ASSET (Kizen);4;0
+Conservation;Incursion;R;Quay;ASSET (Kizen);4;1
 Consigned Trooper;Incursion;C;Earther;CHARACTER • CGC • Warrior • Unit;4;4
 Construction Bot;Nowhere to Hide;C;Independent;CHARACTER • Bot • Unit;4;0
 Consultation;Incursion;R;Earther;INTERRUPT (Lost);4;1
@@ -100,9 +100,9 @@ Death Dealer;Nowhere to Hide;C;Maverick;SHIP (Capacity 0) • Hellcats • Inver
 Dedication;Incursion;C;Gongen;ASSET;4;3
 Defensive Fire;Nowhere to Hide;U;Gongen;INTERRUPT (Lost);4;3
 Defensive Grid;Nowhere to Hide;C;Earther;INTERRUPT (Lost);4;2
-Defensive Position;Incursion;U;Quay;ASSET (Site);4;0
-Defiled;Incursion;U;Quay;ASSET (Location);4;0
-Deft Attacker;Nowhere to Hide;C;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;0
+Defensive Position;Incursion;U;Quay;ASSET (Site);4;3
+Defiled;Incursion;U;Quay;ASSET (Location);4;2
+Deft Attacker;Nowhere to Hide;C;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;2
 Deigan Follower;Incursion;U;Gongen;CHARACTER • Deigan • Warrior • Unit;4;2
 Deigan;Incursion;R;Gongen;NOBOT • Deigan • Bot • Unit;4;3
 Devanar-Damir;Incursion;U;Shi;CHARACTER • Crown • Damir • Unit;4;4
@@ -118,7 +118,7 @@ Earther Bot;Incursion;U;Independent;CHARACTER • Bot • Unit;4;0
 Easy Prey;Incursion;U;Shi;INTERRUPT (Lost);4;3
 Eavesdropper;Nowhere to Hide;U;Shi;INTERRUPT (Lost);4;3
 Empty Heart;Nowhere to Hide;U;Maverick;ASSET • Evidence;4;2
-Encroaching Hekaton;Nowhere to Hide;C;Quay;SHIP (Capacity 1) • Luhus • Fighter;4;0
+Encroaching Hekaton;Nowhere to Hide;C;Quay;SHIP (Capacity 1) • Luhus • Fighter;4;3
 Energy Conduit;Incursion;R;Shi;INTERRUPT (Lost);4;2
 Energy Tap;Incursion;R;Gongen;INTERRUPT (Lost);4;2
 Ensnared;Incursion;R;Maverick;ASSET (Location);4;2
@@ -126,7 +126,7 @@ Entrenched Infantry;Incursion;U;Earther;CHARACTER • CGC • Warrior • Unit;4
 Escort Cruiser;Incursion;C;Earther;SHIP (Capacity 2) • iCom • Capital;4;4
 Europa/The Gambler's Hideaway;Incursion;U;Independent;LOCATION (Sector) • Moon;4;3
 Expansion;Incursion;C;Independent;INTERRUPT (Lost);4;0
-Extraction;Nowhere to Hide;R;Quay;ASSET;4;0
+Extraction;Nowhere to Hide;R;Quay;ASSET;4;1
 F.L.I.C.;Incursion;U;Earther;WEAPON (Character) • Ranged;4;4
 Faded;Incursion;R;Maverick;INTERRUPT (Used);4;1
 Fallen Ally;Incursion;R;Shi;INTERRUPT (Used);4;1
@@ -139,14 +139,14 @@ Fill With Fear;Nowhere to Hide;R;Quay;INTERRUPT (Lost);4;0
 Fire for Effect;Incursion;U;Earther;INTERRUPT (Lost);4;3
 First Aid;Incursion;U;Earther;ASSET;4;3
 Flamecutter;Nowhere to Hide;R;Quay;CHARACTER • Tahka • Inverter • Unit;4;1
-Flare of Rage;Nowhere to Hide;U;Quay;INTERRUPT (Used);4;0
+Flare of Rage;Nowhere to Hide;U;Quay;INTERRUPT (Used);4;3
 Flinger Battery;Incursion;U;Maverick;VEHICLE • Cartel • Unit;4;2
 For the Glory of Seyal;Incursion;R;Shi;ASSET (Site);4;1
 Fortune Seeker;Nowhere to Hide;C;Maverick;CHARACTER • Cartel • Warrior • Unit;4;3
 Frenzied Luhus;Incursion;U;Quay;CHARACTER • Luhus • Inverter • Unit;4;4
-Frozen by Fear;Incursion;U;Quay;INTERRUPT (Lost);4;0
+Frozen by Fear;Incursion;U;Quay;INTERRUPT (Lost);4;3
 Fuel Theft;Incursion;C;Maverick;INTERRUPT (Used);4;4
-Fury;Incursion;R;Quay;INTERRUPT (Lost);4;0
+Fury;Incursion;R;Quay;INTERRUPT (Lost);4;2
 Ganymede/Abandoned Mine;Nowhere to Hide;R;Independent;LOCATION (Site);4;0
 Ganymede/Captured Refinery;Nowhere to Hide;C;Independent;LOCATION (Site);4;0
 Ganymede/Core Shaft;Incursion;R;Independent;LOCATION (Site);4;0
@@ -199,7 +199,7 @@ Higen Orochito;Incursion;R;Gongen;CHARACTER • Kizen • Deigan • Unit;4;1
 Honorable Death;Incursion;U;Gongen;ASSET;4;2
 Horatio Hicks;Incursion;R;Earther;CHARACTER • Kizen • iCom • Unit;4;1
 Hostilities Unleashed;Incursion;R;Earther;INTERRUPT (Lost);4;0
-Hounded;Incursion;R;Quay;INTERRUPT (Lost);4;0
+Hounded;Incursion;R;Quay;INTERRUPT (Lost);4;1
 Howler's Blades;Incursion;R;Earther;VEHICLE • FedGrav • Unit;4;2
 Howler's Gambit;Nowhere to Hide;R;Earther;INTERRUPT (Lost);4;1
 Hullripper;Nowhere to Hide;C;Quay;CHARACTER • Tahka • Inverter • Unit;4;2
@@ -210,7 +210,7 @@ Ikazuchi T.S.V.;Incursion;U;Gongen;VEHICLE • Ikazuchi • Unit;4;4
 Ikazuchi Technician;Nowhere to Hide;C;Gongen;CHARACTER • Ikazuchi • Tech • Unit;4;3
 Ikazuchi;Incursion;R;Gongen;NOBOT • Ikazuchi • Bot • Unit;4;1
 Ilna Guide;Nowhere to Hide;C;Quay;CHARACTER • Qurim • Tech • Unit;4;4
-Ilna Hekaton;Incursion;C;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;0
+Ilna Hekaton;Incursion;C;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;4
 Inca 1;Incursion;R;Earther;SHIP (Capacity 1) • iCom • Fighter;4;1
 Inca 2;Incursion;R;Earther;SHIP (Capacity 1) • iCom • Fighter;4;1
 Inca Fighter;Nowhere to Hide;C;Earther;SHIP (Capacity 1) • iCom • Fighter;4;1
@@ -222,7 +222,7 @@ Infantry Officer;Incursion;C;Earther;CHARACTER • CGC • Warrior • Unit;4;4
 Infantry Support Vehicle;Incursion;C;Earther;VEHICLE • FedGrav • Unit;4;4
 Informational Advantage;Nowhere to Hide;R;Earther;ASSET (Character Infiltrator);4;0
 Inquiry;Nowhere to Hide;U;Maverick;ASSET • Evidence;4;4
-Intimidation;Nowhere to Hide;U;Quay;ORDER (Used);4;0
+Intimidation;Nowhere to Hide;U;Quay;ORDER (Used);4;3
 Introversion;Incursion;R;Shi;INTERRUPT (Used);4;1
 Irama-Vishal;Incursion;C;Shi;CHARACTER • Kizen • Crown • Vishal • Unit;4;4
 Ivan McCarr;Incursion;U;Earther;CHARACTER • CISyn • Infiltrator • Unit;4;3
@@ -240,10 +240,10 @@ Junshi;Incursion;U;Gongen;INTERRUPT (Lost);4;3
 Jupiter/Approach Route;Nowhere to Hide;U;Independent;LOCATION (Sector) • Planet;4;3
 Jylan Rathe;Nowhere to Hide;R;Earther;CHARACTER • CISyn • Infiltrator • Unit;4;0
 Kano Masako;Incursion;R;Gongen;CHARACTER • Kizen • Ikazuchi • Unit;4;0
-Karaktika;Nowhere to Hide;R;Quay;SHIP (Capacity 4) • Tahka • Capital;4;0
+Karaktika;Nowhere to Hide;R;Quay;SHIP (Capacity 4) • Tahka • Capital;4;1
 Katal Dalaka;Incursion;U;Quay;WEAPON (Character) • Melee;4;0
 Katal Inciter;Incursion;C;Quay;CHARACTER • Katal • Predator • Unit;4;4
-Katal Life Ship;Incursion;R;Quay;SHIP (Capacity 4) • Katal • Capital;4;0
+Katal Life Ship;Incursion;R;Quay;SHIP (Capacity 4) • Katal • Capital;4;1
 Katuka;Nowhere to Hide;U;Quay;CHARACTER • Tahka • Predator • Unit;4;2
 Kayaldi;Incursion;R;Quay;CHARACTER • Tahka • Predator • Unit;4;0
 Kayu Gekkane;Nowhere to Hide;U;Gongen;CHARACTER • Deigan • Warrior • Unit;4;3
@@ -280,7 +280,7 @@ M44 Heavy Plasma Gun;Incursion;R;Maverick;WEAPON (Character) • Ranged;4;0
 Makal Claw Beast;Incursion;C;Quay;CHARACTER • Makal • Predator • Unit;4;4
 Makal Dalaka;Incursion;C;Quay;WEAPON (Character) • Melee;4;0
 Makal Shrieker;Incursion;C;Quay;CHARACTER • Makal • Predator • Unit;4;4
-Makaltika;Incursion;U;Quay;SHIP (Capacity 4) • Makal • Capital;4;0
+Makaltika;Incursion;U;Quay;SHIP (Capacity 4) • Makal • Capital;4;3
 Mark of the Kami;Incursion;R;Gongen;ASSET (Sector);4;1
 Martial Interrogation;Incursion;C;Shi;INTERRUPT (Used);4;4
 Maverick Bot;Incursion;U;Independent;CHARACTER • Bot • Unit;4;0
@@ -296,7 +296,7 @@ Modded Type IV;Incursion;C;Maverick;SHIP (Capacity 1) • Knaves • Fighter;4;4
 Modular Transport;Incursion;R;Maverick;SHIP (Capacity 2) • Hellcats • Inverter • Fighter;4;0
 Mouthpiece;Nowhere to Hide;C;Earther;CHARACTER • XeLabs • Merchant • Unit;4;3
 Much Admired;Incursion;R;Gongen;ASSET (Kizen);4;0
-Natural Talent;Incursion;U;Quay;ASSET (Site);4;0
+Natural Talent;Incursion;U;Quay;ASSET (Site);4;3
 Nimble Jockey;Incursion;C;Maverick;CHARACTER • Hellcats • Unit;4;4
 Not Easily Taken;Incursion;R;Gongen;ASSET (Site);4;1
 NōBot Battle Sword;Incursion;R;Gongen;WEAPON (NoBot) • Melee;4;0
@@ -333,12 +333,12 @@ Quay Bot;Incursion;U;Independent;CHARACTER • Bot • Unit;4;0
 Quay Navigator;Incursion;U;Quay;CHARACTER • Qurim • Predator • Unit;4;4
 Qurim Ahmak;Incursion;R;Quay;CHARACTER • Qurim • Predator • Unit;4;0
 Qurim Dalaka;Incursion;C;Quay;WEAPON (Character) • Melee;4;0
-Qurim Life Ship;Incursion;C;Quay;SHIP (Capacity 4) • Qurim • Capital;4;0
+Qurim Life Ship;Incursion;C;Quay;SHIP (Capacity 4) • Qurim • Capital;4;4
 Qurim Rager;Incursion;C;Quay;CHARACTER • Qurim • Predator • Unit;4;4
 Racing Sloop;Incursion;C;Maverick;SHIP (Capacity 2) • Hellcats • Inverter • Fighter;4;4
 Raider;Incursion;U;Maverick;SHIP (Capacity 4) • Knaves • Capital;4;4
 Rakat;Nowhere to Hide;U;Quay;CHARACTER • Qurim • Tech • Unit;4;2
-Rally Cry;Incursion;C;Quay;ASSET;4;0
+Rally Cry;Incursion;C;Quay;ASSET;4;4
 Ranarti-Anant;Incursion;PF;Shi;CHARACTER • Kizen • Crown • Anant • Unit;4;2
 Ranger Watchman;Nowhere to Hide;U;Earther;CHARACTER • XeLabs • Warrior • Unit;4;2
 Rantosh-Anant;Nowhere to Hide;R;Shi;CHARACTER • Crown • Anant • Unit;4;1
@@ -359,12 +359,12 @@ Resource Technician;Incursion;C;Gongen;CHARACTER • Chijo • Tech • Unit;4;4
 Restricted Passage;Nowhere to Hide;U;Independent;ASSET;4;0
 # Resupply and Redeploy;Edge of a Sword;F;Gongen;ASSET;4;0
 Rev A Shrouds;Nowhere to Hide;C;Earther;CHARACTER • XeLabs • Warrior • Unit;4;3
-Revenge;Incursion;U;Quay;INTERRUPT (Lost);4;0
+Revenge;Incursion;U;Quay;INTERRUPT (Lost);4;4
 Ripping Beam;Incursion;R;Shi;INTERRUPT (Lost);4;0
 Rising Dread;Incursion;R;Quay;INTERRUPT (Lost);4;0
 Rising Morale;Incursion;U;Gongen;INTERRUPT (Lost);4;4
 Rogan Hallard;Nowhere to Hide;R;Earther;CHARACTER • XeLabs • Warrior • Inverter • Unit;4;1
-Rousing Leap;Nowhere to Hide;R;Quay;INTERRUPT (Lost);4;0
+Rousing Leap;Nowhere to Hide;R;Quay;INTERRUPT (Lost);4;3
 Rugged Empty;Nowhere to Hide;U;Maverick;SHIP (Capacity 0) • Cartel • Inverter • Fighter;4;3
 Salvaged Transport;Incursion;C;Independent;SHIP (Capacity 3) • Capital;4;0
 Selfless Protector;Incursion;C;Shi;CHARACTER • Damir • Warrior • Unit;4;4
@@ -376,7 +376,7 @@ Seyal/Dark Side;Incursion;R;Independent;LOCATION (Sector) • Planet;4;0
 Seyal/Dhanake's Demesne;Nowhere to Hide;U;Independent;LOCATION (Site) • Port;4;3
 Seyal/Light Side;Incursion;C;Independent;LOCATION (Sector) • Planet;4;4
 Seyalshi Upholder;Incursion;C;Shi;SHIP (Capacity 1) • Damir • Fighter;4;4
-Seyaltika;Incursion;U;Quay;SHIP (Capacity 1) • Tahka • Infiltrator • Fighter;4;0
+Seyaltika;Incursion;U;Quay;SHIP (Capacity 1) • Tahka • Infiltrator • Fighter;4;2
 Shadowsurfer;Nowhere to Hide;R;Earther;SHIP (Capacity 3) • XeLabs • Capital;4;1
 Sharper Than Steel;Incursion;U;Gongen;ASSET;4;2
 Sheltered;Incursion;R;Gongen;ORDER (Lost);4;1
@@ -390,7 +390,7 @@ Shikami;Incursion;R;Gongen;NOBOT • Shikami • Bot • Unit;4;1
 Sidearm;Incursion;R;Earther;WEAPON (Character) • Ranged;4;0
 Simple Wager;Incursion;R;Maverick;ORDER (Used);4;0
 Sitka;Incursion;R;Quay;CHARACTER • Kizen • Tahka • Unit;4;1
-Sitkatika Hekaton;Incursion;C;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;0
+Sitkatika Hekaton;Incursion;C;Quay;SHIP (Capacity 1) • Qurim • Fighter;4;4
 Slider;Incursion;R;Maverick;VEHICLE • Accord • Unit;4;0
 Slippery;Incursion;R;Earther;ASSET (Character Infiltrator);4;0
 Snap Switch;Nowhere to Hide;R;Maverick;INTERRUPT (Lost);4;1
@@ -398,7 +398,7 @@ Sniffed Out;Incursion;U;Gongen;ORDER (Lost);4;2
 Spassky Quickfire II;Incursion;C;Maverick;WEAPON (Character) • Ranged;4;3
 Spineslinger;Nowhere to Hide;R;Quay;CHARACTER • Luhus • Predator • Unit;4;1
 Spirit Theft;Incursion;C;Gongen;INTERRUPT (Used);4;4
-Spite;Incursion;R;Quay;INTERRUPT (Lost);4;0
+Spite;Incursion;R;Quay;INTERRUPT (Lost);4;1
 Sprinkle's Deal;Incursion;R;Maverick;INTERRUPT (Lost);4;1
 Squadron Lead;Incursion;C;Shi;SHIP (Capacity 1) • Vishal • Fighter;4;4
 Starhawk;Incursion;U;Maverick;CHARACTER • Accord • Rogue • Unit;4;3
@@ -423,10 +423,10 @@ Synched Up;Nowhere to Hide;U;Maverick;ORDER (Used);4;2
 Syndicate Interference;Incursion;R;Earther;INTERRUPT (Used);4;1
 T.S.V. Command Post;Incursion;U;Gongen;VEHICLE • Shikami • Unit;4;2
 Tachikaze;Nowhere to Hide;R;Gongen;SHIP (Capacity 6) • Tenno • Capital;4;1
-Tahka Assault Craft;Nowhere to Hide;U;Quay;SHIP (Capacity 3) • Tahka • Capital;4;0
+Tahka Assault Craft;Nowhere to Hide;U;Quay;SHIP (Capacity 3) • Tahka • Capital;4;2
 Tahka Chuluk Squad;Incursion;U;Quay;CHARACTER • Tahka • Predator • Unit;4;4
 Tahka Disruptor;Incursion;R;Quay;CHARACTER • Tahka • Predator • Unit;4;1
-Tahka Life Ship;Incursion;C;Quay;SHIP (Capacity 4) • Tahka • Capital;4;0
+Tahka Life Ship;Incursion;C;Quay;SHIP (Capacity 4) • Tahka • Capital;4;4
 Tahka Quarrel;Incursion;U;Quay;SHIP (Capacity 1) • Tahka • Infiltrator • Fighter;4;0
 Taihu;Incursion;U;Gongen;WEAPON (Fighter) • Ranged;4;4
 Takumi Shadow Warriors;Nowhere to Hide;R;Gongen;CHARACTER • Deigan • Warrior • Unit;4;4
@@ -439,7 +439,7 @@ Tataki Commander;Nowhere to Hide;U;Gongen;CHARACTER • Deigan • Warrior • U
 Tavang-Damir;Incursion;R;Shi;CHARACTER • Damir • Warrior • Unit;4;0
 Tennaru Hari;Nowhere to Hide;R;Gongen;CHARACTER • Kizen • Ikazuchi • Unit;4;1
 Terms of the Deal;Nowhere to Hide;R;Earther;ASSET;4;1
-The Beckoning;Incursion;C;Quay;ORDER (Used);4;0
+The Beckoning;Incursion;C;Quay;ORDER (Used);4;4
 The Gambler;Incursion;R;Maverick;CHARACTER • Kizen • Cartel • Unit;4;2
 Themis/Landing Pad;Incursion;C;Independent;LOCATION (Site) • Port;4;4
 Themis/Mobile Asteroid;Incursion;C;Independent;LOCATION (Sector) • Asteroid;4;4
@@ -453,7 +453,7 @@ Torrid Katal;Incursion;C;Quay;CHARACTER • Katal • Inverter • Unit;4;4
 Traginium Cache;Nowhere to Hide;U;Gongen;ASSET • Stockpile;4;2
 Traginium Harvest;Nowhere to Hide;U;Shi;ASSET • Stockpile;4;3
 Traginium Heist;Incursion;C;Maverick;INTERRUPT (Used);4;4
-Traginium Hoard;Nowhere to Hide;U;Quay;ASSET • Stockpile;4;0
+Traginium Hoard;Nowhere to Hide;U;Quay;ASSET • Stockpile;4;2
 Traginium Stash;Nowhere to Hide;U;Maverick;ASSET • Stockpile;4;2
 Traginium Surplus;Nowhere to Hide;U;Earther;ASSET • Stockpile;4;3
 Transport Aide;Nowhere to Hide;C;Gongen;CHARACTER • Ikazuchi • Tech • Unit;4;3
@@ -461,7 +461,7 @@ Transport Depot;Incursion;U;Independent;ASSET (Site);4;0
 Transport Vessel;Incursion;R;Shi;SHIP (Capacity 4) • Capital;4;1
 # Trinket Vendor;Edge of a Sword;F;Shi;CHARACTER • Damir • Merchant • Unit;4;0
 Trumped;Incursion;U;Maverick;INTERRUPT (Lost);4;3
-Tunnels;Incursion;U;Quay;ORDER (Used);4;0
+Tunnels;Incursion;U;Quay;ORDER (Used);4;2
 Type II Fighter;Incursion;C;Independent;SHIP (Capacity 1) • Fighter;4;0
 Unbidden Martyr;Nowhere to Hide;R;Gongen;ORDER (Lost);4;0
 Undercurrents;Nowhere to Hide;R;Shi;INTERRUPT (Lost);4;1
@@ -487,7 +487,7 @@ Volt Scrounge;Incursion;U;Quay;CHARACTER • Katal • Inverter • Unit;4;3
 Vulture;Incursion;C;Maverick;SHIP (Capacity 2) • Accord • Inverter • Fighter;4;4
 Wagner S70 Plasma Bolter;Nowhere to Hide;C;Maverick;WEAPON (Character) • Ranged;4;2
 Watch Your Back;Nowhere to Hide;U;Earther;ORDER (Used);4;4
-Waylaid;Incursion;R;Quay;INTERRUPT (Used);4;0
+Waylaid;Incursion;R;Quay;INTERRUPT (Used);4;1
 Well-concealed Charge;Incursion;C;Shi;ASSET (Location);4;4
 Widowmaker;Nowhere to Hide;C;Maverick;SHIP (Capacity 0) • Hellcats • Inverter • Fighter;4;4
 XeLabs Type IV;Nowhere to Hide;R;Earther;SHIP (Capacity 1) • XeLabs • Fighter;4;1

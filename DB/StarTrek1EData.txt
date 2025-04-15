@@ -176,14 +176,21 @@ Atul;Personnel;Klingon;The Dominion;60;;4;0
 Auto-Destruct Sequence;Interrupt;;Premiere/Voyager;637,638,6053,6416,6779,7701,8065;;4;0
 Automated Security System;Event;;Deep Space 9;639;;4;0
 Avert Danger;Mission;Planet;Introductory 2-Player Game;640;;2;0
+Avert Disaster;Mission;Planet;Premiere;683,6062,6425,6788,7710,8074;;2;0
+Awaken;Interrupt;;First Contact/The Borg/Virtual Promos;684,685,5814;;4;0
 Ayala;Personnel;Federation;Voyager;61;62;4;0
 Ayala;Personnel;Non-Aligned;Voyager;62;61;4;0
 Azet'izan;Personnel;Dominion;The Dominion;63;;4;0
+Azetbur;Personnel;Klingon;The Motion Pictures;686,7214;;2;0
 B'Etor;Personnel;Klingon;Premiere;431,3568,6028,6391,6754,7676,8040;;2;0
 B'iJik;Personnel;Klingon;Premiere;72,5978,6341,6704,7626;;4;0
 B'rel;Ship;Ferengi;Rules of Acquisition;83;;4;0
+B.G. Robinson;Personnel;Federation;The Trouble with Tribbles;687;;2;0
+Ba'el;Personnel;Klingon;Premiere;688,6063,6426,6789,7711,8075;;2;0
+Bajoran Civil War;Event;;Deep Space 9;690;;4;0
 Bajoran Freighter;Ship;Bajoran;Deep Space 9;64;;4;0
 Bajoran Interceptor;Ship;Bajoran;Deep Space 9;65;;4;0
+Bajoran Outpost;Facility;Bajoran;Deep Space 9/Homefront VI;689,4388,4696;;4;0
 Bajoran Raider;Ship;Bajoran;The Trouble with Tribbles;66;;4;0
 Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
 Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
@@ -443,11 +450,14 @@ Iconian Gateway;Artifact;;Alternate Universe/Virtual Promos;1366,8363;;2;0 # Nee
 Impassable Door;Dilemma;Planet;Premiere;1378,6146,6509,6872;;4;1
 Implication;Dilemma;Dual;Voyager/Virtual Promos;1380,5722;;4;2 # Have 2 VOY
 Impose Order;Mission;Planet;Official Tournament Sealed Deck;194,4054,5910;;4;0
+Impressive Trophies;Dilemma;Dual;The Borg;1381;;4;4
+In the Pale Moonlight;Dilemma;Dual;Rules of Acquisition/Virtual Promos;1384,7441;;4;0
 Incoming Message - Federation;Interrupt;;Premiere;1390,6147,6510,6873,7795;;4;1
 Incoming Message - Klingon;Interrupt;;Premiere;1392,6148,6511,6874,7796;;4;1
 Inge Eiger;Personnel;Federation;First Contact;195;;4;0
 Inglatu;Personnel;Dominion;Rules of Acquisition;196,4424;;4;0
 Interphase Generator;Artifact;;Premiere;1403,6150,6513,6876,7798,8162;;2;2
+Interphasic Plasma Creatures;Dilemma;Dual;Alternate Universe;1404;;4;4
 Investigate Incursion;Mission;Space;Official Tournament Sealed Deck;197,5911;;4;0
 Investigate Massacre;Mission;Planet;Premiere;1421,6156,6519,6882,7804;;2;1
 Investigate Sighting;Mission;Space;Premiere;1426,6159,6522,6885;;2;1
@@ -479,6 +489,7 @@ Kareel Odan;Personnel;Federation;Premiere;1488,6167,6530,6893,7815,8179;;2;1
 Karemman Vessel;Ship;Non-Aligned;Rules of Acquisition;218,4451;;4;0
 Karen Loews;Personnel;Federation;Deep Space 9;219;;4;0
 Karnog;Personnel;Klingon;The Motion Pictures;221,7189;;4;0
+Kazon Bomb;Dilemma;Dual;Voyager;1501,7505;;4;2
 Kazon Fighter;Ship;Kazon;The Borg;222;;4;0
 Kazon Outpost;Facility;Kazon;Voyager/Homefront VI;223,4703;;4;0
 Kazon Raider;Ship;Kazon;Voyager;224;;4;0
@@ -487,6 +498,7 @@ Kazon Warship;Ship;Kazon;Voyager;226;;4;0
 Keeve Falor;Personnel;Bajoran;The Dominion;228;;4;0
 Keldon Advanced;Ship;Cardassian;The Dominion/Borderless Promos;230,3580,5604;;4;0
 Keldon;Ship;Cardassian;Blaze of Glory;229;;4;0
+Kelvan Show of Force;Dilemma;Dual;Mirror, Mirror;1511;;4;1
 Kered;Personnel;Klingon;The Trouble with Tribbles;231;;4;0
 Kevin Uxbridge;Interrupt;;Premiere;1518,5649,6171,6534,6897,7819,8183;;4;0
 Khazara;Ship;Romulan;Premiere;1521,3627,6172,6535,6898,7820,8184;;2;1
@@ -746,6 +758,7 @@ Target Weapons;Tactic;;Blaze of Glory/BaH!;678,3733;;10;0
 Taris;Personnel;Romulan;Q Continuum;679,3616;;2;0
 Tarmin;Personnel;Non-Aligned;Q Continuum;680;;2;0
 Tarus;Personnel;Romulan;Premiere;381,6020,6383,6746,7668;;4;3
+Tasha Yar - Alternate;Personnel;Federation;Alternate Universe;682,3564,4062;;2;0
 Tasha Yar;Personnel;Federation;Premiere;681,6061,6424,6787,7709,8073;;2;1
 Taul;Personnel;Romulan;Premiere;382,6021,6384,6747,7669;;4;1
 Taurik;Personnel;Federation;Premiere;383,6022,6385,6748,7670,8034;;4;0
@@ -840,8 +853,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 680
-#681
+# Done through card 690
 #699-700
 #706
 #724
@@ -900,15 +912,18 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1328
 #1365-1366
 #1378
-#1380
+#1380-1381
+#1384
 #1390
 #1392
-#1403
+#1403-1404
 #1421
 #1426
 #1457
 #1488
+#1501
 #1506
+#1511
 #1518
 #1521
 #1530
@@ -996,7 +1011,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3533-3535
 #3537-3539
 #3556-3561
-#3565-3566
+#3564-3566
 #3568
 #3572
 #3578
@@ -1027,7 +1042,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4049
 #4052-4056
 #4059-4060
-#4063
+#4062-4063
 #4070
 #4073
 #4074
@@ -1045,6 +1060,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4287
 #4289
 #4373-4374
+#4388
 #4399
 #4406
 #4411-4413
@@ -1074,8 +1090,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4677-4680
 #4689
 #4692
-#4695
-#4697
+#4695-4697
 #4699-4700
 #4702-4704
 #4706-4707
@@ -1139,8 +1154,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5728
 #5731
 #5809
-#5813
-#5815
+#5813-5815
 #5817
 #5822
 #5824
@@ -1149,7 +1163,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5903
 #5909-5913
 #5917-5918
-#5966-6061
+#5966-6063
 #6065-6066
 #6070
 #6072-6073
@@ -1219,7 +1233,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6424
+#6328-6426
 #6428-6429
 #6433
 #6435-6436
@@ -1289,6 +1303,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6685-6686
 #6691-6787
 #6688
+#6788-6789
 #6791-6792
 #6796
 #6798-6799
@@ -1369,13 +1384,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7169
 #7173
 #7179-7180
-#7183-7213
+#7183-7214
 #7251
 #7318
 #7327
 #7371
 #7432
-#7503-7504
+#7441
+#7503-7505
 #7510-7511
 #7513-7514
 #7516-7517
@@ -1383,7 +1399,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7527-7529
 #7546
 #7613
-#7615-7709
+#7615-7711
 #7713-7714
 #7718
 #7720
@@ -1462,7 +1478,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8053-8057
 #8060-8068
 #8071
-#8073
+#8073-8075
 #8077
 #8082
 #8084

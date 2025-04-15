@@ -178,7 +178,7 @@ Assault on Species 8472;S;Mission;;Call to Arms;Print;2;2
 Assault Vessel;U;Ship;Bajoran;Second Edition;Print;3;3
 Assess Contamination;V;Mission;;Extreme Measures;Virtual;2;2
 Assimilate Starship;V;Mission;;Tacking Into the Wind;Virtual;2;2
-Assimilated Transport;V;Ship;Borg;Raise the Stakes;Virtual;3;0
+Assimilated Transport;V;Ship;Borg;Raise the Stakes;Virtual;3;3
 Assimilation Techniques;C;Event;;To Boldly Go;Print;3;3
 Assimilator, Rogue Borg Vessel;VP;Ship;Non-Aligned;Virtual Promo;Virtual;3;0
 Assist Cloaked Ship;U;Mission;;To Boldly Go;Print;2;2
@@ -339,7 +339,7 @@ Boreth, Place of Questions;V;Mission;;Shattered Mirror;Virtual;2;2
 Borg Cube;B/C;Ship;Borg;Borderless Promos/Call to Arms;Both;4;3 // have 3 C2A
 Borg Cutting Beam;S/VP;Event;;Call to Arms/Virtual Promo;Both;4;3 // have 3 C2A
 Borg Nanoprobes;VP;Equipment;;Inheritance;Virtual;3;0
-Borg Queen's Vessel, Borg Flagship;R;Ship;Borg;What You Leave Behind;Print;3;0
+Borg Queen's Vessel, Borg Flagship;R;Ship;Borg;What You Leave Behind;Print;3;1
 Borg Queen, Bringer of Order;S/VP;Personnel;Borg;Call to Arms/Virtual Promo;Both;4;3 // Have 3 CtA
 Borg Queen, Guardian of the Hive;R/V;Personnel;Borg;Call to Arms/Finding Our Way;Both;3;1 // Have 1 C2A
 Borg Queen, Obsessed;R;Personnel;Borg;What You Leave Behind;Print;3;1
@@ -1811,10 +1811,10 @@ Lineage;V;Event;;Matter of Time;Virtual;3;0
 Ling, Herculean Adjutant;V;Personnel;Non-Aligned;The Menagerie;Virtual;3;0
 Lingering Grief;V;Event;;Star Trek 50;Virtual;3;0
 Locate Fuel Source;V;Mission;;Allegiance;Virtual;2;2
-Locutus' Borg Cube;R/VP;Ship;Borg;Call to Arms/Virtual Promo;Both;3;0
+Locutus' Borg Cube;R/VP;Ship;Borg;Call to Arms/Virtual Promo;Both;3;2 // have 2 C2A
 Locutus, Almost Human;V;Personnel;Borg;Tapestry;Virtual;3;0
 Locutus, Implacable Scourge;V/VP;Personnel;Borg;Sacrifice of Angels/Virtual Promo;Virtual;3;0
-Locutus, Voice of the Borg;R;Personnel;Borg;Call to Arms;Print;3;2
+Locutus, Voice of the Borg;R;Personnel;Borg;Call to Arms;Print;3;3
 Logan Black;C;Personnel;Starfleet;In a Mirror Darkly;Print;3;0
 Logical Solution;V;Dilemma;;Star Trek 50;Virtual;3;0
 Logistical Lifeline;V;Event;;Sacrifice of Angels;Virtual;3;0
@@ -2085,7 +2085,7 @@ Neelix, Culinary Usurper;V;Personnel;Federation;Shore Leave;Virtual;3;0
 Neelix, Grand Proxy;V;Personnel;Ferengi;20th Anniversary Collection;Virtual;3;0
 Neelix, Morale Officer;R/V;Personnel;Non-Aligned;Captain's Log/Finding Our Way;Both;3;0
 Neelix, Valued Guide;V/VP;Personnel;Non-Aligned;Tacking Into the Wind/Virtual Promo;Virtual;3;0
-Negation Drone;U;Personnel;Borg;Call to Arms;Print;3;0
+Negation Drone;U;Personnel;Borg;Call to Arms;Print;3;1
 Nel Apgar, Temperamental Researcher;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Nella Daren, Head of Stellar Cartography;V;Personnel;Federation;This Side of Paradise;Virtual;3;0
 Nelson Kemper;C;Personnel;Starfleet;These Are The Voyages;Print;3;0
@@ -2117,7 +2117,7 @@ Nilz Baris, Agricultural Undersecretary;V;Personnel;Federation;Return to Grace;V
 Nimbus III, Hostage Crisis;V;Mission;;Shattered Mirror/Continuing Mission;Virtual;3;2 // Have 2 SM
 Nimbus III, Staff Backwater Embassy;V;Mission;;Continuing Mission;Virtual;2;0
 Nimira;V;Personnel;Non-Aligned;Lower Decks;Virtual;3;0
-Nine of Seventeen, Multiplexor Drone;V;Personnel;Borg;Zero Hour;Virtual;3;0
+Nine of Seventeen, Multiplexor Drone;V;Personnel;Borg;Zero Hour;Virtual;3;3
 Nirata;V;Personnel;Vidiian;Phage;Virtual;3;0
 Nirok;V;Personnel;Klingon;Lower Decks;Virtual;3;0
 No Escape;C;Event;;Necessary Evil;Print;3;0
@@ -2163,7 +2163,7 @@ Nyrian Translocation;V;Event;;Caretaker;Virtual;3;0
 O'Brien Founder, Agent Provocateur;U;Personnel;Dominion;Necessary Evil;Print;3;0
 Obol;V;Personnel;Ferengi;Classification: Civilian;Virtual;3;0
 Obrist, Temporal Tactician;V;Personnel;Non-Aligned;Lineage;Virtual;3;0
-Observation Drone;U;Personnel;Borg;Strange New Worlds;Print;3;0
+Observation Drone;U;Personnel;Borg;Strange New Worlds;Print;3;3
 Observe Kazon Ritual;U;Mission;;Captain's Log;Print;2;0
 Observer from the Obsidian Order;U;Event;;Second Edition;Print;3;2
 Obstacle to Opportunity;U;Event;;These Are The Voyages;Print;3;0
@@ -2460,8 +2460,8 @@ Quark, Vastly Outnumbered;V;Personnel;Ferengi;Allegiance;Virtual;3;0
 Quarrel;C;Dilemma;;Strange New Worlds;Print;3;3
 Quarren Labor Shortage;U;Dilemma;;Second Edition;Print;3;3
 Quatal Prime, Quiet Mining Colony;V;Mission;;A Time to Stand/Move Along Home;Virtual;3;2 // Have 2 AttS
-Queen's Borg Cube;P/VP;Ship;Borg;Tenth Anniversary Collection/Virtual Promo;Both;3;0
-Queen's Borg Sphere, Contingency Vessel;P/VP;Ship;Borg;Genesis/Virtual Promo;Both;3;0
+Queen's Borg Cube;P/VP;Ship;Borg;Tenth Anniversary Collection/Virtual Promo;Both;3;2 // have 2 10thA
+Queen's Borg Sphere, Contingency Vessel;P/VP;Ship;Borg;Genesis/Virtual Promo;Both;4;3 // Have 3 VP
 Quen Paltra;V;Personnel;Bajoran;Extreme Measures;Virtual;3;0
 Quetsivoo, Unidentified Pirate Ship;V;Ship;Ferengi;Allegiance;Virtual;3;0
 Quick Trip;V;Interrupt;;Classification: Civilian;Virtual;3;0
@@ -2520,7 +2520,7 @@ Reginald Barclay, Exceeding Limits;V/VP;Personnel;Federation;The Nth Degree/Virt
 Reginald Barclay, Reclusive Engineer;R;Personnel;Federation;Call to Arms;Print;3;0
 Regula, Exact Vengeance;V;Mission;;A Time to Stand;Virtual;2;2
 Reide;C;Personnel;Non-Aligned;Necessary Evil;Print;3;0
-Reinforcement Drone;U;Personnel;Borg;Strange New Worlds;Print;3;0
+Reinforcement Drone;U;Personnel;Borg;Strange New Worlds;Print;3;2
 Rejecting the Past;V;Dilemma;;Return to Grace;Virtual;3;0
 Rekar, Tool of the Tal'Shiar;U;Personnel;Romulan;In a Mirror Darkly;Print;3;0
 Rekelen;V;Personnel;Cardassian;The Menagerie;Virtual;3;0
@@ -2547,10 +2547,10 @@ Reprimand;V;Interrupt;;Warp Pack: Access Denied;Virtual;3;0
 Reprogrammed;V;Interrupt;;Favor the Bold;Virtual;3;0 // Needs errata
 Repurposed E.M.H.;V;Personnel;Non-Aligned;Sacrifice of Angels;Virtual;3;0
 Repurposed Transmission;V;Event;;The Nth Degree;Virtual;3;0
-Requisitions Drone;P/VP;Personnel;Borg;Reflections 2.0/Virtual Promo;Both;3;1 // have 1 REFL
+Requisitions Drone;P/VP;Personnel;Borg;Reflections 2.0/Virtual Promo;Both;4;3 // have 3 REFL
 Rescue Captives;U/VP;Event;;Second Edition/Virtual Promo;Both;4;3 // Have 3 SE
 Rescue Prisoners of War;S;Mission;;Call to Arms;Print;2;2
-Research Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Research Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Resilience;V;Event;;Face of the Enemy;Virtual;3;0
 Resistance Rifle;V;Equipment;;Extreme Measures;Virtual;3;0
 Resistance Tactics;R;Event;;Second Edition;Print;3;2
@@ -2703,7 +2703,7 @@ Scimitar, Built for Only One Purpose;R;Ship;Romulan;What You Leave Behind;Print;
 Scimitar, Predator;R;Ship;Romulan;Second Edition;Print;3;0
 Scimitar, Reman Warbird;V;Ship;Romulan;Zero Hour;Virtual;3;0
 Scout Drone;V;Personnel;Borg;Classification: Civilian;Virtual;3;0
-Scrutiny Drone;V;Personnel;Borg;Raise the Stakes;Virtual;3;0
+Scrutiny Drone;V;Personnel;Borg;Raise the Stakes;Virtual;3;3
 Scum and Villainy;V;Event;;Sacrifice of Angels;Virtual;3;0
 Seal the Temple's Door;C;Event;;To Boldly Go;Print;3;3
 Sean Hawkins;C;Personnel;Starfleet;These Are The Voyages;Print;3;0
@@ -2765,10 +2765,10 @@ Seven of Nine, Efficient Analyst;R/VP;Personnel;Federation;These Are The Voyages
 Seven of Nine, Ideal Candidate;V;Personnel;Federation;Classification: Civilian;Virtual;3;0
 Seven of Nine, Immersed in Chaos;V;Personnel;Non-Aligned;The Nth Degree;Virtual;3;0
 Seven of Nine, Notorious Scapegoat;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
-Seven of Nine, Part of the Greater Whole;R;Personnel;Borg;Call to Arms;Print;3;0
-Seven of Nine, Prodigal Daughter;V;Personnel;Borg;This Side of Paradise;Virtual;3;0
+Seven of Nine, Part of the Greater Whole;R;Personnel;Borg;Call to Arms;Print;3;2
+Seven of Nine, Prodigal Daughter;V;Personnel;Borg;This Side of Paradise;Virtual;3;3
 Seven of Nine, Reclaimed Drone;C;Personnel;Federation;Captain's Log;Print;3;0
-Seven of Nine, Representative of the Hive;S/V;Personnel;Borg;Call to Arms/Finding Our Way;Both;3;0
+Seven of Nine, Representative of the Hive;S/V;Personnel;Borg;Call to Arms/Finding Our Way;Both;4;3 // Have 3 C2A
 Seven of Nine, Undercover Operative;V;Personnel;Federation;Matter of Time;Virtual;3;0
 Severed Link;C;Event;;Call to Arms;Print;3;3
 Sfreett, Deadly Flower;V;Personnel;Non-Aligned;Symbiosis;Virtual;3;0
@@ -2875,7 +2875,7 @@ Spatial Reconfiguration;V;Event;;Peak Performance;Virtual;3;3
 Special Modifications;V;Event;;Tacking Into the Wind;Virtual;3;3
 Sphere 117, Renegade Borg Sphere;V;Ship;Borg;Unity;Virtual;3;0
 Sphere 41, Eliminate Sphere Network;U/VP;Mission;;What You Leave Behind/Virtual Promo;Both;3;2 // Have 2 WYLB
-Sphere 634;P/VP;Ship;Borg;Fractured Time/Virtual Promo;Both;3;0
+Sphere 634;P/VP;Ship;Borg;Fractured Time/Virtual Promo;Both;3;2 // Have 2 FT
 Spiritual Exploration;V;Event;;Return to Grace;Virtual;3;0
 Spiteful Strategy;V;Event;;Strange Bedfellows;Virtual;3;0
 Split Second;V;Event;;20th Anniversary Collection;Virtual;3;0
@@ -2981,7 +2981,7 @@ Sylvia;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;0
 Symbalene Blood Burn;C;Dilemma;;Captain's Log;Print;3;0
 Symbol of Devotion;U;Interrupt;;Second Edition;Print;3;3
 Sympathetic Magic;R;Dilemma;;Second Edition;Print;3;2
-Synergy Drone;V;Personnel;Borg;The Undiscovered Country;Virtual;3;0
+Synergy Drone;V;Personnel;Borg;The Undiscovered Country;Virtual;3;2 // Need to reprint one
 Syrran, Desert Wind;V;Personnel;Non-Aligned;Raise the Stakes;Virtual;3;0
 System J-25, Premature Encounter;V;Mission;;Lower Decks;Virtual;2;2
 System L-374, Intercept Planet Killer;AP/V;Mission;;Timeless/Phage;Virtual;2;0
@@ -3065,7 +3065,7 @@ Telek R'Mor, Anachronistic Visitor;V;Personnel;Romulan;Matter of Time;Virtual;3;
 Telek R'Mor, Astrophysical Researcher;R/V;Personnel;Romulan;Second Edition/Finding Our Way;Both;3;0
 Telepathic Deception;C;Dilemma;;Energize;Print;3;3
 Telepathic Invasion;U;Dilemma;;To Boldly Go;Print;3;2
-Teleportation Drone;V;Personnel;Borg;Shattered Mirror;Virtual;3;0
+Teleportation Drone;V;Personnel;Borg;Shattered Mirror;Virtual;3;3
 Telle, Macet's Aide;V;Personnel;Cardassian;Favor the Bold;Virtual;3;0
 Telok, Bodyguard;U;Personnel;Klingon;In a Mirror Darkly;Print;3;0
 Temarek;C;Personnel;Non-Aligned;Second Edition;Print;3;0
@@ -3204,7 +3204,7 @@ They're Still Coming Through;V;Event;;The Menagerie;Virtual;3;0
 Think Tank Ship, Ivory Tower;V;Ship;Non-Aligned;The Omega Directive;Virtual;3;0
 Third of Five, Altruistic Individual;V;Personnel;Borg;Caretaker;Virtual;3;0
 Third of Five, Wayward Drone;V;Personnel;Borg;Classification: Civilian;Virtual;3;0
-Third, Neonatal Drone;R;Personnel;Borg;To Boldly Go;Print;3;0
+Third, Neonatal Drone;R;Personnel;Borg;To Boldly Go;Print;3;1
 Thirst for Knowledge;V;Event;;Lower Decks;Virtual;3;3
 This Side of Paradise;V;Event;;Peak Performance;Virtual;3;3
 Tholia, Conquer Inferior Species;V;Mission;;Second Chances;Virtual;2;0
@@ -3217,8 +3217,8 @@ Thorel;C;Personnel;Cardassian;Call to Arms;Print;3;0
 Thought Maker;VP/R;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Thrax, Chief of Security;R;Personnel;Cardassian;To Boldly Go;Print;3;0
 Threading the Needle;V;Dilemma;;Shattered Mirror;Virtual;3;3
-Three of Nine, Tactician Drone;R;Personnel;Borg;These Are The Voyages;Print;3;0
-Three of Twelve, Specialty Drone;V;Personnel;Borg;The Undiscovered Country;Virtual;3;0
+Three of Nine, Tactician Drone;R;Personnel;Borg;These Are The Voyages;Print;3;3
+Three of Twelve, Specialty Drone;V;Personnel;Borg;The Undiscovered Country;Virtual;3;2 // Need to reprint 1
 Ties of Blood and Water;S;Interrupt;;Second Edition;Print;3;3
 Tim Watters, Valiant Captain;U;Personnel;Federation;Necessary Evil;Print;3;0
 Time for Action;V;Dilemma;;Favor the Bold;Virtual;3;3
@@ -3274,7 +3274,7 @@ Transcendent Farewell;V;Event;;Qpid;Virtual;3;0
 Translocation Raider;V;Ship;Non-Aligned;Unnatural Selection;Virtual;3;0
 Transporter Buffer;C;Event;;To Boldly Go;Print;3;3
 Transwarp Conduit;P;Interrupt;;Reflections 2.0;Print;3;0
-Transwarp Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Transwarp Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Trap Is Sprung;V;Event;;Return to Grace;Virtual;3;0
 Traverse Ion Storm;U;Mission;;To Boldly Go;Print;2;1
 Travis Mayweather, Damaged Navigator;V;Personnel;Starfleet;Peak Performance;Virtual;3;0
@@ -3312,7 +3312,7 @@ Tuvok, Stolid Ensign;V;Personnel;Federation;Hard Time;Virtual;3;0
 Tuvok, Undercover;P/VP;Personnel;Federation;Genesis/Virtual Promo;Both;3;0
 Twist of Fate;R;Interrupt;;Second Edition;Print;3;3
 Two of Nine, Transtator Drone;R/VP;Personnel;Borg;These Are The Voyages/Virtual Promo;Both;3;0
-Two of Two, Adaptation Drone;V;Personnel;Borg;Favor the Bold;Virtual;3;0
+Two of Two, Adaptation Drone;V;Personnel;Borg;Favor the Bold;Virtual;3;3
 Ty Kajada, Relentless Investigator;S;Personnel;Non-Aligned;Second Edition;Print;3;0
 Tykk;R;Ship;Dominion;In a Mirror Darkly;Print;3;0
 Type III Galor;V;Ship;Cardassian;Return to Grace;Virtual;3;0

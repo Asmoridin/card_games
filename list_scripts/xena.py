@@ -56,7 +56,7 @@ def read_decks():
             this_deck[deck_card_name] += deck_card_qty
         ret_list.append({'name':deck_filename, 'list':this_deck})
         if deck_qty != 40:
-            print(f"Deck {deck_filename} doesn't have 60 cards ({deck_qty}).")
+            print(f"Deck {deck_filename} doesn't have 40 cards ({deck_qty}).")
     return ret_list
 
 def check_decks(list_of_decks, list_of_cards):
