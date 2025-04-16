@@ -284,16 +284,16 @@ if __name__=="__main__":
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
 
-    next_buy_string = f"Buy a {chosen_color} {chosen_type} from {chosen_set} - perhaps " + \
+    NEXT_BUY_STRING = f"Buy a {chosen_color} {chosen_type} from {chosen_set} - perhaps " + \
         f"{picked_item[0]} (have {picked_item[5]} out of {picked_item[6]})"
-    double_print(next_buy_string, out_file_h)
+    double_print(NEXT_BUY_STRING, out_file_h)
 
     hyper_string = f"\nHave {HYPER_OWN} out of {HYPER_MAX} hyperfoil cards - " + \
         f"{100* HYPER_OWN/HYPER_MAX:.2f} percent"
     double_print(f"{hyper_string}", out_file_h)
-    hyper_buy_string = f"Buy a {hyper_color} {hyper_type} from {hyper_set} - perhaps " + \
+    HYPER_BUY_STRING = f"Buy a {hyper_color} {hyper_type} from {hyper_set} - perhaps " + \
         f"{hyper_item[0]} (have {hyper_item[5]} out of {hyper_item[6]})"
-    double_print(hyper_buy_string, out_file_h)
+    double_print(HYPER_BUY_STRING, out_file_h)
 
     double_print(f"\nNeed the ({MIN_DECK_SIZE}) following cards to finish the next closest " + \
         f"deck ({MIN_DECK_NAME})", out_file_h)

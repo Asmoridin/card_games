@@ -17,6 +17,7 @@ GAME_NAME = "Magic: The Gathering"
 file_h = open('card_games/DB/MTGCardData.txt', 'r', encoding="UTF-8")
 restr_file_h = open('card_games/DB/MTGRestrictions.txt', 'r', encoding="UTF-8")
 commander_cat_fh = open('card_games/DB/MTGCommanderCategories.txt', 'r', encoding="UTF-8")
+card_corrections_fh = open('card_games/DB/MTG Card Corrections.txt', 'r', encoding="UTF-8")
 DECK_DIR = "card_games/Decks/MTG"
 
 raw_list = [] # Will hold the full list of cards
@@ -33,15 +34,15 @@ class Deck:
         self.deck_cards = deck_cards
         self.deck_date = deck_date
 
-def fix_card_name(in_card_name):
+def fix_card_name(in_card_name, correction_dict):
     """
     Handle various ways that cards are written different than the Oracle official way
     """
-    if in_card_name == 'Bedeck/Bedazzle':
-        return "Bedeck // Bedazzle"
+    if in_card_name in correction_dict:
+        return correction_dict[in_card_name]
     return in_card_name
 
-def read_decks(deck_format):
+def read_decks(deck_format, correction_dict):
     """
     Takes in a format, and returns a list of Deck objects
     """
@@ -72,7 +73,7 @@ def read_decks(deck_format):
                         continue
                     deck_card_qty = int(deck_line.split(' ')[0])
                     deck_card_name = ' '.join(deck_line.split(' ')[1:]).strip()
-                    deck_card_name = fix_card_name(deck_card_name)
+                    deck_card_name = fix_card_name(deck_card_name, correction_dict)
                     if deck_card_name not in this_deck:
                         this_deck[deck_card_name] = 0
                     this_deck[deck_card_name] += deck_card_qty
@@ -93,7 +94,7 @@ def read_decks(deck_format):
                     continue
                 deck_card_qty = int(deck_line.split(' ')[0])
                 deck_card_name = ' '.join(deck_line.split(' ')[1:])
-                deck_card_name = fix_card_name(deck_card_name)
+                deck_card_name = fix_card_name(deck_card_name, correction_dict)
                 if deck_card_name not in this_deck:
                     this_deck[deck_card_name] = 0
                 this_deck[deck_card_name] += deck_card_qty
@@ -305,6 +306,17 @@ def get_categories(in_lines):
         ret_dict[category].append(cmdr)
     return ret_dict
 
+def get_corrections(in_lines):
+    """
+    Create a card correction dict from the data in in_lines
+    """
+    ret_dict = {}
+    for data_line in in_lines:
+        data_line = data_line.strip()
+        start_card, end_card = data_line.split(';')
+        ret_dict[start_card] = end_card
+    return ret_dict
+
 def validate_colors(in_colors):
     """
     Takes in a string of colors, and returns a list with the full color names
@@ -353,7 +365,7 @@ def validate_types(card_type_string):
             ret_subtype.append(check_type)
     return(ret_type, ret_subtype)
 
-def process_formats(format_name):
+def process_formats(format_name, correction_dict):
     """
     Given a format_name, process everything we need- find the suggested card, give stats on 
     the format, and parse, and sort the various decks.
@@ -381,7 +393,7 @@ def process_formats(format_name):
     return_dict['FILTERED']['name'], ft_filtered_list = sort_and_filter(ft_filtered_list, 0)
     return_dict['ITEM'] = ft_filtered_list[0]
 
-    format_decks = read_decks(format_name)
+    format_decks = read_decks(format_name, correction_dict)
     oldest_deck = (datetime.datetime.today(), '')
     if format_name == "Commander":
         for this_deck in format_decks:
@@ -436,6 +448,8 @@ restr_file_h.close()
 
 commander_cats = get_categories(commander_cat_fh.readlines())
 commander_cat_fh.close()
+
+card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
 CHECK_SET = "Fifth Dawn"
@@ -541,83 +555,83 @@ if __name__ == "__main__":
     double_print(SUMMARY_STRING, out_file_h)
 
     # Vintage
-    vintage_dict = process_formats("Vintage")
+    vintage_dict = process_formats("Vintage", card_corrections)
     handle_output("Vintage", vintage_dict, out_file_h)
 
     # Legacy
-    legacy_dict = process_formats("Legacy")
+    legacy_dict = process_formats("Legacy", card_corrections)
     handle_output("Legacy", legacy_dict, out_file_h)
 
     # Modern
-    modern_dict = process_formats("Modern")
+    modern_dict = process_formats("Modern", card_corrections)
     handle_output("Modern", modern_dict, out_file_h)
 
     # Pioneer
-    pioneer_dict = process_formats("Pioneer")
+    pioneer_dict = process_formats("Pioneer", card_corrections)
     handle_output("Pioneer", pioneer_dict, out_file_h)
 
     # Standard
-    standard_dict = process_formats("Standard")
+    standard_dict = process_formats("Standard", card_corrections)
     handle_output("Standard", standard_dict, out_file_h)
 
     # Pauper
-    pauper_dict = process_formats("Pauper")
+    pauper_dict = process_formats("Pauper", card_corrections)
     handle_output("Pauper", pauper_dict, out_file_h)
 
     # Oathbreaker
-    oath_dict = process_formats("Oathbreaker")
+    oath_dict = process_formats("Oathbreaker", card_corrections)
     handle_output("Oathbreaker", oath_dict, out_file_h)
 
     # Ice Age Block
-    ia_dict = process_formats("Ice Age Block")
+    ia_dict = process_formats("Ice Age Block", card_corrections)
     handle_output("Ice Age Block", ia_dict, out_file_h)
 
     # Mirage Block
-    mir_dict = process_formats("Mirage Block")
+    mir_dict = process_formats("Mirage Block", card_corrections)
     handle_output("Mirage Block", mir_dict, out_file_h)
 
     # Tempest Block
-    tem_dict = process_formats("Tempest Block")
+    tem_dict = process_formats("Tempest Block", card_corrections)
     handle_output("Tempest Block", tem_dict, out_file_h)
 
     # Urza's Block
-    urz_dict = process_formats("Urza's Block")
+    urz_dict = process_formats("Urza's Block", card_corrections)
     handle_output("Urza's Block", urz_dict, out_file_h)
 
     # Masques Block
-    masques_dict = process_formats("Masques Block")
+    masques_dict = process_formats("Masques Block", card_corrections)
     handle_output("Masques Block", masques_dict, out_file_h)
 
     # Invasion Block
-    invasion_dict = process_formats("Invasion Block")
+    invasion_dict = process_formats("Invasion Block", card_corrections)
     handle_output("Invasion Block", invasion_dict, out_file_h)
 
     # Odyssey Block
-    odys_dict = process_formats("Odyssey Block")
+    odys_dict = process_formats("Odyssey Block", card_corrections)
     handle_output("Odyssey Block", odys_dict, out_file_h)
 
     # Onslaught Block
-    ons_dict = process_formats("Onslaught Block")
+    ons_dict = process_formats("Onslaught Block", card_corrections)
     handle_output("Onslaught Block", ons_dict, out_file_h)
 
     # Mirrodin Block
-    mir_dict = process_formats("Mirrodin Block")
+    mir_dict = process_formats("Mirrodin Block", card_corrections)
     handle_output("Mirrodin Block", mir_dict, out_file_h)
 
     # Kamigawa Block
-    kam_dict = process_formats("Kamigawa Block")
+    kam_dict = process_formats("Kamigawa Block", card_corrections)
     handle_output("Kamigawa Block", kam_dict, out_file_h)
 
     # Ravnica Block
-    rav_dict = process_formats("Ravnica Block")
+    rav_dict = process_formats("Ravnica Block", card_corrections)
     handle_output("Ravnica Block", rav_dict, out_file_h)
 
     # Pauper Commander
-    paup_comm = process_formats("Pauper Commander")
+    paup_comm = process_formats("Pauper Commander", card_corrections)
     handle_output("Pauper Commander", paup_comm, out_file_h)
 
     # Commander
-    comm_dict = process_formats("Commander")
+    comm_dict = process_formats("Commander", card_corrections)
     handle_output("Commander", comm_dict, out_file_h)
 
     double_print("\nDecks for various Commander Color IDs:", out_file_h)

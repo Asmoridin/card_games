@@ -191,9 +191,17 @@ Bajoran Civil War;Event;;Deep Space 9;690;;4;0
 Bajoran Freighter;Ship;Bajoran;Deep Space 9;64;;4;0
 Bajoran Interceptor;Ship;Bajoran;Deep Space 9;65;;4;0
 Bajoran Outpost;Facility;Bajoran;Deep Space 9/Homefront VI;689,4388,4696;;4;0
+Bajoran PADD;Equipment;;Deep Space 9;691;;4;0
+Bajoran Phaser Banks;Tactic;;The Trouble with Tribbles/BaH!;693,3705;;10;0
+Bajoran Phaser Rifle;Equipment;;Deep Space 9;694;;4;0
+Bajoran Phaser;Equipment;;Deep Space 9;692;;4;0
 Bajoran Raider;Ship;Bajoran;The Trouble with Tribbles;66;;4;0
+Bajoran Resistance Cell;Objective;;Holodeck Adventures;695;;4;0
 Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
+Bajoran Shrine;Site;;The Trouble with Tribbles/Homefront V;696,4461;;2;0
 Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
+Bajoran Wormhole: Mirror Universe;Doorway;;Mirror, Mirror/Virtual Promos;698,3404,4801;;4;0
+Bajoran Wormhole;Doorway;;Deep Space 9/Virtual Promos;697,3405,4384,5643;;4;0
 Balancing Act;Dilemma;Dual;First Contact/Voyager/Homefront III;699,700,4097;;4;4
 Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791,7713,8077;;4;4
 Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
@@ -507,6 +515,7 @@ Klag;Personnel;Klingon;Premiere;232,6000,6363,6726;;4;0
 Kle'eg;Personnel;Klingon;Premiere;233,6727,7649,6001,6364;;4;0
 Klingon Empire Outpost;Facility;Klingon;Mirror, Mirror/Homefront VI;234,4704;;4;0
 Komal;Personnel;Klingon;The Motion Pictures;235,7190;;4;0
+Komar Possession;Dilemma;Dual;Voyager;1549;;4;1
 Konuric;Personnel;Hirogen;The Borg;236;;4;0
 Kor'choth;Personnel;Klingon;The Motion Pictures;237,7191;;4;0
 Koret'alak;Personnel;Dominion;The Dominion;238;;4;0
@@ -521,6 +530,8 @@ Leah Brahms;Personnel;Federation;Premiere;1594,6192,6555,6918,7840,8204;;2;1
 Letek;Personnel;Ferengi;Rules of Acquisition;245;;4;0
 Limara'Son;Personnel;Dominion;The Dominion;246;;4;0
 Linda Larson;Personnel;Federation;Premiere;247,6004,6367,6730,7652,8016;;4;1
+Lineup;Dilemma;Dual;The Trouble with Tribbles;1613;;4;4
+Linguistic Legerdemain;Dilemma;Dual;The Motion Pictures/Homefront II;1614,3856,7277;;5;4 # Have 4 HF2
 Lojal;Personnel;Federation;Deep Space 9;248;;4;0
 Lojur;Personnel;Federation;The Motion Pictures;249,7192;;4;0
 Lokirrim Vessel;Ship;Non-Aligned;All Good Things;250;;4;0
@@ -528,6 +539,7 @@ Loreva;Personnel;Klingon;Mirror, Mirror;251,4860;;4;0
 Losarus;Personnel;Vidiian;Voyager;252;;4;0
 Lt. Grant;Personnel;Federation;The Trouble with Tribbles;253;;4;0
 Lt. Palmer;Personnel;Federation;All Good Things;254;;4;0
+Make Us Go;Dilemma;Dual;Official Tournament Sealed Deck;1672,5904;;4;0 # Needs errata
 Makla'Gor;Personnel;Dominion;The Dominion;255;;4;0
 Male's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1674,6927,1676,5257,6201,6564,7849;;4;1 # Have 1 Premiere (need 1 Voyager)
 Maleth;Personnel;Vidiian;Holodeck Adventures;256;;4;0
@@ -549,6 +561,7 @@ Microbiotic Colony;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;17
 Microvirus;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;1723,5262,6211,6574,6937,7859;;4;1
 Military Exercises;Mission;Space;Starter Deck II;267,7057;;4;0
 Military Freighter;Ship;Cardassian;Deep Space 9;268;;4;0
+Mimetic Simbiot;Dilemma;Dual;Straight and Steady;3632;;4;4
 Mineral Survey;Mission;Planet;Official Tournament Sealed Deck;269,5912;;4;0
 Minister Rozahn;Personnel;Bajoran;Deep Space 9;270,4411;;4;0
 Miradorn Raider;Ship;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;271,7114;;4;0
@@ -853,8 +866,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 690
-#699-700
+# Done through card 700
 #706
 #724
 #731
@@ -927,9 +939,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1518
 #1521
 #1530
+#1549
 #1574
 #1579
 #1594
+#1613-1614
+#1672
 #1674
 #1676
 #1696-1697
@@ -1000,6 +1015,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3067
 #3083
 #3086
+#3404-3405
 #3407
 #3476
 #3487-3490
@@ -1021,8 +1037,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3607
 #3616-3617
 #3627-3628
+#3632
 #3689
-#3703-3704
+#3703-3705
 #3727
 #3730-3733
 #3839
@@ -1031,6 +1048,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3848
 #3851-3852
 #3854
+#3856
 #3858
 #3866
 #3885
@@ -1060,6 +1078,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4287
 #4289
 #4373-4374
+#4384
 #4388
 #4399
 #4406
@@ -1074,7 +1093,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4442
 #4444
 #4447-4452
-#4462
+#4461-4462
 #4464-4466
 #4468
 #4470
@@ -1100,7 +1119,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4723-4724
 #4796
 #4798
-#4802
+#4801-4802
 #4812
 #4820
 #4824
@@ -1142,8 +1161,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5604
 #5619
 #5636-5637
-#5639-5642
-#5644
+#5639-5644
 #5646
 #5648-5650
 #5652
@@ -1160,7 +1178,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5824
 #5827
 #5894
-#5900-5903
+#5900-5904
 #5909-5913
 #5917-5918
 #5966-6063
@@ -1386,6 +1404,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7179-7180
 #7183-7214
 #7251
+#7277
 #7318
 #7327
 #7371
