@@ -17,10 +17,12 @@ if os.getcwd().endswith('card_games'):
     file_h = open('DB/L5RData.txt', 'r', encoding="UTF-8")
     DECK_DIR = "Decks/L5R"
     OUT_FILE_NAME = "output/L5ROut.txt"
+    name_fix_fh = open('DB/L5RNameFixer.txt', 'r', encoding="UTF-8")
 else:
     file_h = open('card_games/DB/L5RData.txt', 'r', encoding="UTF-8")
     DECK_DIR = "card_games/Decks/L5R"
     OUT_FILE_NAME = "card_games/output/L5ROut.txt"
+    name_fix_fh = open('card_games/DB/L5RNameFixer.txt', 'r', encoding="UTF-8")
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality', 'Celestial']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor', 'Ring']
@@ -157,7 +159,7 @@ def read_decks(deck_format):
             ret_list.append({'name':deck_name, 'list':this_deck})
     return ret_list
 
-def check_decks(list_of_decks, list_of_cards):
+def check_decks(list_of_decks, list_of_cards, in_name_fix):
     """
     Given:
     - a list of deck objects, and a list of relevant card tuples
@@ -173,7 +175,10 @@ def check_decks(list_of_decks, list_of_cards):
         clean_name = in_card[0]
         for start_letter, change_letter in cleanup_rules.items():
             clean_name = clean_name.replace(start_letter, change_letter)
-        inventory_dict[clean_name] = in_card[7]
+        if clean_name in in_name_fix:
+            inventory_dict[in_name_fix[clean_name]] = in_card[7]
+        else:
+            inventory_dict[clean_name] = in_card[7]
 
     ret_list = check_inventory(list_of_decks, inventory_dict)
     return ret_list
@@ -194,7 +199,7 @@ def aggregate_most_needed(deck_lists):
         ret_list.append((temp_card, temp_card_qty))
     return ret_list
 
-def process_formats(in_format_name, raw_list):
+def process_formats(in_format_name, raw_list, in_name_fix_all):
     """
     Process information for the particular format, including decks, the database, suggestions
     """
@@ -223,7 +228,13 @@ def process_formats(in_format_name, raw_list):
 
     format_decks = read_decks(in_format_name)
 
-    format_decks_minus_own = check_decks(format_decks, format_card_list)
+    in_name_fix_format = {}
+    for db_card_line in in_name_fix_all:
+        db_card_name, this_format, target_name = db_card_line.split(';')
+        if this_format == in_format_name:
+            in_name_fix_format[db_card_name] = target_name
+
+    format_decks_minus_own = check_decks(format_decks, format_card_list, in_name_fix_format)
     format_most_needed = aggregate_most_needed(format_decks_minus_own)
     format_most_needed = sorted(format_most_needed, key=lambda x:(-1 * x[1], x[0]))
     format_decks_minus_own = sorted(format_decks_minus_own, key=lambda x:x[1])
@@ -263,6 +274,10 @@ def handle_output(in_format_name, format_dict, dest_fh):
 in_lines = file_h.readlines()
 file_h.close()
 in_lines = [line.strip() for line in in_lines]
+
+name_fix_lines = name_fix_fh.readlines()
+name_fix_fh.close()
+name_fix_lines = [line.strip() for line in name_fix_lines]
 
 TOTAL_MAX = 0
 TOTAL_OWN = 0
@@ -488,67 +503,68 @@ if __name__=="__main__":
         f"{filtered_list[0][7]} out of {filtered_list[0][8]})", out_file_h)
 
     # 01 Imperial
-    imperial_dict = process_formats("Clan Wars (Imperial)", card_lines)
+    imperial_dict = process_formats("Clan Wars (Imperial)", card_lines, name_fix_lines)
     handle_output("Clan Wars (Imperial)", imperial_dict, out_file_h)
 
     # 02 Jade
-    jade_dict = process_formats("Hidden Emperor (Jade)", card_lines)
+    jade_dict = process_formats("Hidden Emperor (Jade)", card_lines, name_fix_lines)
     handle_output("Hidden Emperor (Jade)", jade_dict, out_file_h)
 
     # 02.5 Jade Extended
-    jadeX_dict = process_formats("Jade Extended", card_lines)
+    jadeX_dict = process_formats("Jade Extended", card_lines, name_fix_lines)
     handle_output("Jade Extended", jadeX_dict, out_file_h)
 
     # 02.7 Jade Open
-    jadeopen_dict = process_formats("Jade Open", card_lines)
+    jadeopen_dict = process_formats("Jade Open", card_lines, name_fix_lines)
     handle_output("Jade Open", jadeopen_dict, out_file_h)
 
     # 03 Gold
-    gold_dict = process_formats("Four Winds (Gold)", card_lines)
+    gold_dict = process_formats("Four Winds (Gold)", card_lines, name_fix_lines)
     handle_output("Four Winds (Gold)", gold_dict, out_file_h)
 
     # 04 Diamond
-    diamond_dict = process_formats("Rain of Blood (Diamond)", card_lines)
+    diamond_dict = process_formats("Rain of Blood (Diamond)", card_lines, name_fix_lines)
     handle_output("Rain of Blood (Diamond)", diamond_dict, out_file_h)
 
     # 05 Lotus Arc
-    lotus_dict = process_formats("Age of Enlightenment (Lotus)", card_lines)
+    lotus_dict = process_formats("Age of Enlightenment (Lotus)", card_lines, name_fix_lines)
     handle_output("Age of Enlightenment (Lotus)", lotus_dict, out_file_h)
 
     # 06 Samurai Arc
-    samurai_dict = process_formats("Race for the Throne (Samurai)", card_lines)
+    samurai_dict = process_formats("Race for the Throne (Samurai)", card_lines, name_fix_lines)
     handle_output("Race for the Throne (Samurai)", samurai_dict, out_file_h)
 
     # 07 Celestial Arc
-    celestial_dict = process_formats("Destroyer War (Celestial)", card_lines)
+    celestial_dict = process_formats("Destroyer War (Celestial)", card_lines, name_fix_lines)
     handle_output("Destroyer War (Celestial)", celestial_dict, out_file_h)
 
     # 08 Emperor Arc
-    emperor_dict = process_formats("Age of Conquest (Emperor)", card_lines)
+    emperor_dict = process_formats("Age of Conquest (Emperor)", card_lines, name_fix_lines)
     handle_output("Age of Conquest (Emperor)", emperor_dict, out_file_h)
 
     # 09 Ivory Arc
-    ivory_dict = process_formats("A Brother's Destiny (Ivory Edition)", card_lines)
+    ivory_dict = process_formats("A Brother's Destiny (Ivory Edition)", card_lines, name_fix_lines)
     handle_output("A Brother's Destiny (Ivory Edition)", ivory_dict, out_file_h)
 
     # 10 Twenty Festivals
-    twentyF_dict = process_formats("A Brother's Destiny (Twenty Festivals)", card_lines)
+    twentyF_dict = process_formats("A Brother's Destiny (Twenty Festivals)", card_lines,
+        name_fix_lines)
     handle_output("A Brother's Destiny (Twenty Festivals)", twentyF_dict, out_file_h)
 
     # 11 Onyx Edition
-    onyx_dict = process_formats("Onyx Edition", card_lines)
+    onyx_dict = process_formats("Onyx Edition", card_lines, name_fix_lines)
     handle_output("Onyx Edition", onyx_dict, out_file_h)
 
     # 12 Shattered Empire
-    shattered_dict = process_formats("Shattered Empire", card_lines)
+    shattered_dict = process_formats("Shattered Empire", card_lines, name_fix_lines)
     handle_output("Shattered Empire", shattered_dict, out_file_h)
 
     # 20 Modern
-    modern_dict = process_formats("Modern", card_lines)
+    modern_dict = process_formats("Modern", card_lines, name_fix_lines)
     handle_output("Modern", modern_dict, out_file_h)
 
     # 21 Big Deck
-    big_dict = process_formats("BigDeck", card_lines)
+    big_dict = process_formats("BigDeck", card_lines, name_fix_lines)
     handle_output("BigDeck", big_dict, out_file_h)
 
     double_print("\nCurrent inventory percentage by format:", out_file_h)
