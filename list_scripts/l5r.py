@@ -46,6 +46,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     "A Line in the Sand", "Gates of Chaos", "Test of the Emerald and Jade Championships",
     "Evil Portents", "Aftermath", "Coils of Madness", "Torn Asunder", "The Shadow's Embrace",
     "Thunderous Acclaim", 'The Imperial Gift 1', 'Siege: Clan War', 'Shattered Empire',
+    "Rise of Jigoku",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -283,6 +284,7 @@ TOTAL_MAX = 0
 TOTAL_OWN = 0
 card_lines = []
 card_names = set()
+duplicate_check = set()
 modern_cards = {} # A dictionary of names -> card lines for Modern legal cards
 bigdeck_cards = {} # A dictionary of names -> card lines for Big Deck cards
 format_map = {} # For a format summary at the end, given that this is our first criteria
@@ -322,6 +324,9 @@ for line in in_lines:
         continue
     card_names.add(card_name)
     card_max = int(card_max)
+    if (card_name, card_format) in duplicate_check:
+        print(f"Duplicate: {card_name} - {card_format}")
+    duplicate_check.add((card_name, card_format))
     try:
         card_own = int(card_own)
     except ValueError:
