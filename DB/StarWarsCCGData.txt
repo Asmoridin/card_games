@@ -1,195 +1,504 @@
+2X-3KPR (Tooex);LS;Character;Premiere (U1);4;0
 5D6-RA-7 (Fivedesix);DS;Character;Premiere (R1);4;0
-Admiral Motti;DS;Character;Premiere (R2);4;0
-Chief Bast;DS;Character;Premiere (U1);4;0
-Colonel Wullf Yularen;DS;Character;Premiere (U1);4;0
-Commander Praji;DS;Character;Premiere (U2);4;0
-Darth Vader;DS;Character;Premiere (R1);4;0
-Dathcha;DS;Character;Premiere (U1);4;0
-Death Star Trooper;DS;Character;Premiere (C2);4;0
-Djas Puhr;DS;Character;Premiere (R2);4;0
-Dr. Evanzan;DS;Character;Premiere (R2);4;0
-DS-61-2;DS;Character;Premiere (U1);4;0
-DS-61-3;DS;Character;Premiere (R1);4;0
-EG-6 (Eegee-Six);DS;Character;Premiere (U2);4;0
-Feltipern Trevagg;DS;Character;Premiere (U1);4;0
-Garindan;DS;Character;Premiere (R2);4;0
-General Tagge;DS;Character;Premiere (R2);4;0
-Grand Moff Tarkin;DS;Character;Premiere (R1);4;0
-Imperial Pilot;DS;Character;Premiere (C2);4;0
-Imperial Trooper Guard;DS;Character;Premiere (C2);4;0
-Jawa;DS;Character;Premiere (C2);4;0
-Kitik Keed'kak;DS;Character;Premiere (R1);4;0
-Labria;DS;Character;Premiere (R2);4;0
-Lieutenant Tanbris;DS;Character;Premiere (U2);4;0
-LIN-V8M (Elleyein-Veeateemm);DS;Character;Premiere (C1);4;0
-M'iiyoom Onith;DS;Character;Premiere (U2);4;0
-MSE-6 'Mouse' Droid;DS;Character;Premiere (U1);4;0
-Myo;DS;Character;Premiere (R2);4;0
-Ponda Baba;DS;Character;Premiere (U1);4;0
-Prophetess;DS;Character;Premiere (U1);4;0
-R1-G4 (Arone-Geefour);DS;Character;Premiere (C2);4;0
-R4-M9 (Arfour-Emmnine);DS;Character;Premiere (C2);4;0
-Stormtrooper;DS;Character;Premiere (C3);4;0
-Tonnika Sisters;DS;Character;Premiere (R1);4;0
-Tusken Raider;DS;Character;Premiere (C2);4;0
-WED15-1662 'Treadwell' Droid;DS;Character;Premiere (R2);4;0
-Wuher;DS;Character;Premiere (U2);4;0
-Blaster Scope;DS;Device;Premiere (U1);4;0
-Caller;DS;Device;Premiere (U2);4;0
-Comlink;DS;Device;Premiere (C1);4;0
-Droid Detector;DS;Device;Premiere (C2);4;0
-Fusion Generator Supply Tanks;DS;Device;Premiere (C2);4;0
-Observation Holocam;DS;Device;Premiere (U2);4;0
-Restraining Bolt;DS;Device;Premiere (C2);4;0
-Stormtrooper Backpack;DS;Device;Premiere (C2);4;0
-Stormtrooper Utility Belt;DS;Device;Premiere (C2);4;0
 A Disturbance In The Force;DS;Effect;Premiere (U1);4;0
+A Few Maneuvers;LS;Interrupt;Premiere (C2);4;0
+A Tremor in the Force;LS;Effect;Premiere (U1);4;0
+Admiral Motti;DS;Character;Premiere (R2);4;0
+Advance Preparation;LS;Interrupt;A New Hope (U1);4;0
+Advosze;DS;Character;A New Hope (C2);4;0
+Affect Mind;LS;Effect;Premiere (R1);4;0
+Alderaan;DS;Location;Premiere (R1);4;0
+Alderaan;LS;Location;Premiere (U2);4;0
+Alter;DS;Interrupt;Premiere (U1);5;0
+Alter;LS;Interrupt;Premiere (U1);5;0
+Alternatives To Fighting;LS;Interrupt;A New Hope (U1);4;0
+Arcona;LS;Character;A New Hope (C2);4;0
+Assault Rifle;DS;Weapon;Premiere (R2);4;0
+Astromech Shortage;DS;Effect;A New Hope (U2);4;0
+Attack Run;LS;Epic Event;A New Hope (R2);4;0
 Baniss Keeg;DS;Effect;Premiere (C2);4;0
+Bantha;DS;Vehicle;Premiere (U2);4;0
+Beggar;LS;Effect;Premiere (R1);4;0
+Beru Lars;LS;Character;Premiere (U2);4;0
+Beru Stew;LS;Interrupt;Premiere (U2);4;0
+Besieged;DS;Effect;A New Hope (R2);4;0
+Bespin Motors Void Spider THX1138;DS;Vehicle;A New Hope (C2);4;0
+Biggs Darklighter;LS;Character;Premiere (R2);4;0
+Black 2;DS;Starship;Premiere (R1);4;0
+Black 3;DS;Starship;Premiere (U1);4;0
+Black 4;DS;Starship;A New Hope (U2);4;0
 Blast Door Controls;DS;Effect;Premiere (U2);4;0
+Blast The Door, Kid!;LS;Interrupt;A New Hope (C2);4;0
 Blaster Rack;DS;Effect;Premiere (U1);4;0
-Dark Hours;DS;Effect;Premiere (U2);4;0
-Death Star Sentry;DS;Effect;Premiere (U1);4;0
-Disarmed;DS;Effect;Premiere (R1);4;0
-Expand The Empire;DS;Effect;LS;Character;Premiere (U1);4;0;Premiere (R1);4;0
-Fear Will Keep Them In Line;DS;Effect;Premiere (R2);4;0
-I Find Your Lack Of Faith Disturbing;DS;Effect;Premiere (R1);4;0
-I've Lost Artoo!;DS;Effect;Premiere (U1);4;0
-Jawa Pack;DS;Effect;Premiere (U1);4;0
-Juri Juice;DS;Effect;Premiere (R2);4;0
-Ket Maliss;DS;Effect;Premiere (C2);4;0
-Lateral Damage;DS;Effect;Premiere (R2);4;0
-Luke? Luuuuke!;DS;Effect;Premiere (U1);4;0
-Macroscan;DS;Effect;Premiere (C2);4;0
-Molator;DS;Effect;Premiere (R1);4;0
-Organa's Ceremonial Necklace;DS;Effect;Premiere (R1);4;0
-Presence Of The Force;DS;Effect;Premiere (R1);4;0
-Reactor Terminal;DS;Effect;Premiere (U2);4;0
-Send A Detachment Down;DS;Effect;Premiere (R1);4;0
-Sunsdown;DS;Effect;Premiere (U1);4;0
-Tactical Recall;DS;Effect;Premiere (R2);4;0
-Wrong Turn;DS;Effect;Premiere (U1);4;0
-Your Eyes Can Deceive You;DS;Effect;Premiere (U1);4;0
-Alter;DS;Interrupt;Premiere (U1);4;0
+Blaster Rifle;DS;Weapon;Premiere (C2);4;0
+Blaster Rifle;LS;Weapon;Premiere (C1);4;0
+Blaster Scope;DS;Device;Premiere (U1);4;0
+Blaster;LS;Weapon;Premiere (C2);4;0
+Blue Milk;LS;Interrupt;A New Hope (C2);4;0
+Boosted TIE Cannon;DS;Weapon;Premiere (U1);4;0
 Boring Conversation Anyway;DS;Interrupt;Premiere (R1);4;0
+BoShek;LS;Character;Premiere (U1);4;0
+Bowcaster;LS;Weapon;A New Hope (R2);4;0
+Brainiac;LS;Character;A New Hope (R1);4;0
+C-3PO (See-Threepio);LS;Character;Premiere (R1);4;0
+Caller;DS;Device;Premiere (U2);4;0
+Caller;LS;Device;Premiere (U2);4;0
+Cantina Brawl;LS;Interrupt;Premiere (R1);4;0
+Captain Khurgee;DS;Character;A New Hope (U1);4;0
+Cell 2187;LS;Effect;A New Hope (R1);4;0
 Charming To The Last;DS;Interrupt;Premiere (R2);4;0
+Chewbacca;LS;Character;A New Hope (R2);4;0
+Chief Bast;DS;Character;Premiere (U1);4;0
+Clak'dor VII;LS;Location;A New Hope (R2);4;0
 Collateral Damage;DS;Interrupt;Premiere (C2);4;0
+Collision!;LS;Interrupt;Premiere (C2);4;0
+Colonel Wullf Yularen;DS;Character;Premiere (U1);4;0
+Combined Attack;LS;Interrupt;Premiere (C2);4;0
+Come With Me;DS;Effect;A New Hope (C2);4;0
+Comlink;DS;Device;Premiere (C1);4;0
+Commander Evram Lajaie;LS;Character;A New Hope (C1);4;0
+Commander Praji;DS;Character;Premiere (U2);4;0
+Commander Vanden Willard;LS;Character;A New Hope (U2);4;0
+Commence Primary Ignition;DS;Epic Event;A New Hope (R2);4;0
+Commence Recharging;LS;Effect;A New Hope (R2);4;0
+Conquest;DS;Starship;A New Hope (R1);4;0
+Corellia;LS;Location;A New Hope (R1);4;0
+Corellian Corvette;LS;Starship;Premiere (U2);4;0
+Corellian Slip;LS;Interrupt;A New Hope (C2);4;0
+Corellian;LS;Character;A New Hope (C2);4;0
 Counter Assault;DS;Interrupt;Premiere (C1);4;0
+Crash Site Memorial;LS;Effect;Premiere (U1);4;0
+CZ-3 (Seezee-Three);LS;Character;Premiere (C2);4;0
+Dannik Jerriko;DS;Character;A New Hope (R1);4;0
+Dantooine;DS;Location;Premiere (U1);4;0
+Dantooine;LS;Location;Premiere (U1);4;0
+Danz Borin;DS;Character;A New Hope (U2);4;0
 Dark Collaboration;DS;Interrupt;Premiere (R1);4;0
+Dark Forces;DS;Effect;Free Jedi Pack (P);4;0
+Dark Hours;DS;Effect;Premiere (U2);4;0
+Dark Jedi Lightsaber;DS;Weapon;Premiere (U1);4;0
 Dark Jedi Presence;DS;Interrupt;Premiere (R1);4;0
 Dark Maneuvers;DS;Interrupt;Premiere (C2);4;0
+Dark Waters;DS;Effect;A New Hope (R2);4;0
+Darth Vader;DS;Character;Premiere (R1);4;0
+Dathcha;DS;Character;Premiere (U1);4;0
 Dead Jawa;DS;Interrupt;Premiere (C2);4;0
+Death Star Gunner;DS;Character;A New Hope (C1);4;0
+Death Star Plans;LS;Effect;Premiere (R1);4;0
+Death Star Sentry;DS;Effect;Premiere (U1);4;0
+Death Star Tractor Beam;DS;Device;A New Hope (R2);4;0
+Death Star Trooper;DS;Character;Premiere (C2);4;0
+Death Star: Central Core;DS;Location;Premiere (U2);4;0
+Death Star: Conference Room;DS;Location;A New Hope (U1);4;0
+Death Star: Detention Block Control Room;LS;Location;Premiere (U2);4;0
+Death Star: Detention Block Corridor;DS;Location;Premiere (C1);4;0
+Death Star: Docking Back 327;LS;Location;Premiere (C2);4;0
+Death Star: Docking Bay 327;DS;Location;Premiere (C2);4;0
+Death Star: Docking Control Room 327;DS;Location;Premiere Introductory 2-Player Game (P);4;0
+Death Star: Level 4 Military Corridor;DS;Location;Premiere (U1);4;0
+Death Star: Level 6 Core Shaft Corridor;LS;Location;Premiere Introductory 2-Player Game (P);4;0
+Death Star: Trash Compactor;LS;Location;Premiere (U1);4;0
+Death Star: Trench;LS;Location;A New Hope (R2);4;0
+Death Star: War Room;DS;Location;Premiere (U2);4;0
+Death Star;DS;Location;A New Hope (R2);4;0
+Defel;DS;Character;A New Hope (C2);4;0
+Dejarik Hologameboard;LS;Location;A New Hope (R1);4;0
+Demotion;LS;Effect;Premiere (R2);4;0
+Devastator;DS;Starship;Premiere (R1);4;0
+Dianoga;DS;Creature;A New Hope (R2);4;0
+Dice Ibegon;LS;Character;Premiere (R2);4;0
+Disarmed;DS;Effect;Premiere (R1);4;0
+Disarmed;LS;Effect;Premiere (R1);4;0
+Djas Puhr;DS;Character;Premiere (R2);4;0
+Doikk Na'ts;LS;Character;A New Hope (U2);4;0
+Don't Get Cocky;LS;Interrupt;Premiere (R1);4;0
+Don't Underestimate Our Chances;LS;Interrupt;Premiere (C1);4;0
+Double Agent;LS;Interrupt;A New Hope (R2);4;0
+Dr. Evazan;DS;Character;Premiere (R2);4;0
+Droid Detector;DS;Device;Premiere (C2);4;0
+Droid Shutdown;LS;Interrupt;Premiere (C2);4;0
+DS-61-2;DS;Character;Premiere (U1);4;0
+DS-61-3;DS;Character;Premiere (R1);4;0
+DS-61-4;DS;Character;A New Hope (R2);4;0
+Dutch;LS;Character;Premiere (R1);4;0
+EG-6 (Eegee-Six);DS;Character;Premiere (U2);4;0
+Eject! Eject!;LS;Effect;A New Hope (C2);4;0
+Electrobinoculars;LS;Device;Premiere (C2);4;0 // Intro 2-player set has wrong text
 Elis Helrot;DS;Interrupt;Premiere (U2);4;0
+Ellorrs Madak;LS;Effect;Premiere (C2);4;0
 Emergency Deployment;DS;Interrupt;Premiere (U1);4;0
+Enhanced TIE Laser Cannon;DS;Weapon;A New Hope (C2);4;0
+Eriadu;DS;Location;Free Jedi Pack (P);4;0 // white dot is errata?
+Escape Pod;LS;Interrupt;Premiere (U2);4;0
 Evacuate?;DS;Interrupt;Premiere (U2);4;0
+Evader;DS;Interrupt;A New Hope (U1);4;0
+Expand The Empire;DS;Effect;Premiere (R1);4;0
+Eyes In The Dark;LS;Effect;Premiere (U1);4;0
+Fear Will Keep Them In Line;DS;Effect;Premiere (R2);4;0
+Feltipern Trevagg;DS;Character;Premiere (U1);4;0
+Fifrin D'an;LS;Character;Premiere (U2);4;0
+Fire Extinguisher;LS;Device;A New Hope (U2);4;0
+For Luck;LS;Effect;Free Jedi Pack (P);4;0
+Friendly Fire;LS;Interrupt;Premiere (C2);4;0
 Full Scale Alert;DS;Interrupt;Premiere (U2);4;0
+Full Throttle;LS;Interrupt;Premiere (R2);4;0
+Fusion Generator Supply Tanks;DS;Device;Premiere (C2);4;0
+Fusion Generator Supply Tanks;LS;Device;Premiere (C2);4;0
+Gaderffii Stick;DS;Weapon;Premiere (C2);4;0
+Garindan;DS;Character;Premiere (R2);4;0
+Garouf Lafoe;LS;Character;A New Hope (U2);4;0
+General Dodonna;LS;Character;Premiere (U1);4;0
+General Tagge;DS;Character;Premiere (R2);4;0
+Ghhhk;DS;Interrupt;A New Hope (C2);4;0
+Gift Of The Mentor;LS;Interrupt;Premiere (R1);4;0
+Gold 1;LS;Starship;Premiere (R2);4;0
+Gold 2;LS;Starship;A New Hope (U1);4;0
+Gold 5;LS;Starship;Premiere (R2);4;0
+Gold Leader in Gold 1;LS;Starship;Rebel Leader Pack (P);4;0
+Grand Moff Tarkin;DS;Character;Premiere (R1);4;0
+Grappling Hook;LS;Effect;A New Hope (C2);4;0
 Gravel Storm;DS;Interrupt;Premiere (U2);4;0
+Gravity Shadow;DS;Interrupt;Free Jedi Pack (P);4;0
+Greedo;DS;Character;A New Hope (R1);4;0
+Grimtaash;LS;Interrupt;A New Hope (C2);4;0
+Han Seeker;DS;Weapon;Premiere (R2);4;0
+Han Solo;LS;Character;Premiere (R1);4;0
+Han's Back;LS;Interrupt;Premiere (U2);4;0
+Han's Dice;LS;Interrupt;Premiere (C2);4;0
+Han's Heavy Blaster Pistol;LS;Weapon;Premiere (R2);4;0
+Han;LS;Character;Free Jedi Pack (P);4;0
+Hear Me Baby, Hold Together;LS;Interrupt;Premiere (C2);4;0
+Help Me Obi-Wan Kenobi;LS;Interrupt;Premiere (R1);4;0
+Hem Dazon;DS;Character;A New Hope (R1);4;0
+Het Nkik;LS;Character;A New Hope (U2);4;0
+Houjix;LS;Interrupt;A New Hope (C2);4;0
+How Did We Get Into This Mess?;LS;Interrupt;Premiere (U2);4;0
+Hunchback;LS;Character;A New Hope (R1);4;0
+Hydroponics Station;LS;Device;Premiere (U2);4;0
+Hyper Escape;LS;Interrupt;Premiere (C2);4;0
+Hyperwave Scan;DS;Effect;A New Hope (U1);4;0
+Hypo;DS;Device;A New Hope (R1);4;0
+I Find Your Lack Of Faith Disturbing;DS;Effect;Premiere (R1);4;0
+I Have A Very Bad Feeling About This;LS;Interrupt;A New Hope (C2);4;0
 I Have You Now;DS;Interrupt;Premiere (R2);4;0
+I'm Here To Rescue You;LS;Interrupt;A New Hope (U1);4;0
+I'm On The Leader;DS;Interrupt;A New Hope (R1);4;0
+I've Got A Bad Feeling About This;LS;Interrupt;Premiere (C2);4;0
 I've Got A Problem Here;DS;Interrupt;Premiere (C2);4;0
+I've Lost Artoo!;DS;Effect;Premiere (U1);4;0
+Ickabel G'ont;LS;Character;A New Hope (U2);4;0
 Imperial Barrier;DS;Interrupt;Premiere (C2);4;0
+Imperial Blaster;DS;Weapon;Premiere (C2);4;0
 Imperial Code Cylinder;DS;Interrupt;Premiere (C2);4;0
+Imperial Commander;DS;Character;A New Hope (C2);4;0
+Imperial Holotable;DS;Location;A New Hope (R1);4;0
+Imperial Justice;DS;Effect;A New Hope (C2);4;0
+Imperial Pilot;DS;Character;Premiere (C2);4;0
 Imperial Reinforcements;DS;Interrupt;Premiere (C1);4;0
+Imperial Squad Leader;DS;Character;A New Hope (C3);4;0
+Imperial Trooper Guard;DS;Character;Premiere (C2);4;0
+Imperial-Class Star Destroyer;DS;Starship;Premiere (U1);4;0
+Incom T-16 Skyhopper;LS;Vehicle;A New Hope (C2);4;0
+Informant;DS;Interrupt;A New Hope (U1);4;0
+Into the Garbage Chute, Flyboy;LS;Interrupt;Premiere (R2);4;0
+Ion Cannon;DS;Weapon;Premiere (U1);4;0
+It Could Be Worse;LS;Interrupt;Premiere (C2);4;0
 It's Worse;DS;Interrupt;Premiere (C2);4;0
+IT-O (Eyetee-Oh);DS;Character;A New Hope (R1);4;0
+Jawa Blaster;DS;Weapon;A New Hope (C2);4;0
+Jawa Ion Gun;LS;Weapon;A New Hope (C2);4;0
+Jawa Pack;DS;Effect;Premiere (U1);4;0
+Jawa Siesta;LS;Effect;Premiere (U1);4;0
+Jawa;DS;Character;Premiere (C2);4;0
+Jawa;LS;Character;Premiere (C2);4;0
+Jedi Lightsaber;LS;Weapon;Premiere (U1);4;0
+Jedi Presence;LS;Interrupt;Premiere (R1);4;0
+Jek Porkins;LS;Character;Premiere (U1);4;0
+Juri Juice;DS;Effect;Premiere (R2);4;0
+K'lor'slug;LS;Effect;Premiere (R1);4;0
+Kabe;LS;Character;Premiere (U1);4;0
+Kal'Falnl C'ndros;LS;Character;Premiere (R1);4;0
+Kashyyyk;DS;Location;A New Hope (C1);4;0
+Kashyyyk;LS;Location;A New Hope (C1);4;0
+Kessel Run;LS;Effect;Premiere (R2);4;0
+Kessel;DS;Location;Premiere (U2);4;0
+Kessel;LS;Location;Premiere (U2);4;0
+Ket Maliss;DS;Effect;Premiere (C2);4;0
+Kiffex;DS;Location;A New Hope (R1);4;0
 Kintan Strider;DS;Interrupt;Premiere (C1);4;0
+Kitik Keed'kak;DS;Character;Premiere (R1);4;0
+Krayt Dragon Bones;DS;Effect;A New Hope (U1);4;0
+Krayt Dragon Howl;LS;Interrupt;Premiere (R1);4;0
+Labria;DS;Character;Premiere (R2);4;0
+Laser Gate;DS;Device;A New Hope (U2);4;0
+Laser Projector;DS;Weapon;Premiere (U2);4;0
+Lateral Damage;DS;Effect;Premiere (R2);4;0
+Leesub Sirln;LS;Character;Premiere (R2);4;0
+Leia Organa;LS;Character;Premiere (R1);4;0
+Leia Seeker;DS;Weapon;A New Hope (R2);4;0
+Leia's Back;LS;Interrupt;Premiere (U2);4;0
+Leia's Sporting Blaster;LS;Weapon;Premiere (U1);4;0
+Leia;LS;Character;Free Jedi Pack (P);4;0
+Let The Wookiee Win;LS;Interrupt;A New Hope (R1);4;0
+Lieutenant Tanbris;DS;Character;Premiere (U2);4;0
+Lift Tube;DS;Vehicle;Premiere (C2);4;0
+Lift Tube;LS;Vehicle;Premiere (C2);4;0
+Light Repeating Blaster Rifle;DS;Weapon;Premiere (R1);4;0
+Lightsaber Proficiency;LS;Effect;Premiere (R1);4;0
 Limited Resources;DS;Interrupt;Premiere (U2);4;0
+LIN-V8K (Elleyein-Veeatekay);LS;Character;Premiere (C1);4;0
+LIN-V8M (Elleyein-Veeateemm);DS;Character;Premiere (C1);4;0
+Lirin Car'n;DS;Character;A New Hope (U2);4;0
 Local Trouble;DS;Interrupt;Premiere (R1);4;0
+Logistical Delay;LS;Effect;A New Hope (U2);4;0
 Lone Pilot;DS;Interrupt;Premiere (R2);4;0
 Lone Warrior;DS;Interrupt;Premiere (R2);4;0
 Look Sir, Droids;DS;Interrupt;Premiere (R1);4;0
-Moment of Triumph;DS;Interrupt;Premiere (R2);4;0
-Nevar Yalnal;DS;Interrupt;Premiere (R2);4;0
-Ommni Box;DS;Interrupt;Premiere (C2);4;0
-Overload;DS;Interrupt;Premiere (C2);4;0
-Physical Choke;DS;Interrupt;Premiere (R1);4;0
-Precise Attack;DS;Interrupt;Premiere (C2);4;0
-Scanning Crew;DS;Interrupt;Premiere (C2);4;0
-Sense;DS;Interrupt;Premiere (U1);4;0
-Set For Stun;DS;Interrupt;Premiere (C2);4;0
-Takeel;DS;Interrupt;Premiere (C2);4;0
-Tallon Roll;DS;Interrupt;Premiere (C2);4;0
-The Circle Is Now Complete;DS;Interrupt;Premiere (R1);4;0
-The Empire's Back;DS;Interrupt;Premiere (U1);4;0
-Trinto Duaba;DS;Interrupt;Premiere (U1);4;0
-Trooper Charge;DS;Interrupt;Premiere (U2);4;0
-Tusken Scavengers;DS;Interrupt;Premiere (C2);4;0
-Utinni!;DS;Interrupt;Premiere (R1);4;0
-Vader's Eye;DS;Interrupt;Premiere (R1);4;0
-We're All Gonna Be A Lot Thinner!;DS;Interrupt;Premiere (R1);4;0
-You Overestimate Their Chances;DS;Interrupt;Premiere (C1);4;0
-Your Power Are Weak, Old Man;DS;Interrupt;Premiere (R1);4;0
-Alderaan;DS;Location;Premiere (R1);4;0
-Dantooine;DS;Location;Premiere (U1);4;0
-Death Star: Central Core;DS;Location;Premiere (U2);4;0
-Death Star: Detention Block Corridor;DS;Location;Premiere (C1);4;0
-Death Star: Docking Bay 327;DS;Location;Premiere (C2);4;0
-Death Star: Level 4 Military Corridor;DS;Location;Premiere (U1);4;0
-Death Star: War Room;DS;Location;Premiere (U2);4;0
-Kessel;DS;Location;Premiere (U2);4;0
-Tatooine;DS;Location;Premiere (C2);4;0
-Tatooine: Cantina;DS;Location;Premiere (R2);4;0
-Tatooine: Docking Bay 94;DS;Location;Premiere (C2);4;0
-Tatooine: Jawa Camp;DS;Location;Premiere (C1);4;0
-Tatooine: Jundland Wastes;DS;Location;Premiere (C1);4;0
-Tatooine: Lars' Moisture Farm;DS;Location;Premiere (U2);4;0
-Tatooine: Mos Eisley;DS;Location;Premiere (C1);4;0
-Yavin 4;DS;Location;Premiere (C2);4;0
-Yavin 4: Docking Bay;DS;Location;Premiere (C2);4;0
-Yavin 4: Jungle;DS;Location;Premiere (U2);4;0
-Black 2;DS;Starship;Premiere (R1);4;0
-Black 3;DS;Starship;Premiere (U1);4;0
-Devastator;DS;Starship;Premiere (R1);4;0
-Imperial-Class Star Destroyer;DS;Starship;Premiere (U1);4;0
-TIE Advanced x1;DS;Starship;Premiere (U2);4;0
-TIE Fighter;DS;Starship;Premiere (C2);4;0
-TIE Scout;DS;Starship;Premiere (C2);4;0
-Vader's Custom TIE;DS;Starship;Premiere (R1);4;0
-Bantha;DS;Vehicle;Premiere (U2);4;0
-Lift Tube;DS;Vehicle;Premiere (C2);4;0
-Sandcrawler;DS;Vehicle;Premiere (R2);4;0
-Ubrikkian 9000 Z001;DS;Vehicle;Premiere (C2);4;0
-Assault Rifle;DS;Weapon;Premiere (R2);4;0
-Blaster Rifle;DS;Weapon;Premiere (C2);4;0
-Boosted TIE Cannon;DS;Weapon;Premiere (U1);4;0
-Dark Jedi Lightsaber;DS;Weapon;Premiere (U1);4;0
-Gaderffii Stick;DS;Weapon;Premiere (C2);4;0
-Han Seeker;DS;Weapon;Premiere (R2);4;0
-Imperial Blaster;DS;Weapon;Premiere (C2);4;0
-Ion Cannon;DS;Weapon;Premiere (U1);4;0
-Laser Projector;DS;Weapon;Premiere (U2);4;0
-Light Repeating Blaster Rifle;DS;Weapon;Premiere (R1);4;0
+Lt. Pol Treidum;DS;Character;A New Hope (C1);4;0
+Lt. Shann Childsen;DS;Character;A New Hope (U1);4;0
 Luke Seeker;DS;Weapon;Premiere (R2);4;0
-Timer Mine;DS;Weapon;Premiere (C2);4;0
-Turbolaser Battery;DS;Weapon;Premiere (R2);4;0
-Vader's Lightsaber;DS;Weapon;Premiere (R1);4;0
-2X-3KPR (Tooex);LS;Character;Premiere (U1);4;0
-Beru Lars;LS;Character;Premiere (U2);4;0
-Biggs Darklighter;LS;Character;Premiere (R2);4;0
-BoShek;LS;Character;Premiere (U1);4;0
-C-3PO (See-Threepio);LS;Character;Premiere (R1);4;0
-CZ-3 (Seezee-Three);LS;Character;Premiere (C2);4;0
-Dice Ibegon;LS;Character;Premiere (R2);4;0
-Dutch;LS;Character;Premiere (R1);4;0
-Fifrin D'an;LS;Character;Premiere (U2);4;0
-General Dodonna;LS;Character;Premiere (U1);4;0
-Han Solo;LS;Character;Premiere (R1);4;0
-Jawa;LS;Character;Premiere (C2);4;0
-Jek Porkins;LS;Character;Premiere (U1);4;0
-Kabe;LS;Character;Premiere (U1);4;0
-Kal'Falnl C'ndros;LS;Character;Premiere (R1);4;0
-Leesub Sirln;LS;Character;Premiere (R2);4;0
-Leia Organa;LS;Character;Premiere (R1);4;0
-LIN-V8K (Elleyein-Veeatekay);LS;Character;Premiere (C1);4;0
 Luke Skywalker;LS;Character;Premiere (R1);4;0
+Luke's Back;LS;Interrupt;Premiere (U2);4;0
+Luke's Cape;LS;Effect;A New Hope (R1);4;0
+Luke's Hunting Rifle;LS;Weapon;A New Hope (U1);4;0
+Luke's T-16 Skyhopper;LS;Vehicle;Free Jedi Pack (P);4;0
+Luke's X-34 Landspeeder;LS;Vehicle;Premiere (U1);4;0
+Luke;LS;Character;Premiere Introductory 2-Player Game (P);4;0
+Luke? Luuuuke!;DS;Effect;Premiere (U1);4;0
+M'iiyoom Onith;DS;Character;Premiere (U2);5;0
+M-HYD 'Binary' Droid;LS;Character;A New Hope (U1);4;0
+Macroscan;DS;Effect;Premiere (C2);4;0
+Magnetic Suction Tube;DS;Device;A New Hope (R2);4;0
+Magnetic Suction Tube;LS;Device;A New Hope (R2);4;0
+Maneuver Check;DS;Effect;A New Hope (R2);4;0
+Mantellian Savrip;LS;Effect;Premiere (U1);4;0
+Merc Sunlet;LS;Effect;A New Hope (C2);4;0
+Millennium Falcon;LS;Starship;Premiere (R1);4;0
+Mobquet A-1 Deluxe Floater;DS;Vehicle;A New Hope (C2);4;0
+Molator;DS;Effect;Premiere (R1);4;0
 Momaw Nadon;LS;Character;Premiere (U2);4;0
+Moment of Triumph;DS;Interrupt;Premiere (R2);4;0
+Monnok;DS;Interrupt;A New Hope (C2);4;0
+Mosep;DS;Character;A New Hope (U2);4;0
+Motti Seeker;LS;Weapon;A New Hope (R2);4;0
+Motti;DS;Character;Free Jedi Pack (P);4;0
+Move Along...;LS;Interrupt;Premiere (R1);4;0
+MSE-6 'Mouse' Droid;DS;Character;Premiere (U1);4;0
+Myo;DS;Character;Premiere (R2);4;0
+Nabrun Leids;LS;Interrupt;Premiere (U2);4;0
+Nalan Cheel;LS;Character;A New Hope (U2);4;0
+Narrow Escape;LS;Interrupt;Premiere (C2);4;0
+Nevar Yalnal;DS;Interrupt;Premiere (R2);4;0
+Ng'ok;DS;Interrupt;A New Hope (C2);4;0
+Nightfall;LS;Effect;Premiere (U1);4;0
+Noble Sacrifice;LS;Interrupt;Premiere (R2);4;0
 Obi-Wan Kenobi;LS;Character;Premiere (R1);4;0
+Obi-Wan's Cape;LS;Effect;Premiere (R1);4;0
+Obi-Wan's Lightsaber;LS;Weapon;Premiere (R1);4;0
+Observation Holocam;DS;Device;Premiere (U2);4;0
+Officer Evax;DS;Character;A New Hope (C1);4;0
+Old Ben;LS;Interrupt;Premiere (C2);4;0
+Ommni Box;DS;Interrupt;Premiere (C2);4;0
+On The Edge;LS;Interrupt;Premiere (R2);4;0
+Oo-ta Goo-ta, Solo?;DS;Interrupt;A New Hope (C2);4;0
+Organa's Ceremonial Necklace;DS;Effect;Premiere (R1);4;0
+Our Most Desperate Hour;LS;Effect;Premiere (R1);4;0
+Out Of Commission;LS;Interrupt;A New Hope (U2);4;0
+Out Of Nowhere;LS;Interrupt;Premiere (U2);4;0
+Overload;DS;Interrupt;Premiere (C2);4;0
 Owen Lars;LS;Character;Premiere (U1);4;0
+Panic;LS;Interrupt;Premiere (U1);4;0
+Physical Choke;DS;Interrupt;Premiere (R1);4;0
+Plastoid Armor;LS;Effect;Premiere (U2);4;0
+Ponda Baba;DS;Character;Premiere (U1);4;0
 Pops;LS;Character;Premiere (U1);4;0
+Precise Attack;DS;Interrupt;Premiere (C2);4;0
+Presence Of The Force;DS;Effect;Premiere (R1);4;0
+Program Trap;DS;Effect;A New Hope (U1);4;0
+Prophetess;DS;Character;Premiere (U1);4;0
+Proton Torpedoes;LS;Weapon;Premiere (C2);4;0
+Quad Laser Cannon;LS;Weapon;Premiere (U1);4;0
+Quite A Mercenary;LS;Interrupt;A New Hope (C2);4;0
+R1-G4 (Arone-Geefour);DS;Character;Premiere (C2);4;0
+R2-D2 (Artoo-Detoo);LS;Character;A New Hope (R2);4;0
+R2-Q2 (Artoo-Kyootoo);DS;Character;A New Hope (C2);4;0
 R2-X2 (Artoo-Extoo);LS;Character;Premiere (C2);4;0
+R3-T6 (Arthree-Teesix);DS;Character;A New Hope (R1);4;0
 R4-E1 (Arfour-Eeone);LS;Character;Premiere (C2);4;0
+R4-M9 (Arfour-Emmnine);DS;Character;Premiere (C2);4;0
+R5-A2 (Arfive-Aytoo);DS;Character;A New Hope (C2);4;0
+R5-D4 (Arfive-Defour);LS;Character;A New Hope (C2);4;0
+RA-7 (Aray-Seven);LS;Character;A New Hope (C2);4;0
+Radar Scanner;LS;Interrupt;Premiere (C2);4;0
+Ralltiir;DS;Location;A New Hope (C1);4;0
+Ralltiir;LS;Location;A New Hope (C1);4;0
+Reactor Terminal;DS;Effect;Premiere (U2);4;0
+Rebel Barrier;LS;Interrupt;Premiere (C2);4;0
+Rebel Commander;LS;Character;A New Hope (C2);4;0
 Rebel Guard;LS;Character;Premiere (C2);4;0
 Rebel Pilot;LS;Character;Premiere (C2);4;0
+Rebel Planners;LS;Effect;Premiere (R2);4;0
+Rebel Reinforcements;LS;Interrupt;Premiere (C1);4;0
+Rebel Squad Leader;LS;Character;A New Hope (C3);4;0
+Rebel Tech;LS;Character;A New Hope (C1);4;0
 Rebel Trooper;LS;Character;Premiere (C3);4;0
+Rectenna;LS;Device;A New Hope (C2);4;0
+Red 1;LS;Starship;Premiere (U1);4;0
+Red 2;LS;Starship;A New Hope (R1);4;0
+Red 3;LS;Starship;Premiere (R2);4;0
+Red 5;LS;Starship;A New Hope (R1);4;0
+Red 6;LS;Starship;A New Hope (U1);4;0
+Red Leader in Red 1;LS;Starship;Rebel Leader Pack (P);4;0
 Red Leader;LS;Character;Premiere (R1);4;0
+Reegesk;DS;Character;A New Hope (U2);4;0
+Remote;LS;Device;A New Hope (C2);4;0
+Reserve Pilot;DS;Character;A New Hope (U1);4;0
+Restraining Bolt;DS;Device;Premiere (C2);4;0
+Restraining Bolt;LS;Device;Premiere (C2);4;0
+Restricted Deployment;LS;Effect;Premiere (U1);4;0
+Retract The Bridge;DS;Interrupt;A New Hope (R1);4;0
+Return Of A Jedi;LS;Interrupt;Premiere (U2);4;0
+Revolution;LS;Effect;Premiere (R1);4;0
+Rodian;DS;Character;A New Hope (C2);4;0
+Rogue Bantha;LS;Vehicle;A New Hope (U1);4;0
+Run Luke, Run!;LS;Interrupt;Premiere Introductory 2-Player Game (P);4;0
+Rycar Ryjerd;LS;Effect;Premiere (U1);4;0
+Sabotage;LS;Interrupt;A New Hope (U1);4;0
+Sai'torr Kal Fas;LS;Effect;Premiere (C2);4;0
+Sandcrawler: Droid Junkheap;DS;Location;A New Hope (R1);4;0
+Sandcrawler: Loading Bay;LS;Location;A New Hope (R1);4;0
+Sandcrawler;DS;Vehicle;Premiere (R2);4;0
+Sandcrawler;LS;Vehicle;Premiere (R2);4;0
+Saurin;LS;Character;A New Hope (C2);4;0
+Scanner Techs;LS;Effect;A New Hope (U1);4;0
+Scanning Crew;DS;Interrupt;Premiere (C2);8;0
+Scomp Link Access;LS;Interrupt;Premiere (C2);4;0
+Send A Detachment Down;DS;Effect;Premiere (R1);4;0
+Sense;DS;Interrupt;Premiere (U1);8;0
+Sense;LS;Interrupt;Premiere (U1);11;0
+Sensor Panel;LS;Device;A New Hope (U1);4;0
+Set For Stun;DS;Interrupt;Premiere (C2);4;0
 Shistavanen Wolfman;LS;Character;Premiere (C2);4;0
+Skywalkers;LS;Interrupt;Premiere (R1);4;0
+Sniper;DS;Interrupt;A New Hope (U1);4;0
+Solo Han;LS;Interrupt;Premiere (R2);4;0
+Solomahal;LS;Effect;A New Hope (C2);4;0
+SoroSuub V-35 Landspeeder;LS;Vehicle;Premiere (C2);4;0
+Sorry About The Mess;LS;Interrupt;A New Hope (U1);4;0
+Spaceport Speeders;LS;Interrupt;Premiere (U2);4;0
+Special Modifications;LS;Effect;Premiere (U1);4;0
+Spice Mines Of Kessel;DS;Effect;A New Hope (R1);4;0
+Stormtrooper Backpack;DS;Device;Premiere (C2);4;0
+Stormtrooper Utility Belt;DS;Device;Premiere (C2);4;0
+Stormtrooper;DS;Character;Premiere (C3);4;0
+Stunning Leader;DS;Interrupt;A New Hope (C2);4;0
+Sunsdown;DS;Effect;Premiere (U1);4;0
+Superlaser;DS;Weapon;A New Hope (R2);4;0
+Surprise Assault;LS;Interrupt;Premiere (C1);4;0
+SW-4 Ion Cannon;LS;Weapon;A New Hope (R2);4;0
+Swilla Corey;DS;Effect;A New Hope (C2);4;0
+Tactical Recall;DS;Effect;Premiere (R2);4;0
+Tagge Seeker;LS;Weapon;Premiere (R2);4;0
+Takeel;DS;Interrupt;Premiere (C2);4;0
+Tallon Roll;DS;Interrupt;Premiere (C2);4;0
 Talz;LS;Character;Premiere (C2);4;0
+Tantive IV;LS;Starship;A New Hope (R1);4;0
+Targeting Computer;LS;Device;Premiere (U1);4;0
+Tarkin Seeker;LS;Weapon;Premiere (R2);4;0
+Tarkin;DS;Character;Free Jedi Pack (P);4;0
+Tatooine Utility Belt;LS;Device;Premiere (C2);4;0
+Tatooine: Bluffs;DS;Location;A New Hope (R1);4;0
+Tatooine: Cantina;DS;Location;Premiere (R2);4;0
+Tatooine: Cantina;LS;Location;Premiere (R2);4;0
+Tatooine: Docking Bay 94;DS;Location;Premiere (C2);4;0
+Tatooine: Docking Bay 94;LS;Location;Premiere (C2);4;0
+Tatooine: Dune Sea;LS;Location;Premiere (C1);4;0
+Tatooine: Jawa Camp;DS;Location;Premiere (C1);4;0
+Tatooine: Jawa Camp;LS;Location;Premiere (C1);4;0
+Tatooine: Jundland Wastes;DS;Location;Premiere (C1);4;0
+Tatooine: Lars' Moisture Farm;DS;Location;Premiere (U2);4;0
+Tatooine: Lars' Moisture Farm;LS;Location;Premiere (C1);4;0 // Intro 2-player set has wrong text
+Tatooine: Mos Eisley;DS;Location;Premiere (C1);4;0
+Tatooine: Mos Eisley;LS;Location;Premiere (U2);4;0
+Tatooine: Obi-Wan's Hut;LS;Location;Premiere (R1);4;0
+Tatooine;DS;Location;Premiere (C2);4;0
+Tatooine;LS;Location;Premiere (C2);4;0
+Tech Mo'r;DS;Character;A New Hope (U2);4;0
+Tedn Dahai;LS;Character;Free Jedi Pack (P);4;0
+Tentacle;DS;Effect;A New Hope (C2);4;0
+Thank The Maker;LS;Interrupt;Premiere (R2);4;0
+The Bith Shuffle;LS;Interrupt;Premiere (C2);4;0
+The Circle Is Now Complete;DS;Interrupt;Premiere (R1);4;0
+The Empire's Back;DS;Interrupt;Premiere (U1);4;0
+The Force Is Strong With This One;LS;Interrupt;Premiere (R2);4;0
+There'll Be Hell To Pay;DS;Effect;A New Hope (U2);4;0
+They're on Dantooine;LS;Effect;A New Hope (R1);4;0
+This Is All Your Fault;LS;Interrupt;Premiere (U1);4;0
+This Is Some Rescue!;DS;Interrupt;A New Hope (U1);4;0
+TIE Advanced x1;DS;Starship;Premiere (U2);4;0
+TIE Assault Squadron;DS;Starship;A New Hope (U1);4;0
+TIE Fighter;DS;Starship;Premiere (C2);4;0
+TIE Scout;DS;Starship;Premiere (C2);4;0
+TIE Vanguard;DS;Starship;A New Hope (C2);4;0
+Timer Mine;DS;Weapon;Premiere (C2);4;0
+Timer Mine;LS;Weapon;Premiere (C2);4;0
+Tiree;LS;Character;A New Hope (U2);4;0
+Tonnika Sisters;DS;Character;Premiere (R1);4;0
+Tractor Beam;DS;Device;A New Hope (U1);4;0
+Traffic Control;LS;Effect;Premiere (U2);4;0
+Trinto Duaba;DS;Interrupt;Premiere (U1);4;0
+Trooper Charge;DS;Interrupt;Premiere (U2);4;0
+Trooper Davin Felth;DS;Character;A New Hope (R2);4;0
+Turbolaser Battery;DS;Weapon;Premiere (R2);4;0
+Tusken Breath Mask;LS;Effect;Premiere (U1);4;0
+Tusken Raider;DS;Character;Premiere (C2);4;0
+Tusken Scavengers;DS;Interrupt;Premiere (C2);4;0
+Tzizvvt;LS;Character;A New Hope (R2);4;0
+U-3PO (Yoo-Threepio);DS;Character;A New Hope (R1);4;0
+Ubrikkian 9000 Z001;DS;Vehicle;Premiere (C2);4;0
+Undercover;DS;Effect;A New Hope (U2);4;0
+Undercover;LS;Effect;A New Hope (U2);4;0
+URoRRuR'R'R's Hunting Rifle;DS;Weapon;A New Hope (U1);4;0
+URoRRuR'R'R;DS;Character;A New Hope (U2);4;0
+Utinni!;DS;Interrupt;Premiere (R1);4;0
+Utinni!;LS;Interrupt;Premiere (R1);4;0
+Vader's Custom TIE;DS;Starship;Premiere (R1);4;0
+Vader's Eye;DS;Interrupt;Premiere (R1);4;0
+Vader's Lightsaber;DS;Weapon;Premiere (R1);4;0
+Vader's Obsession;DS;Interrupt;Premiere Introductory 2-Player Game (P);4;0
+Vader;DS;Character;Premiere Introductory 2-Player Game (P);4;0
+Vaporator;LS;Device;Premiere (C2);4;0
+Verka Mig;LS;Effect;Premiere (U1);4;0
+Victory-Class Star Destroyer;DS;Starship;A New Hope (U1);4;0
+Warrior's Courage;LS;Interrupt;Premiere (R2);4;0
+We Have A Prisoner;DS;Interrupt;A New Hope (C2);4;0
+We're All Gonna Be A Lot Thinner!;DS;Interrupt;Premiere (R1);4;0
+We're Doomed;LS;Interrupt;Premiere (C2);4;0
 WED-9-M1 'Bantha' Droid;LS;Character;Premiere (R2);4;0
+WED15-1662 'Treadwell' Droid;DS;Character;Premiere (R2);4;0
+WED15-17 'Septoid' Droid;DS;Character;A New Hope (U2);4;0
+Wedge Antilles;LS;Character;A New Hope (R1);4;0
+What're You Trying' To Push On Us?;LS;Effect;A New Hope (U2);4;0
 Wioslea;LS;Character;Premiere (U1);4;0
+Wookiee Roar;LS;Interrupt;A New Hope (R1);4;0
+Wrong Turn;DS;Effect;Premiere (U1);4;0
+Wuher;DS;Character;Premiere (U2);4;0
+X-wing;LS;Starship;Premiere (C2);4;0
+Y-wing Assault Squadron;LS;Starship;A New Hope (U1);4;0
+Y-wing;LS;Starship;Premiere (C2);4;0
+Yavin 4: Briefing Room;LS;Location;A New Hope (U1);4;0
+Yavin 4: Docking Bay;DS;Location;Premiere (C2);4;0
+Yavin 4: Docking Bay;LS;Location;Premiere (C2);4;0
+Yavin 4: Jungle;DS;Location;Premiere (U2);4;0
+Yavin 4: Jungle;LS;Location;Premiere (C1);4;0
+Yavin 4: Massassi Ruins;LS;Location;A New Hope (U1);4;0
+Yavin 4: Massassi Throne Room;LS;Location;Premiere (R1);4;0
+Yavin 4: Massassi War Room;LS;Location;Premiere (U2);4;0
+Yavin 4;DS;Location;Premiere (C2);4;0
+Yavin 4;LS;Location;Premiere (C2);4;0
+Yavin Sentry;LS;Effect;Premiere (U2);4;0
+You Overestimate Their Chances;DS;Interrupt;Premiere (C1);4;0
+You're All Clear Kid!;LS;Interrupt;A New Hope (R1);4;0
+Your Eyes Can Deceive You;DS;Effect;Premiere (U1);4;0
+Your Power Are Weak, Old Man;DS;Interrupt;Premiere (R1);4;0
+Zutton;LS;Character;A New Hope (C1);4;0

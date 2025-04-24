@@ -700,6 +700,7 @@ Sarjenka;Dilemma;Planet;Premiere;2053,6256,6619,6982,7904;;4;1
 Sarod;Personnel;Non-Aligned;The Motion Pictures;333,7199;;4;0
 Satelk;Personnel;Federation;Premiere;2056,6258,6621,6984,7906,8270;;2;1
 Science Vessel;Ship;Romulan;Premiere;334,4083,6011,6374,6737,7659,8023;;4;1
+Scientific Method;Dilemma;Dual;Rules of Acquisition/Trouble with Tribbles Starter Decks/Virtual Promos;2065,5268,5732;;4;4
 Scout Vessel;Ship;Romulan;Premiere;335,6012,6375,6738,7660;;4;0
 Search for Weapons;Mission;Planet;Starter Deck II;336,4055,4824,7058;;4;0
 Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623,7908;;2;1
@@ -709,7 +710,7 @@ Sela;Personnel;Romulan;Premiere;2089,3578,6262,6625,6988,7910;;2;1
 Selok;Personnel;Romulan;Premiere;339,6013,6376,6739,7661;;4;1
 Sethis;Personnel;Vidiian;Voyager;340;;4;0
 Seventeen of Eighteen;Personnel;Borg;The Borg;341;;4;0
-Shaka, When the Walls Fell;Dilemma;Dual;Premiere;2106,6263,6626,6989,7911;;4;3
+Shaka, When the Walls Fell;Dilemma;Dual;Premiere;2106,6263,6626,6989,7911;;4;4
 Shandor;Personnel;Bajoran;All Good Things;342;;4;0
 Sharic;Personnel;Non-Aligned;The Motion Pictures;343,7200;;4;0
 Shelby;Personnel;Federation;Premiere;2111,4059,6264,6627,6990,7912,8276;;2;1
@@ -732,10 +733,12 @@ Soren;Personnel;Federation;Premiere;2136,6267,6630,6993,7915,8279;;2;1
 Sorum;Personnel;Vidiian;Voyager;358;;4;0
 Soto;Personnel;Non-Aligned;The Dominion;359;;4;0
 Space;Mission;Space;Q Continuum;360;;4;0
+Spatial Rift;Dilemma;Dual;Voyager;2143;;4;4
 Stadi;Personnel;Federation;Voyager;361;;4;0
 Starship Constitution (The Motion Pictures);Ship;Federation;The Motion Pictures;363,7203;;4;0
 Starship Constitution;Ship;Federation;The Trouble with Tribbles;362;;4;0
 Static Warp Bubble;Event;;Premiere;2159,6270,6633,6996,7918;;4;2
+Strange Bedfellows;Dilemma;Dual;Rules of Acquisition;2169;;4;4
 Study "Hole in Space";Mission;Space;Premiere;2174,6272,6635,6998,7920;;2;1
 Study Badlands;Mission;Space;Deep Space 9/Homefront IV;364,4284;;4;0
 Study Plasma Storm;Mission;Space;Deep Space 9;365;;4;0
@@ -747,6 +750,7 @@ Sumek;Personnel;Hirogen;Holodeck Adventures;368;367;4;0
 Suna;Personnel;Non-Aligned;Official Tournament Sealed Deck/Virtual Promos;369,5817,5901;;4;0
 Sunad;Personnel;Non-Aligned;All Good Things;370,4073,2611;;2;0
 Survey Star System;Mission;Space;Deep Space 9/Homefront IV;371;;4;0
+System-Wide Cascade Failure;Dilemma;Dual;Q Continuum;2206;;4;1
 T'Lor;Personnel;Federation;Deep Space 9;399;;4;0
 T'Vor;Personnel;Klingon;Mirror, Mirror;403,4862;;4;0
 Taar;Personnel;Ferengi;Rules of Acquisition/Coming of Age;372;;4;0
@@ -993,16 +997,20 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2050-2051
 #2053
 #2056
+#2065
 #2077
 #2089
 #2106
 #2111
 #2115
 #2136
+#2143
 #2159
+#2169
 #2174
 #2180
 #2192
+#2206
 #2212
 #2218
 #2286
@@ -1160,7 +1168,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5257
 #5259-5260
 #5262-5264
-#5267
+#5267-5268
 #5272-5273
 #5347
 #5429
@@ -1185,7 +1193,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5719
 #5722
 #5728
-#5731
+#5731-5732
 #5809
 #5813-5815
 #5817
