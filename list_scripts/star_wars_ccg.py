@@ -26,7 +26,7 @@ VALID_CARD_TYPES = ['Character', 'Location', 'Device', 'Effect', 'Interrupt', 'S
 VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', ]
 
 SETS = ['Premiere', 'Premiere Introductory 2-Player Game', 'Rebel Leader Pack', 'Free Jedi Pack',
-    'A New Hope']
+    'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', ]
 
 SET_FOLDER_MAP = {
     'Premiere':'01 - Premiere',
