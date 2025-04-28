@@ -46,7 +46,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     "A Line in the Sand", "Gates of Chaos", "Test of the Emerald and Jade Championships",
     "Evil Portents", "Aftermath", "Coils of Madness", "Torn Asunder", "The Shadow's Embrace",
     "Thunderous Acclaim", 'The Imperial Gift 1', 'Siege: Clan War', 'Shattered Empire',
-    "Rise of Jigoku", "Road to Ruin", "Rise of Otosan Uchi",
+    "Rise of Jigoku", "Road to Ruin", "Rise of Otosan Uchi", "Gathering Storms",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',

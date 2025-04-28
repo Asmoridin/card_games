@@ -23,14 +23,15 @@ else:
 
 VALID_CARD_TYPES = ['Character', 'Location', 'Device', 'Effect', 'Interrupt', 'Starship',
     'Vehicle', 'Weapon', 'Creature', 'Epic Event']
-VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', ]
+VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', 'F', ]
 
 SETS = ['Premiere', 'Premiere Introductory 2-Player Game', 'Rebel Leader Pack', 'Free Jedi Pack',
     'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', ]
 
 SET_FOLDER_MAP = {
     'Premiere':'01 - Premiere',
-    'A New Hope':'02 - A New Hope'
+    'A New Hope':'02 - A New Hope',
+    'Hoth':'03 - Hoth',
 }
 
 def parse_sets(this_card_name, set_string):
@@ -316,6 +317,14 @@ if __name__=="__main__":
             most_needed_total[card_tuple[0]] = 0
         most_needed_total[card_tuple[0]] += card_tuple[1]
     handle_output("A New Hope", anh_dict, out_file_h)
+
+    # 03 Hoth
+    hoth_dict = process_eras("Hoth", card_lines)
+    for card_tuple in hoth_dict['NEEDED']:
+        if card_tuple[0] not in most_needed_total:
+            most_needed_total[card_tuple[0]] = 0
+        most_needed_total[card_tuple[0]] += card_tuple[1]
+    handle_output("Hoth", hoth_dict, out_file_h)
 
     most_needed_total = list(most_needed_total.items())
     double_print("Most needed cards are:", out_file_h)
