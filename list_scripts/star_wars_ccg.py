@@ -22,16 +22,18 @@ else:
     OUT_FILE_NAME = "card_games/output/StarWarsCCGOut.txt"
 
 VALID_CARD_TYPES = ['Character', 'Location', 'Device', 'Effect', 'Interrupt', 'Starship',
-    'Vehicle', 'Weapon', 'Creature', 'Epic Event']
-VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', 'F', ]
+    'Vehicle', 'Weapon', 'Creature', 'Epic Event', 'Jedi Test', ]
+VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', 'F', 'C', 'U', 'R', ]
 
 SETS = ['Premiere', 'Premiere Introductory 2-Player Game', 'Rebel Leader Pack', 'Free Jedi Pack',
-    'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', ]
+    'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', 'Dagobah',
+    "Jabba's Palace", ]
 
 SET_FOLDER_MAP = {
     'Premiere':'01 - Premiere',
     'A New Hope':'02 - A New Hope',
     'Hoth':'03 - Hoth',
+    'Dagobah':'04 - Dagobah'
 }
 
 def parse_sets(this_card_name, set_string):
@@ -326,7 +328,16 @@ if __name__=="__main__":
         most_needed_total[card_tuple[0]] += card_tuple[1]
     handle_output("Hoth", hoth_dict, out_file_h)
 
+    # 03 Dagobah
+    dago_dict = process_eras("Dagobah", card_lines)
+    for card_tuple in dago_dict['NEEDED']:
+        if card_tuple[0] not in most_needed_total:
+            most_needed_total[card_tuple[0]] = 0
+        most_needed_total[card_tuple[0]] += card_tuple[1]
+    handle_output("Dagobah", dago_dict, out_file_h)
+
     most_needed_total = list(most_needed_total.items())
+    most_needed_total = sorted(most_needed_total, key=lambda x:(-1 * x[1], x[0]))
     double_print("Most needed cards are:", out_file_h)
     for pr_card_tuple in most_needed_total[:10]:
         double_print(f" - {pr_card_tuple[0]}: {pr_card_tuple[1]}", out_file_h)
