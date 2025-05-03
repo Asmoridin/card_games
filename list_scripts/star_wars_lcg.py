@@ -7,7 +7,7 @@ of the larger CCG system.
 """
 
 import os
-
+from itertools import combinations
 from steve_utils.output_utils import double_print
 
 GAME_NAME = "Star Wars LCG"
@@ -35,12 +35,23 @@ obj_lines = file_h.readlines()
 file_h.close()
 obj_lines = [line.strip() for line in obj_lines]
 objectives = {}
+obj_count = {}
+obj_side = {}
 for obj_line in obj_lines:
-    obj_name, obj_affil, obj_set, obj_max = obj_line.split(';')
+    AFF_ONLY = "No"
+    if obj_line.count(';') == 3:
+        obj_name, obj_affil, obj_set, obj_max = obj_line.split(';')
+    else:
+        obj_name, obj_affil, obj_set, obj_max, AFF_ONLY = obj_line.split(';')
     if obj_affil not in VALID_AFFILIATIONS:
         print(f"{obj_name} has an invalid affiliation of {obj_affil}")
     obj_max = int(obj_max)
     objectives[obj_name] = (obj_affil, obj_set, obj_max)
+    obj_count[obj_name] = 0
+    if obj_affil in ['Imperial Navy', 'Sith', 'Dark Neutral', 'Scum and Villainy']:
+        obj_side[obj_name] = 'DS'
+    else:
+        obj_side[obj_name] = 'LS'
 
 def get_index(in_deck):
     """
@@ -54,13 +65,14 @@ def get_index(in_deck):
         if objective_set_name not in objectives:
             print(f"Need data on {objective_set_name}")
         else:
+            obj_count[objective_set_name] += 1
             if obj_set_qty > objectives[objective_set_name][2]:
                 print(f"{in_deck['Deck Name']} has a likely illegal amount of objective " + \
                     f"set {objective_set_name}")
             this_card_set = objectives[objective_set_name][1]
             if this_card_set == 'Core Set':
                 pass
-            elif this_card_set in ['The Desolation of Hoth', 'The Search for Skywalker',
+            elif this_card_set in ['The Desolation of Hoth', 'The Search For Skywalker',
                     'A Dark Time', 'Assault on Echo Base', 'The Battle of Hoth',
                     'Escape from Hoth', 'Edge of Darkness']:
                 ret_index = max(ret_index, 1)
@@ -108,6 +120,12 @@ def read_deck(in_deck_lines, deck_name):
         if this_deck_line == "Affiliation: Jedi":
             ret_deck['Affiliation'] = "Jedi"
             continue
+        if this_deck_line == "Affiliation: Rebel Alliance":
+            ret_deck['Affiliation'] = "Rebel Alliance"
+            continue
+        if this_deck_line == "Affiliation: Scum and Villainy":
+            ret_deck['Affiliation'] = "Scum and Villainy"
+            continue
         try:
             deck_obj_qty = int(this_deck_line.split(' ')[0])
             deck_obj = ' '.join(this_deck_line.split(' ')[1:])
@@ -123,8 +141,20 @@ def read_deck(in_deck_lines, deck_name):
         double_print(no_affil_str, out_fh)
     return ret_deck
 
+def compare_decks(list_of_decks):
+    """
+    Do an analysis of each deck to determine if any decks are the same
+    """
+    check_combos = list(combinations(list_of_decks, 2))
+    for combo in check_combos:
+        if combo[0]['Objectives'] == combo[1]['Objectives']:
+            print("Duplicate?:")
+            print(combo[0]['Deck Name'])
+            print(combo[1]['Deck Name'])
+
 for side in os.listdir(DECK_DIR):
     DECK_ERA_CHECK = -1
+    side_decks = []
     for deck_era in os.listdir(DECK_DIR + "/" + side):
         DECK_ERA_CHECK += 1
         era_dir = DECK_DIR + "/" + side + "/" + deck_era
@@ -135,8 +165,18 @@ for side in os.listdir(DECK_DIR):
             deck_fh.close()
             deck_lines = [line.strip() for line in deck_lines]
             this_deck = read_deck(deck_lines, side + "/" + deck_era + "/" + deck_filename)
+            side_decks.append(this_deck)
             MAX_INDEX = get_index(this_deck)
             if MAX_INDEX > DECK_ERA_CHECK:
                 full_deck_name = side + "/" + deck_era + "/" + deck_filename
                 print(f"Deck {full_deck_name} needs to move to a higher category - in " + \
                     f"{CYCLES[DECK_ERA_CHECK]}, should be {CYCLES[MAX_INDEX]}")
+    compare_decks(side_decks)
+
+PRINTED_HEADER = False
+for obj_set_name, obj_set_amount in sorted(obj_count.items()):
+    if obj_set_amount == 0:
+        if not PRINTED_HEADER:
+            double_print("Unused objective sets:", out_fh)
+            PRINTED_HEADER = True
+        double_print(f" - {obj_set_name} ({obj_side[obj_set_name]})", out_fh)
