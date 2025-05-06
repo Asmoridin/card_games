@@ -6892,7 +6892,7 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 63646 (no card)
+# Done through card 63761 (no card)
 #72682
 Demon's Horn;Artifact;C;Ninth Edition (Uncommon)/Darksteel (Uncommon)/Tenth Edition (Uncommon)/Duel Decks: Divine vs. Demonic (Uncommon)/Magic 2010 (Uncommon)/Magic 2011 (Uncommon)/Magic 2012 (Uncommon)/Duel Decks Anthology, Divine vs. Demonic (Uncommon);0
 #72683
@@ -11553,6 +11553,8 @@ Windcrag Siege;Enchantment;R/W;Tarkir: Dragonstorm (Rare);1
 Dalkovan Encampment;Land;C;Tarkir: Dragonstorm (Rare);1
 #693392
 Great Arashin City;Land;C;Tarkir: Dragonstorm (Rare);1
+#693393
+Kishla Village;Land;C;Tarkir: Dragonstorm (Rare);1
 #693476
 Temur Battlecrier;Creature — Orc Ranger;G/U/R;Tarkir: Dragonstorm (Rare);1
 #693482
@@ -11573,10 +11575,12 @@ Dragonback Lancer;Creature — Human Soldier;W;Tarkir: Dragonstorm (Common);2
 Fortress Kin-Guard;Creature — Dog Soldier;W;Tarkir: Dragonstorm (Common);2
 #693493
 Furious Forebear;Creature — Spirit Warrior;W;Tarkir: Dragonstorm (Uncommon);1
+#693494
+Lightfoot Technique;Instant;W;Tarkir: Dragonstorm (Common);1
 #693495
 Loxodon Battle Priest;Creature — Elephant Cleric;W;Tarkir: Dragonstorm (Uncommon);2
 #693497
-Osseous Exhale;Instant;W;Tarkir: Dragonstorm (Common);1
+Osseous Exhale;Instant;W;Tarkir: Dragonstorm (Common);2
 #693498
 Poised Practitioner;Creature — Human Monk;W;Tarkir: Dragonstorm (Common);4
 #693499
@@ -11602,7 +11606,7 @@ Aegis Sculptor;Creature — Bird Wizard;U;Tarkir: Dragonstorm (Uncommon);1
 #693516
 Agent of Kotis;Creature — Human Rogue;U;Tarkir: Dragonstorm (Common);4
 #693519
-Constrictor Sage;Creature — Snake Wizard;U;Tarkir: Dragonstorm (Uncommon);1
+Constrictor Sage;Creature — Snake Wizard;U;Tarkir: Dragonstorm (Uncommon);2
 #693520
 Dirgur Island Dragon;Creature - Dragon;U;Tarkir: Dragonstorm (Common);4
 #693521
@@ -11614,7 +11618,7 @@ Dragonstorm Forecaster;Creature — Human Scout;U;Tarkir: Dragonstorm (Uncommon)
 #693524
 Essence Anchor;Artifact;U;Tarkir: Dragonstorm (Uncommon);2
 #693527
-Highspire Bell-Ringer;Creature — Djinn Monk;U;Tarkir: Dragonstorm (Common);1
+Highspire Bell-Ringer;Creature — Djinn Monk;U;Tarkir: Dragonstorm (Common);2
 #693528
 Humbling Elder;Creature — Human Monk;U;Tarkir: Dragonstorm (Common);2
 #693529
@@ -11690,7 +11694,7 @@ Unburied Earthcarver;Creature — Human Warrior;B;Tarkir: Dragonstorm (Common);3
 #693576
 Unrooted Ancestor;Creature — Spirit Cleric;B;Tarkir: Dragonstorm (Uncommon);1
 #693579
-Worthy Cost;Sorcery;B;Tarkir: Dragonstorm (Common);1
+Worthy Cost;Sorcery;B;Tarkir: Dragonstorm (Common);2
 #693581
 Breaching Dragonstorm;Enchantment;R;Tarkir: Dragonstorm (Uncommon);1
 #693582
@@ -11704,7 +11708,7 @@ Jeskai Devotee;Creature — Orc Monk;R;Tarkir: Dragonstorm (Common);3
 #693591
 Magmatic Hellkite;Creature — Dragon;R;Tarkir: Dragonstorm (Rare);1
 #693593
-Molten Exhale;Sorcery;R;Tarkir: Dragonstorm (Common);1
+Molten Exhale;Sorcery;R;Tarkir: Dragonstorm (Common);2
 #693594
 Narset's Rebuke;Instant;R;Tarkir: Dragonstorm (Common);3
 #693596
@@ -11742,11 +11746,13 @@ Champion of Dusan;Creature — Human Warrior;G;Tarkir: Dragonstorm (Common);4
 #693619
 Dragon Sniper;Creature — Human Archer;G;Tarkir: Dragonstorm (Uncommon);1
 #693620
-Dragonbroods' Relic;Artifact;G;Tarkir: Dragonstorm (Uncommon);2
+Dragonbroods' Relic;Artifact;G;Tarkir: Dragonstorm (Uncommon);3
 #693621
 Dusyut Earthcarver;Creature — Elephant Druid;G;Tarkir: Dragonstorm (Common);2
 #693622
 Encroaching Dragonstorm;Enchantment;G;Tarkir: Dragonstorm (Uncommon);2
+#693623
+Formation Breaker;Creature — Beast;G;Tarkir: Dragonstorm (Uncommon);1
 #693624
 Herd Heirloom;Artifact;G;Tarkir: Dragonstorm (Rare);1
 #693625
@@ -11754,7 +11760,7 @@ Heritage Reclamation;Instant;G;Tarkir: Dragonstorm (Common);3
 #693627
 Knockout Maneuver;Sorcery;G;Tarkir: Dragonstorm (Uncommon);1
 #693628
-Krotiq Nestguard;Creature — Insect;G;Tarkir: Dragonstorm (Common);2
+Krotiq Nestguard;Creature — Insect;G;Tarkir: Dragonstorm (Common);3
 #693630
 Nature's Rhythm;Sorcery;G;Tarkir: Dragonstorm (Rare);1
 #693631
@@ -11788,7 +11794,7 @@ Auroral Procession;Instant;G/U;Tarkir: Dragonstorm (Uncommon);1
 #693653
 Bone-Cairn Butcher;Creature — Demon;B/R/W;Tarkir: Dragonstorm (Uncommon);1
 #693655
-Cori Mountain Stalwart;Creature — Human Monk;R/W;Tarkir: Dragonstorm (Uncommon);1
+Cori Mountain Stalwart;Creature — Human Monk;R/W;Tarkir: Dragonstorm (Uncommon);2
 #693657
 Defibrillating Current;Sorcery;R/W/B;Tarkir: Dragonstorm (Uncommon);1
 #693658
@@ -11830,7 +11836,7 @@ Reputable Merchant;Creature — Human Citizen;W/B/G;Tarkir: Dragonstorm (Common)
 #693699
 Riverwheel Sweep;Sorcery;U/R/W;Tarkir: Dragonstorm (Uncommon);2
 #693709
-Temur Tawnyback;Creature — Beast;G/U/R;Tarkir: Dragonstorm (Common);1
+Temur Tawnyback;Creature — Beast;G/U/R;Tarkir: Dragonstorm (Common);2
 #693712
 Twinmaw Stormbrood;Creature - Dragon;W;Tarkir: Dragonstorm (Uncommon);1
 #693714
@@ -11848,7 +11854,7 @@ Jade-Cast Sentinel;Artifact Creature — Ape Snake;C;Tarkir: Dragonstorm (Common
 #693724
 Jeskai Monument;Artifact;C;Tarkir: Dragonstorm (Uncommon);1
 #693727
-Sultai Monument;Artifact;C;Tarkir: Dragonstorm (Uncommon);1
+Sultai Monument;Artifact;C;Tarkir: Dragonstorm (Uncommon);2
 #693729
 Watcher of the Wayside;Artifact Creature — Golem;C;Tarkir: Dragonstorm (Common);3
 #693740
