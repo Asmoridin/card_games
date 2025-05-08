@@ -43,9 +43,12 @@ class Deck:
         self.wins = 0
         self.losses = 0
     def __str__(self):
-        return "Deck: %s, Houses: %s, Record: %d-%d, Note: %s" % (self.name, ', '.join(self.houses), self.wins, self.losses, self.deck_note)
-    
-def getDeck(name):
+        return f"Deck: {self.name}, Houses: {', '.join(self.houses)}, Record: {self.wins}-{self.losses}, Note: {self.deck_note}"
+
+def get_deck(name):
+    """
+    Return a deck object, found by the name of the deck
+    """
     for deck in my_decks:
         if deck.name == name or deck.short_name == name:
             return deck
@@ -59,7 +62,7 @@ for deck in deck_lines:
     my_decks.append(Deck(deck_short_name, deck_name, game_set, deck_houses, deck_note))
 for wl in wl_lines:
     short_deck_name, games, wins = wl.split(';')
-    this_deck = getDeck(short_deck_name)
+    this_deck = get_deck(short_deck_name)
     this_deck.games = int(games)
     this_deck.wins = int(wins)
     this_deck.losses = int(games) - int(wins)
