@@ -126,6 +126,9 @@ def read_deck(in_deck_lines, deck_name):
         if this_deck_line == "Affiliation: Scum and Villainy":
             ret_deck['Affiliation'] = "Scum and Villainy"
             continue
+        if this_deck_line == "Affiliation: Sith":
+            ret_deck['Affiliation'] = "Sith"
+            continue
         try:
             deck_obj_qty = int(this_deck_line.split(' ')[0])
             deck_obj = ' '.join(this_deck_line.split(' ')[1:])

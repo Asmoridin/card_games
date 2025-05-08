@@ -27,7 +27,7 @@ VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', 'F', 'C', 'U', 
 
 SETS = ['Premiere', 'Premiere Introductory 2-Player Game', 'Rebel Leader Pack', 'Free Jedi Pack',
     'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', 'Dagobah',
-    "Jabba's Palace", 'Cloud City', ]
+    'Cloud City', "Jabba's Palace", ]
 
 SET_FOLDER_MAP = {
     'Premiere':'01 - Premiere',
