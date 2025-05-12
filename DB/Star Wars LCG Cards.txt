@@ -1,0 +1,31 @@
+#card_name;affil;card_type;cost;force_icons;obj_set - quant
+Luke Skywalker;Jedi;Unit;4;3;1-1
+Twi'lek Loyalist;Jedi;Unit;1;1;1-1/4-1
+Jedi Lightsaber;Jedi;Enhancement;1;2;1-1
+Trust Your Feelings;Jedi;Enhancement;2;1;1-1
+Dagobah Training Grounds;Light Neutral;Enchancement;1;0;1-1
+Red Five;Jedi;Unit;3;2;4-1
+R2-D2;Light Neutral;Unit;0;0;4-1
+Double Strike;Jedi;Event;1;1;4-1
+Target of Opportunity;Light Neutral;Fate;0;2;4-1
+Vader's TIE Advanced;Sith;Unit;3;3;21-1
+TIE Advanced;Dark Neutral;Unit;2;1;21-1
+Black Squadron Pilot;Dark Neutral;Unit;2;1;21-1
+I'm On the Leader;Sith;Event;1;1;21-1
+Target of Opportunity;Dark Neutral;Fate;0;2;21-1
+Espo Trooper;Dark Neutral;Unit;0;1;32-5
+A Hero's Journey;Jedi;Objective;;;1-1
+A Journey to Dagobah;Jedi;Objective;;;4-1
+Black Squadron Assault;Sith;Objective;;;21-1
+Corporate Exploitation;Dark Neutral;Objective;;;32-1
+Counsel of the Sith;Sith;Objective;;;20-1
+Advisor to the Emperor;Sith;Unit;2;2;20-1
+Kuati Security Team;Dark Neutral;Unit;2;1;20-1
+Sith Library;Dark Neutral;Enchancement;1;0;20-1
+Dark Precognition;Sith;Event;0;1;20-1
+Twist of Fate;Dark Neutral;Fate;0;0;20-1
+Cruel Interrogations;Sith;Objective;;;24-1
+Interrogation Droid;Sith;Unit;3;2;24-2
+ISB Interrogators;Dark Neutral;Unit;1;1;24-1
+Intimidated;Sith;Enchancement;0;1;24-1
+Interrogation;Sith;Event;2;1;24-1
