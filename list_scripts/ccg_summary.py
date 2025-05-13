@@ -25,6 +25,7 @@ from card_games.list_scripts import magic_gathering
 from card_games.list_scripts import l5r
 from card_games.list_scripts import wars_tcg
 from card_games.list_scripts import xena
+from card_games.list_scripts import star_wars_ccg
 
 if os.getcwd().endswith('card_games'):
     in_file = open("DB/NewCardGames.txt", encoding="UTF-8")
@@ -37,7 +38,8 @@ else:
 
 started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited,
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
-    lorcana, one_piece, magic_gathering, l5r, star_trek_first_edition, wars_tcg, xena]
+    lorcana, one_piece, magic_gathering, l5r, star_trek_first_edition, wars_tcg, xena,
+    star_wars_ccg]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0
