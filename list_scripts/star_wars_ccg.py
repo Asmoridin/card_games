@@ -27,13 +27,16 @@ VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', 'F', 'C', 'U', 
 
 SETS = ['Premiere', 'Premiere Introductory 2-Player Game', 'Rebel Leader Pack', 'Free Jedi Pack',
     'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', 'Dagobah',
-    'Cloud City', "Jabba's Palace", ]
+    'Cloud City', "Jabba's Palace", "Official Tournament Sealed Deck", "Special Edition", ]
 
 SET_FOLDER_MAP = {
     'Premiere':'01 - Premiere',
     'A New Hope':'02 - A New Hope',
     'Hoth':'03 - Hoth',
-    'Dagobah':'04 - Dagobah'
+    'Dagobah':'04 - Dagobah',
+    'Cloud City':'05 - Cloud City',
+    "Jabba's Palace":"06 - Jabba's Palace",
+    "Special Edition":'07 - Special Edition',
 }
 
 def parse_sets(this_card_name, set_string):
@@ -328,13 +331,21 @@ if __name__=="__main__":
         most_needed_total[card_tuple[0]] += card_tuple[1]
     handle_output("Hoth", hoth_dict, out_file_h)
 
-    # 03 Dagobah
+    # 04 Dagobah
     dago_dict = process_eras("Dagobah", card_lines)
     for card_tuple in dago_dict['NEEDED']:
         if card_tuple[0] not in most_needed_total:
             most_needed_total[card_tuple[0]] = 0
         most_needed_total[card_tuple[0]] += card_tuple[1]
     handle_output("Dagobah", dago_dict, out_file_h)
+
+    # 05 Cloud City
+    cc_dict = process_eras("Cloud City", card_lines)
+    for card_tuple in cc_dict['NEEDED']:
+        if card_tuple[0] not in most_needed_total:
+            most_needed_total[card_tuple[0]] = 0
+        most_needed_total[card_tuple[0]] += card_tuple[1]
+    handle_output("Cloud City", cc_dict, out_file_h)
 
     most_needed_total = list(most_needed_total.items())
     most_needed_total = sorted(most_needed_total, key=lambda x:(-1 * x[1], x[0]))
