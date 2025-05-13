@@ -13,11 +13,11 @@ from steve_utils.output_utils import double_print
 GAME_NAME = "Star Wars LCG"
 
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/Star Wars LCG Data.txt', 'r', encoding="UTF-8")
+    file_h = open('DB/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
     DECK_DIR = "Decks/Star Wars LCG"
     OUT_FILE_NAME = "output/Star Wars LCG.txt"
 else:
-    file_h = open('card_games/DB/Star Wars LCG Data.txt', 'r', encoding="UTF-8")
+    file_h = open('card_games/DB/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
     DECK_DIR = "card_games/Decks/Star Wars LCG"
     OUT_FILE_NAME = "card_games/output/Star Wars LCG.txt"
 
