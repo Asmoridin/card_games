@@ -74,6 +74,7 @@ def read_decks(deck_era):
             deck_fh.close()
             deck_lines = [line.strip() for line in deck_lines]
             this_deck = {}
+            total_deck_cards = 0
             for deck_line in deck_lines:
                 if deck_line == '' or deck_line.startswith('#'):
                     continue
@@ -89,6 +90,9 @@ def read_decks(deck_era):
                 if deck_card_name not in this_deck:
                     this_deck[deck_card_name] = 0
                 this_deck[deck_card_name] += deck_card_qty
+                total_deck_cards += deck_card_qty
+            if total_deck_cards != 60:
+                print(f"Deck {deck_name} may not have correct amount of cards: {total_deck_cards}")
             ret_list.append({'name':deck_name, 'list':this_deck})
     return ret_list
 
@@ -346,6 +350,14 @@ if __name__=="__main__":
             most_needed_total[card_tuple[0]] = 0
         most_needed_total[card_tuple[0]] += card_tuple[1]
     handle_output("Cloud City", cc_dict, out_file_h)
+
+    # 06 Jabba's Palace
+    jabba_dict = process_eras("Jabba's Palace", card_lines)
+    for card_tuple in jabba_dict['NEEDED']:
+        if card_tuple[0] not in most_needed_total:
+            most_needed_total[card_tuple[0]] = 0
+        most_needed_total[card_tuple[0]] += card_tuple[1]
+    handle_output("Jabba's Palace", jabba_dict, out_file_h)
 
     most_needed_total = list(most_needed_total.items())
     most_needed_total = sorted(most_needed_total, key=lambda x:(-1 * x[1], x[0]))

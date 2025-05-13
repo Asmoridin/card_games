@@ -1,7 +1,7 @@
 2-1B (Too-Onebee);LS;Character;Hoth (R1);4;0
 2X-3KPR (Tooex);LS;Character;Premiere (U1);4;0
 2X-7KPR (Tooex);DS;Character;Special Edition (C);4;0
-3,720 To 1;DS;Effect;Dagobah (C);4;0
+3,720 To 1;DS;Effect;Dagobah (C);5;0
 4-LOM's Concussion Rifle;DS;Weapon;Dagobah (R);4;0
 4-LOM;DS;Character;Dagobah (R);4;0
 5D6-RA-7 (Fivedesix);DS;Character;Premiere (R1);4;4
@@ -412,7 +412,7 @@ Fear Will Keep Them In Line;DS;Effect;Premiere (R2);4;0
 Fear;DS;Interrupt;Dagobah (C);4;0
 Feltipern Trevagg;DS;Character;Premiere (U1);4;0
 Field Promotion;DS;Effect;Dagobah (R);4;0
-Fifrin D'an;LS;Character;Premiere (U2);4;0
+Figrin D'an;LS;Character;Premiere (U2);4;0
 Fire Extinguisher;LS;Device;A New Hope (U2);4;0
 Firepower;DS;Effect;Special Edition (C);4;0
 First Strike;DS;Effect;Special Edition (U);4;0
@@ -464,7 +464,7 @@ Golan Laser Battery;LS;Weapon;Hoth (U1);4;0
 Gold 1;LS;Starship;Premiere (R2);4;0
 Gold 2;LS;Starship;A New Hope (U1);4;0
 Gold 5;LS;Starship;Premiere (R2);4;0
-Gold Leader in Gold 1;LS;Starship;Rebel Leader Pack (P);4;0
+Gold Leader In Gold 1;LS;Starship;Rebel Leader Pack (P);4;0
 Gold Squadron Y-wing;LS;Starship;Official Tournament Sealed Deck (P);4;0
 Gran;LS;Character;Jabba's Palace (C);4;0
 Grand Moff Tarkin;DS;Character;Premiere (R1);4;0
@@ -623,7 +623,7 @@ Jawa Ion Gun;LS;Weapon;A New Hope (C2);4;0
 Jawa Pack;DS;Effect;Premiere (U1);4;0
 Jawa Siesta;LS;Effect;Premiere (U1);4;0
 Jawa;DS;Character;Premiere (C2);4;2
-Jawa;LS;Character;Premiere (C2);4;2
+Jawa;LS;Character;Premiere (C2);13;2
 Jedi Levitation;LS;Interrupt;Dagobah (R);4;0
 Jedi Lightsaber;LS;Weapon;Premiere (U1);4;0
 Jedi Mind Trick;LS;Interrupt;Jabba's Palace (R);4;0
@@ -775,7 +775,7 @@ Nabrun Leids;LS;Interrupt;Premiere (U2);4;0
 Nal Hutta Operative;DS;Character;Special Edition (C);4;0
 Nal Hutta;DS;Location;Jabba's Palace (R);4;0
 Nalan Cheel;LS;Character;A New Hope (U2);4;0
-Nar Shadda Wind Chimes;LS;Interrupt;Jabba's Palace (U);4;0
+Nar Shaddaa Wind Chimes;LS;Interrupt;Jabba's Palace (U);4;0
 Narrow Escape;LS;Interrupt;Premiere (C2);4;1
 Nebit;DS;Character;Special Edition (R);4;0
 Nevar Yalnal;DS;Interrupt;Premiere (R2);4;0
@@ -789,7 +789,7 @@ Nizuc Bek;DS;Character;Jabba's Palace (R);4;0
 No Bargain;DS;Effect;Special Edition (U);4;0
 No Disintegrations!;LS;Effect;Dagobah (R);4;0
 Noble Sacrifice;LS;Interrupt;Premiere (R2);4;0
-None Shall Pass;DS;Interrupt;Jabba's Palace (C);4;0
+None Shall Pass;DS;Interrupt;Jabba's Palace (C);8;0
 NOOOOOOOOOOOO!;LS;Interrupt;Cloud City (R);4;0
 Nudj;LS;Creature;Dagobah (C);4;0
 Nysad;DS;Character;Jabba's Palace (R);4;0
@@ -918,7 +918,7 @@ Red 2;LS;Starship;A New Hope (R1);4;0
 Red 3;LS;Starship;Premiere (R2);4;0
 Red 5;LS;Starship;A New Hope (R1);4;0
 Red 6;LS;Starship;A New Hope (U1);4;0
-Red Leader in Red 1;LS;Starship;Rebel Leader Pack (P);4;0
+Red Leader In Red 1;LS;Starship;Rebel Leader Pack (P);4;0
 Red Leader;LS;Character;Premiere (R1);4;0
 Red Squadron X-wing;LS;Starship;Official Tournament Sealed Deck (P);4;0
 Redemption;LS;Starship;Cloud City (R);4;0
@@ -1028,7 +1028,7 @@ Solomahal;LS;Effect;A New Hope (C2);4;0
 Someone Who Loves You;LS;Interrupt;Jabba's Palace (U);4;0
 Somersault;LS;Interrupt;Cloud City (C);4;0
 Something Hit Us!;DS;Interrupt;Dagobah (U);4;0
-Son of Skywalker;LS;Character;Dagobah (R);4;0
+Son Of Skywalker;LS;Character;Dagobah (R);4;0
 Sonic Bombardment;DS;Interrupt;Cloud City (U);4;0
 SoroSuub V-35 Landspeeder;LS;Vehicle;Premiere (C2);4;0
 Sorry About The Mess;LS;Interrupt;A New Hope (U1);4;0
@@ -1215,11 +1215,11 @@ Velken Tezeri;DS;Character;Jabba's Palace (R);4;0
 Verka Mig;LS;Effect;Premiere (U1);4;0
 Vibro-Ax;DS;Weapon;Jabba's Palace (C);4;0
 Vibro-Ax;LS;Weapon;Jabba's Palace (C);4;0
-Victory-Class Star Destroyer;DS;Starship;A New Hope (U1);4;0
+Victory-Class Star Destroyer;DS;Starship;A New Hope (U1);7;0
 Vine Snake;DS;Creature;Dagobah (C);4;0
 Vine Snake;LS;Creature;Dagobah (C);4;0
 Visage Of The Emperor;DS;Effect;Dagobah (R);4;0
-Visored Vision;LS;Interrupt;Dagobah (C);4;0
+Visored Vision;LS;Interrupt;Dagobah (C);5;0
 Vizam;DS;Character;Jabba's Palace (R);4;0
 Voyeur;DS;Interrupt;Dagobah (C);4;0
 Vul Tazaene;LS;Character;Jabba's Palace (R);4;0
