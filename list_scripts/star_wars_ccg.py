@@ -29,7 +29,7 @@ SETS = ['Premiere', 'Premiere Introductory 2-Player Game', 'Rebel Leader Pack', 
     'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', 'Dagobah',
     'Cloud City', "Jabba's Palace", "Official Tournament Sealed Deck", "Special Edition",
     'Enhanced Premiere', 'Endor', 'Enhanced Cloud City', "Enhanced Jabba's Palace",
-    'Third Anthology', 'Death Star II', 'Theed Palace',]
+    'Third Anthology', 'Death Star II', 'Reflections II', 'Theed Palace',]
 
 SET_FOLDER_MAP = {
     'Premiere':'01 - Premiere',
