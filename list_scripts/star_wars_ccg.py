@@ -22,13 +22,14 @@ else:
     OUT_FILE_NAME = "card_games/output/StarWarsCCGOut.txt"
 
 VALID_CARD_TYPES = ['Character', 'Location', 'Device', 'Effect', 'Interrupt', 'Starship',
-    'Vehicle', 'Weapon', 'Creature', 'Epic Event', 'Jedi Test', 'Objective']
-VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', 'F', 'C', 'U', 'R', ]
+    'Vehicle', 'Weapon', 'Creature', 'Epic Event', 'Jedi Test', 'Objective', "Admiral's Order"]
+VALID_RARITIES = ['R1', 'R2', 'U1', 'U2', 'C1', 'C2', 'C3', 'P', 'F', 'C', 'U', 'R', 'XR', 'UR']
 
 SETS = ['Premiere', 'Premiere Introductory 2-Player Game', 'Rebel Leader Pack', 'Free Jedi Pack',
     'A New Hope', 'Empire Strikes Back Introductory 2-Player Game', 'Hoth', 'Dagobah',
-    'Cloud City', "Jabba's Palace", "Official Tournament Sealed Deck", "Special Edition", 'Endor',
-    'Death Star II', 'Theed Palace',]
+    'Cloud City', "Jabba's Palace", "Official Tournament Sealed Deck", "Special Edition",
+    'Enhanced Premiere', 'Endor', 'Enhanced Cloud City', "Enhanced Jabba's Palace",
+    'Third Anthology', 'Death Star II', 'Theed Palace',]
 
 SET_FOLDER_MAP = {
     'Premiere':'01 - Premiere',
