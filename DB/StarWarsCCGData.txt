@@ -1,5 +1,5 @@
-2-1B (Too-Onebee);LS;Character;Hoth (R1);4;0
-2X-3KPR (Tooex);LS;Character;Premiere (U1);4;0
+2-1B (Too-Onebee);LS;Character;Hoth (R1);4;4
+2X-3KPR (Tooex);LS;Character;Premiere (U1);4;1
 2X-7KPR (Tooex);DS;Character;Special Edition (C);4;0
 3,720 To 1;DS;Effect;Dagobah (C);5;3
 4-LOM With Concussion Rifle;DS;Character;Enhanced Cloud City (P);4;0
@@ -12,12 +12,12 @@ A Dangerous Time;DS;Interrupt;Dagobah (C);4;3
 A Dark Time For The Rebellion;DS;Interrupt;Hoth (C1);4;1
 A Day Long Remembered;DS;Effect;Special Edition (U);4;0
 A Disturbance In The Force;DS;Effect;Premiere (U1);4;4
-A Few Maneuvers;LS;Interrupt;Premiere (C2);4;0
-A Gift;LS;Effect;Jabba's Palace (U);4;0
+A Few Maneuvers;LS;Interrupt;Premiere (C2);4;4
+A Gift;LS;Effect;Jabba's Palace (U);4;1
 A Jedi's Strength;LS;Jedi Test;Dagobah (U);4;0
 A New Secret Base;LS;Effect;Third Anthology (P);4;0
 A Real Hero;DS;Interrupt;Special Edition (R);4;0
-A Tremor in the Force;LS;Effect;Premiere (U1);4;0
+A Tremor in the Force;LS;Effect;Premiere (U1);4;1
 A280 Sharpshooter Rifle;LS;Weapon;Endor (R);4;0
 Ability, Ability, Ability;DS;Effect;Cloud City (C);4;0
 Abyss;DS;Effect;Cloud City (U);4;0
@@ -29,7 +29,7 @@ Admiral Chiraneau;DS;Character;Death Star II (R);4;0
 Admiral Motti;DS;Character;Premiere (R2);4;4
 Admiral Ozzel;DS;Character;Hoth (R1);4;4
 Admiral Piett;DS;Character;Death Star II (XR);4;0
-Advance Preparation;LS;Interrupt;A New Hope (U1);4;0
+Advance Preparation;LS;Interrupt;A New Hope (U1);4;1
 Advantage;LS;Effect;Cloud City (R);4;0
 Advosze;DS;Character;A New Hope (C2);4;4
 Affect Mind;LS;Effect;Premiere (R1);4;0
@@ -39,15 +39,15 @@ Air-2 Racing Swoop;LS;Vehicle;Special Edition (C);4;0
 Ak-rev;DS;Character;Special Edition (U);4;0
 Alderaan Operative;LS;Character;Special Edition (C);4;0
 Alderaan;DS;Location;Premiere (R1);4;0
-Alderaan;LS;Location;Premiere (U2);4;0
+Alderaan;LS;Location;Premiere (U2);4;4
 Alert My Star Destroyer!;DS;Effect;Special Edition (C);4;0
 All My Urchins;LS;Effect;Cloud City (R);4;0
 All Power To Weapons;DS;Interrupt;Special Edition (C);4;0
 All Too Easy;DS;Effect;Cloud City (R);4;0
-All Wings Report In;LS;Interrupt;Special Edition (R);4;0
+All Wings Report In;LS;Interrupt;Special Edition (R);4;1
 All Wrapped Up;DS;Effect;Jabba's Palace (U);4;1
 Alter;DS;Interrupt;Premiere (U1);5;4
-Alter;LS;Interrupt;Premiere (U1);5;0
+Alter;LS;Interrupt;Premiere (U1);5;1
 Alternatives To Fighting;LS;Interrupt;A New Hope (U1);4;0
 Always Thinking With Your Stomach;DS;Interrupt;Endor (R);4;0
 Amanaman;DS;Character;Jabba's Palace (R);4;0
@@ -55,7 +55,7 @@ Amanin;DS;Character;Jabba's Palace (C);4;1
 Ambush;LS;Interrupt;Cloud City (R);4;0
 An Entire Legion Of My Best Troops;LS;Effect;Endor (U);4;0
 Anakin's Lightsaber;LS;Weapon;Hoth (R1);4;0
-Anger, Fear, Aggression;LS;Effect;Dagobah (C);5;0
+Anger, Fear, Aggression;LS;Effect;Dagobah (C);5;3
 Anoat Operative;DS;Character;Special Edition (C);4;0
 Anoat Operative;LS;Character;Special Edition (C);4;0
 Anoat;DS;Location;Dagobah (U);4;2
@@ -67,40 +67,42 @@ Apology Accepted;DS;Interrupt;Dagobah (C);4;1
 Aqualish;DS;Character;Jabba's Palace (C);4;1
 Aratech Corporation;DS;Effect;Endor (R);4;0
 Arc Welder;LS;Device;Jabba's Palace (U);4;0
-Arcona;LS;Character;A New Hope (C2);4;0
+Arcona;LS;Character;A New Hope (C2);4;3
 Ardon "Vapor" Crell;LS;Character;Jabba's Palace (R);4;0
 Arleil Schous;LS;Character;Official Tournament Sealed Deck (P);4;0
 Armed And Dangerous;LS;Interrupt;Cloud City (U);4;0
 Armored Attack Tank;DS;Vehicle;Theed Palace (U);4;1
 Artillery Remote;LS;Device;Hoth (R2);4;0
 Artoo, Come Back At Once!;LS;Interrupt;Cloud City (R);4;0
-Artoo, I Have A Bad Feeling About This;LS;Interrupt;Jabba's Palace (U);4;0
+Artoo, I Have A Bad Feeling About This;LS;Interrupt;Jabba's Palace (U);4;1
 Artoo-Detoo In Red 5;LS;Starship;Third Anthology (P);4;0
 Artoo;LS;Character;Jabba's Palace (R);4;0
 As Good As Gone;LS;Interrupt;Cloud City (C);4;0
 ASP-707;LS;Character;Special Edition (F);4;0
 Assault Rifle;DS;Weapon;Premiere (R2);4;0
 Asteroid Field;DS;Location;Dagobah (C);8;5
-Asteroid Field;LS;Location;Dagobah (C);4;0
-Asteroid Sanctuary;LS;Effect;Dagobah (C);4;0 // There is a reprinted version with errata
-Asteroids Do Not Concern Me;LS;Effect;Dagobah (R);4;0
+Asteroid Field;LS;Location;Dagobah (C);4;1
+Asteroid Sanctuary;LS;Effect;Dagobah (C);4;0 // There is a reprinted version with errata - have four of some version
+Asteroids Do Not Concern Me;LS;Effect;Dagobah (R);4;1
 Astromech Shortage;DS;Effect;A New Hope (U2);4;4
-Astromech Translator;LS;Device;Dagobah (C);4;0
-At Peace;LS;Effect;Dagobah (R);4;0
+Astromech Translator;LS;Device;Dagobah (C);4;2
+At Peace;LS;Effect;Dagobah (R);4;1
 AT-AT Cannon;DS;Weapon;Hoth (U1);4;1
 AT-AT Driver;DS;Character;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 AT-ST Dual Cannon;DS;Weapon;Endor (R);4;0
 AT-ST Pilot;DS;Character;Endor (C);4;0
-Atgar Laser Cannon;LS;Weapon;Hoth (U2);4;0
+Atgar Laser Cannon;LS;Weapon;Hoth (U2);4;4
 Atmospheric Assault;DS;Interrupt;Cloud City (R);4;0
 Attack Pattern Delta;LS;Interrupt;Hoth (U1);4;0
-Attack Run;LS;Epic Event;A New Hope (R2);4;0
+Attack Run;LS;Epic Event;A New Hope (R2);4;2
+Bravo 3;LS;Starship;Theed Palace (U);4;1
+Bravo 4;LS;Starship;Theed Palace (U);4;1
 Attark;LS;Character;Jabba's Palace (R);4;0
-Aved Luun;LS;Character;Jabba's Palace (R);4;0
+Aved Luun;LS;Character;Jabba's Palace (R);4;1
 Avenger;DS;Starship;Dagobah (R);4;1
-Away Put Your Weapon;LS;Interrupt;Dagobah (U);4;0
+Away Put Your Weapon;LS;Interrupt;Dagobah (U);4;2
 Awwww, Cannot Get Your Ship Out;DS;Effect;Dagobah (C);4;1
-B'omarr Monk;LS;Character;Jabba's Palace (C);4;0
+B'omarr Monk;LS;Character;Jabba's Palace (C);4;1
 B-wing Attack Fighter;LS;Starship;Special Edition (F);4;0
 Bacta Tank;LS;Effect;Hoth (R2);4;0
 Bad Feeling Have I;DS;Effect;Dagobah (R);4;0
@@ -111,7 +113,7 @@ Bantha Fodder;DS;Interrupt;Jabba's Palace (C);4;0
 Bantha Herd;DS;Effect;Special Edition (R);4;0
 Bantha;DS;Vehicle;Premiere (U2);4;2
 Barada;DS;Character;Jabba's Palace (R);4;0
-Baragwin;LS;Character;Jabba's Palace (C);4;0
+Baragwin;LS;Character;Jabba's Palace (C);4;1
 Bargaining Table;LS;Effect;Jabba's Palace (U);4;0
 Baron Soontir Fel;DS;Character;Death Star II (R);4;0
 Barquin D'an;DS;Character;Special Edition (U);4;0
@@ -120,11 +122,11 @@ Battle Droid Pilot;DS;Character;Theed Palace (C);4;1
 Battle Order;DS;Effect;Endor (U);4;0
 Battle Plan;LS;Effect;Endor (U);4;0
 Beedo;DS;Character;Jabba's Palace (R);4;0
-Beggar;LS;Effect;Premiere (R1);4;0
+Beggar;LS;Effect;Premiere (R1);4;1
 Beldon's Eye;LS;Effect;Cloud City (R);4;0
 Ben Kenobi;LS;Character;Special Edition (R);4;0
-Beru Lars;LS;Character;Premiere (U2);4;0
-Beru Stew;LS;Interrupt;Premiere (U2);4;0
+Beru Lars;LS;Character;Premiere (U2);4;4
+Beru Stew;LS;Interrupt;Premiere (U2);4;4
 Besieged;DS;Effect;A New Hope (R2);4;1
 Bespin Motors Void Spider THX1138;DS;Vehicle;A New Hope (C2);4;4
 Bespin: Cloud City;DS;Location;Cloud City (U);4;0
@@ -134,10 +136,10 @@ Bespin;LS;Location;Cloud City (U);4;0
 BG-J38;LS;Character;Jabba's Palace (R);4;0
 Bib Fortuna;DS;Character;Jabba's Palace (R);4;0
 Big One: Asteroid Cave or Space Slug Belly;DS;Location;Dagobah (U);4;2
-Big One: Asteroid Cave or Space Slug Belly;LS;Location;Dagobah (U);4;0
+Big One: Asteroid Cave or Space Slug Belly;LS;Location;Dagobah (U);4;2
 Big One;DS;Location;Dagobah (U);4;0
-Big One;LS;Location;Dagobah (U);4;0
-Biggs Darklighter;LS;Character;Premiere (R2);4;0
+Big One;LS;Location;Dagobah (U);4;1
+Biggs Darklighter;LS;Character;Premiere (R2);4;4
 Biker Scout Gear;DS;Effect;Endor (U);4;0
 Biker Scout Trooper;DS;Character;Endor (C);4;1
 Binders;DS;Device;Cloud City (C);4;0
@@ -148,23 +150,23 @@ Black 4;DS;Starship;A New Hope (U2);4;1
 Black Squadron TIE;DS;Starship;Official Tournament Sealed Deck (P);4;0
 Blast Door Controls;DS;Effect;Premiere (U2);4;4
 Blast Points;DS;Interrupt;Special Edition (C);4;0
-Blast The Door, Kid!;LS;Interrupt;A New Hope (C2);4;0
+Blast The Door, Kid!;LS;Interrupt;A New Hope (C2);4;4
 Blastech E-11B Blaster Rifle;LS;Weapon;Endor (C);4;0
 Blasted Droid;DS;Interrupt;Cloud City (C);4;0
-Blasted Varmints;LS;Interrupt;Dagobah (C);4;0
+Blasted Varmints;LS;Interrupt;Dagobah (C);4;2
 Blaster Deflection;LS;Interrupt;Jabba's Palace (R);4;0
 Blaster Proficiency;LS;Interrupt;Cloud City (C);4;0
 Blaster Rack;DS;Effect;Premiere (U1);4;1
 Blaster Rifle;DS;Weapon;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 5
-Blaster Rifle;LS;Weapon;Premiere (C1);4;1
+Blaster Rifle;LS;Weapon;Premiere (C1);4;4 // have 5
 Blaster Scope;DS;Device;Premiere (U1);4;4
-Blaster;LS;Weapon;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;2
+Blaster;LS;Weapon;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 6
 Blizzard 1;DS;Vehicle;Hoth (R1);4;0
 Blizzard 2;DS;Vehicle;Hoth (R2);4;2
 Blizzard Scout 1;DS;Vehicle;Hoth (R1);4;0
 Blizzard Walker;DS;Vehicle;Hoth (U2);4;3
 Blown Clear;DS;Effect;Special Edition (U);4;0
-Blue Milk;LS;Interrupt;A New Hope (C2);4;0
+Blue Milk;LS;Interrupt;A New Hope (C2);4;2
 Bo Shuda;LS;Effect;Jabba's Palace (U);4;0
 Boba Fett (Special Edition);DS;Character;Special Edition (R);4;0
 Boba Fett In Slave 1;DS;Starship;Enhanced Cloud City (P);4;0
@@ -173,11 +175,11 @@ Boba Fett's Blaster Rifle;DS;Weapon;Cloud City (R);4;0
 Boba Fett;DS;Character;Cloud City (R);4;0
 Boelo;DS;Character;Special Edition (R);4;0
 Bog-wing;DS;Creature;Dagobah (C);4;4
-Bog-wing;LS;Creature;Dagobah (C);4;0
+Bog-wing;LS;Creature;Dagobah (C);4;4
 Bombing Run;DS;Effect;Dagobah (R);4;0
 Boosted TIE Cannon;DS;Weapon;Premiere (U1);4;1
 Boring Conversation Anyway;DS;Interrupt;Premiere (R1);4;0
-BoShek;LS;Character;Premiere (U1);4;0
+BoShek;LS;Character;Premiere (U1);4;2
 Bossk In Hound's Tooth;DS;Starship;Special Edition (R);4;0
 Bossk With Mortar Gun;DS;Character;Enhanced Jabba's Palace (P);4;0
 Bossk's Mortar Gun;DS;Weapon;Dagobah (R);4;0
@@ -188,7 +190,7 @@ Bothawui;LS;Location;Special Edition (F);4;0
 Bounty;DS;Effect;Cloud City (C);4;0
 Boushh;LS;Character;Enhanced Jabba's Palace (P);4;0
 Bowcaster;LS;Weapon;A New Hope (R2);4;0
-Brainiac;LS;Character;A New Hope (R1);4;0
+Brainiac;LS;Character;A New Hope (R1);4;4
 Brangus Glee;DS;Character;Special Edition (R);4;0
 Breached Defenses;DS;Effect;Hoth (U2);4;2
 Bren Quersey;LS;Character;Special Edition (U);4;0
@@ -197,13 +199,13 @@ Bright Hope;LS;Starship;Cloud City (R);4;0
 Broken Concentration;DS;Effect;Dagobah (R);4;0
 Bron Burs;LS;Character;Special Edition (R);4;0
 Bubo;DS;Creature;Jabba's Palace (U);4;1
-C-3PO (See-Threepio);LS;Character;Premiere (R1);4;0
-Cal Alder;LS;Character;Hoth (U2);4;0
+C-3PO (See-Threepio);LS;Character;Premiere (R1);4;2
+Cal Alder;LS;Character;Hoth (U2);4;4
 Caller;DS;Device;Premiere (U2);4;1
-Caller;LS;Device;Premiere (U2);4;0
+Caller;LS;Device;Premiere (U2);4;4
 Camie;LS;Character;Special Edition (R);4;0
 Cane Adiss;DS;Effect;Jabba's Palace (U);4;1
-Cantina Brawl;LS;Interrupt;Premiere (R1);4;0
+Cantina Brawl;LS;Interrupt;Premiere (R1);4;1
 Captain Bewil;DS;Character;Cloud City (R);4;0
 Captain Godherdt;DS;Character;Death Star II (U);4;0
 Captain Han Solo;LS;Character;Cloud City (R);4;0
@@ -234,7 +236,7 @@ Chewbacca's Bowcaster;LS;Weapon;Endor (R);4;0
 Chewbacca;LS;Character;A New Hope (R2);4;0
 Chewie With Blaster Rifle;LS;Character;Enhanced Cloud City (P);4;0
 Chewie's AT-ST;LS;Vehicle;Endor (R);4;0
-Chewie;LS;Character;Empire Strikes Back Introductory 2-Player Game (P);4;0
+Chewie;LS;Character;Empire Strikes Back Introductory 2-Player Game (P);4;3
 Chief Bast;DS;Character;Premiere (U1);4;2
 Chief Chirpa;LS;Character;Endor (R);4;0
 Chief Retwin;DS;Character;Cloud City (R);4;0
@@ -242,11 +244,11 @@ Choke;LS;Interrupt;Jabba's Palace (C);4;0
 Chyler;DS;Character;Special Edition (U);4;0
 Civil Disorder;LS;Effect;Cloud City (C);4;0
 Clak'dor VII Operative;LS;Character;Special Edition (U);4;0
-Clak'dor VII;LS;Location;A New Hope (R2);4;0
+Clak'dor VII;LS;Location;A New Hope (R2);4;1
 Clash Of Sabers;LS;Interrupt;Cloud City (U);4;0
 Close Call;DS;Interrupt;Dagobah (C);4;2
 Closed Door;DS;Effect;Endor (R);4;0
-Closer?!;LS;Interrupt;Dagobah (U);4;0
+Closer?!;LS;Interrupt;Dagobah (U);4;2
 Cloud Car;DS;Vehicle;Cloud City (C);4;0
 Cloud Car;LS;Vehicle;Cloud City (C);8;0
 Cloud City Blaster;DS;Weapon;Cloud City (C);4;0
@@ -290,22 +292,22 @@ Clouds;LS;Location;Cloud City (C);7;0
 Cold Feet;DS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Collapsing Corridor;DS;Interrupt;Hoth (R2);4;0
 Collateral Damage;DS;Interrupt;Premiere (C2);4;4 // have 5
-Collision!;LS;Interrupt;Premiere (C2);4;0
+Collision!;LS;Interrupt;Premiere (C2);4;4
 Colonel Davod Jon;DS;Character;Death Star II (U);4;0
 Colonel Dyer;DS;Character;Endor (R);4;0
-Colonel Feyn Gospic;LS;Character;Special Edition (R);4;0
+Colonel Feyn Gospic;LS;Character;Special Edition (R);4;1
 Colonel Jendon;DS;Character;Death Star II (R);4;0
 Colonel Wullf Yularen;DS;Character;Premiere (U1);4;2
 Combat Cloud Car;DS;Vehicle;Special Edition (F);4;0
 Combat Readiness;DS;Interrupt;Endor (C);4;0
-Combined Attack;LS;Interrupt;Premiere (C2);4;0
+Combined Attack;LS;Interrupt;Premiere (C2);4;4
 Come Here You Big Coward!;DS;Effect;Special Edition (C);4;0
 Come With Me;DS;Effect;A New Hope (C2);4;4
 Comlink;DS;Device;Premiere (C1);4;4 // have 5
 Comm Chief;DS;Character;Dagobah (C);4;4
 Commander Brandei;DS;Character;Dagobah (U);4;1
 Commander Desanne;DS;Character;Cloud City (U);4;0
-Commander Evram Lajaie;LS;Character;A New Hope (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Commander Evram Lajaie;LS;Character;A New Hope (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;2
 Commander Gherant;DS;Character;Dagobah (U);4;1
 Commander Igar;DS;Character;Endor (R);4;0
 Commander Luke Skywalker;LS;Character;Hoth (R1);4;0
@@ -316,22 +318,22 @@ Commander Vanden Willard;LS;Character;A New Hope (U2);4;0
 Commander Wedge Antilles;LS;Character;Special Edition (R);4;0
 Commando Training;LS;Effect;Endor (C);4;0
 Commence Primary Ignition;DS;Epic Event;A New Hope (R2);4;0
-Commence Recharging;LS;Effect;A New Hope (R2);4;0
+Commence Recharging;LS;Effect;A New Hope (R2);4;1
 Compact Firepower;DS;Interrupt;Endor (C);4;0
 Computer Interface;LS;Interrupt;Cloud City (C);4;0
 ComScan Detection;DS;Interrupt;Hoth (C2);4;1
 Concussion Grenade;LS;Weapon;Hoth (R1);4;0
 Conquest;DS;Starship;A New Hope (R1);4;0
 Control;DS;Interrupt;Dagobah (U);8;2
-Control;LS;Interrupt;Dagobah (U);4;0
+Control;LS;Interrupt;Dagobah (U);4;4
 Coordinated Attack;DS;Interrupt;Special Edition (C);4;0
 Corellia Operative;LS;Character;Special Edition (U);4;0
 Corellia;LS;Location;A New Hope (R1);4;0
-Corellian Corvette;LS;Starship;Premiere (U2);4;0
+Corellian Corvette;LS;Starship;Premiere (U2);4;4
 Corellian Engineering Corporation;LS;Effect;Special Edition (R);4;0
 Corellian Retort;LS;Interrupt;Jabba's Palace (U);4;0
-Corellian Slip;LS;Interrupt;A New Hope (C2);4;0
-Corellian;LS;Character;A New Hope (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Corellian Slip;LS;Interrupt;A New Hope (C2);4;4
+Corellian;LS;Character;A New Hope (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Corporal Avarik;DS;Character;Endor (U);4;1
 Corporal Beezer;LS;Character;Endor (U);4;0
 Corporal Delevar;LS;Character;Endor (U);4;0
@@ -348,6 +350,7 @@ Corporal Vandolay;DS;Character;Dagobah (U);4;1
 Corrosive Damage;DS;Effect;Dagobah (R);4;0
 Corulag Operative;DS;Character;Special Edition (C);4;0
 Corulag;DS;Location;Official Tournament Sealed Deck (P);4;0
+Corran Horn;LS;Character;Reflections II (P);4;1
 Corulag;LS;Location;Official Tournament Sealed Deck (P);4;0
 Coruscant Celebration;LS;Effect;Special Edition (R);4;0
 Coruscant: Docking Bay;DS;Location;Special Edition (C);4;0
@@ -364,26 +367,26 @@ Court Of The Vile Gangster / I Shall Enjoy Watching You Die;DS;Objective;Enhance
 Covert Landing;LS;Interrupt;Endor (U);4;0
 Crack Shot;LS;Effect;Cloud City (U);4;0
 Crash Landing;DS;Interrupt;Hoth (U1);4;2
-Crash Site Memorial;LS;Effect;Premiere (U1);4;0
+Crash Site Memorial;LS;Effect;Premiere (U1);4;2
 Crossfire;DS;Effect;Endor (R);4;0
 Crush The Rebellion;DS;Effect;Enhanced Cloud City (P);4;0
 Cyborg Construct;LS;Device;Cloud City (U);4;0
-CZ-3 (Seezee-Three);LS;Character;Premiere (C2);4;1
+CZ-3 (Seezee-Three);LS;Character;Premiere (C2);4;4 // have 5
 CZ-4;DS;Character;Jabba's Palace (C);4;1
 Dack Ralter;LS;Character;Hoth (R2);4;0
-Dagobah: Bog Clearing;LS;Location;Dagobah (R);4;0
+Dagobah: Bog Clearing;LS;Location;Dagobah (R);4;1
 Dagobah: Cave;DS;Location;Dagobah (R);4;0
-Dagobah: Jungle;LS;Location;Dagobah (U);4;0
+Dagobah: Jungle;LS;Location;Dagobah (U);4;1
 Dagobah: Swamp;LS;Location;Dagobah (U);4;0
-Dagobah: Training Area;LS;Location;Dagobah (C);4;0
+Dagobah: Training Area;LS;Location;Dagobah (C);4;3
 Dagobah: Yoda's Hut;LS;Location;Dagobah (R);4;0
 Dagobah;DS;Location;Special Edition (U);4;0
-Dagobah;LS;Location;Dagobah (U);4;0
+Dagobah;LS;Location;Dagobah (U);4;3
 Dannik Jerriko;DS;Character;A New Hope (R1);4;4
 Dantooine Base Operations / More Dangerous Than You Realize;LS;Objective;Special Edition (R);4;0
 Dantooine Operative;DS;Character;Special Edition (C);4;0
 Dantooine;DS;Location;Premiere (U1);4;4
-Dantooine;LS;Location;Premiere (U1);4;0
+Dantooine;LS;Location;Premiere (U1);4;2
 Danz Borin;DS;Character;A New Hope (U2);4;4
 Dark Approach;LS;Interrupt;Cloud City (R);4;0
 Dark Collaboration;DS;Interrupt;Premiere (R1);4;0
@@ -411,23 +414,23 @@ Death Squadron Star Destroyer;DS;Starship;Special Edition (R);4;0
 Death Squadron;DS;Effect;Hoth (U1);4;0
 Death Star Assault Squadron;DS;Starship;Special Edition (R);4;0
 Death Star Gunner;DS;Character;A New Hope (C1);4;2
-Death Star Plans;LS;Effect;Premiere (R1);4;0
+Death Star Plans;LS;Effect;Premiere (R1);4;4
 Death Star Sentry;DS;Effect;Premiere (U1);4;1
 Death Star Tractor Beam;DS;Device;A New Hope (R2);4;1
 Death Star Trooper;DS;Character;Premiere (C2);4;4 // Have 6
 Death Star: Central Core;DS;Location;Premiere (U2);4;4
 Death Star: Conference Room;DS;Location;A New Hope (U1);4;0
 Death Star: Detention Block Control Room;DS;Location;Special Edition (C);4;0
-Death Star: Detention Block Control Room;LS;Location;Premiere (U2);4;0
+Death Star: Detention Block Control Room;LS;Location;Premiere (U2);4;4
 Death Star: Detention Block Corridor;DS;Location;Premiere (C1);4;4 // have 5
 Death Star: Detention Block Corridor;LS;Location;Special Edition (C);4;0
 Death Star: Docking Bay 327;DS;Location;Premiere (C2);4;4 // have 6
-Death Star: Docking Bay 327;LS;Location;Premiere (C2);4;1
+Death Star: Docking Bay 327;LS;Location;Premiere (C2);4;4 // have 5
 Death Star: Docking Control Room 327;DS;Location;Premiere Introductory 2-Player Game (P);4;2
 Death Star: Level 4 Military Corridor;DS;Location;Premiere (U1);4;3
 Death Star: Level 6 Core Shaft Corridor;LS;Location;Premiere Introductory 2-Player Game (P);4;2
-Death Star: Trash Compactor;LS;Location;Premiere (U1);4;0
-Death Star: Trench;LS;Location;A New Hope (R2);4;0
+Death Star: Trash Compactor;LS;Location;Premiere (U1);4;1
+Death Star: Trench;LS;Location;A New Hope (R2);4;1
 Death Star: War Room;DS;Location;Premiere (U2);4;4
 Death Star;DS;Location;A New Hope (R2);4;0
 Death Star;LS;Location;Special Edition (R);4;0
@@ -444,8 +447,8 @@ Dengar With Blaster Carbine;DS;Character;Enhanced Jabba's Palace (P);4;0
 Dengar's Blaster Carbine;DS;Weapon;Dagobah (R);4;0
 Dengar's Modified Riot Gun;DS;Weapon;Jabba's Palace (R);4;0
 Dengar;DS;Character;Dagobah (R);4;0
-Derek 'Hobbie' Klivian;LS;Character;Hoth (U1);4;0
-Descent Into The Dark;LS;Effect;Dagobah (R);4;0
+Derek 'Hobbie' Klivian;LS;Character;Hoth (U1);4;2
+Descent Into The Dark;LS;Effect;Dagobah (R);4;1
 Desert;DS;Location;Special Edition (F);4;0
 Desert;LS;Location;Special Edition (F);4;0
 Desilijic Tattoo;DS;Effect;Special Edition (U);4;0
@@ -453,32 +456,38 @@ Despair;DS;Effect;Cloud City (R);4;0
 Desperate Reach;LS;Interrupt;Cloud City (U);4;0
 Desperate Tactics;LS;Interrupt;Special Edition (C);4;0
 Destroyed Homestead;DS;Effect;Special Edition (R);4;0
-Devaronian;LS;Character;Jabba's Palace (C);4;0
+Devaronian;LS;Character;Jabba's Palace (C);4;1
 Devastator;DS;Starship;Premiere (R1);4;2
 Dewback;DS;Vehicle;Special Edition (C);4;0
 DFS-1015;DS;Starship;Theed Palace (U);4;1
 Dianoga;DS;Creature;A New Hope (R2);4;1
-Dice Ibegon;LS;Character;Premiere (R2);4;0
+Dice Ibegon;LS;Character;Premiere (R2);4;1
 Direct Assault;LS;Interrupt;Special Edition (C);4;0
 Direct Hit;DS;Interrupt;Hoth (U1);4;2
 Disarmed;DS;Effect;Premiere (R1);4;2
-Disarmed;LS;Effect;Premiere (R1);4;0
+Disarmed;LS;Effect;Premiere (R1);4;2
+Force Lightning;DS;Interrupt;Death Star II (R);4;0
+Imperial Command;DS;Interrupt;Death Star II (R);4;0
+Operational As Planned;DS;Interrupt;Death Star II (C);4;0
+Prepared Defenses;DS;Interrupt;Death Star II (C);4;0
+Rise, My Friend;DS;Interrupt;Death Star II (R);4;0
+Young Fool;DS;Interrupt;Death Star II (R);4;0
 Disarming Creature;LS;Effect;Hoth (R1);4;0
 Dismantle On Sight;LS;Effect;Cloud City (R);4;0
 Disruptor Pistol;DS;Weapon;Special Edition (F);4;0
 Disruptor Pistol;LS;Weapon;Special Edition (F);4;0
 Djas Puhr;DS;Character;Premiere (R2);4;0
-Do, Or Do Not;LS;Effect;Dagobah (C);4;0
+Do, Or Do Not;LS;Effect;Dagobah (C);4;2
 Docking And Repair Facilities;LS;Effect;Special Edition (R);4;0
 Dodge;LS;Interrupt;Cloud City (C);4;0 // Version with game text ending in ...free)
 Dodo Bodonawieedo;DS;Character;Special Edition (U);4;0
-Doikk Na'ts;LS;Character;A New Hope (U2);4;0
-Domain Of Evil;LS;Jedi Test;Dagobah (U);4;0
-Don't Forget The Droids;LS;Interrupt;Jabba's Palace (C);4;0
+Doikk Na'ts;LS;Character;A New Hope (U2);4;1
+Domain Of Evil;LS;Jedi Test;Dagobah (U);4;1
+Don't Forget The Droids;LS;Interrupt;Jabba's Palace (C);4;1
 Don't Get Cocky;LS;Interrupt;Premiere (R1);4;0
 Don't Move!;DS;Interrupt;Endor (C);4;0
 Don't Tread On Me;LS;Interrupt;Special Edition (R);4;0
-Don't Underestimate Our Chances;LS;Interrupt;Premiere (C1);4;1
+Don't Underestimate Our Chances;LS;Interrupt;Premiere (C1);4;4 // have 5
 Double Agent;LS;Interrupt;A New Hope (R2);4;0
 Double Back;DS;Interrupt;Cloud City (U);4;0
 Double Laser Cannon;DS;Weapon;Jabba's Palace (R);4;0
@@ -493,17 +502,17 @@ Dreadnaught-Class Heavy Cruiser;DS;Starship;Official Tournament Sealed Deck (P);
 Dresselian Commando;LS;Character;Endor (C);4;0
 Droid Detector;DS;Device;Premiere (C2);4;4
 Droid Merchant;LS;Character;Special Edition (C);4;0
-Droid Sensorscope;LS;Device;Dagobah (C);4;0
-Droid Shutdown;LS;Interrupt;Premiere (C2);4;0
+Droid Sensorscope;LS;Device;Dagobah (C);4;4
+Droid Shutdown;LS;Interrupt;Premiere (C2);4;4
 Droopy McCool;LS;Character;Jabba's Palace (R);4;0
 DS-181-3;DS;Character;Death Star II (U);4;0
 DS-181-4;DS;Character;Death Star II (U);4;0
 DS-61-2;DS;Character;Premiere (U1);4;1
 DS-61-3;DS;Character;Premiere (R1);4;0
 DS-61-4;DS;Character;A New Hope (R2);4;1
-Dual Laser Cannon;LS;Weapon;Hoth (U1);4;0
+Dual Laser Cannon;LS;Weapon;Hoth (U1);4;2
 Dune Sea Sabacc;DS;Interrupt;Jabba's Palace (C);4;0
-Dune Sea Sabacc;LS;Interrupt;Jabba's Palace (U);4;0
+Dune Sea Sabacc;LS;Interrupt;Jabba's Palace (U);4;1
 Dune Walker;DS;Vehicle;Special Edition (R);4;0
 Dutch;LS;Character;Premiere (R1);4;0
 E Chu Ta;DS;Interrupt;Cloud City (C);4;0
@@ -512,27 +521,27 @@ E-web Blaster;DS;Weapon;Hoth (C1);4;2
 Early Warning Network;DS;Effect;Endor (R);4;0
 Echo Base Garrison;LS;Effect;Third Anthology (P);4;0
 Echo Base Operations;LS;Effect;Hoth (R2);4;0
-Echo Base Trooper Officer;LS;Character;Hoth (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Echo Base Trooper Officer;LS;Character;Hoth (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Echo Base Trooper Rifle;LS;Weapon;Special Edition (C);4;0
-Echo Base Trooper;LS;Character;Hoth (C3)/Empire Strikes Back Introductory 2-Player Game (F);4;0
-Echo Trooper Backpack;LS;Device;Hoth (C2);4;0
+Echo Base Trooper;LS;Character;Hoth (C3)/Empire Strikes Back Introductory 2-Player Game (F);4;4
+Echo Trooper Backpack;LS;Device;Hoth (C2);4;4
 Eee Chu Wawa!;DS;Interrupt;Endor (C);4;0
-Effective Repairs;LS;Interrupt;Dagobah (R);4;0
-EG-4 (Eegee-Four);LS;Character;Hoth (C1);4;0
+Effective Repairs;LS;Interrupt;Dagobah (R);4;1
+EG-4 (Eegee-Four);LS;Character;Hoth (C1);4;1
 EG-6 (Eegee-Six);DS;Character;Premiere (U2);4;2
 Egregious Pilot Error;LS;Interrupt;Dagobah (R);4;0
-Eject! Eject!;LS;Effect;A New Hope (C2);4;0
+Eject! Eject!;LS;Effect;A New Hope (C2);4;4
 Electro-Rangefinder;DS;Device;Hoth (U1);4;0
-Electrobinoculars;LS;Device;Premiere (C2);4;0 // Intro 2-player set has wrong text
+Electrobinoculars;LS;Device;Premiere (C2);4;2 // Intro 2-player set has wrong text
 Elis Helrot;DS;Interrupt;Premiere (U2);4;4
 Elite Squadron Stormtrooper;DS;Character;Endor (C);4;1
-Ellorrs Madak;LS;Effect;Premiere (C2);4;0
+Ellorrs Madak;LS;Effect;Premiere (C2);4;4
 Elom;LS;Character;Jabba's Palace (C);4;0
 Elyhek Rue;LS;Character;Special Edition (U);4;0
 Emergency Deployment;DS;Interrupt;Premiere (U1);4;1
 Emperor Palpatine;DS;Character;Death Star II (UR);4;0
 Empire's New Order;DS;Effect;Endor (R);4;0
-Encampment;LS;Effect;Dagobah (C);4;0
+Encampment;LS;Effect;Dagobah (C);4;4
 End This Destructive Conflict;DS;Interrupt;Cloud City (R);4;0
 Endor Celebration;LS;Interrupt;Endor (R);4;0
 Endor Occupation;DS;Interrupt;Endor (R);4;0
@@ -564,11 +573,12 @@ Ephant Mon;DS;Character;Jabba's Palace (R);4;0
 Epic Duel;DS;Epic Event;Cloud City (R);4;0
 Eriadu Operative;DS;Character;Special Edition (C);4;0
 Eriadu;DS;Location;Free Jedi Pack (P);4;0 // white dot is errata?
-Escape Pod;LS;Interrupt;Premiere (U2);4;0
+Escape Pod;LS;Interrupt;Premiere (U2);4;4
+Bring Him Before Me / Take Your Father's Place;DS;Objective;Death Star II (R);4;0
 Establish Secret Base;DS;Effect;Endor (R);4;0
 EV-9D9;DS;Character;Jabba's Palace (R);4;0
 Evacuate?;DS;Interrupt;Premiere (U2);4;4
-Evacuation Control;LS;Effect;Hoth (U1);4;0
+Evacuation Control;LS;Effect;Hoth (U1);4;3
 Evader;DS;Interrupt;A New Hope (U1);4;1
 Ewok And Roll;LS;Interrupt;Endor (C);4;0
 Ewok Bow;LS;Weapon;Endor (C);4;0
@@ -591,10 +601,10 @@ Exhaustion;DS;Interrupt;Hoth (U2);4;2
 Expand The Empire;DS;Effect;Premiere (R1);4;0
 Explosive Charge;LS;Weapon;Endor (U);4;0
 Exposure;DS;Interrupt;Hoth (U1);4;0
-Eyes In The Dark;LS;Effect;Premiere (U1);4;0
+Eyes In The Dark;LS;Effect;Premiere (U1);4;4
 Failure At The Cave;DS;Effect;Dagobah (R);4;0
 Faithful Service;LS;Effect;Official Tournament Sealed Deck (P);4;0
-Fall Back!;LS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Fall Back!;LS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Fall Of The Empire;LS;Interrupt;Cloud City (U);4;0
 Fall Of The Legend;LS;Interrupt;Cloud City (U);4;0
 Fallen Portal;LS;Interrupt;Jabba's Palace (U);4;0
@@ -606,8 +616,8 @@ Feltipern Trevagg;DS;Character;Premiere (U1);4;2
 Field Promotion;DS;Effect;Dagobah (R);4;0
 Fighter Cover;DS;Admiral's Order;Death Star II (R);4;0
 Fighters Coming In;DS;Admiral's Order;Death Star II (R);4;0
-Figrin D'an;LS;Character;Premiere (U2);4;0
-Fire Extinguisher;LS;Device;A New Hope (U2);4;0
+Figrin D'an;LS;Character;Premiere (U2);4;1
+Fire Extinguisher;LS;Device;A New Hope (U2);4;2
 Firefight;LS;Interrupt;Endor (C);4;0
 Firepower;DS;Effect;Special Edition (C);4;0
 Firin Morett;LS;Character;Special Edition (U);4;0
@@ -615,11 +625,11 @@ First Aid;LS;Interrupt;Special Edition (F);4;0
 First Strike;DS;Effect;Special Edition (U);4;0
 Flagship;DS;Effect;Dagobah (R);4;1
 Flare-S Racing Swoop;DS;Vehicle;Special Edition (C);4;0
-Flash Of Insight;LS;Effect;Dagobah (U);4;0
+Flash Of Insight;LS;Effect;Dagobah (U);4;3
 Flawless Marksmanship;DS;Interrupt;Special Edition (C);4;0
 Flight Escort;DS;Interrupt;Cloud City (R);4;0
 Floating Refinery;DS;Device;Special Edition (C);4;0
-Florn Lamproid;LS;Character;Jabba's Palace (C);4;0
+Florn Lamproid;LS;Character;Jabba's Palace (C);4;1
 Fly Casual;LS;Interrupt;Endor (R);4;0
 Focused Attack;DS;Interrupt;Cloud City (R);4;0
 Fondor;DS;Location;Special Edition (U);4;0
@@ -629,23 +639,23 @@ Forced Landing;DS;Effect;Cloud City (R);4;0
 Forced Servitude;DS;Effect;Official Tournament Sealed Deck (P);4;0
 Forest;DS;Location;Special Edition (F);4;0
 Forest;LS;Location;Special Edition (F);4;0
-Found Someone You Have;LS;Interrupt;Dagobah (U);4;0
+Found Someone You Have;LS;Interrupt;Dagobah (U);4;3
 Fozec;DS;Character;Jabba's Palace (R);4;0
 Free Ride;LS;Interrupt;Endor (U);4;0
 Freeze!;DS;Interrupt;Endor (U);4;0
-Friendly Fire;LS;Interrupt;Premiere (C2);4;2
+Friendly Fire;LS;Interrupt;Premiere (C2);4;4 // have 6
 Frostbite;DS;Effect;Hoth (C2);4;4
-Frostbite;LS;Effect;Hoth (C2);4;0
+Frostbite;LS;Effect;Hoth (C2);4;2
 Frozen Assets;LS;Effect;Cloud City (R);4;0
 Frozen Dinner;DS;Effect;Hoth (R1);4;1
 Frustration;DS;Interrupt;Dagobah (R);4;0
 Full Scale Alert;DS;Interrupt;Premiere (U2);4;2
-Full Throttle;LS;Interrupt;Premiere (R2);4;0
+Full Throttle;LS;Interrupt;Premiere (R2);4;2
 Furry Fury;DS;Interrupt;Hoth (R2);4;0
 Fusion Generator Supply Tanks;DS;Device;Premiere (C2);4;4
-Fusion Generator Supply Tanks;LS;Device;Premiere (C2);4;0
+Fusion Generator Supply Tanks;LS;Device;Premiere (C2);4;4
 FX-10 (Effex-ten);DS;Character;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;3
-FX-7 (Effex-Seven);LS;Character;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+FX-7 (Effex-Seven);LS;Character;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Gaderffii Stick;DS;Weapon;Premiere (C2);4;4 // have 5
 Gailid;DS;Character;Jabba's Palace (R);4;0
 Gambler's Luck;LS;Interrupt;Cloud City (R);4;0
@@ -658,7 +668,7 @@ Geezum;LS;Character;Jabba's Palace (R);4;0
 Gela Yeens;DS;Character;Special Edition (U);4;1
 General Carlist Rieekan;LS;Character;Hoth (R2);4;0
 General Crix Madine;LS;Character;Endor (R);4;0
-General Dodonna;LS;Character;Premiere (U1);4;0
+General Dodonna;LS;Character;Premiere (U1);4;2
 General McQuarrie;LS;Character;Special Edition (R);4;0
 General Solo;LS;Character;Endor (R);4;0
 General Tagge;DS;Character;Premiere (R2);4;1
@@ -671,33 +681,33 @@ Giran;DS;Character;Jabba's Palace (R);4;0
 Glancing Blow;LS;Interrupt;Cloud City (R);4;0
 Go For Help!;DS;Interrupt;Endor (C);4;0
 Golan Laser Battery;LS;Weapon;Hoth (U1);4;0
-Gold 1;LS;Starship;Premiere (R2);4;0
-Gold 2;LS;Starship;A New Hope (U1);4;0
+Gold 1;LS;Starship;Premiere (R2);4;1
+Gold 2;LS;Starship;A New Hope (U1);4;1
 Gold 3;LS;Starship;Special Edition (U);4;0
 Gold 4;LS;Starship;Special Edition (U);4;0
-Gold 5;LS;Starship;Premiere (R2);4;0
+Gold 5;LS;Starship;Premiere (R2);4;1
 Gold 6;LS;Starship;Special Edition (U);4;0
-Gold Leader In Gold 1;LS;Starship;Rebel Leader Pack (P);4;0
+Gold Leader In Gold 1;LS;Starship;Rebel Leader Pack (P);4;1
 Gold Squadron Y-wing;LS;Starship;Official Tournament Sealed Deck (P);4;0
 Goo Nee Tay;LS;Effect;Special Edition (R);4;0
 Graak;LS;Character;Endor (R);4;0
-Gran;LS;Character;Jabba's Palace (C);4;0
+Gran;LS;Character;Jabba's Palace (C);4;2
 Grand Moff Tarkin;DS;Character;Premiere (R1);4;1
-Grappling Hook;LS;Effect;A New Hope (C2);4;0
+Grappling Hook;LS;Effect;A New Hope (C2);4;4
 Gravel Storm;DS;Interrupt;Premiere (U2);4;4
 Gravity Shadow;DS;Interrupt;Free Jedi Pack (P);4;0
-Great Warrior;LS;Jedi Test;Dagobah (C);4;0
+Great Warrior;LS;Jedi Test;Dagobah (C);4;4
 Greeata;DS;Character;Special Edition (U);4;0
 Greedo;DS;Character;A New Hope (R1);4;0
-Grimtaash;LS;Interrupt;A New Hope (C2);4;0
+Grimtaash;LS;Interrupt;A New Hope (C2);4;4
 Grondorn Muse;LS;Character;Special Edition (R);4;0
 Grounded Starfighter;LS;Effect;Dagobah (U);4;0
-H'nemthe;LS;Character;Jabba's Palace (C);4;0
+H'nemthe;LS;Character;Jabba's Palace (C);4;2
 Han Seeker;DS;Weapon;Premiere (R2);4;0
 Han Solo;LS;Character;Premiere (R1);4;0
 Han with Heavy Blaster Pistol;LS;Character;Enhanced Premiere (P);4;0
-Han's Back;LS;Interrupt;Premiere (U2);4;0
-Han's Dice;LS;Interrupt;Premiere (C2);4;1
+Han's Back;LS;Interrupt;Premiere (U2);4;4
+Han's Dice;LS;Interrupt;Premiere (C2);4;4 // have 5
 Han's Heavy Blaster Pistol;LS;Weapon;Premiere (R2);4;0
 Han's Toolkit;LS;Device;Dagobah (R);4;0
 Han;LS;Character;Free Jedi Pack (P);4;0
@@ -707,10 +717,10 @@ Haven;LS;Effect;Cloud City (R);4;0
 He Hasn't Come Back Yet;DS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 He Is Not Ready;DS;Effect;Dagobah (C);4;3
 He's All Yours, Bounty Hunter;DS;Interrupt;Cloud City (R);4;0
-Hear Me Baby, Hold Together;LS;Interrupt;Premiere (C2);4;0
+Hear Me Baby, Hold Together;LS;Interrupt;Premiere (C2);4;4
 Heart Of The Chasm;DS;Interrupt;Cloud City (U);4;0
 Heavy Fire Zone;DS;Interrupt;Special Edition (C);4;0
-Help Me Obi-Wan Kenobi;LS;Interrupt;Premiere (R1);4;0
+Help Me Obi-Wan Kenobi;LS;Interrupt;Premiere (R1);4;1
 Hem Dazon;DS;Character;A New Hope (R1);4;0
 Herat;DS;Character;Jabba's Palace (R);4;0
 Here We Go Again;LS;Interrupt;Endor (R);4;0
@@ -718,11 +728,11 @@ Hermi Odle;DS;Character;Jabba's Palace (R);4;0
 Hero Of A Thousand Devices;LS;Effect;Cloud City (U);4;0
 Heroes Of Yavin;LS;Interrupt;Special Edition (R);4;0
 Heroic Sacrifice;LS;Effect;Special Edition (U);4;0
-Het Nkik;LS;Character;A New Hope (U2);4;0
+Het Nkik;LS;Character;A New Hope (U2);4;2
 Hidden Base / Systems Will Slip Through Your Fingers;LS;Objective;Special Edition (R);4;0
 Hidden Compartment;LS;Device;Jabba's Palace (U);4;0
 Hidden Weapons;DS;Interrupt;Jabba's Palace (U);4;0
-Hiding In The Garbage;LS;Effect;Dagobah (R);4;0
+Hiding In The Garbage;LS;Effect;Dagobah (R);4;1
 High Anxiety;DS;Effect;Hoth (R1);4;1
 High-speed Tactics;DS;Interrupt;Endor (U);4;0
 Higher Ground;LS;Interrupt;Cloud City (R);4;0
@@ -730,41 +740,41 @@ Hindsight;LS;Effect;Cloud City (R);4;0
 Hit And Run;LS;Interrupt;Special Edition (R);4;0
 Hol Okand;LS;Character;Special Edition (U);4;0
 HoloNet Transmission;DS;Interrupt;Dagobah (U);4;0
-Holoprojector;LS;Device;Jabba's Palace (U);4;0
+Holoprojector;LS;Device;Jabba's Palace (U);4;1
 Homing Beacon;DS;Device;Special Edition (R);4;0
 Hopping Mad;LS;Effect;Cloud City (R);4;0
 Hot Pursuit;DS;Interrupt;Endor (C);4;0
 Hoth Sentry;LS;Effect;Special Edition (U);4;0
-Hoth Survival Gear;LS;Device;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Hoth Survival Gear;LS;Device;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Hoth: Defensive Perimeter;DS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-Hoth: Defensive Perimeter;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Hoth: Defensive Perimeter;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;3
 Hoth: Echo Command Center (War Room);DS;Location;Hoth (U2);4;0
-Hoth: Echo Command Center (War Room);LS;Location;Hoth (U2);4;0
+Hoth: Echo Command Center (War Room);LS;Location;Hoth (U2);4;4
 Hoth: Echo Corridor;DS;Location;Hoth (U2);4;3
-Hoth: Echo Corridor;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Hoth: Echo Corridor;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Hoth: Echo Docking Bay;DS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-Hoth: Echo Docking Bay;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
-Hoth: Echo Med Lab;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Hoth: Echo Docking Bay;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
+Hoth: Echo Med Lab;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Hoth: Ice Plains;DS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-Hoth: Main Power Generators;LS;Location;Hoth (U2);4;0
+Hoth: Main Power Generators;LS;Location;Hoth (U2);4;1
 Hoth: Mountains;DS;Location;Empire Strikes Back Introductory 2-Player Game (P);4;2
 Hoth: North Ridge;DS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-Hoth: North Ridge;LS;Location;Hoth (C2);4;0
-Hoth: Snow Trench;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Hoth: North Ridge;LS;Location;Hoth (C2);4;4
+Hoth: Snow Trench;LS;Location;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;3
 Hoth: Wampa Cave;DS;Location;Hoth (R2);4;0
 Hoth;DS;Location;Hoth (U2);4;2
-Hoth;LS;Location;Hoth (U2);4;0
-Houjix;LS;Interrupt;A New Hope (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Hoth;LS;Location;Hoth (U2);4;1
+Houjix;LS;Interrupt;A New Hope (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Hound's Tooth;DS;Starship;Dagobah (R);4;2
-How Did We Get Into This Mess?;LS;Interrupt;Premiere (U2);4;0
+How Did We Get Into This Mess?;LS;Interrupt;Premiere (U2);4;4
 Human Shield;DS;Interrupt;Cloud City (C);4;0
 Hunchback;LS;Character;A New Hope (R1);4;0
 Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe;DS;Objective;Special Edition (R);4;0
 Hunting Party;DS;Interrupt;Special Edition (R);4;0
 Hutt Bounty;DS;Effect;Jabba's Palace (R);4;0
 Hutt Smooch;DS;Interrupt;Jabba's Palace (U);4;0
-Hydroponics Station;LS;Device;Premiere (U2);4;0
-Hyper Escape;LS;Interrupt;Premiere (C2);4;0
+Hydroponics Station;LS;Device;Premiere (U2);4;2
+Hyper Escape;LS;Interrupt;Premiere (C2);4;4
 Hyperwave Scan;DS;Effect;A New Hope (U1);4;1
 Hypo;DS;Device;A New Hope (R1);4;0
 I Am Your Father;DS;Effect;Cloud City (R);4;0
@@ -772,26 +782,40 @@ I Can't Shake Him!;DS;Interrupt;Special Edition (C);4;0
 I Don't Need Their Scum, Either;LS;Interrupt;Cloud City (R);4;0
 I Find Your Lack Of Faith Disturbing;DS;Effect;Premiere (R1);4;0
 I Had No Choice;DS;Effect;Cloud City (R);4;0
-I Have A Bad Feeling About This;LS;Interrupt;Dagobah (R);4;0
+I Have A Bad Feeling About This;LS;Interrupt;Dagobah (R);4;2
 I Have A Really Bad Feeling About This;LS;Interrupt;Endor (C);4;0
-I Have A Very Bad Feeling About This;LS;Interrupt;A New Hope (C2);4;0
+I Have A Very Bad Feeling About This;LS;Interrupt;A New Hope (C2);4;4
 I Have You Now;DS;Interrupt;Premiere (R2);4;2
 I Hope She's All Right;LS;Effect;Endor (U);4;0
 I Know;LS;Interrupt;Endor (R);4;0
-I Must Be Allowed To Speak;LS;Effect;Jabba's Palace (R);4;0
+I Must Be Allowed To Speak;LS;Effect;Jabba's Palace (R);4;1
 I Thought They Smelled Bad On The Outside;LS;Interrupt;Hoth (R1);4;0
 I Want That Ship;DS;Effect;Dagobah (R);4;0
 I Wonder Who They Found;LS;Effect;Endor (U);4;0
 I'd Just As Soon Kiss A Wookiee;DS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-I'm Here To Rescue You;LS;Interrupt;A New Hope (U1);4;0
+I'm Here To Rescue You;LS;Interrupt;A New Hope (U1);4;3
 I'm On The Leader;DS;Interrupt;A New Hope (R1);4;1
-I've Got A Bad Feeling About This;LS;Interrupt;Premiere (C2);4;1
+I've Got A Bad Feeling About This;LS;Interrupt;Premiere (C2);4;4 // have 5
 I've Got A Problem Here;DS;Interrupt;Premiere (C2);4;4
+Combat Repsonse;DS;Effect;Death Star II (C);4;0
+Desperate Counter;DS;Effect;Death Star II (C);4;0
+Emperor's Power;DS;Effect;Death Star II (U);4;0
+Endor Shield;DS;Effect;Death Star II (U);4;0
+Flagship Operations;DS;Effect;Death Star II (R);4;0
+Inconsequential Losses;DS;Effect;Death Star II (C);4;0
+Insignificant Rebellion;DS;Effect;Death Star II (U);4;0
+Leave Them To Me;DS;Effect;Death Star II (C);4;0
+Mobilization Points;DS;Effect;Death Star II (C);4;0
+Overseeing It Personally;DS;Effect;Death Star II (R);4;0
+Royal Escort;DS;Effect;Death Star II (C);4;0
+Something Special Planned For Them;DS;Effect;Death Star II (C);4;0
+You Cannot Hide Forever;DS;Effect;Death Star II (U);4;0
+Your Destiny;DS;Effect;Death Star II (C);4;0
 I've Lost Artoo!;DS;Effect;Premiere (U1);4;1
 Iasa,The Traitor Of Jawa Canyon;DS;Character;Special Edition (R);4;0
 Ice Storm;DS;Effect;Hoth (U1);4;1
-Ice Storm;LS;Effect;Hoth (U1);4;0
-Ickabel G'ont;LS;Character;A New Hope (U2);4;0
+Ice Storm;LS;Effect;Hoth (U1);4;1
+Ickabel G'ont;LS;Character;A New Hope (U2);4;1
 IG-2000;DS;Starship;Dagobah (R);4;1
 IG-88 In IG-2000;DS;Starship;Enhanced Jabba's Palace (P);4;0
 IG-88 With Riot Gun;DS;Character;Enhanced Cloud City (P);4;0
@@ -830,24 +854,29 @@ In Range;DS;Interrupt;Special Edition (C);4;0
 Incom Corporation;LS;Effect;Special Edition (R);4;0
 Incom Engineer;LS;Character;Special Edition (C);4;0
 Incom T-16 Skyhopper;LS;Vehicle;A New Hope (C2);4;0
-Ineffective Maneuver;LS;Effect;Dagobah (U);4;0
+Ineffective Maneuver;LS;Effect;Dagobah (U);4;3
 Infantry Mine;DS;Weapon;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-Infantry Mine;LS;Weapon;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Infantry Mine;LS;Weapon;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
+Capital Support;LS;Admiral's Order;Death Star II (R);4;0
+Combined Fleet Action;LS;Admiral's Order;Death Star II (R);4;0
+Concentrate All Fire;LS;Admiral's Order;Death Star II (R);4;0
+I'll Take The Leader;LS;Admiral's Order;Death Star II (R);4;0
+Taking Them With Us;LS;Admiral's Order;Death Star II (R);4;0
 Informant;DS;Interrupt;A New Hope (U1);4;0
 Information Exchange;DS;Effect;Jabba's Palace (U);4;1
 Innocent Scoundrel;LS;Interrupt;Cloud City (U);4;0
 Insurrection;LS;Effect;Endor (U);4;0
 Intensify The Forward Batteries;DS;Admiral's Order;Death Star II (R);4;0
 Interrogation Array;DS;Device;Cloud City (R);4;0
-Into the Garbage Chute, Flyboy;LS;Interrupt;Premiere (R2);4;0
+Into the Garbage Chute, Flyboy;LS;Interrupt;Premiere (R2);4;2
 Into The Ventilation Shaft, Lefty;LS;Interrupt;Cloud City (R);4;0
 Intruder Missile;DS;Weapon;Special Edition (F);4;0
 Intruder Missile;LS;Weapon;Special Edition (F);4;0
 Ion Cannon;DS;Weapon;Premiere (U1);4;4
 ISB Operations / Empire's Sinister Agents;DS;Objective;Special Edition (R);4;0
-Ishi Tib;LS;Character;Jabba's Palace (C);4;0
-It Can Wait;LS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
-It Could Be Worse;LS;Interrupt;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;2
+Ishi Tib;LS;Character;Jabba's Palace (C);4;3
+It Can Wait;LS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
+It Could Be Worse;LS;Interrupt;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 6
 It Is The Future You See;LS;Jedi Test;Dagobah (R);4;0
 It's A Hit!;LS;Interrupt;Official Tournament Sealed Deck (P);4;0
 It's A Trap!;LS;Interrupt;Cloud City (U);4;0
@@ -855,14 +884,14 @@ It's An Older Code;DS;Interrupt;Endor (R);4;0
 It's Not My Fault!;LS;Interrupt;Special Edition (F);4;0
 It's Worse;DS;Interrupt;Premiere (C2);4;4 // have 5
 IT-O (Eyetee-Oh);DS;Character;A New Hope (R1);4;0
-Ithorian;LS;Character;Jabba's Palace (C);4;0
+Ithorian;LS;Character;Jabba's Palace (C);4;1
 J'Quille;DS;Character;Jabba's Palace (R);4;0
 Jabba The Hutt;DS;Character;Jabba's Palace (R);4;0
 Jabba's Influence;DS;Effect;Special Edition (R);4;0
 Jabba's Palace Sabacc;DS;Interrupt;Jabba's Palace (U);4;0
 Jabba's Palace Sabacc;LS;Interrupt;Jabba's Palace (U);4;0
 Jabba's Palace: Audience Chamber;DS;Location;Jabba's Palace (U);4;1
-Jabba's Palace: Audience Chamber;LS;Location;Jabba's Palace (U);4;0
+Jabba's Palace: Audience Chamber;LS;Location;Jabba's Palace (U);4;1
 Jabba's Palace: Droid Workshop;DS;Location;Jabba's Palace (U);4;0
 Jabba's Palace: Dungeon;DS;Location;Jabba's Palace (U);4;1
 Jabba's Palace: Entrance Cavern;DS;Location;Jabba's Palace (U);4;0
@@ -876,17 +905,17 @@ Jabba's Twerps;DS;Interrupt;Special Edition (U);4;0
 Jabba;DS;Character;Special Edition (R);4;0
 Janus Greejatus;DS;Character;Death Star II (R);4;0
 Jawa Blaster;DS;Weapon;A New Hope (C2);4;1
-Jawa Ion Gun;LS;Weapon;A New Hope (C2);4;0
+Jawa Ion Gun;LS;Weapon;A New Hope (C2);4;3
 Jawa Pack;DS;Effect;Premiere (U1);4;4
-Jawa Siesta;LS;Effect;Premiere (U1);4;0
+Jawa Siesta;LS;Effect;Premiere (U1);4;1
 Jawa;DS;Character;Premiere (C2);4;4 // have 6
-Jawa;LS;Character;Premiere (C2);13;2
+Jawa;LS;Character;Premiere (C2);13;6
 Jedi Levitation;LS;Interrupt;Dagobah (R);4;0
-Jedi Lightsaber;LS;Weapon;Premiere (U1);4;0
+Jedi Lightsaber;LS;Weapon;Premiere (U1);4;4
 Jedi Mind Trick;LS;Interrupt;Jabba's Palace (R);4;0
 Jedi Presence;LS;Interrupt;Premiere (R1);4;0
-Jek Porkins;LS;Character;Premiere (U1);4;0
-Jeroen Webb;LS;Character;Hoth (U1);4;0
+Jek Porkins;LS;Character;Premiere (U1);4;4
+Jeroen Webb;LS;Character;Hoth (U1);4;1
 Jess;LS;Character;Jabba's Palace (R);4;0
 Jet Pack;DS;Device;Jabba's Palace (U);4;1
 Jodo Kast;DS;Character;Enhanced Jabba's Palace (P);4;0
@@ -895,23 +924,23 @@ Jungle;DS;Location;Special Edition (F);4;0
 Jungle;LS;Location;Special Edition (F);4;0
 Juri Juice;DS;Effect;Premiere (R2);4;1
 K'lor'slug;LS;Effect;Premiere (R1);4;0
-K-3PO (Kay-Threepio);LS;Character;Hoth (R1);4;0
-Kabe;LS;Character;Premiere (U1);4;0
-Kal'Falnl C'ndros;LS;Character;Premiere (R1);4;0
+K-3PO (Kay-Threepio);LS;Character;Hoth (R1);4;1
+Kabe;LS;Character;Premiere (U1);4;2
+Kal'Falnl C'ndros;LS;Character;Premiere (R1);4;1
 Kalit's Sandcrawler;LS;Vehicle;Special Edition (R);4;0
 Kalit;LS;Character;Jabba's Palace (R);4;0
 Kashyyyk Operative;DS;Character;Special Edition (U);4;0
 Kashyyyk Operative;LS;Character;Special Edition (U);4;0
 Kashyyyk;DS;Location;A New Hope (C1);4;2
-Kashyyyk;LS;Location;A New Hope (C1);4;0
+Kashyyyk;LS;Location;A New Hope (C1);4;1
 Kazak;LS;Character;Endor (R);4;0
-Ke Chu Ke Kukuta?;LS;Interrupt;Jabba's Palace (C);4;0
+Ke Chu Ke Kukuta?;LS;Interrupt;Jabba's Palace (C);4;1
 Kebyc;LS;Character;Cloud City (U);4;0
 Keep Your Eyes Open;LS;Interrupt;Cloud City (C);4;0
 Kessel Operative;DS;Character;Special Edition (U);4;0
-Kessel Run;LS;Effect;Premiere (R2);4;0
+Kessel Run;LS;Effect;Premiere (R2);4;1
 Kessel;DS;Location;Premiere (U2);4;4
-Kessel;LS;Location;Premiere (U2);4;0
+Kessel;LS;Location;Premiere (U2);4;4
 Ket Maliss;DS;Effect;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 5
 Ketwol;LS;Character;Special Edition (R);4;0
 Kiffex Operative;DS;Character;Special Edition (U);4;0
@@ -923,13 +952,13 @@ Kirdo III Operative;LS;Character;Special Edition (C);4;0
 Kirdo III;LS;Location;Jabba's Palace (R);4;0
 Kithaba;DS;Character;Jabba's Palace (R);4;0
 Kitik Keed'kak;DS;Character;Premiere (R1);4;0
-Kitonak;LS;Character;Jabba's Palace (C);4;0
+Kitonak;LS;Character;Jabba's Palace (C);4;2
 Klaatu;DS;Character;Jabba's Palace (R);4;0
 Klatooinian Revolutionary;LS;Character;Jabba's Palace (C);4;0
 Knowledge And Defense;DS;Effect;Dagobah (C);4;1
 Koensayr Manufacturing;LS;Effect;Special Edition (R);4;0
 Krayt Dragon Bones;DS;Effect;A New Hope (U1);4;1
-Krayt Dragon Howl;LS;Interrupt;Premiere (R1);4;0
+Krayt Dragon Howl;LS;Interrupt;Premiere (R1);4;2
 Krayt Dragon;DS;Creature;Special Edition (R);4;0
 Kuat Drive Yards;DS;Effect;Special Edition (R);4;0
 Kuat;DS;Location;Special Edition (U);4;0
@@ -950,12 +979,12 @@ Laudica;LS;Character;Jabba's Palace (R);4;0
 Leesub Sirln;LS;Character;Premiere (R2);4;0
 Legendary Starfighter;LS;Effect;Special Edition (C);4;0
 Leia Of Alderaan;LS;Effect;Cloud City (R);4;0
-Leia Organa;LS;Character;Premiere (R1);4;0
+Leia Organa;LS;Character;Premiere (R1);4;1
 Leia Seeker;DS;Weapon;A New Hope (R2);4;1
 Leia with Blaster Rifle;LS;Character;Enhanced Premiere (P);4;0
-Leia's Back;LS;Interrupt;Premiere (U2);4;0
+Leia's Back;LS;Interrupt;Premiere (U2);4;4
 Leia's Blaster Rifle;LS;Weapon;Special Edition (R);4;0
-Leia's Sporting Blaster;LS;Weapon;Premiere (U1);4;0
+Leia's Sporting Blaster;LS;Weapon;Premiere (U1);4;2
 Leia;LS;Character;Free Jedi Pack (P)/Empire Strikes Back Introductory 2-Player Game (F);4;0
 Leslomy Tacema;LS;Character;Jabba's Palace (R);4;0
 Let The Wookiee Win;LS;Interrupt;A New Hope (R1);4;0
@@ -979,16 +1008,16 @@ Lieutenant Tanbris;DS;Character;Premiere (U2);4;4
 Lieutenant Tarn Mison;LS;Character;Special Edition (R);4;0
 Lieutenant Venka;DS;Character;Dagobah (U);4;2
 Lieutenant Watts;DS;Character;Endor (R);4;0
-Life Debt;LS;Interrupt;Jabba's Palace (R);4;0
+Life Debt;LS;Interrupt;Jabba's Palace (R);4;1
 Lift Tube Escape;LS;Interrupt;Cloud City (C);4;0
 Lift Tube;DS;Vehicle;Premiere (C2);4;4
-Lift Tube;LS;Vehicle;Premiere (C2);4;0
-Light Maneuvers;LS;Interrupt;Dagobah (R);4;0
+Lift Tube;LS;Vehicle;Premiere (C2);4;4
+Light Maneuvers;LS;Interrupt;Dagobah (R);4;1
 Light Repeating Blaster Rifle;DS;Weapon;Premiere (R1);4;1
 Lightsaber Deficiency;DS;Interrupt;Hoth (U1);4;1
 Lightsaber Proficiency;LS;Effect;Premiere (R1);4;0
 Limited Resources;DS;Interrupt;Premiere (U2);4;4
-LIN-V8K (Elleyein-Veeatekay);LS;Character;Premiere (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;2
+LIN-V8K (Elleyein-Veeatekay);LS;Character;Premiere (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 6
 LIN-V8M (Elleyein-Veeateemm);DS;Character;Premiere (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 6
 Lirin Car'n;DS;Character;A New Hope (U2);4;1
 Lobel;DS;Character;Special Edition (C);4;0
@@ -998,11 +1027,11 @@ Local Defense;LS;Interrupt;Special Edition (U);4;0
 Local Trouble;DS;Interrupt;Premiere (R1);4;1
 Local Uprising / Liberation;LS;Objective;Special Edition (R);4;0
 Location, Location, Location;DS;Effect;Dagobah (R);4;0
-Logistical Delay;LS;Effect;A New Hope (U2);4;0
+Logistical Delay;LS;Effect;A New Hope (U2);4;4
 Logray;LS;Character;Endor (R);4;0
 Loje Nella;LS;Character;Jabba's Palace (R);4;0
 Lone Pilot;DS;Interrupt;Premiere (R2);4;1
-Lone Rogue;LS;Interrupt;Empire Strikes Back Introductory 2-Player Game (P);4;0
+Lone Rogue;LS;Interrupt;Empire Strikes Back Introductory 2-Player Game (P);4;3
 Lone Warrior;DS;Interrupt;Premiere (R2);4;1
 Look Sir, Droids;DS;Interrupt;Premiere (R1);4;0
 Lord Vader;DS;Character;Death Star II (R);4;0
@@ -1013,21 +1042,21 @@ Lt. Pol Treidum;DS;Character;A New Hope (C1)/Empire Strikes Back Introductory 2-
 Lt. Shann Childsen;DS;Character;A New Hope (U1);4;1
 Lucky Shot;LS;Interrupt;Hoth (U1);4;0
 Luke Seeker;DS;Weapon;Premiere (R2);4;1
-Luke Skywalker;LS;Character;Premiere (R1);4;0
+Luke Skywalker;LS;Character;Premiere (R1);4;1
 Luke with Lightsaber;LS;Character;Enhanced Premiere (P);4;0
-Luke's Back;LS;Interrupt;Premiere (U2);4;0
-Luke's Backpack;LS;Device;Dagobah (R);4;0
+Luke's Back;LS;Interrupt;Premiere (U2);4;4
+Luke's Backpack;LS;Device;Dagobah (R);4;1
 Luke's Blaster Pistol;LS;Weapon;Cloud City (R);4;0
 Luke's Cape;LS;Effect;A New Hope (R1);4;0
-Luke's Hunting Rifle;LS;Weapon;A New Hope (U1);4;0
+Luke's Hunting Rifle;LS;Weapon;A New Hope (U1);4;1
 Luke's T-16 Skyhopper;LS;Vehicle;Free Jedi Pack (P);4;0
-Luke's X-34 Landspeeder;LS;Vehicle;Premiere (U1);4;0
+Luke's X-34 Landspeeder;LS;Vehicle;Premiere (U1);4;4
 Luke;LS;Character;Premiere Introductory 2-Player Game (P);4;3
 Luke? Luuuuke!;DS;Effect;Premiere (U1);4;1
 Lumat;LS;Character;Endor (U);4;0
 Lyn Me;DS;Character;Special Edition (U);4;0
 M'iiyoom Onith;DS;Character;Premiere (U2);5;4
-M-HYD 'Binary' Droid;LS;Character;A New Hope (U1);4;0
+M-HYD 'Binary' Droid;LS;Character;A New Hope (U1);4;1
 Macroscan;DS;Effect;Premiere (C2);4;4 // have 5
 Magnetic Suction Tube;DS;Device;A New Hope (R2);4;0
 Magnetic Suction Tube;LS;Device;A New Hope (R2);4;0
@@ -1051,23 +1080,24 @@ Mara Jade, The Emperor's Hand;DS;Character;Enhanced Jabba's Palace (P);4;0
 Massassi Base Operations / One In A Million;LS;Objective;Third Anthology (P);4;0
 Master Luke;LS;Character;Enhanced Jabba's Palace (P);4;0
 Masterful Move;DS;Interrupt;Special Edition (C);4;0
-Max Rebo;LS;Character;Jabba's Palace (R);4;0
+Max Rebo;LS;Character;Jabba's Palace (R);4;1
 Mechanical Failure;LS;Effect;Special Edition (R);4;0
 Meditation;LS;Effect;Special Edition (R);4;0
 Medium Bulk Freighter;LS;Starship;Special Edition (U);4;0
-Medium Repeating Blaster Cannon;LS;Weapon;Hoth (C1);4;0
-Medium Transport;LS;Starship;Hoth (U2);4;0
+Medium Repeating Blaster Cannon;LS;Weapon;Hoth (C1);4;2
+Medium Transport;LS;Starship;Hoth (U2);4;2
 Melas;LS;Character;Special Edition (R);4;0
-Merc Sunlet;LS;Effect;A New Hope (C2);4;0
+Merc Sunlet;LS;Effect;A New Hope (C2);4;4
 Meteor Impact?;DS;Effect;Hoth (R1);4;0
 Millennium Falcon;LS;Starship;Premiere (R1);4;0
+Mon Calamari Star Cruiser;LS;Starship;Death Star II (R);4;1
 Mind What You Have Learned / Save You It Can;LS;Objective;Special Edition (R);4;0
 Mist Hunter;DS;Starship;Dagobah (R);4;0
 Mobquet A-1 Deluxe Floater;DS;Vehicle;A New Hope (C2);4;2
 Moff Jerjerrod;DS;Character;Death Star II (R);4;0
 Moisture Farmer;LS;Character;Special Edition (C);4;0
 Molator;DS;Effect;Premiere (R1);4;1
-Momaw Nadon;LS;Character;Premiere (U2);4;0
+Momaw Nadon;LS;Character;Premiere (U2);4;3
 Moment of Triumph;DS;Interrupt;Premiere (R2);4;2
 Mon Mothma;LS;Character;Endor (R);4;0
 Monnok;DS;Interrupt;A New Hope (C2);4;4
@@ -1085,14 +1115,36 @@ Much Anger In Him;DS;Effect;Dagobah (R);4;0
 Murttoc Yine;DS;Character;Jabba's Palace (R);4;1
 Myn Kyneugh;DS;Character;Death Star II (R);4;1
 Mynock;DS;Creature;Dagobah (C);4;1
-Mynock;LS;Creature;Dagobah (C);4;0
+Mynock;LS;Creature;Dagobah (C);4;1
 Myo;DS;Character;Premiere (R2);4;0
-Nabrun Leids;LS;Interrupt;Premiere (U2);4;0
+Nabrun Leids;LS;Interrupt;Premiere (U2);4;4
 Nal Hutta Operative;DS;Character;Special Edition (C);4;0
 Nal Hutta;DS;Location;Jabba's Palace (R);4;0
 Nalan Cheel;LS;Character;A New Hope (U2);4;0
-Nar Shaddaa Wind Chimes;LS;Interrupt;Jabba's Palace (U);4;0
-Narrow Escape;LS;Interrupt;Premiere (C2);4;1
+Nar Shaddaa Wind Chimes;LS;Interrupt;Jabba's Palace (U);4;1
+Accuser;DS;Starship;Death Star II (R);4;0
+Black 11;DS;Starship;Death Star II (R);4;0
+Chimaera;DS;Starship;Death Star II (R);4;0
+Dominator;DS;Starship;Death Star II (R);4;0
+Emperor's Personal Shuttle;DS;Starship;Death Star II (R);4;0
+Flagship Executor;DS;Starship;Death Star II (R);4;0
+Judicator;DS;Starship;Death Star II (R);4;0
+Obsidian 10;DS;Starship;Death Star II (U);4;0
+Onyx 1;DS;Starship;Death Star II (R);4;0
+Saber 1;DS;Starship;Death Star II (R);4;0
+Saber 2;DS;Starship;Death Star II (U);4;0
+Saber 3;DS;Starship;Death Star II (U);4;0
+Saber 4;DS;Starship;Death Star II (U);4;0
+Scimitar 1;DS;Starship;Death Star II (U);4;0
+Scimitar 2;DS;Starship;Death Star II (U);4;0
+Scimitar Squadron TIE;DS;Starship;Death Star II (C);4;0
+Scythe 1;DS;Starship;Death Star II (U);4;0
+Scythe Squadron TIE;DS;Starship;Death Star II (C);4;0
+The Emperor's Shield;DS;Starship;Death Star II (R);4;0
+The Emperor's Sword;DS;Starship;Death Star II (R);4;0
+TIE Interceptor;DS;Starship;Death Star II (C);4;0
+Visage;DS;Starship;Death Star II (R);4;0
+Narrow Escape;LS;Interrupt;Premiere (C2);4;4 // have 5
 Navy Trooper Fenson;DS;Character;Endor (R);4;0
 Navy Trooper Shield Technician;DS;Character;Endor (C);4;0
 Navy Trooper Vesden;DS;Character;Endor (U);4;0
@@ -1103,20 +1155,20 @@ Nevar Yalnal;DS;Interrupt;Premiere (R2);4;0
 Never Tell Me The Odds;LS;Effect;Dagobah (C);5;0
 Ng'ok;DS;Interrupt;A New Hope (C2);4;4
 Niado Duegad;DS;Character;Special Edition (U);4;0
-Nice Of You Guys To Drop By;LS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Nice Of You Guys To Drop By;LS;Interrupt;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;3
 Nick Of Time;LS;Effect;Special Edition (U);4;0
-Nightfall;LS;Effect;Premiere (U1);4;0
+Nightfall;LS;Effect;Premiere (U1);4;4
 Nikto;DS;Character;Jabba's Palace (C);4;0
 Nizuc Bek;DS;Character;Jabba's Palace (R);4;0
 No Bargain;DS;Effect;Special Edition (U);4;0
 No Disintegrations!;LS;Effect;Dagobah (R);4;0
-Noble Sacrifice;LS;Interrupt;Premiere (R2);4;0
+Noble Sacrifice;LS;Interrupt;Premiere (R2);4;1
 None Shall Pass;DS;Interrupt;Jabba's Palace (C);8;0
 NOOOOOOOOOOOO!;LS;Interrupt;Cloud City (R);4;0
 Nudj;LS;Creature;Dagobah (C);4;0
 Nysad;DS;Character;Jabba's Palace (R);4;0
 Obi-Wan Kenobi;LS;Character;Premiere (R1);4;0
-Obi-Wan with Lightsaber;LS;Character;Enhanced Premiere (P);4;0
+Obi-Wan With Lightsaber;LS;Character;Enhanced Premiere (P);4;1
 Obi-Wan's Apparition;LS;Effect;Dagobah (R);4;0
 Obi-Wan's Cape;LS;Effect;Premiere (R1);4;0
 Obi-Wan's Lightsaber;LS;Weapon;Premiere (R1);4;0
@@ -1127,7 +1179,7 @@ Obsidian Squadron TIE;DS;Starship;Official Tournament Sealed Deck (P);4;0
 Off The Edge;LS;Interrupt;Cloud City (R);4;0
 Officer Evax;DS;Character;A New Hope (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;2
 Oh, Switch Off;DS;Interrupt;Hoth (C2);4;3
-Old Ben;LS;Interrupt;Premiere (C2);4;1
+Old Ben;LS;Interrupt;Premiere (C2);4;4 // have 5
 Old Pirates;LS;Interrupt;Cloud City (R);4;0
 Old Times;LS;Interrupt;Special Edition (R);4;0
 Ominous Rumors;DS;Effect;Endor (R);4;0
@@ -1142,12 +1194,12 @@ Oola;LS;Character;Jabba's Palace (R);4;0
 Oppressive Enforcement;DS;Effect;Special Edition (U);4;0
 Ord Mantell Operative;DS;Character;Special Edition (C);4;0
 Ord Mantell;DS;Location;Hoth (C2);4;4
-Ord Mantell;LS;Location;Hoth (U2);4;0
+Ord Mantell;LS;Location;Hoth (U2);4;1
 Order To Engage;LS;Effect;Dagobah (R);4;0
 Organa's Ceremonial Necklace;DS;Effect;Premiere (R1);4;0
 Organized Attack;LS;Interrupt;Special Edition (C);4;0
 Orrimaarko;LS;Character;Endor (R);4;0
-Ortolan;LS;Character;Jabba's Palace (C);4;0
+Ortolan;LS;Character;Jabba's Palace (C);4;2
 Ortugg;DS;Character;Jabba's Palace (R);4;0
 OS-72-1 In Obsidian 1;DS;Starship;Special Edition (R);4;0
 OS-72-10;DS;Character;Special Edition (R);4;0
@@ -1155,32 +1207,32 @@ OS-72-2 In Obsidian 2;DS;Starship;Special Edition (R);4;0
 Our First Catch Of The Day;DS;Interrupt;Hoth (C2);4;4
 Our Most Desperate Hour;LS;Effect;Premiere (R1);4;0
 Out Of Commission;LS;Interrupt;A New Hope (U2);4;0
-Out Of Nowhere;LS;Interrupt;Premiere (U2);4;0
+Out Of Nowhere;LS;Interrupt;Premiere (U2);4;3
 Out Of Somewhere;LS;Interrupt;Cloud City (U);4;0
 Outer Rim Scout;DS;Character;Special Edition (R);4;0
 Outflank;DS;Interrupt;Endor (C);4;0
 Overload;DS;Interrupt;Premiere (C2);4;4
 Overwhelmed;DS;Interrupt;Special Edition (C);4;0
-Owen Lars;LS;Character;Premiere (U1);4;0
+Owen Lars;LS;Character;Premiere (U1);4;1
 Palejo Reshad;LS;Character;Jabba's Palace (R);4;0
-Panic;LS;Interrupt;Premiere (U1);4;0
+Panic;LS;Interrupt;Premiere (U1);4;4
 Paploo;LS;Character;Endor (U);4;0
 Path Of Least Resistance;LS;Interrupt;Cloud City (C);4;0
 Patrol Craft;DS;Vehicle;Special Edition (C);4;0
 Patrol Craft;LS;Vehicle;Special Edition (C);4;0
 Perimeter Patrol;DS;Effect;Endor (R);4;0
-Perimeter Scan;LS;Interrupt;Hoth (C2);4;0
+Perimeter Scan;LS;Interrupt;Hoth (C2);4;4
 Physical Choke;DS;Interrupt;Premiere (R1);4;1
 Pinned Down;DS;Effect;Endor (U);4;0
 Pitiful Little Band;DS;Interrupt;Endor (C);4;0
 Planet Defender Ion Cannon;LS;Weapon;Hoth (R2);4;0
 Planetary Subjugation;DS;Effect;Special Edition (U);4;0
-Plastoid Armor;LS;Effect;Premiere (U2);4;0
+Plastoid Armor;LS;Effect;Premiere (U2);4;4
 Point Man;DS;Interrupt;Cloud City (R);4;0
 Polarized Negative Power Coupling;LS;Effect;Dagobah (R);4;0
 Ponda Baba's Hold-out Blaster;DS;Weapon;Special Edition (U);4;0
 Ponda Baba;DS;Character;Premiere (U1);4;2
-Pops;LS;Character;Premiere (U1);4;0
+Pops;LS;Character;Premiere (U1);4;3
 Portable Fusion Generator;DS;Device;Hoth (C2);4;4
 Portable Fusion Generator;LS;Device;Dagobah (C);4;0
 Portable Scanner;LS;Device;Special Edition (C);4;0
@@ -1202,42 +1254,42 @@ Probe Droid Laser;DS;Weapon;Hoth (U2);4;2
 Probe Droid;DS;Character;Hoth (C2);4;2
 Probe Telemetry;DS;Interrupt;Hoth (C2);4;4
 Program Trap;DS;Effect;A New Hope (U1);4;1
-Projection Of A Skywalker;LS;Effect;Jabba's Palace (U);4;0
+Projection Of A Skywalker;LS;Effect;Jabba's Palace (U);4;1
 Projective Telepathy;DS;Interrupt;Cloud City (U);4;0
 Prophetess;DS;Character;Premiere (U1);4;1
 Protector;LS;Interrupt;Cloud City (R);4;0
 Proton Bombs;DS;Weapon;Dagobah (U);4;0
-Proton Torpedoes;LS;Weapon;Premiere (C2);4;0
+Proton Torpedoes;LS;Weapon;Premiere (C2);4;4
 Pucumir Thryss;LS;Character;Jabba's Palace (R);4;0
 Punch It!;LS;Interrupt;Cloud City (R);4;0
 Punishing One;DS;Starship;Dagobah (R);4;0
 Put All Sections On Alert;DS;Interrupt;Special Edition (C);4;0
 Put That Down;LS;Interrupt;Cloud City (C);4;0
-Quad Laser Cannon;LS;Weapon;Premiere (U1);4;0
+Quad Laser Cannon;LS;Weapon;Premiere (U1);4;1
 Quarren;DS;Character;Jabba's Palace (C);4;0
 Quick Draw;LS;Effect;Dagobah (C);4;0
 Quick Reflexes;DS;Effect;Jabba's Palace (C);4;2
 Quiet Mining Colony / Independent Operation;LS;Objective;Enhanced Cloud City (P);4;0
-Quite A Mercenary;LS;Interrupt;A New Hope (C2);4;0
+Quite A Mercenary;LS;Interrupt;A New Hope (C2);4;3
 R'kik D'nec, Hero Of The Dune Sea;LS;Character;Jabba's Palace (R);4;0
 R-3PO (Ar-Threepio);LS;Character;Hoth (R2);4;0
 R1-G4 (Arone-Geefour);DS;Character;Premiere (C2);4;4
-R2 Sensor Array;LS;Device;Hoth (C2);4;0
+R2 Sensor Array;LS;Device;Hoth (C2);4;3
 R2-A5;DS;Character;Special Edition (U);4;0
 R2-D2 (Artoo-Detoo);LS;Character;A New Hope (R2);4;0
 R2-Q2 (Artoo-Kyootoo);DS;Character;A New Hope (C2);4;4
-R2-X2 (Artoo-Extoo);LS;Character;Premiere (C2);4;0
+R2-X2 (Artoo-Extoo);LS;Character;Premiere (C2);4;4
 R3-A2;LS;Character;Special Edition (U);4;0
 R3-T2;LS;Character;Special Edition (R);4;0
 R3-T6 (Arthree-Teesix);DS;Character;A New Hope (R1);4;1
-R4-E1 (Arfour-Eeone);LS;Character;Premiere (C2);4;0
+R4-E1 (Arfour-Eeone);LS;Character;Premiere (C2);4;4
 R4-M9 (Arfour-Emmnine);DS;Character;Premiere (C2);4;4
 R5-A2 (Arfive-Aytoo);DS;Character;A New Hope (C2);10;3
-R5-D4 (Arfive-Defour);LS;Character;A New Hope (C2);4;0
-R5-M2 (Arfive-Emmtoo);LS;Character;Hoth (C2);4;0
-RA-7 (Aray-Seven);LS;Character;A New Hope (C2);4;0
+R5-D4 (Arfive-Defour);LS;Character;A New Hope (C2);4;4
+R5-M2 (Arfive-Emmtoo);LS;Character;Hoth (C2);4;4
+RA-7 (Aray-Seven);LS;Character;A New Hope (C2);4;4
 Rabin;LS;Character;Endor (U);4;0
-Radar Scanner;LS;Interrupt;Premiere (C2);4;0
+Radar Scanner;LS;Interrupt;Premiere (C2);4;4
 Raithal Operative;DS;Character;Special Edition (C);4;0
 Raithal;DS;Location;Dagobah (U);4;0
 Raithal;LS;Location;Dagobah (R);4;0
@@ -1245,7 +1297,7 @@ Ralltiir Freighter Captain;LS;Character;Special Edition (F);4;0
 Ralltiir Operations / In The Hands Of The Empire;DS;Objective;Special Edition (R);4;0
 Ralltiir Operative;LS;Character;Special Edition (C);4;0
 Ralltiir;DS;Location;A New Hope (C1);4;2
-Ralltiir;LS;Location;A New Hope (C1);4;0
+Ralltiir;LS;Location;A New Hope (C1);4;1
 Rancor;DS;Creature;Jabba's Palace (R);4;0
 Rapid Deployment;LS;Interrupt;Endor (R);4;0
 Rapid Fire;LS;Interrupt;Special Edition (C);4;0
@@ -1253,35 +1305,36 @@ Rappertunie;DS;Character;Special Edition (U);4;0
 Rayc Ryjerd;LS;Character;Jabba's Palace (R);4;0
 Reactor Terminal;DS;Effect;Premiere (U2);4;4
 Rebel Ambush;LS;Interrupt;Special Edition (C);4;0
-Rebel Barrier;LS;Interrupt;Premiere (C2);4;1
+Rebel Barrier;LS;Interrupt;Premiere (C2);4;4 // have 5
 Rebel Base Occupation;DS;Effect;Special Edition (R);4;0
-Rebel Commander;LS;Character;A New Hope (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Rebel Commander;LS;Character;A New Hope (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
+That Thing's Operational;DS;Epic Event;Death Star II (R);4;0
 Rebel Fleet;LS;Effect;Special Edition (R);4;0
 Rebel Flight Suit;LS;Device;Dagobah (C);4;0
-Rebel Guard;LS;Character;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;2
-Rebel Pilot;LS;Character;Premiere (C2);4;0
-Rebel Planners;LS;Effect;Premiere (R2);4;0
-Rebel Reinforcements;LS;Interrupt;Premiere (C1);4;1
-Rebel Scout;LS;Character;Hoth (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;0
-Rebel Snowspeeder;LS;Vehicle;Empire Strikes Back Introductory 2-Player Game (P);4;0
-Rebel Squad Leader;LS;Character;A New Hope (C3);4;0
+Rebel Guard;LS;Character;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 6
+Rebel Pilot;LS;Character;Premiere (C2);4;4
+Rebel Planners;LS;Effect;Premiere (R2);4;1
+Rebel Reinforcements;LS;Interrupt;Premiere (C1);4;4 // have 5
+Rebel Scout;LS;Character;Hoth (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;4
+Rebel Snowspeeder;LS;Vehicle;Empire Strikes Back Introductory 2-Player Game (P);4;4 // have 5
+Rebel Squad Leader;LS;Character;A New Hope (C3);4;4
 Rebel Strike Team / Garrison Destroyed;LS;Objective;Endor (R);4;0
-Rebel Tech;LS;Character;A New Hope (C1);4;0
+Rebel Tech;LS;Character;A New Hope (C1);4;1
 Rebel Trooper Recruit;LS;Character;Official Tournament Sealed Deck (P);4;0
-Rebel Trooper;LS;Character;Premiere (C3);4;4 // Have 7
+Rebel Trooper;LS;Character;Premiere (C3);4;4 // Have 11
 Recoil In Fear;LS;Interrupt;Dagobah (C);4;0
-Rectenna;LS;Device;A New Hope (C2);4;0
+Rectenna;LS;Device;A New Hope (C2);4;3
 Red 10;LS;Starship;Special Edition (U);4;0
-Red 1;LS;Starship;Premiere (U1);4;0
+Red 1;LS;Starship;Premiere (U1);4;1
 Red 2;LS;Starship;A New Hope (R1);4;0
 Red 3;LS;Starship;Premiere (R2);4;0
 Red 5;LS;Starship;A New Hope (R1);4;0
-Red 6;LS;Starship;A New Hope (U1);4;0
+Red 6;LS;Starship;A New Hope (U1);4;1
 Red 7;LS;Starship;Special Edition (U);4;0
 Red 8;LS;Starship;Special Edition (U);4;0
 Red 9;LS;Starship;Special Edition (U);4;0
 Red Leader In Red 1;LS;Starship;Rebel Leader Pack (P);4;0
-Red Leader;LS;Character;Premiere (R1);4;0
+Red Leader;LS;Character;Premiere (R1);4;1
 Red Squadron X-wing;LS;Starship;Official Tournament Sealed Deck (P);4;0
 Redemption;LS;Starship;Cloud City (R);4;0
 Ree-Yees;DS;Character;Jabba's Palace (R);4;0
@@ -1290,7 +1343,7 @@ Reflection;LS;Effect;Dagobah (R);4;0
 Release Your Anger;DS;Interrupt;Cloud City (R);4;0
 Relentless Pursuit;DS;Interrupt;Special Edition (C);4;0
 Relentless Tracking;DS;Effect;Endor (R);4;0
-Remote;LS;Device;A New Hope (C2);4;0
+Remote;LS;Device;A New Hope (C2);4;2
 Rendezvous Point On Tatooine;LS;Interrupt;Cloud City (R);4;0
 Rendezvous Point;LS;Location;Special Edition (R);4;0
 Rendili StarDrive;DS;Effect;Special Edition (R);4;0
@@ -1304,14 +1357,14 @@ Reserve Pilot;DS;Character;A New Hope (U1);4;2
 Resistance;DS;Effect;Jabba's Palace (U);4;0
 Responsibility Of Command;DS;Effect;Hoth (R1);4;0
 Restraining Bolt;DS;Device;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-Restraining Bolt;LS;Device;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Restraining Bolt;LS;Device;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Restriced Access;DS;Effect;Cloud City (C);4;0
-Restricted Deployment;LS;Effect;Premiere (U1);4;0
+Restricted Deployment;LS;Effect;Premiere (U1);4;3
 Retract The Bridge;DS;Interrupt;A New Hope (R1);4;0
 Retractable Arm;LS;Device;Dagobah (C);4;0
-Return Of A Jedi;LS;Interrupt;Premiere (U2);4;0
+Return Of A Jedi;LS;Interrupt;Premiere (U2);4;4
 Return To Base;DS;Effect;Special Edition (R);4;0
-Revealed;LS;Interrupt;Jabba's Palace (U);4;0
+Revealed;LS;Interrupt;Jabba's Palace (U);4;1
 Revolution;LS;Effect;Premiere (R1);4;0
 Rite Of Passage;DS;Interrupt;Cloud City (C);4;0
 Roche;LS;Location;Special Edition (U);4;0
@@ -1323,9 +1376,9 @@ Rogue 3;LS;Vehicle;Hoth (R1);4;0
 Rogue 4;LS;Vehicle;Special Edition (R);4;0
 Rogue Asteroid;DS;Effect;Dagobah (C);4;0
 Rogue Asteroid;LS;Effect;Dagobah (C);4;0
-Rogue Bantha;LS;Vehicle;A New Hope (U1);4;0
-Rogue Gunner;LS;Character;Hoth (C2);4;0
-Romas "Lock" Navander;LS;Character;Hoth (U2);4;0
+Rogue Bantha;LS;Vehicle;A New Hope (U1);4;2
+Rogue Gunner;LS;Character;Hoth (C2);4;4
+Romas "Lock" Navander;LS;Character;Hoth (U2);4;4
 Romba;LS;Character;Endor (R);4;0
 Ronto;DS;Vehicle;Special Edition (C);4;0
 Ronto;LS;Vehicle;Special Edition (C);4;0
@@ -1341,21 +1394,21 @@ S-foils;LS;Effect;Special Edition (C);4;0
 Sabotage;LS;Interrupt;A New Hope (U1);4;0
 Sacrifice;DS;Interrupt;Special Edition (F);4;0
 Saelt-Marae;LS;Character;Jabba's Palace (R);4;0
-Sai'torr Kal Fas;LS;Effect;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;1
+Sai'torr Kal Fas;LS;Effect;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 5
 Salacious Crumb;DS;Character;Jabba's Palace (R);4;1
 Sandcrawler: Droid Junkheap;DS;Location;A New Hope (R1);4;0
 Sandcrawler: Loading Bay;LS;Location;A New Hope (R1);4;0
 Sandcrawler;DS;Vehicle;Premiere (R2);4;2
-Sandcrawler;LS;Vehicle;Premiere (R2);4;0
+Sandcrawler;LS;Vehicle;Premiere (R2);4;2
 Sandspeeder;LS;Vehicle;Special Edition (F);4;0
 Sandtrooper;DS;Character;Special Edition (F);4;0
 Sandwhirl;DS;Effect;Jabba's Palace (U);4;1
 Sandwhirl;LS;Effect;Jabba's Palace (U);4;0
 Sarlacc;DS;Creature;Special Edition (R);4;0
-Saurin;LS;Character;A New Hope (C2);4;0
-Scanner Techs;LS;Effect;A New Hope (U1);4;0
+Saurin;LS;Character;A New Hope (C2);4;4
+Scanner Techs;LS;Effect;A New Hope (U1);4;1
 Scanning Crew;DS;Interrupt;Premiere (C2);8;5
-Scomp Link Access;LS;Interrupt;Premiere (C2);4;0
+Scomp Link Access;LS;Interrupt;Premiere (C2);4;4
 Scout Blaster;DS;Weapon;Endor (C);4;0
 Scout Recon;DS;Interrupt;Endor (C);4;0
 Scramble;LS;Effect;Dagobah (U);4;0
@@ -1371,7 +1424,7 @@ See-Threepio;LS;Character;Enhanced Jabba's Palace (P);4;0
 Self-Destruct Mechanism;DS;Interrupt;Hoth (U1);4;2
 Send A Detachment Down;DS;Effect;Premiere (R1);4;0
 Sense;DS;Interrupt;Premiere (U1);8;4
-Sense;LS;Interrupt;Premiere (U1);11;0
+Sense;LS;Interrupt;Premiere (U1);11;1
 Sensor Panel;LS;Device;A New Hope (U1);4;0
 Sentinel-Class Landing Craft;DS;Starship;Special Edition (F);4;0
 Sergeant Barich;DS;Character;Endor (R);4;0
@@ -1396,20 +1449,20 @@ SFS L-s9.3 Laser Cannons;DS;Weapon;Special Edition (C);4;0
 Shasa Tiel;LS;Character;Jabba's Palace (R);4;0
 Shattered Hope;DS;Interrupt;Cloud City (U);4;0
 Shawn Valdez;LS;Character;Hoth (U1);4;0
-Shistavanen Wolfman;LS;Character;Premiere (C2);4;3
+Shistavanen Wolfman;LS;Character;Premiere (C2);4;4 // have 7
 Shocking Information;LS;Interrupt;Cloud City (C);4;0
 Shocking Revelation;DS;Interrupt;Cloud City (C);4;0
 Shoo! Shoo!;LS;Interrupt;Dagobah (U);4;0
 Short-range Fighters;DS;Interrupt;Special Edition (R);4;0
 Shot In The Dark;DS;Effect;Dagobah (U);7;0
 Shut Him Up Or Shut Him Down;DS;Interrupt;Dagobah (U);4;0
-Sic-Six;LS;Character;Jabba's Palace (C);4;0
+Sic-Six;LS;Character;Jabba's Palace (C);4;1
 Sienar Fleet Systems;DS;Effect;Special Edition (R);4;0
 Silence Is Golden;DS;Effect;Hoth (U2);4;4
 Sim Aloo;DS;Character;Death Star II (R);4;0
 Size Matters Not;LS;Jedi Test;Dagobah (R);4;0
 Skiff;DS;Vehicle;Jabba's Palace (C);4;0
-Skiff;LS;Vehicle;Jabba's Palace (C);4;0
+Skiff;LS;Vehicle;Jabba's Palace (C);4;1
 Skrilling;DS;Character;Jabba's Palace (C);4;4
 Skull;LS;Interrupt;Jabba's Palace (U);4;0
 Skywalkers;LS;Interrupt;Premiere (R1);4;0
@@ -1422,19 +1475,19 @@ Smoke Screen;LS;Interrupt;Cloud City (R);4;0
 Smuggler's Blues;LS;Effect;Dagobah (R);4;0
 Sneak Attack;DS;Interrupt;Endor (C);4;0
 Sniper;DS;Interrupt;A New Hope (U1);4;1
-Snivvian;LS;Character;Jabba's Palace (C);4;0
-Snowspeeder;LS;Vehicle;Hoth (U2);5;0
+Snivvian;LS;Character;Jabba's Palace (C);4;1
+Snowspeeder;LS;Vehicle;Hoth (U2);5;1
 Snowtrooper Officer;DS;Character;Hoth (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Snowtrooper;DS;Character;Hoth (C3)/Empire Strikes Back Introductory 2-Player Game (F);4;4
-Solo Han;LS;Interrupt;Premiere (R2);4;0
-Solomahal;LS;Effect;A New Hope (C2);4;0
+Solo Han;LS;Interrupt;Premiere (R2);4;1
+Solomahal;LS;Effect;A New Hope (C2);4;3
 Someone Who Loves You;LS;Interrupt;Jabba's Palace (U);4;0
 Somersault;LS;Interrupt;Cloud City (C);4;0
 Something Hit Us!;DS;Interrupt;Dagobah (U);4;0
-Son Of Skywalker;LS;Character;Dagobah (R);4;0
+Son Of Skywalker;LS;Character;Dagobah (R);4;1
 Sonic Bombardment;DS;Interrupt;Cloud City (U);4;0
-SoroSuub V-35 Landspeeder;LS;Vehicle;Premiere (C2);4;0
-Sorry About The Mess;LS;Interrupt;A New Hope (U1);4;0
+SoroSuub V-35 Landspeeder;LS;Vehicle;Premiere (C2);4;4
+Sorry About The Mess;LS;Interrupt;A New Hope (U1);4;1
 Soth Petikkin;LS;Character;Special Edition (R);4;0
 Sound The Attack;LS;Interrupt;Endor (C);4;0
 Space Slug;DS;Creature;Dagobah (U);4;0
@@ -1444,11 +1497,11 @@ Spaceport City;LS;Location;Special Edition (F);4;0
 Spaceport Docking Bay;DS;Location;Special Edition (F);4;0
 Spaceport Docking Bay;LS;Location;Special Edition (F);4;0 
 Spaceport Prefect's Office;DS;Location;Special Edition (F);4;0
-Spaceport Speeders;LS;Interrupt;Premiere (U2);4;0
+Spaceport Speeders;LS;Interrupt;Premiere (U2);4;4
 Spaceport Street;DS;Location;Special Edition (F);4;0
 Spaceport Street;LS;Location;Special Edition (F);4;0
 Special Delivery;DS;Effect;Cloud City (C);4;0
-Special Modifications;LS;Effect;Premiere (U1);4;0
+Special Modifications;LS;Effect;Premiere (U1);4;2
 Speeder Bike Cannon;DS;Weapon;Endor (U);4;0
 Speeder Bike;DS;Vehicle;Endor (C);4;0
 Speeder Bike;LS;Vehicle;Endor (C);4;0
@@ -1473,9 +1526,9 @@ Sudden Impact;DS;Effect;Dagobah (U);4;0
 Sunsdown;DS;Effect;Premiere (U1);4;1
 Superlaser;DS;Weapon;A New Hope (R2);4;1
 Suppressive Fire;LS;Interrupt;Special Edition (C);4;0
-Surface Defense Cannon;LS;Weapon;Hoth (R2);4;0
+Surface Defense Cannon;LS;Weapon;Hoth (R2);4;2
 Surface Defense;DS;Interrupt;Special Edition (R);4;0
-Surprise Assault;LS;Interrupt;Premiere (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;2
+Surprise Assault;LS;Interrupt;Premiere (C1)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 6
 Surprise Counter Assault;LS;Interrupt;Endor (R);4;0
 Surprise;DS;Interrupt;Cloud City (R);4;0
 Surreptitious Glance;LS;Interrupt;Cloud City (R);4;0
@@ -1494,54 +1547,54 @@ Take Evasive Action;DS;Interrupt;Dagobah (C);4;0
 Take The Initiative;LS;Interrupt;Endor (C);4;0
 Takeel;DS;Interrupt;Premiere (C2);4;4 // have 5
 Tallon Roll;DS;Interrupt;Premiere (C2);4;4
-Talz;LS;Character;Premiere (C2);4;3
+Talz;LS;Character;Premiere (C2);4;4 // have 7
 Tamizander Rey;LS;Character;Hoth (U2);4;0
-Tamtel Skreej;LS;Character;Jabba's Palace (R);4;0
+Tamtel Skreej;LS;Character;Jabba's Palace (R);4;1
 Tantive IV;LS;Starship;A New Hope (R1);4;0
 Tanus Spijek;LS;Character;Jabba's Palace (R);4;0
 Target The Main Generator;DS;Epic Event;Hoth (R2);4;0
-Targeting Computer;LS;Device;Premiere (U1);4;0
+Targeting Computer;LS;Device;Premiere (U1);4;3
 Tarkin Seeker;LS;Weapon;Premiere (R2);4;0
 Tarkin's Bounty;DS;Effect;Special Edition (U);4;0
 Tarkin's Orders;DS;Interrupt;Official Tournament Sealed Deck (P);4;0
 Tarkin;DS;Character;Free Jedi Pack (P);4;0
 Tatooine Celebration;LS;Effect;Special Edition (R);4;0
 Tatooine Occupation;DS;Effect;Special Edition (R);4;0
-Tatooine Utility Belt;LS;Device;Premiere (C2);4;2
+Tatooine Utility Belt;LS;Device;Premiere (C2);4;4 // have 6
 Tatooine: Anchorhead;LS;Location;Special Edition (F);4;0
 Tatooine: Beggar's Canyon;LS;Location;Special Edition (R);4;0
 Tatooine: Bluffs;DS;Location;A New Hope (R1);4;0
 Tatooine: Cantina;DS;Location;Premiere (R2);4;0
-Tatooine: Cantina;LS;Location;Premiere (R2);4;0
+Tatooine: Cantina;LS;Location;Premiere (R2);4;1
 Tatooine: Desert;DS;Location;Jabba's Palace (C);4;0
-Tatooine: Desert;LS;Location;Jabba's Palace (C);4;0
+Tatooine: Desert;LS;Location;Jabba's Palace (C);4;2
 Tatooine: Docking Bay 94;DS;Location;Premiere (C2);4;4 // have 5
-Tatooine: Docking Bay 94;LS;Location;Premiere (C2);4;2
-Tatooine: Dune Sea;LS;Location;Premiere (C1);4;1
+Tatooine: Docking Bay 94;LS;Location;Premiere (C2);4;4 // have 6
+Tatooine: Dune Sea;LS;Location;Premiere (C1);4;4 // have 5
 Tatooine: Great Pit Of Carkoon;DS;Location;Jabba's Palace (U);4;0
-Tatooine: Hutt Canyon;LS;Location;Jabba's Palace (U);4;0
+Tatooine: Hutt Canyon;LS;Location;Jabba's Palace (U);4;1
 Tatooine: Jabba's Palace;DS;Location;Jabba's Palace (U);4;2
 Tatooine: Jabba's Palace;LS;Location;Special Edition (C);4;0
 Tatooine: Jawa Camp;DS;Location;Premiere (C1);4;4 // have 5
-Tatooine: Jawa Camp;LS;Location;Premiere (C1);4;2
+Tatooine: Jawa Camp;LS;Location;Premiere (C1);4;4 // have 6
 Tatooine: Jawa Canyon;DS;Location;Special Edition (U);4;0
 Tatooine: Jawa Canyon;LS;Location;Special Edition (U);4;0
 Tatooine: Jundland Wastes;DS;Location;Premiere (C1);4;4 // have 5
 Tatooine: Jundland Wastes;LS;Location;Official Tournament Sealed Deck (P);4;0
 Tatooine: Krayt Dragon Pass;DS;Location;Special Edition (F);4;0
 Tatooine: Lars' Moisture Farm;DS;Location;Premiere (U2);4;4
-Tatooine: Lars' Moisture Farm;LS;Location;Premiere (C1);4;0 // Intro 2-player set has wrong text
+Tatooine: Lars' Moisture Farm;LS;Location;Premiere (C1);4;1 // Intro 2-player set has wrong text
 Tatooine: Mos Eisley;DS;Location;Premiere (C1);4;4 // have 5
-Tatooine: Mos Eisley;LS;Location;Premiere (U2);4;0
-Tatooine: Obi-Wan's Hut;LS;Location;Premiere (R1);4;0
+Tatooine: Mos Eisley;LS;Location;Premiere (U2);4;4
+Tatooine: Obi-Wan's Hut;LS;Location;Premiere (R1);4;3
 Tatooine: Tosche Station;LS;Location;Special Edition (C);4;0
 Tatooine: Tusken Canyon;DS;Location;Official Tournament Sealed Deck (P);4;0
 Tatooine;DS;Location;Premiere (C2);4;4
-Tatooine;LS;Location;Premiere (C2);4;0
-Tauntaun Bones;LS;Effect;Hoth (U1);4;0
-Tauntaun Handler;LS;Character;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Tatooine;LS;Location;Premiere (C2);4;4
+Tauntaun Bones;LS;Effect;Hoth (U1);4;1
+Tauntaun Handler;LS;Character;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Tauntaun Skull;DS;Interrupt;Special Edition (C);4;0
-Tauntaun;LS;Vehicle;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;0
+Tauntaun;LS;Vehicle;Hoth (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4
 Tawss Khaa;LS;Character;Special Edition (R);4;0
 Taym Dren-garen;DS;Character;Jabba's Palace (R);4;0
 Tech Mo'r;DS;Character;A New Hope (U2);4;1
@@ -1557,20 +1610,20 @@ Tempest Scout 6;DS;Vehicle;Endor (R);4;0
 Tempest Scout;DS;Vehicle;Endor (U);4;0
 Tentacle;DS;Effect;A New Hope (C2);4;2
 Tessek;LS;Character;Jabba's Palace (R);4;0
-Thank The Maker;LS;Interrupt;Premiere (R2);4;0
+Thank The Maker;LS;Interrupt;Premiere (R2);4;1
 That's It, The Rebels Are There!;DS;Interrupt;Hoth (U2);4;2
 That's One;LS;Effect;Endor (R);4;0
-The Bith Shuffle;LS;Interrupt;Premiere (C2);4;1
+The Bith Shuffle;LS;Interrupt;Premiere (C2);4;4
 The Circle Is Now Complete;DS;Interrupt;Premiere (R1);4;1
 The Dark Path;DS;Effect;Dagobah (R);4;0
 The Emperor's Prize;DS;Effect;Cloud City (R);4;0
 The Empire's Back;DS;Interrupt;Premiere (U1);4;2
 The First Transport Is Away!;LS;Effect;Hoth (R1);4;0
-The Force Is Strong With This One;LS;Interrupt;Premiere (R2);4;0
+The Force Is Strong With This One;LS;Interrupt;Premiere (R2);4;1
 The Planet That It's Farthest From;LS;Effect;Special Edition (U);4;0
 The Professor;LS;Effect;Dagobah (R);4;0
 The Shield Doors Must Be Closed;DS;Effect;Hoth (U1);4;0
-The Signal;LS;Interrupt;Jabba's Palace (C);4;0
+The Signal;LS;Interrupt;Jabba's Palace (C);4;1
 Thedit;LS;Character;Special Edition (R);4;0
 There Is No Try;DS;Effect;Dagobah (C);4;1
 There'll Be Hell To Pay;DS;Effect;A New Hope (U2);4;4
@@ -1583,7 +1636,7 @@ They're Tracking Us;LS;Interrupt;Special Edition (C);4;0
 They've Shut Down The Main Reactor;DS;Interrupt;Special Edition (C);4;0
 This Deal Is Getting Worse All The Time / Pray I Don't Alter It Any Further;DS;Objective;Enhanced Cloud City (P);4;0
 This Is Absolutely Right;LS;Interrupt;Endor (R);4;0
-This Is All Your Fault;LS;Interrupt;Premiere (U1);4;0
+This Is All Your Fault;LS;Interrupt;Premiere (U1);4;3
 This Is Even Better;LS;Interrupt;Cloud City (R);4;0
 This Is Just Wrong;DS;Effect;Hoth (R1);4;0
 This Is More Like It;LS;Interrupt;Dagobah (R);4;0
@@ -1612,15 +1665,24 @@ TIE Vanguard;DS;Starship;A New Hope (C2);4;3
 Tight Squeeze;LS;Interrupt;Dagobah (R);4;0
 Tigran Jamiro;LS;Character;Hoth (U1);4;0
 Timer Mine;DS;Weapon;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 6
-Timer Mine;LS;Weapon;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;3
+Timer Mine;LS;Weapon;Premiere (C2)/Empire Strikes Back Introductory 2-Player Game (F);4;4 // have 7
 Tiree;LS;Character;A New Hope (U2);4;0
 TK-422;LS;Character;Special Edition (R);4;0
 Tonnika Sisters;DS;Character;Premiere (R1);4;0
 Too Cold For Speeders;DS;Effect;Hoth (U1);4;0
 Torture;DS;Interrupt;Jabba's Palace (C);4;1
-Toryn Farr;LS;Character;Hoth (U1);4;0
+Toryn Farr;LS;Character;Hoth (U1);4;1
 Tractor Beam;DS;Device;A New Hope (U1);4;2
-Traffic Control;LS;Effect;Premiere (U2);4;0
+Traffic Control;LS;Effect;Premiere (U2);4;4
+Death Star II;DS;Location;Death Star II (R);4;0
+Death Star II: Capacitors;DS;Location;Death Star II (C);4;0
+Death Star II: Coolant Shaft;DS;Location;Death Star II (C);4;0
+Death Star II: Docking Bay;DS;Location;Death Star II (C);4;0
+Death Star II: Reactor Core;DS;Location;Death Star II (C);4;0
+Death Star II: Throne Room;DS;Location;Death Star II (R);4;0
+Gall;DS;Location;Death Star II (C);4;0
+Mon Calamari;DS;Location;Death Star II (C);4;0
+Sullust;DS;Location;Death Star II (C);4;0
 Trample;DS;Interrupt;Hoth (R1);4;0
 Trandoshan;DS;Character;Jabba's Palace (C);4;1
 Transmission Terminated;LS;Interrupt;Dagobah (U);4;0
@@ -1634,10 +1696,10 @@ Trooper Jerrol Blendin;DS;Character;Cloud City (U);4;0
 Trooper Sabacc;DS;Interrupt;Special Edition (F);4;0
 Trooper Sabacc;LS;Interrupt;Special Edition (F);4;0
 Trooper Utris M'toc;LS;Character;Cloud City (U);4;0
-Tunnel Vision;LS;Interrupt;Dagobah (U);4;0
+Tunnel Vision;LS;Interrupt;Dagobah (U);4;1
 Turbolaser Battery;DS;Weapon;Premiere (R2);4;4
 Turn It Off! Turn It Off!;DS;Interrupt;Hoth (C1);4;3
-Tusken Breath Mask;LS;Effect;Premiere (U1);4;0
+Tusken Breath Mask;LS;Effect;Premiere (U1);4;2
 Tusken Raider;DS;Character;Premiere (C2);4;4 // Have 9
 Tusken Scavengers;DS;Interrupt;Premiere (C2);4;4 // have 5
 Twi'lek Advisor;DS;Interrupt;Jabba's Palace (C);4;1
@@ -1649,7 +1711,7 @@ Ubrikkian 9000 Z001;DS;Vehicle;Premiere (C2);4;4
 Ugloste;DS;Character;Cloud City (R);4;0
 Ugnaught;DS;Character;Cloud City (C);4;0
 Uh-oh!;LS;Effect;Special Edition (U);4;0
-Ultimatum;LS;Effect;Jabba's Palace (U);4;0
+Ultimatum;LS;Effect;Jabba's Palace (U);4;1
 Umpass-stay;DS;Character;Special Edition (R);4;0
 Uncertain Is The Future;DS;Interrupt;Dagobah (C);4;0
 Uncontrollable Fury;LS;Effect;Cloud City (R);4;0
@@ -1673,14 +1735,14 @@ Vader's Lightsaber;DS;Weapon;Premiere (R1);4;1
 Vader's Obsession;DS;Interrupt;Premiere Introductory 2-Player Game (P);4;3
 Vader's Personal Shuttle;DS;Starship;Special Edition (R);4;0
 Vader;DS;Character;Premiere Introductory 2-Player Game (P);4;3
-Vaporator;LS;Device;Premiere (C2);4;0
+Vaporator;LS;Device;Premiere (C2);4;4
 Vedain;DS;Character;Jabba's Palace (R);4;0
 Veers;DS;Character;Empire Strikes Back Introductory 2-Player Game (P);4;3
 Vehicle Mine;DS;Weapon;Hoth (C2);4;2
-Vehicle Mine;LS;Weapon;Hoth (C2);4;0
+Vehicle Mine;LS;Weapon;Hoth (C2);4;4
 Velken Tezeri;DS;Character;Jabba's Palace (R);4;0
 Vengeance;DS;Starship;Special Edition (R);4;0
-Verka Mig;LS;Effect;Premiere (U1);4;0
+Yerka Mig;LS;Effect;Premiere (U1);4;3
 Vibro-Ax;DS;Weapon;Jabba's Palace (C);4;1
 Vibro-Ax;LS;Weapon;Jabba's Palace (C);4;0
 Victory-Class Star Destroyer;DS;Starship;A New Hope (U1);7;3
@@ -1694,7 +1756,7 @@ Vul Tazaene;LS;Character;Jabba's Palace (R);4;0
 Wakeelmui;DS;Location;Special Edition (U);4;0
 Walker Barrage;DS;Interrupt;Hoth (U1);4;1
 Walker Garrison;DS;Interrupt;Empire Strikes Back Introductory 2-Player Game (P);5;3
-Walker Sighting;LS;Interrupt;Hoth (U2);4;0
+Walker Sighting;LS;Interrupt;Hoth (U2);4;1
 Wall Of Fire;DS;Interrupt;Hoth (U1);4;0
 Wampa;DS;Creature;Hoth (R2);4;1
 Warrant Officer M'Kae;DS;Character;Dagobah (U);4;0
@@ -1706,18 +1768,18 @@ We Don't Need Their Scum;LS;Interrupt;Dagobah (R);4;0
 We Have A Prisoner;DS;Interrupt;A New Hope (C2);4;3
 We'll Find Han;LS;Interrupt;Cloud City (R);4;0
 We're All Gonna Be A Lot Thinner!;DS;Interrupt;Premiere (R1);4;0
-We're Doomed;LS;Interrupt;Premiere (C2);4;1
+We're Doomed;LS;Interrupt;Premiere (C2);4;4 // have 5
 We're In Attack Position Now;DS;Admiral's Order;Death Star II (R);4;0
 We're The Bait;DS;Effect;Cloud City (R);4;0
 Weapon Levitation;DS;Interrupt;Cloud City (U);4;0
-Weapon Levitation;LS;Interrupt;Jabba's Palace (U);4;0
+Weapon Levitation;LS;Interrupt;Jabba's Palace (U);4;1
 Weapon Malfunction;DS;Effect;Hoth (R1);4;0
 Weapon Of An Ungrateful Son;DS;Interrupt;Cloud City (U);4;0
 Weapons Display;LS;Effect;Special Edition (C);4;0
 Weather Vane;DS;Effect;Cloud City (U);4;0
 Weather Vane;LS;Effect;Cloud City (U);4;0
-WED-1016 'Techie' Droid;LS;Character;Hoth (C1);4;0
-WED-9-M1 'Bantha' Droid;LS;Character;Premiere (R2);4;0
+WED-1016 'Techie' Droid;LS;Character;Hoth (C1);4;1
+WED-9-M1 'Bantha' Droid;LS;Character;Premiere (R2);4;1
 WED15-1662 'Treadwell' Droid;DS;Character;Premiere (R2);4;2
 WED15-17 'Septoid' Droid;DS;Character;A New Hope (U2);4;0
 Wedge Antilles;LS;Character;A New Hope (R1);4;0
@@ -1730,57 +1792,63 @@ Well-earned Command;DS;Effect;Endor (R);4;0
 Were You Looking For Me?;LS;Interrupt;Endor (R);4;0
 Wes Janson;LS;Character;Hoth (R2);4;0
 WHAAAAAAAAAOOOOW!;LS;Interrupt;Dagobah (R);4;0
-What Is Thy Bidding, My Master?;LS;Effect;Dagobah (R);4;0
-What're You Tryin' To Push On Us?;LS;Effect;A New Hope (U2);4;0
+What Is Thy Bidding, My Master?;LS;Effect;Dagobah (R);4;1
+What're You Tryin' To Push On Us?;LS;Effect;A New Hope (U2);4;1
 Whiphid;DS;Character;Jabba's Palace (C);4;1
-Who's Scruffy-Looking?;LS;Interrupt;Hoth (R1);4;0
+Who's Scruffy-Looking?;LS;Interrupt;Hoth (R1);4;1
 Why Didn't You Tell Me?;DS;Interrupt;Cloud City (R);4;0
 Wicket;LS;Character;Endor (R);4;0
 Wiorkettle;LS;Character;Cloud City (U);4;0
-Wioslea;LS;Character;Premiere (U1);4;0
+Wioslea;LS;Character;Premiere (U1);4;4
 Wise Advice;LS;Effect;Special Edition (U);4;0
 Wittin's Sandcrawler;DS;Vehicle;Special Edition (R);4;0
 Wittin;DS;Character;Jabba's Palace (R);4;0
 Wokling;LS;Effect;Endor (R);4;0
 Womp Rat;DS;Creature;Special Edition (C);4;0
 Wookiee Guide;LS;Interrupt;Endor (C);4;0
-Wookiee Roar;LS;Interrupt;A New Hope (R1);4;0
+Wookiee Roar;LS;Interrupt;A New Hope (R1);4;1
 Wookiee Strangle;LS;Interrupt;Cloud City (R);4;0
 Wookiee;LS;Character;Special Edition (F);4;0
 Wooof;DS;Character;Jabba's Palace (R);4;0
-Worrt;LS;Creature;Jabba's Palace (U);4;0
+Worrt;LS;Creature;Jabba's Palace (U);4;3
 Wounded Warrior;DS;Interrupt;Endor (R);4;0
 Wounded Wookiee;DS;Interrupt;Jabba's Palace (U);4;1
 Wrist Comlink;LS;Device;Special Edition (C);4;0
 Wrong Turn;DS;Effect;Premiere (U1);4;2
 Wuher;DS;Character;Premiere (U2);4;4
 Wuta;LS;Character;Endor (U);4;0
-Wyron Serper;LS;Character;Hoth (U2);4;0
-X-wing Assault Squadron;LS;Starship;Special Edition (R);4;0
+Wyron Serper;LS;Character;Hoth (U2);4;3
+X-wing Assault Squadron;LS;Starship;Special Edition (R);4;1
 X-wing Laser Cannon;LS;Weapon;Special Edition (C);4;0
-X-wing;LS;Starship;Premiere (C2);4;0
-Y-wing Assault Squadron;LS;Starship;A New Hope (U1);4;0
-Y-wing;LS;Starship;Premiere (C2);4;0
+X-wing;LS;Starship;Premiere (C2);4;4
+Y-wing Assault Squadron;LS;Starship;A New Hope (U1);4;1
+Y-wing;LS;Starship;Premiere (C2);4;4
 Yaggle Gakkle;DS;Interrupt;Hoth (R2);4;0
-Yarkora;LS;Character;Jabba's Palace (C);4;0
+Yarkora;LS;Character;Jabba's Palace (C);4;2
 Yarna d'al' Gargan;LS;Effect;Jabba's Palace (U);4;0
 Yavin 4 Trooper;LS;Character;Special Edition (F);4;0
 Yavin 4: Briefing Room;LS;Location;A New Hope (U1);4;0
 Yavin 4: Docking Bay;DS;Location;Premiere (C2);4;4
-Yavin 4: Docking Bay;LS;Location;Premiere (C2);4;0
+Yavin 4: Docking Bay;LS;Location;Premiere (C2);4;4
 Yavin 4: Jungle;DS;Location;Premiere (U2);4;4
-Yavin 4: Jungle;LS;Location;Premiere (C1);4;0
+Yavin 4: Jungle;LS;Location;Premiere (C1);4;4
 Yavin 4: Massassi Headquarters;LS;Location;Special Edition (R);4;0
-Yavin 4: Massassi Ruins;LS;Location;A New Hope (U1);4;0
+Yavin 4: Massassi Ruins;LS;Location;A New Hope (U1);4;1
 Yavin 4: Massassi Throne Room;LS;Location;Premiere (R1);4;0
-Yavin 4: Massassi War Room;LS;Location;Premiere (U2);4;0
+Yavin 4: Massassi War Room;LS;Location;Premiere (U2);4;4
 Yavin 4;DS;Location;Premiere (C2);4;4
-Yavin 4;LS;Location;Premiere (C2);4;0
-Yavin Sentry;LS;Effect;Premiere (U2);4;0
-Yoda Stew;LS;Interrupt;Dagobah (U);4;0
+Yavin 4;LS;Location;Premiere (C2);4;4
+Yavin Sentry;LS;Effect;Premiere (U2);4;4
+Yoda Stew;LS;Interrupt;Dagobah (U);4;1
 Yoda's Gimer Stick;LS;Effect;Dagobah (R);4;0
 Yoda's Hope;LS;Effect;Dagobah (U);4;0
-Yoda, You Seek Yoda;LS;Interrupt;Dagobah (R);4;0
+Yoda, You Seek Yoda;LS;Interrupt;Dagobah (R);4;1
+Concussion Missiles;DS;Weapon;Death Star II (C);4;0
+Darth Vader's Lightsaber;DS;Weapon;Death Star II (R);4;0
+Force Pike;DS;Weapon;Death Star II (C);4;0
+Heavy Turbolaser Cannon;DS;Weapon;Death Star II (C);4;0
+SFS L-s7.2 TIE Cannon;DS;Weapon;Death Star II (C);4;0
+Superlaser Mark II;DS;Weapon;Death Star II (U);4;0
 Yoda;LS;Character;Dagobah (R);4;0
 You Are Beaten;DS;Interrupt;Cloud City (U);4;0
 You Can Either Profit By This... / Or Be Destroyed;LS;Objective;Enhanced Jabba's Palace (P);4;0
@@ -1803,4 +1871,4 @@ Zev Senesca;LS;Character;Hoth (R2);4;0
 Zuckuss In Mist Hunter;DS;Starship;Enhanced Jabba's Palace (P);4;0
 Zuckuss' Snare Rifle;DS;Weapon;Dagobah (R);4;0
 Zuckuss;DS;Character;Dagobah (R);4;1
-Zutton;LS;Character;A New Hope (C1);4;0
+Zutton;LS;Character;A New Hope (C1);4;2
