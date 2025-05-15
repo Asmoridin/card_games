@@ -1,71 +1,85 @@
+# Objective Sets Done: 1-2, 4, 20-21, 32, 127, 129-133, 135-137, 140
 #card_name;affil;card_type;cost;force_icons;obj_set - quant
-Objective Sets Done: 1, 4, 20-21, 32, 127, 129-130, 132-133, 135-136, 140
-Luke Skywalker;Jedi;Unit;4;3;1-1
-Twi'lek Loyalist;Jedi;Unit;1;1;1-1/4-1
-Jedi Lightsaber;Jedi;Enhancement;1;2;1-1
-Trust Your Feelings;Jedi;Enhancement;2;1;1-1
-Dagobah Training Grounds;Light Neutral;Enchancement;1;0;1-1
-Red Five;Jedi;Unit;3;2;4-1
-R2-D2;Light Neutral;Unit;0;0;4-1/129-1
-Double Strike;Jedi;Event;1;1;4-1
-Target of Opportunity;Light Neutral;Fate;0;2;4-1/129-1/132-1
-Vader's TIE Advanced;Sith;Unit;3;3;21-1
-TIE Advanced;Dark Neutral;Unit;2;1;21-1
-Black Squadron Pilot;Dark Neutral;Unit;2;1;21-1
-I'm On the Leader;Sith;Event;1;1;21-1
-Target of Opportunity;Dark Neutral;Fate;0;2;21-1
-Espo Trooper;Dark Neutral;Unit;0;1;32-5
 A Hero's Journey;Jedi;Objective;;;1-1
-A Journey to Dagobah;Jedi;Objective;;;4-1
-Black Squadron Assault;Sith;Objective;;;21-1
-Corporate Exploitation;Dark Neutral;Objective;;;32-1
-Counsel of the Sith;Sith;Objective;;;20-1
-Advisor to the Emperor;Sith;Unit;2;2;20-1
-Kuati Security Team;Dark Neutral;Unit;2;1;20-1
-Sith Library;Dark Neutral;Enchancement;1;0;20-1
-Dark Precognition;Sith;Event;0;1;20-1
-Twist of Fate;Dark Neutral;Fate;0;0;20-1
-Cruel Interrogations;Sith;Objective;;;24-1
-Interrogation Droid;Sith;Unit;3;2;24-2
-ISB Interrogators;Dark Neutral;Unit;1;1;24-1
-Intimidated;Sith;Enchancement;0;1;24-1
-Interrogation;Sith;Event;2;1;24-1
-Luke Skywalker;Jedi;Unit;4;4;127-1
-Speeder Bike;Light Neutral;Unit;2;0;127-1
-Luke's Lightsaber;Jedi;Enhancement;1;2;127-1
 A Hero's Trial;Jedi;Objective;;;127-1
-I Am a Jedi;Jedi;Event;2;1;127-1
-Heat of Battle;Light Neutral;Fate;0;2;127-1
+A Journey to Dagobah;Jedi;Objective;;;4-1
+Advisor to the Emperor;Sith;Unit;2;2;20-1
 All Out Brawl;Scum and Villainy;Objective;;;136-1
-Zekka Thyne;Unit;Scum and Villainy;4;1;136-1
-Debt Collector;Unit;Scum and Villainy;2;1;135-1/136-1
-Armed to the Teeth;Event;Scum and Villainy;0;2;136-1
-Entangled;Event;Scum and Villainy;0;1;136-1
-Heat of Battle;Dark Neutral;Fate;0;2;132-1/136-1
+Armed to the Teeth;Scum and Villainy;Event;0;2;136-1
+Believer in the Old Ways;Jedi;Unit;2;1;2-1
+Black Squadron Assault;Sith;Objective;;;21-1
+Black Squadron Pilot;Dark Neutral;Unit;2;1;21-1
+Black Sun Headhunter;Scum and Villainy;Unit;2;1;135-1/137-1
 Calling In Favors;Smugglers and Spies;Objective;;;133-1
-Talon Karrde;Smugglers and Spies;Unit;4;3;133-1
-Skipray Blastboat;Light Neutral;Unit;2;1;133-2
-Dirty Secrets;Smugglers and Spies;Enhancement;1;1;133-1
 Clever Ruse;Smugglers and Spies;Event;1;2;133-1
 Commando Raid;Rebel Alliance;Objective;;;132-1
-Lieutenant Judder Page;Rebel Alliance;Unit;3;2;132-1
-Page's Commandos;Rebel Alliance;Unit;2;1;132-2
+Corporate Exploitation;Dark Neutral;Objective;;;32-1
+Counsel of the Sith;Sith;Objective;;;20-1
+Counter-stroke;Jedi;Event;1;2;2-1
+Cruel Interrogations;Sith;Objective;;;24-1
+Dagobah Training Grounds;Light Neutral;Enchancement;1;0;1-1/2-1
+Dark Precognition;Sith;Event;0;1;20-1
+Debt Collector;Scum and Villainy;Unit;2;1;135-1/136-1
+Dirty Secrets;Smugglers and Spies;Enhancement;1;1;133-1
+Double Strike;Jedi;Event;1;1;4-1
+Entangled;Scum and Villainy;Event;0;1;136-1
+Espo Trooper;Dark Neutral;Unit;0;1;32-5
+Ewok Hunter;Light Neutral;Unit;2;1;131-2
 Family Connections;Imperial Navy;Objective;;;140-1
-General Tagge;Imperial Navy;Unit;3;2;140-1
-Security Task Force;Imperial Navy;Unit;2;1;140-2
-Imperial Discipline;Imperial Navy;Enhancement;1;1;140-1
-Precision Fire;Imperial Navy;Event;1;2;140-1
 Following Fate;Jedi;Objective;;;129-1
-Obi-Wan Kenobi;Jedi;Unit;5;4;129-1
-Obi-Wan's Lightsaber;Jedi;Enhancement;1;1;129-1
-Noble Sacrifice;Jedi;Event;1;1;129-1
+Funeral Pyre;Jedi;Enhcancement;1;4;131-1
+General Tagge;Imperial Navy;Unit;3;2;140-1
+Heat of Battle;Dark Neutral;Fate;0;2;132-1/136-1
+Heat of Battle;Light Neutral;Fate;0;2;127-1
+I Am a Jedi;Jedi;Event;2;1;127-1
+I'm On the Leader;Sith;Event;1;1;21-1
+Imperial Discipline;Imperial Navy;Enhancement;1;1;140-1
+In You Must Go;Jedi;Objective;;;2-1
+Interrogation Droid;Sith;Unit;3;2;24-2
+Interrogation;Sith;Event;2;1;24-1
+Intimidated;Sith;Enchancement;0;1;24-1
+ISB Interrogators;Dark Neutral;Unit;1;1;24-1
+Jedi Lightsaber;Jedi;Enhancement;1;2;1-1
 Journey Through the Swamp;Jedi;Objective;;;130-1
 Jubba Bird;Jedi;Unit;1;2;130-2
 Knobby White Spider;Jedi;Enhancement;1;0;130-1
+Kuati Security Team;Dark Neutral;Unit;2;1;20-1
+Lieutenant Judder Page;Rebel Alliance;Unit;3;2;132-1
 Life Creates It;Jedi;Event;1;1;130-1
-Size Matters Not;Jedi;Event;0;1;130-1
+Luke Skywalker;Jedi;Unit;4;3;1-1
+Luke Skywalker;Jedi;Unit;4;4;127-1
+Luke's Lightsaber;Jedi;Enhancement;1;2;127-1
 Masterful Manipulation;Scum and Villainy;Objective;;;135-1
+Noble Sacrifice;Jedi;Event;1;1;129-1
+Obi-Wan Kenobi;Jedi;Unit;5;4;129-1
+Obi-Wan's Lightsaber;Jedi;Enhancement;1;1;129-1
+Page's Commandos;Rebel Alliance;Unit;2;1;132-2
+Precision Fire;Imperial Navy;Event;1;2;140-1
 Prince Xizor;Scum and Villainy;Unit;5;3;135-1
-Black Sun Headhunter;Scum and Villainy;Unit;2;1;135-1
+R2-D2;Light Neutral;Unit;0;0;4-1/129-1
+Red Five;Jedi;Unit;3;2;4-1
+Retreat to the Forest;Light Neutral;Event;0;1;131-1
+Rise of the Black Sun;Scum and Villainy;Event;1;1;137-1
+Sacrifice at Endor;Jedi;Objective;;;131-1
+Security Task Force;Imperial Navy;Unit;2;1;140-2
 Shadows of the Empire;Scum and Villainy;Event;1;2;135-1
+Shii-Cho-Training;Jedi;Enhancement;1;2;2-1
+Sith Library;Dark Neutral;Enchancement;1;0;20-1
+Size Matters Not;Jedi;Event;0;1;130-1
+Skipray Blastboat;Light Neutral;Unit;2;1;133-2
+Speeder Bike;Light Neutral;Unit;2;0;127-1
+Talon Karrde;Smugglers and Spies;Unit;4;3;133-1
+Target of Opportunity;Dark Neutral;Fate;0;2;21-1/137-1
+Target of Opportunity;Light Neutral;Fate;0;2;4-1/129-1/132-1
+The Best That Credits Can Buy;Scum and Villainy;Objective;;;137-1
 The Prince's Scheme;Dark Neutral;Fate;0;1;135-1
+TIE Advanced;Dark Neutral;Unit;2;1;21-1
+Trust Your Feelings;Jedi;Enhancement;2;1;1-1
+Twi'lek Loyalist;Jedi;Unit;1;1;1-1/4-1
+Twist of Fate;Dark Neutral;Fate;0;0;20-1
+Unexpected Assistance;Light Neutral;Event;1;1;131-1
+Vader's TIE Advanced;Sith;Unit;3;3;21-1
+Virago;Scum and Villainy;Unit;3;3;137-1
+Warning Shot;Scum and Villainy;Event;0;1;137-1
+Yoda;Jedi;Unit;3;5;2-1
+Zekka Thyne;Scum and Villainy;Unit;4;1;136-1

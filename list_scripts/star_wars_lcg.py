@@ -16,10 +16,12 @@ if os.getcwd().endswith('card_games'):
     file_h = open('DB/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
     DECK_DIR = "Decks/Star Wars LCG"
     OUT_FILE_NAME = "output/Star Wars LCG.txt"
+    CARDS_FILENAME = 'DB/Star Wars LCG Cards.txt'
 else:
     file_h = open('card_games/DB/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
     DECK_DIR = "card_games/Decks/Star Wars LCG"
     OUT_FILE_NAME = "card_games/output/Star Wars LCG.txt"
+    CARDS_FILENAME = 'card_games/DB/Star Wars LCG Cards.txt'
 
 CYCLES = ['01 - Core Set', '02 - Hoth Cycle', '03 - Echoes of the Force Cycle',
     '04 - Rogue Squadron Cycle', '05 - Endor Cycle', '06 - Opposition Cycle',
@@ -53,12 +55,27 @@ for obj_line in obj_lines:
     else:
         obj_side[obj_name] = 'LS'
 
+# Read in the cards
+card_lines = []
+with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
+    for card_line in card_fh:
+        if card_line.startswith('#'):
+            continue
+        card_line = card_line.strip()
+        card_name, card_affil, card_type, card_cost, force_icons, obj_sets = card_line.split(';')
+        if card_affil not in VALID_AFFILIATIONS:
+            print(f"{card_name} seems to have an invalid affiliation of {card_affil}")
+            continue
+        card_lines.append(card_line)
+
 def get_index(in_deck):
     """
     Determine a set's index, and allow me some validation ability
     """
     ret_index = 0
     if in_deck['Affiliation'] != "" and in_deck['Affiliation'] not in VALID_AFFILIATIONS:
+        if in_deck['Affiliation'] in ['Mercenary Contacts']:
+            return 6
         print(f"Need to handle index for affilation {in_deck['Affiliation']}")
     for objective_set_name, obj_set_qty in in_deck['Objectives'].items():
         if objective_set_name not in objectives:
@@ -127,6 +144,9 @@ def read_deck(in_deck_lines, deck_name):
             continue
         if this_deck_line == "Affiliation: Sith":
             ret_deck['Affiliation'] = "Sith"
+            continue
+        if this_deck_line == "Affiliation: Mercenary Contacts":
+            ret_deck['Affiliation'] = "Mercenary Contacts"
             continue
         try:
             deck_obj_qty = int(this_deck_line.split(' ')[0])
