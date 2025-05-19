@@ -2120,3 +2120,183 @@ Tatooine: Slave Quarters;LS;Location;Tatooine (U);4;0
 Anakin's Podracer;LS;Podracer;Tatooine (R);4;0
 Eopie;LS;Vehicle;Tatooine (C);4;0
 Qui-Gon Jinn's Lightsaber;LS;Weapon;Tatooine (R);4;0
+Aks Moe;DS;Character;Coruscant (R);4;0
+Baskol Yeesrim;DS;Character;Coruscant (U);4;0
+Chokk;DS;Character;Coruscant (U);4;0
+Coruscant Guard;DS;Character;Coruscant (C);4;0
+Darth Maul, Young Apprentice;DS;Character;Coruscant (R);4;0
+Daultay Dofine;DS;Character;Coruscant (R);4;0
+Destroyer Droid;DS;Character;Coruscant (R);4;0
+Edcel Bar Gane;DS;Character;Coruscant (C);4;0
+Gardulla The Hutt;DS;Character;Coruscant (U);4;0
+Grotto Werribee;DS;Character;Coruscant (R);4;0
+Jawa;DS;Character;Coruscant (C);4;0
+Keder The Black;DS;Character;Coruscant (R);4;0
+Lott Dod;DS;Character;Coruscant (R);4;0
+Neimoidian Pilot;DS;Character;Coruscant (C);4;0
+Nute Gunray;DS;Character;Coruscant (R);4;0
+Orn Free Taa;DS;Character;Coruscant (C);4;0
+P-59;DS;Character;Coruscant (R);4;0
+P-60;DS;Character;Coruscant (R);4;0
+Passel Argente;DS;Character;Coruscant (C);4;0
+Rune Haako;DS;Character;Coruscant (R);4;0
+Security Battle Droid;DS;Character;Coruscant (C);4;0
+TC-14;DS;Character;Coruscant (R);4;0
+Televan Koreyy;DS;Character;Coruscant (R);4;0
+Tey How;DS;Character;Coruscant (U);4;0
+Tikkes;DS;Character;Coruscant (C);4;0
+Toonbuck Toora;DS;Character;Coruscant (U);4;0
+Tusken Raider;DS;Character;Coruscant (C);4;0
+Yade M'rak;DS;Character;Coruscant (U);4;0
+Yeb Yeb Adem'thorn;DS;Character;Coruscant (C);4;0
+Accepting Trade Federation Control;DS;Effect;Coruscant (U);4;0
+Allegations Of Corruption;DS;Effect;Coruscant (U);4;0
+Battle Order & First Strike;DS;Effect;Coruscant (R);4;0
+Begin Landing Your Troops;DS;Effect;Coruscant (U);4;0
+Do They Have A Code Clearance?;DS;Effect;Coruscant (R);4;0
+Drop!;DS;Effect;Coruscant (U);4;0
+Enter The Bureaucrat;DS;Effect;Coruscant (U);4;0
+Establish Control;DS;Effect;Coruscant (U);4;0
+Imperial Arrest Order & Secret Plans;DS;Effect;Coruscant (R);4;0
+Mind Tricks Don't Work On Me;DS;Effect;Coruscant (U);4;0
+Motion Supported;DS;Effect;Coruscant (U);4;0
+Our Blockade Is Perfectly Legal;DS;Effect;Coruscant (U);4;0
+The Phantom Menace;DS;Effect;Coruscant (R);4;0
+They Will Be No Match For You;DS;Effect;Coruscant (R);4;0
+This Is Outrageous!;DS;Effect;Coruscant (U);4;0
+Wipe Them Out, All Of Them;DS;Effect;Coruscant (U);4;0
+You Cannot Hide Forever & Mobilization Points;DS;Effect;Coruscant (R);4;0
+Alter;DS;Interrupt;Coruscant (U);4;0
+Control;DS;Interrupt;Coruscant (U);4;0
+Dioxis;DS;Interrupt;Coruscant (R);4;0
+Imperial Artillery;DS;Interrupt;Coruscant (R);4;0
+Kill Them Immediately;DS;Interrupt;Coruscant (C);4;0
+Lana Dobreed;DS;Interrupt;Coruscant (U);4;0
+Little Real Power;DS;Interrupt;Coruscant (C);4;0
+Masterful Move & Endor Occupation;DS;Interrupt;Coruscant (R);4;0
+Maul Strikes;DS;Interrupt;Coruscant (R);4;0
+Neimoidian Advisor;DS;Interrupt;Coruscant (U);4;0
+No Civility, Only Politics;DS;Interrupt;Coruscant (C);4;0
+On The Payroll Of The Trade Federation;DS;Interrupt;Coruscant (C);4;0
+Sense;DS;Interrupt;Coruscant (U);4;0
+Short Range Fighters & Watch Your Back!;DS;Interrupt;Coruscant (R);4;0
+Squabbling Delegates;DS;Interrupt;Coruscant (R);4;0
+The Point Is Conceded;DS;Interrupt;Coruscant (C);4;0
+They're Still Coming Through!;DS;Interrupt;Coruscant (U);4;0
+Vote Now!;DS;Interrupt;Coruscant (R);4;0
+We Must Accelerate Our Plans;DS;Interrupt;Coruscant (R);4;0
+Blockade Flagship: Bridge;DS;Location;Coruscant (R);4;0
+Coruscant;DS;Location;Coruscant (C);4;0
+Coruscant: Docking Bay;DS;Location;Coruscant (C);4;0
+Coruscant: Galactic Senate;DS;Location;Coruscant (C);4;0
+Malastare;DS;Location;Coruscant (U);4;0
+Naboo;DS;Location;Coruscant (U);4;0
+Naboo: Battle Plains;DS;Location;Coruscant (C);4;0
+Naboo: Swamp;DS;Location;Coruscant (C);4;0
+Naboo: Theed Palace Courtyard;DS;Location;Coruscant (C);4;0
+Naboo: Theed Palace Docking Bay;DS;Location;Coruscant (C);4;0
+Naboo: Theed Palace Throne Room;DS;Location;Coruscant (C);4;0
+Tatooine;DS;Location;Coruscant (U);4;0
+Tatooine: Marketplace;DS;Location;Coruscant (C);4;0
+Tatooine: Mos Espa Docking Bay;DS;Location;Coruscant (C);4;0
+Tatooine: Watto's Junkyard;DS;Location;Coruscant (C);4;0
+My Lord, Is That Legal? / I Will Make It Legal;DS;Objective;Coruscant (U);4;0
+No Money, No Parts, No Deal! / You're A Slave?;DS;Objective;Coruscant (U);4;0
+Droid Starfighter;DS;Starship;Coruscant (C);4;0
+Maul's Sith Infiltrator;DS;Starship;Coruscant (R);4;0
+Trade Federation Battleship;DS;Starship;Coruscant (U);4;0
+Trade Federation Droid Control Ship;DS;Starship;Coruscant (R);4;0
+Battle Droid Blaster Rifle;DS;Weapon;Coruscant (C);4;0
+Laser Cannon Battery;DS;Weapon;Coruscant (U);4;0
+Naboo Blaster;DS;Weapon;Coruscant (C);4;0
+Naboo Blaster Rifle;DS;Weapon;Coruscant (C);4;0
+Captain Madakor;LS;Character;Coruscant (R);4;0
+Captain Panaka;LS;Character;Coruscant (R);4;0
+Coruscant Guard;LS;Character;Coruscant (C);4;0
+Depa Billaba;LS;Character;Coruscant (R);4;0
+Freon Drevan;LS;Character;Coruscant (U);4;0
+Graxol Kelvyyn;LS;Character;Coruscant (U);4;0
+Gungan Warrior;LS;Character;Coruscant (C);4;0
+Horox Ryyder;LS;Character;Coruscant (C);4;0
+Jawa;LS;Character;Coruscant (C);4;0
+Ki-Adi-Mundi;LS;Character;Coruscant (U);4;0
+Liana Merian;LS;Character;Coruscant (U);4;0
+Lieutenant Williams;LS;Character;Coruscant (U);4;0
+Mace Windu;LS;Character;Coruscant (R);4;0
+Mas Amedda;LS;Character;Coruscant (U);4;0
+Master Qui-Gon;LS;Character;Coruscant (R);4;0
+Murr Danod;LS;Character;Coruscant (R);4;0
+Naboo Fighter Pilot;LS;Character;Coruscant (C);4;0 
+Phylo Gandish;LS;Character;Coruscant (R);4;0
+Plo Koon;LS;Character;Coruscant (R);4;0
+Queen Amidala, Ruler Of Naboo;LS;Character;Coruscant (R);4;0
+Rie Olié;LS;Character;Coruscant (R);4;0
+Sabé;LS;Character;Coruscant (R);4;0
+Saché;LS;Character;Coruscant (U);4;0
+Sei Taria;LS;Character;Coruscant (U);4;0
+Senator Palpatine;LS;Character;Coruscant (R);4;0
+Supreme Chancellor Valorum;LS;Character;Coruscant (R);4;0
+Tendau Bendon;LS;Character;Coruscant (U);4;0
+Yané;LS;Character;Coruscant (U);4;0
+Yarua;LS;Character;Coruscant (U);4;0
+Yoda, Senior Council Member;LS;Character;Coruscant (R);4;0
+A Tragedy Has Occurred;LS;Effect;Coruscant (U);4;0
+A Vergence In The Force;LS;Effect;Coruscant (U);4;0
+Another Pathetic Lifeform;LS;Effect;Coruscant (U);4;0
+Ascertaining The Truth;LS;Effect;Coruscant (U);4;0
+Battle Plan & Draw Their Fire;LS;Effect;Coruscant (R);4;0
+Credits Will Do Fine;LS;Effect;Coruscant (C);4;0
+I Will Not Defer;LS;Effect;Coruscant (U);4;0
+Insurrection & Aim High;LS;Effect;Coruscant (R);4;0
+Plea To The Court;LS;Effect;Coruscant (U);4;0
+Secure Route;LS;Effect;Coruscant (U);4;0
+Security Control;LS;Effect;Coruscant (U);4;0
+The Gravest Of Circumstances;LS;Effect;Coruscant (U);4;0
+Thrown Back;LS;Effect;Coruscant (C);4;0
+We're Leaving;LS;Effect;Coruscant (C);4;0
+You've Got A Lot Of Guts Coming Here;LS;Effect;Coruscant (R);4;0
+Your Insight Serves You Well & Staging Areas;LS;Effect;Coruscant (R);4;0
+All Wings Report In & Darklighter Spin;LS;Interrupt;Coruscant (R);4;0
+Alter;LS;Interrupt;Coruscant (U);4;0
+Are You Brain Dead?!;LS;Interrupt;Coruscant (R);4;0
+Baseless Accusations;LS;Interrupt;Coruscant (C);4;0
+Control;LS;Interrupt;Coruscant (U);4;0
+Free Ride & Endor Celebration;LS;Interrupt;Coruscant (R);4;0
+Inconsequential Barriers;LS;Interrupt;Coruscant (C);4;0
+I've Decided To Go Back;LS;Interrupt;Coruscant (C);4;0
+Might Of The Republic;LS;Interrupt;Coruscant (R);4;0
+Mindful Of The Future;LS;Interrupt;Coruscant (C);4;0
+My Loyal Bodyguard;LS;Interrupt;Coruscant (U);4;0
+New Leadership Is Needed;LS;Interrupt;Coruscant (C);4;0
+Odin Nesloor;LS;Interrupt;Coruscant (U);4;0
+Rebel Artillery;LS;Interrupt;Coruscant (R);4;0
+Reveal Ourselves To The Jedi;LS;Interrupt;Coruscant (C);4;0
+Sense;LS;Interrupt;Coruscant (U);4;0
+Speak With The Jedi Council;LS;Interrupt;Coruscant (R);4;0
+Stay Here, Where It's Safe;LS;Interrupt;Coruscant (C);4;0
+Vote Now!;LS;Interrupt;Coruscant (R);4;0
+We Wish To Board At Once;LS;Interrupt;Coruscant (R);4;0
+Coruscant;LS;Location;Coruscant (C);4;0
+Coruscant: Docking Bay;LS;Location;Coruscant (C);4;0
+Coruscant: Galactic Senate;LS;Location;Coruscant (C);4;0
+Coruscant: Jedi Council Chamber;LS;Location;Coruscant (R);4;0
+Malastare;LS;Location;Coruscant (U);4;0
+Naboo;LS;Location;Coruscant (U);4;0
+Naboo: Battle Plains;LS;Location;Coruscant (C);4;0
+Naboo: Swamp;LS;Location;Coruscant (C);4;0
+Naboo: Theed Palace Courtyard;LS;Location;Coruscant (C);4;0
+Naboo: Theed Palace Docking Bay;LS;Location;Coruscant (C);4;0
+Naboo: Theed Palace Throne Room;LS;Location;Coruscant (C);4;0
+Tatooine;LS;Location;Coruscant (U);4;0
+Tatooine: Marketplace;LS;Location;Coruscant (C);4;0
+Tatooine: Mos Espa Docking Bay;LS;Location;Coruscant (C);4;0
+Tatooine: Watto's Junkyard;LS;Location;Coruscant (C);4;0
+Plead My Case To The Senate / Sanity And Compassion;LS;Objective;Coruscant (U);4;0
+The Hyperdrive Generator's Gone / We'll Need A New One;LS;Objective;Coruscant (U);4;0
+Naboo Defense Fighter;LS;Starship;Coruscant (C);4;0
+Queen's Royal Starship;LS;Starship;Coruscant (R);4;0
+Radiant VII;LS;Starship;Coruscant (R);4;0
+Republic Cruiser;LS;Starship;Coruscant (C);4;0
+Naboo Blaster Rifle;LS;Weapon;Coruscant (C);4;0
+Naboo Security Officer Blaster;LS;Weapon;Coruscant (C);4;0
+Panaka's Blaster;LS;Weapon;Coruscant (R);4;0
