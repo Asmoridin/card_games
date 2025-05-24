@@ -1,4 +1,4 @@
-# Objective Sets Done: 1-5, 20-21, 32, 127, 129-133, 135-138, 140
+# Objective Sets Done: 1-6, 20-21, 32, 127-140
 #card_name;affil;card_type;cost;force_icons;obj_set - quant
 A Better Offer;Scum and Villainy;Event;0;1;138-1
 A Hero's Journey;Jedi;Objective;;;1-1
@@ -25,7 +25,7 @@ Dark Precognition;Sith;Event;0;1;20-1
 Debt Collector;Scum and Villainy;Unit;2;1;135-1/136-1
 Dirty Secrets;Smugglers and Spies;Enhancement;1;1;133-1
 Double Strike;Jedi;Event;1;1;4-1
-Entangled;Scum and Villainy;Event;0;1;136-1
+Entangled;Scum and Villainy;Event;0;1;134-1/136-1
 Espo Trooper;Dark Neutral;Unit;0;1;32-5
 Ewok Hunter;Light Neutral;Unit;2;1;131-2
 Family Connections;Imperial Navy;Objective;;;140-1
@@ -53,7 +53,7 @@ Knobby White Spider;Jedi;Enhancement;1;0;130-1
 Kuati Security Team;Dark Neutral;Unit;2;1;20-1
 Lieutenant Judder Page;Rebel Alliance;Unit;3;2;132-1
 Life Creates It;Jedi;Event;1;1;130-1
-Lightsaber Deflection;Jedi;Event;0;2;5-1
+Lightsaber Deflection;Jedi;Event;0;2;5-1/128-1
 Luke Skywalker;Jedi;Unit;4;3;1-1
 Luke Skywalker;Jedi;Unit;4;4;127-1
 Luke's Lightsaber;Jedi;Enhancement;1;2;127-1
@@ -99,3 +99,24 @@ Virago;Scum and Villainy;Unit;3;3;137-1
 Warning Shot;Scum and Villainy;Event;0;1;137-1
 Yoda;Jedi;Unit;3;5;2-1
 Zekka Thyne;Scum and Villainy;Unit;4;1;136-1
+The Investigation;Sith;Objective;;;139-1
+Ysanne Isard;Sith;Unit;4;3;139-1
+Imperial Intelligence Officer;Dark Neutral;Unit;2;1;139-2
+Confiscation;Sith;Enchancement;0;2;139-1
+Official Inquiry;Sith;Event;1;1;139-1
+Last Minute Rescue;Jedi;Objective;;;6-1
+Redemption;Jedi;Unit;5;3;6-1
+Corellian Engineer;Light Neutral;Unit;2;1;6-1
+Return of the Jedi;Jedi;Event;3;3;6-1
+Emergency Repair;Light Neutral;Event;2;1;6-1
+Force Rejuvenation;Jedi;Event;2;2;6-1
+The Master's Domain;Jedi;Objective;;;128-1
+Yoda (The Master's Domain);Jedi;Unit;3;5;128-1
+Bogwing;Light Neutral;Unit;0;0;128-1
+Yoda's Hut;Jedi;Enhancement;2;1;128-1
+The Jedi's Resolve;Light Neutral;Fate;0;2;128-1
+"No Disintegrations";Scum and Villainy;Objective;;;134-1
+Boba Fett;Scum and Villainy;Unit;4;3;134-1
+Freelance Hunter;Dark Neutral;Unit;2;1;134-1
+Flamethrower;Scum and Villainy;Enhancement;2;2;134-1
+Prized Possession;Dark Neutral;Enhancement;1;0;134-1
