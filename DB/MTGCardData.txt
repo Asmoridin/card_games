@@ -843,7 +843,7 @@ Cat Burglar;Creature — Kor Rogue Minion;B;Exodus (Common);0
 Cat Warriors;Creature - Cat Warrior;G;Fifth Edition (Common)/Classic Sixth Edition (Common)/Legends (Common)/Chronicles (Common);0
 Cataclysm;Sorcery;W;Exodus (Rare)/From the Vault: Annihilation (2014) (Mythic Rare)/Tempest Remastered (Mythic Rare);0
 Catacomb Dragon;Creature — Dragon;B;Mirage (Rare);0
-Catalog;Instant;U;Eighth Edition (Common)/Urza's Saga (Common)/Shadows over Innistrad (Common);0
+Catalog;Instant;U;Eighth Edition (Common)/Urza's Saga (Common)/Shadows over Innistrad (Common);1
 Catalyst Stone;Artifact;C;Odyssey (Rare);0
 Catapult Master;Creature — Human Soldier;W;Onslaught (Rare)/Duel Decks: Elspeth vs. Tezzeret (Rare);0
 Catapult Squad;Creature — Human Soldier;W;Onslaught (Uncommon);0
@@ -6909,34 +6909,49 @@ Auriok Champion;Creature — Human Cleric;W;Fifth Dawn (Rare)/Iconic Masters (Ra
 Ion Storm;Enchantment;R;Fifth Dawn (Rare)/Double Masters (Rare)/March of the Machine Commander (Rare);0
 Joiner Adept;Creature — Elf Druid;G;Fifth Dawn (Rare)/Tenth Edition (Rare);0
 Razorgrass Screen;Artifact Creature — Wall;C;Fifth Dawn (Common);0
+Bringer of the Green Dawn;Creature — Bringer;G;Fifth Dawn (Rare);0
+Bringer of the Red Dawn;Creature — Bringer;R;Fifth Dawn (Rare);0
+Bringer of the Blue Dawn;Creature — Bringer;U;Fifth Dawn (Rare);0
+Bringer of the Black Dawn;Creature — Bringer;B;Fifth Dawn (Rare);0
+Bringer of the White Dawn;Creature — Bringer;W;Fifth Dawn (Rare);0
+Composite Golem;Artifact Creature — Golem;C;Fifth Dawn (Uncommon)/Tenth Edition (Uncommon);0
+Paradise Mantle;Artifact — Equipment;C;Fifth Dawn (Uncommon)/Modern Masters (Uncommon);0
+Door to Nothingness;Artifact;C;Fifth Dawn (Rare)/Planechase (Rare)/Magic 2013 (Rare)/The Brothers' War Retro Artifacts (Rare);0
+Plasma Elemental;Creature — Elemental;U;Fifth Dawn (Uncommon);0
+Reversal of Fortune;Sorcery;R;Fifth Dawn (Rare);0
+Channel the Suns;Sorcery;G;Fifth Dawn (Uncommon);0
+Armed Response;Instant;W;Fifth Dawn (Common);0
+Loxodon Stalwart;Creature — Elephant Soldier;W;Fifth Dawn (Uncommon);0
+Raksha Golden Cub;Legendary Creature — Cat Soldier;W;Fifth Dawn (Rare)/Commander 2017 (Rare);0
+Thought Courier;Creature — Human Wizard;U;Ninth Edition (Uncommon)/Fifth Dawn (Common);0
+Early Frost;Instant;U;Fifth Dawn (Common);0
+Spectral Shift;Instant;U;Fifth Dawn (Rare);0
+Relentless Rats;Creature — Rat;B;Fifth Dawn (Uncommon)/Tenth Edition (Uncommon)/Magic 2010 (Uncommon)/Magic 2011 (Uncommon)/Masters 25 (Common)/Time Spiral Remastered (Bonus)/Special Guests (Mythic Rare);0
+Nim Grotesque;Creature — Zombie;B;Fifth Dawn (Uncommon);0
+Vicious Betrayal;Sorcery;B;Fifth Dawn (Common);0
+Furnace Whelp;Creature — Dragon;R;Fifth Dawn (Uncommon)/Tenth Edition (Uncommon)/Duel Decks: Jace vs. Chandra (Uncommon)/Archenemy (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Magic 2013 (Uncommon)/Magic 2015 Core Set (Uncommon)/Duel Decks Anthology, Jace vs. Chandra (Uncommon)/Commander Anthology (Uncommon)/Iconic Masters (Common)/Jumpstart (Uncommon)/Game Night: Free-For-All (Uncommon)/Jumpstart 2022 (Uncommon);0
+Spark Elemental;Creature — Elemental;R;Fifth Dawn (Common)/Tenth Edition (Uncommon)/Premium Deck Series: Fire and Lightning (Uncommon);0
+Tel-Jilad Lifebreather;Creature — Troll Shaman;G;Fifth Dawn (Common);0
+Viridian Scout;Creature — Elf Warrior Scout;G;Fifth Dawn (Common);0
+Rude Awakening;Sorcery;G;Fifth Dawn (Rare)/Duel Decks: Garruk vs. Liliana (Rare)/Modern Masters (Rare)/Duel Decks Anthology, Garruk vs. Liliana (Rare);0
+Cackling Imp;Creature — Imp;B;Fifth Dawn (Common)/Duel Decks: Divine vs. Demonic (Common)/Duel Decks Anthology, Divine vs. Demonic (Common);0
+Silent Arbiter;Artifact Creature — Construct;C;Fifth Dawn (Rare)/Magic: The Gathering—Conspiracy (Rare)/Ikoria Commander (Rare)/Commander Masters (Rare);0
+Moonring Mirror;Artifact;C;Champions of Kamigawa (Rare);0
+Eyes of the Watcher;Enchantment;U;Fifth Dawn (Uncommon);0
+Skullcage;Artifact;C;Fifth Dawn (Uncommon)/Archenemy (Uncommon);0
+Lantern of Insight;Artifact;C;Fifth Dawn (Uncommon);0
+Spinal Parasite;Artifact Creature — Insect;C;Fifth Dawn (Uncommon);0
+Synod Centurion;Artifact Creature — Construct;C;Fifth Dawn (Uncommon)/Archenemy (Uncommon)/Duel Decks: Elspeth vs. Tezzeret (Uncommon);0
+Battered Golem;Artifact Creature — Golem;C;Fifth Dawn (Common);0
+Dreamcatcher;Creature — Spirit;U;Saviors of Kamigawa (Common);0
+Matsu-Tribe Birdstalker;Creature — Snake Warrior Archer;G;Saviors of Kamigawa (Common);0
+Soratami Mindsweeper;Creature — Moonfolk Wizard;U;Betrayers of Kamigawa (Uncommon);0
+Ghost-Lit Warder;Creature — Spirit;U;Saviors of Kamigawa (Uncommon);0
+Stream of Consciousness;Instant — Arcane;U;Betrayers of Kamigawa (Uncommon)/Ultimate Masters (Uncommon);0
 
 
 
 # Done through card 72999
-#73552
-Bringer of the Green Dawn;Creature — Bringer;G;Fifth Dawn (Rare);0
-#73553
-Bringer of the Red Dawn;Creature — Bringer;R;Fifth Dawn (Rare);0
-#73554
-Bringer of the Blue Dawn;Creature — Bringer;U;Fifth Dawn (Rare);0
-#73555
-Bringer of the Black Dawn;Creature — Bringer;B;Fifth Dawn (Rare);0
-#73556
-Bringer of the White Dawn;Creature — Bringer;W;Fifth Dawn (Rare);0
-#73565
-Channel the Suns;Sorcery;G;Fifth Dawn (Uncommon);0
-#73571
-Early Frost;Instant;U;Fifth Dawn (Common);0
-#73578
-Furnace Whelp;Creature — Dragon;R;Fifth Dawn (Uncommon)/Tenth Edition (Uncommon)/Duel Decks: Jace vs. Chandra (Uncommon)/Archenemy (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Magic 2013 (Uncommon)/Magic 2015 Core Set (Uncommon)/Duel Decks Anthology, Jace vs. Chandra (Uncommon)/Commander Anthology (Uncommon)/Iconic Masters (Common)/Jumpstart (Uncommon)/Game Night: Free-For-All (Uncommon)/Jumpstart 2022 (Uncommon);0
-#73579
-Spark Elemental;Creature — Elemental;R;Fifth Dawn (Common)/Tenth Edition (Uncommon)/Premium Deck Series: Fire and Lightning (Uncommon);0
-#73587
-Rude Awakening;Sorcery;G;Fifth Dawn (Rare)/Duel Decks: Garruk vs. Liliana (Rare)/Modern Masters (Rare)/Duel Decks Anthology, Garruk vs. Liliana (Rare);0
-#73926
-Skullcage;Artifact;C;Fifth Dawn (Uncommon)/Archenemy (Uncommon);0
-#73928
-Spinal Parasite;Artifact Creature — Insect;C;Fifth Dawn (Uncommon);0
 #74006
 Mark of the Oni;Enchantment — Aura;B;Betrayers of Kamigawa (Uncommon);0
 #74016
@@ -7011,6 +7026,8 @@ Boseiju, Who Shelters All;Legendary Land;C;Champions of Kamigawa (Rare)/From the
 Ghostly Prison;Enchantment;W;Champions of Kamigawa (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Planechase 2012 Edition (Uncommon)/Conspiracy: Take the Crown (Uncommon)/Commander 2016 (Uncommon)/Planechase Anthology (Uncommon)/Commander 2019 (Uncommon)/Kaldheim Commander (Uncommon)/Commander 2021 (Uncommon)/Innistrad: Crimson Vow Commander (Uncommon)/Phyrexia: All Will Be One Commander (Uncommon)/Special Guests (Mythic Rare)/Murders at Karlov Manor Commander (Uncommon)/Tarkir: Dragonstorm Commander (Uncommon);1
 #75364
 Genju of the Realm;Legendary Enchantment — Aura;R/B/W/G/U;Betrayers of Kamigawa (Rare);0
+#76971
+Disruption Aura;Enchantment — Aura;U;Fifth Dawn (Uncommon);0
 #78192
 Godo, Bandit Warlord;Legendary Creature — Human Barbarian;R;Champions of Kamigawa (Rare)/Commander 2016 (Rare)/Double Masters (Rare)/Commander Masters (Rare);0
 #78678
@@ -8198,7 +8215,7 @@ Wall of Limbs;Creature — Zombie Wall;B;Magic 2015 Core Set (Uncommon)/Tarkir: 
 #383436
 Waste Not;Enchantment;B;Magic 2015 Core Set (Rare)/Commander 2016 (Rare)/Historic Anthology 2 (Rare)/Wilds of Eldraine Enchanting Tales (Rare);0
 #386352
-Mystic Monastery;Land;C;Duel Decks: Speed vs. Cunning (Uncommon)/Khans of Tarkir (Uncommon)/Commander 2016 (Uncommon)/Commander 2017 (Uncommon)/Commander 2019 (Uncommon)/Ikoria Commander (Uncommon)/Dominaria United Commander (Uncommon)/March of the Machine Commander (Uncommon)/Commander Masters (Uncommon)/Doctor Who Commander (Uncommon)/Magic The Gathering—Fallout (Uncommon)/Modern Horizons 3 Commander (Uncommon)/Bloomburrow Commander (Uncommon)/Tarkir: Dragonstorm (Uncommon);2
+Mystic Monastery;Land;C;Duel Decks: Speed vs. Cunning (Uncommon)/Khans of Tarkir (Uncommon)/Commander 2016 (Uncommon)/Commander 2017 (Uncommon)/Commander 2019 (Uncommon)/Ikoria Commander (Uncommon)/Dominaria United Commander (Uncommon)/March of the Machine Commander (Uncommon)/Commander Masters (Uncommon)/Doctor Who Commander (Uncommon)/Magic The Gathering—Fallout (Uncommon)/Modern Horizons 3 Commander (Uncommon)/Bloomburrow Commander (Uncommon)/Tarkir: Dragonstorm (Uncommon);3
 #386353
 Nomad Outpost;Land;C;Duel Decks: Speed vs. Cunning (Uncommon)/Khans of Tarkir (Uncommon)/Commander 2016 (Uncommon)/Commander 2017 (Uncommon)/Ikoria Commander (Uncommon)/Dominaria United Commander (Uncommon)/Commander Masters (Uncommon)/Magic The Gathering—Fallout (Uncommon)/Outlaws of Thunder Junction Commander (Uncommon)/Tarkir: Dragonstorm (Uncommon);2
 #386491
@@ -8210,7 +8227,7 @@ Dig Through Time;Instant;U;Khans of Tarkir (Rare)/Ultimate Masters (Rare)/Secret
 #386519
 Disdainful Stroke;Instant;U;Khans of Tarkir (Common)/Commander 2016 (Common)/Commander Anthology 2018 (Common)/Guilds of Ravnica (Common)/Kaldheim (Common)/Time Spiral Remastered (Bonus)/Streets of New Capenna (Common)/Wilds of Eldraine (Uncommon);0
 #386520
-Dismal Backwater;Land;C;Khans of Tarkir (Common)/Fate Reforged (Common)/Duel Decks: Blessed vs. Cursed (Common)/Eternal Masters (Common)/Commander 2016 (Common)/Commander 2017 (Common)/Commander 2018 (Common)/Core Set 2020 (Common)/Ikoria: Lair of Behemoths (Land)/Core Set 2021 (Land)/Zendikar Rising Commander (Common)/Kamigawa: Neon Dynasty (Land)/Warhammer 40,000 Commander (Common)/March of the Machine (Land)/Magic: The Gathering Foundations (Land)/Aetherdrift (Land)/Tarkir: Dragonstorm (Land);3
+Dismal Backwater;Land;C;Khans of Tarkir (Common)/Fate Reforged (Common)/Duel Decks: Blessed vs. Cursed (Common)/Eternal Masters (Common)/Commander 2016 (Common)/Commander 2017 (Common)/Commander 2018 (Common)/Core Set 2020 (Common)/Ikoria: Lair of Behemoths (Land)/Core Set 2021 (Land)/Zendikar Rising Commander (Common)/Kamigawa: Neon Dynasty (Land)/Warhammer 40,000 Commander (Common)/March of the Machine (Land)/Magic: The Gathering Foundations (Land)/Aetherdrift (Land)/Tarkir: Dragonstorm (Land);4
 #386544
 Frontier Bivouac;Land;C;Khans of Tarkir (Uncommon)/Commander 2016 (Uncommon)/Commander 2017 (Uncommon)/Ikoria Commander (Uncommon)/Dominaria United Commander (Uncommon)/Warhammer 40,000 Commander (Uncommon)/March of the Machine Commander (Uncommon)/Commander Masters (Uncommon)/Doctor Who Commander (Uncommon)/Aetherdrift Commander (Uncommon)/Tarkir: Dragonstorm Commander (Uncommon);2
 #386577
@@ -8230,11 +8247,11 @@ Scoured Barrens;Land;C;Khans of Tarkir (Common)/Fate Reforged (Common)/Commander
 #386660
 Seeker of the Way;Creature — Human Warrior;W;Khans of Tarkir (Uncommon)/Iconic Masters (Common)/Double Masters 2022 (Common);0
 #386689
-Swiftwater Cliffs;Land;C;Khans of Tarkir (Common)/Fate Reforged (Common)/Commander 2015 (Common)/Eternal Masters (Common)/Commander 2016 (Common)/Duel Decks: Mind vs. Might (Common)/Commander 2017 (Common)/Duel Decks: Elves vs. Inventors (Common)/Commander 2018 (Common)/Core Set 2020 (Common)/Commander 2019 (Common)/Ikoria: Lair of Behemoths (Land)/Core Set 2021 (Land)/Kamigawa: Neon Dynasty (Land)/Warhammer 40,000 Commander (Common)/March of the Machine (Land)/Bloomburrow (Common)/Magic: The Gathering Foundations (Land)/Aetherdrift (Land)/Tarkir: Dragonstorm (Land);3
+Swiftwater Cliffs;Land;C;Khans of Tarkir (Common)/Fate Reforged (Common)/Commander 2015 (Common)/Eternal Masters (Common)/Commander 2016 (Common)/Duel Decks: Mind vs. Might (Common)/Commander 2017 (Common)/Duel Decks: Elves vs. Inventors (Common)/Commander 2018 (Common)/Core Set 2020 (Common)/Commander 2019 (Common)/Ikoria: Lair of Behemoths (Land)/Core Set 2021 (Land)/Kamigawa: Neon Dynasty (Land)/Warhammer 40,000 Commander (Common)/March of the Machine (Land)/Bloomburrow (Common)/Magic: The Gathering Foundations (Land)/Aetherdrift (Land)/Tarkir: Dragonstorm (Land);4
 #386692
 Temur Ascendancy;Enchantment;G/R/U;Khans of Tarkir (Rare)/Time Spiral Remastered (Bonus)/Tarkir: Dragonstorm Commander (Rare);1
 #386696
-Thornwood Falls;Land;C;Khans of Tarkir (Common)/Fate Reforged (Common)/Commander 2015 (Common)/Eternal Masters (Common)/Commander 2016 (Common)/Commander 2018 (Common)/Core Set 2020 (Common)/Commander 2019 (Common)/Throne of Eldraine (Common)/Ikoria: Lair of Behemoths (Land)/Core Set 2021 (Land)/Commander Legends (Common)/Kamigawa: Neon Dynasty (Land)/Warhammer 40,000 Commander (Common)/March of the Machine (Land)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Modern Horizons 3 Commander (Common)/Duskmourn: House of Horror Commander (Common)/Magic: The Gathering Foundations (Land)/Aetherdrift (Land);2
+Thornwood Falls;Land;C;Khans of Tarkir (Common)/Fate Reforged (Common)/Commander 2015 (Common)/Eternal Masters (Common)/Commander 2016 (Common)/Commander 2018 (Common)/Core Set 2020 (Common)/Commander 2019 (Common)/Throne of Eldraine (Common)/Ikoria: Lair of Behemoths (Land)/Core Set 2021 (Land)/Commander Legends (Common)/Kamigawa: Neon Dynasty (Land)/Warhammer 40,000 Commander (Common)/March of the Machine (Land)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Modern Horizons 3 Commander (Common)/Duskmourn: House of Horror Commander (Common)/Magic: The Gathering Foundations (Land)/Aetherdrift (Land)/Tarkir: Dragonstorm (Land);3
 #386702
 Trail of Mystery;Enchantment;G;Khans of Tarkir (Rare)/Commander 2019 (Rare)/Murders at Karlov Manor Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #386703
@@ -8375,10 +8392,14 @@ Crumbling Vestige;Land;C;Oath of the Gatewatch (Common);0
 Mirrorpool;Land;C;Oath of the Gatewatch (Mythic Rare)/Commander Masters (Mythic Rare);0
 #407693
 Wastes;Basic Land;C;Oath of the Gatewatch (Common)/Time Spiral Remastered (Bonus)/Jumpstart 2022 (Common)/Commander Masters (Common)/Modern Horizons 3 Commander (Common);0
+#409752
+Devilthorn Fox;Creature — Fox;W;Shadows over Innistrad (Common)/Shadows Over Innistrad Remastered (Common);1
 #409784
-Thraben Inspector;Creature — Human Soldier;W;Shadows over Innistrad (Common)/Double Masters (Common)/Time Spiral Remastered (Bonus)/Historic Anthology 4 (Common)/Jumpstart 2022 (Common)/Shadows Over Innistrad Remastered (Common)/Commander Masters (Common)/Innistrad Remastered (Common);0
+Thraben Inspector;Creature — Human Soldier;W;Shadows over Innistrad (Common)/Double Masters (Common)/Time Spiral Remastered (Bonus)/Historic Anthology 4 (Common)/Jumpstart 2022 (Common)/Shadows Over Innistrad Remastered (Common)/Commander Masters (Common)/Innistrad Remastered (Common);1
 #409806
 Forgotten Creation;Creature — Zombie Horror;U;Shadows over Innistrad (Rare)/Innistrad: Midnight Hunt Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Shadows Over Innistrad Remastered (Rare)/Aetherdrift Commander (Rare);1
+#409838
+Trail of Evidence;Enchantment;U;Shadows over Innistrad (Uncommon);1
 #409847
 Behind the Scenes;Enchantment;B;Shadows over Innistrad (Uncommon)/Tarkir: Dragonstorm Commander (Uncommon);1
 #409850
@@ -8406,7 +8427,7 @@ Howlpack Resurgence;Enchantment;G;Shadows over Innistrad (Uncommon)/Shadows Over
 #409981
 Moonlight Hunt;Instant;G;Shadows over Innistrad (Uncommon)/Jumpstart 2022 (Uncommon)/Shadows Over Innistrad Remastered (Common)/Innistrad Remastered (Uncommon);0
 #409982
-Obsessive Skinner;Creature — Human Rogue;G;Shadows over Innistrad (Uncommon)/Shadows Over Innistrad Remastered (Common)/Duskmourn: House of Horror Commander (Uncommon);1
+Obsessive Skinner;Creature — Human Rogue;G;Shadows over Innistrad (Uncommon)/Shadows Over Innistrad Remastered (Common)/Duskmourn: House of Horror Commander (Uncommon);2
 #409983
 Pack Guardian;Creature — Wolf Spirit;G;Shadows over Innistrad (Uncommon)/Shadows Over Innistrad Remastered (Uncommon)/Innistrad Remastered (Uncommon);0
 #409986
@@ -9326,7 +9347,7 @@ Masked Vandal;Creature — Shapeshifter;G;Kaldheim (Common);0
 #503809
 Sculptor of Winter;Snow Creature — Elf Rogue;G;Kaldheim (Common);0
 #503810
-Snakeskin Veil;Instant;G;Kaldheim (Common)/Strixhaven Mystical Archive (Uncommon)/Commander Masters (Common)/Outlaws of Thunder Junction (Common)/Magic: The Gathering Foundations (Uncommon)/Jumpstart 2025 (Common)/Tarkir: Dragonstorm (Common);3
+Snakeskin Veil;Instant;G;Kaldheim (Common)/Strixhaven Mystical Archive (Uncommon)/Commander Masters (Common)/Outlaws of Thunder Junction (Common)/Magic: The Gathering Foundations (Uncommon)/Jumpstart 2025 (Common)/Tarkir: Dragonstorm (Common);4
 #503822
 Binding the Old Gods;Enchantment — Saga;B/G;Kaldheim (Uncommon)/Commander Masters (Uncommon)/Bloomburrow Commander (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #503832
@@ -11543,8 +11564,10 @@ Barrensteppe Siege;Enchantment;B/W;Tarkir: Dragonstorm (Rare);1
 Glacierwood Siege;Enchantment;G/U;Tarkir: Dragonstorm (Rare);1
 #693385
 Rediscover the Way;Enchantment — Saga;U/R/W;Tarkir: Dragonstorm (Rare);2
+#693388
+Thunder of Unity;Enchantment — Saga;R/W/B;Tarkir: Dragonstorm (Rare);1
 #693389
-Windcrag Siege;Enchantment;R/W;Tarkir: Dragonstorm (Rare);1
+Windcrag Siege;Enchantment;R/W;Tarkir: Dragonstorm (Rare);2
 #693391
 Dalkovan Encampment;Land;C;Tarkir: Dragonstorm (Rare);1
 #693392
@@ -11554,7 +11577,7 @@ Kishla Village;Land;C;Tarkir: Dragonstorm (Rare);1
 #693476
 Temur Battlecrier;Creature — Orc Ranger;G/U/R;Tarkir: Dragonstorm (Rare);1
 #693482
-Anafenza, Unyielding Lineage;Legendary Creature — Spirit Soldier;W;Tarkir: Dragonstorm (Rare);1
+Anafenza, Unyielding Lineage;Legendary Creature — Spirit Soldier;W;Tarkir: Dragonstorm (Rare);2
 #693484
 Bearer of Glory;Creature — Human Soldier;W;Tarkir: Dragonstorm (Common);2
 #693485
@@ -11564,29 +11587,33 @@ Coordinated Maneuver;Instant;W;Tarkir: Dragonstorm (Common);4
 #693487
 Dalkovan Packbeasts;Creature — Ox;W;Tarkir: Dragonstorm (Uncommon);1
 #693488
-Descendant of Storms;Creature — Human Soldier;W;Tarkir: Dragonstorm (Uncommon);1
+Descendant of Storms;Creature — Human Soldier;W;Tarkir: Dragonstorm (Uncommon);2
 #693489
-Dragonback Lancer;Creature — Human Soldier;W;Tarkir: Dragonstorm (Common);2
+Dragonback Lancer;Creature — Human Soldier;W;Tarkir: Dragonstorm (Common);3
+#693490
+Duty Beyond Death;Instant;W;Tarkir: Dragonstorm (Uncommon);1
 #693492
-Fortress Kin-Guard;Creature — Dog Soldier;W;Tarkir: Dragonstorm (Common);2
+Fortress Kin-Guard;Creature — Dog Soldier;W;Tarkir: Dragonstorm (Common);3
 #693493
 Furious Forebear;Creature — Spirit Warrior;W;Tarkir: Dragonstorm (Uncommon);1
 #693494
-Lightfoot Technique;Instant;W;Tarkir: Dragonstorm (Common);1
+Lightfoot Technique;Instant;W;Tarkir: Dragonstorm (Common);2
 #693495
 Loxodon Battle Priest;Creature — Elephant Cleric;W;Tarkir: Dragonstorm (Uncommon);2
+#693496
+Mardu Devotee;Creature — Human Scout;W;Tarkir: Dragonstorm (Common);1
 #693497
-Osseous Exhale;Instant;W;Tarkir: Dragonstorm (Common);3
+Osseous Exhale;Instant;W;Tarkir: Dragonstorm (Common);4
 #693498
 Poised Practitioner;Creature — Human Monk;W;Tarkir: Dragonstorm (Common);4
 #693499
 Rally the Monastery;Instant;W;Tarkir: Dragonstorm (Uncommon);1
 #693500
-Rebellious Strike;Instant;W;Tarkir: Dragonstorm (Common);1
+Rebellious Strike;Instant;W;Tarkir: Dragonstorm (Common);3
 #693501
 Riling Dawnbreaker;Creature - Dragon;W;Tarkir: Dragonstorm (Common);3
 #693503
-Salt Road Packbeast;Creature — Beast;W;Tarkir: Dragonstorm (Common);3
+Salt Road Packbeast;Creature — Beast;W;Tarkir: Dragonstorm (Common);4
 #693505
 Starry-Eyed Skyrider;Creature — Human Scout;W;Tarkir: Dragonstorm (Uncommon);1
 #693506
@@ -11594,15 +11621,17 @@ Static Snare;Enchantment;W;Tarkir: Dragonstorm (Uncommon);1
 #693508
 Stormplain Detainment;Enchantment;W;Tarkir: Dragonstorm (Common);3
 #693510
-Teeming Dragonstorm;Enchantment;W;Tarkir: Dragonstorm (Uncommon);1
+Teeming Dragonstorm;Enchantment;W;Tarkir: Dragonstorm (Uncommon);2
 #693511
 Tempest Hawk;Creature — Bird;W;Tarkir: Dragonstorm (Common);1
 #693513
 Voice of Victory;Creature — Human Bard;W;Tarkir: Dragonstorm (Rare);1
 #693515
-Aegis Sculptor;Creature — Bird Wizard;U;Tarkir: Dragonstorm (Uncommon);1
+Aegis Sculptor;Creature — Bird Wizard;U;Tarkir: Dragonstorm (Uncommon);2
 #693516
 Agent of Kotis;Creature — Human Rogue;U;Tarkir: Dragonstorm (Common);4
+#693518
+Bewildering Blizzard;Instant;U;Tarkir: Dragonstorm (Uncommon);1
 #693519
 Constrictor Sage;Creature — Snake Wizard;U;Tarkir: Dragonstorm (Uncommon);2
 #693520
@@ -11612,39 +11641,43 @@ Dispelling Exhale;Instant;U;Tarkir: Dragonstorm (Common);2
 #693522
 Dragonologist;Creature — Human Wizard;U;Tarkir: Dragonstorm (Rare);1
 #693523
-Dragonstorm Forecaster;Creature — Human Scout;U;Tarkir: Dragonstorm (Uncommon);1
+Dragonstorm Forecaster;Creature — Human Scout;U;Tarkir: Dragonstorm (Uncommon);2
 #693524
 Essence Anchor;Artifact;U;Tarkir: Dragonstorm (Uncommon);2
+#693525
+Focus the Mind;Instant;U;Tarkir: Dragonstorm (Common);1
 #693527
 Highspire Bell-Ringer;Creature — Djinn Monk;U;Tarkir: Dragonstorm (Common);2
 #693528
-Humbling Elder;Creature — Human Monk;U;Tarkir: Dragonstorm (Common);2
+Humbling Elder;Creature — Human Monk;U;Tarkir: Dragonstorm (Common);4
 #693529
-Iceridge Serpent;Creature — Serpent;U;Tarkir: Dragonstorm (Common);3
+Iceridge Serpent;Creature — Serpent;U;Tarkir: Dragonstorm (Common);4
 #693533
-Ringing Strike Mastery;Enchantment — Aura;U;Tarkir: Dragonstorm (Common);3
+Ringing Strike Mastery;Enchantment — Aura;U;Tarkir: Dragonstorm (Common);4
 #693534
 Riverwalk Technique;Instant;U;Tarkir: Dragonstorm (Common);4
 #693535
 Roiling Dragonstorm;Enchantment;U;Tarkir: Dragonstorm (Uncommon);2
 #693536
-Sibsig Appraiser;Creature — Zombie Advisor;U;Tarkir: Dragonstorm (Common);3
+Sibsig Appraiser;Creature — Zombie Advisor;U;Tarkir: Dragonstorm (Common);4
 #693537
-Snowmelt Stag;Creature — Elemental Elk;U;Tarkir: Dragonstorm (Common);1
+Snowmelt Stag;Creature — Elemental Elk;U;Tarkir: Dragonstorm (Common);2
 #693538
 Spectral Denial;Instant;U;Tarkir: Dragonstorm (Uncommon);1
 #693539
-Stillness in Motion;Enchantment;U;Tarkir: Dragonstorm (Rare);1
+Stillness in Motion;Enchantment;U;Tarkir: Dragonstorm (Rare);2
 #693541
 Temur Devotee;Creature — Human Druid;U;Tarkir: Dragonstorm (Common);2
 #693542
 Unending Whisper;Sorcery;U;Tarkir: Dragonstorm (Common);1
+#693543
+Ureni's Rebuff;Sorcery;U;Tarkir: Dragonstorm (Uncommon);1
 #693544
 Veteran Ice Climber;Creature — Human Scout;U;Tarkir: Dragonstorm (Uncommon);1
 #693545
 Wingblade Disciple;Creature — Human Monk;U;Tarkir: Dragonstorm (Uncommon);1
 #693546
-Wingspan Stride;Enchantment — Aura;U;Tarkir: Dragonstorm (Common);2
+Wingspan Stride;Enchantment — Aura;U;Tarkir: Dragonstorm (Common);3
 #693547
 Winternight Stories;Sorcery;U;Tarkir: Dragonstorm (Rare);1
 #693548
@@ -11652,17 +11685,17 @@ Abzan Devotee;Creature — Dog Cleric;B;Tarkir: Dragonstorm (Common);1
 #693549
 Adorned Crocodile;Creature — Crocodile;B;Tarkir: Dragonstorm (Common);4
 #693550
-Aggressive Negotiations;Sorcery;B;Tarkir: Dragonstorm (Common);3
+Aggressive Negotiations;Sorcery;B;Tarkir: Dragonstorm (Common);4
 #693551
 Alchemist's Assistant;Creature — Monkey;B;Tarkir: Dragonstorm (Uncommon);1
 #693552
 Alesha's Legacy;Instant;B;Tarkir: Dragonstorm (Common);4
 #693553
-Avenger of the Fallen;Creature — Human Warrior;B;Tarkir: Dragonstorm (Rare);1
+Avenger of the Fallen;Creature — Human Warrior;B;Tarkir: Dragonstorm (Rare);2
 #693554
 Caustic Exhale;Instant;B;Tarkir: Dragonstorm (Common);1
 #693555
-Corroding Dragonstorm;Enchantment;B;Tarkir: Dragonstorm (Uncommon);1
+Corroding Dragonstorm;Enchantment;B;Tarkir: Dragonstorm (Uncommon);2
 #693556
 Cruel Truths;Instant;B;Tarkir: Dragonstorm (Common);1
 #693557
@@ -11670,15 +11703,19 @@ Delta Bloodflies;Creature — Insect;B;Tarkir: Dragonstorm (Common);2
 #693558
 Desperate Measures;Instant;B;Tarkir: Dragonstorm (Uncommon);2
 #693559
-Dragon's Prey;Instant;B;Tarkir: Dragonstorm (Common);2
+Dragon's Prey;Instant;B;Tarkir: Dragonstorm (Common);3
+#693560
+Feral Deathgorger;Creature - Dragon;B;Tarkir: Dragonstorm (Common);1
 #693561
-Gurmag Rakshasa;Creature — Demon;B;Tarkir: Dragonstorm (Uncommon);1
+Gurmag Rakshasa;Creature — Demon;B;Tarkir: Dragonstorm (Uncommon);2
+#693562
+Hundred-Battle Veteran;Creature — Zombie Warrior;B;Tarkir: Dragonstorm (Uncommon);1
 #693563
 Kin-Tree Nurturer;Creature — Human Druid;B;Tarkir: Dragonstorm (Common);4
 #693564
 Krumar Initiate;Creature — Human Cleric;B;Tarkir: Dragonstorm (Uncommon);2
 #693565
-Nightblade Brigade;Creature — Goblin Soldier;B;Tarkir: Dragonstorm (Common);1
+Nightblade Brigade;Creature — Goblin Soldier;B;Tarkir: Dragonstorm (Common);2
 #693567
 Rot-Curse Rakshasa;Creature — Demon;B;Tarkir: Dragonstorm (Mythic Rare);1
 #693568
@@ -11699,18 +11736,22 @@ Worthy Cost;Sorcery;B;Tarkir: Dragonstorm (Common);2
 Breaching Dragonstorm;Enchantment;R;Tarkir: Dragonstorm (Uncommon);1
 #693582
 Channeled Dragonfire;Sorcery;R;Tarkir: Dragonstorm (Uncommon);2
+#693584
+Devoted Duelist;Creature — Goblin Monk;R;Tarkir: Dragonstorm (Common);1
 #693587
-Fire-Rim Form;Enchantment — Aura;R;Tarkir: Dragonstorm (Common);3
+Fire-Rim Form;Enchantment — Aura;R;Tarkir: Dragonstorm (Common);4
 #693588
 Fleeting Effigy;Creature — Elemental;R;Tarkir: Dragonstorm (Uncommon);2
 #693590
 Jeskai Devotee;Creature — Orc Monk;R;Tarkir: Dragonstorm (Common);3
 #693591
 Magmatic Hellkite;Creature — Dragon;R;Tarkir: Dragonstorm (Rare);1
+#693592
+Meticulous Artisan;Creature — Djinn Artificer;R;Tarkir: Dragonstorm (Common);1
 #693593
 Molten Exhale;Sorcery;R;Tarkir: Dragonstorm (Common);2
 #693594
-Narset's Rebuke;Instant;R;Tarkir: Dragonstorm (Common);3
+Narset's Rebuke;Instant;R;Tarkir: Dragonstorm (Common);4
 #693596
 Rescue Leopard;Creature — Cat;R;Tarkir: Dragonstorm (Common);3
 #693597
@@ -11722,15 +11763,17 @@ Shocking Sharpshooter;Creature — Human Archer;R;Tarkir: Dragonstorm (Uncommon)
 #693602
 Stadium Headliner;Creature — Goblin Warrior;R;Tarkir: Dragonstorm (Rare);1
 #693603
-Stormscale Scion;Creature — Dragon;R;Tarkir: Dragonstorm (Mythic Rare);1
+Stormscale Scion;Creature — Dragon;R;Tarkir: Dragonstorm (Mythic Rare);2
 #693604
 Stormshriek Feral;Creature - Dragon;R;Tarkir: Dragonstorm (Common);4
 #693605
 Summit Intimidator;Creature — Yeti;R;Tarkir: Dragonstorm (Common);2
+#693606
+Sunset Strikemaster;Creature — Human Monk;R;Tarkir: Dragonstorm (Uncommon);1
 #693607
 Tersa Lightshatter;Legendary Creature — Orc Wizard;R;Tarkir: Dragonstorm (Rare);1
 #693609
-Underfoot Underdogs;Creature — Goblin Warrior;R;Tarkir: Dragonstorm (Common);1
+Underfoot Underdogs;Creature — Goblin Warrior;R;Tarkir: Dragonstorm (Common);2
 #693611
 War Effort;Enchantment;R;Tarkir: Dragonstorm (Uncommon);2
 #693612
@@ -11757,6 +11800,8 @@ Formation Breaker;Creature — Beast;G;Tarkir: Dragonstorm (Uncommon);1
 Herd Heirloom;Artifact;G;Tarkir: Dragonstorm (Rare);1
 #693625
 Heritage Reclamation;Instant;G;Tarkir: Dragonstorm (Common);4
+#693626
+Inspirited Vanguard;Creature — Human Soldier;G;Tarkir: Dragonstorm (Uncommon);1
 #693627
 Knockout Maneuver;Sorcery;G;Tarkir: Dragonstorm (Uncommon);1
 #693628
@@ -11764,7 +11809,7 @@ Krotiq Nestguard;Creature — Insect;G;Tarkir: Dragonstorm (Common);3
 #693630
 Nature's Rhythm;Sorcery;G;Tarkir: Dragonstorm (Rare);1
 #693631
-Piercing Exhale;Instant;G;Tarkir: Dragonstorm (Common);1
+Piercing Exhale;Instant;G;Tarkir: Dragonstorm (Common);2
 #693633
 Rite of Renewal;Sorcery;G;Tarkir: Dragonstorm (Uncommon);2
 #693634
@@ -11796,9 +11841,9 @@ Bone-Cairn Butcher;Creature — Demon;B/R/W;Tarkir: Dragonstorm (Uncommon);1
 #693655
 Cori Mountain Stalwart;Creature — Human Monk;R/W;Tarkir: Dragonstorm (Uncommon);2
 #693657
-Defibrillating Current;Sorcery;R/W/B;Tarkir: Dragonstorm (Uncommon);1
+Defibrillating Current;Sorcery;R/W/B;Tarkir: Dragonstorm (Uncommon);2
 #693658
-Disruptive Stormbrood;Creature - Dragon;G;Tarkir: Dragonstorm (Uncommon);1
+Disruptive Stormbrood;Creature - Dragon;G;Tarkir: Dragonstorm (Uncommon);2
 #693659
 Dragonback Assault;Enchantment;G/U/R;Tarkir: Dragonstorm (Mythic Rare);1
 #693661
@@ -11806,11 +11851,13 @@ Effortless Master;Creature — Orc Monk;U/R;Tarkir: Dragonstorm (Uncommon);2
 #693664
 Felothar, Dawn of the Abzan;Legendary Creature — Human Warrior;W/G/B;Tarkir: Dragonstorm (Rare);1
 #693666
-Frontline Rush;Instant;R/W;Tarkir: Dragonstorm (Uncommon);1
+Frontline Rush;Instant;R/W;Tarkir: Dragonstorm (Uncommon);3
 #693668
 Glacial Dragonhunt;Sorcery;U/R;Tarkir: Dragonstorm (Uncommon);2
 #693670
-Gurmag Nightwatch;Creature — Human Ranger;B/G/U;Tarkir: Dragonstorm (Common);2
+Gurmag Nightwatch;Creature — Human Ranger;B/G/U;Tarkir: Dragonstorm (Common);3
+#693673
+Host of the Hereafter;Creature — Zombie Warlock;B/G;Tarkir: Dragonstorm (Uncommon);1
 #693675
 Jeskai Brushmaster;Creature — Orc Monk;U/R/W;Tarkir: Dragonstorm (Uncommon);1
 #693676
@@ -11819,30 +11866,44 @@ Jeskai Revelation;Instant;U/R/W;Tarkir: Dragonstorm (Mythic Rare);2
 Jeskai Shrinekeeper;Creature — Dragon;U/R/W;Tarkir: Dragonstorm (Uncommon);2
 #693678
 Karakyk Guardian;Creature — Dragon;G/U/R;Tarkir: Dragonstorm (Uncommon);1
+#693679
+Kheru Goldkeeper;Creature — Dragon;B/G/U;Tarkir: Dragonstorm (Uncommon);1
 #693680
-Kin-Tree Severance;Instant;W/B/G;Tarkir: Dragonstorm (Uncommon);2
+Kin-Tree Severance;Instant;W/B/G;Tarkir: Dragonstorm (Uncommon);3
 #693681
 Kishla Skimmer;Creature — Bird Scout;G/U;Tarkir: Dragonstorm (Uncommon);2
+#693685
+Mammoth Bellow;Sorcery;G/U/R;Tarkir: Dragonstorm (Uncommon);1
 #693687
 Marshal of the Lost;Creature — Orc Warrior;W/B;Tarkir: Dragonstorm (Uncommon);2
+#693688
+Monastery Messenger;Creature — Bird Scout;U/R/W;Tarkir: Dragonstorm (Common);1
 #693689
 Narset, Jeskai Waymaster;Legendary Creature — Human Monk;U/R/W;Tarkir: Dragonstorm (Rare);1
+#693691
+New Way Forward;Instant;U/R/W;Tarkir: Dragonstorm (Rare);1
+#693692
+Perennation;Sorcery;W/B/G;Tarkir: Dragonstorm (Mythic Rare);1
 #693693
 Purging Stormbrood;Creature - Dragon;B;Tarkir: Dragonstorm (Uncommon);1
 #693694
 Rakshasa's Bargain;Instant;B/G/U;Tarkir: Dragonstorm (Uncommon);1
 #693696
-Reigning Victor;Creature — Orc Warrior;R/W/B;Tarkir: Dragonstorm (Common);3
+Reigning Victor;Creature — Orc Warrior;R/W/B;Tarkir: Dragonstorm (Common);4
 #693697
 Reputable Merchant;Creature — Human Citizen;W/B/G;Tarkir: Dragonstorm (Common);3
 #693699
 Riverwheel Sweep;Sorcery;U/R/W;Tarkir: Dragonstorm (Uncommon);2
+#693701
+Runescale Stormbrood;Creature - Dragon;R;Tarkir: Dragonstorm (Uncommon);1
 #693709
 Temur Tawnyback;Creature — Beast;G/U/R;Tarkir: Dragonstorm (Common);2
 #693712
 Twinmaw Stormbrood;Creature - Dragon;W;Tarkir: Dragonstorm (Uncommon);1
 #693714
 Whirlwing Stormbrood;Creature - Dragon;U;Tarkir: Dragonstorm (Uncommon);1
+#693716
+Yathan Roadwatcher;Creature — Human Scout;W/B/G;Tarkir: Dragonstorm (Rare);1
 #693718
 Abzan Monument;Artifact;C;Tarkir: Dragonstorm (Uncommon);1
 #693719
@@ -11857,8 +11918,10 @@ Jade-Cast Sentinel;Artifact Creature — Ape Snake;C;Tarkir: Dragonstorm (Common
 Jeskai Monument;Artifact;C;Tarkir: Dragonstorm (Uncommon);1
 #693727
 Sultai Monument;Artifact;C;Tarkir: Dragonstorm (Uncommon);2
+#693728
+Temur Monument;Artifact;C;Tarkir: Dragonstorm (Uncommon);1
 #693729
-Watcher of the Wayside;Artifact Creature — Golem;C;Tarkir: Dragonstorm (Common);3
+Watcher of the Wayside;Artifact Creature — Golem;C;Tarkir: Dragonstorm (Common);4
 #693740
 Maelstrom of the Spirit Dragon;Land;C;Tarkir: Dragonstorm (Rare);1
 #695720
