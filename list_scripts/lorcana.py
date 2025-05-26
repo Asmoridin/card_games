@@ -14,7 +14,7 @@ GAME_NAME = "Lorcana"
 valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
 card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
-    "Shimmering Skies", "Azurite Sea", "Archazia's Island",]
+    "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", ]
 
 if os.getcwd().endswith('card_games'):
     file_h = open('DB/LorcanaData.txt', 'r', encoding="UTF-8")
@@ -45,9 +45,11 @@ for line in lines:
         print("Invalid rarity: " + card_rarity)
     card_own = int(card_own)
 
-    if card_set not in card_sets:
-        print(f"Unknown card set: {card_set}")
-        continue
+    card_set = card_set.split('/')
+    for this_card_set in card_set:
+        if this_card_set not in card_sets:
+            print(f"Unknown card set: {this_card_set}")
+            continue
 
     CARD_MAX = 4
     TOTAL_OWN += card_own
@@ -81,8 +83,8 @@ if __name__ == "__main__":
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
     SUB_STRING = ' '.join([chosen_rarity, chosen_color, chosen_type])
-    choice_string = f"Buy {picked_item[0]} ({SUB_STRING}) from {picked_item[3]} (have " + \
+    CHOICE_STRING = f"Buy {picked_item[0]} ({SUB_STRING}) from {picked_item[3]} (have " + \
         f"{picked_item[5]} out of {picked_item[6]})"
-    double_print(choice_string, out_file_h)
+    double_print(CHOICE_STRING, out_file_h)
 
     out_file_h.close()

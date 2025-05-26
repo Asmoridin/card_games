@@ -38,7 +38,7 @@ A Fallen Friend;Strategy;;1,000 Years of Darkness (Fixed);Four Winds (Gold);3;0
 A Fallen Friend;Strategy;;1,000 Years of Darkness (Fixed);Rain of Blood (Diamond);3;0
 A False Accusation;Strategy;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
 A False Accusation;Strategy;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
-A Favor Returned;Holding;;Hidden City (Common);Rain of Blood (Diamond);3;0
+A Favor Returned;Holding;;Hidden City (Common);Rain of Blood (Diamond);3;1
 A Favor Returned;Holding;;Lotus Edition (Common)/Promotional–Lotus (Promo)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
 A Final Duel;Event;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);1;0
 A Forefather's Vengeance;Strategy;;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
@@ -132,7 +132,7 @@ A Rival Eliminated;Strategy;;Glory of the Empire (Common);Race for the Throne (S
 A Sage's Counsel;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
 A Samurai Never Stands Alone;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 A Samurai Never Stands Alone;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;2
-A Samurai's Anger;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;0
+A Samurai's Anger;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;1
 A Samurai's Fury;Strategy;;Crimson and Jade (Rare);Clan Wars (Imperial);3;0
 A Samurai's Fury;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
 A Samurai's Fury;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
@@ -821,7 +821,7 @@ Are You With Me?;Event;;Diamond Edition (Uncommon);Rain of Blood (Diamond);1;0
 Arjuna Singh;Personality;Mantis;The Harbinger (Uncommon);Destroyer War (Celestial);3;0
 Armed and Ready;Strategy;;The Fall of Otosan Uchi (Common);Four Winds (Gold);3;0
 Armed and Ready;Strategy;;The Fall of Otosan Uchi (Common);Rain of Blood (Diamond);3;0
-Armed Brigade;Strategy;;Hidden City (Uncommon);Rain of Blood (Diamond);3;0
+Armed Brigade;Strategy;;Hidden City (Uncommon);Rain of Blood (Diamond);3;1
 Armor of Command;Item;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Armor of Command;Item;;Words and Deeds (Common);Race for the Throne (Samurai);3;0
 Armor of Earth;Item;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
@@ -1050,7 +1050,7 @@ Asako Shino;Personality;Phoenix;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Asako Shiwasu;Personality;Phoenix;Winds of Change (Common);Four Winds (Gold);3;0
 Asako Shiwasu;Personality;Phoenix;Winds of Change (Common);Rain of Blood (Diamond);3;0
 Asako Shuntaro;Personality;Phoenix;An Oni's Fury (Common);Four Winds (Gold);3;0
-Asako Soun;Personality;Phoenix;Hidden City (Common);Rain of Blood (Diamond);3;0
+Asako Soun;Personality;Phoenix;Hidden City (Common);Rain of Blood (Diamond);3;1
 Asako Suda;Personality;Phoenix;Glory of the Empire (Rare);Destroyer War (Celestial);3;0
 Asako Suda;Personality;Phoenix;Glory of the Empire (Rare);Race for the Throne (Samurai);3;0
 Asako Takakazu • Experienced;Personality;Phoenix;Samurai Edition (Rare);Race for the Throne (Samurai);1;0
@@ -5440,6 +5440,14 @@ Asatte;Item;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);1;0
 Ascending the Ranks;Strategy;;Before the Dawn (Uncommon)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Ascending the Ranks;Strategy;;Before the Dawn (Uncommon)/Emperor Edition Demo Decks (Fixed);Destroyer War (Celestial);3;0
 Asako Yuya;Personality;Phoenix;Dark Allies (Uncommon);Four Winds (Gold);3;0
+Blocked Ground;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;1
+Moto Taidjut;Personality;Unicorn;Hidden City (Common);Rain of Blood (Diamond);3;1
+Blade of Fury;Item;;Hidden City (Common);Rain of Blood (Diamond);3;1
+Ten Thousand Swords;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;1
+Shinjo Jinturi;Personality;Unicorn;Hidden City (Rare);Rain of Blood (Diamond);1;1
+Kareido no Oni;Personality;Unaligned;Hidden City (Uncommon);Rain of Blood (Diamond);3;1
+Tek'teki-tek;Personality;Ratling;Hidden City (Uncommon);Rain of Blood (Diamond);3;1
+
 
 # Done through card #600
 #614
@@ -5467,12 +5475,13 @@ Asako Yuya;Personality;Phoenix;Dark Allies (Uncommon);Four Winds (Gold);3;0
 #996
 #999
 #1001
+#1005
 #1011
 #1020
 #1022
 #1029
 #1036
-#1045
+#1045-1046
 #1059
 #1076
 #1084
@@ -5668,6 +5677,7 @@ Asako Yuya;Personality;Phoenix;Dark Allies (Uncommon);Four Winds (Gold);3;0
 #4230
 #4256
 #4267
+#4281
 #4327
 #4340
 #4348
@@ -5732,6 +5742,7 @@ Asako Yuya;Personality;Phoenix;Dark Allies (Uncommon);Four Winds (Gold);3;0
 #5241
 #5288
 #5309
+#5380
 #5387
 #5391
 #5401
@@ -5839,6 +5850,7 @@ Asako Yuya;Personality;Phoenix;Dark Allies (Uncommon);Four Winds (Gold);3;0
 #6840
 #6878
 #6887
+#6898
 #6906
 #6952
 #6955
@@ -5905,9 +5917,10 @@ Asako Yuya;Personality;Phoenix;Dark Allies (Uncommon);Four Winds (Gold);3;0
 #7775
 #7808
 #7852
-#7862
+#7861-7862
 #7897
 #7900
+#7907
 #7922
 #7929
 #7948
