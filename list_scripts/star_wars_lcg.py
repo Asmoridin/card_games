@@ -30,6 +30,8 @@ CYCLES = ['01 - Core Set', '02 - Hoth Cycle', '03 - Echoes of the Force Cycle',
 VALID_AFFILIATIONS = ['Imperial Navy', 'Sith', 'Rebel Alliance', 'Jedi', 'Dark Neutral',
     'Smugglers and Spies', 'Light Neutral', 'Scum and Villainy', ]
 
+CARD_TYPES = ['Unit', 'Objective', 'Event', 'Enhancement', 'Fate', ]
+
 out_fh = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
 
 # Read in objective data
@@ -65,6 +67,9 @@ with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
         card_name, card_affil, card_type, card_cost, force_icons, obj_sets = card_line.split(';')
         if card_affil not in VALID_AFFILIATIONS:
             print(f"{card_name} seems to have an invalid affiliation of {card_affil}")
+            continue
+        if card_type not in CARD_TYPES:
+            print(f"{card_name} seems to have an invalid type of {card_type}")
             continue
         card_lines.append(card_line)
 
