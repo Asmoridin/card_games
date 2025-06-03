@@ -58,6 +58,7 @@ for obj_line in obj_lines:
         obj_side[obj_name] = 'LS'
 
 # Read in the cards
+objective_num_to_name = {}
 card_lines = []
 with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
     for card_line in card_fh:
@@ -71,7 +72,12 @@ with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
         if card_type not in CARD_TYPES:
             print(f"{card_name} seems to have an invalid type of {card_type}")
             continue
+        if card_type == 'Objective':
+            this_obj_set = obj_sets.split('-')[0]
+            objective_num_to_name[this_obj_set] = card_name
         card_lines.append(card_line)
+
+print(objective_num_to_name)
 
 def get_index(in_deck):
     """
