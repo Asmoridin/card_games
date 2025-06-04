@@ -1,5 +1,5 @@
+# Objective Sets Done: 1-9, 20-21, 32, 127-140
 "No Disintegrations";Scum and Villainy;Objective;;;134-1
-# Objective Sets Done: 1-8, 20-21, 32, 127-140
 #card_name;affil;card_type;cost;force_icons;obj_set - quant
 A Better Offer;Scum and Villainy;Event;0;1;138-1
 A Hero's Journey;Jedi;Objective;;;1-1
@@ -46,7 +46,7 @@ Funeral Pyre;Jedi;Enhancement;1;4;131-1
 General Tagge;Imperial Navy;Unit;3;2;140-1
 Guardian of Peace;Jedi;Unit;2;1;5-2
 Heat of Battle;Dark Neutral;Fate;0;2;132-1/136-1
-Heat of Battle;Light Neutral;Fate;0;2;3-1/127-1
+Heat of Battle;Light Neutral;Fate;0;2;3-1/9-1/127-1
 Hidden Outpost;Light Neutral;Enhancement;1;0;8-1
 I Am a Jedi;Jedi;Event;2;1;127-1
 I'm On the Leader;Sith;Event;1;1;21-1
@@ -129,3 +129,8 @@ Yoda's Hut;Jedi;Enhancement;2;1;128-1
 Yoda;Jedi;Unit;3;5;2-1
 Ysanne Isard;Sith;Unit;4;3;139-1
 Zekka Thyne;Scum and Villainy;Unit;4;1;136-1
+Mission Briefing;Rebel Alliance;Objective;;;9-1
+Mon Mothma;Rebel Alliance;Unit;3;2;9-1
+Battlefield Engineers;Rebel Alliance;Unit;2;2;9-1
+A-Wing;Light Neutral;Unit;2;1;9-1
+Heavy Blaster Emplacement;Light Neutral;Enhancement;0;1;9-1
