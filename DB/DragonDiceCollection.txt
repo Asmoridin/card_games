@@ -121,22 +121,22 @@ Sunburst;Fire Walkers;Common;5
 Carrion Crawler;Undead;Monster;0
 Dracolich;Undead;Monster;0
 Fenhound;Undead;Monster;1
-Minor Death;Undead;Monster;1
+Minor Death;Undead;Monster;2
 Skeletal Steed;Undead;Monster;0
 Mummy;Undead;Rare;1
-Death Knight;Undead;Rare;0
+Death Knight;Undead;Rare;1
 Ghost;Undead;Rare;0
 Vampire;Undead;Rare;1
 Lich;Undead;Rare;0
-Wight;Undead;Uncommon;0
+Wight;Undead;Uncommon;1
 Revenant;Undead;Uncommon;0
 Spectre;Undead;Uncommon;2
 Ghast;Undead;Uncommon;2
-Heucuva;Undead;Uncommon;0
-Zombie;Undead;Common;2
+Heucuva;Undead;Uncommon;1
+Zombie;Undead;Common;5
 Skeleton;Undead;Common;1
 Wraith;Undead;Common;2
-Ghoul;Undead;Common;1
+Ghoul;Undead;Common;2
 Apparition;Undead;Common;2
 Bear-folk;Feral;Monster;0
 Elephant-folk;Feral;Monster;0
@@ -712,7 +712,7 @@ Deadland Woods;Minor Terrain;Other;2
 Deadland Village;Minor Terrain;Other;1
 Coastland Castle;Special Terrain;Other;0
 Coastland Dragon's Lair;Special Terrain;Other;0
-Coastland Grove;Special Terrain;Other;0
+Coastland Grove;Special Terrain;Other;1
 Coastland Vortex;Special Terrain;Other;0
 Highland Castle;Special Terrain;Other;0
 Highland Dragon's Lair;Special Terrain;Other;0
@@ -721,9 +721,9 @@ Highland Vortex;Special Terrain;Other;0
 Swampland Castle;Special Terrain;Other;0
 Swampland Dragon's Lair;Special Terrain;Other;0
 Swampland Grove;Special Terrain;Other;0
-Swampland Vortex;Special Terrain;Other;0
-Flatland Castle;Special Terrain;Other;0
-Flatland Dragon's Lair;Special Terrain;Other;0
+Swampland Vortex;Special Terrain;Other;1
+Flatland Castle;Special Terrain;Other;1
+Flatland Dragon's Lair;Special Terrain;Other;1
 Flatland Grove;Special Terrain;Other;0
 Flatland Vortex;Special Terrain;Other;0
 Wasteland Castle;Special Terrain;Other;0
@@ -731,6 +731,6 @@ Wasteland Dragon's Lair;Special Terrain;Other;0
 Wasteland Grove;Special Terrain;Other;0
 Wasteland Vortex;Special Terrain;Other;0
 Feyland Castle;Special Terrain;Other;0
-Feyland Dragon's Lair;Special Terrain;Other;0
+Feyland Dragon's Lair;Special Terrain;Other;1
 Feyland Grove;Special Terrain;Other;0
 Feyland Vortex;Special Terrain;Other;0
