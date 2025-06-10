@@ -597,7 +597,7 @@ Akuma no Oni • Experienced 2;Personality;Unaligned;Celestial Edition (Rare);De
 Akuma no Oni • Experienced 2;Personality;Unaligned;Rise of the Shogun (Rare);Age of Enlightenment (Lotus);1;0
 Akuma no Oni • Experienced 2;Personality;Unaligned;Samurai Edition (Rare);Race for the Throne (Samurai);1;0
 Akumasa;Personality;Unaligned;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
-Akumasa;Personality;Unaligned;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
+Akumasa;Personality;Unaligned;Coils of Madness (Fixed);Age of Conquest (Emperor);3;2
 Akutenshi's Tribute;Strategy;;Path of Hope (Common);Age of Enlightenment (Lotus);3;0
 al-Hazaad;Personality;Unaligned;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
 al-Rashid;Personality;Unaligned;Time of the Void (Common);Clan Wars (Imperial);3;0
@@ -2758,7 +2758,7 @@ Introspection;Strategy;;Heaven & Earth (Rare);Four Winds (Gold);3;0
 Introspection;Strategy;;Heaven & Earth (Rare);Rain of Blood (Diamond);3;0
 Introspection;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
 Invocation;Strategy;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;0
-Invocation;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
+Invocation;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;2
 Inward Focus;Strategy;;Onyx Edition (Fixed);Onyx Edition;3;0
 Irasshai;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Irasshai;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
@@ -3386,7 +3386,7 @@ Mirumoto Hitomi, Seven Thunder • Experienced 2CW;Personality;Dragon;Siege: Cla
 Mirumoto Hitomi;Personality;Dragon/Toturi's Army;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;2
 Mirumoto Hitomi;Personality;Dragon/Toturi's Army;Obsidian Edition (Common);Hidden Emperor (Jade);3;0 # Due to Jade Extended rules
 Mirumoto Kazuya;Personality;Dragon;Coils of Madness (Premium);A Brother's Destiny (Ivory Edition);3;0
-Mirumoto Kazuya;Personality;Dragon;Coils of Madness (Premium);Age of Conquest (Emperor);3;1
+Mirumoto Kazuya;Personality;Dragon;Coils of Madness (Premium);Age of Conquest (Emperor);3;2
 Mirumoto Konoe;Personality;Dragon;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;1
 Mirumoto Konoe;Personality;Dragon;Evil Portents (Common);Onyx Edition;3;0
 Mirumoto Masunobe;Personality;Dragon;Onyx Edition (Fixed);Onyx Edition;3;0
@@ -3515,7 +3515,7 @@ Moto Ugoro;Personality;Unicorn;Onyx Edition (Fixed);Onyx Edition;3;0
 Moto Ugoro;Personality;Unicorn;Shattered Empire (Fixed);Shattered Empire;3;0
 Moto Vordu • Experienced;Personality;Unicorn;An Oni's Fury (Rare);Four Winds (Gold);1;1
 Moto Xin;Personality;Unicorn;Coils of Madness (Premium);A Brother's Destiny (Ivory Edition);3;1
-Moto Xin;Personality;Unicorn;Coils of Madness (Premium);Age of Conquest (Emperor);3;0
+Moto Xin;Personality;Unicorn;Coils of Madness (Premium);Age of Conquest (Emperor);3;1
 Moto Yanshuo, Speaker for the Dead;Personality;Unicorn;Rise of Otosan Uchi (Fixed);Onyx Edition;3;0
 Moto Yanshuo, Speaker for the Dead;Personality;Unicorn;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Moto Yao-tsu;Personality;Unicorn;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
@@ -3881,7 +3881,7 @@ Rallying Cry;Strategy;;Gold Edition (Common)/Promotional–Gold (Promo)/L5R Expe
 Rallying Cry;Strategy;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Rallying Cry;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
 Rampant Paranoia;Event;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;0
-Rampant Paranoia;Event;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
+Rampant Paranoia;Event;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;2
 Rani Sensei;Sensei;;Onyx Edition (Fixed);Onyx Edition;1;0
 Rani Sensei;Sensei;;Shattered Empire (Fixed);Shattered Empire;1;0
 Rank Hath Privilege;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
@@ -5494,7 +5494,7 @@ Watanabe Yuki, Soul of Yoritomo Jera;Personality;Mantis;Shattered Empire (Fixed)
 Wataru Sensei;Sensei;;Rise of Jigoku (Fixed);Onyx Edition;1;0
 Wataru Sensei;Sensei;;Rise of Jigoku (Fixed);Shattered Empire;1;0
 Wataru's Masterpiece;Spell;;Gates of Tengoku (Fixed);Shattered Empire;3;0
-Water Spider Adept;Follower;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Water Spider Adept;Follower;;Seeds of Decay (Common);Age of Conquest (Emperor);3;2
 Way of Deception;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Way of Deception;Strategy;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;3
 Way of Deception;Strategy;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);3;0
@@ -5754,6 +5754,49 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Desti
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
+Tempest of Air;Spell;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Tempest of Air;Spell;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;2
+Blood of the Preserver • Experienced;Item;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
+Blood of the Preserver • Experienced;Item;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
+Heart of Fudo • Experienced 2;Item;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
+Heart of Fudo • Experienced 2;Item;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
+Takujin;Personality;Unaligned;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Takujin;Personality;Unaligned;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
+Lone Sentry;Follower;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Lone Sentry;Follower;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
+False Ring of Fire;Ring;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
+False Ring of Fire;Ring;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
+False Ring of the Void;Ring;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
+False Ring of the Void;Ring;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
+Immolation;Spell;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Kitsuki Minori;Personality;Dragon;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Dubious Resources;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Asako Jukko;Personality;Phoenix;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Sticks and Stones;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Aka-beko;Item;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Dark Experiments;Event;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);1;1
+Peace of the Kami;Spell;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Doji Mitsuru;Personality;Crane;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Horseback Warriors;Follower;;Seeds of Decay (Rare);Age of Conquest (Emperor);3;1
+Mukudori;Personality;Unaligned;Seeds of Decay (Rare);Age of Conquest (Emperor);1;1
+O-Yoroi Troops;Follower;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Yogo Ugimori;Personality;Scorpion;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Only a Shadow;Strategy;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Incense Mill;Holding;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Masayoshi;Personality;Spider;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Shield Formation;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Yoritomo Iwashi;Personality;Mantis;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Dragon Tattoo • Experienced;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Kakita Yusugi;Personality;Crane;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Learning;Strategy;;Seeds of Decay (Rare);Age of Conquest (Emperor);3;1
+Hida Kaiji;Personality;Crab;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Master of Beasts;Spell;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Tested Land;Region;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Military Promotion;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Defensive Blockade;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Kaiu Okaru;Personality;Crab;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Okesa-goma;Item;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Zansho;Personality;Unaligned;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
 
 # Done through card #630
 #652
@@ -6380,11 +6423,33 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 #9933
 #9945
 #9974
+#10029
 #10033
-#10109
+#10035
+#10040
+#10043
+#10049
+#10051-10052
+#10071
+#10073
+#10084
+#10089
+#10092
+#10097
+#10104
+#10106-10107
+#10109-10110
+#10122
+#10127-10128
+#10130
 #10133
-#10143
+#10142-10145
 #10148
+#10155
+#10159
+#10161
+#10167
+#10170
 #10181
 #10189
 #10231
@@ -6408,6 +6473,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 #10475-10476
 #10482-10485
 #10487-10488
+#10492
 #10495
 #10497
 #10499-10502
@@ -6416,11 +6482,10 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 #10510
 #10513-10514
 #10516-10517
-#10522
+#10520-10523
 #10525
-#10528-10532
-#10535
-#10538
+#10528-10535
+#10537-10538
 #10541-10545
 #10547-10548
 #10552-10554
