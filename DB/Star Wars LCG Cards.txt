@@ -1,20 +1,17 @@
+# card_name;affil;card_type;cost;force_icons;obj_set - quant
 # Objective Sets Done: 1-10, 20-21, 32, 127-140
 "No Disintegrations";Scum and Villainy;Objective;;;134-1
-# card_name;affil;card_type;cost;force_icons;obj_set - quant
 A Better Offer;Scum and Villainy;Event;0;1;138-1
 A Hero's Journey;Jedi;Objective;;;1-1
 A Hero's Trial;Jedi;Objective;;;127-1
 A Journey to Dagobah;Jedi;Objective;;;4-1
-Fleeing the Empire;Rebel Alliance;Objective;;;10-1
-Leia Organa;Rebel Alliance;Unit;2;3;10-1
-Fleet Officer;Rebel Alliance;Unit;2;2;10-1
-Stolen Plans;Light Neutral;Enhancement;1;1;10-1
-You're My Only Hope;Rebel Alliance;Event;0;2;10-1
+A-Wing;Light Neutral;Unit;2;1;9-1
 Advisor to the Emperor;Sith;Unit;2;2;20-1
 All Out Brawl;Scum and Villainy;Objective;;;136-1
 Ancient Monument;Jedi;Enhancement;1;3;7-1
 Armed to the Teeth;Scum and Villainy;Event;0;2;136-1
 Astromech Droid Upgrade;Light Neutral;Enhancement;1;2;8-1
+Battlefield Engineers;Rebel Alliance;Unit;2;2;9-1
 Believer in the Old Ways;Jedi;Unit;2;1;2-1/7-1
 Black Squadron Assault;Sith;Objective;;;21-1
 Black Squadron Pilot;Dark Neutral;Unit;2;1;21-1
@@ -43,6 +40,8 @@ Espo Trooper;Dark Neutral;Unit;0;1;32-5
 Ewok Hunter;Light Neutral;Unit;2;1;131-2
 Family Connections;Imperial Navy;Objective;;;140-1
 Flamethrower;Scum and Villainy;Enhancement;2;2;134-1
+Fleeing the Empire;Rebel Alliance;Objective;;;10-1
+Fleet Officer;Rebel Alliance;Unit;2;2;10-1
 Following Fate;Jedi;Objective;;;129-1
 Force Rejuvenation;Jedi;Event;2;2;6-1
 Forgotten Heroes;Jedi;Objective;;;3-1
@@ -52,6 +51,7 @@ General Tagge;Imperial Navy;Unit;3;2;140-1
 Guardian of Peace;Jedi;Unit;2;1;5-2
 Heat of Battle;Dark Neutral;Fate;0;2;132-1/136-1
 Heat of Battle;Light Neutral;Fate;0;2;3-1/9-1/127-1
+Heavy Blaster Emplacement;Light Neutral;Enhancement;0;1;9-1
 Hidden Outpost;Light Neutral;Enhancement;1;0;8-1
 I Am a Jedi;Jedi;Event;2;1;127-1
 I'm On the Leader;Sith;Event;1;1;21-1
@@ -72,6 +72,7 @@ Jubba Bird;Jedi;Unit;1;2;130-2
 Knobby White Spider;Jedi;Enhancement;1;0;130-1
 Kuati Security Team;Dark Neutral;Unit;2;1;20-1
 Last Minute Rescue;Jedi;Objective;;;6-1
+Leia Organa;Rebel Alliance;Unit;2;3;10-1
 Lieutenant Judder Page;Rebel Alliance;Unit;3;2;132-1
 Life Creates It;Jedi;Event;1;1;130-1
 Lightsaber Deflection;Jedi;Event;0;2;5-1/128-1
@@ -79,6 +80,8 @@ Luke Skywalker;Jedi;Unit;4;3;1-1
 Luke Skywalker;Jedi;Unit;4;4;127-1
 Luke's Lightsaber;Jedi;Enhancement;1;2;127-1
 Masterful Manipulation;Scum and Villainy;Objective;;;135-1
+Mission Briefing;Rebel Alliance;Objective;;;9-1
+Mon Mothma;Rebel Alliance;Unit;3;2;9-1
 Noble Sacrifice;Jedi;Event;1;1;129-1
 Obi-Wan Kenobi (Following Fate);Jedi;Unit;5;4;129-1
 Obi-Wan Kenobi;Jedi;Unit;5;4;3-1
@@ -108,6 +111,7 @@ Size Matters Not;Jedi;Event;0;1;130-1
 Skipray Blastboat;Light Neutral;Unit;2;1;133-2
 Snoova;Scum and Villainy;Unit;3;2;138-1
 Speeder Bike;Light Neutral;Unit;2;0;127-1
+Stolen Plans;Light Neutral;Enhancement;1;1;10-1
 Talon Karrde;Smugglers and Spies;Unit;4;3;133-1
 Target of Opportunity;Dark Neutral;Fate;0;2;21-1/137-1
 Target of Opportunity;Light Neutral;Fate;0;2;4-1/129-1/132-1
@@ -132,10 +136,6 @@ Y-Wing;Light Neutral;Unit;2;1;8-1
 Yoda (The Master's Domain);Jedi;Unit;3;5;128-1
 Yoda's Hut;Jedi;Enhancement;2;1;128-1
 Yoda;Jedi;Unit;3;5;2-1
+You're My Only Hope;Rebel Alliance;Event;0;2;10-1
 Ysanne Isard;Sith;Unit;4;3;139-1
 Zekka Thyne;Scum and Villainy;Unit;4;1;136-1
-Mission Briefing;Rebel Alliance;Objective;;;9-1
-Mon Mothma;Rebel Alliance;Unit;3;2;9-1
-Battlefield Engineers;Rebel Alliance;Unit;2;2;9-1
-A-Wing;Light Neutral;Unit;2;1;9-1
-Heavy Blaster Emplacement;Light Neutral;Enhancement;0;1;9-1
