@@ -36,7 +36,7 @@ Eidetic Memory;Upgrade;Hero (Silk);Superpower;Silk Hero Pack;1
 Electromagnetic Blast;Event;Hero (Magneto);Magnetic/Superpower/Thwart;Magneto Hero Pack;2
 Energy Shield;Upgrade;Protection;Item/Tech;Silk Hero Pack;3
 Energy Truncheon;Attachment;Extreme Risk Encounter Set;Tech/Weapon;Black Panther Hero Pack;2
-Energy;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack;4
+Energy;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack/Agents of S.H.I.E.L.D.;5
 Executioner;Minion;Crazy Gang Encounter Set;Criminal;Nightcrawler Hero Pack;1
 Exodus;Minion;Magneto Nemesis;Acolyte/Elite/Psionic;Magneto Hero Pack;1
 Extreme Risk;Treachery;Extreme Risk Encounter Set;;Black Panther Hero Pack;2
@@ -44,7 +44,7 @@ Fabian Cortez;Minion;Magneto Nemesis;Acolyte;Magneto Hero Pack;1
 Face The Past;Event;Basic;;Magneto Hero Pack;1
 Frenzy;Minion;Magneto Nemesis;Acolyte;Magneto Hero Pack;1
 Gambit (Remy LeBeau);Ally;Basic;Thief/X-Men;Nightcrawler Hero Pack;1
-Genius;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack;4
+Genius;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack/Agents of S.H.I.E.L.D.;5
 Get The Scoop;Player Side Scheme;Hero (Silk);;Silk Hero Pack;1
 Going Undercover;Player Side Scheme;Justice;;Black Panther Hero Pack;1
 Grow Invulnerable;Side Scheme;Growing Strong Encounter Set;;Silk Hero Pack;1
@@ -122,7 +122,7 @@ Spider-Man 2099 (Miguel O'Hara);Ally;Leadership;Aerial/Web-Warrior;Silk Hero Pac
 Spider-Woman (Jessica Drew);Ally;Aggression;S.H.I.E.L.D./Web-Warrior;Silk Hero Pack;1
 Squared Off;Event;Leadership;Tactic;Magneto Hero Pack;3
 Sting Operation;Upgrade;Justice;Preparation/Tactic;Black Panther Hero Pack;3
-Strength;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack;4
+Strength;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack/Agents of S.H.I.E.L.D.;5
 Stun Gun;Upgrade;Protection;Tech/Weapon;Silk Hero Pack;3
 Surge (Noriko Ashida);Linked (Ally);Basic;New/X-Men;Magneto Hero Pack;1
 Swinging Silk Kick;Event;Hero (Silk);Aerial/Attack/Superpower;Silk Hero Pack;3
@@ -149,3 +149,33 @@ White Queen (Emma Frost);Ally;Basic;Psionic/X-Men;Magneto Hero Pack;1
 White Wolf (Hunter);Ally;Leadership;Wakanda;Black Panther Hero Pack;1
 Won't Stay Down;Support;Leadership;Condition;Magneto Hero Pack;3
 Wrapped In Metal;Upgrade;Hero (Magneto);Magnetic;Magneto Hero Pack;2
+Maria Hill // Maria Hill;Hero;Hero (Maria Hill);S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
+Nick Fury;Ally;Hero (Maria Hill);S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
+All-Points Bulletin;Event;Hero (Maria Hill);Tactic;Agents of S.H.I.E.L.D.;2
+On the Double;Event;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;2
+Reinforcements;Event;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;3
+The Hard Call;Event;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;1
+Special Funding;Resource;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;2
+Support Staff;Support;Hero (Maria Hill);Persona/S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
+The Iliad;Support;Hero (Maria Hill);S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
+Life Model Decoy;Upgrade;Hero (Maria Hill);Preparation/Tech;Agents of S.H.I.E.L.D.;1
+S.H.I.E.L.D. Director;Upgrade;Hero (Maria Hill);Title;Agents of S.H.I.E.L.D.;1
+Victoria Hand;Ally;Leadership;S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
+Slingshot (Yo-Yo Rodriguez);Ally;Leadership;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
+Organizational Support;Resource;Leadership;;Agents of S.H.I.E.L.D.;3
+Agents of S.H.I.E.L.D.;Support;Leadership;Team;Agents of S.H.I.E.L.D.;3
+Command Team;Support;Leadership;S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;3
+The Circe;Support;Leadership;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
+The Bellerophon;Support;Aggression;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
+The Douglass;Support;Justice;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
+The Pericles;Support;Protection;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
+Dum Dum Dugan;Ally;Basic;S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
+Grant Ward;Ally;Basic;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
+Melinda May;Ally;Basic;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
+Super Spies;Event;Basic;;Agents of S.H.I.E.L.D.;1
+Front Organization;Support;Basic;Location;Agents of S.H.I.E.L.D.;3
+Press Conference;Obligation;Hero Obligation (Maria Hill);;Agents of S.H.I.E.L.D.;1
+Controller;Minion;Maria Hill Nemesis;Elite;Psionic;Agents of S.H.I.E.L.D.;1
+Army of the Controlled;Side Scheme;Maria Hill Nemesis;;Agents of S.H.I.E.L.D.;1
+Controlled Innocents;Environment;Maria Hill Nemesis;Agents of S.H.I.E.L.D.;1
+Diabolical Discs;Treachery;Maria Hill Nemesis;Agents of S.H.I.E.L.D.;2
