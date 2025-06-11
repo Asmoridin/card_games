@@ -2085,7 +2085,7 @@ Explosives;Strategy;;Diamond Edition (Uncommon);Rain of Blood (Diamond);3;0
 Explosives;Strategy;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Explosives;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Rare)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
 Explosives;Strategy;;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed)/Tomorrow (Fixed);Age of Enlightenment (Lotus);3;0
-Exquisite Gifts;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Exquisite Gifts;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;2
 Exquisite Nagamaki of the Fox Clan;Item;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Exquisite Nagamaki of the Fox Clan;Item;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Exquisite Nagamaki of the Fox Clan;Item;;Onyx Edition (Fixed);Onyx Edition;3;0
@@ -2155,7 +2155,7 @@ Far from the Empire;Event;;Fire & Shadow (Rare);Hidden Emperor (Jade);1;0
 Farmer's Market;Holding;;Ivory Edition (Uncommon)/The Currency of War (Fixed)/A Matter of Honor (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Farmer's Market;Holding;;Ivory Edition (Uncommon)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Farmer's Market;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
-Farmer's Market;Holding;;Seeds of Decay (Common);Age of Conquest (Emperor);3;0
+Farmer's Market;Holding;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
 Farmlands;Region;;Celestial Edition (Common)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
 Farmlands;Region;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;1
 Farmlands;Region;;Forbidden Knowledge (Common);Clan Wars (Imperial);3;0
@@ -4699,7 +4699,7 @@ Suikihime's Domain;Holding;;Road to Ruin (Fixed);Onyx Edition;3;0
 Suikihime's Domain;Holding;;Road to Ruin (Fixed);Shattered Empire;3;0
 Suikihime's Sanction;Strategy;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
 Suikihime's Sanction;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
-Suitengu's Path;Spell;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Suitengu's Path;Spell;;Seeds of Decay (Common);Age of Conquest (Emperor);3;2
 Suiteru no Oni;Personality;Unaligned;Shattered Empire (Fixed);Shattered Empire;3;0
 Summer Court;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Summer Court;Holding;;Shattered Empire (Fixed);Shattered Empire;3;0
@@ -5797,6 +5797,36 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Desti
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
+Urgency;Strategy;;Seeds of Decay (Rare);Age of Conquest (Emperor);3;1
+Mirumoto Michi;Personality;Dragon;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+An Insult Answered;Strategy;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Offering Reverence;Event;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);1;1
+Unparalleled Sword;Item;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Ronin Ambushers;Follower;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Shinjo Katsuo;Personality;Unicorn;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Vengeful Dismissal;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Daigotsu Yamato;Personality;Spider;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Out of My Sight!;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Black Marketeerng;Strategy;;Seeds of Decay (Rare);Age of Conquest (Emperor);3;1
+Incredible Tragedy;Event;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);1;1
+Hato-gurama;Item;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Daigotsu Yutaka;Personality;Spider;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+The Arrow's Eye;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Incriminating Testimony;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Ikoma Masumi;Personality;Lion;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Courting Trouble;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Temple to Fudo;Holding;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Kama;Item;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Yasuki Tsujiken • Experienced;Personality;Crab;Seeds of Decay (Rare);Age of Conquest (Emperor);1;1
+Manipulate Energies;Strategy;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Tamori Takeshi;Personality;Dragon;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Brotherhood Schism;Strategy;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Chuda Seki;Personality;Unaligned;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Asako Kijo;Personality;Phoenix;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Togashi Hiroto;Personality;Dragon;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Small Library;Holding;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
+Small Library;Holding;;Twenty Festivals (Common);Onyx Edition;3;0
+Small Library;Holding;;Twenty Festivals (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 
 # Done through card #630
 #652
@@ -6423,34 +6453,44 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 #9933
 #9945
 #9974
-#10029
+#10029-10031
 #10033
 #10035
-#10040
+#10038-10040
 #10043
+#10045
 #10049
 #10051-10052
+#10054-10055
+#10057
+#10062
 #10071
-#10073
-#10084
+#10073-10074
+#10084-10086
 #10089
-#10092
+#10091-10092
 #10097
+#10101
 #10104
-#10106-10107
-#10109-10110
+#10106-10110
+#10115-10116
 #10122
+#10124
 #10127-10128
 #10130
 #10133
+#10136-10138
+#10140
 #10142-10145
 #10148
-#10155
+#10153
+#10155-10156
 #10159
-#10161
+#10161-10162
 #10167
 #10170
-#10181
+#10172
+#10179-10181
 #10189
 #10231
 #10336-10337
