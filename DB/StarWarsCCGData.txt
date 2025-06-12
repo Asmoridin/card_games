@@ -75,7 +75,7 @@ All My Urchins;LS;Effect;Cloud City (R);4;0
 All Power To Weapons;DS;Interrupt;Special Edition (C);4;0
 All Too Easy;DS;Effect;Cloud City (R);4;0
 All Wings Report In & Darklighter Spin;LS;Interrupt;Coruscant (R);4;0
-All Wings Report In;LS;Interrupt;Special Edition (R);4;1
+All Wings Report In;LS;Interrupt;Special Edition (R);4;2
 All Wrapped Up;DS;Effect;Jabba's Palace (U);4;1
 Allegations Of Corruption (Defensive Shield);DS;Defensive Shield;Reflections III (P);4;0
 Allegations Of Corruption;DS;Effect;Coruscant (U);4;0
@@ -123,7 +123,7 @@ Artoo, Brave Little Droid;LS;Character;Theed Palace (R);4;0
 Artoo, Come Back At Once!;LS;Interrupt;Cloud City (R);4;0
 Artoo, I Have A Bad Feeling About This;LS;Interrupt;Jabba's Palace (U);4;1
 Artoo-Detoo In Red 5;LS;Starship;Third Anthology (P);4;0
-Artoo;LS;Character;Jabba's Palace (R);4;0
+Artoo;LS;Character;Jabba's Palace (R);4;1
 As Good As Gone;LS;Interrupt;Cloud City (C);4;0
 Ascension Guns;LS;Interrupt;Theed Palace (U);4;0
 Ascertaining The Truth;LS;Effect;Coruscant (U);4;0
@@ -146,7 +146,7 @@ Atmospheric Assault;DS;Interrupt;Cloud City (R);4;0
 Attack Pattern Delta;LS;Interrupt;Hoth (U1);4;0
 Attack Run;LS;Epic Event;A New Hope (R2);4;2
 Attark;LS;Character;Jabba's Palace (R);4;0
-Aurra Sing's Blaster Rifle;DS;Weapon;Reflections III (P);4;0
+Aurra Sing's Blaster Rifle;DS;Weapon;Reflections III (P);4;1
 Aurra Sing;DS;Character;Tatooine (R);4;0
 Aved Luun;LS;Character;Jabba's Palace (R);4;1
 Avenger;DS;Starship;Dagobah (R);4;1
@@ -209,7 +209,7 @@ Biker Scout Trooper;DS;Character;Endor (C);4;1
 Binders;DS;Device;Cloud City (C);4;0
 Bionic Hand;LS;Device;Cloud City (R);4;0
 Black 11;DS;Starship;Death Star II (R);4;0
-Black 2;DS;Starship;Premiere (R1);4;0
+Black 2;DS;Starship;Premiere (R1);4;1
 Black 3;DS;Starship;Premiere (U1);4;4
 Black 4;DS;Starship;A New Hope (U2);4;1
 Black Squadron TIE;DS;Starship;Official Tournament Sealed Deck (P);4;0
@@ -245,7 +245,7 @@ Blue Squadron B-wing;LS;Starship;Death Star II (R);4;0
 Bo Shuda;LS;Effect;Jabba's Palace (U);4;0
 Boba Fett (Special Edition);DS;Character;Special Edition (R);4;0
 Boba Fett In Slave 1;DS;Starship;Enhanced Cloud City (P);4;0
-Boba Fett with Blaster Rifle;DS;Character;Enhanced Premiere (P);4;0
+Boba Fett with Blaster Rifle;DS;Character;Enhanced Premiere (P);4;1
 Boba Fett's Blaster Rifle;DS;Weapon;Cloud City (R);4;0
 Boba Fett, Bounty Hunter;DS;Character;Reflections III (P);4;0
 Boba Fett;DS;Character;Cloud City (R);4;0
@@ -440,7 +440,7 @@ Concussion Grenade;LS;Weapon;Hoth (R1);4;0
 Concussion Missiles;DS;Weapon;Death Star II (C);4;0
 Concussion Missiles;LS;Weapon;Death Star II (C);4;0
 Conduct Your Search;DS;Effect;Reflections III (P);4;0
-Conquest;DS;Starship;A New Hope (R1);4;0
+Conquest;DS;Starship;A New Hope (R1);4;1
 Control & Set For Stun;DS;Interrupt;Reflections II (P);4;0
 Control & Tunnel Vision;LS;Interrupt;Reflections II (P);4;0
 Control;DS;Interrupt;Dagobah (U)/Coruscant (U);8;2
@@ -543,7 +543,7 @@ Darth Maul's Demise;LS;Interrupt;Reflections III (P);4;0
 Darth Maul, Young Apprentice;DS;Character;Coruscant (R);4;0
 Darth Maul;DS;Character;Tatooine (R);4;0
 Darth Sidious;DS;Character;Theed Palace (R);4;0
-Darth Vader with Lightsaber;DS;Character;Enhanced Premiere (P);4;0
+Darth Vader with Lightsaber;DS;Character;Enhanced Premiere (P);4;1
 Darth Vader's Lightsaber;DS;Weapon;Death Star II (R);4;0
 Darth Vader, Dark Lord Of The Sith;DS;Character;Special Edition (R);4;0
 Darth Vader;DS;Character;Premiere (R1);4;1
@@ -556,7 +556,7 @@ Deactivate The Shield Generator;LS;Epic Event;Endor (R);4;0
 Dead Ewok;DS;Interrupt;Endor (C);4;0
 Dead Jawa;DS;Interrupt;Premiere (C2);4;4
 Death Mark;DS;Effect;Hoth (R1);4;0
-Death Squadron Star Destroyer;DS;Starship;Special Edition (R);4;0
+Death Squadron Star Destroyer;DS;Starship;Special Edition (R);4;1
 Death Squadron;DS;Effect;Hoth (U1);4;0
 Death Star Assault Squadron;DS;Starship;Special Edition (R);4;0
 Death Star Gunner;DS;Character;A New Hope (C1);4;2
@@ -1355,7 +1355,7 @@ Luke Seeker;DS;Weapon;Premiere (R2);4;1
 Luke Skywalker, Jedi Knight;LS;Character;Death Star II (UR);4;0
 Luke Skywalker, Rebel Scout;LS;Character;Reflections II (P);4;0
 Luke Skywalker;LS;Character;Premiere (R1);4;1
-Luke with Lightsaber;LS;Character;Enhanced Premiere (P);4;0
+Luke with Lightsaber;LS;Character;Enhanced Premiere (P);4;1 // kind of in rough shape
 Luke's Back;LS;Interrupt;Premiere (U2);4;4
 Luke's Backpack;LS;Device;Dagobah (R);4;1
 Luke's Blaster Pistol;LS;Weapon;Cloud City (R);4;0
@@ -2505,7 +2505,7 @@ Yuzzum;DS;Character;Jabba's Palace (C);4;1
 Z-95 Bespin Defense Fighter;LS;Starship;Enhanced Cloud City (P);4;0
 Z-95 Headhunter;LS;Starship;Official Tournament Sealed Deck (P);4;0
 Zev Senesca;LS;Character;Hoth (R2);4;0
-Zuckuss In Mist Hunter;DS;Starship;Enhanced Jabba's Palace (P);4;0
+Zuckuss In Mist Hunter;DS;Starship;Enhanced Jabba's Palace (P);4;1
 Zuckuss' Snare Rifle;DS;Weapon;Dagobah (R);4;0
 Zuckuss;DS;Character;Dagobah (R);4;1
 Zutton;LS;Character;A New Hope (C1);4;2
