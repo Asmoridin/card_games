@@ -60,24 +60,32 @@ for obj_line in obj_lines:
 # Read in the cards
 objective_num_to_name = {}
 card_lines = []
+cards_with_trait = {}
 with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
     for card_line in card_fh:
         if card_line.startswith('#'):
             continue
         card_line = card_line.strip()
-        card_name, card_affil, card_type, card_cost, force_icons, obj_sets = card_line.split(';')
+        card_name, card_affil, card_type, card_traits, card_cost, force_icons, \
+            obj_sets = card_line.split(';')
         if card_affil not in VALID_AFFILIATIONS:
             print(f"{card_name} seems to have an invalid affiliation of {card_affil}")
             continue
         if card_type not in CARD_TYPES:
             print(f"{card_name} seems to have an invalid type of {card_type}")
             continue
+        if card_traits != '':
+            for trait in card_traits.split('/'):
+                if trait not in cards_with_trait:
+                    cards_with_trait[trait] = 0
+                cards_with_trait[trait] += 1
         if card_type == 'Objective':
             this_obj_set = obj_sets.split('-')[0]
             objective_num_to_name[this_obj_set] = card_name
         card_lines.append(card_line)
 
 print(objective_num_to_name)
+print(cards_with_trait)
 
 def get_index(in_deck):
     """
