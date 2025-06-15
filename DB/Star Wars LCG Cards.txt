@@ -1,11 +1,12 @@
-# card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-10, 20-21, 32, 127-140
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
+# card_name;affil;card_type;cost;force_icons;obj_set - quant
+# Objective Sets Done: 1-12, 20-21, 32, 127-140
 A Better Offer;Scum and Villainy;Event;;0;1;138-1
 A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
 A-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;9-1
+Admiral Ackbar;Rebel Alliance;Unit;Character/Leader;3;3;12-1
 Advisor to the Emperor;Sith;Unit;Character;2;2;20-1
 All Out Brawl;Scum and Villainy;Objective;Corellia;;;136-1
 Ancient Monument;Jedi;Enhancement;Location;1;3;7-1
@@ -34,6 +35,7 @@ Dark Precognition;Sith;Event;Force/Sense;0;1;20-1
 Debt Collector;Scum and Villainy;Unit;Character/Black Sun;2;1;135-1/136-1
 Dirty Secrets;Smugglers and Spies;Enhancement;Condition;1;1;133-1
 Double Strike;Jedi;Event;;1;1;4-1
+Draw Their Fire;Rebel Alliance;Objective;;;;12-1
 Emergency Repair;Light Neutral;Event;;2;1;6-1
 Entangled;Scum and Villainy;Event;;0;1;134-1/136-1
 Espo Trooper;Dark Neutral;Unit;Character/Trooper;0;1;32-5
@@ -41,6 +43,7 @@ Ewok Hunter;Light Neutral;Unit;Character/Ewok;2;1;131-2
 Family Connections;Imperial Navy;Objective;Tepasi;;;140-1
 Flamethrower;Scum and Villainy;Enhancement;Weapon;2;2;134-1
 Fleeing the Empire;Rebel Alliance;Objective;;;;10-1
+Fleet Command Center;Rebel Alliance;Enhancement;Yavin 4/Location;3;2;12-1
 Fleet Officer;Rebel Alliance;Unit;Character;2;2;10-1
 Following Fate;Jedi;Objective;;;;129-1
 Force Rejuvenation;Jedi;Event;Force/Control;2;2;6-1
@@ -52,7 +55,9 @@ Guardian of Peace;Jedi;Unit;Character/Force Sensitive;2;1;5-2
 Heat of Battle;Dark Neutral;Fate;;0;2;132-1/136-1
 Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/127-1
 Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
-Hidden Outpost;Light Neutral;Enhancement;Location;1;0;8-1
+Heroic Sacrifice;Rebel Alliance;Event;;1;1;12-1
+Hidden Outpost;Light Neutral;Enhancement;Location;1;0;8-1/11-1
+Home One;Rebel Alliance;Unit;Vehicle/Capital Ship;5;3;11-1
 I Am a Jedi;Jedi;Event;Title;2;1;127-1
 I'm On the Leader;Sith;Event;;1;1;21-1
 Imperial Discipline;Imperial Navy;Enhancement;Skill;1;1;140-1
@@ -98,6 +103,7 @@ Rebel Assault;Rebel Alliance;Event;;2;1;8-1
 Red Five;Jedi;Unit;Vehicle/Fighter;3;2;4-1
 Red Two;Rebel Alliance;Unit;Vehicle/Fighter;3;2;8-1
 Redemption;Jedi;Unit;Vehicle/Capital Ship;5;3;6-1
+Repair Droid;Rebel Alliance;Unit;Droid;1;1;11-1
 Retreat to the Forest;Light Neutral;Event;;0;1;131-1
 Return of the Jedi;Jedi;Event;;3;3;6-1
 Rise of the Black Sun;Scum and Villainy;Event;Black Sun;1;1;137-1
@@ -114,7 +120,7 @@ Speeder Bike;Light Neutral;Unit;Vehicle/Speeder;2;0;127-1
 Stolen Plans;Light Neutral;Enhancement;Espionage;1;1;10-1
 Talon Karrde;Smugglers and Spies;Unit;Character/Smuggler;4;3;133-1
 Target of Opportunity;Dark Neutral;Fate;;0;2;21-1/137-1
-Target of Opportunity;Light Neutral;Fate;;0;2;4-1/129-1/132-1
+Target of Opportunity;Light Neutral;Fate;;0;2;4-1/11-1/129-1/132-1
 The Best That Credits Can Buy;Scum and Villainy;Objective;;;;137-1
 The Defense of Yavin 4;Rebel Alliance;Objective;Yavin 4;;;8-1
 The Hunters;Scum and Villainy;Objective;;;;138-1
@@ -122,6 +128,7 @@ The Investigation;Sith;Objective;Lusankya;;;139-1
 The Jedi's Resolve;Light Neutral;Fate;;0;2;128-1
 The Master's Domain;Jedi;Objective;Dagobah;;;128-1
 The Prince's Scheme;Dark Neutral;Fate;;0;1;135-1
+The Rebel Fleet;Rebel Alliance;Objective;;;;11-1
 The Secret of Yavin 4;Jedi;Objective;Yavin 4;;;5-1
 TIE Advanced;Dark Neutral;Unit;Vehicle/Fighter/Black Squadron;2;1;21-1
 Trust Your Feelings;Jedi;Enhancement;Skill;2;1;1-1
@@ -132,7 +139,9 @@ Unexpected Assistance;Light Neutral;Event;;1;1;131-1
 Vader's TIE Advanced;Sith;Unit;Vehicle/Fighter/Black Squadron;3;3;21-1
 Virago;Scum and Villainy;Unit;Vehicle/Fighter/Black Sun;3;3;137-1
 Warning Shot;Scum and Villainy;Event;;0;1;137-1
-Y-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;8-1
+X-Wing Escort;Light Neutral;Unit;Vehicle/Fighter/Squadron;2;1;12-1
+X-Wing;Light Neutral;Unit;Vehicle/Fighter;1;1;12-1
+Y-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;8-1/11-1
 Yoda (The Master's Domain);Jedi;Unit;Character/Force User;3;5;128-1
 Yoda's Hut;Jedi;Enhancement;Dagobah/Location;2;1;128-1
 Yoda;Jedi;Unit;Character/Force User;3;5;2-1

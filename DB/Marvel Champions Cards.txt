@@ -1,4 +1,5 @@
 "Come Get Me, Bub!";Event;Protection;Tactic;Nightcrawler Hero Pack;3
+"It's Alive!";Treachery;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 "Off With His Head!";Treachery;Crazy Gang Encounter Set;;Nightcrawler Hero Pack;1
 "Stop Hitting Yourself";Event;Protection;Attack;Silk Hero Pack;3
 "You Got This!";Event;Leadership;Tactic;Magneto Hero Pack;3
@@ -7,11 +8,13 @@
 A.I.M. Abductor;Minion;A.I.M. Abduction Encounter Set;A.I.M.;Agents of S.H.I.E.L.D.;2
 A.I.M. Commando;Minion;Black Widow Villain;A.I.M.;Agents of S.H.I.E.L.D.;2
 A.I.M. Grunt;Minion;Black Widow Villain;A.I.M.;Agents of S.H.I.E.L.D.;2
+A.I.M. Jailer;Minion;M.O.D.O.K. Villain;A.I.M.;Agents of S.H.I.E.L.D.;2
 A.I.M. Scientist;Minion;A.I.M. Science Encounter Set;A.I.M.;Agents of S.H.I.E.L.D.;1
 A.I.M. Soldier;Minion;A.I.M. Science Encounter Set;A.I.M.;Agents of S.H.I.E.L.D.;3
 Abduct Superhumans;Side Scheme;A.I.M. Abduction Encounter Set;;Agents of S.H.I.E.L.D.;1
 Acquire Infinity Formula;Side Scheme;Nick Fury Nemesis;;Agents of S.H.I.E.L.D.;1
 Across The Spider-Verse;Event;Basic;;Silk Hero Pack;1
+Adaptoid;Minion;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;4
 Agent Coulson;Ally;Justice;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
 Agents of S.H.I.E.L.D.;Support;Leadership;Team;Agents of S.H.I.E.L.D.;3
 Aja-Adanna;Upgrade;Hero (Black Panther (Shuri));Title;Black Panther Hero Pack;1
@@ -21,6 +24,7 @@ All-Points Bulletin;Event;Hero (Maria Hill);Tactic;Agents of S.H.I.E.L.D.;2
 Aneka;Ally;Basic;Dora Milaje/Wakanda;Black Panther Hero Pack;1
 Angry Acolyte;Treachery;Magneto Nemesis;;Magneto Hero Pack;1
 Anole (Victor Borkowski);Linked (Ally);Basic;New/X-Men;Magneto Hero Pack;1
+Apprehending Rogue Agents;Main Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
 Army of the Controlled;Side Scheme;Maria Hill Nemesis;;Agents of S.H.I.E.L.D.;1
 Assault // Stealth;Upgrade;Hero (Nick Fury);Item/Tech;Agents of S.H.I.E.L.D.;1
 Asteroid M;Support;Hero (Magneto);Location/Magnetic;Magneto Hero Pack;1
@@ -28,6 +32,7 @@ Astonishing X-Men;Player Side Scheme;Protection;;Nightcrawler Hero Pack;1
 Atlas;Minion;Growing Strong Encounter Set;Elite/Thunderbolt;Silk Hero Pack;1
 Attacrobatics;Treachery;Black Widow Villain;;Agents of S.H.I.E.L.D.;2
 Automated Defenses;Side Scheme;Black Widow Villain;;Agents of S.H.I.E.L.D.;1
+Automated Mobile Unit;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 Ayo;Ally;Basic;Dora Milaje/Wakanda;Black Panther Hero Pack;1
 Azazel's Sword;Attachment;Nightcrawler Nemesis;Weapon;Nightcrawler Hero Pack;1
 Azazel;Minion;Nightcrawler Nemesis;Elite/Neyaphem;Nightcrawler Hero Pack;1
@@ -45,6 +50,8 @@ Brimstone Strike;Treachery;Nightcrawler Nemesis;;Nightcrawler Hero Pack;2
 Build Support;Player Side Scheme;Basic;;Black Panther Hero Pack;1
 Change Of Fortune;Upgrade;Protection;;Nightcrawler Hero Pack;3
 Children Of The Atom;Support;Basic;;Magneto Hero Pack;3
+Citizen V's Sword;Attachment;Thunderbolts Villain;Weapon;Agents of S.H.I.E.L.D.;1
+Citizen V;Villain;Thunderbolts Villain;Thunderbolt;Agents of S.H.I.E.L.D.;1
 Clawed Strike;Event;Hero (Black Panther (Shuri));Attack;Black Panther Hero Pack;2
 Cold Storage;Treachery;Nick Fury Nemesis;;Agents of S.H.I.E.L.D.;1
 Combine Forces;Event;Aggression;;Nightcrawler Hero Pack;3
@@ -62,8 +69,11 @@ Daytripper (Amanda Sefton);Ally;Hero (Nightcrawler);Mystic;Nightcrawler Hero Pac
 Deft Focus;Upgrade;Basic;Skill;Magneto Hero Pack;3
 Destroy Evidence;Side Scheme;Black Widow Villain;;Agents of S.H.I.E.L.D.;1
 Diabolical Discs;Treachery;Maria Hill Nemesis;;Agents of S.H.I.E.L.D.;2
+Diplomatic Immunity;Side Scheme;Scientist Supreme Encounter Set;;Agents of S.H.I.E.L.D.;1
+Diplomatic Sanctions;Treachery;Scientist Supreme Encounter Set;;Agents of S.H.I.E.L.D.;2
 Discovered;Obligation;Hero Obligation (Nick Fury);Agents of S.H.I.E.L.D.;1
 Dora Milaje;Support;Basic;Wakanda;Black Panther Hero Pack;1
+Down But Not Out;Treachery;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;2
 Dr. Sinclair;Support;Protection;Persona/Therapist;Silk Hero Pack;1
 Dum Dum Dugan;Ally;Basic;S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
 Eidetic Memory;Upgrade;Hero (Silk);Superpower;Silk Hero Pack;1
@@ -81,6 +91,8 @@ Extreme Risk;Treachery;Extreme Risk Encounter Set;;Black Panther Hero Pack;2
 Eyepatch Camera;Upgrade;Hero (Nick Fury);Preparation/Tech;Agents of S.H.I.E.L.D.;1
 Fabian Cortez;Minion;Magneto Nemesis;Acolyte;Magneto Hero Pack;1
 Face The Past;Event;Basic;;Magneto Hero Pack;1
+Flying Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
+Focusing Crystal;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 Frenzy;Minion;Magneto Nemesis;Acolyte;Magneto Hero Pack;1
 Front Organization;Support;Basic;Location;Agents of S.H.I.E.L.D.;3
 Fury's Flying Car;Support;Hero (Nick Fury);Aerial/Tech/Vehicle;Agents of S.H.I.E.L.D.;1
@@ -92,17 +104,26 @@ Global Logistics;Event;Justice;S.H.I.E.L.D./Tactic;Agents of S.H.I.E.L.D.;3
 Going Undercover;Player Side Scheme;Justice;;Black Panther Hero Pack;1
 Grant Ward;Ally;Basic;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
 Grappling Hook;Attachment;Black Widow Villain;Item;Agents of S.H.I.E.L.D.;1
+Gravitational Pull;Treachery;Gravitational Pull Encounter Set;;Agents of S.H.I.E.L.D.;2
 Grow Invulnerable;Side Scheme;Growing Strong Encounter Set;;Silk Hero Pack;1
 Growing Strong;Treachery;Growing Strong Encounter Set;;Silk Hero Pack;2
 Gunboat Diplomacy;Event;Justice;Attack/Thwart;Nightcrawler Hero Pack;3
+Hard Sound Bindings;Attachment;Hard Sound Encounter Set;;Agents of S.H.I.E.L.D.;1
+Hard Sound;Treachery;Hard Sound Encounter Set;;Agents of S.H.I.E.L.D.;2
 Heart Of The Panther;Event;Basic;Wakanda;Black Panther Hero Pack;2
 Heightened Reflexes;Attachment;Batroc Villain;Condition;Agents of S.H.I.E.L.D.;1
 Hellfire Pawn;Minion;Hellfire Encounter Set;Hellfire;Magneto Hero Pack;1
+Holding Cell // Flying Inhuman;Environment;M.O.D.O.K. Villain;Aerial/Inhuman/Rescued;Agents of S.H.I.E.L.D.;1
+Holding Cell // Psionic Inhuman;Environment;M.O.D.O.K. Villain;Inhuman/Psionic/Rescued;Agents of S.H.I.E.L.D.;1
+Holding Cell // Sarah Garza;Environment;M.O.D.O.K. Villain;Inhuman/Rescued/S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
+Holding Cell // Strong Inhuman;Environment;M.O.D.O.K. Villain;Inhuman/Rescued;Agents of S.H.I.E.L.D.;1
+Hostage Situation;Side Scheme;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 Hunting The Spider-Bride;Treachery;Silk Nemesis;;Silk Hero Pack;3
 Indra (Paras Gavaskar);Linked (Ally);Basic;New/X-Men;Magneto Hero Pack;1
 Infiltrate A.I.M. Island Embassy;Main Scheme;Batroc Villain;;Agents of S.H.I.E.L.D.;1
 Infiltration;Event;Justice;Thwart;Black Panther Hero Pack;3
 Informant;Upgrade;Justice;Preparation;Agents of S.H.I.E.L.D.;3
+Innocent Bystanders;Obligation;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;3
 Intelligence Analysis;Upgrade;Hero (Nick Fury);Preparation/Skill;Agents of S.H.I.E.L.D.;1
 Intelligence;Upgrade;Justice;Preparation;Agents of S.H.I.E.L.D.;3
 Investigative Journalism;Event;Basic;Skill;Silk Hero Pack;2
@@ -110,7 +131,9 @@ Invisibility Gear;Upgrade;Justice;Item/Tech;Black Panther Hero Pack;3
 J. Jonah Jameson;Support;Hero (Silk);Persona;Silk Hero Pack;1
 Jemma Simmons;Support;Basic;Persona/S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
 Jester;Minion;Crazy Gang Encounter Set;Criminal;Nightcrawler Hero Pack;1
+Jolt;Minion;Thunderbolts Villain;Thunderbolt;Agents of S.H.I.E.L.D.;1
 Joystick;Minion;Extreme Risk Encounter Set;Elite/Thunderbolt;Black Panther Hero Pack;1
+Justice, Like Lightning // Thunderbolt Backup;Environment;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
 Kid Omega (Quentin Quire);Ally;Leadership;Psionic/X-Men;Magneto Hero Pack;1
 Kimoyo Beads;Upgrade;Hero (Black Panther (Shuri));Black Panther/Tech;Black Panther Hero Pack;1
 Klaw;Minion;Black Panther (Shuri) Nemesis;Elite/Masters Of Evil;Black Panther Hero Pack;1
@@ -122,6 +145,7 @@ Leviathan Soldier;Minion;Nick Fury Nemesis;Leviathan;Agents of S.H.I.E.L.D.;2
 Life Model Decoy;Upgrade;Hero (Maria Hill);Preparation/Tech;Agents of S.H.I.E.L.D.;1
 Locate Missing Person;Main Scheme;Batroc Villain;;Agents of S.H.I.E.L.D.;1
 M (Monet St. Croix);Ally;Leadership;Psionic/X-Men;Magneto Hero Pack;1
+M.O.D.O.K;Villain;M.O.D.O.K. Villain;Aerial/Cyborg/Psionic;Agents of S.H.I.E.L.D.;1
 M.U.S.I.C.;Minion;Black Panther (Shuri) Nemesis;Captive;Black Panther Hero Pack;1
 Machete;Minion;Batroc's Brigade Encounter Set;Batroc's Brigade/Mercenary;Agents of S.H.I.E.L.D.;1
 Mad Science;Side Scheme;A.I.M. Science Encounter Set;;Agents of S.H.I.E.L.D.;1
@@ -141,8 +165,11 @@ Master Of Magnetism;Resource;Hero (Magneto);Magnetic;Magneto Hero Pack;2
 Melinda May;Ally;Basic;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
 Metal Shards;Event;Hero (Magneto);Attack/Magnetic/Superpower;Magneto Hero Pack;2
 Moira MacTaggert;Ally;Basic;Persona;Nightcrawler Hero Pack;1
+Monica Rappaccini;Minion;Scientist Supreme Encounter Set;A.I.M./Genius;Agents of S.H.I.E.L.D.;1
+Moonstone;Minion;Gravitational Pull Encounter Set;Aerial/Elite/Thunderbolt;Agents of S.H.I.E.L.D.;1
 Morlun;Minion;Silk Nemesis;Elite/Inheritor;Silk Hero Pack;1
 Nabbed!;Treachery;A.I.M. Abduction Encounter Set;;Agents of S.H.I.E.L.D.;2
+Nanobots;Attachment;M.O.D.O.K. Villain;Tech;Agents of S.H.I.E.L.D.;1
 New Recruits;Player Side Scheme;Leadership;;Magneto Hero Pack;1
 Nick Fury // Nick Fury;Hero;Hero (Nick Fury);S.H.I.E.L.D./Soldier/Spy;Agents of S.H.I.E.L.D.;1
 Nick Fury, Sr.;Ally;Basic;S.H.I.E.L.D./Soldier;Agents of S.H.I.E.L.D.;1
@@ -169,6 +196,12 @@ Practiced Plan;Upgrade;Basic;Preparation;Agents of S.H.I.E.L.D.;3
 Prehensile Tail;Upgrade;Hero (Nightcrawler);Superpower;Nightcrawler Hero Pack;1
 Press Conference;Obligation;Hero Obligation (Maria Hill);;Agents of S.H.I.E.L.D.;1
 Prism Dust;Upgrade;Justice;Preparation/Tech;Agents of S.H.I.E.L.D.;3
+Psionic Blast;Treachery;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;2
+Psionic Enhancement;Side Scheme;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
+Psionic Force Field;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
+Psionic Machetes;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
+Psionic Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
+Psychological Manipulation;Treachery;Gravitational Pull Encounter Set;;Agents of S.H.I.E.L.D.;2
 Quake (Daisy Johnson);Ally;Justice;Avenger/S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
 Queen Of Hearts;Minion;Crazy Gang Encounter Set;Criminal/Queen;Nightcrawler Hero Pack;1
 Queen Ramonda;Support;Hero (Black Panther (Shuri));Persona/Wakanda;Black Panther Hero Pack;1
@@ -178,11 +211,16 @@ Ready For A Fight;Upgrade;Protection;Preparation;Silk Hero Pack;3
 Redemption;Linked (Upgrade);Justice;Condition;Black Panther Hero Pack;1
 Reinforcements;Event;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;3
 Rescued Captive;Ally;Batroc Villain;Civilian;Agents of S.H.I.E.L.D.;4
+Reverse Engineering;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 Riposte;Event;Protection;Defense;Nightcrawler Hero Pack;3
 Rogue (Anna Marie);Ally;Protection;X-Men;Nightcrawler Hero Pack;1
+Rule the Skies;Side Scheme;Gravitational Pull Encounter Set;;Agents of S.H.I.E.L.D.;1
+Rumbling Thunder;Side Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
 S.H.I.E.L.D. Director;Upgrade;Hero (Maria Hill);Title;Agents of S.H.I.E.L.D.;1
 Safe House #221;Support;Hero (Nick Fury);Location/S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
+Sarah Garza Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
 Scarlet Spider (Ben Reilly);Ally;Protection;Web-Warrior;Silk Hero Pack;1
+Scientist Supreme;Minion;Scientist Supreme Encounter Set;A.I.M./Genius;Agents of S.H.I.E.L.D.;1
 Scout Ahead;Event;Hero (Nightcrawler);Superpower/Thwart;Nightcrawler Hero Pack;2
 Sebastian Shaw;Minion;Hellfire Encounter Set;Hellfire;Magneto Hero Pack;1
 Secret Agent;Upgrade;Hero (Nick Fury);Title;Agents of S.H.I.E.L.D.;1
@@ -195,6 +233,9 @@ Sky-Destroyer;Support;Basic;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
 Slingshot (Yo-Yo Rodriguez);Ally;Leadership;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
 Smooth As Silk;Event;Hero (Silk);;Silk Hero Pack;2
 Soldiers of Fortune;Treachery;Batroc's Brigade Encounter Set;;Agents of S.H.I.E.L.D.;1
+Solid Sound Constructs;Attachment;Hard Sound Encounter Set;Weapon;Agents of S.H.I.E.L.D.;1
+Songbird;Minion;Hard Sound Encounter Set;Aerial/Elite/Thunderbolt;Agents of S.H.I.E.L.D.;1
+Sonic Bubble;Side Scheme;Hard Sound Encounter Set;;Agents of S.H.I.E.L.D.;1
 Sonic Rifle;Upgrade;Justice;Tech/Weapon;Black Panther Hero Pack;3
 Special Funding;Resource;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;2
 Spider Bites;Upgrade;Hero (Black Panther (Shuri));Black Panther/Tech;Black Panther Hero Pack;1
@@ -208,6 +249,7 @@ Spray Fire;Event;Hero (Nick Fury);Attack;Agents of S.H.I.E.L.D.;2
 Squared Off;Event;Leadership;Tactic;Magneto Hero Pack;3
 Sting Operation;Upgrade;Justice;Preparation/Tactic;Black Panther Hero Pack;3
 Strength;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack/Agents of S.H.I.E.L.D.;5
+Strong Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
 Stun Gun;Upgrade;Protection;Tech/Weapon;Silk Hero Pack;3
 Stun Net;Attachment;Black Widow Villain;Item;Agents of S.H.I.E.L.D.;1
 Super Spies;Event;Basic;;Agents of S.H.I.E.L.D.;2
@@ -217,10 +259,12 @@ Swinging Silk Kick;Event;Hero (Silk);Aerial/Attack/Superpower;Silk Hero Pack;3
 T'Challa's Shadow;Obligation;Hero Obligation (Black Panther (Shuri));;Black Panther Hero Pack;1
 T'Challa;Ally;Hero (Black Panther (Shuri));Genius/Wakanda;Black Panther Hero Pack;1
 Tally Ho!;Event;Hero (Nightcrawler);Defense/Superpower;Nightcrawler Hero Pack;2
+Tap In;Treachery;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;2
 Target Spotter;Support;Aggression;Persona/S.H.I.E.L.D.;Black Panther Hero Pack;3
 Teleport Drop;Event;Hero (Nightcrawler);Attack/Superpower;Nightcrawler Hero Pack;1
 The Bellerophon;Support;Aggression;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
 The Circe;Support;Leadership;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
+The Coming Storm;Side Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
 The Crazy Gang;Side Scheme;Crazy Gang Encounter Set;;Nightcrawler Hero Pack;1
 The Douglass;Support;Justice;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
 The Elephant's Trunk;Support;Hero (Black Panther (Shuri));Persona/Wakanda;Black Panther Hero Pack;1
@@ -237,6 +281,7 @@ Titanic Proportions;Treachery;Growing Strong Encounter Set;;Silk Hero Pack;2
 Tweedledope;Minion;Crazy Gang Encounter Set;Brute/Criminal;Nightcrawler Hero Pack;1
 Under Control;Upgrade;Protection;Tactic;Nightcrawler Hero Pack;3
 Under Surveillance;Upgrade;Justice;Condition;Agents of S.H.I.E.L.D.;3
+Upgrading Adaptoids;Main Scheme;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 Vibranium Suit;Upgrade;Hero (Black Panther (Shuri));Black Panther/Armor;Black Panther Hero Pack;1
 Vibranium;Resource;Hero (Black Panther (Shuri));;Black Panther Hero Pack;2
 Victoria Hand;Ally;Leadership;S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
@@ -248,48 +293,3 @@ Widow's Bite;Treachery;Black Widow Villain;;Agents of S.H.I.E.L.D.;2
 Won't Stay Down;Support;Leadership;Condition;Magneto Hero Pack;3
 Wrapped In Metal;Upgrade;Hero (Magneto);Magnetic;Magneto Hero Pack;2
 Zaran;Minion;Batroc's Brigade Encounter Set;Batroc's Brigade/Mercenary;Agents of S.H.I.E.L.D.;1
-M.O.D.O.K;Villain;M.O.D.O.K. Villain;Aerial/Cyborg/Psionic;Agents of S.H.I.E.L.D.;1
-Upgrading Adaptoids;Main Scheme;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-Holding Cell // Flying Inhuman;Environment;M.O.D.O.K. Villain;Aerial/Inhuman/Rescued;Agents of S.H.I.E.L.D.;1
-Holding Cell // Psionic Inhuman;Environment;M.O.D.O.K. Villain;Inhuman/Psionic/Rescued;Agents of S.H.I.E.L.D.;1
-Holding Cell // Sarah Garza;Environment;M.O.D.O.K. Villain;Inhuman/Rescued/S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
-Holding Cell // Strong Inhuman;Environment;M.O.D.O.K. Villain;Inhuman/Rescued;Agents of S.H.I.E.L.D.;1
-Flying Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
-Psionic Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
-Sarah Garza Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
-Strong Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
-Adaptoid;Minion;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;4
-Automated Mobile Unit;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-Focusing Crystal;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-Nanobots;Attachment;M.O.D.O.K. Villain;Tech;Agents of S.H.I.E.L.D.;1
-Psionic Force Field;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-Psionic Machetes;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-Reverse Engineering;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-A.I.M. Jailer;Minion;M.O.D.O.K. Villain;A.I.M.;Agents of S.H.I.E.L.D.;2
-Hostage Situation;Side Scheme;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-Psionic Enhancement;Side Scheme;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-"It's Alive!";Treachery;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
-Psionic Blast;Treachery;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;2
-Scientist Supreme;Minion;Scientist Supreme Encounter Set;A.I.M./Genius;Agents of S.H.I.E.L.D.;1
-Monica Rappaccini;Minion;Scientist Supreme Encounter Set;A.I.M./Genius;Agents of S.H.I.E.L.D.;1
-Diplomatic Immunity;Side Scheme;Scientist Supreme Encounter Set;;Agents of S.H.I.E.L.D.;1
-Diplomatic Sanctions;Treachery;Scientist Supreme Encounter Set;;Agents of S.H.I.E.L.D.;2
-Citizen V;Villain;Thunderbolts Villain;Thunderbolt;Agents of S.H.I.E.L.D.;1
-Apprehending Rogue Agents;Main Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
-Justice, Like Lightning // Thunderbolt Backup;Environment;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
-Citizen V's Sword;Attachment;Thunderbolts Villain;Weapon;Agents of S.H.I.E.L.D.;1
-Jolt;Minion;Thunderbolts Villain;Thunderbolt;Agents of S.H.I.E.L.D.;1
-Innocent Bystanders;Obligation;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;3
-The Coming Storm;Side Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
-Rumbling Thunder;Side Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
-Down But Not Out;Treachery;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;2
-Tap In;Treachery;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;2
-Moonstone;Minion;Gravitational Pull Encounter Set;Aerial/Elite/Thunderbolt;Agents of S.H.I.E.L.D.;1
-Rule the Skies;Side Scheme;Gravitational Pull Encounter Set;;Agents of S.H.I.E.L.D.;1
-Gravitational Pull;Treachery;Gravitational Pull Encounter Set;;Agents of S.H.I.E.L.D.;2
-Psychological Manipulation;Treachery;Gravitational Pull Encounter Set;;Agents of S.H.I.E.L.D.;2
-Songbird;Minion;Hard Sound Encounter Set;Aerial/Elite/Thunderbolt;Agents of S.H.I.E.L.D.;1
-Solid Sound Constructs;Attachment;Hard Sound Encounter Set;Weapon;Agents of S.H.I.E.L.D.;1
-Hard Sound Bindings;Attachment;Hard Sound Encounter Set;;Agents of S.H.I.E.L.D.;1
-Sonic Bubble;Side Scheme;Hard Sound Encounter Set;;Agents of S.H.I.E.L.D.;1
-Hard Sound;Treachery;Hard Sound Encounter Set;;Agents of S.H.I.E.L.D.;2
