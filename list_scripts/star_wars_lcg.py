@@ -66,8 +66,12 @@ with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
         if card_line.startswith('#'):
             continue
         card_line = card_line.strip()
-        card_name, card_affil, card_type, card_traits, card_cost, force_icons, \
-            obj_sets = card_line.split(';')
+        try:
+            card_name, card_affil, card_type, card_traits, card_cost, force_icons, \
+                obj_sets = card_line.split(';')
+        except ValueError:
+            print(f"Issue with line {card_line}")
+            continue
         if card_affil not in VALID_AFFILIATIONS:
             print(f"{card_name} seems to have an invalid affiliation of {card_affil}")
             continue
@@ -84,8 +88,17 @@ with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
             objective_num_to_name[this_obj_set] = card_name
         card_lines.append(card_line)
 
-print(objective_num_to_name)
+TOTAL_OWN = 0
+for card_item in card_lines:
+    obj_sets = card_item.split(';')[-1]
+    for this_obj_set in obj_sets.split('/'):
+        obj_num, obj_quant = this_obj_set.split('-')
+        obj_quant = int(obj_quant)
+        max_obj = objectives[objective_num_to_name[obj_num]][2]
+        TOTAL_OWN += (max_obj * obj_quant)
 print(cards_with_trait)
+print(TOTAL_OWN)
+TOTAL_MAX = TOTAL_OWN
 
 def get_index(in_deck):
     """
@@ -214,10 +227,14 @@ for side in os.listdir(DECK_DIR):
                     f"{CYCLES[DECK_ERA_CHECK]}, should be {CYCLES[MAX_INDEX]}")
     compare_decks(side_decks)
 
-PRINTED_HEADER = False
-for obj_set_name, obj_set_amount in sorted(obj_count.items()):
-    if obj_set_amount == 0:
-        if not PRINTED_HEADER:
-            double_print("Unused objective sets:", out_fh)
-            PRINTED_HEADER = True
-        double_print(f" - {obj_set_name} ({obj_side[obj_set_name]})", out_fh)
+if __name__ == "__main__":
+    double_print(f"The Star Wars LCG has {len(card_lines)} distinct cards", out_fh)
+    double_print(f"A full collection has {TOTAL_OWN} cards.\n", out_fh)
+
+    PRINTED_HEADER = False
+    for obj_set_name, obj_set_amount in sorted(obj_count.items()):
+        if obj_set_amount == 0:
+            if not PRINTED_HEADER:
+                double_print("Unused objective sets:", out_fh)
+                PRINTED_HEADER = True
+            double_print(f" - {obj_set_name} ({obj_side[obj_set_name]})", out_fh)

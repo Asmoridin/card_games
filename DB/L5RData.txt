@@ -1190,6 +1190,13 @@ Asset Denial;Strategy;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
 Asset Denial;Strategy;;Forgotten Legacy (Fixed);Destroyer War (Celestial);3;0
 Assigning Blame;Strategy;;The Truest Test (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;0
 Assigning Blame;Strategy;;The Truest Test (Rare);Age of Enlightenment (Lotus);3;0
+Assuming the Championship;Strategy;;Diamond Edition (Rare);Rain of Blood (Diamond);3;0
+Assuming the Championship;Strategy;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;0
+Astonishing Accusation;Strategy;;Embers of War (Rare);Age of Conquest (Emperor);3;0
+Astonishing Resilience;Strategy;;The Truest Test (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;0
+Astonishing Resilience;Strategy;;The Truest Test (Rare);Age of Enlightenment (Lotus);3;0
+At Any Cost;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+At the Last Moment;Strategy;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
 Avoid Fate;Strategy;;Diamond Edition (Uncommon);Rain of Blood (Diamond);3;0
 Avoid Fate;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Avoid Fate;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;0
@@ -2603,10 +2610,13 @@ Hida Tsuru;Personality;Crab;Imperial Edition (Uncommon)/Emerald Edition (Uncommo
 Hida Tsuru;Personality;Crab;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
 Hida Ugokanai, Sumai Master;Personality;Crab;Rise of Otosan Uchi (Fixed);Onyx Edition;3;0
 Hida Ugokanai, Sumai Master;Personality;Crab;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
+Hida Unari;Personality;Crab;Anvil of Despair (Common);Clan Wars (Imperial);3;0
+Hida Unari;Personality;Crab;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
 Hida War College • Experienced;Holding;;Onyx Edition (Fixed);Onyx Edition;1;0
 Hida War College • Experienced;Holding;;Shattered Empire (Fixed);Shattered Empire;1;0
 Hida Yakamo (Hero);Personality;Crab;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);1;1
 Hida Yakamo (Hero);Personality;Crab;Obsidian Edition (Rare)/Battle of Beiden Pass (Fixed);Hidden Emperor (Jade);1;0
+Hida Yakamo (Oni) • Experienced;Personality;Crab;Anvil of Despair (Rare);Clan Wars (Imperial);1;0
 Hida Yakamo (Oni);Personality;Crab;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Hida Yakamo, Seven Thunder • Experienced 2CW;Personality;Crab;Siege: Clan War (Fixed);A Brother's Destiny (Twenty Festivals);1;1
 Hida Yakamo, Seven Thunder • Experienced 2CW;Personality;Crab;Siege: Clan War (Fixed);Onyx Edition;1;0
@@ -3209,8 +3219,11 @@ Kuni Seifukusha;Personality;Crab;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kuni Tanken, Master of the White Tower;Personality;Crab;Chaos Reigns II (Fixed);Shattered Empire;1;0
 Kuni Tenba;Personality;Crab;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Kuni Tenba;Personality;Crab;Evil Portents (Uncommon);Onyx Edition;3;0
+Kuni Wastelands;Region;;Forbidden Knowledge (Rare);Clan Wars (Imperial);1;0
 Kuni Yairao;Personality;Crab;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;3
 Kuni Yairao;Personality;Crab;Twenty Festivals (Common);Onyx Edition;3;0
+Kuni Yori • Experienced;Personality;Unaligned;Forbidden Knowledge (Rare);Clan Wars (Imperial);1;0
+Kuni Yori • Experienced;Personality;Unaligned;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);1;0
 Kuni Yori;Personality;Crab;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Kuni Yori;Personality;Crab;Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
 Kuni Yukiko;Personality;Crab;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -3793,6 +3806,8 @@ Omoidasu;Follower;;The Fall of Otosan Uchi (Common)/Training Grounds (Fixed);Fou
 Omoidasu;Follower;;The Fall of Otosan Uchi (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 One Final Stand;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 One Final Stand;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+One Koku;Strategy;;Crimson and Jade (Common);Clan Wars (Imperial);3;0
+One Koku;Strategy;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 One Must Bow;Strategy;;Rise of Otosan Uchi (Fixed);Onyx Edition;3;0
 One Must Bow;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 One Shall Stand...;Strategy;;Rise of Otosan Uchi (Fixed);Onyx Edition;3;0
@@ -5948,7 +5963,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 
-# Done through card #635
+# Done through card #640
 #652
 #662
 #690
@@ -6131,8 +6146,9 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 #3193
 #3203
 #3216
+#3219
 #3237
-#3240
+#3240-3241
 #3264
 #3269
 #3276
@@ -6193,7 +6209,8 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 #4540
 #4563
 #4565
-#4601
+#4595
+#4601-4602
 #4626
 #4644
 #4648
@@ -6269,6 +6286,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 #5675
 #5688
 #5698
+#5709
 #5725
 #5754
 #5801

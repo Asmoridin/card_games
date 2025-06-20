@@ -57,6 +57,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Mystery Booster 2: Convention Edition", "Magic: The Gathering Foundations Commander",
     "Jumpstart 2025", "Innistrad Remastered", "SNC Game Day", "Aetherdrift Commander",
     "Tarkir: Dragonstorm Commander", "War of the Spark Mythic Edition",
+    "FINAL FANTASY Through the Ages",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']

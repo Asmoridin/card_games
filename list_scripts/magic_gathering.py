@@ -483,6 +483,7 @@ for line in lines:
         continue
     card_colors = validate_colors(card_colors)
     card_type = card_type.replace('—', '-')
+    card_type = card_type.replace('\u2013', '-')
     card_type, card_subtype = validate_types(card_type)
 
     if 'Creature' in card_type:
@@ -504,7 +505,7 @@ for line in lines:
     #if CHECK_SET in card_sets and 'Blue' in card_colors:
     #if CHECK_SET in card_sets and 'Green' in card_colors and 'Creature' not in card_type:
     #if CHECK_SET in card_sets and 'Artifact' in card_type:
-        #print(card_name)
+        print(card_name)
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:

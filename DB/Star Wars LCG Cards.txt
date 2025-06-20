@@ -1,10 +1,11 @@
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-12, 20-21, 32, 127-140
+# Objective Sets Done: 1-14, 20-21, 32, 127-140
 A Better Offer;Scum and Villainy;Event;;0;1;138-1
 A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
+A New Hope;Rebel Alliance;Event;;2;2;14-1
 A-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;9-1
 Admiral Ackbar;Rebel Alliance;Unit;Character/Leader;3;3;12-1
 Advisor to the Emperor;Sith;Unit;Character;2;2;20-1
@@ -29,10 +30,12 @@ Corellian Engineer;Light Neutral;Unit;Character/Engineer;2;1;6-1
 Corporate Exploitation;Dark Neutral;Objective;;;;32-1
 Counsel of the Sith;Sith;Objective;Executor;;;20-1
 Counter-stroke;Jedi;Event;Force/Control/Sense;1;2;2-1
+Covering Fire;Light Neutral;Event;;0;1;13-1
 Cruel Interrogations;Sith;Objective;Cloud City;;;24-1
 Dagobah Training Grounds;Light Neutral;Enhancement;Dagobah/Location;1;0;1-1/2-1
 Dark Precognition;Sith;Event;Force/Sense;0;1;20-1
 Debt Collector;Scum and Villainy;Unit;Character/Black Sun;2;1;135-1/136-1
+Decoy at Dantooine;Rebel Alliance;Objective;Dantooine;;;14-1
 Dirty Secrets;Smugglers and Spies;Enhancement;Condition;1;1;133-1
 Double Strike;Jedi;Event;;1;1;4-1
 Draw Their Fire;Rebel Alliance;Objective;;;;12-1
@@ -40,6 +43,8 @@ Emergency Repair;Light Neutral;Event;;2;1;6-1
 Entangled;Scum and Villainy;Event;;0;1;134-1/136-1
 Espo Trooper;Dark Neutral;Unit;Character/Trooper;0;1;32-5
 Ewok Hunter;Light Neutral;Unit;Character/Ewok;2;1;131-2
+Fall Back!;Rebel Alliance;Event;;0;1;14-1
+False Lead;Rebel Alliance;Enhancement;Decoy;0;2;14-1
 Family Connections;Imperial Navy;Objective;Tepasi;;;140-1
 Flamethrower;Scum and Villainy;Enhancement;Weapon;2;2;134-1
 Fleeing the Empire;Rebel Alliance;Objective;;;;10-1
@@ -86,6 +91,7 @@ Luke Skywalker;Jedi;Unit;Character/Force User;4;4;127-1
 Luke's Lightsaber;Jedi;Enhancement;Weapon;1;2;127-1
 Masterful Manipulation;Scum and Villainy;Objective;Coruscant;;;135-1
 Mission Briefing;Rebel Alliance;Objective;;;;9-1
+Mobilize the Squadrons;Rebel Alliance;Objective;Yavin 4;;;13-1
 Mon Mothma;Rebel Alliance;Unit;Character/Leader;3;2;9-1
 Noble Sacrifice;Jedi;Event;;1;1;129-1
 Obi-Wan Kenobi (Following Fate);Jedi;Unit;Character/Force User;5;4;129-1
@@ -99,7 +105,8 @@ Precision Fire;Imperial Navy;Event;;1;2;140-1
 Prince Xizor;Scum and Villainy;Unit;Character/Black Sun;5;3;135-1
 Prized Possession;Dark Neutral;Enhancement;Tatooine/Item;1;0;134-1
 R2-D2;Light Neutral;Unit;Droid;0;0;4-1/129-1
-Rebel Assault;Rebel Alliance;Event;;2;1;8-1
+Rebel Assault;Rebel Alliance;Event;;2;1;8-1/13-1
+Rebel Trooper;Light Neutral;Unit;Character/Trooper;0;0;14-1
 Red Five;Jedi;Unit;Vehicle/Fighter;3;2;4-1
 Red Two;Rebel Alliance;Unit;Vehicle/Fighter;3;2;8-1
 Redemption;Jedi;Unit;Vehicle/Capital Ship;5;3;6-1
@@ -107,6 +114,7 @@ Repair Droid;Rebel Alliance;Unit;Droid;1;1;11-1
 Retreat to the Forest;Light Neutral;Event;;0;1;131-1
 Return of the Jedi;Jedi;Event;;3;3;6-1
 Rise of the Black Sun;Scum and Villainy;Event;Black Sun;1;1;137-1
+Rookie Pilot;Light Neutral;Unit;Character/Pilot;1;1;13-1
 Sacrifice at Endor;Jedi;Objective;Endor;;;131-1
 Security Task Force;Imperial Navy;Unit;Character/Trooper;2;1;140-2
 Shadows of the Empire;Scum and Villainy;Event;;1;2;135-1
@@ -131,6 +139,7 @@ The Prince's Scheme;Dark Neutral;Fate;;0;1;135-1
 The Rebel Fleet;Rebel Alliance;Objective;;;;11-1
 The Secret of Yavin 4;Jedi;Objective;Yavin 4;;;5-1
 TIE Advanced;Dark Neutral;Unit;Vehicle/Fighter/Black Squadron;2;1;21-1
+Trench Run;Rebel Alliance;Enhancement;Mission;1;2;13-1
 Trust Your Feelings;Jedi;Enhancement;Skill;2;1;1-1
 Twi'lek Loyalist;Jedi;Unit;Character;1;1;1-1/4-1
 Twist of Fate;Dark Neutral;Fate;;0;0;20-1
@@ -139,8 +148,9 @@ Unexpected Assistance;Light Neutral;Event;;1;1;131-1
 Vader's TIE Advanced;Sith;Unit;Vehicle/Fighter/Black Squadron;3;3;21-1
 Virago;Scum and Villainy;Unit;Vehicle/Fighter/Black Sun;3;3;137-1
 Warning Shot;Scum and Villainy;Event;;0;1;137-1
+Wookiee Navigator;Rebel Alliance;Unit;Character/Wookiee;3;1;14-1
 X-Wing Escort;Light Neutral;Unit;Vehicle/Fighter/Squadron;2;1;12-1
-X-Wing;Light Neutral;Unit;Vehicle/Fighter;1;1;12-1
+X-Wing;Light Neutral;Unit;Vehicle/Fighter;1;1;12-1/13-1
 Y-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;8-1/11-1
 Yoda (The Master's Domain);Jedi;Unit;Character/Force User;3;5;128-1
 Yoda's Hut;Jedi;Enhancement;Dagobah/Location;2;1;128-1
