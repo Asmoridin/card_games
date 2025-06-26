@@ -1,6 +1,44 @@
-"No Disintegrations";Scum and Villainy;Objective;;;;134-1
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-14, 20-21, 32, 127-140
+# Objective Sets Done: 1-14, 20-21, 29(T), 32, 51(T), 127-140, 159(T), 255(T), 268(T), 278(T), 283(T)
+"No Disintegrations";Scum and Villainy;Objective;;;;134-1
+A Dark Time for the Rebellion;Imperial Navy;Objective;Hoth;;;51-1
+Colonel Starck;Imperial Navy;Unit;Character/Officer;4;3;51-1
+MTV-7;Imperial Navy;Unit;Vehicle;2;1;51-2
+The Moorsh Moraine;Dark Neutral;Enhancement;Hoth/Location;3;2;51-1
+Heavy Fire;Imperial Navy;Event;;0;1;51-1
+Cell Block Detention;Imperial Navy;Objective;Death Star;;;268-1
+Lieutenant Childsen;Imperial Navy;Unit;Character/Officer/Trooper;4;2;268-1
+Security Trooper;Imperial Navy;Unit;Character/Trooper;2;2;268-2
+Security Alarm;Dark Neutral;Enhancement;Fortification;1;1;268-1
+Defending the Trench;Imperial Navy;Objective;Death Star;;;159-1
+Darth Vader;Imperial Navy;Unit;Character/Force User/Pilot/Black Squadron;5;4;159-1
+Vader's TIE Advanced;Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;2;159-1
+Black Squadron Fighter;Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;2;1;159-1
+Closed Formation;Imperial Navy;Enhancement;Formation/Black Squadron;1;0;159-1
+I Have You Now;Dark Neutral;Fate;;0;1;159-1
+Security Protocols;Dark Neutral;Fate;;0;2;258-1
+Blizzard Assault;Imperial Navy;Objective;Hoth;;;283-1
+Cloud Cover;Imperial Navy;Objective;Bespin;;;255-1
+"Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
+"Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
+Obsidian Leader;Imperial Navy;Unit;Vehicle/Fighter/Obsidian Squadron;2;3;255-1
+Obsidian 2;Imperial Navy;Unit;Vehicle/Fighter/Obsidian Squadron;3;2;255-1
+Stay on Target;Dark Neutral;Fate;;0;2;255-1
+Capital Support;Imperial Navy;Objective;Outer Rim;;;278-1
+General Veers;Imperial Navy;Unit;Character/Officer/Pilot;4;1;283-1
+Corruptor;Imperial Navy;Unit;Vehicle/Capital Ship;4;3;278-1
+Death and Despayre;Imperial Navy;Objective;Despayre;;;29-1
+Devastator;Imperial Navy;Unit;Vehicle/Capital Ship;6;3;29-1
+Imperial Officer;Imperial Navy;Unit;Character/Officer;2;1;29-1
+Control Room;Imperial Navy;Enhancement;Location;2;0;29-1
+Defense Upgrade;Imperial Navy;Enhancement;Fortification;1;1;29-1
+Gamma Squadron TIE Bomber;Imperial Navy;Unit;Vehicle/Fighter;2;1;278-2
+Overwhelming Firepower;Dark Neutral;Enhancement;Tactic;2;1;278-1
+Bombing Run;Imperial Navy;Event;;1;2;278-1
+Blizzard 1;Imperial Navy;Unit;Vehicle/Walker;5;3;283-1
+Blizzard 2;Imperial Navy;Unit;Vehicle/Walker;4;2;283-1
+Decisive Victory;Imperial Navy;Event;;1;1;283-1
+Battle of Hoth;Dark Neutral;Fate;;0;3;283-1
 A Better Offer;Scum and Villainy;Event;;0;1;138-1
 A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
@@ -57,7 +95,7 @@ Freelance Hunter;Dark Neutral;Unit;Character/Bounty Hunter/Mercenary;2;1;134-1
 Funeral Pyre;Jedi;Enhancement;Endor/Location;1;4;131-1
 General Tagge;Imperial Navy;Unit;Character/Officer;3;2;140-1
 Guardian of Peace;Jedi;Unit;Character/Force Sensitive;2;1;5-2
-Heat of Battle;Dark Neutral;Fate;;0;2;132-1/136-1
+Heat of Battle;Dark Neutral;Fate;;0;2;29-1/132-1/136-1
 Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/127-1
 Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
 Heroic Sacrifice;Rebel Alliance;Event;;1;1;12-1
