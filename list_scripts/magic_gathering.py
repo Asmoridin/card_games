@@ -505,7 +505,7 @@ for line in lines:
     #if CHECK_SET in card_sets and 'Blue' in card_colors:
     #if CHECK_SET in card_sets and 'Green' in card_colors and 'Creature' not in card_type:
     #if CHECK_SET in card_sets and 'Artifact' in card_type:
-        print(card_name)
+        #print(card_name)
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
@@ -675,6 +675,8 @@ if __name__ == "__main__":
     double_print(f"Oldest Commander deck is {old_name}, last updated {updated}\n", out_file_h)
 
     # Other
+    del creature_types['Forest']
+    del creature_types['Saga']
     one_ofs = []
     for creature, creature_freq in creature_types.items():
         if creature_freq == 1:
@@ -688,7 +690,7 @@ if __name__ == "__main__":
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     if creature_types[99][1] >= len(USED_TYPES) - 5:
         double_print(f"Time to do a Tribal Commander - {creature_types[0][0]}", out_file_h)
-    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Forest', 'Seal']
+    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Seal']
     for remove_type in remove_one_ofs:
         try:
             one_ofs.remove(remove_type)

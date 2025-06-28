@@ -1,5 +1,5 @@
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-14, 20-21, 29-30(T), 32, 46(T), 51(T), 127-139, 140(T), 150(T), 159(T), 180(T), 205(T), 223(T), 255(T), 268(T), 278(T), 283(T)
+# Objective Sets Done: 1-14, 20-21, 29-30, 32, 46, 51, 127-140, 150, 159, 180, 205, 223, 255, 268, 278, 283
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
@@ -175,7 +175,7 @@ Rise of the Black Sun;Scum and Villainy;Event;Black Sun;1;1;137-1
 Rookie Pilot;Light Neutral;Unit;Character/Pilot;1;1;13-1
 Sacrifice at Endor;Jedi;Objective;Endor;;;131-1
 Security Alarm;Dark Neutral;Enhancement;Fortification;1;1;268-1
-Security Protocols;Dark Neutral;Fate;;0;2;258-1
+Security Protocols;Dark Neutral;Fate;;0;2;268-1
 Security Task Force;Imperial Navy;Unit;Character/Trooper;2;1;140-2
 Security Trooper;Imperial Navy;Unit;Character/Trooper;2;2;268-2
 Shadows of the Empire;Scum and Villainy;Event;;1;2;135-1

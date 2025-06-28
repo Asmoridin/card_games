@@ -97,7 +97,6 @@ for card_item in card_lines:
         max_obj = objectives[objective_num_to_name[obj_num]][2]
         TOTAL_OWN += (max_obj * obj_quant)
 print(cards_with_trait)
-print(TOTAL_OWN)
 TOTAL_MAX = TOTAL_OWN
 
 def get_index(in_deck):
