@@ -121,7 +121,7 @@ Embassy Guard;Minion;Batroc Villain;A.I.M.;Agents of S.H.I.E.L.D.;2
 Embassy Patrol;Minion;Batroc Villain;A.I.M.;Agents of S.H.I.E.L.D.;2
 Energy Shield;Upgrade;Protection;Item/Tech;Silk Hero Pack;3
 Energy Truncheon;Attachment;Extreme Risk Encounter Set;Tech/Weapon;Black Panther Hero Pack;2
-Energy;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack/Agents of S.H.I.E.L.D.;5
+Energy;Resource;Basic;;Many;10
 Evil Alliance;Treachery;Standard III Encounter Set;;NeXt Evolution;1
 Evil Genius;Treachery;Dark Beast Villain;;NeXt Evolution;3
 Executioner;Minion;Crazy Gang Encounter Set;Criminal;Nightcrawler Hero Pack;1
@@ -142,7 +142,7 @@ Fury's Watch;Upgrade;Hero (Nick Fury);Item/Tech;Agents of S.H.I.E.L.D.;1
 Gambit (Remy LeBeau);Ally;Basic;Thief/X-Men;Nightcrawler Hero Pack;1
 Gauntlet;Minion;Dark Riders Encounter Set;Dark Riders;NeXt Evolution;1
 Genetic Enhancement;Attachment;Dark Beast Villain;Condition;NeXt Evolution;1
-Genius;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack/Agents of S.H.I.E.L.D.;5
+Genius;Resource;Basic;;Many;10
 Get The Scoop;Player Side Scheme;Hero (Silk);;Silk Hero Pack;1
 Giant Ape;Minion;Savage Land Encounter Set;Creature;NeXt Evolution;2
 Global Logistics;Event;Justice;S.H.I.E.L.D./Tactic;Agents of S.H.I.E.L.D.;3
@@ -233,7 +233,7 @@ Nabbed!;Treachery;A.I.M. Abduction Encounter Set;;Agents of S.H.I.E.L.D.;2
 Nanobots;Attachment;M.O.D.O.K. Villain;Tech;Agents of S.H.I.E.L.D.;1
 New Recruits;Player Side Scheme;Leadership;;Magneto Hero Pack;1
 Nick Fury // Nick Fury;Hero;Hero (Nick Fury);S.H.I.E.L.D./Soldier/Spy;Agents of S.H.I.E.L.D.;1
-Nick Fury, Sr.;Ally;Basic;S.H.I.E.L.D./Soldier;Agents of S.H.I.E.L.D.;1
+Nick Fury, Sr.;Ally;Basic;S.H.I.E.L.D./Soldier;Agents of S.H.I.E.L.D./Winter Soldier Hero Pack;2
 Nick Fury;Ally;Hero (Maria Hill);S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
 Night Vision Goggles;Attachment;Black Widow Villain;Item;Agents of S.H.I.E.L.D.;1
 Nightcrawler // Kurt Wagner;Hero;Hero (Nightcrawler);Mutant/X-Men;Nightcrawler Hero Pack;1
@@ -328,7 +328,7 @@ Spider-Woman (Jessica Drew);Ally;Aggression;S.H.I.E.L.D./Web-Warrior;Silk Hero P
 Spray Fire;Event;Hero (Nick Fury);Attack;Agents of S.H.I.E.L.D.;2
 Squared Off;Event;Leadership;Tactic;Magneto Hero Pack;3
 Sting Operation;Upgrade;Justice;Preparation/Tactic;Black Panther Hero Pack;3
-Strength;Resource;Basic;;Silk Hero Pack/Black Panther Hero Pack/Magneto Hero Pack/Nightcrawler Hero Pack/Agents of S.H.I.E.L.D.;5
+Strength;Resource;Basic;;Many;10
 Strong Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
 Stun Gun;Upgrade;Protection;Tech/Weapon;Silk Hero Pack;3
 Stun Net;Attachment;Black Widow Villain;Item;Agents of S.H.I.E.L.D.;1
@@ -393,3 +393,75 @@ Won't Stay Down;Support;Leadership;Condition;Magneto Hero Pack;3
 Wrapped In Metal;Upgrade;Hero (Magneto);Magnetic;Magneto Hero Pack;2
 Zaran;Minion;Batroc's Brigade Encounter Set;Batroc's Brigade/Mercenary;Agents of S.H.I.E.L.D.;1
 Zemo's Manipulations;Main Scheme;Baron Zemo Villian;;Agents of S.H.I.E.L.D.;1
+Falcon // Sam Wilson;Hero;Hero (Falcon);S.H.I.E.L.D./Aerial/Avenger;Falcon Hero Pack;1
+Redwing;Ally;Hero (Falcon);Aerial/Avenger/Bird;Falcon Hero Pack;1
+Bird of Prey;Event;Hero (Falcon);Aerial/Attack;Falcon Hero Pack;2
+Bird's-Eye View;Event;Hero (Falcon);Aerial/Thwart;Falcon Hero Pack;2
+Up, Up, and Away;Event;Hero (Falcon);Aerial/Defense;Falcon Hero Pack;2
+Falcon's Flock;Support;Hero (Falcon);Aerial/Bird;Falcon Hero Pack;1
+Soup Kitchen;Support;Hero (Falcon);Location;Falcon Hero Pack;1
+Aerial Evacuation;Upgrade;Hero (Falcon);Aerial/Preparation;Falcon Hero Pack;1
+Aerial Recon;Upgrade;Hero (Falcon);Aerial/Tactic;Falcon Hero Pack;1
+Battlefield Awareness;Upgrade;Hero (Falcon);Aerial/Skill;Falcon Hero Pack;1
+Draw Their Fire;Upgrade;Hero (Falcon);Aerial/Preparation;Falcon Hero Pack;1
+Talon Line;Upgrade;Hero (Falcon);Item;Falcon Hero Pack;1
+Vibranium Microweave;Upgrade;Hero (Falcon);Tech/Wakanda;Falcon Hero Pack;1
+Adam Warlock;Ally;Leadership;Aerial/Mystic;Falcon Hero Pack;1
+Aero (Lei Ling);Ally;Leadership;Aerial/Agent of Atlas;Falcon Hero Pack;1
+Cloud 9 (Abby Boylen);Ally;Leadership;Aerial/Champion;Falcon Hero Pack;1
+Hugin & Munin;Ally;Leadership;Aerial/Asgard/Bird;Falcon Hero Pack;1
+Spectrum (Monica Rambeau);Ally;Leadership;Aerial/Avenger;Falcon Hero Pack;1
+Strength in Diversity;Event;Leadership;;Falcon Hero Pack;3
+Flight Squadron;Support;Leadership;Team;Falcon Hero Pack;3
+Resource Reserve;Support;Leadership;Location;Falcon Hero Pack;3
+The Triskelion;Support;Leadership;Location/S.H.I.E.L.D.;Falcon Hero Pack;1
+Captain America;Upgrade;Leadership;Title;Falcon Hero Pack;1
+Wingman;Upgrade;Leadership;Title;Falcon Hero Pack;3
+The Power of Flight;Resource;Basic;;Falcon Hero Pack;3
+Harlem's Protector;Obligation;Hero Obligation (Falcon);;Falcon Hero Pack;1
+Viper;Minion;Falcon Nemesis;Serpent Society;Falcon Hero Pack;1
+Serpent Solutions;Side Scheme;Falcon Nemesis;;Falcon Hero Pack;1
+Serpent Soldier;Minion;Falcon Nemesis;Serpent Society;Falcon Hero Pack;2
+Adder-tisement;Treachery;Falcon Nemesis;;Falcon Hero Pack;1
+Captain America's Shield;Linked (Upgrade);Leadership;Item;Falcon Hero Pack;1
+Winter Soldier (Bucky Barnes);Ally;Aggression;S.H.I.E.L.D./Soldier;Falcon Hero Pack;1
+Misty Knight;Ally;Justice;Hero for Hire;Falcon Hero Pack;1
+Ops Room;Support;Protection;S.H.I.E.L.D.;Falcon Hero Pack;3
+Fixer;Minion;Techno Encounter Set;Elite/Genius/Thunderbolt;Falcon Hero Pack;1
+Jet Pack;Attachment;Techno Encounter Set;Tech;Falcon Hero Pack;1
+Tech-Pac;Attachment;Techno Encounter Set;Tech;Falcon Hero Pack;1
+Technological Innovation;Side Scheme;Techno Encounter Set;;Falcon Hero Pack;1
+Techno;Treachery;Techno Encounter Set;;Falcon Hero Pack;2
+Winter Soldier // Bucky Barnes;Hero;Hero (Winter Soldier);S.H.I.E.L.D./Soldier;Winter Soldier Hero Pack;1
+Cybernetic Arm;Upgrade;Hero (Winter Soldier);Item/Tech;Winter Soldier Hero Pack;1
+Black Widow (Natasha Romanoff);Ally;Hero (Winter Soldier);S.H.I.E.L.D./Spy;Winter Soldier Hero Pack;1
+Arm Block;Event;Hero (Winter Soldier);Attack/Defense;Winter Soldier Hero Pack;2
+Metal Punch;Event;Hero (Winter Soldier);Attack;Winter Soldier Hero Pack;3
+Electrical Discharge;Event;Hero (Winter Soldier);Attack;Winter Soldier Hero Pack;2
+Safe House #30;Support;Hero (Winter Soldier);Location/S.H.I.E.L.D.;Winter Soldier Hero Pack;1
+Silent Infiltration;Upgrade;Hero (Winter Soldier);Preparation;Winter Soldier Hero Pack;2
+Winter Armor;Upgrade;Hero (Winter Soldier);Armor;Winter Soldier Hero Pack;1
+Winter Mask;Upgrade;Hero (Winter Soldier);Item/Tech;Winter Soldier Hero Pack;1
+Winter Rifle;Upgrade;Hero (Winter Soldier);Weapon;Winter Soldier Hero Pack;1
+Captain America (Steve Rogers);Ally;Aggression;S.H.I.E.L.D./Soldier;Winter Soldier Hero Pack;1
+Deathlok (Henry Hayes);Ally;Aggression;Cyborg/S.H.I.E.L.D.;Winter Soldier Hero Pack;1
+Firepower;Event;Aggression;Attack;Winter Soldier Hero Pack;3
+One by One;Event;Aggression;Attack;Winter Soldier Hero Pack;3
+Spoiling for a Fight;Event;Aggression;;Winter Soldier Hero Pack;3
+Aggressive Stance;Upgrade;Aggression;Preparation;Winter Soldier Hero Pack;3
+Bambino;Upgrade;Aggression;Tech/Weapon;Winter Soldier Hero Pack;1
+Man on the Wall;Upgrade;Aggression;Title;Winter Soldier Hero Pack;1
+S.H.I.E.L.D. Sidearm;Upgrade;Aggression;Weapon;Winter Soldier Hero Pack;3
+Super-Soldiers;Event;Basic;Attack;Winter Soldier Hero Pack;2
+Winter, Widow, Soldier, Spy;Event;Basic;Attack;Winter Soldier Hero Pack;2
+Red Room Programming;Obligation;Hero Obligation (Winter Soldier);;Winter Soldier Hero Pack;1
+Crossbones;Minion;Winter Soldier Nemesis;Elite/Hydra;Winter Soldier Hero Pack;1
+Hydra Hit Squad;Side Scheme;Winter Soldier Nemesis;;Winter Soldier Hero Pack;1
+High-Tech Armament;Attachment;Winter Soldier Nemesis;Tech/Weapon;Winter Soldier Hero Pack;1
+Hydra Mercenary;Minion;Winter Soldier Nemesis;Hydra;Winter Soldier Hero Pack;2
+White Widow (Yelena Belova);Ally;Protection;S.H.I.E.L.D./Spy;Winter Soldier Hero Pack;1
+S.H.I.E.L.D. Deputy;Upgrade;Basic;Title;Winter Soldier Hero Pack;3
+Blizzard;Minion;Whiteout Encounter Set;Elite/Thunderbolt;Winter Soldier Hero Pack;1
+Encased in Ice;Attachment;Whiteout Encounter Set;Ice;Winter Soldier Hero Pack;2
+Slippery Conditions;Side Scheme;Whiteout Encounter Set;;Winter Soldier Hero Pack;1
+Whiteout;Treachery;Whiteout Encounter Set;;Winter Soldier Hero Pack;2
