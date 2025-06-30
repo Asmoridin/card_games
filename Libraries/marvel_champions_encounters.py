@@ -27,7 +27,8 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
 ]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
-    'Power of the Atom', 'Supersonic', 'Batroc', 'Growing Strong', 'Extreme Risk']
+    'Power of the Atom', 'Supersonic', 'Batroc', 'Growing Strong', 'Extreme Risk', 'Techno',
+    'Whiteout', ]
 modular_encounters = modular_encounters + mojo_encounters + thunderbolt_encounters
 
 encounters = []
