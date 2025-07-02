@@ -1,5 +1,5 @@
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-14, 20-21, 27, 29-30, 32, 41, 46, 51, 88, 127-140, 150, 159, 179-181, 200, 205, 223, 244, 249, 255, 264, 268, 278, 283
+# Objective Sets Done: 1-14, 20-21, 27, 29-30, 32, 41, 46, 51, 88, 95, 115, 127-140, 150, 159, 179-182, 194, 200, 205, 210, 223, 239, 244, 249, 255, 264, 268, 278, 283
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
@@ -10,14 +10,45 @@ A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
 A New Hope;Rebel Alliance;Event;;2;2;14-1
+Phantoms of Imdaar;Imperial Navy;Objective;Imdaar Alpha;;;182-1
+TIE Phantom;Imperial Navy;Unit;Vehicle/Fighter;3;2;182-2
+Enhanced Laser Cannon;Dark Neutral;Enhancement;Weapon;1;2;182-1
+Fighters Coming In!;Imperial Navy;Event;Maneuver;0;1;182-1
 A-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;9-1
 Might of the Empire;Imperial Navy;Objective;Ralltiir;;;179-1
 Chimaera;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;5;3;179-1
 DP20 Corellian Gunship;Imperial Navy;Unit;Vehicle/Capital Ship;3;2;179-1
 Fleet Staging Area;Imperial Navy;Enhancement;Location;0;0;179-1
+Captain Zed;Imperial Navy;Unit;Character/Officer;3;3;194-1
+Stalker;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;5;2;194-1
+Storm Commando;Imperial Navy;Unit;Character/Trooper;2;1;194-1
+Sector Garrison;Dark Neutral;Enhancement;Elrood/Location;1;0;194-1
+Search and Detain;Imperial Navy;Event;;0;1;194-1
+Protect the Generator;Imperial Navy;Objective;Endor;;;210-1
+Colonel Dyer;Imperial Navy;Unit;Character/Officer/Force Sensitive;3;2;210-1
+Repair and Refurbish;Imperial Navy;Objective;;;;95-1
+Thunderflare;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;5;2;95-1
+Logistics Officer;Dark Neutral;Unit;Character;1;1;95-2
+Weapons Upgrade;Imperial Navy;Enhancement;Upgrade;1;2;95-1
+Supporting Fire;Dark Neutral;Fate;;0;1;95-1
+Endor AT-ST;Imperial Navy;Unit;Vehicle/Walker;2;2;210-2
+Endor Command Post;Imperial Navy;Enhancement;Endor/Location;1;0;210-1
+Reinforcements!;Imperial Navy;Objective;Carida;;;115-1
+Reserve Troopers;Imperial Navy;Unit;Character/Trooper;3;1;115-2
+Security Checkpoint;Dark Neutral;Enhancement;Location;0;1;115-1
+Award Ceremony;Imperial Navy;Event;;2;2;115-1
+Echoes of the Force;Dark Neutral;Fate;;0;2;115-1
+Promotion;Imperial Navy;Enhancement;Condition;1;1;210-1
 The Empire Strikes Back;Imperial Navy;Event;;0;0;179-1
 Admiral Ackbar;Rebel Alliance;Unit;Character/Leader;3;3;12-1
 Admiral Screed;Imperial Navy;Unit;Character/Officer/Pilot;3;1;244-1
+Pattern Analysis;Imperial Navy;Objective;Lothal;;;239-1
+Sector Lockdown;Imperial Navy;Objective;Elrood;;;194-1
+Agent Kallus;Imperial Navy;Unit;Character/Officer;3;3;239-1
+Academy Engineer;Imperial Navy;Unit;Character/Engineer/Trooper;1;1;239-1
+Squad Leader;Imperial Navy;Enhancement;Title;0;2;239-1
+T-7 Ion Disruptor;Imperial Navy;Enhancement;Weapon;1;0;239-1
+Well Equipped;Dark Neutral;Fate;;0;2;239-1
 Admiral's Orders;Imperial Navy;Event;;0;1;46-1
 Moon Blockade;Imperial Navy;Objective;Endor;;;200-1
 Executor;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;6;3;200-1
@@ -123,7 +154,7 @@ Gladiator-class Star Destroyer;Imperial Navy;Unit;Vehicle/Capital Ship;3;2;205-2
 Golan-II Defense Platform;Imperial Navy;Unit;Vehicle/Space Station;5;2;223-2
 Guardian of Peace;Jedi;Unit;Character/Force Sensitive;2;1;5-2
 Guarding the Wing;Imperial Navy;Objective;Death Star;;;150-1
-Heat of Battle;Dark Neutral;Fate;;0;2;29-1/132-1/136-1/223-1
+Heat of Battle;Dark Neutral;Fate;;0;2;29-1/132-1/136-1/182-1/223-1
 Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/127-1
 Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
 Heavy Fire;Imperial Navy;Event;;0;1;51-1
