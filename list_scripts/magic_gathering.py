@@ -664,6 +664,11 @@ if __name__ == "__main__":
             double_print(f"Needed cards: {deck[1]} - {str(deck[2])}\n", out_file_h)
             break
     for deck in comm_dict['DECKS']:
+        if deck[0] in commander_cats['Final Fantasy']:
+            double_print(f"Final Fantasy deck closest to completion: {deck[0]}", out_file_h)
+            double_print(f"Needed cards: {deck[1]} - {str(deck[2])}\n", out_file_h)
+            break
+    for deck in comm_dict['DECKS']:
         if deck[0] in commander_cats['Other']:
             double_print(f"Other U.B. deck closest to completion: {deck[0]}", out_file_h)
             double_print(f"Needed cards: {deck[1]} - {str(deck[2])}\n", out_file_h)

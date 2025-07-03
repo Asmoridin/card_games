@@ -191,7 +191,7 @@ def read_deck(in_deck_lines, deck_name):
             print(this_deck_line)
     if ret_deck['Affiliation'] == "":
         no_affil_str = f"List {side + "/" + deck_era + "/" + deck_filename} has no Affiliation"
-        double_print(no_affil_str, out_fh)
+        print(no_affil_str)
     return ret_deck
 
 def compare_decks(list_of_decks):
