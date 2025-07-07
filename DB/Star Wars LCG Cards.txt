@@ -1,5 +1,5 @@
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-14, 20-21, 27, 29-30, 35, 41, 46, 51, 88, 95, 101, 115, 120, 125, 127-140, 150, 159, 179-182, 187, 194, 200, 205, 210, 223, 239, 244, 249, 255, 259, 264, 268, 278, 283, 288
+# Objective Sets Done: 1-15, 20-21, 27, 29-30, 35, 41, 46, 51, 88, 95, 101, 115, 120, 125, 127-140, 150, 159, 179-182, 187, 194, 200, 205, 210, 223, 239, 244, 249, 255, 259, 264, 268, 278, 283, 288
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
@@ -52,6 +52,7 @@ Cell Block Detention;Imperial Navy;Objective;Death Star;;;268-1
 Chimaera;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;5;3;179-1
 Clever Ruse;Smugglers and Spies;Event;;1;2;133-1
 Closed Formation;Imperial Navy;Enhancement;Formation/Black Squadron;1;0;159-1
+Cloud City Casino;Light Neutral;Enhancement;Cloud City/Location;1;0;15-1
 Cloud Cover;Imperial Navy;Objective;Bespin;;;255-1
 Colonel Dyer;Imperial Navy;Unit;Character/Officer/Force Sensitive;3;2;210-1
 Colonel Starck;Imperial Navy;Unit;Character/Officer;4;3;51-1
@@ -66,6 +67,7 @@ Corruptor;Imperial Navy;Unit;Vehicle/Capital Ship;4;3;278-1
 Counsel of the Sith;Sith;Objective;Executor;;;20-1
 Counter-stroke;Jedi;Event;Force/Control/Sense;1;2;2-1
 Covering Fire;Light Neutral;Event;;0;1;13-1
+Crossfire;Light Neutral;Event;;1;1;15-1
 Cruel Interrogations;Sith;Objective;Cloud City;;;24-1
 Customs Blockade;Imperial Navy;Enhancement;Outer Rim;1;2;181-1
 Dagobah Training Grounds;Light Neutral;Enhancement;Dagobah/Location;1;0;1-1/2-1
@@ -136,6 +138,7 @@ Gladiator-class Star Destroyer;Imperial Navy;Unit;Vehicle/Capital Ship;3;2;205-2
 Golan-II Defense Platform;Imperial Navy;Unit;Vehicle/Space Station;5;2;223-2
 Guardian of Peace;Jedi;Unit;Character/Force Sensitive;2;1;5-2
 Guarding the Wing;Imperial Navy;Objective;Death Star;;;150-1
+Han Solo;Smugglers and Spies;Unit;Character/Rogue/Scoundrel;4;3;15-1
 Heat of Battle;Dark Neutral;Fate;;0;2;29-1/120-1/132-1/136-1/182-1/223-1/288-1
 Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/127-1
 Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
@@ -222,6 +225,7 @@ Prized Possession;Dark Neutral;Enhancement;Tatooine/Item;1;0;134-1
 Probe Droid;Dark Neutral;Unit;Droid;2;1;41-2
 Promotion;Imperial Navy;Enhancement;Condition;1;1;210-1
 Protect the Generator;Imperial Navy;Objective;Endor;;;210-1
+Questionable Contacts;Smugglers and Spies;Objective;Tatooine;;;15-1
 R2-D2;Light Neutral;Unit;Droid;0;0;4-1/129-1
 Rear Admiral Chiraneau;Imperial Navy;Unit;Character/Officer;3;2;200-1
 Rebel Assault;Rebel Alliance;Event;;2;1;8-1/13-1
@@ -266,6 +270,7 @@ Storm Commando;Imperial Navy;Unit;Character/Trooper;2;1;194-1
 Superior Numbers;Imperial Navy;Objective;;;;125-1
 Support of the Fleet;Imperial Navy;Objective;Outer Rim;;;288-1
 Supporting Fire;Dark Neutral;Fate;;0;1;95-1
+Swindled;Smugglers and Spies;Event;;1;1;15-1
 T-7 Ion Disruptor;Imperial Navy;Enhancement;Weapon;1;0;239-1
 Tactical Planning;Imperial Navy;Fate;;0;3;244-2
 Take Them Prisoner;Imperial Navy;Objective;Death Star;;;32-1
@@ -303,6 +308,7 @@ Trench Run;Rebel Alliance;Enhancement;Mission;1;2;13-1
 Trooper Assault;Imperial Navy;Event;;2;2;32-1
 Trust Your Feelings;Jedi;Enhancement;Skill;2;1;1-1
 Twi'lek Loyalist;Jedi;Unit;Character;1;1;1-1/4-1
+Twi'lek Smuggler;Smugglers and Spies;Unit;Character/Rogue;2;1;15-1
 Twist of Fate;Dark Neutral;Fate;;0;0;20-1/30-1
 Twist of Fate;Light Neutral;Fate;;0;0;5-1/10-1
 Unexpected Assistance;Light Neutral;Event;;1;1;131-1

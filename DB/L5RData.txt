@@ -1203,6 +1203,11 @@ Atarasi's Armor;Item;;Heroes of Rokugan (Fixed);Four Winds (Gold);1;0
 Atarasi's Armor;Item;;Heroes of Rokugan (Fixed);Hidden Emperor (Jade);1;0
 Atarasi's Banners;Item;;Promotional–Samurai (Promo);Race for the Throne (Samurai);1;0
 Atarasi's Mempo;Item;;Promotional–Samurai (Promo);Race for the Throne (Samurai);1;0
+Atone Through Life;Strategy;;The Dead of Winter (Uncommon);Destroyer War (Celestial);3;0
+Attuned to the Elements;Strategy;;Empire at War (Uncommon);Destroyer War (Celestial);3;0
+Augury;Spell;;Time of the Void (Rare);Clan Wars (Imperial);3;0
+Aura of Malice;Strategy;;The Harbinger (Common);Destroyer War (Celestial);3;0
+Auspicious House;Region;;Dark Allies (Rare);Four Winds (Gold);3;0
 Avoid Fate;Strategy;;Diamond Edition (Uncommon);Rain of Blood (Diamond);3;0
 Avoid Fate;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Avoid Fate;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;0
@@ -1720,6 +1725,8 @@ Crude Dai-kyu;Item;;A Line in the Sand (Uncommon);A Brother's Destiny (Twenty Fe
 Crude Dai-kyu;Item;;Onyx Edition (Fixed);Onyx Edition;3;0
 Crumbling Defenses;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Crumbling Defenses;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Crushing Attack;Strategy;;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);3;0
+Crushing Attack;Strategy;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);3;0
 Crystal Arrow;Item;;Shadowlands (Uncommon)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Crystal Katana;Item;;Gold Edition (Common);Four Winds (Gold);3;0
 Crystal Katana;Item;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
@@ -2579,6 +2586,8 @@ Helpful Suggestion;Strategy;;Road to Ruin (Fixed);Shattered Empire;3;0
 Hida Advisor;Holding;;Broken Blades (Uncommon);Four Winds (Gold);3;0
 Hida Advisor;Holding;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Hida Advisor;Holding;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
+Hida Amoro • Experienced;Personality;Crab;Time of the Void (Uncommon);Clan Wars (Imperial);1;0
+Hida Amoro • Experienced;Personality;Crab;Time of the Void (Uncommon);Hidden Emperor (Jade);1;0
 Hida Amoro;Personality;Crab;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Hida Amoro;Personality;Crab;Obsidian Edition (Uncommon);Hidden Emperor (Jade);3;0
 Hida Elite Guard;Follower;;Rise of Jigoku (Fixed);Onyx Edition;3;0
@@ -6016,11 +6025,6 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Desti
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
-Aura of Malice;Strategy;;The Harbinger (Common);Destroyer War (Celestial);3;0
-Auspicious House;Region;;Dark Allies (Rare);Four Winds (Gold);3;0
-Augury;Spell;;Time of the Void (Rare);Clan Wars (Imperial);3;0
-Atone Through Life;Strategy;;The Dead of Winter (Uncommon);Destroyer War (Celestial);3;0
-Attuned to the Elements;Strategy;;Empire at War (Uncommon);Destroyer War (Celestial);3;0
 
 # Done through card #650
 #652
@@ -6094,6 +6098,7 @@ Attuned to the Elements;Strategy;;Empire at War (Uncommon);Destroyer War (Celest
 #1527-1528
 #1548
 #1557
+#1587
 #1590
 #1592-1593
 #1671
@@ -6200,7 +6205,7 @@ Attuned to the Elements;Strategy;;Empire at War (Uncommon);Destroyer War (Celest
 #3043
 #3047-3048
 #3067
-#3070
+#3070-3071
 #3128
 #3193
 #3203

@@ -98,7 +98,7 @@ lines = [line.strip() for line in lines]
 
 deck_lists = []
 for file_name in os.listdir(DECK_DIR):
-    if file_name.startswith('Set ') or file_name.startswith('Need Decks'):
+    if file_name.startswith('Set '):
         continue
     dlh = open(DECK_DIR + "/" + file_name, 'r', encoding="UTF-8")
     deck_list = dlh.readlines()

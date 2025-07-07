@@ -32,8 +32,6 @@ VALID_AFFILIATIONS = ['Imperial Navy', 'Sith', 'Rebel Alliance', 'Jedi', 'Dark N
 
 CARD_TYPES = ['Unit', 'Objective', 'Event', 'Enhancement', 'Fate', ]
 
-out_fh = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
-
 # Read in objective data
 obj_lines = file_h.readlines()
 file_h.close()
@@ -227,6 +225,7 @@ for side in os.listdir(DECK_DIR):
     compare_decks(side_decks)
 
 if __name__ == "__main__":
+    out_fh = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
     double_print(f"The Star Wars LCG has {len(card_lines)} distinct cards", out_fh)
     double_print(f"A full collection has {TOTAL_OWN} cards.\n", out_fh)
 
