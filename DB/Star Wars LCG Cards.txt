@@ -1,5 +1,5 @@
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-15, 20-21, 27, 29-30, 35, 41, 46, 51, 88, 95, 101, 115, 120, 125, 127-140, 150, 159, 179-182, 187, 194, 200, 205, 210, 223, 239, 244, 249, 255, 259, 264, 268, 278, 283, 288
+# Objective Sets Done: 1-15, 20-21, 27, 29-30, 35, 41, 46, 51, 88, 95, 101, 105, 115, 120, 125, 127-140, 144, 150, 154, 159, 164, 178-182, 187, 194, 200, 205, 210, 223, 239, 244, 249, 255, 259, 264, 268, 278, 283, 288
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
@@ -8,12 +8,33 @@ A Better Offer;Scum and Villainy;Event;;0;1;138-1
 A Dark Time for the Rebellion;Imperial Navy;Objective;Hoth;;;51-1
 A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
+Prepared Ambush;Imperial Navy;Mission;Endor;;;187-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
 A New Hope;Rebel Alliance;Event;;2;2;14-1
+The Last Grand Admiral;Imperial Navy;Objective;Coruscant;;;164-1
+Grand Admiral Thrawn;Imperial Navy;Unit;Character/Officer/Tactician;4;3;164-1
+Noghri Bodyguard;Dark Neutral;Unit;Character;2;1;164-2
+Chain of Command;Imperial Navy;Event;Tactic;1;2;164-1
+The Empire's Elite;Imperial Navy;Objective;;;;144-1
+Baron Fel;Imperial Navy;Unit;Character/Pilot/Ace;4;3;144-1
+181st TIE Interceptor;Imperial Navy;Unit;Vehicle/Fighter;2;1;144-2
+Flight Academy;Imperial Navy;Enhancement;Prefsbelt/Location;2;0;144-1
+Training Procedures;Imperial Navy;Objective;;;;154-1
+Academy Pilot;Dark Neutral;Unit;Character/Pilot;1;1;154-2
+TIE Fighter Patrol;Dark Neutral;Unit;Vehicle/Fighter;2;1;154-2
+Victory or Death;Imperial Navy;Objective;Coruscant;;;105-1
+Victory-class Star Destroyer;Imperial Navy;Unit;Vehicle/Capital Ship;4;3;105-2
+Political Reliability Observer;Dark Neutral;Unit;Character;2;1;105-1
+Koiogran Turn;Imperial Navy;Event;Maneuver;0;2;154-1
 A-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;9-1
 Academy Engineer;Imperial Navy;Unit;Character/Engineer/Trooper;1;1;239-1
 Admiral Ackbar;Rebel Alliance;Unit;Character/Leader;3;3;12-1
 Admiral Piett;Imperial Navy;Unit;Character/Officer;5;2;120-1
+The Tarkin Doctrine;Imperial Navy;Objective;Eriadu;;;178-1
+Grand Moff Tarkin;Imperial Navy;Unit;Character/Officer;3;3;178-1
+Stormtrooper Assault Team;Imperial Navy;Unit;Character/Trooper;2;1;178-1
+Rule by Fear;Imperial Navy;Enhancement;Doctrine;3;1;178-1
+Moment of Triumph;Imperial Navy;Event;;2;2;178-1
 Admiral Screed;Imperial Navy;Unit;Character/Officer/Pilot;3;1;244-1
 Admiral's Orders;Imperial Navy;Event;;0;1;46-1
 Advisor to the Emperor;Sith;Unit;Character;2;2;20-1
@@ -60,7 +81,7 @@ Colonel Yularen;Imperial Navy;Unit;Character/Officer;3;2;180-1
 Commando Raid;Rebel Alliance;Objective;;;;132-1
 Communications Officer;Imperial Navy;Unit;Character/Officer;3;1;41-1
 Confiscation;Sith;Enhancement;Condition;0;2;139-1
-Control Room;Imperial Navy;Enhancement;Location;2;0;29-1/180-1/205-1/259-1
+Control Room;Imperial Navy;Enhancement;Location;2;0;29-1/105-1/180-1/205-1/259-1
 Corellian Engineer;Light Neutral;Unit;Character/Engineer;2;1;6-1
 Corporate Exploitation;Dark Neutral;Objective;;;;35-1
 Corruptor;Imperial Navy;Unit;Vehicle/Capital Ship;4;3;278-1
@@ -99,7 +120,7 @@ DP20 Corellian Gunship;Imperial Navy;Unit;Vehicle/Capital Ship;3;2;179-1
 Draw Their Fire;Rebel Alliance;Objective;;;;12-1
 DS-61-3;Imperial Navy;Unit;Character/Pilot/Black Squadron;2;1;150-1
 Early Warning System;Imperial Navy;Enhancement;Item;2;0;223-1
-Echoes of the Force;Dark Neutral;Fate;;0;2;115-1
+Echoes of the Force;Dark Neutral;Fate;;0;2;105-1/115-1
 Elite Pilot Training;Imperial Navy;Enhancement;Black Squadron;2;2;150-1
 Emergency Repair;Light Neutral;Event;;2;1;6-1
 Endor AT-ST;Imperial Navy;Unit;Vehicle/Walker;2;2;210-2
@@ -264,12 +285,12 @@ Snoova;Scum and Villainy;Unit;Character/Black Sun/Bounty Hunter/Wookiee;3;2;138-
 Speeder Bike;Light Neutral;Unit;Vehicle/Speeder;2;0;127-1
 Squad Leader;Imperial Navy;Enhancement;Title;0;2;239-1
 Stalker;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;5;2;194-1
-Stay on Target;Dark Neutral;Fate;;0;2;255-1
+Stay on Target;Dark Neutral;Fate;;0;2;144-1/255-1
 Stolen Plans;Light Neutral;Enhancement;Espionage;1;1;10-1
 Storm Commando;Imperial Navy;Unit;Character/Trooper;2;1;194-1
 Superior Numbers;Imperial Navy;Objective;;;;125-1
 Support of the Fleet;Imperial Navy;Objective;Outer Rim;;;288-1
-Supporting Fire;Dark Neutral;Fate;;0;1;95-1
+Supporting Fire;Dark Neutral;Fate;;0;1;95-1/164-1
 Swindled;Smugglers and Spies;Event;;1;1;15-1
 T-7 Ion Disruptor;Imperial Navy;Enhancement;Weapon;1;0;239-1
 Tactical Planning;Imperial Navy;Fate;;0;3;244-2
@@ -309,7 +330,7 @@ Trooper Assault;Imperial Navy;Event;;2;2;32-1
 Trust Your Feelings;Jedi;Enhancement;Skill;2;1;1-1
 Twi'lek Loyalist;Jedi;Unit;Character;1;1;1-1/4-1
 Twi'lek Smuggler;Smugglers and Spies;Unit;Character/Rogue;2;1;15-1
-Twist of Fate;Dark Neutral;Fate;;0;0;20-1/30-1
+Twist of Fate;Dark Neutral;Fate;;0;0;20-1/30-1/178-1
 Twist of Fate;Light Neutral;Fate;;0;0;5-1/10-1
 Unexpected Assistance;Light Neutral;Event;;1;1;131-1
 Vader's TIE Advanced;Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;2;159-1
