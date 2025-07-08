@@ -17,8 +17,8 @@ army_factions = ['Dwarves', 'Coral Elves', 'Goblins', 'Lava Elves', 'Amazons', '
 valid_factions = army_factions + ['Medallion', 'Items', 'Dragons', 'Dragonkin', 'Relics',
     'Major Terrain', 'Minor Terrain', 'Special Terrain']
 
-my_current_factions = ['Frostwings', 'Fire Walkers', 'Treefolk', 'Swamp Stalkers', ]
-my_future_factions = ['Undead', 'Scalders', 'Goblins', 'Feral',
+my_current_factions = ['Frostwings', 'Fire Walkers', 'Treefolk', 'Swamp Stalkers', 'Undead', ]
+my_future_factions = ['Scalders', 'Goblins', 'Feral',
     'Dwarves', 'Coral Elves', 'Lava Elves', 'Amazons', 'Eldarim', 'Dracolem']
 
 def get_meta_type(in_type):
