@@ -30,7 +30,7 @@ CYCLES = ['01 - Core Set', '02 - Hoth Cycle', '03 - Echoes of the Force Cycle',
 VALID_AFFILIATIONS = ['Imperial Navy', 'Sith', 'Rebel Alliance', 'Jedi', 'Dark Neutral',
     'Smugglers and Spies', 'Light Neutral', 'Scum and Villainy', ]
 
-CARD_TYPES = ['Unit', 'Objective', 'Event', 'Enhancement', 'Fate', ]
+CARD_TYPES = ['Unit', 'Objective', 'Event', 'Enhancement', 'Fate', 'Mission']
 
 # Read in objective data
 obj_lines = file_h.readlines()
