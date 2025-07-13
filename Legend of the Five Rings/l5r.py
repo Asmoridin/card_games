@@ -13,16 +13,15 @@ from steve_utils.check_inventory import check_inventory
 
 GAME_NAME = "Legend of the Five Rings"
 
+FILE_PREFIX = "card_games/Legend of the Five Rings"
+
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/L5RData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = "Decks/L5R"
-    OUT_FILE_NAME = "output/L5ROut.txt"
-    name_fix_fh = open('DB/L5RNameFixer.txt', 'r', encoding="UTF-8")
-else:
-    file_h = open('card_games/DB/L5RData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = "card_games/Decks/L5R"
-    OUT_FILE_NAME = "card_games/output/L5ROut.txt"
-    name_fix_fh = open('card_games/DB/L5RNameFixer.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "Legend of the Five Rings"
+
+file_h = open(FILE_PREFIX + '/Data/L5RData.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + "/Decks"
+OUT_FILE_NAME = FILE_PREFIX + "/L5ROut.txt"
+name_fix_fh = open(FILE_PREFIX + '/Data/L5RNameFixer.txt', 'r', encoding="UTF-8")
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality', 'Celestial']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor', 'Ring']

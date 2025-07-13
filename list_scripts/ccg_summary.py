@@ -5,6 +5,8 @@ Summarizes the current collection status of all tracked card/dice games
 """
 
 import os
+import importlib.util
+import sys
 
 from steve_utils.output_utils import double_print
 
@@ -22,11 +24,26 @@ from card_games.list_scripts import star_trek_first_edition
 from card_games.list_scripts import star_wars_unlimited
 from card_games.list_scripts import tribbles
 from card_games.list_scripts import magic_gathering
-from card_games.list_scripts import l5r
 from card_games.list_scripts import wars_tcg
 from card_games.list_scripts import xena
 from card_games.list_scripts import star_wars_ccg
 from card_games.list_scripts import star_wars_lcg
+
+modules = [
+    ("card_games/Legend of the Five Rings/l5r.py", "l5r")
+]
+
+added_modules = []
+for file_path, module_name in modules:
+    spec = importlib.util.spec_from_file_location(module_name, file_path)
+    MY_MODULE = None
+    if spec:
+        MY_MODULE = importlib.util.module_from_spec(spec)
+        sys.modules[module_name] = MY_MODULE  # Optional: add to sys.modules
+        spec.loader.exec_module(MY_MODULE)
+        added_modules.append(MY_MODULE)
+    else:
+        print(f"Could not find module at {file_path}")
 
 if os.getcwd().endswith('card_games'):
     in_file = open("DB/NewCardGames.txt", encoding="UTF-8")
@@ -39,8 +56,9 @@ else:
 
 started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited,
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
-    lorcana, one_piece, magic_gathering, l5r, star_trek_first_edition, wars_tcg, xena,
+    lorcana, one_piece, magic_gathering, star_trek_first_edition, wars_tcg, xena,
     star_wars_ccg, star_wars_lcg]
+started_games.extend(added_modules)
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0
