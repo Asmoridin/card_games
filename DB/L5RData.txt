@@ -1218,6 +1218,16 @@ Awaken the Eighth;Spell;;Enemy of My Enemy (Rare);Age of Enlightenment (Lotus);3
 Awaken the Eighth;Spell;;Enemy of My Enemy (Rare);Rain of Blood (Diamond);3;0
 Awaken the Sins;Spell;;Drums of War (Uncommon);Age of Enlightenment (Lotus);3;0
 Awakened Blade;Item;;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);1;0
+Awakening Shakoki Dogu;Strategy;;Honor Bound (Common);Hidden Emperor (Jade);3;0
+Awed Witness;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Awed Witness;Strategy;;The Dead of Winter (Rare);Destroyer War (Celestial);3;0
+Awed Witness;Strategy;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Awed Witness;Strategy;;Twenty Festivals (Rare);Onyx Edition;3;0
+Ayamari;Personality;Mantis;Promotional–Lotus (Promo);Age of Enlightenment (Lotus);3;0
+Ayamari;Personality;Mantis;Promotional–Lotus (Promo);Race for the Throne (Samurai);3;0
+Baby Ki-Rin;Item;;Ambition's Debt (Rare);Hidden Emperor (Jade);1;0
+Back Banner;Item;;The War of Spirits (Common);Four Winds (Gold);3;0
+Back Banner;Item;;The War of Spirits (Common);Hidden Emperor (Jade);3;0
 Back to the Front;Strategy;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
 Back to the Front;Strategy;;Ivory Edition (Common)/A Matter of Honor (Fixed)/Promotional–Ivory (Promo)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Back to the Front;Strategy;;Ivory Edition (Common)/Promotional–Ivory (Promo)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -3949,6 +3959,7 @@ Patharodha;Personality;Naga;Shattered Empire (Fixed);Shattered Empire;3;0
 Pawnbroker;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Pawnbroker;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Peace of the Kami;Spell;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Pearl Magic;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Pearl of Rage;Spell;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
 Pearl of Rage;Spell;;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
 Peasant Vengeance;Strategy;;Celestial Edition (Fixed);Destroyer War (Celestial);3;0
@@ -3959,6 +3970,7 @@ Peasant Vengeance;Strategy;;Winds of Change (Common);Four Winds (Gold);3;0
 Perfect Alignment;Spell;;Onyx Edition (Fixed);Onyx Edition;3;0
 Perfect Alignment;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
 Personal Assassin • Experienced;Follower;;Chaos Reigns I (Fixed);Shattered Empire;3;0
+Pestilence;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Petals and Pincer;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Petals and Pincer;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Phalanx Formation;Strategy;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;3
@@ -4142,6 +4154,7 @@ Relentless;Strategy;;The Coming Storm (Uncommon);A Brother's Destiny (Twenty Fes
 Reliable Blade;Item;;Road to Ruin (Fixed);Onyx Edition;3;0
 Reliable Blade;Item;;Road to Ruin (Fixed);Shattered Empire;3;0
 Remember the Mountain;Strategy;;An Oni's Fury (Common);Four Winds (Gold);3;1
+Remember Your Oath;Strategy;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;1
 Remembrance;Strategy;;Rise of Otosan Uchi (Fixed);Onyx Edition;3;0
 Remembrance;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Remorseful Seppuku;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
@@ -6040,11 +6053,8 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Desti
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
-Pearl Magic;Strategy;3;3
-Pestilence;Strategy;3;3
-Remember Your Oath;Strategy;3;1
 
-# Done through card #655
+# Done through card #660
 #662
 #690
 #709
@@ -6380,8 +6390,10 @@ Remember Your Oath;Strategy;3;1
 #5849
 #5867
 #5875
+#5901
 #5903
 #5915
+#5936
 #5976
 #5979
 #5981
@@ -6407,6 +6419,7 @@ Remember Your Oath;Strategy;3;1
 #6227
 #6235
 #6250
+#6254
 #6256
 #6260
 #6283
