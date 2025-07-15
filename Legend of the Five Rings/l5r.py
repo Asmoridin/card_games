@@ -18,10 +18,13 @@ FILE_PREFIX = "card_games/Legend of the Five Rings"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "Legend of the Five Rings"
 
-file_h = open(FILE_PREFIX + '/Data/L5RData.txt', 'r', encoding="UTF-8")
+with open(FILE_PREFIX + '/Data/L5RData.txt', 'r', encoding="UTF-8") as in_file:
+    in_lines = in_file.readlines()
 DECK_DIR = FILE_PREFIX + "/Decks"
 OUT_FILE_NAME = FILE_PREFIX + "/L5ROut.txt"
-name_fix_fh = open(FILE_PREFIX + '/Data/L5RNameFixer.txt', 'r', encoding="UTF-8")
+
+with open(FILE_PREFIX + '/Data/L5RNameFixer.txt', 'r', encoding="UTF-8") as name_fixer:
+    name_fix_lines = name_fixer.readlines()
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality', 'Celestial']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor', 'Ring']
@@ -128,9 +131,8 @@ def read_decks(deck_format):
             continue
         for deck_filename in os.listdir(format_deck_dir + "/" + deck_clan):
             deck_name = deck_clan + "/" + deck_filename
-            deck_fh = open(format_deck_dir + "/" + deck_name, 'r', encoding="UTF-8")
-            deck_lines = deck_fh.readlines()
-            deck_fh.close()
+            with open(format_deck_dir + "/" + deck_name, 'r', encoding="UTF-8") as in_deck:
+                deck_lines = in_deck.readlines()
             deck_lines = [line.strip() for line in deck_lines]
             this_deck = {}
             for deck_line in deck_lines:
@@ -142,7 +144,7 @@ def read_decks(deck_format):
                     continue
                 if deck_line.startswith('Proxy Holding'):
                     continue
-                if deck_format == 'BigDeck' or deck_format == 'Modern':
+                if deck_format in ['BigDeck', 'Modern']:
                     deck_card_qty = 1
                     deck_card_name = deck_line.strip()
                 else:
@@ -207,15 +209,15 @@ def process_formats(in_format_name, raw_list, in_name_fix_all):
     return_dict = {}
     return_dict['FILTERED'] = {}
     format_card_list = []
-    format_own = 0
-    format_total = 0
+    return_dict['FORMAT_OWN'] = 0
+    return_dict['FORMAT_TOTAL'] = 0
     for in_card in raw_list:
         if in_format_name == in_card[6]:
             format_card_list.append(in_card)
-            format_total += in_card[8]
-            format_own += in_card[7]
+            return_dict['FORMAT_TOTAL'] += in_card[8]
+            return_dict['FORMAT_OWN'] += in_card[7]
 
-    format_cards = len(format_card_list)
+    return_dict['FORMAT_CARDS'] = len(format_card_list)
 
     return_dict['FILTERED']['set'], ft_filtered_list = \
         sort_and_filter(format_card_list, 4, by_len = True)
@@ -239,9 +241,6 @@ def process_formats(in_format_name, raw_list, in_name_fix_all):
     format_most_needed = aggregate_most_needed(format_decks_minus_own)
     format_most_needed = sorted(format_most_needed, key=lambda x:(-1 * x[1], x[0]))
     format_decks_minus_own = sorted(format_decks_minus_own, key=lambda x:x[1])
-    return_dict['FORMAT_OWN'] = format_own
-    return_dict['FORMAT_TOTAL'] = format_total
-    return_dict['FORMAT_CARDS'] = format_cards
     return_dict['DECKS'] = format_decks_minus_own
     return_dict['NEEDED'] = format_most_needed
     return return_dict
@@ -272,12 +271,8 @@ def handle_output(in_format_name, format_dict, dest_fh):
     for pr_card_tuple in format_dict['NEEDED'][:10]:
         double_print(f" - {pr_card_tuple[0]}: {pr_card_tuple[1]}", dest_fh)
 
-in_lines = file_h.readlines()
-file_h.close()
 in_lines = [line.strip() for line in in_lines]
 
-name_fix_lines = name_fix_fh.readlines()
-name_fix_fh.close()
 name_fix_lines = [line.strip() for line in name_fix_lines]
 
 TOTAL_MAX = 0

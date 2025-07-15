@@ -12,16 +12,16 @@ from steve_utils.output_utils import double_print
 
 GAME_NAME = "Star Wars LCG"
 
+FILE_PREFIX = "card_games/Star Wars LCG"
+
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
-    DECK_DIR = "Decks/Star Wars LCG"
-    OUT_FILE_NAME = "output/Star Wars LCG.txt"
-    CARDS_FILENAME = 'DB/Star Wars LCG Cards.txt'
-else:
-    file_h = open('card_games/DB/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
-    DECK_DIR = "card_games/Decks/Star Wars LCG"
-    OUT_FILE_NAME = "card_games/output/Star Wars LCG.txt"
-    CARDS_FILENAME = 'card_games/DB/Star Wars LCG Cards.txt'
+    FILE_PREFIX = "Star Wars LCG"
+
+
+file_h = open(FILE_PREFIX + '/Data/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + "/Decks"
+OUT_FILE_NAME = FILE_PREFIX + "/Star Wars LCG.txt"
+CARDS_FILENAME = FILE_PREFIX + '/Data/Star Wars LCG Cards.txt'
 
 CYCLES = ['01 - Core Set', '02 - Hoth Cycle', '03 - Echoes of the Force Cycle',
     '04 - Rogue Squadron Cycle', '05 - Endor Cycle', '06 - Opposition Cycle',

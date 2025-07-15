@@ -27,10 +27,10 @@ from card_games.list_scripts import magic_gathering
 from card_games.list_scripts import wars_tcg
 from card_games.list_scripts import xena
 from card_games.list_scripts import star_wars_ccg
-from card_games.list_scripts import star_wars_lcg
 
 modules = [
-    ("card_games/Legend of the Five Rings/l5r.py", "l5r")
+    ("card_games/Legend of the Five Rings/l5r.py", "l5r"),
+    ("card_games/Star Wars LCG/star_wars_lcg.py", "star_wars_lcg"),
 ]
 
 added_modules = []
@@ -57,7 +57,7 @@ else:
 started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited,
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
     lorcana, one_piece, magic_gathering, star_trek_first_edition, wars_tcg, xena,
-    star_wars_ccg, star_wars_lcg]
+    star_wars_ccg]
 started_games.extend(added_modules)
 
 TOTAL_HAVE = 0

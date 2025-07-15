@@ -4054,6 +4054,7 @@ Proposal of Peace;Event;;Onyx Edition (Fixed);Onyx Edition;1;0
 Proposal of Peace;Event;;Samurai Edition (Rare);Race for the Throne (Samurai);1;0
 Protect the Innocent;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Protect the Innocent;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Proud Heritage;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Public Shame;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Public Shame;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Pull from the Void;Spell;;Rise of Otosan Uchi (Fixed);Onyx Edition;3;0
@@ -4153,7 +4154,10 @@ Relentless;Strategy;;The Coming Storm (Uncommon);A Brother's Destiny (Ivory Edit
 Relentless;Strategy;;The Coming Storm (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Reliable Blade;Item;;Road to Ruin (Fixed);Onyx Edition;3;0
 Reliable Blade;Item;;Road to Ruin (Fixed);Shattered Empire;3;0
+Relief;Strategy;;Celestial Edition (Common);Destroyer War (Celestial);3;0
+Relief;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Remember the Mountain;Strategy;;An Oni's Fury (Common);Four Winds (Gold);3;1
+Remember What You Have Seen;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Remember Your Oath;Strategy;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;1
 Remembrance;Strategy;;Rise of Otosan Uchi (Fixed);Onyx Edition;3;0
 Remembrance;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
@@ -4224,6 +4228,7 @@ Rice Paddy;Holding;;Training Grounds (Fixed)/Diamond Edition (Common);Rain of Bl
 Riding in Harmony;Strategy;;The Harbinger (Common);Destroyer War (Celestial);3;0
 Right Hand of the Emperor;Wind;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Right Hand of the Emperor;Wind;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);1;0
+Rights of the Challenged;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Ring of Air;Ring;;Celestial Edition (Uncommon)/Battle of Kyuden Tonbo (Fixed)/War of Honor (Fixed);Destroyer War (Celestial);2;0
 Ring of Air;Ring;;Diamond Edition (Uncommon)/Promotional–Diamond (Promo);Rain of Blood (Diamond);2;0
 Ring of Air;Ring;;Emperor Edition (Uncommon)/Emperor Edition Demo Decks (Fixed)/Promotional–Emperor (Promo);Age of Conquest (Emperor);2;0
@@ -4321,6 +4326,7 @@ Ruby of Iuchiban • Experienced 2;Item;;Gates of Tengoku (Fixed);Shattered Empi
 Ruby of Iuchiban;Item;;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
 Ruby of Iuchiban;Item;;Scorpion Clan Coup 2 (Uncommon);Clan Wars (Imperial);1;0
 Rumormongering;Strategy;;Chaos Reigns I (Fixed);Shattered Empire;3;0
+Run for Your Life;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Run For Your Lives!;Event;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Four Winds (Gold);1;0
 Run For Your Lives!;Event;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Rural Market;Holding;;Rise of Jigoku (Fixed);Onyx Edition;3;0
@@ -6053,11 +6059,6 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Desti
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Onyx Edition;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
-Proud Heritage;Strategy;3;3
-Relief;Strategy;3;3
-Remember What You Have Seen;Strategy;3;3
-Rights of the Challenged;Strategy;3;3
-Run for Your Life;Strategy;3;3
 
 # Done through card #660
 #662
@@ -6414,6 +6415,7 @@ Run for Your Life;Strategy;3;3
 #6072
 #6079
 #6084
+#6088
 #6113
 #6125
 #6152-6153
@@ -6423,7 +6425,9 @@ Run for Your Life;Strategy;3;3
 #6190-6191
 #6227
 #6235
+#6248
 #6250
+#6252
 #6254
 #6256
 #6260
@@ -6432,6 +6436,7 @@ Run for Your Life;Strategy;3;3
 #6314
 #6321
 #6324
+#6330
 #6333-6335
 #6338-6339
 #6341-6343
@@ -6441,7 +6446,7 @@ Run for Your Life;Strategy;3;3
 #6372
 #6382
 #6394
-#6408
+#6407-6408
 #6413
 #6440
 #6442-6443
