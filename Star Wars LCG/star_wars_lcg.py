@@ -21,16 +21,18 @@ DECK_DIR = FILE_PREFIX + "/Decks"
 OUT_FILE_NAME = FILE_PREFIX + "/Star Wars LCG.txt"
 CARDS_FILENAME = FILE_PREFIX + '/Data/Star Wars LCG Cards.txt'
 USED_TRAIT_FILENAME = FILE_PREFIX + '/Data/Star Wars LCG Used Traits.txt'
+SET_INDICES_FILENAME = FILE_PREFIX + '/Data/Set Indices.txt'
 
 CYCLES = ['01 - Core Set', '02 - Hoth Cycle', '03 - Echoes of the Force Cycle',
     '04 - Rogue Squadron Cycle', '05 - Endor Cycle', '06 - Opposition Cycle',
     '07 - Alliances Cycle']
 
-VALID_AFFILIATIONS = ['Imperial Navy', 'Sith', 'Rebel Alliance', 'Jedi', 'Dark Neutral',
-    'Smugglers and Spies', 'Light Neutral', 'Scum and Villainy', ]
+DS_AFFILS = ['Imperial Navy', 'Sith', 'Dark Neutral', 'Scum and Villainy']
+LS_AFFILS = ['Rebel Alliance', 'Jedi', 'Smugglers and Spies', 'Light Neutral']
+VALID_AFFILIATIONS = DS_AFFILS + LS_AFFILS
 SIDE_MAPPING = {}
 for push_affil in VALID_AFFILIATIONS:
-    if push_affil in ['Imperial Navy', 'Sith', 'Dark Neutral', 'Scum and Villainy']:
+    if push_affil in DS_AFFILS:
         SIDE_MAPPING[push_affil] = "DS"
     else:
         SIDE_MAPPING[push_affil] = "LS"
@@ -119,6 +121,11 @@ with open(USED_TRAIT_FILENAME, 'r', encoding="UTF-8") as used_traits:
                 print(f"Trait {trait_name} doesn't seem to be a valid LS trait")
             else:
                 del cards_with_trait['LS'][trait_name]
+
+set_index_lines = []
+with open(SET_INDICES_FILENAME, 'r', encoding="UTF-8") as set_fh:
+    set_index_lines = set_fh.readlines()
+print(set_index_lines)
 
 def get_index(in_deck):
     """
