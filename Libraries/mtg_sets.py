@@ -71,6 +71,15 @@ ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Bas
 MTGO_SETS = ["Vintage Masters", "Masters Edition IV", "Masters Edition III", "Masters Edition",
     "Double Masters", "Tempest Remastered", "Masters Edition II", ]
 
+# Specific fixed set of sets for the Premodern format
+PREMODERN_SETS = [
+    "Fourth Edition", "Fifth Edition", "Ice Age", "Chronicles", "Homelands", "Alliances",
+    "Mirage", "Visions", "Weatherlight", "Urza's Saga", "Tempest", "Stronghold", "Scourge",
+    "Exodus", "Urza's Legacy", "Urza's Destiny", "Classic Sixth Edition", "Mercadian Masques",
+    "Nemesis", "Prophecy", "Invasion", "Planeshift", "Seventh Edition", "Apocalypse",
+    "Odyssey", "Legions", "Torment", "Judgment", "Onslaught"
+]
+
 # Standard legal sets are legal in all other formats, mostly.
 STANDARD_SETS = ["Dominaria United", "The Brothers' War", "Phyrexia: All Will Be One",
     "March of the Machine", "March of the Machine: The Aftermath", "Wilds of Eldraine",

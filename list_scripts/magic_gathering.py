@@ -176,7 +176,7 @@ def parse_restrictions(restr_lines):
                         'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
                         'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
                         'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
-                        'Kamigawa Block', 'Ravnica Block']:
+                        'Kamigawa Block', 'Ravnica Block', 'Premodern']:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -239,6 +239,10 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
                 ret_formats['Modern'] = 4
             else:
                 print("[" + this_card_name + "] Handle: " + this_set)
+            if this_set in mtg_sets.PREMODERN_SETS:
+                ret_sets.append(this_set)
+                ret_rarities.add(this_set_rarity)
+                ret_formats['Premodern'] = 4               
             # Handle Ice Age Block
             if this_set in ['Ice Age', 'Coldsnap', 'Alliances']:
                 ret_formats['Ice Age Block'] = 4
@@ -548,8 +552,9 @@ for card in raw_list:
     if VALID_CARD:
         PLAYABLE_CARDS += 1
     if 'Vintage' not in card[6]:
-        print("No Vintage?")
-        print(card)
+        if 'Premodern' not in card[6]:
+            print("No Vintage?")
+            print(card)
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card_games'):
@@ -571,6 +576,10 @@ if __name__ == "__main__":
     # Legacy
     legacy_dict = process_formats("Legacy", card_corrections)
     handle_output("Legacy", legacy_dict, out_file_h)
+
+    # Premodern
+    prem_dict = process_formats("Premodern", card_corrections)
+    handle_output("Premodern", prem_dict, out_file_h)
 
     # Modern
     modern_dict = process_formats("Modern", card_corrections)
