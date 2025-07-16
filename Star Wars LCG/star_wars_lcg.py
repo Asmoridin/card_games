@@ -268,6 +268,6 @@ if __name__ == "__main__":
     for obj_set_name, obj_set_amount in sorted(obj_count.items()):
         if obj_set_amount == 0:
             if not PRINTED_HEADER:
-                double_print("Unused objective sets:", out_fh)
+                double_print("\nUnused objective sets:", out_fh)
                 PRINTED_HEADER = True
             double_print(f" - {obj_set_name} ({obj_side[obj_set_name]})", out_fh)
