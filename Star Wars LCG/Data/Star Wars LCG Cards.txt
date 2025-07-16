@@ -1,16 +1,39 @@
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-16, 20-21, 27, 29-30, 35, 41, 46-47, 51, 67, 84, 88, 95-96, 101, 105, 115, 120, 125, 127-140, 144, 150, 154, 159, 164-165, 170, 178-182, 187, 194, 200, 205-206, 210-211, 222-223, 235, 239-240, 244-245, 249-250, 255, 259-260, 264, 268-269, 274, 278, 283-284, 288-289
+# Objective Sets Done: 1-16, 20-21, 27, 29-30, 33, 35, 41, 46-47, 51, 67, 84, 88, 95-96, 101, 105-106, 115, 120-121, 125, 127-140, 144, 150, 154-155, 159, 164-165, 170, 178-182, 187-188, 194, 200, 205-206, 210-211, 222-223, 235, 239-240, 244-245, 249-250, 255, 259-260, 264, 268-269, 274, 278, 283-284, 288-289
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
 181st TIE Interceptor;Imperial Navy;Unit;Vehicle/Fighter;2;1;144-2
-4-LOM;Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;222-1
+The Bespin Exchange;Scum and Villainy;Objective;Cloud City;;;33-1
+Boba Fett;Scum and Villainy;Unit;Character/Bounty Hunter;3;2;33-1
+Outer Rim Hunter;Scum and Villainy;Unit;Character/Bounty Hunter;2;1;33-1
+Mandalorian Armor;Scum and Villainy;Enhancement;Armor;2;2;33-1
+Bounty Collection;Scum and Villainy;Event;Bounty;0;1;33-1
+4-LOM (Out of the Mists);Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;222-1
 8t88;Scum and Villainy;Unit;Droid/Mercenary;4;3;289-1
+Sonic Detonation;Scum and Villainy;Event;;2;2;121-1
 A Better Offer;Scum and Villainy;Event;;0;1;138-1
 A Dark Time for the Rebellion;Imperial Navy;Objective;Hoth;;;51-1
+The Eater of Luck;Scum and Villainy;Objective;Tatooine;;;155-1
+Dannik Jerriko;Scum and Villainy;Unit;Character/Assassin/Mercenary;3;2;155-1
+Advozse Mercenary;Dark Neutral;Unit;Character/Mercenary;2;1;155-2
+Calculated Wager;Scum and Villainy;Event;Gamble;0;2;155-1
+The Droid Revolution;Scum and Villainy;Objective;Mechis III;;;188-1
+Illegal Modifications;Scum and Villainy;Enhancement;Weapon;1;2;188-1
+The Findsman's Intuition;Scum and Villainy;Objective;Nar Shaddaa;;;106-1
+Zuckuss;Scum and Villainy;Unit;Character/Bounty Hunter/Force Sensitive;3;3;106-1
+Springing the Ambush;Scum and Villainy;Event;Trap;1;2;106-1
+Containment Field;Dark Neutral;Enhancement;Item;0;1;106-1
+4-LOM;Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;106-1
+IG-88B;Scum and Villainy;Unit;Droid/Bounty Hunter;4;2;188-1
+Assassin Droid;Dark Neutral;Unit;Droid/Assassin;4;2;188-1
+Reprogrammed DRK-1 Droid;Dark Neutral;Unit;Droid;1;1;121-2
+K4 Security Droid;Dark Neutral;Unit;Droid;1;1;188-1
 A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
+The Droid's Task;Scum and Villainy;Objective;Tatooine;;;121-1
+IG-88;Scum and Villainy;Unit;Droid/Bounty Hunter;5;2;121-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
 A New Hope;Rebel Alliance;Event;;2;2;14-1
 A Price on Their Heads;Scum and Villainy;Event;Bounty;6;4;96-1
@@ -49,11 +72,11 @@ Black Squadron Assault;Sith;Objective;Death Star;;;21-1
 Black Squadron Fighter;Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;2;1;150-2/159-1
 Black Squadron Pilot;Dark Neutral;Unit;Character/Pilot/Black Squadron;2;1;21-1
 Black Sun Headhunter;Scum and Villainy;Unit;Vehicle/Fighter/Black Sun/Mercenary;2;1;135-1/137-1
-Blaster Pistol;Dark Neutral;Enhancement;Weapon;0;1;245-1
+Blaster Pistol;Dark Neutral;Enhancement;Weapon;0;1;33-1/245-1
 Blizzard 1;Imperial Navy;Unit;Vehicle/Walker;5;3;283-1
 Blizzard 2;Imperial Navy;Unit;Vehicle/Walker;4;2;283-1
 Blizzard Assault;Imperial Navy;Objective;Hoth;;;283-1
-Boba Fett;Scum and Villainy;Unit;Character/Bounty Hunter;4;3;134-1
+Boba Fett (No Disintegrations);Scum and Villainy;Unit;Character/Bounty Hunter;4;3;134-1
 Bogwing;Light Neutral;Unit;Creature/Dagobah;0;0;128-1
 Bombing Run;Imperial Navy;Event;;1;2;278-1
 Bounty Listing;Scum and Villainy;Enhancement;Item;2;1;274-1
@@ -133,7 +156,7 @@ Draw Their Fire;Rebel Alliance;Objective;;;;12-1
 Droid Uprising;Scum and Villainy;Event;;1;2;274-1
 DS-61-3;Imperial Navy;Unit;Character/Pilot/Black Squadron;2;1;150-1
 Early Warning System;Imperial Navy;Enhancement;Item;2;0;223-1
-Echoes of the Force;Dark Neutral;Fate;;0;2;105-1/115-1/211-1
+Echoes of the Force;Dark Neutral;Fate;;0;2;105-1/115-1/121-1/211-1
 Elite Pilot Training;Imperial Navy;Enhancement;Black Squadron;2;2;150-1
 Emergency Repair;Light Neutral;Event;;2;1;6-1
 Endor AT-ST;Imperial Navy;Unit;Vehicle/Walker;2;2;210-2
@@ -287,7 +310,7 @@ Overwhelming Firepower;Dark Neutral;Enhancement;Tactic;2;1;278-1
 Page's Commandos;Rebel Alliance;Unit;Character/Trooper;2;1;132-2
 Patrolling the Wastes;Scum and Villainy;Objective;Tatooine;;;284-1
 Pattern Analysis;Imperial Navy;Objective;Lothal;;;239-1
-Pay Out;Scum and Villainy;Event;Bounty;1;1;138-1
+Pay Out;Scum and Villainy;Event;Bounty;1;1;106-1/138-1
 Phantoms of Imdaar;Imperial Navy;Objective;Imdaar Alpha;;;182-1
 Phase I Dark Trooper;Imperial Navy;Unit;Droid/Trooper;2;1;288-2
 Political Reliability Observer;Dark Neutral;Unit;Character;2;1;105-1
@@ -297,7 +320,7 @@ Precision Flying;Dark Neutral;Enhancement;Skill;0;0;125-2
 Preparation and Planning;Dark Neutral;Fate;;0;2;235-1/249-1
 Prepared Ambush;Imperial Navy;Mission;Endor;;;187-1
 Prince Xizor;Scum and Villainy;Unit;Character/Black Sun;5;3;135-1
-Prized Possession;Dark Neutral;Enhancement;Tatooine/Item;1;0;84-1/134-1/240-1/269-1
+Prized Possession;Dark Neutral;Enhancement;Tatooine/Item;1;0;84-1/134-1/188-1/240-1/269-1
 Probe Droid;Dark Neutral;Unit;Droid;2;1;41-2
 Promotion;Imperial Navy;Enhancement;Condition;1;1;210-1
 Protect the Generator;Imperial Navy;Objective;Endor;;;210-1
@@ -363,7 +386,7 @@ Storm Commando;Imperial Navy;Unit;Character/Trooper;2;1;194-1
 Stormtrooper Assault Team;Imperial Navy;Unit;Character/Trooper;2;1;178-1
 Superior Numbers;Imperial Navy;Objective;;;;125-1
 Support of the Fleet;Imperial Navy;Objective;Outer Rim;;;288-1
-Supporting Fire;Dark Neutral;Fate;;0;1;95-1/96-1/164-1
+Supporting Fire;Dark Neutral;Fate;;0;1;95-1/96-1/155-1/164-1
 Swindled;Smugglers and Spies;Event;;1;1;15-1
 T-7 Ion Disruptor;Imperial Navy;Enhancement;Weapon;1;0;239-1
 Tactical Planning;Imperial Navy;Fate;;0;3;244-2
@@ -439,4 +462,4 @@ Yoda;Jedi;Unit;Character/Force User;3;5;2-1
 You're My Only Hope;Rebel Alliance;Event;;0;2;10-1
 Ysanne Isard;Sith;Unit;Character/Officer;4;3;139-1
 Zekka Thyne;Scum and Villainy;Unit;Character/Black Sun;4;1;136-1
-Zuckuss;Scum and Villainy;Unit;Character/Bounty Hunter/Force Sensitive;3;3;222-1
+Zuckuss (Out of the Mists);Scum and Villainy;Unit;Character/Bounty Hunter/Force Sensitive;3;3;222-1
