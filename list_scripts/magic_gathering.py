@@ -33,6 +33,16 @@ class Deck:
         self.deck_name = deck_name
         self.deck_cards = deck_cards
         self.deck_date = deck_date
+    def __str__(self):
+        """
+        String representation
+        """
+        return f"Deck Name: {self.deck_name} - {self.deck_cards}"
+    def __eq__(self, value) -> bool:
+        """
+        Determines if two decks match
+        """
+        return self.deck_cards == value.deck_cards
 
 def fix_card_name(in_card_name, correction_dict):
     """
@@ -54,10 +64,9 @@ def read_decks(deck_format, correction_dict):
                 deck_date = None
                 deck_name = deck_file.replace('.txt', '')
                 this_deck = {}
-                deck_fh = open(DECK_DIR + '/' + deck_format + '/' + comm_color + "/" + \
-                        deck_file, 'r', encoding='UTF-8')
-                deck_lines = deck_fh.readlines()
-                deck_fh.close()
+                deck_filename = DECK_DIR + '/' + deck_format + '/' + comm_color + "/" + deck_file
+                with open(deck_filename, 'r', encoding='UTF-8') as deck_fh:
+                    deck_lines = deck_fh.readlines()
                 deck_lines = [line.strip() for line in deck_lines]
                 for deck_line in deck_lines:
                     if deck_line == '':
@@ -85,9 +94,9 @@ def read_decks(deck_format, correction_dict):
         for deck_file in os.listdir(DECK_DIR + '/' + deck_format):
             deck_name = deck_file.replace('.txt', '')
             this_deck = {}
-            deck_fh = open(DECK_DIR + '/' + deck_format + '/' + deck_file, 'r', encoding='UTF-8')
-            deck_lines = deck_fh.readlines()
-            deck_fh.close()
+            deck_filename = DECK_DIR + '/' + deck_format + '/' + deck_file
+            with open(deck_filename, 'r', encoding='UTF-8') as deck_fh:
+                deck_lines = deck_fh.readlines()
             deck_lines = [line.strip() for line in deck_lines]
             for deck_line in deck_lines:
                 if deck_line.startswith('//') or deck_line == '':

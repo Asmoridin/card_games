@@ -17,11 +17,10 @@ FILE_PREFIX = "card_games/Star Wars LCG"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "Star Wars LCG"
 
-
-file_h = open(FILE_PREFIX + '/Data/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8")
 DECK_DIR = FILE_PREFIX + "/Decks"
 OUT_FILE_NAME = FILE_PREFIX + "/Star Wars LCG.txt"
 CARDS_FILENAME = FILE_PREFIX + '/Data/Star Wars LCG Cards.txt'
+USED_TRAIT_FILENAME = FILE_PREFIX + '/Data/Star Wars LCG Used Traits.txt'
 
 CYCLES = ['01 - Core Set', '02 - Hoth Cycle', '03 - Echoes of the Force Cycle',
     '04 - Rogue Squadron Cycle', '05 - Endor Cycle', '06 - Opposition Cycle',
@@ -29,12 +28,18 @@ CYCLES = ['01 - Core Set', '02 - Hoth Cycle', '03 - Echoes of the Force Cycle',
 
 VALID_AFFILIATIONS = ['Imperial Navy', 'Sith', 'Rebel Alliance', 'Jedi', 'Dark Neutral',
     'Smugglers and Spies', 'Light Neutral', 'Scum and Villainy', ]
+SIDE_MAPPING = {}
+for push_affil in VALID_AFFILIATIONS:
+    if push_affil in ['Imperial Navy', 'Sith', 'Dark Neutral', 'Scum and Villainy']:
+        SIDE_MAPPING[push_affil] = "DS"
+    else:
+        SIDE_MAPPING[push_affil] = "LS"
 
 CARD_TYPES = ['Unit', 'Objective', 'Event', 'Enhancement', 'Fate', 'Mission']
 
 # Read in objective data
-obj_lines = file_h.readlines()
-file_h.close()
+with open(FILE_PREFIX + '/Data/Star Wars LCG Objectives.txt', 'r', encoding="UTF-8") as obj_file:
+    obj_lines = obj_file.readlines()
 obj_lines = [line.strip() for line in obj_lines]
 objectives = {}
 obj_count = {}
@@ -58,7 +63,7 @@ for obj_line in obj_lines:
 # Read in the cards
 objective_num_to_name = {}
 card_lines = []
-cards_with_trait = {}
+cards_with_trait = {"DS":{}, "LS":{}}
 with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
     for card_line in card_fh:
         if card_line.startswith('#'):
@@ -78,9 +83,9 @@ with open(CARDS_FILENAME, 'r', encoding="UTF-8") as card_fh:
             continue
         if card_traits != '':
             for trait in card_traits.split('/'):
-                if trait not in cards_with_trait:
-                    cards_with_trait[trait] = 0
-                cards_with_trait[trait] += 1
+                if trait not in cards_with_trait[SIDE_MAPPING[card_affil]]:
+                    cards_with_trait[SIDE_MAPPING[card_affil]][trait] = 0
+                cards_with_trait[SIDE_MAPPING[card_affil]][trait] += 1
         if card_type == 'Objective':
             this_obj_set = obj_sets.split('-')[0]
             objective_num_to_name[this_obj_set] = card_name
@@ -94,8 +99,26 @@ for card_item in card_lines:
         obj_quant = int(obj_quant)
         max_obj = objectives[objective_num_to_name[obj_num]][2]
         TOTAL_OWN += (max_obj * obj_quant)
-print(cards_with_trait)
 TOTAL_MAX = TOTAL_OWN
+
+with open(USED_TRAIT_FILENAME, 'r', encoding="UTF-8") as used_traits:
+    trait_lines = used_traits.readlines()
+    for trait_line in trait_lines:
+        if trait_line.startswith('#'):
+            continue
+        trait_name, trait_side = trait_line.strip().split(';')
+        if trait_side not in ['DS', 'LS', 'Both']:
+            print(f"Invalid Used Trait side of {trait_side}")
+        if trait_side in ['DS', 'Both']:
+            if trait_name not in cards_with_trait['DS']:
+                print(f"Trait {trait_name} doesn't seem to be a valid DS trait")
+            else:
+                del cards_with_trait['DS'][trait_name]
+        if trait_side in ['LS', 'Both']:
+            if trait_name not in cards_with_trait['LS']:
+                print(f"Trait {trait_name} doesn't seem to be a valid LS trait")
+            else:
+                del cards_with_trait['LS'][trait_name]
 
 def get_index(in_deck):
     """
@@ -211,9 +234,8 @@ for side in os.listdir(DECK_DIR):
         era_dir = DECK_DIR + "/" + side + "/" + deck_era
         for deck_filename in os.listdir(era_dir):
             MAX_INDEX = 0
-            deck_fh = open(era_dir + "/" + deck_filename, 'r', encoding="UTF-8")
-            deck_lines = deck_fh.readlines()
-            deck_fh.close()
+            with open(era_dir + "/" + deck_filename, 'r', encoding="UTF-8") as deck_fh:
+                deck_lines = deck_fh.readlines()
             deck_lines = [line.strip() for line in deck_lines]
             this_deck = read_deck(deck_lines, side + "/" + deck_era + "/" + deck_filename)
             side_decks.append(this_deck)
@@ -228,6 +250,19 @@ if __name__ == "__main__":
     out_fh = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
     double_print(f"The Star Wars LCG has {len(card_lines)} distinct cards", out_fh)
     double_print(f"A full collection has {TOTAL_OWN} cards.\n", out_fh)
+
+    double_print("Top 10 unused traits by side:", out_fh)
+    double_print("Dark Side:", out_fh)
+    unused_traits = cards_with_trait['DS'].items()
+    unused_traits = sorted(unused_traits, reverse = True, key=lambda x:(x[1], x[0]))
+    for unused_trait in unused_traits[:10]:
+        double_print(f" - {unused_trait[0]}: {unused_trait[1]}", out_fh)
+
+    double_print("Light Side:", out_fh)
+    unused_traits = cards_with_trait['LS'].items()
+    unused_traits = sorted(unused_traits, reverse = True, key=lambda x:(x[1], x[0]))
+    for unused_trait in unused_traits[:10]:
+        double_print(f" - {unused_trait[0]}: {unused_trait[1]}", out_fh)
 
     PRINTED_HEADER = False
     for obj_set_name, obj_set_amount in sorted(obj_count.items()):
