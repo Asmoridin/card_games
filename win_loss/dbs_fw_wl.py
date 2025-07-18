@@ -28,6 +28,7 @@ source_data_lines = source_data_file.readlines()
 source_data_file.close()
 source_data_lines = [line.strip() for line in source_data_lines]
 leader_games_map = {} # Total number of games I've seen the leader
+leader_color_map = {}
 for line in source_data_lines:
     if line.startswith('#') or line.strip() == '':
         continue
@@ -38,6 +39,7 @@ for line in source_data_lines:
         for color in line.split(';')[3].split('/'):
             colors.append(color)
         leader_games_map[f"{leader_name} ({leader_num})"] = 0
+        leader_color_map[f"{leader_name} ({leader_num})"] = colors
 
 my_leader_wl = {}
 my_opp_wl = {}
@@ -51,40 +53,40 @@ for line in data_lines:
         continue
     my_leader, card_number, opp_leader, opp_leader_card_num, opponent, w_l = line.split(';')
 
-    my_leader = f"{my_leader} ({card_number})"
-    opp_leader = f"{opp_leader} ({opp_leader_card_num})"
-    if my_leader not in leader_games_map:
-        double_print(f"Invalid leader: {my_leader}", out_file_h)
-    if opp_leader not in leader_games_map:
-        double_print(f"Invalid leader: {opp_leader}", out_file_h)
+    MY_LEADER_STR = f"{my_leader} ({card_number})"
+    OPP_LEADER_STR = f"{opp_leader} ({opp_leader_card_num})"
+    if MY_LEADER_STR not in leader_games_map:
+        double_print(f"Invalid leader: {MY_LEADER_STR}", out_file_h)
+    if OPP_LEADER_STR not in leader_games_map:
+        double_print(f"Invalid leader: {OPP_LEADER_STR}", out_file_h)
 
-    leader_games_map[my_leader] += 1
-    leader_games_map[opp_leader] += 1
+    leader_games_map[MY_LEADER_STR] += 1
+    leader_games_map[OPP_LEADER_STR] += 1
 
     if w_l not in ['W', 'L']:
         double_print(f"Invalid W/L: {w_l}", out_file_h)
 
-    if my_leader not in my_leader_wl:
-        my_leader_wl[my_leader] = [0, 0]
+    if MY_LEADER_STR not in my_leader_wl:
+        my_leader_wl[MY_LEADER_STR] = [0, 0]
     if opponent not in my_opp_wl:
         my_opp_wl[opponent] = [0, 0]
-    if opp_leader not in my_opp_leader_wl:
-        my_opp_leader_wl[opp_leader] = [0, 0]
+    if OPP_LEADER_STR not in my_opp_leader_wl:
+        my_opp_leader_wl[OPP_LEADER_STR] = [0, 0]
 
     if w_l == 'W':
-        my_leader_wl[my_leader][0] += 1
+        my_leader_wl[MY_LEADER_STR][0] += 1
         my_opp_wl[opponent][0] += 1
         total_wl[0] += 1
-        my_opp_leader_wl[opp_leader][0] += 1
+        my_opp_leader_wl[OPP_LEADER_STR][0] += 1
     if w_l == 'L':
-        my_leader_wl[my_leader][1] += 1
+        my_leader_wl[MY_LEADER_STR][1] += 1
         my_opp_wl[opponent][1] += 1
         total_wl[1] += 1
-        my_opp_leader_wl[opp_leader][1] += 1
+        my_opp_leader_wl[OPP_LEADER_STR][1] += 1
 
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}\n", out_file_h)
-ldr_sum= f"My record by leader: (I have played {len(my_leader_wl)} out of {len(leader_games_map)})"
-double_print(ldr_sum, out_file_h)
+LDR_SUM= f"My record by leader: (I have played {len(my_leader_wl)} out of {len(leader_games_map)})"
+double_print(LDR_SUM, out_file_h)
 for leader in sorted(my_leader_wl):
     double_print(f"{leader}: {my_leader_wl[leader][0]}-{my_leader_wl[leader][1]}", out_file_h)
 
@@ -122,9 +124,12 @@ for leader in leader_games_map:
     else:
         playable_leader_list.append((leader, sum(my_leader_wl[leader])))
 playable_leader_list = sorted(playable_leader_list, key=lambda x:(x[1], x[0]))
-least_leader = playable_leader_list[0][0]
-least_leader_games = playable_leader_list[0][1]
+printed_colors = set()
 
-sugg_string = f"\nI should play more games with {least_leader}, as I only have " + \
-    f"{least_leader_games} game{('', 's')[least_leader_games != 1]}"
-double_print(sugg_string, out_file_h)
+double_print("\nLeast played leaders by color:", out_file_h)
+for check_leader in playable_leader_list:
+    this_ldr_color = leader_color_map[check_leader[0]]
+    if set(this_ldr_color).intersection(printed_colors) == set([]):
+        color_str = f"- {check_leader[0]}: {check_leader[1]} games ({'/'.join(this_ldr_color)})"
+        double_print(color_str, out_file_h)
+        printed_colors = printed_colors.union(set(this_ldr_color))
