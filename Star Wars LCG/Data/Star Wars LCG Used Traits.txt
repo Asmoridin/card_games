@@ -2,6 +2,8 @@
 # Affiliation: Dark Masters: Extra Refresh, 5 IN, 5 Sith/DN
 # Affiliation: Imperial Contractors: Reserve 7, Needs 6 SV, 6 IN/DN
 # Affiliation: Promise of Power: Extra Refresh, Needs 5 SV, 5 Sith/DN
+# Affiliation: Expendable Allies: 2 resources, needs 5 Sith, 5 SV/DN
+# Affiliation: Galactic Enforcers: Reserve 6, needs 6 Sith, 6 IN/SV
 Black Squadron;DS
 Black Sun;DS
 Bounty Hunter;DS
@@ -13,8 +15,8 @@ Droid;Both
 Endor;DS
 Ewok;LS
 Fighter;Both
-Force Sensitive;LS
-Force User;LS
+Force Sensitive;Both
+Force User;Both
 Hoth;DS
 Mercenary;DS
 Night;DS
@@ -26,3 +28,4 @@ Trooper;DS
 Vehicle;Both
 Walker;DS
 Wookiee;LS
+Sithspawn;DS

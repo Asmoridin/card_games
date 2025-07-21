@@ -1,0 +1,375 @@
+body {
+	font-size: 14pt;
+	line-height: 145%;
+	font-family: 'PT Sans', sans-serif;
+}
+
+#main_body {
+	margin-left: 266px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 30px;
+	text-rendering: auto;
+}
+
+li {
+	margin-bottom: .66em;
+	line-height: 130%;
+}
+
+ul {
+	margin: 1em 1em;
+}
+
+.section {
+	overflow: hidden;
+}
+
+.section>*:not(.section):not(.sidebar) {
+	width: 57%;
+}
+
+.quote {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1.25em;
+}
+
+.attribution {
+	text-align: right;
+}
+
+.card {
+	max-width: 350px;
+	margin-bottom: 15px;
+}
+
+.diagram {
+	max-width: 700px;
+	margin-bottom: 15px;
+	width: 100% !important;
+}
+
+.spaceline {
+	width: 100% !important;
+	margin-bottom: 15px;
+}
+
+.sidebar {
+	border-radius: 6px 6px 6px 6px;
+	padding: 7px;
+	margin: 0 15px 15px 15px;
+	clear: right;
+	float: right;
+	width: 33%;
+}
+
+.sidebar_body>.sidebar {
+	margin: 15px 5%;
+	/* override */
+	clear: both;
+	/* override */
+	float: none;
+	/* override */
+	width: 90%;
+	/* override */
+	border: 1px solid black;
+	/* new */
+}
+
+.inline {
+	border-radius: 6px 6px 6px 6px;
+	float: none !important;
+	width: 50% !important;
+	clear: left !important;
+	margin: 2% !important;
+}
+
+.sidebar_body {
+	display: none;
+	padding-top: 0.75em;
+}
+
+.sidebar_head {
+	line-height: 200%;
+	font-style: italic;
+	/*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+}
+
+.sidebar_type {
+	font-style: none;
+	font-weight: bold;
+	font-size: 100%;
+	/*text-transform: uppercase;*/
+}
+
+.sidebar-table {
+	margin: 1rem;
+}
+
+.sidebar-table td {
+	border: 1px solid black;
+	padding: .15rem;
+	word-break: break-all;
+}
+
+.sidebar-table img {
+	max-width: none;
+}
+
+.tip {
+	background-color: #90EE90;
+}
+
+.borgrule {
+	background-color: silver;
+}
+
+.clarifications {
+	background-color: khaki;
+}
+
+.tradrules {
+	background-color: skyblue;
+}
+
+.exception {
+	background-color: lightcoral;
+}
+
+.exception .sidebar_body {
+	display: block;
+}
+
+.icon {
+	height: 1em;
+	vertical-align: inherit;
+}
+
+.streamlined,
+.streamlinedPlus {
+	display: none;
+}
+
+.borgonly {
+	display: none;
+}
+
+.advanced {
+	display: none;
+}
+
+/*.tocify-extend-page {
+         height: 150px !important;
+         }*/
+.tocify {
+	width: 260px;
+}
+
+.gameterm {
+	font-weight: bold;
+	color: #333333;
+}
+
+.gameterm:hover {
+	/*	color:#333333;*/
+	text-decoration: none;
+}
+
+.printOnly {
+	display: none;
+}
+
+.sectionNumber {
+	position: relative;
+	font-size: .85rem;
+	color: gray;
+	left: 0.5rem;
+}
+
+/* Crossover styling for the compendium. */
+.rulebookLink .sectionNumber {
+	left: 0rem;
+	font-size: 75%;
+	color: black;
+}
+
+.legend {
+	column-count: 3;
+}
+
+.legend p {
+	margin-block-start: 0;
+}
+
+.legend .gameterm {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 900px) {
+	.legend {
+		column-count: 2;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.legend {
+		column-count: 1;
+	}
+}
+
+/* Print layout */
+@media print {
+	a[href]:after {
+		content: none !important;
+	}
+
+	a {
+		color: #0088cc !important;
+	}
+
+	img {
+		page-break-before: avoid;
+		page-break-after: avoid;
+	}
+
+	body {
+		font-size: 11pt;
+		line-height: 115%;
+		font-family: 'PT Sans', sans-serif;
+	}
+
+	#main_body {
+		margin-left: 0;
+		width: 98%;
+	}
+
+	.section>*:not(.section):not(.sidebar) {
+		width: 98%;
+	}
+
+	.section h1 {
+		page-break-before: always;
+	}
+
+	.showNormal {
+		display: none;
+	}
+
+	.printOnly {
+		display: block;
+	}
+
+	#toc {
+		display: none;
+	}
+
+	.sidebar {
+		border-radius: 6px 6px 6px 6px;
+		float: none !important;
+		width: 95% !important;
+		clear: left !important;
+		margin: 3px !important;
+		page-break-inside: avoid;
+	}
+
+	.sidebar_body {
+		display: block !important;
+	}
+
+	.card {
+		width: 33% !important;
+		max-height: 400px;
+		max-width: 287px !important;
+	}
+
+	.diagram {
+		width: 52% !important;
+	}
+
+	.tip {
+		background-color: #90EE90 !important;
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	.borgrule {
+		background-color: silver !important;
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	.clarifications {
+		background-color: khaki !important;
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	.tradrules {
+		background-color: skyblue !important;
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	.exception {
+		background-color: lightcoral !important;
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	.quote {
+		line-height: 1.25em;
+		font-family: 'PT Sans', sans-serif;
+		font-size: 1.3em;
+		font-weight: 600;
+		letter-spacing: 0.04rem;
+	}
+
+	.proofNote {
+		page-break-before: always;
+		background-color: #FFC0CB !important;
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		margin-top: 5px;
+		text-rendering: auto;
+	}
+
+	h1 {
+		font-size: 30.5px;
+	}
+
+	h2 {
+		font-size: 21.5px;
+	}
+
+	h3 {
+		font-size: 16.5px;
+	}
+
+	h4 {
+		font-size: 14.5px;
+	}
+
+	h5 {
+		font-size: 14px;
+	}
+
+	.legend {
+		column-count: 1;
+	}
+}
