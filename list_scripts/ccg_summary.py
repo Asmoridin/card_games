@@ -10,7 +10,6 @@ import sys
 
 from steve_utils.output_utils import double_print
 
-from card_games.list_scripts import anachronism
 from card_games.list_scripts import wyvern
 from card_games.list_scripts import lorcana
 from card_games.list_scripts import one_piece
@@ -31,6 +30,7 @@ from card_games.list_scripts import star_wars_ccg
 modules = [
     ("card_games/Legend of the Five Rings/l5r.py", "l5r"),
     ("card_games/Star Wars LCG/star_wars_lcg.py", "star_wars_lcg"),
+    ("card_games/Anachronism/anachronism.py", "anachronism"),
 ]
 
 added_modules = []
@@ -54,7 +54,7 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited,
+started_games = [daemon_dice, dragon_dice, star_wars_unlimited,
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
     lorcana, one_piece, magic_gathering, star_trek_first_edition, wars_tcg, xena,
     star_wars_ccg]

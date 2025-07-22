@@ -19,13 +19,15 @@ valid_nations = ['Mongol', 'Carthaginian', 'Greek', 'Roman', 'Tribes of Israel',
 ]
 valid_types = ['Armor', 'Weapon', 'Warrior', 'Inspiration', 'Special']
 
-if os.getcwd().endswith('card_games'):
-    file_h = open('DB/AnachronismData.txt', 'r', encoding="UTF-8")
-else:
-    file_h = open('card_games/DB/AnachronismData.txt', 'r', encoding="UTF-8")
+FILE_PREFIX = "card_games/Anachronism"
 
-lines = file_h.readlines()
-file_h.close()
+if os.getcwd().endswith('card_games'):
+    FILE_PREFIX = "Anachronism"
+
+OUT_FILE_NAME = FILE_PREFIX + "/AnachronismOut.txt"
+
+with open(FILE_PREFIX + '/Data/AnachronismData.txt', 'r', encoding="UTF-8") as file_h:
+    lines = file_h.readlines()
 lines = [line.strip() for line in lines]
 
 item_list = []
@@ -62,10 +64,7 @@ _, filtered_list = sort_and_filter(filtered_list, 0)
 picked_item = filtered_list[0]
 
 if __name__=="__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/AnachronismOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/AnachronismOut.txt", 'w', encoding="UTF-8")
+    out_file_h = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
 
     double_print("Anachronism card game Inventory Tracker Tool\n", out_file_h)
 

@@ -242,7 +242,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             if this_set in mtg_sets.PREMODERN_SETS:
                 ret_sets.append(this_set)
                 ret_rarities.add(this_set_rarity)
-                ret_formats['Premodern'] = 4               
+                ret_formats['Premodern'] = 4
             # Handle Ice Age Block
             if this_set in ['Ice Age', 'Coldsnap', 'Alliances']:
                 ret_formats['Ice Age Block'] = 4
@@ -475,19 +475,34 @@ card_names = set()
 creature_types = {}
 PLANESWALKER_COUNT = 0
 planeswalkers = {}
+FIRST_MANA_NEEDED_CARD = ''
 
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
-    try:
-        card_name, card_type, card_colors, card_sets, card_qty = line.split(';')
-    except ValueError:
-        print("Error in line:")
-        print(line)
-        continue
+    if line.count(';') == 4:
+        try:
+            card_name, card_type, card_colors, card_sets, card_qty = line.split(';')
+            CARD_MANA_VALUE = 'X'
+            if FIRST_MANA_NEEDED_CARD == '':
+                FIRST_MANA_NEEDED_CARD = card_name
+        except ValueError:
+            print("Error in line:")
+            print(line)
+            continue
+    else:
+        try:
+            card_name, card_type, card_colors, CARD_MANA_VALUE, card_sets, card_qty = \
+                line.split(';')
+        except ValueError:
+            print("Error in line:")
+            print(line)
+            continue
     if card_name in card_names:
         print(f"Duplicate: {card_name}")
     card_names.add(card_name)
+    if CARD_MANA_VALUE != '' and CARD_MANA_VALUE != "X":
+        CARD_MANA_VALUE = int(CARD_MANA_VALUE)
     try:
         card_qty = int(card_qty)
     except ValueError:
@@ -735,5 +750,7 @@ if __name__ == "__main__":
         double_print(f"{print_format[0]}: {100 * print_format[1]/print_format[2]:.2f}", out_file_h)
 
     print(f"\nShould be {CHECK_AMOUNT} for {CHECK_SET}: {SET_CHECK}")
+
+    double_print(f"\nFirst card needing a mana value is {FIRST_MANA_NEEDED_CARD}", out_file_h)
 
     out_file_h.close()
