@@ -76,7 +76,7 @@ def read_decks(deck_format, correction_dict):
                         try:
                             deck_date = datetime.datetime.strptime(date_str, "%m/%d/%y")
                         except ValueError:
-                            print(f"Invalid date found in {comm_color + "/" + deck_file}")
+                            print(f"Invalid date found in {comm_color + '/' + deck_file}")
                             print(f"Invalid date of [{date_str}]")
                             raise
                         continue

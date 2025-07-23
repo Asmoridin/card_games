@@ -218,7 +218,7 @@ def read_deck(in_deck_lines, deck_name):
             print(f"Unhandled line in deck {deck_name}:")
             print(this_deck_line)
     if ret_deck['Affiliation'] == "":
-        no_affil_str = f"List {side + "/" + deck_era + "/" + deck_filename} has no Affiliation"
+        no_affil_str = f"List {side + '/' + deck_era + '/' + deck_filename} has no Affiliation"
         print(no_affil_str)
     return ret_deck
 
