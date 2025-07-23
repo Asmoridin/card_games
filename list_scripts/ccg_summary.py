@@ -15,7 +15,6 @@ from card_games.list_scripts import lorcana
 from card_games.list_scripts import one_piece
 from card_games.list_scripts import grand_archive
 from card_games.list_scripts import dbs_fusion_world
-from card_games.list_scripts import city_of_heroes
 from card_games.list_scripts import daemon_dice
 from card_games.list_scripts import dragon_dice
 from card_games.list_scripts import star_trek_second_edition
@@ -28,9 +27,10 @@ from card_games.list_scripts import xena
 from card_games.list_scripts import star_wars_ccg
 
 modules = [
-    ("card_games/Legend of the Five Rings/l5r.py", "l5r"),
-    ("card_games/Star Wars LCG/star_wars_lcg.py", "star_wars_lcg"),
+    ("card_games/Legend_of_the_Five_Rings/l5r.py", "l5r"),
+    ("card_games/Star_Wars_LCG/star_wars_lcg.py", "star_wars_lcg"),
     ("card_games/Anachronism/anachronism.py", "anachronism"),
+    ("card_games/City_of_Heroes/city_of_heroes.py", "city_of_heroes"),
 ]
 
 added_modules = []
@@ -55,7 +55,7 @@ else:
 #print("\033[96mTest.\033[0m")
 
 started_games = [daemon_dice, dragon_dice, star_wars_unlimited,
-    star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
+    star_trek_second_edition, tribbles, wyvern, dbs_fusion_world, grand_archive,
     lorcana, one_piece, magic_gathering, star_trek_first_edition, wars_tcg, xena,
     star_wars_ccg]
 started_games.extend(added_modules)
