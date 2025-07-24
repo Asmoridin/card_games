@@ -85,12 +85,13 @@ def get_missing(in_decks, in_card_own_dict):
             temp_deck.deck_color))
     return return_list
 
+FILE_PREFIX = "card_games/DBS_Fusion_World"
+
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/DBS Fusion World'
-else:
-    file_h = open('card_games/DB/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/DBS Fusion World'
+    FILE_PREFIX = "DBS_Fusion_World"
+
+file_h = open(FILE_PREFIX + '/Data/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + '/Decks'
 
 lines = file_h.readlines()
 file_h.close()
@@ -196,10 +197,7 @@ for subtype, subtype_count in sub_type_map.items():
         singleton_traits.append(subtype)
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/DBSCGFusionWorld.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/DBSCGFusionWorld.txt", 'w', encoding="UTF-8")
+    out_file_h = open(FILE_PREFIX + "/DBSCGFusionWorld.txt", 'w', encoding="UTF-8")
 
     double_print("DBS: Fusion World Inventory Tracker and buy suggestion tool\n", out_file_h)
 
