@@ -21,7 +21,6 @@ from card_games.list_scripts import star_trek_second_edition
 from card_games.list_scripts import star_trek_first_edition
 from card_games.list_scripts import star_wars_unlimited
 from card_games.list_scripts import tribbles
-from card_games.list_scripts import magic_gathering
 from card_games.list_scripts import wars_tcg
 from card_games.list_scripts import xena
 from card_games.list_scripts import star_wars_ccg
@@ -31,6 +30,7 @@ modules = [
     ("card_games/Star_Wars_LCG/star_wars_lcg.py", "star_wars_lcg"),
     ("card_games/Anachronism/anachronism.py", "anachronism"),
     ("card_games/City_of_Heroes/city_of_heroes.py", "city_of_heroes"),
+    ("card_games/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
 ]
 
 added_modules = []
@@ -56,7 +56,7 @@ else:
 
 started_games = [daemon_dice, dragon_dice, star_wars_unlimited,
     star_trek_second_edition, tribbles, wyvern, dbs_fusion_world, grand_archive,
-    lorcana, one_piece, magic_gathering, star_trek_first_edition, wars_tcg, xena,
+    lorcana, one_piece, star_trek_first_edition, wars_tcg, xena,
     star_wars_ccg]
 started_games.extend(added_modules)
 

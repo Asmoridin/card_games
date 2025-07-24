@@ -10,15 +10,17 @@ import re
 
 from steve_utils.output_utils import double_print
 from steve_utils.sort_and_filter import sort_and_filter
-from card_games.Libraries import mtg_sets
+from card_games.Magic_the_Gathering.Libraries import mtg_sets
 
 GAME_NAME = "Magic: The Gathering"
 
-file_h = open('card_games/DB/MTGCardData.txt', 'r', encoding="UTF-8")
-restr_file_h = open('card_games/DB/MTGRestrictions.txt', 'r', encoding="UTF-8")
-commander_cat_fh = open('card_games/DB/MTGCommanderCategories.txt', 'r', encoding="UTF-8")
-card_corrections_fh = open('card_games/DB/MTG Card Corrections.txt', 'r', encoding="UTF-8")
-DECK_DIR = "card_games/Decks/MTG"
+FILE_PREFIX = "card_games/Magic_the_Gathering"
+
+file_h = open(FILE_PREFIX + '/Data/MTGCardData.txt', 'r', encoding="UTF-8")
+restr_file_h = open(FILE_PREFIX + '/Data/MTGRestrictions.txt', 'r', encoding="UTF-8")
+commander_cat_fh = open(FILE_PREFIX + '/Data/MTGCommanderCategories.txt', 'r', encoding="UTF-8")
+card_corrections_fh = open(FILE_PREFIX + '/Data/MTG Card Corrections.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + "/Decks"
 
 raw_list = [] # Will hold the full list of cards
 
@@ -87,7 +89,7 @@ def read_decks(deck_format, correction_dict):
                         this_deck[deck_card_name] = 0
                     this_deck[deck_card_name] += deck_card_qty
                 if deck_date is None:
-                    print(f"Invalid date found in {comm_color + "/" + deck_file}")
+                    print(f"Invalid date found in {comm_color + '/' + deck_file}")
                     raise ValueError
                 ret_list.append(Deck(comm_color + "/" + deck_name, this_deck, deck_date))
     elif deck_format in os.listdir(DECK_DIR):
@@ -572,10 +574,7 @@ for card in raw_list:
             print(card)
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/MTGOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/MTGOut.txt", 'w', encoding="UTF-8")
+    out_file_h = open(FILE_PREFIX + "/MTGOut.txt", 'w', encoding="UTF-8")
 
     double_print("Magic: The Gathering Collection Tracker\n", out_file_h)
 

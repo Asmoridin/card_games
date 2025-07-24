@@ -101,10 +101,7 @@ pick_name, filtered_list = sort_and_filter(filtered_list, 0)
 picked_item = filtered_list[0]
 
 if __name__=="__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/CityOfHeroesOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/CityOfHeroesOut.txt", 'w', encoding="UTF-8")
+    out_file_h = open(FILE_PREFIX + "/CityOfHeroesOut.txt", 'w', encoding="UTF-8")
 
     double_print("City of Heroes CCG Inventory Tracker Tool\n", out_file_h)
 
