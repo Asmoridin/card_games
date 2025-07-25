@@ -12,9 +12,9 @@ from steve_utils.sort_and_filter import sort_and_filter
 GAME_NAME = "Daemon Dice"
 
 if os.getcwd().endswith('card_games'):
-    file_h = open('Data/DaemonDiceData.txt', 'r', encoding="UTF-8")
+    file_h = open('DaemonDiceData.txt', 'r', encoding="UTF-8")
 else:
-    file_h = open('card_games/Daemon_Dice/Data/DaemonDiceData.txt', 'r', encoding="UTF-8")
+    file_h = open('card_games/D/Daemon_Dice/Data/DaemonDiceData.txt', 'r', encoding="UTF-8")
 
 lines = file_h.readlines()
 file_h.close()
@@ -49,7 +49,7 @@ if __name__=="__main__":
     if os.getcwd().endswith('card_games'):
         out_file_h = open("Daemon_Dice/DaemonDiceOut.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("card_games/Daemon_Dice/DaemonDiceOut.txt", 'w', encoding="UTF-8")
+        out_file_h = open("card_games/D/Daemon_Dice/DaemonDiceOut.txt", 'w', encoding="UTF-8")
 
     double_print("Daemon Dice Inventory Tracker Tool\n", out_file_h)
 

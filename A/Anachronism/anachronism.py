@@ -19,10 +19,10 @@ valid_nations = ['Mongol', 'Carthaginian', 'Greek', 'Roman', 'Tribes of Israel',
 ]
 valid_types = ['Armor', 'Weapon', 'Warrior', 'Inspiration', 'Special']
 
-FILE_PREFIX = "card_games/Anachronism"
+FILE_PREFIX = "card_games/A/Anachronism"
 
 if os.getcwd().endswith('card_games'):
-    FILE_PREFIX = "Anachronism"
+    FILE_PREFIX = "A/Anachronism"
 
 OUT_FILE_NAME = FILE_PREFIX + "/AnachronismOut.txt"
 

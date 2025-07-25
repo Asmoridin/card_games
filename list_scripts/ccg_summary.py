@@ -14,7 +14,6 @@ from card_games.list_scripts import wyvern
 from card_games.list_scripts import lorcana
 from card_games.list_scripts import one_piece
 from card_games.list_scripts import grand_archive
-from card_games.list_scripts import dragon_dice
 from card_games.list_scripts import star_trek_second_edition
 from card_games.list_scripts import star_trek_first_edition
 from card_games.list_scripts import star_wars_unlimited
@@ -24,10 +23,11 @@ from card_games.list_scripts import xena
 from card_games.list_scripts import star_wars_ccg
 
 modules = [
-    ("card_games/Anachronism/anachronism.py", "anachronism"),
+    ("card_games/A/Anachronism/anachronism.py", "anachronism"),
     ("card_games/City_of_Heroes/city_of_heroes.py", "city_of_heroes"),
-    ("card_games/Daemon_Dice/daemon_dice.py", "daemon_dice"),
-    ("card_games/DBS_Fusion_World/dbs_fusion_world.py", "dbs_fusion_world"),
+    ("card_games/D/Daemon_Dice/daemon_dice.py", "daemon_dice"),
+    ("card_games/D/Dragon_Dice/dragon_dice.py", "dragon_dice"),
+    ("card_games/D/DBS_Fusion_World/dbs_fusion_world.py", "dbs_fusion_world"),
     ("card_games/Legend_of_the_Five_Rings/l5r.py", "l5r"),
     ("card_games/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
     ("card_games/Star_Wars_LCG/star_wars_lcg.py", "star_wars_lcg"),
@@ -54,7 +54,7 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [dragon_dice, star_wars_unlimited,
+started_games = [star_wars_unlimited,
     star_trek_second_edition, tribbles, wyvern, grand_archive,
     lorcana, one_piece, star_trek_first_edition, wars_tcg, xena,
     star_wars_ccg]

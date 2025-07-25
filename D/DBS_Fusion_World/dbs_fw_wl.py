@@ -9,14 +9,14 @@ import os
 from steve_utils.output_utils import double_print
 from steve_utils.get_h_index import get_h_index
 
+FILE_PREFIX = "card_games/D/DBS_Fusion_World"
+
 if os.getcwd().endswith('card_games'):
-    out_file_h = open("wl_output/DBSFWOut.txt", 'w', encoding="UTF-8")
-    in_file = open('wl_data/DBSFW-Results.txt', 'r', encoding="UTF-8")
-    source_data_file = open('DB/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
-else:
-    out_file_h = open("card_games/wl_output/DBSFWOut.txt", 'w', encoding="UTF-8")
-    in_file = open('card_games/wl_data/DBSFW-Results.txt', 'r', encoding="UTF-8")
-    source_data_file = open('card_games/DB/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "D/DBS_Fusion_World"
+
+out_file_h = open(FILE_PREFIX + "/DBSFWOut.txt", 'w', encoding="UTF-8")
+in_file = open(FILE_PREFIX + '/Data/DBSFW-Results.txt', 'r', encoding="UTF-8")
+source_data_file = open(FILE_PREFIX + '/Data/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
 
 double_print("DBS: Fusion World Win-Loss Tracker and deck selector\n", out_file_h)
 

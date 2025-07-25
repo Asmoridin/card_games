@@ -36,10 +36,11 @@ def get_meta_type(in_type):
     print("Unhandled meta type: " + in_type)
     return 'Unhandled'
 
+FILE_PREFIX = "card_games/D/Dragon_Dice"
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/DragonDiceCollection.txt', 'r', encoding="UTF-8")
-else:
-    file_h = open('card_games/DB/DragonDiceCollection.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "D/Dragon_Dice"
+
+file_h = open(FILE_PREFIX + '/Data/DragonDiceCollection.txt', 'r', encoding="UTF-8")
 
 lines = file_h.readlines()
 file_h.close()
@@ -121,10 +122,7 @@ _, filtered_list = sort_and_filter(filtered_list, 0)
 picked_item = filtered_list[0]
 
 if __name__=="__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/DragonDiceOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/DragonDiceOut.txt", 'w', encoding="UTF-8")
+    out_file_h = open(FILE_PREFIX + "/DragonDiceOut.txt", 'w', encoding="UTF-8")
 
     double_print("Dragon Dice Inventory Tracker Tool\n", out_file_h)
 

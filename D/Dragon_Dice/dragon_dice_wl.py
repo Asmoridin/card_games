@@ -8,14 +8,15 @@ import os
 
 from steve_utils.output_utils import double_print
 from steve_utils.get_h_index import get_h_index
-from card_games.list_scripts import dragon_dice
+from card_games.D.Dragon_Dice import dragon_dice
 
+FILE_PREFIX = "card_games/D/Dragon_Dice"
 if os.getcwd().endswith('card_games'):
-    out_file_h = open("wl_output/DragonDiceWLOut.txt", 'w', encoding="UTF-8")
-    in_file = open('wl_data/DragonDiceResults.txt', 'r', encoding="UTF-8")
-else:
-    out_file_h = open("card_games/wl_output/DragonDiceWLOut.txt", 'w', encoding="UTF-8")
-    in_file = open('card_games/wl_data/DragonDiceResults.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "D/Dragon_Dice"
+
+out_file_h = open(FILE_PREFIX + "/DragonDiceWLOut.txt", 'w', encoding="UTF-8")
+in_file = open(FILE_PREFIX + '/Data/DragonDiceResults.txt', 'r', encoding="UTF-8")
+
 
 double_print("Dragon Dice Win-Loss Tracker and army selector\n", out_file_h)
 all_armies = dragon_dice.army_factions

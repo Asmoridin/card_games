@@ -85,10 +85,10 @@ def get_missing(in_decks, in_card_own_dict):
             temp_deck.deck_color))
     return return_list
 
-FILE_PREFIX = "card_games/DBS_Fusion_World"
+FILE_PREFIX = "card_games/D/DBS_Fusion_World"
 
 if os.getcwd().endswith('card_games'):
-    FILE_PREFIX = "DBS_Fusion_World"
+    FILE_PREFIX = "D/DBS_Fusion_World"
 
 file_h = open(FILE_PREFIX + '/Data/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
 DECK_DIR = FILE_PREFIX + '/Decks'
