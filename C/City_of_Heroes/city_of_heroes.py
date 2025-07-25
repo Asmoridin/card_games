@@ -11,10 +11,10 @@ from steve_utils.sort_and_filter import sort_and_filter
 
 GAME_NAME = "City of Heroes"
 
-FILE_PREFIX = "card_games/City_of_Heroes"
+FILE_PREFIX = "card_games/C/City_of_Heroes"
 
 if os.getcwd().endswith('card_games'):
-    FILE_PREFIX = "City_of_Heroes"
+    FILE_PREFIX = "C/City_of_Heroes"
 
 file_h = open(FILE_PREFIX + '/Data/CityOfHeroesData.txt', 'r', encoding="UTF-8")
 

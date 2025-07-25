@@ -13,10 +13,10 @@ from steve_utils.check_inventory import check_inventory
 
 GAME_NAME = "Legend of the Five Rings"
 
-FILE_PREFIX = "card_games/Legend_of_the_Five_Rings"
+FILE_PREFIX = "card_games/L/Legend_of_the_Five_Rings"
 
 if os.getcwd().endswith('card_games'):
-    FILE_PREFIX = "Legend_of_the_Five_Rings"
+    FILE_PREFIX = "L/Legend_of_the_Five_Rings"
 
 with open(FILE_PREFIX + '/Data/L5RData.txt', 'r', encoding="UTF-8") as in_file:
     in_lines = in_file.readlines()
