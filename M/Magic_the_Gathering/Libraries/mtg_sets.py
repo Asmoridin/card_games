@@ -81,12 +81,10 @@ PREMODERN_SETS = [
 ]
 
 # Standard legal sets are legal in all other formats, mostly.
-STANDARD_SETS = ["Dominaria United", "The Brothers' War", "Phyrexia: All Will Be One",
-    "March of the Machine", "March of the Machine: The Aftermath", "Wilds of Eldraine",
-    "The Lost Caverns of Ixalan", "Murders at Karlov Manor", "Outlaws of Thunder Junction",
-    "Outlaws of Thunder Junction: The Big Score", "Bloomburrow", "Duskmourn: House of Horror",
-    "Magic: The Gathering Foundations", "Aetherdrift", "Tarkir: Dragonstorm",
-    "Magic: The Gathering—FINAL FANTASY"]
+STANDARD_SETS = ["Wilds of Eldraine", "The Lost Caverns of Ixalan", "Murders at Karlov Manor",
+    "Outlaws of Thunder Junction", "Outlaws of Thunder Junction: The Big Score", "Bloomburrow",
+    "Duskmourn: House of Horror", "Magic: The Gathering Foundations", "Aetherdrift",
+    "Tarkir: Dragonstorm", "Magic: The Gathering—FINAL FANTASY", "Edge of Eternities"]
 
 # These sets are legal in Pioneer, Modern, and older formats
 PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 Core Set", "Theros",
@@ -99,7 +97,8 @@ PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 C
     "Ikoria: Lair of Behemoths", "Core Set 2021", "Zendikar Rising", "Kaldheim",
     "Strixhaven: School of Mages", "Adventures in the Forgotten Realms",
     "Innistrad: Midnight Hunt", "Innistrad: Crimson Vow", "Kamigawa: Neon Dynasty",
-    "Streets of New Capenna"]
+    "Streets of New Capenna", "Dominaria United", "The Brothers' War", "Phyrexia: All Will Be One",
+    "March of the Machine", "March of the Machine: The Aftermath",]
 
 # These are legal in Modern and older formats
 MODERN_SETS  = ["Eighth Edition", "Mirrodin", "Darksteel", "Fifth Dawn", "Champions of Kamigawa",

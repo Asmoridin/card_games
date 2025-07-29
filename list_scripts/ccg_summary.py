@@ -29,7 +29,7 @@ modules = [
     ("card_games/G/Grand_Archive/grand_archive.py", "grand_archive"),
     ("card_games/L/Legend_of_the_Five_Rings/l5r.py", "l5r"),
     ("card_games/L/Lorcana/lorcana.py", "lorcana"),
-    ("card_games/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
+    ("card_games/M/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
     ("card_games/Star_Wars_LCG/star_wars_lcg.py", "star_wars_lcg"),
 ]
 
@@ -45,12 +45,11 @@ for file_path, module_name in modules:
     else:
         print(f"Could not find module at {file_path}")
 
+FILE_PREFIX = "card_games/General"
 if os.getcwd().endswith('card_games'):
-    in_file = open("DB/NewCardGames.txt", encoding="UTF-8")
-    mag_file = open("DB/Magazines.txt", encoding="UTF-8")
-else:
-    in_file = open("card_games/DB/NewCardGames.txt", encoding="UTF-8")
-    mag_file = open("card_games/DB/Magazines.txt", encoding="UTF-8")
+    FILE_PREFIX = "General"
+in_file = open(FILE_PREFIX + "/Data/NewCardGames.txt", encoding="UTF-8")
+mag_file = open(FILE_PREFIX + "/Data/Magazines.txt", encoding="UTF-8")
 
 #print("\033[96mTest.\033[0m")
 

@@ -7,15 +7,15 @@ List wins and losses for Marvel Champions, and give recommendations for what to 
 import os
 import random
 from steve_utils.output_utils import double_print
-from card_games.Libraries import marvel_champions_encounters as ChampEncounters
-from card_games.Libraries import marvel_champions_heroes as ChampHeroes
+from card_games.M.Marvel_Champions.Libraries import marvel_champions_encounters as ChampEncounters
+from card_games.M.Marvel_Champions.Libraries import marvel_champions_heroes as ChampHeroes
 
+FILE_PREFIX = "card_games/M/Marvel_Champions"
 if os.getcwd().endswith('card_games'):
-    file_h = open('wl_data/ChampionsPlayedHeroes.txt', 'r', encoding="UTF-8")
-    enc_file_h = open('wl_data/ChampionsPlayedEncounters.txt', 'r', encoding="UTF-8")
-else:
-    file_h = open('card_games/wl_data/ChampionsPlayedHeroes.txt', 'r', encoding="UTF-8")
-    enc_file_h = open('card_games/wl_data/ChampionsPlayedEncounters.txt', 'r', encoding="UTF-8")
+    FILE_PREIFIX = "M/Marvel_Champions"
+
+file_h = open(FILE_PREFIX + '/Data/ChampionsPlayedHeroes.txt', 'r', encoding="UTF-8")
+enc_file_h = open(FILE_PREFIX + '/Data/ChampionsPlayedEncounters.txt', 'r', encoding="UTF-8")
 
 TOTAL_HERO_CHOICES = len(ChampHeroes.hero_combinations)
 
@@ -197,10 +197,9 @@ for line in encounter_lines:
     enc_played_map[enc_map_key] = (int(encounter_line[3]), int(encounter_line[4]))
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("wl_output/MarvelChampionsOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/wl_output/MarvelChampionsOut.txt", 'w', encoding="UTF-8")
+    OUT_FILENAME = FILE_PREFIX + "/MarvelChampionsOut.txt"
+    out_file_h = open(OUT_FILENAME, 'w', encoding="UTF-8")
+
     double_print("Generating a game", out_file_h)
     SUMM_STR = f"There are {TOTAL_HERO_CHOICES} different Hero/Aspect combinations, and " + \
         f"{determine_combinations()} different game pairings"

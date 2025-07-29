@@ -10,11 +10,11 @@ import re
 
 from steve_utils.output_utils import double_print
 from steve_utils.sort_and_filter import sort_and_filter
-from card_games.Magic_the_Gathering.Libraries import mtg_sets
+from card_games.M.Magic_the_Gathering.Libraries import mtg_sets
 
 GAME_NAME = "Magic: The Gathering"
 
-FILE_PREFIX = "card_games/Magic_the_Gathering"
+FILE_PREFIX = "card_games/M/Magic_the_Gathering"
 
 file_h = open(FILE_PREFIX + '/Data/MTGCardData.txt', 'r', encoding="UTF-8")
 restr_file_h = open(FILE_PREFIX + '/Data/MTGRestrictions.txt', 'r', encoding="UTF-8")
