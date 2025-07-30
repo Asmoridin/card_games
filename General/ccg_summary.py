@@ -8,15 +8,7 @@ import os
 import importlib.util
 import sys
 
-from steve_utils.output_utils import double_print
-
-from card_games.list_scripts import wyvern
-from card_games.list_scripts import star_trek_second_edition
-from card_games.list_scripts import star_trek_first_edition
-from card_games.list_scripts import star_wars_unlimited
-from card_games.list_scripts import tribbles
-from card_games.list_scripts import wars_tcg
-from card_games.list_scripts import star_wars_ccg
+from card_games.General.Libraries.output_utils import double_print
 
 modules = [
     ("card_games/A/Anachronism/anachronism.py", "anachronism"),
@@ -29,7 +21,14 @@ modules = [
     ("card_games/L/Lorcana/lorcana.py", "lorcana"),
     ("card_games/M/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
     ("card_games/O/One_Piece_TCG/one_piece_tcg.py", "one_piece_tcg"),
+    ("card_games/S/Star_Trek_1E/star_trek_first_edition.py", "star_trek_first_edition"),
+    ("card_games/S/Star_Trek_2E/star_trek_second_edition.py", "star_trek_second_edition"),
+    ("card_games/S/Star_Wars_CCG/star_wars_ccg.py", "star_wars_ccg"),
     ("card_games/S/Star_Wars_LCG/star_wars_lcg.py", "star_wars_lcg"),
+    ("card_games/S/Star_Wars_Unlimited/star_wars_unlimited.py", "star_wars_unlimited"),
+    ("card_games/T/Tribbles/tribbles.py", "tribbles"),
+    ("card_games/W/Wars_TCG/wars_tcg.py", "wars_tcg"),
+    ("card_games/W/Wyvern/wyvern.py", "wyvern"),
     ("card_games/X/Xena_Warrior_Princess/xena.py", "xena"),
 ]
 
@@ -53,10 +52,7 @@ mag_file = open(FILE_PREFIX + "/Data/Magazines.txt", encoding="UTF-8")
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [star_wars_unlimited,
-    star_trek_second_edition, tribbles, wyvern,
-    star_trek_first_edition, wars_tcg,
-    star_wars_ccg]
+started_games = []
 started_games.extend(added_modules)
 
 TOTAL_HAVE = 0
@@ -98,9 +94,9 @@ largest_collection = sorted(game_data, key=lambda x:x[1], reverse = True)
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/CCGSummaryOut.txt", 'w', encoding="UTF-8")
+        out_file_h = open("General/CCGSummaryOut.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("card_games/output/CCGSummaryOut.txt", 'w', encoding="UTF-8")
+        out_file_h = open("card_games/General/CCGSummaryOut.txt", 'w', encoding="UTF-8")
     total_percentage = TOTAL_HAVE * 100 /TOTAL_MAX
     total_string = f"Totaling {len(game_data) - 1} games, owning {TOTAL_HAVE} out of " + \
         f"{TOTAL_MAX} cards/dice ({total_percentage:.2f} percent)"

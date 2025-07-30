@@ -5,15 +5,15 @@ Collection manager/tracker for the Tribbles card game
 """
 
 import os
-from steve_utils.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Tribbles"
 
+FILE_PREFIX = "card_games/T/Tribbles"
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/TribblesData.txt', 'r', encoding="UTF-8")
-else:
-    file_h = open('card_games/DB/TribblesData.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "T/Tribbles"
+file_h = open(FILE_PREFIX + '/Data/TribblesData.txt', 'r', encoding="UTF-8")
 
 lines = file_h.readlines()
 file_h.close()
@@ -50,10 +50,8 @@ chosen_power, filtered_list = sort_and_filter(card_lines, 1)
 chosen_qty, filtered_list = sort_and_filter(filtered_list, 0)
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/TribblesOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/TribblesOut.txt", 'w', encoding="UTF-8")
+    OUT_FILENAME = FILE_PREFIX + "/TribblesOut.txt"
+    out_file_h = open(OUT_FILENAME, 'w', encoding="UTF-8")
 
     double_print("Tribbles Inventory Tracker\n", out_file_h)
 

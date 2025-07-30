@@ -20,12 +20,11 @@ VALID_CARD_TYPES = ['Personnel', 'Ship', 'Dilemma', 'Equipment', 'Event', 'Inter
 VALID_AFFILIATIONS = ['Federation', 'Vidiian', 'Non-Aligned', 'Klingon', 'Romulan', 'Starfleet',
     'Dominion', 'Ferengi', 'Bajoran', 'Cardassian', 'Borg', ]
 
+FILE_PREFIX = "card_games/S/Star_Trek_2E"
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/StarTrek2EData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/ST2E'
-else:
-    file_h = open('card_games/DB/StarTrek2EData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/ST2E'
+    FILE_PREFIX = "S/Star_Trek_2E"
+file_h = open(FILE_PREFIX + '/Data/StarTrek2EData.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + '/Decks'
 
 lines = file_h.readlines()
 file_h.close()
@@ -161,10 +160,8 @@ chosen_card, filtered_lines = sort_and_filter(filtered_lines, 5)
 final_card = filtered_lines[0]
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/ST2EOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/ST2EOut.txt", 'w', encoding="UTF-8")
+    OUT_FILENAME = FILE_PREFIX + "/ST2EOut.txt"
+    out_file_h = open(OUT_FILENAME, 'w', encoding="UTF-8")
 
     double_print("Star Trek 2E CCG Inventory Tracker\n", out_file_h)
 

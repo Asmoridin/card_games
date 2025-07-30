@@ -7,8 +7,8 @@ Collection tracker/purchase recommender for the Star Wars Unlimited card game.
 import json
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Star Wars: Unlimited"
 
@@ -114,12 +114,12 @@ def determine_missing(deck_dict, collection_dict_in):
             ret_dict[card] = deck_card_qty - collection_dict_in[card]
     return ret_dict
 
+FILE_PREFIX = "card_games/S/Star_Wars_Unlimited"
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/Star Wars Unlimited'
-else:
-    file_h = open('card_games/DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/Star Wars Unlimited'
+    FILE_PREFIX = "S/Star_Wars_Unlimited"
+
+file_h = open(FILE_PREFIX + '/Data/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + '/Decks'
 
 lines = file_h.readlines()
 file_h.close()
@@ -276,10 +276,8 @@ hyper_card, hyper_f_list = sort_and_filter(hyper_f_list, 0)
 hyper_item = hyper_f_list[0]
 
 if __name__=="__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/StarWarsUnlimited.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/StarWarsUnlimited.txt", 'w', encoding="UTF-8")
+    OUT_FILENAME = FILE_PREFIX + "/StarWarsUnlimited.txt"
+    out_file_h = open(OUT_FILENAME, 'w', encoding="UTF-8")
 
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)

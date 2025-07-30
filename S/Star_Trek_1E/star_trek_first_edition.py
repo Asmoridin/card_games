@@ -10,10 +10,12 @@ from steve_utils.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Star Trek: First Edition"
 
+FILE_PREFIX = "card_games/S/Star_Trek_1E"
+
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/StarTrek1EData.txt', 'r', encoding="UTF-8")
-else:
-    file_h = open('card_games/DB/StarTrek1EData.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "S/Star_Trek_1E"
+
+file_h = open(FILE_PREFIX + '/Data/StarTrek1EData.txt', 'r', encoding="UTF-8")
 
 PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Deep Space 9',
     'Mirror, Mirror', 'First Contact', 'The Trouble with Tribbles', 'All Good Things', 'The Borg',
@@ -131,10 +133,8 @@ print_choice, filtered_lines = sort_and_filter(card_lines, 6)
 #print(filtered_lines)
 
 if __name__=="__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/ST1EOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/ST1EOut.txt", 'w', encoding="UTF-8")
+    OUT_FILENAME = FILE_PREFIX + "/ST1EOut.txt"
+    out_file_h = open(OUT_FILENAME, 'w', encoding="UTF-8")
 
     double_print("Star Trek 1st Edition CCG Inventory Tracker Tool\n", out_file_h)
     double_print(f"I own {TOTAL_OWN} out of {TOTAL_MAX} total cards - " + \

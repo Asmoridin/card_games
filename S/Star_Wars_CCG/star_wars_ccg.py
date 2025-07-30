@@ -7,19 +7,18 @@ Inventory tracker and purchase selector for the Star Wars CCG
 import os
 import re
 
-from steve_utils.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Star Wars CCG"
 
+FILE_PREFIX = "card_games/S/Star_Wars_CCG"
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/StarWarsCCGData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = "Decks/Star Wars CCG"
-    OUT_FILE_NAME = "output/StarWarsCCGOut.txt"
-else:
-    file_h = open('card_games/DB/StarWarsCCGData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = "card_games/Decks/Star Wars CCG"
-    OUT_FILE_NAME = "card_games/output/StarWarsCCGOut.txt"
+    FILE_PREFIX = "S/Star_Wars_CCG"
+
+file_h = open(FILE_PREFIX + '/Data/StarWarsCCGData.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + "/Decks"
+OUT_FILE_NAME = FILE_PREFIX + "/StarWarsCCGOut.txt"
 
 VALID_CARD_TYPES = ['Character', 'Location', 'Device', 'Effect', 'Interrupt', 'Starship',
     'Vehicle', 'Weapon', 'Creature', 'Epic Event', 'Jedi Test', 'Objective', "Admiral's Order",

@@ -134,6 +134,8 @@ for line in lines:
 
 deck_tuples = [] # (DeckFile, cards_needed, cards)
 for deck_colors in os.listdir(DECK_DIR):
+    if deck_colors.startswith('OP'):
+        continue
     for file_name in os.listdir(DECK_DIR + "/" + deck_colors):
         CARDS_NEEDED = 0
         THIS_LEADER = ()

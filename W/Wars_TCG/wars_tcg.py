@@ -5,9 +5,9 @@ Inventory manager and collection suggestor for the WARS TCG
 """
 
 import os
-from steve_utils.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
-from steve_utils.check_inventory import check_inventory
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.check_inventory import check_inventory
 
 GAME_NAME = "WARS TCG"
 
@@ -16,12 +16,12 @@ VALID_CARD_TYPES = ['Ship', 'Interrupt', 'Character', 'Asset', 'Location', 'Orde
     'Vehicle', 'Nobot']
 VALID_AFFILIATIONS = ['Maverick', 'Quay', 'Earther', 'Independent', 'Shi', 'Gongen', ]
 
+FILE_PREFIX = "card_games/W/Wars_TCG"
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/WARSTCGData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/WARS TCG'
-else:
-    file_h = open('card_games/DB/WARSTCGData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/WARS TCG'
+    FILE_PREFIX = "W/Wars_TCG"
+
+file_h = open(FILE_PREFIX + '/Data/WARSTCGData.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + '/Decks/'
 
 lines = file_h.readlines()
 file_h.close()
@@ -123,10 +123,8 @@ chosen_card, filtered_lines = sort_and_filter(filtered_lines, 0)
 final_card = filtered_lines[0]
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/WARSTCGOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/WARSTCGOut.txt", 'w', encoding="UTF-8")
+    OUT_FILE_NAME = FILE_PREFIX + "/WarsTCGOut.txt"
+    out_file_h = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
 
     double_print("WARS TCG Inventory Tracker\n", out_file_h)
 
