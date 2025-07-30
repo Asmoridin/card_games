@@ -6,17 +6,17 @@ Win-Loss tracker and Leader suggestion too for 7th Sea: City of Five Sails
 
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.get_h_index import get_h_index
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.get_h_index import get_h_index
+
+FILE_PREFIX = "card_games/0/7th_Sea_City_of_Five_Sails"
 
 if os.getcwd().endswith('card_games'):
-    out_file_h = open("wl_output/7thSeaCo5SOut.txt", 'w', encoding="UTF-8")
-    in_file = open('wl_data/7thSeaCo5SWL.txt', 'r', encoding="UTF-8")
-    ldr_data_file = open('wl_data/7thSeaCo5SLeaders.txt', 'r', encoding="UTF-8")
-else:
-    out_file_h = open("card_games/wl_output/7thSeaCo5SOut.txt", 'w', encoding="UTF-8")
-    in_file = open('card_games/wl_data/7thSeaCo5SWL.txt', 'r', encoding="UTF-8")
-    ldr_data_file = open('card_games/wl_data/7thSeaCo5SLeaders.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "0/7th_Sea_City_of_Five_Sails"
+
+out_file_h = open(FILE_PREFIX + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8")
+in_file = open(FILE_PREFIX + '/Data/7thSeaCo5SWL.txt', 'r', encoding="UTF-8")
+ldr_data_file = open(FILE_PREFIX + '/Data/7thSeaCo5SLeaders.txt', 'r', encoding="UTF-8")
 
 VALID_FACTIONS = ['Castille', 'Eisen', 'Montaigne', 'Ussura', 'Vodacce']
 

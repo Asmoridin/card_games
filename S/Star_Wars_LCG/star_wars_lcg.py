@@ -12,10 +12,10 @@ from steve_utils.output_utils import double_print
 
 GAME_NAME = "Star Wars LCG"
 
-FILE_PREFIX = "card_games/Star_Wars_LCG"
+FILE_PREFIX = "card_games/S/Star_Wars_LCG"
 
 if os.getcwd().endswith('card_games'):
-    FILE_PREFIX = "Star_Wars_LCG"
+    FILE_PREFIX = "S/Star_Wars_LCG"
 
 DECK_DIR = FILE_PREFIX + "/Decks"
 OUT_FILE_NAME = FILE_PREFIX + "/Star Wars LCG.txt"

@@ -11,13 +11,11 @@ import sys
 from steve_utils.output_utils import double_print
 
 from card_games.list_scripts import wyvern
-from card_games.list_scripts import one_piece
 from card_games.list_scripts import star_trek_second_edition
 from card_games.list_scripts import star_trek_first_edition
 from card_games.list_scripts import star_wars_unlimited
 from card_games.list_scripts import tribbles
 from card_games.list_scripts import wars_tcg
-from card_games.list_scripts import xena
 from card_games.list_scripts import star_wars_ccg
 
 modules = [
@@ -30,7 +28,9 @@ modules = [
     ("card_games/L/Legend_of_the_Five_Rings/l5r.py", "l5r"),
     ("card_games/L/Lorcana/lorcana.py", "lorcana"),
     ("card_games/M/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
-    ("card_games/Star_Wars_LCG/star_wars_lcg.py", "star_wars_lcg"),
+    ("card_games/O/One_Piece_TCG/one_piece_tcg.py", "one_piece_tcg"),
+    ("card_games/S/Star_Wars_LCG/star_wars_lcg.py", "star_wars_lcg"),
+    ("card_games/X/Xena_Warrior_Princess/xena.py", "xena"),
 ]
 
 added_modules = []
@@ -55,7 +55,7 @@ mag_file = open(FILE_PREFIX + "/Data/Magazines.txt", encoding="UTF-8")
 
 started_games = [star_wars_unlimited,
     star_trek_second_edition, tribbles, wyvern,
-    one_piece, star_trek_first_edition, wars_tcg, xena,
+    star_trek_first_edition, wars_tcg,
     star_wars_ccg]
 started_games.extend(added_modules)
 

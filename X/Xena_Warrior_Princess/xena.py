@@ -15,12 +15,13 @@ CARD_SETS = ['Xena: Warrior Princess', 'Battle Cry']
 VALID_CARD_TYPES = ['Character', 'Action', 'Combat', 'Resource']
 VALID_COLORS = ['Blue', 'Green', 'Red']
 
+FILE_PREFIX = "card_games/X/Xena_Warrior_Princess"
+
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/XenaData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/Xena Warrior Princess'
-else:
-    file_h = open('card_games/DB/XenaData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/Xena Warrior Princess'
+    FILE_PREIX = "X/Xena_Warrior_Princess"
+
+file_h = open(FILE_PREFIX + '/Data/XenaData.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + '/Decks'
 
 lines = file_h.readlines()
 file_h.close()
@@ -128,10 +129,9 @@ chosen_card, filtered_lines = sort_and_filter(filtered_lines, 0)
 final_card = filtered_lines[0]
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/XenaOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/XenaOut.txt", 'w', encoding="UTF-8")
+    OUT_FILE_NAME = FILE_PREFIX + "/XenaOut.txt"
+
+    out_file_h = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
 
     double_print("Xena TCG Inventory Tracker\n", out_file_h)
 

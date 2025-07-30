@@ -6,8 +6,8 @@ Collection tracker and purchase suggestion tool for the Anachronism card game
 
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Anachronism"
 

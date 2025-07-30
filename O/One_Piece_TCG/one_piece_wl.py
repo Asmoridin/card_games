@@ -9,14 +9,14 @@ import os
 from steve_utils.output_utils import double_print
 from steve_utils.get_h_index import get_h_index
 
+FILE_PREFIX = "card_games/O/One_Piece_TCG"
+
 if os.getcwd().endswith('card_games'):
-    out_file_h = open("wl_output/OnePieceWLOut.txt", 'w', encoding="UTF-8")
-    in_file = open('wl_data/OnePieceResults.txt', 'r', encoding="UTF-8")
-    source_data_file = open('DB/OnePieceData.txt', 'r', encoding="UTF-8")
-else:
-    out_file_h = open("card_games/wl_output/OnePieceWLOut.txt", 'w', encoding="UTF-8")
-    in_file = open('card_games/wl_data/OnePieceResults.txt', 'r', encoding="UTF-8")
-    source_data_file = open('card_games/DB/OnePieceData.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "O/One_Piece_TCG"
+
+out_file_h = open(FILE_PREFIX + "/OnePieceWLOut.txt", 'w', encoding="UTF-8")
+in_file = open(FILE_PREFIX + '/Data/OnePieceResults.txt', 'r', encoding="UTF-8")
+source_data_file = open(FILE_PREFIX + '/Data/OnePieceData.txt', 'r', encoding="UTF-8")
 
 double_print("One Piece Win-Loss Tracker and deck selector\n", out_file_h)
 

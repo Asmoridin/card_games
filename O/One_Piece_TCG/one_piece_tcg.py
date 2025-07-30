@@ -24,12 +24,13 @@ def validate_colors(in_colors):
             ret_colors.append(ALL_COLORS[color])
     return ret_colors
 
+FILE_PREFIX = "card_games/O/One_Piece_TCG"
+
 if os.getcwd().endswith('card_games'):
-    file_h = open('DB/OnePieceData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'Decks/OnePieceTCG'
-else:
-    file_h = open('card_games/DB/OnePieceData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/Decks/OnePieceTCG'
+    FILE_PREFIX = "O/One_Piece_TCG"
+
+file_h = open(FILE_PREFIX + '/Data/OnePieceData.txt', 'r', encoding="UTF-8")
+DECK_DIR = FILE_PREFIX + '/Decks'
 
 lines = file_h.readlines()
 file_h.close()
@@ -201,10 +202,8 @@ for subtype, subtype_count in sub_type_map.items():
         singleton_traits.append(subtype)
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('card_games'):
-        out_file_h = open("output/OnePieceOut.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("card_games/output/OnePieceOut.txt", 'w', encoding="UTF-8")
+    OUT_FILENAME = FILE_PREFIX + "/OnePieceOut.txt"
+    out_file_h = open(OUT_FILENAME, 'w', encoding="UTF-8")
 
     double_print("One Piece TCG Inventory Tracker, and purchase suggestion tool\n", out_file_h)
 
