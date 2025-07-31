@@ -6,15 +6,16 @@ Tracker and army suggestion tool for games of Ashes: Rise of the Phoenixborn
 
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.get_h_index import get_h_index
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.get_h_index import get_h_index
 
+FILE_PREFIX = "card_games/A/Ashes_Rise_of_the_Phoenixborn"
 if os.getcwd().endswith('card_games'):
-    out_file_h = open("wl_output/AshesOut.txt", 'w', encoding="UTF-8")
-    in_file = open('wl_data/AshesWL.txt', 'r', encoding="UTF-8")
-else:
-    out_file_h = open("card_games/wl_output/AshesOut.txt", 'w', encoding="UTF-8")
-    in_file = open('card_games/wl_data/AshesWL.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "A/Ashes_Rise_of_the_Phoenixborn"
+
+out_file_h = open(FILE_PREFIX + "/AshesOut.txt", 'w', encoding="UTF-8")
+in_file = open(FILE_PREFIX + '/Data/AshesWL.txt', 'r', encoding="UTF-8")
+
 
 all_phoenixborn = ['Aradel Summergaard', 'Astrea', 'Brennen Blackcloud', 'Coal Roarkwin',
     'Dimona Odinstar', 'Echo Greystorm', 'Fiona Mercywind', 'Harold Westraven', 'Hope Everthorn',

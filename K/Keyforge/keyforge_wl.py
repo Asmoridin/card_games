@@ -11,12 +11,12 @@ valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'St
 valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutation',
     'Dark Tidings', ] # Winds of someting
 
+FILE_PREFIX = "card_games/K/Keyforge"
 if os.getcwd().endswith('card_games'):
-    deck_info = open('wl_data/KeyForgeDecks.txt', 'r', encoding="UTF-8")
-    wl_info = open('wl_data/KeyForgeWLData.txt', 'r', encoding="UTF-8")
-else:
-    deck_info = open('card_games/wl_data/KeyForgeDecks.txt', 'r', encoding="UTF-8")
-    wl_info = open('card_games/wl_data/KeyForgeWLData.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "K/Keyforge"
+
+deck_info = open(FILE_PREFIX + '/Data/KeyForgeDecks.txt', 'r', encoding="UTF-8")
+wl_info = open(FILE_PREFIX + '/Data/KeyForgeWLData.txt', 'r', encoding="UTF-8")
 
 my_decks = []
 

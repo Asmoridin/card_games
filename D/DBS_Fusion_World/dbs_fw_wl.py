@@ -6,8 +6,8 @@ Tracker and army suggestion tool for games of DBS: Fusion World
 
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.get_h_index import get_h_index
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.get_h_index import get_h_index
 
 FILE_PREFIX = "card_games/D/DBS_Fusion_World"
 

@@ -7,7 +7,7 @@ Inventory tracker and purchase selector for the Legend of the Five Rings CCG
 import os
 import re
 
-from steve_utils.output_utils import double_print
+from card_games.General.Libraries.output_utils import double_print
 from steve_utils.sort_and_filter import sort_and_filter
 from steve_utils.check_inventory import check_inventory
 

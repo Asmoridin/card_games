@@ -8,7 +8,7 @@ of the larger CCG system.
 
 import os
 from itertools import combinations
-from steve_utils.output_utils import double_print
+from card_games.General.Libraries.output_utils import double_print
 
 GAME_NAME = "Star Wars LCG"
 

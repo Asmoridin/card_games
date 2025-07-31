@@ -6,17 +6,17 @@ Win-Loss tracker and ID suggestion tool for Android: Netrunner
 
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.get_h_index import get_h_index
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.get_h_index import get_h_index
 
+FILE_PREFIX = "card_games/A/Android_Netrunner"
 if os.getcwd().endswith('card_games'):
-    out_file_h = open("wl_output/NetrunnerOut.txt", 'w', encoding="UTF-8")
-    in_file = open('wl_data/AndroidNetrunnerWL.txt', 'r', encoding="UTF-8")
-    id_data_file = open('wl_data/NetrunnerIDs.txt', 'r', encoding="UTF-8")
-else:
-    out_file_h = open("card_games/wl_output/NetrunnerOut.txt", 'w', encoding="UTF-8")
-    in_file = open('card_games/wl_data/AndroidNetrunnerWL.txt', 'r', encoding="UTF-8")
-    id_data_file = open('card_games/wl_data/NetrunnerIDs.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "A/Android_Netrunner"
+
+out_file_h = open(FILE_PREFIX + "/NetrunnerOut.txt", 'w', encoding="UTF-8")
+in_file = open(FILE_PREFIX + '/Data/AndroidNetrunnerWL.txt', 'r', encoding="UTF-8")
+id_data_file = open(FILE_PREFIX + '/Data/NetrunnerIDs.txt', 'r', encoding="UTF-8")
+
 
 CURRENT_FORMAT = "Standard"
 
@@ -219,9 +219,9 @@ for faction, faction_plays in fac_play_sorter:
 corp_id_plays = []
 runner_id_plays = []
 for id_name, id_plays in filtered_id_plays:
-    if id_to_faction[id_name] == LOWEST_CORP[0]:
+    if LOWEST_CORP is not None and id_to_faction[id_name] == LOWEST_CORP[0]:
         corp_id_plays.append((id_name, id_plays))
-    if id_to_faction[id_name] in LOWEST_RUNNER[0]:
+    if LOWEST_RUNNER is not None and id_to_faction[id_name] in LOWEST_RUNNER[0]:
         runner_id_plays.append((id_name, id_plays))
 
 corp_id_plays = sorted(corp_id_plays, key=lambda x:(x[1], x[0]))

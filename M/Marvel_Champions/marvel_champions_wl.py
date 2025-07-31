@@ -6,7 +6,7 @@ List wins and losses for Marvel Champions, and give recommendations for what to 
 
 import os
 import random
-from steve_utils.output_utils import double_print
+from card_games.General.Libraries.output_utils import double_print
 from card_games.M.Marvel_Champions.Libraries import marvel_champions_encounters as ChampEncounters
 from card_games.M.Marvel_Champions.Libraries import marvel_champions_heroes as ChampHeroes
 

@@ -5,7 +5,7 @@ Inventory manager and collection suggestor for ST2E card game
 """
 
 import os
-from steve_utils.output_utils import double_print
+from card_games.General.Libraries.output_utils import double_print
 from steve_utils.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Star Trek: Second Edition"

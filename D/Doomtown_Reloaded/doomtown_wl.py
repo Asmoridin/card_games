@@ -6,17 +6,16 @@ Win-Loss tracker and OUTFIT suggestion tool for Doomtown: Reloaded
 
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.get_h_index import get_h_index
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.get_h_index import get_h_index
 
+FILE_PREFIX = "card_games/D/Doomtown_Reloaded"
 if os.getcwd().endswith('card_games'):
-    out_file_h = open("wl_output/DoomtownOut.txt", 'w', encoding="UTF-8")
-    in_file = open('wl_data/DoomtownData.txt', 'r', encoding="UTF-8")
-    outfit_data_file = open('wl_data/DoomtownOutfits.txt', 'r', encoding="UTF-8")
-else:
-    out_file_h = open("card_games/wl_output/DoomtownOut.txt", 'w', encoding="UTF-8")
-    in_file = open('card_games/wl_data/DoomtownData.txt', 'r', encoding="UTF-8")
-    outfit_data_file = open('card_games/wl_data/DoomtownOutfits.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = "D/Doomtown_Reloaded"
+
+out_file_h = open(FILE_PREFIX + "/DoomtownOut.txt", 'w', encoding="UTF-8")
+in_file = open(FILE_PREFIX + '/Data/DoomtownData.txt', 'r', encoding="UTF-8")
+outfit_data_file = open(FILE_PREFIX + '/Data/DoomtownOutfits.txt', 'r', encoding="UTF-8")
 
 CURRENT_FORMAT = "Weird West Edition"
 VALID_GANGS = ['Anarchists','Law Dogs','Entrepreneurs','Fearmongers','First Peoples','Outlaws']
