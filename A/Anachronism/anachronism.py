@@ -64,7 +64,6 @@ _, filtered_list = sort_and_filter(filtered_list, 0)
 picked_item = filtered_list[0]
 
 if __name__=="__main__":
-    out_file_h = open(OUT_FILE_NAME, 'w', encoding="UTF-8")
     with open(OUT_FILE_NAME, 'w', encoding="UTF-8") as out_file_h:
         double_print("Anachronism card game Inventory Tracker Tool\n", out_file_h)
 
