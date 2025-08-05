@@ -1,0 +1,48 @@
+name: Create Monthly Ticket
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on the 1st of every other month
+    # For example: January 1st, March 1st, May 1st, etc.
+    - cron: '0 0 1 */2 *' 
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write # Grant write permission to create issues
+    steps:
+      - name: Create new ticket
+        uses: JasonEtco/create-an-issue@v2 # Uses the action to create an issue
+        with:
+          # Customize the issue title
+          title: "Automated Ticket: Update MTG decks" 
+          # Customize the issue body
+          body: |
+            - [ ] Vintage
+            - [ ] Legacy
+            - [ ] Premodern
+            - [ ] Modern
+            - [ ] Pioneer
+            - [ ] Standard
+            - [ ] Pauper
+            - [ ] Oathbreaker
+            - [ ] Ice Age Block
+            - [ ] Mirage Block
+            - [ ] Tempest Block
+            - [ ] Urza\'s Block
+            - [ ] Masques Block
+            - [ ] Invasion Block
+            - [ ] Odyssey Block
+            - [ ] Onslaught Block
+            - [ ] Mirrodin Block
+            - [ ] Kamigawa Block
+            - [ ] Ravnica Block
+            - [ ] Pauper Commander
+            - [ ] Commander
+          # Add labels to the issue
+          labels: "MTG" 
+          # Assign the issue to a user
+          assignees: "Asmoridin" 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the automatically provided token

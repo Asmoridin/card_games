@@ -60,7 +60,7 @@ def read_decks(deck_format, correction_dict):
     """
     ret_list = []
     deck_format = deck_format.replace("'s", "")
-    if deck_format == 'Commander':
+    if deck_format in ['Commander', 'Oathbreaker']:
         for comm_color in os.listdir(DECK_DIR + '/' + deck_format):
             for deck_file in os.listdir(DECK_DIR + '/' + deck_format + "/" + comm_color):
                 deck_date = None
@@ -410,7 +410,7 @@ def process_formats(format_name, correction_dict):
 
     format_decks = read_decks(format_name, correction_dict)
     oldest_deck = (datetime.datetime.today(), '')
-    if format_name == "Commander":
+    if format_name in ["Commander", "Oathbreaker"]:
         for this_deck in format_decks:
             if this_deck.deck_date < oldest_deck[0]:
                 oldest_deck = (this_deck.deck_date, this_deck.deck_name)
@@ -709,7 +709,12 @@ if __name__ == "__main__":
     print_deck = comm_dict["OLDEST"]
     old_name = print_deck[1].replace('.txt','')
     updated = datetime.datetime.strftime(print_deck[0], "%m/%d/%Y")
-    double_print(f"Oldest Commander deck is {old_name}, last updated {updated}\n", out_file_h)
+    double_print(f"Oldest Commander deck is {old_name}, last updated {updated}", out_file_h)
+
+    print_deck = oath_dict["OLDEST"]
+    old_name = print_deck[1].replace('.txt','')
+    updated = datetime.datetime.strftime(print_deck[0], "%m/%d/%Y")
+    double_print(f"Oldest Oathbreaker deck is {old_name}, last updated {updated}\n", out_file_h)
 
     # Other
     del creature_types['Forest']
