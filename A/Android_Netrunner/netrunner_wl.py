@@ -132,10 +132,10 @@ double_print(f"Record as Runner: {runner_wl[0]}-{runner_wl[1]}", out_file_h)
 
 double_print("\nMy record by identity:", out_file_h)
 for faction, faction_ids in sorted(id_by_faction.items()):
-    faction_wl_str = f"{faction}:"
+    FACTION_WL_STR = f"{faction}:"
     if faction in faction_wl:
-        faction_wl_str = f"{faction}: {faction_wl[faction][0]}-{faction_wl[faction][1]}"
-    double_print(faction_wl_str, out_file_h)
+        FACTION_WL_STR = f"{faction}: {faction_wl[faction][0]}-{faction_wl[faction][1]}"
+    double_print(FACTION_WL_STR, out_file_h)
     for id_name in faction_ids:
         if id_name in id_wl:
             double_print(f" - {id_name}: {id_wl[id_name][0]}-{id_wl[id_name][1]}", out_file_h)
@@ -157,13 +157,13 @@ double_print(f"Runner H-Index is {get_h_index(runner_h_index)}", out_file_h)
 
 double_print("\nMy record against opponents:", out_file_h)
 for opponent, this_opp_wl in sorted(opp_wl.items()):
-    opp_wl_str = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
-    double_print(opp_wl_str, out_file_h)
+    OPP_WL_STR = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
+    double_print(OPP_WL_STR, out_file_h)
 
 double_print("\nMy record against opposing factions:", out_file_h)
 for opp_faction, fac_wl in sorted(opp_faction_wl.items()):
-    faction_wl_str = f"- {opp_faction}: {fac_wl[0]}-{fac_wl[1]}"
-    double_print(faction_wl_str, out_file_h)
+    FACTION_WL_STR = f"- {opp_faction}: {fac_wl[0]}-{fac_wl[1]}"
+    double_print(FACTION_WL_STR, out_file_h)
 
 # Least seen IDs
 LEAST_PLAYED_QTY = 100
