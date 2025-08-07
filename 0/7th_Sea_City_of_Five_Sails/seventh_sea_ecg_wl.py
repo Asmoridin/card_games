@@ -14,8 +14,6 @@ FILE_PREFIX = "card_games/0/7th_Sea_City_of_Five_Sails"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "0/7th_Sea_City_of_Five_Sails"
 
-out_file_h = open(FILE_PREFIX + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8")
-
 with open(FILE_PREFIX + '/Data/7thSeaCo5SWL.txt', 'r', encoding="UTF-8") as in_file:
     in_lines = in_file.readlines()
 in_lines = [line.strip() for line in in_lines]
@@ -25,8 +23,6 @@ with open(FILE_PREFIX + '/Data/7thSeaCo5SLeaders.txt', 'r', encoding="UTF-8") as
 ldr_lines = [line.strip() for line in ldr_lines]
 
 VALID_FACTIONS = ['Castille', 'Eisen', 'Montaigne', 'Ussura', 'Vodacce']
-
-double_print("7th Sea: City of Five Sails Win-Loss Tracker and leader selector", out_file_h)
 
 # Let's read the leaders, and parse the leader data
 ldrs_by_faction = {}
@@ -109,34 +105,6 @@ for line in in_lines:
         opp_wl[opp_name][1] += 1
         opp_faction_wl[opp_faction][1] += 1
 
-double_print(f"My current record (W-L) is {total_wl[0]}-{total_wl[1]}", out_file_h)
-
-double_print(f"\nMy record by leader: ({len(seen_total)} total leader in game)", out_file_h)
-ldr_play_tuples = []
-for faction, faction_ids in sorted(ldrs_by_faction.items()):
-    FACTION_WL_STR = f"{faction}:"
-    if faction in faction_wl:
-        FACTION_WL_STR = f"{faction}: {faction_wl[faction][0]}-{faction_wl[faction][1]}"
-    double_print(FACTION_WL_STR, out_file_h)
-    for ldr_name in faction_ids:
-        if ldr_name in ldr_wl:
-            ldr_play_tuples.append((ldr_name, sum(ldr_wl[ldr_name])))
-            OUT_STR = f" - {ldr_name}: {ldr_wl[ldr_name][0]}-{ldr_wl[ldr_name][1]}"
-            double_print(OUT_STR, out_file_h)
-
-ldr_play_tuples = sorted(ldr_play_tuples, key=lambda x: (-1 * x[1], x[0]))
-double_print(f"\nMy H-Index is {get_h_index(ldr_play_tuples)}", out_file_h)
-
-double_print("\nMy record against opponents:", out_file_h)
-for opponent, this_opp_wl in sorted(opp_wl.items()):
-    OPP_WL_STR = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
-    double_print(OPP_WL_STR, out_file_h)
-
-double_print("\nMy record against opposing factions:", out_file_h)
-for opp_faction, faction_wl in sorted(opp_faction_wl.items()):
-    FACTION_WL_STR = f"- {opp_faction}: {faction_wl[0]}-{faction_wl[1]}"
-    double_print(FACTION_WL_STR, out_file_h)
-
 # Least seen leader
 LEAST_PLAYED_QTY = 100
 least_played_ids = []
@@ -146,10 +114,6 @@ for ldr_name, id_played in seen_total.items():
         least_played_ids = [ldr_name]
     elif id_played == LEAST_PLAYED_QTY:
         least_played_ids.append(ldr_name)
-
-double_print("\nI've seen the following leaders on the table the least " + \
-        f"({LEAST_PLAYED_QTY} times)", out_file_h)
-double_print("; ".join(sorted(least_played_ids)), out_file_h)
 
 # Figure out least played relevant leader
 faction_plays = {}
@@ -177,4 +141,39 @@ low_ldr = relevant_ldr_plays[0]
 LOW_O_STR = f"\nI should play more games with {LOWEST_FLEET[0]}, where I only have " + \
     f"{int(LOWEST_FLEET[1])} games. Suggested leader - {low_ldr[0]} ({low_ldr[1]} " + \
     "total plays)"
-double_print(LOW_O_STR, out_file_h)
+
+with open(FILE_PREFIX + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8") as out_file_h:
+    double_print("7th Sea: City of Five Sails Win-Loss Tracker and leader selector", out_file_h)
+    double_print(f"My current record (W-L) is {total_wl[0]}-{total_wl[1]}", out_file_h)
+    double_print(f"\nMy record by leader: ({len(seen_total)} total leader in game)", out_file_h)
+    ldr_play_tuples = []
+    for faction, faction_ids in sorted(ldrs_by_faction.items()):
+        FACTION_WL_STR = f"{faction}:"
+        if faction in faction_wl:
+            FACTION_WL_STR = f"{faction}: {faction_wl[faction][0]}-{faction_wl[faction][1]}"
+        double_print(FACTION_WL_STR, out_file_h)
+        for ldr_name in faction_ids:
+            if ldr_name in ldr_wl:
+                ldr_play_tuples.append((ldr_name, sum(ldr_wl[ldr_name])))
+                OUT_STR = f" - {ldr_name}: {ldr_wl[ldr_name][0]}-{ldr_wl[ldr_name][1]}"
+                double_print(OUT_STR, out_file_h)
+
+    ldr_play_tuples = sorted(ldr_play_tuples, key=lambda x: (-1 * x[1], x[0]))
+    double_print(f"\nMy H-Index is {get_h_index(ldr_play_tuples)}", out_file_h)
+
+    double_print("\nMy record against opponents:", out_file_h)
+
+    for opponent, this_opp_wl in sorted(opp_wl.items()):
+        OPP_WL_STR = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
+        double_print(OPP_WL_STR, out_file_h)
+
+    double_print("\nMy record against opposing factions:", out_file_h)
+    for opp_faction, faction_wl in sorted(opp_faction_wl.items()):
+        FACTION_WL_STR = f"- {opp_faction}: {faction_wl[0]}-{faction_wl[1]}"
+        double_print(FACTION_WL_STR, out_file_h)
+
+    double_print("\nI've seen the following leaders on the table the least " + \
+        f"({LEAST_PLAYED_QTY} times)", out_file_h)
+    double_print("; ".join(sorted(least_played_ids)), out_file_h)
+
+    double_print(LOW_O_STR, out_file_h)

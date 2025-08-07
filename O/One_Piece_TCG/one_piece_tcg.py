@@ -12,6 +12,8 @@ GAME_NAME = "One Piece"
 
 ALL_COLORS = {'U':'Blue', 'G':'Green', 'R':'Red', 'P':'Purple', 'B':'Black', 'Y':'Yellow'}
 
+DECK_ERA = "OP08"
+
 def validate_colors(in_colors):
     """
     Takes in a string of colors, and returns a list with the full color names
@@ -133,13 +135,14 @@ for line in lines:
         card_own, CARD_MAX))
 
 deck_tuples = [] # (DeckFile, cards_needed, cards)
-for deck_colors in os.listdir(DECK_DIR):
+DECK_BASE = DECK_DIR + "/" + DECK_ERA
+for deck_colors in os.listdir(DECK_BASE):
     if deck_colors.startswith('OP'):
         continue
-    for file_name in os.listdir(DECK_DIR + "/" + deck_colors):
+    for file_name in os.listdir(DECK_BASE + "/" + deck_colors):
         CARDS_NEEDED = 0
         THIS_LEADER = ()
-        this_deck_file = DECK_DIR + "/" + deck_colors + "/" + file_name
+        this_deck_file = DECK_BASE + "/" + deck_colors + "/" + file_name
         deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
         this_deck_lines = deck_file_h.readlines()
         deck_file_h.close()
@@ -215,14 +218,14 @@ if __name__ == "__main__":
     SUMMARY_STRING = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(SUMMARY_STRING, out_file_h)
 
-    ldr_str = f"\nThere are {NUM_LEADERS} leaders in the game - I own {OWN_LEADERS}\n"
-    double_print(ldr_str, out_file_h)
+    LDR_STR = f"\nThere are {NUM_LEADERS} leaders in the game - I own {OWN_LEADERS}\n"
+    double_print(LDR_STR, out_file_h)
 
     double_print(f"Chosen subtype is {chosen_subtype}, chosen color is {chosen_color}", out_file_h)
     double_print(f"Chosen card type: {chosen_type}, and chosen set: {chosen_set}", out_file_h)
-    sugg_string = f"Buy {picked_item[0]} (have " + \
+    SUGG_STRING = f"Buy {picked_item[0]} (have " + \
         f"{picked_item[6]} out of {picked_item[7]})"
-    double_print(sugg_string, out_file_h)
+    double_print(SUGG_STRING, out_file_h)
 
     double_print("\nMost needed cards:", out_file_h)
     for card_tuple in card_sorter[:10]:
@@ -244,8 +247,8 @@ if __name__ == "__main__":
             double_print(f"\n{check_deck[0]} ({'/'.join(check_deck[3][1])}) - Missing " + \
                 f"{check_deck[1]} cards", out_file_h)
             for print_name, print_qty in sorted(check_deck[2].items()):
-                this_name = f"{card_number_to_name_dict[print_name]} ({print_name})"
-                double_print(f"- {this_name}: {print_qty}", out_file_h)
+                THIS_NAME = f"{card_number_to_name_dict[print_name]} ({print_name})"
+                double_print(f"- {THIS_NAME}: {print_qty}", out_file_h)
             for check_color in check_deck[3][1]:
                 unused_colors.remove(check_color)
 

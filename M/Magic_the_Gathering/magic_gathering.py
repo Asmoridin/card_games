@@ -478,6 +478,7 @@ creature_types = {}
 PLANESWALKER_COUNT = 0
 planeswalkers = {}
 FIRST_MANA_NEEDED_CARD = ''
+MANA_CARDS_DONE = 0
 
 for line in lines:
     if line == '' or line.startswith('#'):
@@ -504,7 +505,13 @@ for line in lines:
         print(f"Duplicate: {card_name}")
     card_names.add(card_name)
     if CARD_MANA_VALUE != '' and CARD_MANA_VALUE != "X":
-        CARD_MANA_VALUE = int(CARD_MANA_VALUE)
+        try:
+            CARD_MANA_VALUE = int(CARD_MANA_VALUE)
+            MANA_CARDS_DONE += 1
+        except ValueError:
+            print("Something wrong with line:")
+            print(line)
+            continue
     try:
         card_qty = int(card_qty)
     except ValueError:
@@ -756,5 +763,7 @@ if __name__ == "__main__":
     print(f"\nShould be {CHECK_AMOUNT} for {CHECK_SET}: {SET_CHECK}")
 
     double_print(f"\nFirst card needing a mana value is {FIRST_MANA_NEEDED_CARD}", out_file_h)
+    MANA_DONE = MANA_CARDS_DONE/len(raw_list) * 100
+    double_print(f"Currently done with {MANA_CARDS_DONE} cards - {MANA_DONE:.2f} pct", out_file_h)
 
     out_file_h.close()
