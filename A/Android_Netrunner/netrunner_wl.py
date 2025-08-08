@@ -14,9 +14,6 @@ if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "A/Android_Netrunner"
 
 out_file_h = open(FILE_PREFIX + "/NetrunnerOut.txt", 'w', encoding="UTF-8")
-in_file = open(FILE_PREFIX + '/Data/AndroidNetrunnerWL.txt', 'r', encoding="UTF-8")
-id_data_file = open(FILE_PREFIX + '/Data/NetrunnerIDs.txt', 'r', encoding="UTF-8")
-
 
 CURRENT_FORMAT = "Standard"
 
@@ -26,13 +23,15 @@ CORP_FACTIONS = ['Weyland', 'Haas-Bioroid', 'NBN', 'Jinteki', 'Neutral Corp']
 RUNNER_FACTIONS = ['Neutral Runner', 'Shaper', 'Anarch', 'Criminal']
 
 # Let's read the IDs, and parse the ID data
+with open(FILE_PREFIX + '/Data/NetrunnerIDs.txt', 'r', encoding="UTF-8") as id_data_file:
+    id_lines = id_data_file.readlines()
+
 identities = {'Startup':{}, 'Standard':{}, 'Extended':{}}
 id_by_faction = {}
 id_to_faction = {}
 id_total_plays = {}
 seen_total = {}
-id_lines = id_data_file.readlines()
-id_data_file.close()
+
 id_lines = [line.strip() for line in id_lines]
 for id_line in id_lines:
     identity_name, ID_FACTION, id_format = id_line.split(';')
@@ -60,6 +59,9 @@ for id_line in id_lines:
             identities[do_format][ID_FACTION] = []
         identities[do_format][ID_FACTION].append(identity_name)
 
+with open(FILE_PREFIX + '/Data/AndroidNetrunnerWL.txt', 'r', encoding="UTF-8") as in_file:
+    in_lines = in_file.readlines()
+
 # Let's start parsing the W-L data
 id_wl = {} # For each ID, the total win loss
 faction_wl = {} # For each faction, it's win-loss
@@ -68,8 +70,7 @@ opp_faction_wl = {} # W-L against each faction
 total_wl = [0, 0]
 corp_wl = [0, 0]
 runner_wl = [0, 0]
-in_lines = in_file.readlines()
-in_file.close()
+
 in_lines = [line.strip() for line in in_lines]
 for line in in_lines:
     if line == '':
@@ -208,20 +209,23 @@ for this_fac, fac_plays in faction_plays.items():
     fac_play_sorter.append((this_fac, fac_plays))
 fac_play_sorter = sorted(fac_play_sorter, key=lambda x:(x[1], x[0]))
 
-LOWEST_CORP = None
-LOWEST_RUNNER = None
+CORP_PLAYS = []
+RUNNER_PLAYS = []
 for faction, faction_plays in fac_play_sorter:
-    if LOWEST_CORP is None and faction in CORP_FACTIONS:
-        LOWEST_CORP = (faction, faction_plays)
-    if LOWEST_RUNNER is None and faction in RUNNER_FACTIONS:
-        LOWEST_RUNNER = (faction, faction_plays)
+    if faction in CORP_FACTIONS:
+        CORP_PLAYS.append((faction, faction_plays))
+    if faction in RUNNER_FACTIONS:
+        RUNNER_PLAYS.append((faction, faction_plays))
+
+LOWEST_CORP = CORP_PLAYS[0]
+LOWEST_RUNNER = RUNNER_PLAYS[0]
 
 corp_id_plays = []
 runner_id_plays = []
 for id_name, id_plays in filtered_id_plays:
-    if LOWEST_CORP is not None and id_to_faction[id_name] == LOWEST_CORP[0]:
+    if id_to_faction[id_name] == LOWEST_CORP[0]:
         corp_id_plays.append((id_name, id_plays))
-    if LOWEST_RUNNER is not None and id_to_faction[id_name] in LOWEST_RUNNER[0]:
+    if id_to_faction[id_name] in LOWEST_RUNNER[0]:
         runner_id_plays.append((id_name, id_plays))
 
 corp_id_plays = sorted(corp_id_plays, key=lambda x:(x[1], x[0]))

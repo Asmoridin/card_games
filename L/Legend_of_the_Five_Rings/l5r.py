@@ -8,8 +8,8 @@ import os
 import re
 
 from card_games.General.Libraries.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
-from steve_utils.check_inventory import check_inventory
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.check_inventory import check_inventory
 
 GAME_NAME = "Legend of the Five Rings"
 

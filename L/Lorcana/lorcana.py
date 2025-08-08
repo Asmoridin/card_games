@@ -7,7 +7,7 @@ Collection manager/purchase suggester for Lorcana
 import os
 
 from card_games.General.Libraries.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Lorcana"
 

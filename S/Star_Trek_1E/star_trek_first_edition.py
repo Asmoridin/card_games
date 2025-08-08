@@ -6,7 +6,7 @@ Inventory tracker and purchase selector for the Star Trek 1st Edition CCG
 
 import os
 from card_games.General.Libraries.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Star Trek: First Edition"
 

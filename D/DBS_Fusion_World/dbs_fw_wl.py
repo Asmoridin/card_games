@@ -15,13 +15,12 @@ if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "D/DBS_Fusion_World"
 
 out_file_h = open(FILE_PREFIX + "/DBSFWOut.txt", 'w', encoding="UTF-8")
-in_file = open(FILE_PREFIX + '/Data/DBSFW-Results.txt', 'r', encoding="UTF-8")
 source_data_file = open(FILE_PREFIX + '/Data/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
 
 double_print("DBS: Fusion World Win-Loss Tracker and deck selector\n", out_file_h)
 
-data_lines = in_file.readlines()
-in_file.close()
+with open(FILE_PREFIX + '/Data/DBSFW-Results.txt', 'r', encoding="UTF-8") as in_file:
+    data_lines = in_file.readlines()
 data_lines = [line.strip() for line in data_lines]
 
 source_data_lines = source_data_file.readlines()
@@ -103,8 +102,9 @@ for opponent in sorted(my_opp_wl):
 
 double_print("\nMy record against opposing leaders:", out_file_h)
 for opp_leader in sorted(my_opp_leader_wl):
-    ldr_str = f"{opp_leader}: {my_opp_leader_wl[opp_leader][0]}-{my_opp_leader_wl[opp_leader][1]}"
-    double_print(ldr_str, out_file_h)
+    DBS_LDR_STR = f"{opp_leader}: {my_opp_leader_wl[opp_leader][0]}-" \
+        f"{my_opp_leader_wl[opp_leader][1]}"
+    double_print(DBS_LDR_STR, out_file_h)
 
 MIN_SEEN = 1000000
 min_seen_leaders = []
@@ -130,6 +130,6 @@ double_print("\nLeast played leaders by color:", out_file_h)
 for check_leader in playable_leader_list:
     this_ldr_color = leader_color_map[check_leader[0]]
     if set(this_ldr_color).intersection(printed_colors) == set([]):
-        color_str = f"- {check_leader[0]}: {check_leader[1]} games ({'/'.join(this_ldr_color)})"
-        double_print(color_str, out_file_h)
+        DBS_COLOR_STR = f"- {check_leader[0]}: {check_leader[1]} games ({'/'.join(this_ldr_color)})"
+        double_print(DBS_COLOR_STR, out_file_h)
         printed_colors = printed_colors.union(set(this_ldr_color))
