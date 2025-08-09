@@ -17,5 +17,17 @@ public class WheelOfTime {
             System.exit(0);
         }
         System.out.println(input_lines.get(0));
+
+        // First, we need to parse and validate the input data. Do we just create card objects for this?
+
+        // We then need to parse and validate the deck data, which almost certainly will go into a deck
+
+        // Do a summary of my collection, give me purchase suggestion
+
+        // Do analysis on decks, suggest purchases to flesh out decks.
+
+        // Write all of this to both the screen and to an output file.
+        
+        // Write out a Python file that can be used by ccg_summary
     }
 }

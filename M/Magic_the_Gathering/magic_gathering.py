@@ -278,8 +278,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Ravnica block (Ravnica: City of Guilds, Guildpact, Dissension)
             if this_set in ['Ravnica: City of Guilds', 'Guildpact', 'Dissension']:
                 ret_formats['Ravnica Block'] = 4
-            # Time Spiral block (Time Spiral, Planar Chaos, Future Sight)
-            if this_set in ['Time Spiral', 'Planar Chaos', 'Future Sight']:
+            # Time Spiral block (Time Spiral + shifted, Planar Chaos, Future Sight)
+            if this_set in ['Time Spiral', 'Planar Chaos', 'Future Sight',
+                    'Time Spiral "Timeshifted"']:
                 ret_formats['Time Spiral Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
