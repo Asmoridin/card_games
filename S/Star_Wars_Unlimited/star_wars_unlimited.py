@@ -38,6 +38,8 @@ def process_card_set(card_set_in):
             check_card_set = 'Twilight of the Republic'
         elif check_card_set == 'JTL':
             check_card_set = 'Jump to Lightspeed'
+        elif check_card_set == 'LOF':
+            check_card_set = 'Legends of the Force'
         else:
             print(f"Unknown card set {check_card_set}")
             return [[], []]

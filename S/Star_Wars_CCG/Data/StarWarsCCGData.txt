@@ -13,7 +13,7 @@
 8D8;LS;Character;Jabba's Palace (R);4;0
 A Bright Center To The Universe;DS;Effect;Special Edition (U);4;0
 A Close Race;LS;Defensive Shield;Reflections III (P);4;0
-A Dangerous Time;DS;Interrupt;Dagobah (C);4;3
+A Dangerous Time;DS;Interrupt;Dagobah (C);5;3
 A Dark Time For The Rebellion;DS;Interrupt;Hoth (C1);4;1
 A Day Long Remembered;DS;Effect;Special Edition (U);4;0
 A Disturbance In The Force;DS;Effect;Premiere (U1);4;4
@@ -42,7 +42,7 @@ AAT Laser Cannon;DS;Weapon;Theed Palace (U);4;0
 Ability, Ability, Ability;DS;Effect;Cloud City (C);4;0
 Abyss;DS;Effect;Cloud City (U);4;0
 Abyssin Ornament & Wounded Wookiee;DS;Interrupt;Reflections II (P);4;0
-Abyssin Ornament;DS;Interrupt;Jabba's Palace (U);4;0
+Abyssin Ornament;DS;Interrupt;Jabba's Palace (U);6;0
 Abyssin;DS;Character;Jabba's Palace (C);4;1
 Accelerate;DS;Interrupt;Endor (C);4;0
 Accepting Trade Federation Control;DS;Effect;Coruscant (U);4;0
@@ -67,7 +67,7 @@ Aim High;LS;Effect;Endor (R);4;0
 Air-2 Racing Swoop;LS;Vehicle;Special Edition (C);4;0
 Ak-rev;DS;Character;Special Edition (U);4;0
 Aks Moe;DS;Character;Coruscant (R);4;0
-Alderaan Operative;LS;Character;Special Edition (C);4;0
+Alderaan Operative;LS;Character;Special Edition (C);20;0
 Alderaan;DS;Location;Premiere (R1);4;0
 Alderaan;LS;Location;Premiere (U2);4;4
 Alert My Star Destroyer!;DS;Effect;Special Edition (C);4;0
@@ -591,7 +591,7 @@ Debris Zone;DS;Interrupt;Hoth (R2);4;0
 Deep Hatred;DS;Epic Event;Reflections III (P);4;0
 Defel;DS;Character;A New Hope (C2);4;1
 Defensive Fire & Hutt Smooch;DS;Interrupt;Reflections II (P);4;0
-Defensive Fire;DS;Interrupt;Dagobah (C);4;4
+Defensive Fire;DS;Interrupt;Dagobah (C);6;4
 Defiance;LS;Starship;Death Star II (R);4;0
 Deflector Shield Generators;DS;Device;Hoth (U2);4;1
 Dejarik Hologameboard;LS;Location;A New Hope (R1);4;0
@@ -759,7 +759,7 @@ Entrenchment;LS;Effect;Special Edition (R);4;0
 Eopie;LS;Vehicle;Tatooine (C);4;0
 Ephant Mon;DS;Character;Jabba's Palace (R);4;0
 Epic Duel;DS;Epic Event;Cloud City (R);4;0
-Eriadu Operative;DS;Character;Special Edition (C);4;0
+Eriadu Operative;DS;Character;Special Edition (C);20;0
 Eriadu;DS;Location;Free Jedi Pack (P);4;0 // white dot is errata?
 Escape Pod;LS;Interrupt;Premiere (U2);4;4
 Establish Control;DS;Effect;Coruscant (U);4;0
@@ -1498,7 +1498,7 @@ Nal Hutta Operative;DS;Character;Special Edition (C);4;0
 Nal Hutta;DS;Location;Jabba's Palace (R);4;0
 Nalan Cheel;LS;Character;A New Hope (U2);4;0
 Nar Shaddaa Wind Chimes & Out Of Somewhere;LS;Interrupt;Reflections II (P);4;0
-Nar Shaddaa Wind Chimes;LS;Interrupt;Jabba's Palace (U);4;1
+Nar Shaddaa Wind Chimes;LS;Interrupt;Jabba's Palace (U);6;1
 Narrow Escape;LS;Interrupt;Premiere (C2);4;4 // have 5
 Navy Trooper Fenson;DS;Character;Endor (R);4;0
 Navy Trooper Shield Technician;DS;Character;Endor (C);4;0

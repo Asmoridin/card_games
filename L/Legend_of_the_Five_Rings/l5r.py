@@ -71,8 +71,8 @@ VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (G
     'Rain of Blood (Diamond)', 'Age of Enlightenment (Lotus)', 'Race for the Throne (Samurai)',
     'Destroyer War (Celestial)', 'Age of Conquest (Emperor)',
     "A Brother's Destiny (Ivory Edition)", "A Brother's Destiny (Twenty Festivals)",
-    'Onyx Edition', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', '20F Extended',
-    'Jade Extended', 'Jade Open']
+    'War of the Seals (Onyx Edition)', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', 
+    '20F Extended', 'Jade Extended', 'Jade Open']
 
 FORMAT_MAP = { # Maps a format name to its deck directory
     'Clan Wars (Imperial)':'01 - Imperial',
@@ -87,7 +87,7 @@ FORMAT_MAP = { # Maps a format name to its deck directory
     'Age of Conquest (Emperor)':'08 - Emperor',
     "A Brother's Destiny (Ivory Edition)":'09 - Ivory',
     "A Brother's Destiny (Twenty Festivals)":'10 - Twenty Festivals',
-    'Onyx Edition':'11 - Onyx Edition',
+    'War of the Seals (Onyx Edition)':'11 - Onyx Edition',
     'Shattered Empire':'12 - Shattered Empire',
     'Modern':'20 - Modern',
     'BigDeck':'21 - BigDeck',
@@ -437,7 +437,7 @@ for card in card_lines:
         if card[0] not in ivory_extended_cards:
             ivory_extended_cards[card[0]] = []
         ivory_extended_cards[card[0]].append(card.copy())
-    if card[6] == "Onyx Edition":
+    if card[6] == "War of the Seals (Onyx Edition)":
         if card[0] not in twenty_f_extended_cards:
             twenty_f_extended_cards[card[0]] = []
         twenty_f_extended_cards[card[0]].append(card.copy())
@@ -553,8 +553,8 @@ if __name__=="__main__":
     handle_output("A Brother's Destiny (Twenty Festivals)", twentyF_dict, out_file_h)
 
     # 11 Onyx Edition
-    onyx_dict = process_formats("Onyx Edition", card_lines, name_fix_lines)
-    handle_output("Onyx Edition", onyx_dict, out_file_h)
+    onyx_dict = process_formats("War of the Seals (Onyx Edition)", card_lines, name_fix_lines)
+    handle_output("War of the Seals (Onyx Edition)", onyx_dict, out_file_h)
 
     # 12 Shattered Empire
     shattered_dict = process_formats("Shattered Empire", card_lines, name_fix_lines)

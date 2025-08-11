@@ -178,7 +178,8 @@ def parse_restrictions(restr_lines):
                         'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
                         'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
                         'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
-                        'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block']:
+                        'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
+                        'Lorwyn-Shadowmoor',]:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -282,6 +283,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             if this_set in ['Time Spiral', 'Planar Chaos', 'Future Sight',
                     'Time Spiral "Timeshifted"']:
                 ret_formats['Time Spiral Block'] = 4
+            # Lorwyn-Shadowmoor block (Lorwyn, Morningtide, Shadowmoor, Eventide)
+            if this_set in ['Lorwyn', 'Morningtide', 'Shadowmoor', 'Eventide']:
+                ret_formats['Lorwyn-Shadowmoor Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -672,6 +676,10 @@ if __name__ == "__main__":
     # Time Spiral Block
     ts_dict = process_formats("Time Spiral Block", card_corrections)
     handle_output("Time Spiral Block", ts_dict, out_file_h)
+
+    # Lorwyn-Shadowmoor Block
+    lorsha_dict = process_formats("Lorwyn-Shadowmoor Block", card_corrections)
+    handle_output("Lorwyn-Shadowmoor Block", lorsha_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
