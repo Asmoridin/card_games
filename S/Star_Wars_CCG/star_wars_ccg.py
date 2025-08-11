@@ -40,6 +40,7 @@ SET_FOLDER_MAP = {
     'Cloud City':'05 - Cloud City',
     "Jabba's Palace":"06 - Jabba's Palace",
     "Special Edition":'07 - Special Edition',
+    'Endor':'08 - Endor',
 }
 
 def parse_sets(this_card_name, set_string):
