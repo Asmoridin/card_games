@@ -364,6 +364,30 @@ if __name__=="__main__":
         most_needed_total[card_tuple[0]] += card_tuple[1]
     handle_output("Jabba's Palace", jabba_dict, out_file_h)
 
+    # 07 Special Edition
+    se_dict = process_eras("Special Edition", card_lines)
+    for card_tuple in se_dict['NEEDED']:
+        if card_tuple[0] not in most_needed_total:
+            most_needed_total[card_tuple[0]] = 0
+        most_needed_total[card_tuple[0]] += card_tuple[1]
+    handle_output("Special Edition", se_dict, out_file_h)
+
+    # 08 Endor
+    endor_dict = process_eras("Endor", card_lines)
+    for card_tuple in endor_dict['NEEDED']:
+        if card_tuple[0] not in most_needed_total:
+            most_needed_total[card_tuple[0]] = 0
+        most_needed_total[card_tuple[0]] += card_tuple[1]
+    handle_output("Endor", endor_dict, out_file_h)
+
+    # 09 Death Star II
+    dsii_dict = process_eras("Death Star II", card_lines)
+    for card_tuple in dsii_dict['NEEDED']:
+        if card_tuple[0] not in most_needed_total:
+            most_needed_total[card_tuple[0]] = 0
+        most_needed_total[card_tuple[0]] += card_tuple[1]
+    handle_output("Death Star II", dsii_dict, out_file_h)
+
     most_needed_total = list(most_needed_total.items())
     most_needed_total = sorted(most_needed_total, key=lambda x:(-1 * x[1], x[0]))
     double_print("Most needed cards are:", out_file_h)
