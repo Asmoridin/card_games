@@ -342,7 +342,7 @@ Aiki Tactics;Strategy;;Hidden Emperor 1 (Rare);Hidden Emperor (Jade);3;0
 Aikido Demonstration;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
 Aikune's Wrath;Strategy;;An Oni's Fury (Rare);Four Winds (Gold);3;1
 Air Dragon • Experienced 2;Personality;Unaligned;Path of Hope (Rare);Age of Enlightenment (Lotus);1;0
-Air Dragon • Experienced;Personality;Unaligned;Soul of the Empire (Rare);Hidden Emperor (Jade);1;0
+Air Dragon • Experienced;Personality;Unaligned;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
 Air Dragon's Guidance;Celestial;;The Plague War (Rare);Destroyer War (Celestial);1;0
 Air Dragon;Personality;Unaligned;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
 Air Dragon;Personality;Unaligned;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
@@ -6285,10 +6285,43 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Desti
 Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals (Onyx Edition);3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
+Battlements;Holding;;The Dark Journey Home (Common);Hidden Emperor (Jade);3;0
+Battul;Follower;;Dawn of the Empire (Fixed);Age of Enlightenment (Lotus);1;0
+Battul;Follower;;Dawn of the Empire (Fixed);Rain of Blood (Diamond);1;0
+Bay of Green Coral;Region;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
+Bayushi;Personality;Scorpion;Dawn of the Empire (Fixed);BigDeck;1;0
+Bayushi Adachi;Personality;Scorpion;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Bayushi Adachi;Personality;Scorpion;Hidden City (Uncommon);Rain of Blood (Diamond);3;0
+Bayushi Adachi • Experienced;Personality;Scorpion;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);1;0
+Bayushi Ambushers;Follower;;An Oni's Fury (Uncommon);Four Winds (Gold);3;0
+Bayushi Aotora;Personality;Ninja/Scorpion;Winds of Change (Uncommon);Four Winds (Gold);3;0
+Bayushi Aotora;Personality;Ninja/Scorpion;Winds of Change (Uncommon);Rain of Blood (Diamond);3;0
+Bayushi Aramasu • Experienced 2;Personality;Mantis;Fire & Shadow (Rare);Hidden Emperor (Jade);1;0
+Bayushi Aramoro • Experienced 3;Personality;Ninja/Scorpion;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
+Bayushi Goshiu • Experienced 3;Personality;Scorpion;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
+Bayushi Hisa • Experienced 3;Personality;Scorpion;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
+Bayushi Ikita;Personality;Scorpion;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Jama Suru • Experienced;Personality;Unaligned;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
+Jama Suru • Experienced;Personality;Unaligned;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
+Kyoso no Oni • Experienced 2;Personality;Unaligned;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
+Oni no Gorusei;Personality;Unaligned;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Ide Tadaji • Experienced;Personality;Unicorn;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
+Moto Gaheris • Experienced;Personality;Unicorn;Soul of the Empire (Fixed);Hidden Emperor (Jade);1;1
+Moto Tsugi;Personality;Unicorn;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Otaku Kamoko • Experienced 4;Personality;Unicorn;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
+Otaku Sahijir;Personality;Unicorn;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Shinjo Hanari • Experienced 2;Personality;Unicorn;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
+Bayushi Meharu;Personality;Spirit;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Bokatu;Personality;Toturi's Army;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Dairya • Experienced 3;Personality;Toturi's Army;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
 
-# Done through card #730
-#733
+# Done through card #740
+#746
+#773
+#783
+#791
 #802
+#838
 #853
 #929
 #955
@@ -6316,6 +6349,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #1076
 #1084
 #1086
+#1089
 #1106
 #1113
 #1117
@@ -6368,7 +6402,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #1667
 #1671
 #1791-1792
-#1798
+#1797-1798
 #1837
 #1882
 #1899
@@ -6498,7 +6532,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3547-3548
 #3558
 #3567
-#3574
+#3574-3575
 #3586
 #3636
 #3694
@@ -6524,6 +6558,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4003
 #4022
 #4036
+#4043
 #4051
 #4070-4071
 #4087
@@ -6555,7 +6590,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4565
 #4595
 #4601-4602
-#4626
+#4626-4627
 #4641
 #4644
 #4648
@@ -6610,7 +6645,9 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5241
 #5288
 #5309
+#5317
 #5380
+#5384
 #5387
 #5391
 #5401
@@ -6647,9 +6684,11 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5698
 #5709-5710
 #5725
+#5733
 #5743
 #5754
-#5801
+#5801-5802
+#5805
 #5831
 #5845
 #5849
@@ -6743,7 +6782,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6825
 #6840
 #6846
-#6878
+#6878-6879
 #6887
 #6898
 #6906
