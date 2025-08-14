@@ -72,7 +72,7 @@ VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (G
     'Destroyer War (Celestial)', 'Age of Conquest (Emperor)',
     "A Brother's Destiny (Ivory Edition)", "A Brother's Destiny (Twenty Festivals)",
     'War of the Seals (Onyx Edition)', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', 
-    '20F Extended', 'Jade Extended', 'Jade Open']
+    '20F Extended', 'Jade Extended', 'Jade Open', 'Legacy']
 
 FORMAT_MAP = { # Maps a format name to its deck directory
     'Clan Wars (Imperial)':'01 - Imperial',

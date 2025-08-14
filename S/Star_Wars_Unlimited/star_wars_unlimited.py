@@ -79,8 +79,7 @@ def parse_deck(deck_lines, collection_dict_in, in_card_ids):
         deck_line = deck_line.strip()
         if deck_line.startswith('//') or deck_line == '':
             continue
-        else:
-            deck_str += deck_line
+        deck_str += deck_line
     deck_json = json.loads(deck_str)
     deck_cards = {}
     deck_cards[deck_json['leader']['id']] = deck_json['leader']['count']
@@ -120,11 +119,10 @@ FILE_PREFIX = "card_games/S/Star_Wars_Unlimited"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "S/Star_Wars_Unlimited"
 
-file_h = open(FILE_PREFIX + '/Data/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
 DECK_DIR = FILE_PREFIX + '/Decks'
+with open(FILE_PREFIX + '/Data/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8") as sw_data_file:
+    lines = sw_data_file.readlines()
 
-lines = file_h.readlines()
-file_h.close()
 lines = [line.strip() for line in lines]
 
 item_list = []
@@ -197,8 +195,7 @@ for line in lines:
 
     if card_type in ['Leader', 'Base']:
         CARD_MAX = 1
-    if card_owned > CARD_MAX:
-        CARD_MAX = card_owned
+    CARD_MAX = max(CARD_MAX, card_owned)
     collection_dict[card_name] = card_owned
     full_collection[card_name] = CARD_MAX
 

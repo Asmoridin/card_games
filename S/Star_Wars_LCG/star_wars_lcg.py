@@ -125,7 +125,12 @@ with open(USED_TRAIT_FILENAME, 'r', encoding="UTF-8") as used_traits:
 set_index_lines = []
 with open(SET_INDICES_FILENAME, 'r', encoding="UTF-8") as set_fh:
     set_index_lines = set_fh.readlines()
-print(set_index_lines)
+set_index_lines = [index_line.strip() for index_line in set_index_lines]
+
+set_index = {}
+for set_index_line in set_index_lines:
+    set_name, index_number = set_index_line.split(';')
+    set_index[set_name] = int(index_number)
 
 def get_index(in_deck):
     """
@@ -134,7 +139,7 @@ def get_index(in_deck):
     ret_index = 0
     if in_deck['Affiliation'] != "" and in_deck['Affiliation'] not in VALID_AFFILIATIONS:
         if in_deck['Affiliation'] in ['Mercenary Contacts', 'Expendable Allies', ]:
-            return 6
+            ret_index = 6
         print(f"Need to handle index for affilation {in_deck['Affiliation']}")
     for objective_set_name, obj_set_qty in in_deck['Objectives'].items():
         if objective_set_name not in objectives:
@@ -145,34 +150,10 @@ def get_index(in_deck):
             print(f"{in_deck['Deck Name']} has a likely illegal amount of objective " + \
                 f"set {objective_set_name}")
         this_card_set = objectives[objective_set_name][1]
-        if this_card_set == 'Core Set':
-            pass
-        elif this_card_set in ['The Desolation of Hoth', 'The Search For Skywalker',
-                'A Dark Time', 'Assault on Echo Base', 'The Battle of Hoth',
-                'Escape from Hoth', 'Edge of Darkness']:
-            ret_index = max(ret_index, 1)
-        elif this_card_set in ['Balance of the Force', 'Heroes and Legends',
-                'Lure of the Dark Side', 'Knowledge and Defense', 'Join Us or Die',
-                'It Binds All Things', 'Darkness and Light']:
-            ret_index = max(ret_index, 2)
-        elif this_card_set in ['Between the Shadows', 'Ready for Takeoff',
-                'Draw Their Fire', 'Evasive Maneuvers', 'Attack Run',
-                'Chain of Command', 'Jump to Lightspeed']:
-            ret_index = max(ret_index, 3)
-        elif this_card_set in ['Imperial Entanglements', "Solo's Command",
-                'New Alliances', 'The Forest Moon', 'So Be It',
-                'Press the Attack', 'Redemption and Return']:
-            ret_index = max(ret_index, 4)
-        elif this_card_set in ['Galactic Ambitions', "Ancient Rivals",
-                'A Wretched Hive', 'Meditation and Mastery', 'Scrap Metal',
-                'Power of the Force', 'Technological Terror']:
-            ret_index = max(ret_index, 5)
-        elif this_card_set in ['Allies of Necessity', "Aggressive Negotiations",
-                'Desperate Circumstances', 'Swayed by the Dark Side',
-                'Trust in the Force', 'Promise of Power']:
-            ret_index = max(ret_index, 5)
-        else:
-            print(f"Need to figure out location of {this_card_set}")
+        if this_card_set not in set_index:
+            print(f"Unhandled card set: {this_card_set}")
+            continue
+        ret_index = max(ret_index, set_index[this_card_set])
     return ret_index
 
 def read_deck(in_deck_lines, deck_name):

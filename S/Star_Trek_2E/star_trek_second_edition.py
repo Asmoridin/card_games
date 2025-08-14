@@ -17,8 +17,9 @@ physical_sets = ['Necessary Evil', 'Energize', 'What You Leave Behind', 'Second 
     'What You Leave Behind']
 VALID_CARD_TYPES = ['Personnel', 'Ship', 'Dilemma', 'Equipment', 'Event', 'Interrupt', \
     'Mission', ]
-VALID_AFFILIATIONS = ['Federation', 'Vidiian', 'Non-Aligned', 'Klingon', 'Romulan', 'Starfleet',
-    'Dominion', 'Ferengi', 'Bajoran', 'Cardassian', 'Borg', ]
+VALID_AFFILIATIONS = ['Federation-Maquis', 'Vidiian', 'Non-Aligned', 'Klingon', 'Romulan',
+    'Starfleet', 'Federation-DS9', 'Federation-TNG', 'Federation-Voyager', 'Federation-Earth',
+    'Dominion', 'Ferengi', 'Bajoran', 'Cardassian', 'Borg', 'Federation-TOS', 'Federation-Other']
 
 FILE_PREFIX = "card_games/S/Star_Trek_2E"
 if os.getcwd().endswith('card_games'):
@@ -42,7 +43,7 @@ def read_in_deck(in_deck_lines):
     for read_line in in_deck_lines:
         if read_line in VALID_CARD_TYPES:
             continue
-        if read_line in VALID_AFFILIATIONS:
+        if read_line in VALID_AFFILIATIONS or read_line == 'Federation':
             continue
         if read_line in ['', 'Missions', 'Headquarters', 'Planet', 'Space', 'Dual']:
             continue
@@ -103,6 +104,10 @@ for line in lines:
         print("Duplicate card name: " + card_name)
     card_names.add(card_name)
     rarity = rarity.split('/')
+    card_affil = card_affil.split('/')
+    for affil in card_affil:
+        if affil != "" and affil not in VALID_AFFILIATIONS:
+            print(f"Invalid affiliation: {affil}")
     for in_rarity in rarity:
         if in_rarity not in ['C', 'U', 'R', 'S', 'P', 'VP', 'V', 'B', 'AP', ]:
             print(f"Invalid rarity of {in_rarity} for {card_name}")
