@@ -49,6 +49,8 @@ def read_in_deck(in_deck_lines):
             continue
         if read_line.startswith('Dilemma Pile (') or read_line.startswith('Draw Deck ('):
             continue
+        if read_line.startswith('//'):
+            continue
 
         try:
             _, deck_card = read_line.split('  ')
