@@ -24,6 +24,7 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
     'Dystopian Nightmare', 'Hounds', 'Dark Riders', 'Blue Moon', 'Genosha', 'Savage Land',
     'Celestial Tech', 'Clan Akkaba', 'Sauron', 'Arcade', 'Crazy Gang', 'Hellfire',
     'A.I.M. Abduction', 'A.I.M. Science', "Batroc's Brigade", 'Scientist Supreme', 'S.H.I.E.L.D.',
+	'Trickster Magic',
 ]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
@@ -136,7 +137,9 @@ encounters.extend([
   Encounter('Batroc', 2),
   Encounter('M.O.D.O.K.', 1),
   Encounter('Thunderbolts', 3, thunderbolt_only=True),
-  Encounter('Baron Zemo', 2)
+  Encounter('Baron Zemo', 2),
+  Encounter('Enchantress', 1),
+  Encounter('God of Lies', 1),
 ])
 
 encounter_map = {}
