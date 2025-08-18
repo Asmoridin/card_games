@@ -60,7 +60,7 @@ Armed to the Teeth;SHD-175-U;Upgrade;R;3
 Armored Saber Tank;TWI-245-C;Ground Unit;W;2
 Army of the Dead;LOF-236-C;Ground Unit;B;0
 Arquitens Assault Cruiser;SHD-122-R;Space Unit;G;1
-As I Have Foreseen;LOF-188-R;Event;Y/B;0
+As I Have Foreseen;LOF-188-R;Event;Y/B;1 # 1 hyperspace
 Asajj Ventress, Count Dooku's Assassin;TWI-134-U;Ground Unit;B/R;1
 Asajj Ventress, Harden Your Hearts;LOF-165-U;Ground Unit;R;0
 Asajj Ventress, I Work Alone;JTL-001-R;Leader;U/B;1
@@ -167,7 +167,7 @@ Captain Tarkin, Full Forward Assault;JTL-161-U;Ground Unit;R;2
 Captain Typho, Protecting the Senator;TWI-046-U;Ground Unit;U/W;2 # 1 hyperspace
 Caretaker Matron;LOF-243-U;Ground Unit;W;0
 Cargo Juggernaut;SOR-068-C/SHD-066-C;Ground Unit;U;3
-Cartel Interceptor;LOF-157-C;Space Unit;R;0
+Cartel Interceptor;LOF-157-C;Space Unit;R;1
 Cartel Spacer;SOR-178-U;Space Unit;B/Y;3 # 1 hyperspace
 Cartel Turncoat;SHD-195-C;Space Unit;Y/W;3
 Cassian Andor, Dedicated to the Rebellion;SOR-013-R;Leader;R/W;1
@@ -380,7 +380,7 @@ Evasive Maneuver;JTL-262-C;Event;N;3
 Evidence of the Crime;SHD-077-R;Event;U;1
 Execute Order 66;TWI-239-R;Event;B;0
 Executor, Might of the Empire;JTL-090-L;Space Unit;G/B;0
-Exegol Patroller;LOF-080-C;Space Unit;G/B;0
+Exegol Patroller;LOF-080-C;Space Unit;G/B;1
 Eye of Sion, To Peridea;LOF-088-R;Space Unit;G/B;0
 Ezra Bridger, Attuned With Life;LOF-046-U;Ground Unit;U/W;0
 Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;3
@@ -463,7 +463,7 @@ Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
 Go Into Hiding;LOF-262-C;Event;N;1 # 1 hyperfoil
 Gold Leader, Fastest Ship in the Fleet;JTL-054-U;Space Unit;U/W;1
 Gor, Grievous's Pet;TWI-118-L;Ground Unit;G;0
-Graceful Purrgil;LOF-069-C;Space Unit;U;0
+Graceful Purrgil;LOF-069-C;Space Unit;U;1 # 1 foil
 Grand Admiral Thrawn, Patient and Insightful;SOR-016-R;Leader;Y/B;1
 Grand Admiral Thrawn..., How Unfortunate;JTL-002-C;Leader;U/B;1 # 1 hyperspace
 Grand Inquisitor, Hunting the Jedi;SOR-011-R;Leader;R/B;1
@@ -626,7 +626,7 @@ Kelleran Beq, The Sabered Hand;LOF-100-U;Ground Unit;G/W;0
 Kestro City;SOR-027-C;Base;R;1 # 1 hyperspace
 Ketsu Onyo, Old Friend;SHD-147-U;Ground Unit;R/W;2
 Ki-Adi-Mundi, Composed and Confident;TWI-064-L;Ground Unit;U;0
-Ki-Adi-Mundi, We Must Push On;LOF-146-U;Ground Unit;R/W;0
+Ki-Adi-Mundi, We Must Push On;LOF-146-U;Ground Unit;R/W;1
 Kihraxz Heavy Fighter;SHD-118-U;Space Unit;G;3
 Kijimi Patrollers;JTL-082-C;Space Unit;G/B;2
 Kimogila Heavy Fighter;JTL-222-C;Space Unit;Y;2
@@ -730,7 +730,7 @@ Migs Mayfeld, Triggerman;SHD-163-R;Ground Unit;R;3 # 1 foil
 Millennium Falcon, Get Out And Push;JTL-249-S;Space Unit;W;3
 Millennium Falcon, Lando's Pride;SHD-204-U;Space Unit;Y/W;2
 Millennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;1
-Mind Trick;LOF-202-R;Event;Y/W;0
+Mind Trick;LOF-202-R;Event;Y/W;1
 Mining Guild TIE Fighter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
 Mist Hunter, The Findsman's Pursuit;JTL-186-U;Space Unit;Y/B;2 # 1 foil
@@ -765,7 +765,7 @@ Never Tell Me the Odds;JTL-208-S;Event;Y/W;3
 Nien Nunb, Loyal Co-Pilot;JTL-093-R;Ground Unit;G/W;2
 Nightsister Lair;LOF-020-C;Base;U;1
 Nightsister Warrior;LOF-059-C;Ground Unit;U;1
-Nihil Marauder;LOF-182-C;Ground Unit;Y/B;0
+Nihil Marauder;LOF-182-C;Ground Unit;Y/B;1
 Niima Outpost Constables;SHD-062-C;Ground Unit;U;3 # 1 foil
 Niman Strike;LOF-124-U;Event;G;1
 Nite Owl Skirmisher;SHD-149-C;Ground Unit;R/W;3
@@ -776,7 +776,7 @@ No Good to Me Dead;SOR-186-U;Event;B/Y;3 # 1 foil
 Now There Are Two of Them;TWI-225-L;Event;Y;0
 Nute Gunray, Vindictive Viceroy;TWI-002-C;Leader;B/U;1 # 1 hyperspace
 Obedient Vanguard;TWI-104-C;Ground Unit;G;3
-Obi-Wan Kenobi, Courage Makes Heroes;LOF-008-C;Leader;G/W;0
+Obi-Wan Kenobi, Courage Makes Heroes;LOF-008-C;Leader;G/W;1
 Obi-Wan Kenobi, Following Fate;SOR-049-R;Ground Unit;U/W;3
 Obi-Wan Kenobi, Patient Mentor;TWI-003-C;Leader;U/W;1
 Obi-Wan Kenobi, Protective Padawan;LOF-096-S;Ground Unit;G/W;0
@@ -846,7 +846,7 @@ Poggle the Lesser, Archduke of the Stalgasin Hive;TWI-080-R;Ground Unit;G/B;1
 Point Rain Reclaimer;LOF-092-C;Ground Unit;G/W;0
 Political Pressure;TWI-222-C;Event;Y;3
 Pong Krell, It's Treason, Then;LOF-038-R;Ground Unit;U/B;1
-Porg;LOF-254-C;Ground Unit;N;0
+Porg;LOF-254-C;Ground Unit;N;1
 Pounce;LOF-224-C;Event;Y;1
 Power Failure;SOR-170-U;Event;R;1
 Power from Pain;JTL-042-U;Event;U/B;0
@@ -865,7 +865,7 @@ Private Manufacturing;TWI-257-U;Event;N;3 # 1 hyperspace
 Privateer Crew;SHD-113-U;Ground Unit;G;3
 Privateer Scyk;SHD-212-C;Space Unit;Y;3 # 1 foil
 Profundity, We Fight!;JTL-154-L;Space Unit;R/W;1
-Protect the Pod;LOF-128-C;Event;G;0
+Protect the Pod;LOF-128-C;Event;G;1
 Protector of the Throne;SHD-247-C;Ground Unit;W;3 # 1 hyperspace
 Protector;SOR-057-U;Upgrade;U;2
 Prototype TIE Advanced;JTL-136-C;Space Unit;R/B;2
@@ -874,7 +874,7 @@ Psychometry;LOF-219-R;Event;Y;0
 Public Enemy;SHD-068-C;Upgrade;U;3
 Punch It;JTL-231-C;Event;Y;1
 Punishing One, Dengar's Jumpmaster;SHD-137-U;Space Unit;R/B;3 # 1 foil, 1 hyperspace
-Purge Trooper;LOF-133-C;Ground Unit;R/B;0
+Purge Trooper;LOF-133-C;Ground Unit;R/B;1
 Pyke Palace;TWI-030-C;Base;Y;1
 Pyke Sentinel;SHD-029-C;Ground Unit;U/B;3
 Pyrrhic Assault;TWI-103-L;Event;G;0
@@ -1106,7 +1106,7 @@ Tantive IV, Fleeing the Empire;JTL-252-U;Space Unit;W;3 # 1 foil
 Tarfful, Kashyyyk Chieftain;SHD-250-R;Ground Unit;W;1
 Targeting Computer;JTL-171-R;Upgrade;R;0
 Tarkintown;SOR-025-R;Base;R;1
-Tauntaun;LOF-064-C;Ground Unit;U;0
+Tauntaun;LOF-064-C;Ground Unit;U;1
 Tech, Source of Insight;SHD-248-R;Ground Unit;W;1
 Techno Union Transport;JTL-190-C;Space Unit;Y/B;3
 Temple of Destruction;LOF-025-R;Base;R;0
@@ -1148,7 +1148,7 @@ They Hate That Ship;JTL-155-R;Event;R/W;0
 Third Sister, Seething with Ambition;LOF-010-C;Leader;R/B;1 # 1 hyperspace
 This Is The Way;SHD-253-U;Event;W;3 # 1 foil
 Thralls of the Coven;LOF-136-C;Ground Unit;R/B;1
-Three Lessons;LOF-225-U;Event;Y;0
+Three Lessons;LOF-225-U;Event;Y;1
 TIE Advanced;SOR-231-U;Space Unit;B;3 # 1 hyperspace
 TIE Ambush Squadron;JTL-087-C;Space Unit;G/B;3
 TIE Bomber;JTL-237-C;Space Unit;B;3
@@ -1157,7 +1157,7 @@ TIE/ln Fighter;SOR-225-C;Space Unit;B;3 # 1 hyperspace
 Time of Crisis;LOF-177-R;Event;R;0
 Timely Intervention;SHD-129-C;Event;G;3 # 1 foil
 Timely Reinforcements;JTL-130-U;Event;G;1
-Tip The Scale;LOF-226-C;Event;Y;0
+Tip The Scale;LOF-226-C;Event;Y;1
 Tipoca City;TWI-024-C;Base;G;1 # 1 hyperspace
 Tobias Beckett, I Trust No One;SHD-217-R;Ground Unit;Y;0
 Tomb of Eilram;LOF-028-R;Base;Y;0
@@ -1214,7 +1214,7 @@ Village Tender;LOF-107-C;Ground Unit;G;0
 Viper Probe Droid;SOR-228-C;Ground Unit;B;3 # 1 foil
 Volunteer Soldier;SOR-248-C/TWI-254-C;Ground Unit;N;3
 Vonreg's TIE Interceptor, Ace of the First Order;JTL-137-U;Space Unit;R/B;2 # 1 hyperspace
-Vulptex;LOF-245-C;Ground Unit;W;0
+Vulptex;LOF-245-C;Ground Unit;W;1
 Vulture Interceptor Wing;TWI-063-U;Space Unit;U;3 # 1 foil
 Wampa;SOR-164-C/LOF-164-C;Ground Unit;R;3
 Wanted Insurgents;SHD-167-C;Ground Unit;R;3 # 1 hyperspace
