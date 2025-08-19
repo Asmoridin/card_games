@@ -58,7 +58,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Jumpstart 2025", "Innistrad Remastered", "SNC Game Day", "Aetherdrift Commander",
     "Tarkir: Dragonstorm Commander", "War of the Spark Mythic Edition",
     "FINAL FANTASY Through the Ages", "Magic: The Gathering—FINAL FANTASY Commander",
-    "Edge of Eternities Bonus Sheet",
+    "Edge of Eternities Bonus Sheet", "Edge of Eternities Commander",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
