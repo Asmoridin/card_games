@@ -1,5 +1,5 @@
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-16, 19-25, 27, 29-30, 33, 35, 41, 46-47, 50-52, 66-67, 82-85, 87-88, 94-96, 100-101, 104-106, 111, 115-116, 120-121, 124-140, 143-145, 149-150, 154-155, 159-160, 164-165, 170, 178-184, 187-188, 194-195, 199-200, 204-206, 210-211, 216-220, 222-223, 235, 238-240, 244-245, 249-250, 255, 258-260, 263-264, 268-269, 274, 277-279, 283-284, 287-289
+# Objective Sets Done: 1-16, 19-25, 27, 29-30, 33, 35, 41, 46-47, 50-52, 62, 66-67, 82-85, 87-88, 94-96, 100-101, 104-106, 111, 114-116, 120-121, 124-140, 143-145, 149-150, 154-155, 159-160, 164-165, 170, 178-184, 187-188, 194-195, 199-200, 204-206, 210-211, 216-220, 222-223, 234-235, 238-240, 244-245, 248-250, 255, 258-260, 263-264, 267-269, 274, 277-279, 283-284, 287-289
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Backstabber";Sith;Unit;Vehicle/Fighter/Black Squadron;2;2;220-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
@@ -7,14 +7,36 @@
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
 181st TIE Interceptor;Imperial Navy;Unit;Vehicle/Fighter;2;1;144-2
+Vader's Fist;Sith;Objective;Hoth;;;62-1
 4-LOM (Out of the Mists);Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;222-1
 4-LOM;Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;106-1
 8t88;Scum and Villainy;Unit;Droid/Mercenary;4;3;289-1
+501st Trooper;Sith;Unit;Character/Trooper;2;1;62-2
+501st Legion;Sith;Unit;Character/Trooper;4;2;62-1
+E-Web Heavy Repeating Blaster;Dark Neutral;Enhancement;Weapon;1;2;62-1
 A Better Offer;Scum and Villainy;Event;;0;1;138-1
 A Dark Time for the Rebellion;Imperial Navy;Objective;Hoth;;;51-1
 A Disturbance In the Force;Sith;Event;;2;3;25-1
 A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
+0-0-0;Sith;Unit;Droid;4;2;267-1
+BT-1;Sith;Unit;Droid;3;2;267-1
+Forgotten Droid Factory;Dark Neutral;Enhancement;Geonosis/Location;2;1;267-1
+Overwrite Protocol;Sith;Event;;1;1;267-1
+The Second Phase;Sith;Objective;Arc Hammer;;;114-1
+Ancient Rivals;Sith;Fate;;;0;2;234-2
+Dragonsnake;Sith;Unit;Creature;2;2;248-2
+Endless Hunger;Sith;Enhancement;Condition;2;0;248-1
+Bestial Fury;Dark Neutral;Event;;0;3;248-1
+Endless Hunger;Sith;Enhancement;Condition;2;0;248-1
+Dark Trooper Legion;Sith;Unit;Droid/Trooper;6;2;114-2
+Darth Vader (There is No Conflict);Sith;Objective;Character/Force User;5;4;234-1
+Threat from the Depths;Sith;Objective;Dagobah;;;248-1
+501st Commander;Dark Neutral;Unit;Character/Officer/Trooper;2;1;234-1
+Force Shield;Sith;Enhancement;Force/Control/Alter;1;1;114-1
+Facility Repair;Dark Neutral;Event;;0;1;114-1
+Consumed by the Dark Side;Sith;Event;Force/Alter;1;2;114-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
+There is No Conflict;Sith;Objective;;;;234-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
 A New Hope;Rebel Alliance;Event;;2;2;14-1
 A Price on Their Heads;Scum and Villainy;Event;Bounty;6;4;96-1
@@ -58,7 +80,7 @@ Bane Malar;Scum and Villainy;Unit;Character/Bounty Hunter;4;3;211-1
 Barada;Scum and Villainy;Unit;Character/Mercenary;3;2;284-1
 Baron Fel;Imperial Navy;Unit;Character/Pilot/Ace;4;3;144-1
 Battle of Endor;Dark Neutral;Fate;;0;1;199-1/200-1/205-1
-Battle of Hoth;Dark Neutral;Fate;;0;3;120-1/283-1
+Battle of Hoth;Dark Neutral;Fate;;0;3;62-1/120-1/283-1
 Battlefield Engineers;Rebel Alliance;Unit;Character/Engineer;2;2;9-1
 Behind the Black Sun;Scum and Villainy;Objective;Coruscant;;;170-1
 Believer in the Old Ways;Jedi;Unit;Character/Force Sensitive;2;1;2-1/7-1
@@ -215,7 +237,8 @@ Fall of the Jedi;Sith;Objective;Executor;;;19-1
 False Lead;Rebel Alliance;Enhancement;Decoy;0;2;14-1
 Family Connections;Imperial Navy;Objective;Tepasi;;;140-1
 Fearsome and Foul;Sith;Objective;;;;204-1
-Feeding Frenzy;Dark Neutral;Event;;0;1;204-1
+Feeding Frenzy;Dark Neutral;Event;;0;1;204-1/248-1
+Vader's Army;Sith;Objective;;;;267-1
 FEX-model Combat Droid;Dark Neutral;Unit;Droid;3;1;260-1
 Fighters Coming In!;Imperial Navy;Event;Maneuver;0;1;182-1
 Flamethrower;Scum and Villainy;Enhancement;Weapon;2;2;134-1
@@ -266,7 +289,7 @@ He Doesn't Like You;Scum and Villainy;Event;;1;2;240-1
 Head of Security;Scum and Villainy;Enhancement;Title;2;2;206-1
 Heart of Cold;Scum and Villainy;Objective;;;;260-1
 Heartless Tactics;Scum and Villainy;Objective;Tatooine;;;235-1
-Heat of Battle;Dark Neutral;Fate;;0;2;19-1/29-1/85-1/120-1/132-1/136-1/149-1/170-1/182-1/223-1/288-1
+Heat of Battle;Dark Neutral;Fate;;0;2;19-1/29-1/85-1/120-1/132-1/136-1/149-1/170-1/182-1/223-1/267-1/288-1
 Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/127-1
 Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
 Heavy Fire;Imperial Navy;Event;;0;1;51-1
@@ -332,7 +355,7 @@ Jedi Lightsaber;Jedi;Enhancement;Weapon;1;2;1-1
 Jedi Mind Trick;Jedi;Event;Force/Control/Sense/Alter;1;1;3-1/7-1
 Jedi Training;Jedi;Objective;;;;7-1
 Jerec;Sith;Unit;Character/Force User/Inquisitor;4;4;100-1
-Join Me;Sith;Event;;2;1;94-1
+Join Me;Sith;Event;;2;1;94-1/234-1
 Journey Through the Swamp;Jedi;Objective;Dagobah;;;130-1
 Jubba Bird;Jedi;Unit;Creature/Dagobah/Force Sensitive;1;2;130-2
 K4 Security Droid;Dark Neutral;Unit;Droid;1;1;188-1
