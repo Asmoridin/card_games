@@ -25,6 +25,8 @@
 1 Willowrush Verge
 
 * Tarkir: Dragonstorm: 178.12 *
+1 Elspeth, Storm Slayer
+1 Ugin, Eye of the Storms
 1 All-Out Assault
 1 Awaken the Honored Dead
 1 Betor, Kin to All
@@ -36,7 +38,6 @@
 1 Dracogenesis
 1 Dragonclaw Strike
 1 Dragonfire Blade
-1 Elspeth, Storm Slayer
 1 Eshki Dragonclaw
 1 Evolving Wilds [TDM]
 1 Fangkeeper's Familiar
@@ -78,7 +79,6 @@
 1 Swamp (0289) [TDM]
 1 Taigam, Master Opportunist
 1 Teval, Arbiter of Virtue
-1 Ugin, Eye of the Storms
 1 United Battlefront
 1 Ureni, the Song Unending
 1 Warden of the Grove
@@ -199,292 +199,48 @@
 1 Yuffie Kisaragi - Yuriko, the Tiger's Shadow (Showcase)
 1 Zidane Tribal - Ragavan, Nimble Pilferer (Showcase)
 
-* Edge of Eternities *
-1 - Anticausal Vestige
-2
-3 - All-Fates Stalker
-4 - Astelli Reclaimer
-5 - Auxiliary Boosters
-6 - Banishing Light
-7
-8
-9 - Cosmogrand Zenith
-10 - Dawnstrike Vanguard
-11 - Dockworker Drone
-12
-13
-14 - Emergency Eject
-15
-16 - Exosuit Savior
-17 - Flight-Deck Coordinator
-18 - Focus Fire
-19 - Haliya, Guided by Light
-20
-21 - Honor
-22 - Honored Knight-Captain
-23 - Knight Luminary
-24
-25 - Lumen-Class Frigate
-26 - Luxknight Breacher
-27
-28 - Pulsar Squadron Ace
-29 - Radiant Strike
-30 - Rayblade Trooper
-31
-32
-33
-34
-35 - The Seriema
-36 - Squire's Lightblade
-37 - Starfield Shepherd
-38 - Starfighter Pilot
-39
-40
-41
-42
-43
-44 - Weftblade Enhancer
-45 - Zealous Display
-46 - Annul
-47 - Atomic Microsizer
-48 - Cerebral Download
-49
-50 - Codecracker Hound
-51
-52 - Cryogen Relic
-53 - Cryoshatter
-54
-55 - Divert Disaster
-56 - Emissary Escort
-57 - Gigastorm Titan
-58
-59 - Illvoi Infiltrator
-60 - Illvoi Light Jammer
-61 - Illvoi Operative
-62 - Lost in Space
-63
-64
-65 - Mechan Shieldmate
-66 - Mechanozoa
-67
-68
-69 - Moonlit Meditation
-70 - Mouth of the Storm
-71 - Nanoform Sentinel
-72 - Quantum Riddler
-73 - Scour for Scrap
-74 - Selfcraft Mechan
-75 - Sinister Cryologist
-76
-77 - Starbreach Whale
-78 - Starfield Vocalist
-79
-80
-81 - Synthesizer Labship
-82 - Tractor Beam
-83 - Unravel
-84 - Uthros Psionicist
-85 - Uthros Scanship
-86 - Weftwalking
-87
-88 - Archenemy's Charm
-89 - Beamsaw Prospector
-90
-91 - Chorale of the Void
-92 - Comet Crawler
-93 - Dark Endurance
-94 - Decode Transmissions
-95 - Depressurize
-96 - Dubious Delicacy
-97 - Elegy Acolyte
-98 - Embrace Oblivion
-99 - Entropic Battlecruiser
-100
-101 - Fell Gravship
-102 - Gravblade Heavy
-103 - Gravkill
-104 - Gravpack Monoist
-105 - Hullcarver
-106
-107
-108 - Insatiable Skittermaw
-109
-110 - Monoist Circuit-Feeder
-111 - Monoist Sentry
-112 - Perigee Beckoner
-113
-114
-115
-116 - Sunset Saboteur
-117 - Susurian Dirgecraft
-118 - Susurian Voidborn
-119 - Swarm Culler
-120 - Temporal Intervention
-121
-122 - Tragic Trajectory
-123 - Umbral Collar Zealot
-124 - Virus Beetle
-125 - Voidforged Titan
-126 - Vote Out
-127 - Xu-Ifit, Osteoharmonist
-128
-129 - Bombard
-130 - Cut Propulsion
-131
-132
-133 - Drill Too Deep
-134 - Frontline War-Rager
-135 - Full Bore
-136 - Galvanizing Sawship
-137 - Invasive Maneuvers
-138
-139 - Kavaron Harrier
-140 - Kavaron Skywarden
-141 - Kavaron Turbodrone
-142 - Lithobraking
-143 - Melded Moxite
-144
-145 - Memorial Vault
-146 - Molecular Modifier
-147 - Nebula Dragon
-148
-149 - Orbital Plunge
-150 - Oreplate Pangolin
-151 - Pain for All
-152 - Plasma Bolt
-153 - Possibility Technician
-154 - Red Tiger Mechan
-155 - Remnant Elemental
-156 - Rig for War
-157 - Roving Actuator
-158 - Ruinous Rampage
-159
-160 - Slagdrill Scrapper
-161
-162 - Tannuk, Steadfast Second
-163
-164 - Terrapact Intimidator
-165 - Territorial Bruntar
-166 - Vaultguard Trooper
-167 - Warmaker Gunship
-168
-169 - Weftstalker Ardent
-170 - Zookeeper Mechan
-171
-172
-173 - Biosynthic Burst
-174 - Blooming Stinger
-175 - Broodguard Elite
-176
-177 - Diplomatic Relations
-178 - Drix Fatemaker
-179 - Edge Rover
-180 - Eumidian Terrabotanist
-181
-182
-183 - Frenzied Baloth
-184 - Fungal Colossus
-185 - Galactic Wayfarer
-186 - Gene Pollinator
-187
-188 - Glacier Godmaw
-189 - Harmonious Grovestrider
-190 - Hemosymbic Mite
-191 - Icecave Crasher
-192 - Icetill Explorer
-193 - Intrepid Tenderfoot
-194
-195 - Lashwhip Predator
-196
-197
-198 - Meltstrider's Gear
-199
-200 - Mightform Harmonizer
-201
-202
-203 - Sami's Curiosity
-204
-205 - Seedship Impact
-206 - Shattered Wings
-207 - Skystinger
-208 - Sledge-Class Seedship
-209 - Tapestry Warden
-210 - Terrasymbiosis
-211 - Thawbringer
-212
-213 - Biomechan Engineer
-214 - Biotech Specialist
-215
-216
-217
-218 - Haliya, Ascendant Cadet
-219
-220 - Interceptor Mechan
-221 - Mm'mmenon, Uthros Exile
-222 - Mutinous Massacre
-223
-224 - Ragost, Deft Gastronaut
-225
-226 - Sami, Wildcat Captain
-227
-228
-229 - Space-Time Anomaly
-230
-231 - Syr Vondam, Sunstar Exemplar
-232 - Syr Vondam, the Lucent
-233 - Tannuk, Memorial Ensign
-234 - All-Fates Scroll
-235 - Bygone Colossus
-236 - Chrome Companion
-237 - Dauntless Scrapbot
-238
-239 - The Dominion Bracelet
-240
-241 - The Eternity Elevator
-242
-243 - Nutrient Block
-244 - Pinnacle Kill-Ship
-245 - Survey Mechan
-246 - Thaumaton Torpedo
-247 - Thrumming Hivepool
-248 - Virulent Silencer
-249 - Wurmwall Sweeper
-250 - Adagia, Windswept Bastion
-251
-252 - Command Bridge
-253
-254 - Godless Shrine
-255
-256 - Sacred Foundry
-257 - Secluded Starforge
-258 - Stomping Ground
-259 - Susur Secundi, Void Altar
-260 - Uthros, Titanic Godcore
-261
-262 - Plains (FA)
-263 - Island (FA)
-264 - Swamp (FA)
-265 - Mountain (FA)
-266 - Forest (FA)
-267 - Plains
-268 - Plains
-269 - Island
-270 - Island
-271 - Swamp
-272 - Swamp
-273 - Mountain
-274 - Mountain
-275 - Forest
-276 - Forest
+* Edge of Eternities 234.60 *
+1 Tezzeret, Cruel Captain
+1 Alpharael, Stonechosen
+1 Beyond the Quiet
+1 Bioengineered Future
+1 Breeding Pool
+1 Consult the Star Charts
+1 Cosmogoyf
+1 Dawnsire, Sunstar Dreadnought
+1 Debris Field Crusher
+1 Devastating Onslaught
+1 Dual-Sun Adepts
+1 Dual-Sun Technique
+1 Dyadrine, Synthesis Amalgam
+1 Evendo, Waking Haven
+1 Exalted Sunborn
+1 Extinguisher Battleship
+1 Famished Worldsire
+1 Genemorph Imago
+1 Hardlight Containment
+1 Infinite Guideline Station
+1 Kavaron, Memorial World
+1 Lightstall Inquisitor
+1 Loading Zone
+1 Mm'menon, the Right Hand
+1 Nova Hellkite
+1 Ouroboroid
+1 Pinnacle Emissary
+1 Pinnacle Starcage
+1 Requiem Monolith
+1 Rust Harvester
+1 Singularity Rupture
+1 Sothera, the Supervoid
+1 Starwinder
+1 Sunstar Chaplain
+1 Systems Override
+1 Terminal Velocity
+1 The Endstone
+1 Timeline Culler
+1 Watery Grave
+1 Weapons Manufacturing
+1 Zero Point Ballad
 
-1/10 - Sliver/Robot - 4
-2/4 - Human Soldier/Lander
-2/7 - Human Solider/Lander
-2/8 - Human Soldier/Lander
-3/5 - Drone/Lander
-3/10 - Drone/Robot - 3
-4/10 - Lander/Robot
-5/10 - Lander/Robot 
-6/10 - Lander/Robot - 3
-7/10 - Lander/Robot
-8/10 - Lander/Robot
+9 - Munitions - 2
+11 - Tezzeret Emblem - 0
