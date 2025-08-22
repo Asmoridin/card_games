@@ -179,7 +179,7 @@ def parse_restrictions(restr_lines):
                         'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
                         'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
                         'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
-                        'Lorwyn-Shadowmoor',]:
+                        'Lorwyn-Shadowmoor', 'Alara Block', ]:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -200,8 +200,6 @@ def parse_restrictions(restr_lines):
     # Innistrad block (Innistrad, Dark Ascension, Avacyn Restored)
     # Scars of Mirrodin block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
     # Zendikar block (Zendikar, Worldwake, Rise of the Eldrazi)
-    # Alara block (Shards of Alara, Conflux, Alara Reborn)
-    # Lorwyn–Shadowmoor block (Lorwyn, Morningtide, Shadowmoor, Eventide)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -286,6 +284,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Lorwyn-Shadowmoor block (Lorwyn, Morningtide, Shadowmoor, Eventide)
             if this_set in ['Lorwyn', 'Morningtide', 'Shadowmoor', 'Eventide']:
                 ret_formats['Lorwyn-Shadowmoor Block'] = 4
+			# Alara block (Shards of Alara, Conflux, Alara Reborn)
+			if this_set in ['Shards of Alara', 'Conflux', 'Alara Reborn']:
+                ret_formats['Alara Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -680,6 +681,10 @@ if __name__ == "__main__":
     # Lorwyn-Shadowmoor Block
     lorsha_dict = process_formats("Lorwyn-Shadowmoor Block", card_corrections)
     handle_output("Lorwyn-Shadowmoor Block", lorsha_dict, out_file_h)
+
+	# Alara Block
+	alara_dict = process_formats("Alara Block", card_corrections)
+    handle_output("Alara Block", alara_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
