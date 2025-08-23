@@ -285,7 +285,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             if this_set in ['Lorwyn', 'Morningtide', 'Shadowmoor', 'Eventide']:
                 ret_formats['Lorwyn-Shadowmoor Block'] = 4
 			# Alara block (Shards of Alara, Conflux, Alara Reborn)
-			if this_set in ['Shards of Alara', 'Conflux', 'Alara Reborn']:
+            if this_set in ['Shards of Alara', 'Conflux', 'Alara Reborn']:
                 ret_formats['Alara Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
@@ -683,7 +683,7 @@ if __name__ == "__main__":
     handle_output("Lorwyn-Shadowmoor Block", lorsha_dict, out_file_h)
 
 	# Alara Block
-	alara_dict = process_formats("Alara Block", card_corrections)
+    alara_dict = process_formats("Alara Block", card_corrections)
     handle_output("Alara Block", alara_dict, out_file_h)
 
     # Pauper Commander

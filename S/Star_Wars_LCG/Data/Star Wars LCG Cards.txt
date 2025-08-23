@@ -6,37 +6,19 @@
 "Mauler" Mithel;Sith;Unit;Character/Pilot/Black Squadron;3;2;143-1
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
+0-0-0;Sith;Unit;Droid;4;2;267-1
 181st TIE Interceptor;Imperial Navy;Unit;Vehicle/Fighter;2;1;144-2
-Vader's Fist;Sith;Objective;Hoth;;;62-1
 4-LOM (Out of the Mists);Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;222-1
 4-LOM;Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;106-1
-8t88;Scum and Villainy;Unit;Droid/Mercenary;4;3;289-1
-501st Trooper;Sith;Unit;Character/Trooper;2;1;62-2
+501st Commander;Dark Neutral;Unit;Character/Officer/Trooper;2;1;234-1
 501st Legion;Sith;Unit;Character/Trooper;4;2;62-1
-E-Web Heavy Repeating Blaster;Dark Neutral;Enhancement;Weapon;1;2;62-1
+501st Trooper;Sith;Unit;Character/Trooper;2;1;62-2
+8t88;Scum and Villainy;Unit;Droid/Mercenary;4;3;289-1
 A Better Offer;Scum and Villainy;Event;;0;1;138-1
 A Dark Time for the Rebellion;Imperial Navy;Objective;Hoth;;;51-1
 A Disturbance In the Force;Sith;Event;;2;3;25-1
 A Hero's Journey;Jedi;Objective;Tatooine;;;1-1
-0-0-0;Sith;Unit;Droid;4;2;267-1
-BT-1;Sith;Unit;Droid;3;2;267-1
-Forgotten Droid Factory;Dark Neutral;Enhancement;Geonosis/Location;2;1;267-1
-Overwrite Protocol;Sith;Event;;1;1;267-1
-The Second Phase;Sith;Objective;Arc Hammer;;;114-1
-Ancient Rivals;Sith;Fate;;0;2;234-2
-Dragonsnake;Sith;Unit;Creature;2;2;248-2
-Endless Hunger;Sith;Enhancement;Condition;2;0;248-1
-Bestial Fury;Dark Neutral;Event;;0;3;248-1
-Endless Hunger;Sith;Enhancement;Condition;2;0;248-1
-Dark Trooper Legion;Sith;Unit;Droid/Trooper;6;2;114-2
-Darth Vader (There is No Conflict);Sith;Objective;Character/Force User;5;4;234-1
-Threat from the Depths;Sith;Objective;Dagobah;;;248-1
-501st Commander;Dark Neutral;Unit;Character/Officer/Trooper;2;1;234-1
-Force Shield;Sith;Enhancement;Force/Control/Alter;1;1;114-1
-Facility Repair;Dark Neutral;Event;;0;1;114-1
-Consumed by the Dark Side;Sith;Event;Force/Alter;1;2;114-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
-There is No Conflict;Sith;Objective;;;;234-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
 A New Hope;Rebel Alliance;Event;;2;2;14-1
 A Price on Their Heads;Scum and Villainy;Event;Bounty;6;4;96-1
@@ -63,6 +45,7 @@ Alliance of Evil;Scum and Villainy;Event;;0;2;279-1
 Allies of Necessity;Dark Neutral;Fate;;0;2;263-1/277-1/279-1/288-1/289-1
 Alpha-class Star Wing;Imperial Navy;Unit;Vehicle/Fighter;3;1;249-1
 Ancient Monument;Jedi;Enhancement;Location;1;3;7-1
+Ancient Rivals;Sith;Fate;;0;2;234-2
 Anger;Sith;Enhancement;Condition;3;2;50-1
 Anzati Elite;Dark Neutral;Unit;Character/Force Sensitive;4;3;50-1
 Apology Accepted;Imperial Navy;Event;;2;1;88-1/249-1
@@ -85,6 +68,7 @@ Battlefield Engineers;Rebel Alliance;Unit;Character/Engineer;2;2;9-1
 Behind the Black Sun;Scum and Villainy;Objective;Coruscant;;;170-1
 Believer in the Old Ways;Jedi;Unit;Character/Force Sensitive;2;1;2-1/7-1
 Believer Initiate;Sith;Unit;Character;2;1;124-2
+Bestial Fury;Dark Neutral;Event;;0;3;248-1
 Black Krrsantan;Scum and Villainy;Unit;Character/Wookiee/Bounty Hunter;4;3;279-1
 Black Market Exchange;Scum and Villainy;Enhancement;Nar Shaddaa/Location;2;1;165-1
 Black Squadron Assault;Sith;Objective;Death Star;;;21-1
@@ -110,6 +94,7 @@ Bounty Listing;Scum and Villainy;Enhancement;Item;2;1;274-1
 Bounty;Scum and Villainy;Enhancement;Condition/Bounty;0;1;85-1
 Boushh;Scum and Villainy;Unit;Character/Black Sun/Bounty Hunter;2;2;138-1
 Brothers of the Sith;Sith;Objective;Sulon Star;;;183-1
+BT-1;Sith;Unit;Droid;3;2;267-1
 Bubo;Scum and Villainy;Unit;Creature;2;2;184-1
 BX-series Droid Commando;Dark Neutral;Unit;Droid;1;1;263-1
 C-3PO;Light Neutral;Unit;Droid;1;1;5-1
@@ -142,6 +127,7 @@ Commando Raid;Rebel Alliance;Objective;;;;132-1
 Common Ground;Light Neutral;Enhancement;Location;1;2;16-1
 Communications Officer;Imperial Navy;Unit;Character/Officer;3;1;41-1
 Confiscation;Sith;Enhancement;Condition;0;2;139-1
+Consumed by the Dark Side;Sith;Event;Force/Alter;1;2;114-1
 Containment Field;Dark Neutral;Enhancement;Item;0;1;106-1
 Control Room;Imperial Navy;Enhancement;Location;2;0;29-1/105-1/180-1/205-1/259-1
 Corellian Engineer;Light Neutral;Unit;Character/Engineer;2;1;6-1
@@ -167,8 +153,10 @@ Dark Lord of the Sith;Sith;Objective;Cloud City;;;217-1
 Dark Memories;Sith;Enhancement;Condition;0;1;87-2
 Dark Precognition;Sith;Event;Force/Sense;0;1;20-1
 Dark Side Apprentice;Sith;Unit;Character/Force Sensitive;2;1;19-1
+Dark Trooper Legion;Sith;Unit;Droid/Trooper;6;2;114-2
 Darth Vader (Dark Lord of the Sith);Sith;Unit;Character/Force User;5;4;217-1
 Darth Vader (Defending the Trench);Imperial Navy;Unit;Character/Force User/Pilot/Black Squadron;5;4;159-1
+Darth Vader (There is No Conflict);Sith;Objective;Character/Force User;5;4;234-1
 Darth Vader;Imperial Navy;Unit;Character/Force User;5;4;41-1
 Darth Vader;Sith;Unit;Character/Force User;5;4;19-1
 Death and Despayre;Imperial Navy;Objective;Despayre;;;29-1
@@ -205,9 +193,11 @@ Double-bladed Lightsaber;Sith;Enhancement;Weapon;1;1;287-1
 Double-Crossing Droid;Scum and Villainy;Objective;Nar Shaddaa;;;289-1
 DP20 Corellian Gunship;Imperial Navy;Unit;Vehicle/Capital Ship;3;2;179-1
 Dr. Evazan;Scum and Villainy;Unit;Character/Mercenary;2;2;240-1
+Dragonsnake;Sith;Unit;Creature;2;2;248-2
 Draw Their Fire;Rebel Alliance;Objective;;;;12-1
 Droid Uprising;Scum and Villainy;Event;;1;2;274-1
 DS-61-3;Imperial Navy;Unit;Character/Pilot/Black Squadron;2;1;150-1
+E-Web Heavy Repeating Blaster;Dark Neutral;Enhancement;Weapon;1;2;62-1
 Early Warning System;Imperial Navy;Enhancement;Item;2;0;223-1
 Echoes of the Force;Dark Neutral;Fate;;0;2;100-1/105-1/115-1/121-1/211-1/219-1
 Elite Pilot Training;Imperial Navy;Enhancement;Black Squadron;2;2;150-1
@@ -216,6 +206,8 @@ Emperor Palpatine (Power of the Dark Side);Sith;Unit;Character/Force User;6;5;21
 Emperor Palpatine;Sith;Unit;Character/Force User;6;5;23-1
 Emperor's Royal Guard;Sith;Unit;Character/Imperial Guard;2;2;23-1
 Encounter at Stygeon Prime;Sith;Objective;Stygeon Prime;;;218-1
+Endless Hunger;Sith;Enhancement;Condition;2;0;248-1
+Endless Hunger;Sith;Enhancement;Condition;2;0;248-1
 Endor AT-ST;Imperial Navy;Unit;Vehicle/Walker;2;2;210-2
 Endor Command Post;Imperial Navy;Enhancement;Endor/Location;1;0;210-1
 Endor Entrapment;Imperial Navy;Objective;Endor;;;205-1
@@ -232,13 +224,13 @@ Executive Override;Sith;Event;;0;3;238-1
 Executor;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;6;3;200-1
 Executor;Sith;Unit;Vehicle/Capital Ship;8;3;66-1
 Experimental Tech Lab;Imperial Navy;Enhancement;Arc Hammer/Location;2;1;288-1
+Facility Repair;Dark Neutral;Event;;0;1;114-1
 Fall Back!;Rebel Alliance;Event;;0;1;14-1
 Fall of the Jedi;Sith;Objective;Executor;;;19-1
 False Lead;Rebel Alliance;Enhancement;Decoy;0;2;14-1
 Family Connections;Imperial Navy;Objective;Tepasi;;;140-1
 Fearsome and Foul;Sith;Objective;;;;204-1
 Feeding Frenzy;Dark Neutral;Event;;0;1;204-1/248-1
-Vader's Army;Sith;Objective;;;;267-1
 FEX-model Combat Droid;Dark Neutral;Unit;Droid;3;1;260-1
 Fighters Coming In!;Imperial Navy;Event;Maneuver;0;1;182-1
 Flamethrower;Scum and Villainy;Enhancement;Weapon;2;2;134-1
@@ -256,10 +248,12 @@ Force Lightning;Sith;Event;Force/Control/Alter;3;1;23-1
 Force Manipulation;Sith;Event;Force/Control/Alter;1;1;219-1
 Force Push;Sith;Event;Force/Control/Alter;2;1;50-1
 Force Rejuvenation;Jedi;Event;Force/Control;2;2;6-1
+Force Shield;Sith;Enhancement;Force/Control/Alter;1;1;114-1
 Force Shockwave;Sith;Event;Force/Control/Sense/Alter;3;3;87-1
 Force Stasis;Sith;Event;Force/Control/Alter;1;1;22-1/183-1
 Force Storm;Sith;Event;Force/Control/Alter;4;2;100-1
 Force Wraith;Sith;Unit;Character/Spirit;3;2;87-2
+Forgotten Droid Factory;Dark Neutral;Enhancement;Geonosis/Location;2;1;267-1
 Forgotten Heroes;Jedi;Objective;;;;3-1
 Fortified Holding Cells;Scum and Villainy;Enhancement;Fortification/Location;2;2;235-1
 Freelance Assassin;Dark Neutral;Unit;Character/Assassin/Mercenary;1;1;170-1
@@ -417,6 +411,7 @@ Our Most Desperate Hour;Light Neutral;Event;;0;1;3-1
 Out of the Mists;Scum and Villainy;Objective;Gand;;;222-1
 Outer Rim Hunter;Scum and Villainy;Unit;Character/Bounty Hunter;2;1;33-1
 Overwhelming Firepower;Dark Neutral;Enhancement;Tactic;2;1;278-1
+Overwrite Protocol;Sith;Event;;1;1;267-1
 Page's Commandos;Rebel Alliance;Unit;Character/Trooper;2;1;132-2
 Palace Security;Scum and Villainy;Unit;Character;3;2;126-2
 Patrolling the Wastes;Scum and Villainy;Objective;Tatooine;;;284-1
@@ -586,6 +581,7 @@ The Moorsh Moraine;Dark Neutral;Enhancement;Hoth/Location;3;2;51-1
 The Prince's Scheme;Dark Neutral;Fate;;0;1;135-1
 The Rebel Fleet;Rebel Alliance;Objective;;;;11-1
 The Scavengers;Scum and Villainy;Objective;Tatooine;;;116-1
+The Second Phase;Sith;Objective;Arc Hammer;;;114-1
 The Secret of Yavin 4;Jedi;Objective;Yavin 4;;;5-1
 The Seventh Sister;Sith;Unit;Character/Force User/Inquisitor;4;3;287-1
 The Shadow of Nar Shaddaa;Scum and Villainy;Objective;Nar Shaddaa;;;83-1
@@ -594,7 +590,9 @@ The Slimiest Scheme;Scum and Villainy;Objective;Tatooine;;;126-1
 The Spice Trade;Scum and Villainy;Objective;Kessel;;;195-1
 The Tarkin Doctrine;Imperial Navy;Objective;Eriadu;;;178-1
 The Tatooine Crash;Scum and Villainy;Objective;Tatooine;;;82-1
+There is No Conflict;Sith;Objective;;;;234-1
 There Is No Escape;Sith;Event;;4;2;22-1
+Threat from the Depths;Sith;Objective;Dagobah;;;248-1
 Threat Removal;Scum and Villainy;Event;;2;1;170-1
 Thunderflare;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;5;2;95-1
 TIE Advanced;Dark Neutral;Unit;Vehicle/Fighter/Black Squadron;2;1;21-1/143-1
@@ -628,6 +626,8 @@ Unexpected Assistance;Light Neutral;Event;;1;1;131-1
 Unrefusable Offer;Dark Neutral;Event;;1;1;216-1
 Unsavory Contracts;Scum and Villainy;Objective;Tatooine;;;279-1
 Utinni!;Scum and Villainy;Event;;2;2;82-1
+Vader's Army;Sith;Objective;;;;267-1
+Vader's Fist;Sith;Objective;Hoth;;;62-1
 Vader's Lightsaber;Sith;Enhancement;Weapon;1;2;19-1
 Vader's Meditation Chamber;Sith;Enhancement;Executor/Location;1;1;217-1
 Vader's TIE Advanced;Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;2;159-1
