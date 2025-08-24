@@ -14,7 +14,7 @@ class Hero:
     """
     def __init__(self, name, num_aspects=1):
         self.name = name
-        if type(num_aspects) != type(0):
+        if not isinstance(num_aspects, int):
             raise ValueError('Invalid aspect count')
         self.num_aspects = num_aspects
     def gen_combos(self):
@@ -26,6 +26,11 @@ class Hero:
         for aspect_combo in aspect_combos:
             ret_list.append((self.name, tuple(sorted(aspect_combo))))
         return ret_list
+    def __str__(self):
+        """
+        Generate a string for the hero
+        """
+        return f"Hero name: {self.name}, number of aspects: {self.num_aspects}"
 
 heroes = []
 heroes.extend([

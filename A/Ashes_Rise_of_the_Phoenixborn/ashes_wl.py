@@ -14,8 +14,6 @@ if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "A/Ashes_Rise_of_the_Phoenixborn"
 
 out_file_h = open(FILE_PREFIX + "/AshesOut.txt", 'w', encoding="UTF-8")
-in_file = open(FILE_PREFIX + '/Data/AshesWL.txt', 'r', encoding="UTF-8")
-
 
 all_phoenixborn = ['Aradel Summergaard', 'Astrea', 'Brennen Blackcloud', 'Coal Roarkwin',
     'Dimona Odinstar', 'Echo Greystorm', 'Fiona Mercywind', 'Harold Westraven', 'Hope Everthorn',
@@ -28,8 +26,8 @@ all_phoenixborn = ['Aradel Summergaard', 'Astrea', 'Brennen Blackcloud', 'Coal R
 
 double_print("Ashes: Rise of the Phoenixborn Win-Loss Tracker and deck selector", out_file_h)
 
-data_lines = in_file.readlines()
-in_file.close()
+with open(FILE_PREFIX + '/Data/AshesWL.txt', 'r', encoding="UTF-8") as in_file:
+    data_lines = in_file.readlines()
 data_lines = [line.strip() for line in data_lines]
 
 my_pb_wl = {}
@@ -96,8 +94,8 @@ for opponent in sorted(my_opp_wl):
 
 double_print("\nMy record against opposing phoenixborn:", out_file_h)
 for opp_pb in sorted(my_opp_pb_wl):
-    ldr_str = f"{opp_pb}: {my_opp_pb_wl[opp_pb][0]}-{my_opp_pb_wl[opp_pb][1]}"
-    double_print(ldr_str, out_file_h)
+    OPP_PBORN_STR = f"{opp_pb}: {my_opp_pb_wl[opp_pb][0]}-{my_opp_pb_wl[opp_pb][1]}"
+    double_print(OPP_PBORN_STR, out_file_h)
 
 MIN_SEEN = 1000000
 min_seen_pbs = []
@@ -120,6 +118,6 @@ playable_pb_list = sorted(playable_pb_list, key=lambda x:(x[1], x[0]))
 least_pb = playable_pb_list[0][0]
 least_pb_games = playable_pb_list[0][1]
 
-sugg_string = f"\nI should play more games with {least_pb}, as I only have " + \
+PB_SUGG_STR = f"\nI should play more games with {least_pb}, as I only have " + \
     f"{least_pb_games} game{('', 's')[least_pb_games != 1]}"
-double_print(sugg_string, out_file_h)
+double_print(PB_SUGG_STR, out_file_h)

@@ -120,28 +120,28 @@ double_print(f"My current record is {total_wl[0]}-{total_wl[1]}", out_file_h)
 double_print(f"\nMy record by outfit: ({len(outfit_to_gang)} total outfits in game)", out_file_h)
 outfit_play_tuples = []
 for gang, gang_ids in sorted(outfits_by_gang.items()):
-    gang_wl_str = f"{gang}:"
+    GANG_WL_STR = f"{gang}:"
     if gang in gang_wl:
-        gang_wl_str = f"{gang}: {gang_wl[gang][0]}-{gang_wl[gang][1]}"
-    double_print(gang_wl_str, out_file_h)
+        GANG_WL_STR = f"{gang}: {gang_wl[gang][0]}-{gang_wl[gang][1]}"
+    double_print(GANG_WL_STR, out_file_h)
     for outfit_name in gang_ids:
         if outfit_name in outfit_wl:
             outfit_play_tuples.append((outfit_name, sum(outfit_wl[outfit_name])))
-            out_str = f" - {outfit_name}: {outfit_wl[outfit_name][0]}-{outfit_wl[outfit_name][1]}"
-            double_print(out_str, out_file_h)
+            OUT_STR = f" - {outfit_name}: {outfit_wl[outfit_name][0]}-{outfit_wl[outfit_name][1]}"
+            double_print(OUT_STR, out_file_h)
 
 outfit_play_tuples = sorted(outfit_play_tuples, key=lambda x: (-1 * x[1], x[0]))
 double_print(f"\nMy H-Index is {get_h_index(outfit_play_tuples)}", out_file_h)
 
 double_print("\nMy record against opponents:", out_file_h)
 for opponent, this_opp_wl in sorted(opp_wl.items()):
-    opp_wl_str = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
-    double_print(opp_wl_str, out_file_h)
+    OPP_WL_STR = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
+    double_print(OPP_WL_STR, out_file_h)
 
 double_print("\nMy record against opposing gangs:", out_file_h)
 for opp_gang, gang_wl in sorted(opp_gang_wl.items()):
-    gang_wl_str = f"- {opp_gang}: {gang_wl[0]}-{gang_wl[1]}"
-    double_print(gang_wl_str, out_file_h)
+    OPP_GANG_WL_STR = f"- {opp_gang}: {gang_wl[0]}-{gang_wl[1]}"
+    double_print(OPP_GANG_WL_STR, out_file_h)
 
 # Least seen OUTFITs
 LEAST_PLAYED_QTY = 100

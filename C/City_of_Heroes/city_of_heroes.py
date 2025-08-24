@@ -16,8 +16,6 @@ FILE_PREFIX = "card_games/C/City_of_Heroes"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "C/City_of_Heroes"
 
-file_h = open(FILE_PREFIX + '/Data/CityOfHeroesData.txt', 'r', encoding="UTF-8")
-
 def validate_type(in_type):
     """
     Standardize the card types
@@ -57,8 +55,8 @@ def validate_powers(in_power):
     print("Invalid Power: " + ret_power)
     return None
 
-lines = file_h.readlines()
-file_h.close()
+with open(FILE_PREFIX + '/Data/CityOfHeroesData.txt', 'r', encoding="UTF-8") as file_h:
+    lines = file_h.readlines()
 lines = [line.strip() for line in lines]
 
 item_list = []
