@@ -1,5 +1,5 @@
 # card_name;affil;card_type;cost;force_icons;obj_set - quant
-# Objective Sets Done: 1-16, 19-25, 27, 29-30, 33, 35, 41, 46-47, 50-52, 62, 66-67, 82-85, 87-88, 94-96, 100-101, 104-106, 111, 114-116, 120-121, 124-140, 143-145, 149-150, 154-155, 159-160, 164-165, 170, 178-184, 187-188, 194-195, 199-200, 204-206, 210-211, 216-220, 222-223, 234-235, 238-240, 244-245, 248-250, 255, 258-260, 263-264, 267-269, 274, 277-279, 283-284, 287-289
+# Objective Sets Done: 1-16, 19-25, 27, 29-30, 33-36, 41-42, 46-47, 50-52, 62, 66-68, 82-85, 87-90, 94-96, 100-101, 104-106, 111, 114-116, 120-121, 124-140, 143-145, 149-150, 154-155, 159-160, 164-165, 170, 178-184, 187-189, 194-195, 199-200, 204-206, 210-211, 216-220, 222-223, 234-235, 238-240, 244-245, 248-250, 255, 258-260, 263-264, 267-269, 274, 277-279, 283-284, 287-289
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Backstabber";Sith;Unit;Vehicle/Fighter/Black Squadron;2;2;220-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
@@ -7,6 +7,29 @@
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
 0-0-0;Sith;Unit;Droid;4;2;267-1
+Across the Jundland Wastes;Dark Neutral;Objective;Tatooine;;;89-1
+Bantha;Dark Neutral;Unit;Creature;3;2;89-1
+Tusken Raider;Dark Neutral;Unit;Character/Scavenger;2;1;89-3
+Looking for Droids;Dark Neutral;Objective;Tatooine;;;34-1
+Viper Probe Droid;Dark Neutral;Unit;Droid;2;1;34-2
+Dark Alliance;Dark Neutral;Event;;0;2;34-2
+Contract Hunter;Dark Neutral;Unit;Character/Bounty Hunter;2;1;189-2
+Reconnaissance Mission;Dark Neutral;Objective;;;;36-1
+Human Replica Droid;Dark Neutral;Unit;Droid/Spy;3;1;36-2
+Shadows on the Ice;Dark Neutral;Objective;Hoth;;;42-1
+Filthy Accusations;Dark Neutral;Event;;0;3;189-1
+Wampa;Dark Neutral;Unit;Creature/Hoth;3;1;42-2
+Succumb to the Cold!;Dark Neutral;Event;Hoth;0;1;42-2
+It's Worse;Dark Neutral;Event;;0;2;34-1
+Mission Command;Dark Neutral;Objective;Outer Rim;;;189-1
+Assassination Contract;Dark Neutral;Mission;;1;1;189-1
+Gaffi Stick;Dark Neutral;Enhancement;Weapon;1;3;89-1
+Asteroid Pursuit;Dark Neutral;Objective;;;;90-1
+Lictor-class Dungeon Ship;Dark Neutral;Unit;Vehicle/Capital Ship;3;2;90-1
+Trooper Sentry;Dark Neutral;Unit;Character/Trooper;1;1;90-2
+Endless Reserves;Dark Neutral;Objective;;;;68-1
+Vast Resources;Dark Neutral;Event;;0;1;68-5
+Armed and Ready;Dark Neutral;Event;;2;1;90-1
 181st TIE Interceptor;Imperial Navy;Unit;Vehicle/Fighter;2;1;144-2
 4-LOM (Out of the Mists);Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;222-1
 4-LOM;Scum and Villainy;Unit;Droid/Bounty Hunter;2;1;106-1
@@ -63,7 +86,7 @@ Bane Malar;Scum and Villainy;Unit;Character/Bounty Hunter;4;3;211-1
 Barada;Scum and Villainy;Unit;Character/Mercenary;3;2;284-1
 Baron Fel;Imperial Navy;Unit;Character/Pilot/Ace;4;3;144-1
 Battle of Endor;Dark Neutral;Fate;;0;1;199-1/200-1/205-1
-Battle of Hoth;Dark Neutral;Fate;;0;3;62-1/120-1/283-1
+Battle of Hoth;Dark Neutral;Fate;;0;3;42-1/62-1/120-1/283-1
 Battlefield Engineers;Rebel Alliance;Unit;Character/Engineer;2;2;9-1
 Behind the Black Sun;Scum and Villainy;Objective;Coruscant;;;170-1
 Believer in the Old Ways;Jedi;Unit;Character/Force Sensitive;2;1;2-1/7-1
@@ -283,7 +306,7 @@ He Doesn't Like You;Scum and Villainy;Event;;1;2;240-1
 Head of Security;Scum and Villainy;Enhancement;Title;2;2;206-1
 Heart of Cold;Scum and Villainy;Objective;;;;260-1
 Heartless Tactics;Scum and Villainy;Objective;Tatooine;;;235-1
-Heat of Battle;Dark Neutral;Fate;;0;2;19-1/29-1/85-1/120-1/132-1/136-1/149-1/170-1/182-1/223-1/267-1/288-1
+Heat of Battle;Dark Neutral;Fate;;0;2;19-1/29-1/36-1/85-1/120-1/132-1/136-1/149-1/170-1/182-1/223-1/267-1/288-1
 Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/127-1
 Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
 Heavy Fire;Imperial Navy;Event;;0;1;51-1
@@ -435,7 +458,7 @@ Probe Droid;Dark Neutral;Unit;Droid;2;1;41-2
 Promotion;Imperial Navy;Enhancement;Condition;1;1;210-1
 Prophet of the Dark Side;Sith;Unit;Character/Force Sensitive;1;1;50-2
 Protect the Generator;Imperial Navy;Objective;Endor;;;210-1
-Protection;Dark Neutral;Fate;;0;2;83-1/284-1
+Protection;Dark Neutral;Fate;;0;2;83-1/90-1/284-1
 Punishing One;Scum and Villainy;Unit;Vehicle/Transport;2;2;96-1
 Questionable Contacts;Smugglers and Spies;Objective;Tatooine;;;15-1
 R2-D2;Light Neutral;Unit;Droid;0;0;4-1/129-1
@@ -479,7 +502,7 @@ Scouring the Empire;Sith;Objective;Coruscant;;;100-1
 Scout Trooper;Dark Neutral;Unit;Character/Trooper;2;1;187-2
 Search and Detain;Imperial Navy;Event;;0;1;194-1
 Secret Information;Dark Neutral;Enhancement;Item;2;1;263-1/289-1
-Secret Objective;Dark Neutral;Fate;;0;3;187-1/206-1
+Secret Objective;Dark Neutral;Fate;;0;3;187-1/189-1/206-1
 Sector Garrison;Dark Neutral;Enhancement;Elrood/Location;1;0;194-1
 Sector Lockdown;Imperial Navy;Objective;Elrood;;;194-1
 Security Alarm;Dark Neutral;Enhancement;Fortification;1;1;268-1
@@ -532,7 +555,7 @@ Tactical Planning;Imperial Navy;Fate;;0;3;244-2
 Take Them Prisoner;Imperial Navy;Objective;Death Star;;;32-1
 Tallon Roll;Imperial Navy;Event;Maneuver;0;1;27-1/30-1
 Talon Karrde;Smugglers and Spies;Unit;Character/Smuggler;4;3;133-1
-Target of Opportunity;Dark Neutral;Fate;;0;2;21-1/67-1/84-1/137-1/150-1
+Target of Opportunity;Dark Neutral;Fate;;0;2;21-1/36-1/67-1/84-1/137-1/150-1
 Target of Opportunity;Light Neutral;Fate;;0;2;4-1/11-1/129-1/132-1
 Tear This Ship Apart;Imperial Navy;Event;;1;2;32-1
 Technological Terror;Imperial Navy;Objective;Death Star;;;259-1
@@ -617,7 +640,7 @@ Trust Your Feelings;Jedi;Enhancement;Skill;2;1;1-1
 Twi'lek Loyalist;Jedi;Unit;Character;1;1;1-1/4-1
 Twi'lek Smuggler;Smugglers and Spies;Unit;Character/Rogue;2;1;15-1
 Twi'lek Sycophant;Dark Neutral;Unit;Character/Mercenary;1;1;250-1/289-1
-Twist of Fate;Dark Neutral;Fate;;0;0;20-1/30-1/82-1/178-1
+Twist of Fate;Dark Neutral;Fate;;0;0;20-1/30-1/36-1/82-1/178-1
 Twist of Fate;Light Neutral;Fate;;0;0;5-1/10-1
 Ugnaught;Scum and Villainy;Unit;Character/Engineer;2;1;52-1/260-1
 Underground Entertainment;Scum and Villainy;Enhancement;Trap;0;2;184-1

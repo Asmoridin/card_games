@@ -1053,7 +1053,7 @@ Asako Misai;Personality;Phoenix;Evil Portents (Uncommon);War of the Seals (Onyx 
 Asako Misako;Personality;Phoenix;Path of the Destroyer (Common);Destroyer War (Celestial);3;0
 Asako Misao • Experienced;Personality;Phoenix;Dark Allies (Rare);Four Winds (Gold);1;0
 Asako Misao;Personality;Phoenix;Gold Edition (Uncommon)/The War of Spirits (Uncommon);Four Winds (Gold);3;0
-Asako Misao;Personality;Phoenix;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;0
+Asako Misao;Personality;Phoenix;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;1
 Asako Miyabi, Master of Water;Personality;Phoenix;Road to Ruin (Fixed);Shattered Empire;1;0
 Asako Miyabi, Master of Water;Personality;Phoenix;Road to Ruin (Fixed);War of the Seals (Onyx Edition);1;0
 Asako Moeru;Personality;Phoenix;Second City (Common)/Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
@@ -1420,7 +1420,7 @@ Bayushi Atsuto;Personality;Scorpion;Onyx Edition (Fixed);War of the Seals (Onyx 
 Bayushi Azumamoru;Personality;Scorpion;The Dead of Winter (Uncommon);Destroyer War (Celestial);3;0
 Bayushi Baku • Experienced 2;Personality;Scorpion/Spirit;Wrath of the Emperor (Fixed);Rain of Blood (Diamond);1;0
 Bayushi Baku • Experienced 3;Personality;Scorpion;Lotus Edition (Rare);Age of Enlightenment (Lotus);1;0
-Bayushi Baku • Experienced;Personality;Scorpion/Spirit;The War of Spirits (Rare);Hidden Emperor (Jade);1;0
+Bayushi Baku • Experienced;Personality;Scorpion/Spirit;The War of Spirits (Rare);Hidden Emperor (Jade);1;1
 Bayushi Baku;Personality;Scorpion/Spirit;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);3;0
 Bayushi Baku;Personality;Scorpion/Spirit;Forbidden Knowledge (Uncommon);Hidden Emperor (Jade);3;0
 Bayushi Bokatsu • Experienced;Personality;Scorpion;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);1;0
@@ -1468,7 +1468,20 @@ Bayushi Himaru;Personality;Scorpion;Empire at War (Common);Destroyer War (Celest
 Bayushi Hirono;Personality;Scorpion;Dark Allies (Common);Four Winds (Gold);3;0
 Bayushi Hirose;Personality;Scorpion;Glory of the Empire (Rare);Race for the Throne (Samurai);3;0
 Bayushi Hirose;Personality;Scorpion;War of Honor (Fixed)/Glory of the Empire (Rare);Destroyer War (Celestial);3;0
+Bayushi Hisa • Experienced 2;Personality;Scorpion;Honor Bound (Rare);Hidden Emperor (Jade);1;0
 Bayushi Hisa • Experienced 3;Personality;Scorpion;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
+Bayushi Hisa • Experienced;Personality;Scorpion;Time of the Void (Uncommon);Clan Wars (Imperial);1;0
+Bayushi Hisa • Experienced;Personality;Scorpion;Time of the Void (Uncommon);Hidden Emperor (Jade);1;0
+Bayushi Hisa;Personality;Scorpion;Obsidian Edition (Common);Hidden Emperor (Jade);3;0
+Bayushi Hisa;Personality;Scorpion;Shadowlands (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;0
+Bayushi Hisako;Personality;Scorpion;Khan's Defiance (Common);Age of Enlightenment (Lotus);3;0
+Bayushi Hisako;Personality;Scorpion;Khan's Defiance (Common);Race for the Throne (Samurai);3;0
+Bayushi Hisato;Personality;Scorpion;Samurai Edition (Common);Race for the Throne (Samurai);3;0
+Bayushi Hisoka • Experienced;Personality;Scorpion;Path of the Destroyer (Fixed);Destroyer War (Celestial);1;0
+Bayushi Hisoka;Personality;Scorpion;Samurai Edition (Rare);Race for the Throne (Samurai);1;0
+Bayushi House Guard;Follower;;Gold Edition (Rare);Four Winds (Gold);1;0
+Bayushi House Guard;Follower;;Scorpion Clan Coup 2 (Uncommon);Clan Wars (Imperial);1;0
+Bayushi Hurunayi;Personality;Ninja/Scorpion;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Bayushi Ikita;Personality;Scorpion;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Bayushi Kachiko • Inexperienced;Personality;Scorpion;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);1;1
 Bayushi Kachiko • Inexperienced;Personality;Scorpion;Scorpion Clan Coup 1 (Uncommon);Hidden Emperor (Jade);1;0
@@ -1501,6 +1514,8 @@ Bayushi Norimasa, Blade of the Black Cabal;Personality;Scorpion;Rise of Jigoku (
 Bayushi Norimasa, Blade of the Black Cabal;Personality;Scorpion;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Bayushi Osamu;Personality;Scorpion;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Bayushi Osamu;Personality;Scorpion;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
+Bayushi Paneki;Personality;Scorpion;Gold Edition (Common)/The War of Spirits (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
+Bayushi Paneki;Personality;Scorpion;The War of Spirits (Common);Hidden Emperor (Jade);3;3
 Bayushi Sotaro;Personality;Scorpion;Road to Ruin (Fixed);Shattered Empire;3;0
 Bayushi Sotaro;Personality;Scorpion;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Bayushi Urubei;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -3012,6 +3027,7 @@ Ichiro Yojimbo;Follower;;Code of Bushido (Common);Age of Enlightenment (Lotus);3
 Ichiro Yojimbo;Follower;;Code of Bushido (Common);Rain of Blood (Diamond);3;0
 Ichiro Yojimbo;Follower;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Ichiro Yojimbo;Follower;;Shattered Empire (Fixed);Shattered Empire;3;0
+Ide Gokun;Personality;Spirit/Unicorn;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;3
 Ide Haichang;Personality;Unicorn;Reign of Blood (Common);Rain of Blood (Diamond);3;1
 Ide Hideshi • Experienced;Personality;Unicorn;Gathering Storms (Fixed);Shattered Empire;3;0
 Ide Jyunkai;Personality;Unicorn;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -3191,6 +3207,9 @@ Isawa Kunie;Personality;Phoenix;Road to Ruin (Fixed);Shattered Empire;3;0
 Isawa Kunie;Personality;Phoenix;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Isawa Library;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Isawa Library;Holding;;Shattered Empire (Fixed);Shattered Empire;1;0
+Isawa Metigaru;Personality;Phoenix/Spirit;The War of Spirits (Common);Hidden Emperor (Jade);3;2
+Isawa Nakamuro;Personality;Phoenix;Gold Edition (Common)/The War of Spirits (Common);Four Winds (Gold);3;0
+Isawa Nakamuro;Personality;Phoenix;The War of Spirits (Common);Hidden Emperor (Jade);3;1
 Isawa Noda;Personality;Phoenix;Road to Ruin (Fixed);Shattered Empire;3;0
 Isawa Noda;Personality;Phoenix;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Isawa Nomura • Experienced;Personality;Phoenix;Rise of Jigoku (Fixed);Shattered Empire;3;0
@@ -3936,6 +3955,8 @@ Moto Daigoro • Experienced;Personality;Spider;Rise of Otosan Uchi (Fixed);War 
 Moto Denji;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Moto Denji;Personality;Unicorn;Shattered Empire (Fixed);Shattered Empire;3;0
 Moto Gaheris • Experienced;Personality;Unicorn;Soul of the Empire (Fixed);Hidden Emperor (Jade);1;1
+Moto Hideyo;Personality;Unicorn;Gold Edition (Common)/The War of Spirits (Common);Four Winds (Gold);3;0
+Moto Hideyo;Personality;Unicorn;The War of Spirits (Common);Hidden Emperor (Jade);3;3
 Moto Houkai;Personality;Unicorn;Chaos Reigns II (Fixed);Shattered Empire;3;0
 Moto Jengzan;Personality;Unicorn;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Moto Jengzan;Personality;Unicorn;Evil Portents (Uncommon);War of the Seals (Onyx Edition);3;2
@@ -3982,6 +4003,8 @@ Moto Tsuneo, Soul of Moto Tsume;Personality;Unaligned;Shattered Empire (Fixed);S
 Moto Ugoro;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Moto Ugoro;Personality;Unicorn;Shattered Empire (Fixed);Shattered Empire;3;0
 Moto Vordu • Experienced;Personality;Unicorn;An Oni's Fury (Rare);Four Winds (Gold);1;1
+Moto Vordu;Personality;Unicorn;Gold Edition (Common)/The War of Spirits (Common);Four Winds (Gold);3;0
+Moto Vordu;Personality;Unicorn;The War of Spirits (Common);Hidden Emperor (Jade);3;3
 Moto Xin;Personality;Unicorn;Coils of Madness (Premium);A Brother's Destiny (Ivory Edition);3;1
 Moto Xin;Personality;Unicorn;Coils of Madness (Premium);Age of Conquest (Emperor);3;1
 Moto Yanshuo, Speaker for the Dead;Personality;Unicorn;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
@@ -4806,9 +4829,15 @@ Share the Blame;Strategy;;The Truest Test (Common);Age of Enlightenment (Lotus);
 Share the Blame;Strategy;;The Truest Test (Common);Race for the Throne (Samurai);3;1
 Sharing Gossip;Strategy;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
 Sharpest Blade;Strategy;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;3
+Shasyahkar • Experienced;Personality;Naga;The War of Spirits (Rare);Four Winds (Gold);1;0
+Shasyahkar • Experienced;Personality;Naga;The War of Spirits (Rare);Hidden Emperor (Jade);1;1
 Shattered Peaks Castle;Stronghold;Crab;Celestial Edition (Fixed);Destroyer War (Celestial);1;0
 Shattered Peaks Castle;Stronghold;Crab;Glory of the Empire (Fixed);Race for the Throne (Samurai);1;0
+Shaunasea;Personality;Naga;The War of Spirits (Uncommon);Four Winds (Gold);3;0
+Shaunasea;Personality;Naga;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;2
 Shelter for Refugees;Strategy;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;2
+Shiba Aikune;Personality;Phoenix;Gold Edition (Common)/The War of Spirits (Common);Four Winds (Gold);3;0
+Shiba Aikune;Personality;Phoenix;The War of Spirits (Common);Hidden Emperor (Jade);3;3
 Shiba Etsuya;Personality;Phoenix;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Shiba Etsuya;Personality;Phoenix;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Shiba Hiroyuki;Personality;Phoenix;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -4894,6 +4923,8 @@ Shinjo Saeki, Clan Champion • Experienced 2;Personality;Unicorn;Shattered Empi
 Shinjo Saeki;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Shinjo Saeki;Personality;Unicorn;The New Order (Common);A Brother's Destiny (Ivory Edition);3;0
 Shinjo Saeki;Personality;Unicorn;The New Order (Common);A Brother's Destiny (Twenty Festivals);3;0
+Shinjo Shono • Experienced;Personality;Unicorn;Gold Edition (Rare)/The War of Spirits (Rare);Four Winds (Gold);1;0
+Shinjo Shono • Experienced;Personality;Unicorn;The War of Spirits (Rare);Hidden Emperor (Jade);1;1
 Shinjo Sosuke;Personality;Unicorn;Road to Ruin (Fixed);Shattered Empire;3;0
 Shinjo Sosuke;Personality;Unicorn;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Shinjo Technique;Strategy;;Gold Edition (Fixed);Four Winds (Gold);3;0
@@ -5105,6 +5136,9 @@ Sons of Gusai • Experienced;Follower;;Evil Portents (Common);A Brother's Desti
 Sons of Gusai • Experienced;Follower;;Evil Portents (Common);War of the Seals (Onyx Edition);3;3
 Sons of Gusai;Follower;;A Line in the Sand (Common)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Sons of Gusai;Follower;;A Line in the Sand (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;3
+Soshi Angai;Personality;Scorpion;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Soshi Angai;Personality;Scorpion;Gold Edition (Uncommon)/The War of Spirits (Uncommon)/L5R Experience (Fixed);Four Winds (Gold);3;0
+Soshi Angai;Personality;Scorpion;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;1
 Soshi Aoto, Master Assassin;Personality;Scorpion;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Soshi Aoto, Master Assassin;Personality;Scorpion;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Soshi Itsuki;Personality;Scorpion;Chaos Reigns I (Fixed);Shattered Empire;3;0
@@ -5359,6 +5393,8 @@ Tarui;Personality;Unaligned;Twenty Festivals (Common);War of the Seals (Onyx Edi
 Tattoo of the Night Sky;Strategy;;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;3
 Tausha • Experienced;Personality;Naga;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Tausha • Experienced;Personality;Naga;Shattered Empire (Fixed);Shattered Empire;3;0
+Te'tik'kir;Personality;Ratling;Gold Edition (Common)/The War of Spirits (Common);Four Winds (Gold);3;0
+Te'tik'kir;Personality;Ratling;The War of Spirits (Common);Hidden Emperor (Jade);3;2
 Tea House;Holding;;A Perfect Cut (Common);Four Winds (Gold);3;0
 Tea House;Holding;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Tea House;Holding;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
@@ -6315,6 +6351,10 @@ Yazaki;Personality;Unaligned;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);
 Yobanjin Raids;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Yobanjin Raids;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Yodin Sensei;Sensei;;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
+Yoee'trr;Personality;Ratling;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Yoee'trr;Personality;Ratling;Gold Edition (Uncommon)/The War of Spirits (Uncommon);Four Winds (Gold);3;0
+Yoee'trr;Personality;Ratling;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Yoee'trr;Personality;Ratling;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;1
 Yogo Ayuri;Personality;Scorpion;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Yogo Ayuri;Personality;Scorpion;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Yogo Heijin;Personality;Scorpion;Seeds of Decay (Rare);Age of Conquest (Emperor);3;1
@@ -6437,12 +6477,12 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #780
-#783
+# Done through card #790
 #791
 #802
 #838
 #853
+#860
 #929
 #955
 #960
@@ -6664,7 +6704,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3527
 #3547-3548
 #3558
-#3567
+#3566-3567
 #3574-3575
 #3586
 #3636
@@ -6681,6 +6721,8 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3802
 #3808-3809
 #3841
+#3859
+#3871
 #3910
 #3926-3927
 #3929
@@ -6789,10 +6831,11 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5307
 #5309
 #5317
+#5325
 #5380
 #5384
 #5387
-#5391
+#5390-5391
 #5401
 #5415
 #5435
@@ -6924,8 +6967,11 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6700
 #6704
 #6710
+#6714
 #6722
+#6725
 #6730
+#6735
 #6769-6770
 #6775
 #6822-6823
@@ -6936,6 +6982,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6887
 #6898
 #6906
+#6943
 #6952
 #6955
 #6959
@@ -6971,6 +7018,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7327
 #7329
 #7331
+#7341
 #7377
 #7365
 #7369
@@ -7014,6 +7062,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7808
 #7821
 #7829
+#7849
 #7852
 #7861-7862
 #7874
@@ -7170,6 +7219,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9468
 #9471
 #9480
+#9482
 #9497
 #9502
 #9511
