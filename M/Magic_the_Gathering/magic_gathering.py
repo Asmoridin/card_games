@@ -340,7 +340,7 @@ def get_corrections(in_lines):
         ret_dict[start_card] = end_card
     return ret_dict
 
-def validate_colors(in_colors):
+def validate_colors(in_colors, in_name):
     """
     Takes in a string of colors, and returns a list with the full color names
     """
@@ -349,7 +349,7 @@ def validate_colors(in_colors):
         'G':'Green'}
     for color in in_colors.split('/'):
         if color not in color_map:
-            print("Invalid color: " + color)
+            print(f"Invalid color {color} for {in_name}")
         else:
             ret_colors.append(color_map[color])
     return ret_colors
@@ -475,7 +475,7 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = "Betrayers of Kamigawa"
+CHECK_SET = "Saviors of Kamigawa"
 CHECK_AMOUNT = 165
 SET_CHECK += 0 # Extra basic lands
 
@@ -526,7 +526,7 @@ for line in lines:
         print("Something wrong with line:")
         print(line)
         continue
-    card_colors = validate_colors(card_colors)
+    card_colors = validate_colors(card_colors, card_name)
     card_type = card_type.replace('—', '-')
     card_type = card_type.replace('\u2013', '-')
     card_type, card_subtype = validate_types(card_type)
@@ -550,7 +550,7 @@ for line in lines:
     #if CHECK_SET in card_sets and 'Blue' in card_colors:
     #if CHECK_SET in card_sets and 'Green' in card_colors and 'Creature' not in card_type:
     #if CHECK_SET in card_sets and 'Artifact' in card_type:
-        #print(card_name)
+        print(card_name)
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
