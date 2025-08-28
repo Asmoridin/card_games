@@ -475,9 +475,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = "Saviors of Kamigawa"
-CHECK_AMOUNT = 165
-SET_CHECK += 0 # Extra basic lands
+CHECK_SET = "Ninth Edition"
+CHECK_AMOUNT = 359
+SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
