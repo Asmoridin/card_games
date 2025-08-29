@@ -475,8 +475,8 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = "Ninth Edition"
-CHECK_AMOUNT = 359
+CHECK_SET = "Ravnica: City of Guilds"
+CHECK_AMOUNT = 306
 SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
