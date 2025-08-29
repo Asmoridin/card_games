@@ -753,13 +753,13 @@ if __name__ == "__main__":
     double_print("*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
-        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', 'Warrior', 'Spirit', ]
+        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', 'Warrior', 'Spirit', 'Dragon', ]
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     if creature_types[99][1] >= len(USED_TYPES) - 5:
         double_print(f"Time to do a Tribal Commander - {creature_types[0][0]}", out_file_h)
-    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Seal']
+    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Seal', 'Echidna', 'Lobster', ]
     for remove_type in remove_one_ofs:
         try:
             one_ofs.remove(remove_type)
