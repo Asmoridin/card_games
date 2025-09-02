@@ -19,29 +19,34 @@ jobs:
       - name: Create monthly maintenance issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          TITLE: Automated Ticket -  Update MTG decks
+          LABELS: MTG
+          BODY: |
+            - [ ] Vintage
+            - [ ] Legacy
+            - [ ] Premodern
+            - [ ] Modern
+            - [ ] Pioneer
+            - [ ] Standard
+            - [ ] Pauper
+            - [ ] Oathbreaker
+            - [ ] Ice Age Block
+            - [ ] Mirage Block
+            - [ ] Tempest Block
+            - [ ] Urza\'s Block
+            - [ ] Masques Block
+            - [ ] Invasion Block
+            - [ ] Odyssey Block
+            - [ ] Onslaught Block
+            - [ ] Mirrodin Block
+            - [ ] Kamigawa Block
+            - [ ] Ravnica Block
+            - [ ] Time Spiral Block
+            - [ ] Pauper Commander
+            - [ ] Commander
         run: |
           gh issue create \
-            --title "Automated Ticket: Update MTG decks" \
-            --body "            - [ ] Vintage \
-            - [ ] Legacy \
-            - [ ] Premodern \
-            - [ ] Modern \
-            - [ ] Pioneer \
-            - [ ] Standard \
-            - [ ] Pauper \
-            - [ ] Oathbreaker \
-            - [ ] Ice Age Block \
-            - [ ] Mirage Block \
-            - [ ] Tempest Block \
-            - [ ] Urza\'s Block \
-            - [ ] Masques Block \
-            - [ ] Invasion Block \
-            - [ ] Odyssey Block \
-            - [ ] Onslaught Block \
-            - [ ] Mirrodin Block \
-            - [ ] Kamigawa Block \
-            - [ ] Ravnica Block \
-            - [ ] Time Spiral Block \
-            - [ ] Pauper Commander \
-            - [ ] Commander"
-
+            --title "$TITLE" \
+            --label "$LABELS" \
+            --body "$BODY"  
