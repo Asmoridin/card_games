@@ -138,9 +138,11 @@ def get_index(in_deck):
     """
     ret_index = 0
     if in_deck['Affiliation'] != "" and in_deck['Affiliation'] not in VALID_AFFILIATIONS:
-        if in_deck['Affiliation'] in ['Mercenary Contacts', 'Expendable Allies', ]:
+        if in_deck['Affiliation'] in ['Mercenary Contacts', 'Expendable Allies',
+                'Galactic Enforcers', 'Promise of Power']:
             ret_index = 6
-        print(f"Need to handle index for affilation {in_deck['Affiliation']}")
+        else:
+            print(f"Need to handle index for affilation {in_deck['Affiliation']}")
     for objective_set_name, obj_set_qty in in_deck['Objectives'].items():
         if objective_set_name not in objectives:
             print(f"Need data on {objective_set_name}")
@@ -190,6 +192,12 @@ def read_deck(in_deck_lines, deck_name):
             continue
         if this_deck_line == "Affiliation: Expendable Allies":
             ret_deck['Affiliation'] = "Expendable Allies"
+            continue
+        if this_deck_line == "Affiliation: Galactic Enforcers":
+            ret_deck['Affiliation'] = "Galactic Enforcers"
+            continue
+        if this_deck_line == "Affiliation: Promise of Power":
+            ret_deck['Affiliation'] = "Promise of Power"
             continue
         try:
             deck_obj_qty = int(this_deck_line.split(' ')[0])
