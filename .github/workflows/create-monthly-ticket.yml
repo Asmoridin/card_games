@@ -1,14 +1,10 @@
 name: Create Monthly Ticket
 
-#on:
-#  schedule:
+on:
+  schedule:
     # Runs at 00:00 UTC on the 1st of every other month
     # For example: January 1st, March 1st, May 1st, etc.
-#    - cron: '0 0 1 */2 *' 
-on:
-  push:
-    branches:
-      - main
+    - cron: '0 0 1 */2 *' 
 
 jobs:
   create_issue:
