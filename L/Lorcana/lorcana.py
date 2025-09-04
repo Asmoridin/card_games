@@ -14,7 +14,7 @@ GAME_NAME = "Lorcana"
 valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
 card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
-    "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", ]
+    "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", 'Fabled', ]
 
 FILE_PREFIX = "card_games/L/Lorcana"
 if os.getcwd().endswith('card_games'):
