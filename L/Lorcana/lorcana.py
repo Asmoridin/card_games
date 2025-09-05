@@ -5,6 +5,7 @@ Collection manager/purchase suggester for Lorcana
 """
 
 import os
+import re
 
 from card_games.General.Libraries.output_utils import double_print
 from card_games.General.Libraries.sort_and_filter import sort_and_filter
@@ -15,6 +16,28 @@ valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
 card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
     "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", 'Fabled', ]
+valid_rarities = ['Common', 'Uncommon', 'Rare', 'Super Rare', 'Legendary']
+
+def parse_sets(this_card_name, card_set_string):
+    """
+    The heavy lifting function of this module, where I go through and figure out rarites, sets,
+    formats, and anything else
+    """
+    ret_sets = []
+    ret_rarities = set()
+    for card_set in card_set_string.split('/'):
+        match_obj = re.search(r"(.*) \((.*)\)", card_set)
+        if match_obj:
+            this_set, this_set_rarity = match_obj.groups()
+            if this_set not in card_sets:
+                print(f"Invalid card set {this_set} for {this_card_name}")
+                continue
+            if this_set_rarity not in valid_rarities:
+                print(f"Invalid rarity {this_set_rarity} for {this_card_name}")
+                continue
+            ret_sets.append(this_set)
+            ret_rarities.add(this_set_rarity)
+    return (ret_sets, list(ret_rarities))
 
 FILE_PREFIX = "card_games/L/Lorcana"
 if os.getcwd().endswith('card_games'):
@@ -32,7 +55,12 @@ card_names = set()
 item_list = []
 for line in lines:
     line = line.split('#')[0].strip()
-    card_name, card_type, card_color, card_set, card_rarity, card_own = line.split(';')
+    try:
+        card_name, card_type, card_color, card_set_info, card_own = line.split(';')
+    except ValueError:
+        print("Issue with line:")
+        print(line)
+        continue
     if card_name in card_names:
         print("Duplicate card name: " + card_name)
     card_names.add(card_name)
@@ -42,20 +70,16 @@ for line in lines:
     for card_color in card_colors:
         if card_color not in valid_colors:
             print("Invalid card color: " + card_color)
-    if card_rarity not in ['Common', 'Uncommon', 'Rare', 'Super Rare', 'Legendary']:
-        print("Invalid rarity: " + card_rarity)
+
     card_own = int(card_own)
 
-    card_set = card_set.split('/')
-    for this_card_set in card_set:
-        if this_card_set not in card_sets:
-            print(f"Unknown card set: {this_card_set}")
-            continue
+    this_card_sets, this_card_rarities = parse_sets(card_name, card_set_info) # pylint: disable=unbalanced-tuple-unpacking
 
     CARD_MAX = 4
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
-    item_list.append((card_name, card_type, card_colors, card_set, card_rarity, card_own, CARD_MAX))
+    item_list.append((card_name, card_type, card_colors, this_card_sets, this_card_rarities, \
+        card_own, CARD_MAX))
 
 # Filter by card_set
 chosen_set, filtered_list = sort_and_filter(item_list, 3)
