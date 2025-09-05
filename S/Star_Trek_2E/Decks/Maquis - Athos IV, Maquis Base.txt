@@ -1,15 +1,17 @@
+// Pulled 9/5/25 from https://www.trekcc.org/decklists/?mode=view&deckID=48786
+// Uses Athos IV, Maquis Base
+
 Missions
 Headquarters
 54	V	1		•Athos IV, Maquis Base
 Planet
-2	U	100		•Volan III, Investigate Maquis Activity
 40	V	24		•Soltok IV, Transport "Medical Supplies"
+2	U	100		•Volan III, Investigate Maquis Activity
 Space
 21	V	14		•Alpha 5 Approach, Transport Crash Survivor
 14	U	54		•Elude Federation Forces
 
 
-	
 Draw Deck (43)
 Equipment
 1	U	71		2x Starfleet Type-2 Phaser
@@ -21,11 +23,11 @@ Event
 Interrupt
 59	V	10		3x Cascade Virus
 Personnel
-	Bajoran
+Bajoran
 0	VP	43		1x •Dukat, Pah-Wraith Puppet
 56	V	31		1x •Seska, Complicated Loyalties
 36	V	29		1x •Teero Anaydis, Misguided Vedek
-	Federation
+Federation
 3	R	174		1x •B'Elanna Torres, Creative Engineer
 2	U	119		1x •Cal Hudson, Attaché to the Demilitarized Zone
 2	R	120		1x •Chakotay, Freedom Fighter
@@ -41,20 +43,20 @@ Personnel
 11	P	19		1x •Tom Paris, "Starfleet Observer"
 0	VP	285		1x •Tuvok, Undercover
 2	U	132		1x •William Patrick Samuels, Maquis Saboteur
-	Ferengi
+Ferengi
 57	V	20		1x •Quark, Middleman
-	Klingon
+Klingon
 2	U	146		2x M'vil
-	Non-Aligned
+Non-Aligned
 14	R	97		1x •Kasidy Yates, Conflicted Captain
 18	V	40		1x •Sakonna, Puzzled Interrogator
 Ship
-	Federation
+Federation
 24	V	45		1x •Cosette, Reliable Raider
 17	V	84		1x •Javert, Maquis Flagship
 x	R	205		1x •U.S.S. Defiant, Stolen Warship
 2	R	173		1x •Valjean
-	Non-Aligned
+Non-Aligned
 3	R	207		1x •Xhosa
 Dilemma Pile (20)
 Dual
