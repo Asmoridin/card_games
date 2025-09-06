@@ -12,7 +12,7 @@ GAME_NAME = "One Piece"
 
 ALL_COLORS = {'U':'Blue', 'G':'Green', 'R':'Red', 'P':'Purple', 'B':'Black', 'Y':'Yellow'}
 
-DECK_ERA = "OP11"
+DECK_ERA = "OP12"
 
 def validate_colors(in_colors):
     """
