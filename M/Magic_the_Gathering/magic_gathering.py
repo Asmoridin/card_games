@@ -172,6 +172,10 @@ def parse_restrictions(restr_lines):
         for restriction in card_restrictions.split('/'):
             if restriction == 'Relentless':
                 return_dict[this_card_name]['All'] = 'Relentless'
+            elif restriction == 'Relentless-9':
+                return_dict[this_card_name]['All'] = 'Relentless-9'
+            elif restriction == 'Relentless-7':
+                return_dict[this_card_name]['All'] = 'Relentless-7'
             else:
                 this_format, bnr = restriction.split('-')
                 if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
@@ -295,6 +299,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
         ret_formats['Pauper'] = 4
         ret_formats['Pauper Commander'] = 1
     is_relentless = False
+    relentless_limit = 25
     if card_restrictions:
         for restriction_format, restriction_bnr in card_restrictions.items():
             if restriction_bnr == 'Banned':
@@ -303,6 +308,12 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
                 ret_formats[restriction_format] = 1
             elif restriction_bnr == 'Relentless':
                 is_relentless = True
+            elif restriction_bnr == 'Relentless-9':
+                is_relentless = True
+                relentless_limit = 9
+            elif restriction_bnr == 'Relentless-7':
+                is_relentless = True
+                relentless_limit = 7
             else:
                 print(restriction_format)
                 print(restriction_bnr)
@@ -310,7 +321,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
         ret_formats = {"Vintage": 1}
     if is_relentless:
         for format_name in ret_formats:
-            ret_formats[format_name] = 25
+            ret_formats[format_name] = relentless_limit
     for format_name, format_qty in ret_formats.items():
         this_card_max = max(this_card_max, format_qty)
     ret_rarities = list(ret_rarities)
@@ -477,9 +488,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = "Ravnica: City of Guilds"
-CHECK_AMOUNT = 306
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = "Guildpact"
+CHECK_AMOUNT = 165
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
