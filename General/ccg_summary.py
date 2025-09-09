@@ -114,7 +114,7 @@ if __name__ == "__main__":
         double_print(pt_str, out_file_h)
 
     double_print("\nLargest Collections:", out_file_h)
-    for game_info in largest_collection[:5]:
+    for game_info in largest_collection[:10]:
         info_n, info_h, _  = game_info
         PT_STR = f"- {info_n}: {info_h}"
         double_print(PT_STR, out_file_h)

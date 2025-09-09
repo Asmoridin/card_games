@@ -183,7 +183,8 @@ def parse_restrictions(restr_lines):
                         'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
                         'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
                         'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
-                        'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block']:
+                        'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block',
+                        'Scars of Mirrodin Block',]:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -202,7 +203,6 @@ def parse_restrictions(restr_lines):
     # Theros block (Theros, Born of the Gods, Journey into Nyx)
     # Return to Ravnica block (Return to Ravnica, Gatecrash, Dragon's Maze)
     # Innistrad block (Innistrad, Dark Ascension, Avacyn Restored)
-    # Scars of Mirrodin block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -293,6 +293,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Zendikar block (Zendikar, Worldwake, Rise of the Eldrazi)
             if this_set in ['Zendikar', 'Worldwake', 'Rise of the Eldrazi']:
                 ret_formats['Zendikar Block'] = 4
+            # Scars of Mirrodin block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
+            if this_set in ['Scars of Mirrodin', 'Mirrodin Besieged', 'New Phyrexia']:
+                ret_formats['Scars of Mirrodin Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -703,6 +706,10 @@ if __name__ == "__main__":
     alara_dict = process_formats("Zendikar Block", card_corrections)
     handle_output("Zendikar Block", alara_dict, out_file_h)
 
+    # Scars of Mirrodin Block
+    alara_dict = process_formats("Scars of Mirrodin Block", card_corrections)
+    handle_output("Scars of Mirrodin Block", alara_dict, out_file_h)
+
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
     handle_output("Pauper Commander", paup_comm, out_file_h)
@@ -726,7 +733,7 @@ if __name__ == "__main__":
 
     for deck in comm_dict['DECKS']:
         if deck[0] in commander_cats['Marvel']:
-            double_print(f"Marvel deck closest to completion: {deck[0]}", out_file_h)
+            double_print(f"\nMarvel deck closest to completion: {deck[0]}", out_file_h)
             double_print(f"Needed cards: {deck[1]} - {str(deck[2])}\n", out_file_h)
             break
     for deck in comm_dict['DECKS']:
@@ -753,7 +760,7 @@ if __name__ == "__main__":
     print_deck = comm_dict["OLDEST"]
     old_name = print_deck[1].replace('.txt','')
     updated = datetime.datetime.strftime(print_deck[0], "%m/%d/%Y")
-    double_print(f"Oldest Commander deck is {old_name}, last updated {updated}", out_file_h)
+    double_print(f"\nOldest Commander deck is {old_name}, last updated {updated}", out_file_h)
 
     print_deck = oath_dict["OLDEST"]
     old_name = print_deck[1].replace('.txt','')
@@ -767,7 +774,7 @@ if __name__ == "__main__":
     for creature, creature_freq in creature_types.items():
         if creature_freq == 1:
             one_ofs.append(creature)
-    double_print("*** OTHER DATA ***", out_file_h)
+    double_print("\n*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
         'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', 'Warrior', 'Spirit', 'Dragon', ]
