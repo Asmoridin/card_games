@@ -40,6 +40,8 @@ jobs:
             - [ ] Ravnica Block
             - [ ] Time Spiral Block
             - [ ] Alara Block
+            - [ ] Zendikar Block
+            - [ ] Scars of Mirrodin Block
             - [ ] Pauper Commander
             - [ ] Commander
         run: |
