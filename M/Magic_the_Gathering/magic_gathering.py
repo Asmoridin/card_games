@@ -491,8 +491,8 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = "Guildpact"
-CHECK_AMOUNT = 165
+CHECK_SET = "Dissension"
+CHECK_AMOUNT = 180
 SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0

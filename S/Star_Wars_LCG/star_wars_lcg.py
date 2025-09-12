@@ -139,7 +139,8 @@ def get_index(in_deck):
     ret_index = 0
     if in_deck['Affiliation'] != "" and in_deck['Affiliation'] not in VALID_AFFILIATIONS:
         if in_deck['Affiliation'] in ['Mercenary Contacts', 'Expendable Allies',
-                'Galactic Enforcers', 'Promise of Power', 'Imperial Contractors', ]:
+                'Galactic Enforcers', 'Promise of Power', 'Imperial Contractors', 
+                'Dark Masters']:
             ret_index = 6
         else:
             print(f"Need to handle index for affilation {in_deck['Affiliation']}")
@@ -201,6 +202,9 @@ def read_deck(in_deck_lines, deck_name):
             continue
         if this_deck_line == "Affiliation: Imperial Contractors":
             ret_deck['Affiliation'] = "Imperial Contractors"
+            continue
+        if this_deck_line == "Affiliation: Dark Masters":
+            ret_deck['Affiliation'] = "Dark Masters"
             continue
         try:
             deck_obj_qty = int(this_deck_line.split(' ')[0])
