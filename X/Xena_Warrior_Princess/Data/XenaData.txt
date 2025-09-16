@@ -6,7 +6,7 @@ Altar of Ares;Xena: Warrior Princess;Resource;Blue;Vital;4;4
 Altar Sacrifice;Xena: Warrior Princess;Action;Blue;Uncommon;4;0
 Amazon Princess;Battle Cry;Character;Green;Uncommon;4;0
 Amazon Queen;Battle Cry;Character;Green;Rare;4;0
-Amazon Trainer;Battle Cry;Character;Green;Common;4;0
+Amazon Trainer;Battle Cry;Character;Green;Common;4;1
 Amazon Village;Xena: Warrior Princess;Resource;Green;Vital;4;1
 Angered Giant;Xena: Warrior Princess;Character;Green;Uncommon;4;0
 Angered Titan;Xena: Warrior Princess;Character;Blue;Rare;4;0
@@ -19,15 +19,15 @@ Ares's Soldiers;Xena: Warrior Princess;Character;Blue;Common;4;0
 Ares's Wrath;Xena: Warrior Princess;Action;Blue;Common;4;1
 Ares;Xena: Warrior Princess;Character;Blue;Rare;4;0
 Argo;Xena: Warrior Princess;Character;Green;Rare;4;0
-Arm-Wrestling Contest;Battle Cry;Combat;Green;Common;4;0
+Arm-Wrestling Contest;Battle Cry;Combat;Green;Common;4;1
 Army of Ares;Xena: Warrior Princess;Action;Red;Rare;4;0
-Arrows from the Woods;Battle Cry;Action;Red;Common;4;0
+Arrows from the Woods;Battle Cry;Action;Red;Common;4;1
 Autolycus's Boast;Xena: Warrior Princess;Combat;Red;Uncommon;4;0
 Autolycus, King of Thieves;Xena: Warrior Princess;Character;Red;Rare;4;1
-Bacchae Bite;Battle Cry;Combat;Blue;Rare;4;0
+Bacchae Bite;Battle Cry;Combat;Blue;Rare;4;1
 Bacchae Horde;Battle Cry;Character;Blue;Common;4;0
 Bacchus;Battle Cry;Character;Blue;Rare;4;0
-Backstabber;Battle Cry;Character;Red;Uncommon;4;0
+Backstabber;Battle Cry;Character;Red;Uncommon;4;1
 Banshees;Xena: Warrior Princess;Character;Blue;Uncommon;4;0
 Bath House;Xena: Warrior Princess;Resource;Red;Vital;4;4
 Beauty Contest;Xena: Warrior Princess;Action;Red;Uncommon;4;0
@@ -45,14 +45,14 @@ Callisto Goes Overboard;Battle Cry;Combat;Red;Rare;4;0
 Callisto Strikes;Battle Cry;Action;Red;Uncommon;4;0
 Callisto's Master Plan;Battle Cry;Combat;Blue;Rare;4;0
 Callisto's Revenge;Battle Cry;Action;Red;Uncommon;4;0
-Callisto's Wrath;Battle Cry;Action;Blue;Common;4;0
+Callisto's Wrath;Battle Cry;Action;Blue;Common;4;1
 Callisto;Battle Cry;Character;Red;Rare;4;0
 Captured;Xena: Warrior Princess;Action;Green;Common;4;1
 Castle Guard;Battle Cry;Character;Red;Common;4;0
 Castle;Xena: Warrior Princess;Resource;Red;Vital;4;4
 Catapult Siege;Xena: Warrior Princess;Action;Red;Common;4;2
 Cavalry Strike;Xena: Warrior Princess;Action;Red;Common;4;1
-Cecrops's Crew;Battle Cry;Character;Green;Uncommon;4;0
+Cecrops's Crew;Battle Cry;Character;Green;Uncommon;4;1
 Cecrops;Battle Cry;Character;Red;Rare;4;0
 Celtic Queen;Xena: Warrior Princess;Character;Green;Uncommon;4;2
 Celtic Soldiers;Xena: Warrior Princess;Character;Green;Common;4;0
@@ -61,7 +61,7 @@ Centaur Charger;Battle Cry;Character;Green;Common;4;0
 Centaur Longbow Archers;Battle Cry;Character;Red;Common;4;0
 Centaur Veteran;Battle Cry;Character;Green;Uncommon;4;0
 Chakram Strike;Xena: Warrior Princess;Combat;Green;Common;4;0
-Chariot Warrior;Battle Cry;Character;Green;Common;4;0
+Chariot Warrior;Battle Cry;Character;Green;Common;4;1
 Charismatic Fighter;Xena: Warrior Princess;Character;Red;Common;4;2
 Charon's Tour;Xena: Warrior Princess;Action;Blue;Uncommon;4;0
 Chin Mercenary;Xena: Warrior Princess;Character;Red;Common;4;1
@@ -90,7 +90,7 @@ Enforced Peace;Xena: Warrior Princess;Action;Blue;Uncommon;4;0
 Entrance to the Underworld;Xena: Warrior Princess;Resource;Blue;Vital;4;4
 Ephiny, Amazon Warrior;Battle Cry;Character;Green;Rare;4;0
 Everybody Sing!;Battle Cry;Combat;Red;Common;4;0
-Executioner;Battle Cry;Character;Red;Common;4;0
+Executioner;Battle Cry;Character;Red;Common;4;1
 Expert Swordsman;Xena: Warrior Princess;Character;Green;Uncommon;4;0
 Extortionist;Xena: Warrior Princess;Character;Red;Uncommon;4;0
 Fake Chakram;Xena: Warrior Princess;Action;Green;Rare;4;0
@@ -187,7 +187,7 @@ Sintares's Tricks;Battle Cry;Combat;Red;Uncommon;4;0
 Sintares;Battle Cry;Character;Red;Rare;4;0
 Siren's Call;Battle Cry;Combat;Blue;Uncommon;4;0
 Solstice Spirit;Battle Cry;Character;Blue;Common;4;0
-Song of Orpheus;Battle Cry;Combat;Blue;Uncommon;4;0
+Song of Orpheus;Battle Cry;Combat;Blue;Uncommon;4;1
 Spartan Javelin;Xena: Warrior Princess;Action;Red;Rare;4;0
 Spike Trap;Xena: Warrior Princess;Character;Red;Uncommon;4;0
 Sponsorship;Xena: Warrior Princess;Action;Red;Rare;4;0
@@ -212,7 +212,7 @@ To the Last Breath;Xena: Warrior Princess;Combat;Green;Rare;4;2
 Tossed in Xerxes's Dungeon!;Xena: Warrior Princess;Action;Red;Rare;4;0
 Total Eclipse;Battle Cry;Action;Blue;Rare;4;0
 Town Judge;Xena: Warrior Princess;Character;Red;Common;4;2
-Transformed Bacchae;Battle Cry;Character;Blue;Common;4;0
+Transformed Bacchae;Battle Cry;Character;Blue;Common;4;1
 Trap in the Woods;Xena: Warrior Princess;Action;Red;Common;4;1
 Trapped in Tartarus;Battle Cry;Action;Blue;Rare;4;0
 Traveling Priest;Xena: Warrior Princess;Character;Blue;Common;4;0
@@ -245,11 +245,11 @@ Xena Leads the Troops;Xena: Warrior Princess;Combat;Green;Common;4;1
 Xena Puts on the Pinch;Battle Cry;Combat;Green;Rare;4;0
 Xena's Bluff;Xena: Warrior Princess;Combat;Green;Uncommon;4;0
 Xena's Discovery;Battle Cry;Action;Green;Uncommon;4;0
-Xena's Graveyard Search;Battle Cry;Action;Blue;Common;4;0
+Xena's Graveyard Search;Battle Cry;Action;Blue;Common;4;1
 Xena's Wrath;Xena: Warrior Princess;Action;Red;Uncommon;4;0
 Xena, Warrior Princess (BC);Battle Cry;Character;Green;Rare;4;0
 Xena, Warrior Princess;Xena: Warrior Princess;Character;Green;Rare;4;0
 YII-YII-YII-YII-YII-YII-YII!;Battle Cry;Combat;Green;Uncommon;4;0
-Young Centaur;Battle Cry;Character;Green;Common;4;0
+Young Centaur;Battle Cry;Character;Green;Common;4;1
 Young Priest;Battle Cry;Character;Blue;Common;4;0
 Young Prince;Xena: Warrior Princess;Character;Green;Common;4;0

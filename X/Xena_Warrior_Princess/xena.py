@@ -151,7 +151,7 @@ if __name__ == "__main__":
 
     deck_missing_list = sorted(deck_missing_list, key=lambda x:(x[1], x[0]))
     lowest_deck = deck_missing_list[0]
-    double_print(f"\nClosest deck to completion is {lowest_deck[0]}, needing just " + \
+    double_print(f"Closest deck to completion is {lowest_deck[0]}, needing just " + \
         f"{lowest_deck[1]} cards:", out_file_h)
     double_print(str(lowest_deck[2]), out_file_h)
 
