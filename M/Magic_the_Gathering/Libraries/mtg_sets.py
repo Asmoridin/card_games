@@ -58,7 +58,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Jumpstart 2025", "Innistrad Remastered", "SNC Game Day", "Aetherdrift Commander",
     "Tarkir: Dragonstorm Commander", "War of the Spark Mythic Edition", 'SNC Store Championship',
     "FINAL FANTASY Through the Ages", "Magic: The Gathering—FINAL FANTASY Commander",
-    "Edge of Eternities Bonus Sheet", "Edge of Eternities Commander",
+    "Edge of Eternities Bonus Sheet", "Edge of Eternities Commander", 'Source Material Cards',
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
@@ -85,7 +85,8 @@ PREMODERN_SETS = [
 STANDARD_SETS = ["Wilds of Eldraine", "The Lost Caverns of Ixalan", "Murders at Karlov Manor",
     "Outlaws of Thunder Junction", "Outlaws of Thunder Junction: The Big Score", "Bloomburrow",
     "Duskmourn: House of Horror", "Magic: The Gathering Foundations", "Aetherdrift",
-    "Tarkir: Dragonstorm", "Magic: The Gathering—FINAL FANTASY", "Edge of Eternities"]
+    "Tarkir: Dragonstorm", "Magic: The Gathering—FINAL FANTASY", "Edge of Eternities",
+    "Magic: The Gathering | Marvel's Spider-Man",]
 
 # These sets are legal in Pioneer, Modern, and older formats
 PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 Core Set", "Theros",
