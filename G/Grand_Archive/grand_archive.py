@@ -50,13 +50,13 @@ for line in lines:
         print("Duplicate card name: " + card_name)
     card_names.add(card_name)
     if card_subtype not in valid_subtypes:
-        print("Invalid card subtype: " + card_subtype)
+        print(f"Invalid card subtype {card_subtype} for {card_name}")
     card_class = card_class.split('/')
     for in_class in card_class:
         if in_class not in valid_classes:
-            print("Invalid card class: " + in_class)
+            print(f"Invalid card class {in_class} for {card_name}")
     if card_element not in valid_elements:
-        print("Invalid card element: " + card_element)
+        print(f"Invalid card element {card_element} for {card_name}")
     card_own = int(card_own)
 
     CARD_MAX = 4
