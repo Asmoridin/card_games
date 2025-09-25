@@ -12,6 +12,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 GAME_NAME = "Dragon Ball Super Card Game: Fusion World"
 
 ALL_COLORS = ['Green', 'Red', 'Blue', 'Yellow', 'Black',]
+DECK_ERA = 'Set 7'
 
 class Deck:
     """
@@ -91,7 +92,7 @@ if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "D/DBS_Fusion_World"
 
 file_h = open(FILE_PREFIX + '/Data/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
-DECK_DIR = FILE_PREFIX + '/Decks'
+DECK_DIR = FILE_PREFIX + '/Decks/' + DECK_ERA
 
 lines = file_h.readlines()
 file_h.close()

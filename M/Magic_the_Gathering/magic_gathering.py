@@ -491,8 +491,8 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = "Dissension"
-CHECK_AMOUNT = 180
+CHECK_SET = "Coldsnap"
+CHECK_AMOUNT = 155
 SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
@@ -563,9 +563,6 @@ for line in lines:
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
-    #if CHECK_SET in card_sets and 'Blue' in card_colors:
-    #if CHECK_SET in card_sets and 'Green' in card_colors and 'Creature' not in card_type:
-    #if CHECK_SET in card_sets and 'Artifact' in card_type:
         #print(card_name)
         SET_CHECK += 1
     if 'Basic Land' in card_type:
