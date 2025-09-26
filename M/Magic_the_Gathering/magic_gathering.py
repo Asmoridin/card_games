@@ -183,7 +183,7 @@ def parse_restrictions(restr_lines):
                         'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
                         'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
                         'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
-                        'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block',
+                        'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block', 'Innistrad Block',
                         'Scars of Mirrodin Block',]:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
@@ -202,7 +202,6 @@ def parse_restrictions(restr_lines):
     # Khans of Tarkir block (Khans of Tarkir, Fate Reforged, Dragons of Tarkir)
     # Theros block (Theros, Born of the Gods, Journey into Nyx)
     # Return to Ravnica block (Return to Ravnica, Gatecrash, Dragon's Maze)
-    # Innistrad block (Innistrad, Dark Ascension, Avacyn Restored)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -296,6 +295,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Scars of Mirrodin block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
             if this_set in ['Scars of Mirrodin', 'Mirrodin Besieged', 'New Phyrexia']:
                 ret_formats['Scars of Mirrodin Block'] = 4
+            # Innistrad block (Innistrad, Dark Ascension, Avacyn Restored)
+            if this_set in ['Innistrad', 'Dark Ascension', 'Avacyn Restored']:
+                ret_formats['Innistrad Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -706,6 +708,10 @@ if __name__ == "__main__":
     # Scars of Mirrodin Block
     alara_dict = process_formats("Scars of Mirrodin Block", card_corrections)
     handle_output("Scars of Mirrodin Block", alara_dict, out_file_h)
+
+    # Innistrad Block
+    innistrad_dict = process_formats("Innistrad Block", card_corrections)
+    handle_output("Innistrad Block", innistrad_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
