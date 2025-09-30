@@ -1,10 +1,11 @@
-# Objective Sets Done: 1-16, 19-31, 33-38, 40-42, 44-53, 56-59, 62-68, 70, 74, 76, 80-90, 94-97, 100-101, 104-107, 110-112, 114-117, 120-122, 124-140, 143-146, 149-151, 153-156, 159-161, 163-166, 169-170, 176, 178-184, 187-190, 194-196, 199-200, 204-207, 210-212, 216-220, 222-223, 229, 231, 234-235, 238-241, 244-246, 248-251, 255-256, 258-260, 263-264, 267-270, 274-275, 277-280, 283-284, 287-289
+# Objective Sets Done: 1-16, 19-31, 33-38, 40-42, 44-53, 56-59, 62-68, 70, 74, 76, 80-91, 94-97, 100-101, 104-107, 110-112, 114-117, 120-122, 124-140, 143-146, 149-151, 153-156, 159-161, 163-166, 169-170, 176, 178-184, 187-190, 194-196, 199-200, 204-207, 210-212, 216-220, 222-223, 229, 231, 234-235, 238-241, 244-246, 248-251, 255-256, 258-260, 263-265, 267-270, 274-275, 277-280, 283-285, 287-289
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Backstabber";Sith;Unit;Vehicle/Fighter/Black Squadron;2;2;220-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
 "Mauler" Mithel;Sith;Unit;Character/Pilot/Black Squadron;3;2;143-1
 "Night Beast";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;2;255-1
 "No Disintegrations";Scum and Villainy;Objective;;;;134-1
+"Old Master";Light Neutral;Unit;Character/Force User;4;3;285-1
 0-0-0;Sith;Unit;Droid;4;2;267-1
 181st TIE Interceptor;Imperial Navy;Unit;Vehicle/Fighter;2;1;144-2
 2-1B Surgical Droid;Light Neutral;Unit;Droid;1;1;246-1
@@ -162,6 +163,7 @@ Chain Reaction;Dark Neutral;Event;;1;3;126-1/289-1
 Chevin Mercenary;Scum and Villainy;Unit;Character/Mercenary;2;1;206-1
 Children of the Force;Light Neutral;Unit;Character/Force Sensitive;2;1;229-2
 Chimaera;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;5;3;179-1
+Chirrut Îmwe;Jedi;Unit;Character/Force Sensitive;4;3;265-1
 Citadel Inquisitorious;Sith;Enhancement;Prakith/Location;3;2;153-1
 Clever Ruse;Smugglers and Spies;Event;;1;2;133-1
 Closed Formation;Imperial Navy;Enhancement;Formation/Black Squadron;1;0;159-1
@@ -266,7 +268,7 @@ Early Warning System;Imperial Navy;Enhancement;Item;2;0;223-1
 Echo Base Defense;Light Neutral;Objective;Hoth;;;39-1
 Echo Caverns;Smugglers and Spies;Enhancement;Base/Hoth;2;2;44-1
 Echoes of the Force;Dark Neutral;Fate;;0;2;100-1/105-1/115-1/121-1/211-1/219-1
-Echoes of the Force;Light Neutral;Fate;;0;2;97-1/166-1
+Echoes of the Force;Light Neutral;Fate;;0;2;97-1/166-1/285-1
 Elite Pilot Training;Imperial Navy;Enhancement;Black Squadron;2;2;150-1
 Embers of Hope;Jedi;Objective;Tatooine;;;76-1
 Emergency Repair;Light Neutral;Event;;2;1;6-1
@@ -299,7 +301,9 @@ Executor;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;6;3;200-1
 Executor;Sith;Unit;Vehicle/Capital Ship;8;3;66-1
 Experimental Tech Lab;Imperial Navy;Enhancement;Arc Hammer/Location;2;1;288-1
 Explosive Charge;Scum and Villainy;Event;;1;1;57-1
+Ezra Bridger (Twilight of the Apprentice);Jedi;Unit;Character/Force User/Specter;2;2;285-1
 Ezra Bridger;Jedi;Unit;Character/Force User/Specter;2;2;251-1
+Ezra's Lightsaber;Jedi;Enhancement;Weapon;1;2;285-1
 Facility Repair;Dark Neutral;Event;;0;1;114-1
 Fall Back!;Rebel Alliance;Event;;0;1;14-1
 Fall of the Jedi;Sith;Objective;Executor;;;19-1
@@ -325,6 +329,7 @@ Flight Academy;Imperial Navy;Enhancement;Prefsbelt/Location;2;0;144-1
 Following Fate;Jedi;Objective;;;;129-1
 Force Barrier;Jedi;Event;Force/Control/Alter;3;2;122-1
 Force Choke;Sith;Event;Force/Alter;0;1;19-1/23-1
+Force Cleansing;Jedi;Enhancement;Force/Control;1;1;91-1
 Force Illusion;Jedi;Event;Force/Sense/Alter;1;1;176-1
 Force Invisibility;Sith;Event;Force/Control;2;1;183-1
 Force Lightning;Sith;Event;Force/Control/Alter;3;1;23-1
@@ -374,6 +379,7 @@ Hallucination;Dark Neutral;Fate;;0;2;195-1
 Han Solo;Rebel Alliance;Unit;Character/Rogue/Scoundrel;4;3;65-1
 Han Solo;Smugglers and Spies;Unit;Character/Rogue/Scoundrel;4;3;15-1
 Hand of the Emperor;Sith;Event;;2;1;149-1
+Handcrafted Light Bow;Jedi;Enhancement;Weapon;1;2;265-1
 Harassment;Jedi;Event;;0;2;151-1
 Hate;Sith;Enhancement;Condition;1;1;124-2
 He Doesn't Like You;Scum and Villainy;Event;;1;2;240-1
@@ -381,7 +387,7 @@ Head of Security;Scum and Villainy;Enhancement;Title;2;2;206-1
 Heart of Cold;Scum and Villainy;Objective;;;;260-1
 Heartless Tactics;Scum and Villainy;Objective;Tatooine;;;235-1
 Heat of Battle;Dark Neutral;Fate;;0;2;19-1/29-1/36-1/85-1/120-1/132-1/136-1/149-1/170-1/182-1/223-1/267-1/288-1
-Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/37-1/48-1/64-1/127-1
+Heat of Battle;Light Neutral;Fate;;0;2;3-1/9-1/37-1/48-1/64-1/127-1/265-1
 Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
 Heavy Fire;Imperial Navy;Event;;0;1;51-1
 Heavy Stormtrooper Squad;Dark Neutral;Unit;Character/Trooper;2;1;26-2
@@ -527,6 +533,7 @@ May the Force Be With You;Jedi;Objective;Dagobah;;;112-1
 Memories of Home;Jedi;Event;;0;0;256-1
 Mercenary Support;Scum and Villainy;Objective;;;;96-1
 Might of the Empire;Imperial Navy;Objective;Ralltiir;;;179-1
+Mirialan Mystic;Jedi;Unit;Character;2;1;265-1
 Mission Briefing;Rebel Alliance;Objective;;;;9-1
 Mission Command;Dark Neutral;Objective;Outer Rim;;;189-1
 Mobilize the Squadrons;Rebel Alliance;Objective;Yavin 4;;;13-1
@@ -556,6 +563,7 @@ Noghri Bodyguard;Dark Neutral;Unit;Character;2;1;164-2
 Novice Starship Thief;Dark Neutral;Unit;Character/Thief;2;1;145-2
 Obi-Wan Kenobi (Danger in the Wastes);Jedi;Unit;Character/Force User;5;4;280-1
 Obi-Wan Kenobi (Following Fate);Jedi;Unit;Character/Force User;5;4;129-1
+Obi-Wan Kenobi (Watchers in the Wasteland);Jedi;Unit;Character/Force User;5;4;91-1
 Obi-Wan Kenobi;Jedi;Unit;Character/Force User;5;4;3-1
 Obi-Wan's Lightsaber;Jedi;Enhancement;Weapon;1;1;129-1
 Obi-Wan's Robes;Jedi;Enhancement;Item;1;1;280-1
@@ -701,6 +709,7 @@ Shelter from the Storm;Light Neutral;Event;;1;2;45-1
 Shield Generator Modification;Dark Neutral;Enhancement;Upgrade;1;2;284-1
 Shien Training;Jedi;Enhancement;Skill/Lightsaber Form;2;1;146-1
 Shii-Cho-Training;Jedi;Enhancement;Skill/Lightsaber Form;1;2;2-1
+Shistavanen Wolfman;Light Neutral;Unit;Character;3;2;91-2
 Show of Force;Scum and Villainy;Event;Black Sun;5;3;138-1
 Shuttle Pilot;Dark Neutral;Unit;Character/Pilot;1;1;258-1
 Signal Scrambler;Jedi;Enhancement;Item;1;2;196-1
@@ -741,6 +750,7 @@ Stolen Plans;Light Neutral;Enhancement;Espionage;1;1;10-1
 Storm Commando;Imperial Navy;Unit;Character/Trooper;2;1;194-1
 Stormtrooper Assault Team;Imperial Navy;Unit;Character/Trooper;2;1;178-1
 Stormtrooper Elite;Imperial Navy;Unit;Character/Trooper;3;2;28-1
+Stunning Blow;Jedi;Event;;0;1;265-1
 Stygeon Prison Guard;Dark Neutral;Unit;Character/Trooper;1;1;218-1
 Subzero Defenses;Light Neutral;Enhancement;Condition;1;1;39-2
 Succumb to the Cold!;Dark Neutral;Event;Hoth;0;1;42-2
@@ -750,7 +760,7 @@ Superlaser Blast;Imperial Navy;Event;;4;2;28-1
 Superlaser Engineer;Imperial Navy;Unit;Character/Engineer;2;1;28-1
 Support of the Fleet;Imperial Navy;Objective;Outer Rim;;;288-1
 Supporting Fire;Dark Neutral;Fate;;0;1;94-1/95-1/96-1/155-1/163-1/164-1
-Supporting Fire;Light Neutral;Fate;;0;1;161-1
+Supporting Fire;Light Neutral;Fate;;0;1;91-1/161-1
 Swindled;Smugglers and Spies;Event;;1;1;15-1/70-1
 T'ra Saa;Jedi;Unit;Character/Force User;4;3;166-1
 T-16 Skyhopper;Light Neutral;Unit;Vehicle/Speeder;1;2;256-1
@@ -859,6 +869,7 @@ Trench Run;Rebel Alliance;Enhancement;Mission;1;2;13-1
 Tricks and Nonsense;Scum and Villainy;Fate;;0;2;260-2
 Trooper Assault;Imperial Navy;Event;;2;2;32-1
 Trooper Sentry;Dark Neutral;Unit;Character/Trooper;1;1;90-2
+Trust in the Force;Jedi;Objective;Scarif;;;265-1
 Trust Your Feelings;Jedi;Enhancement;Skill;2;1;1-1
 Turbolaser Battery;Dark Neutral;Enhancement;Weapon;3;1;56-1
 Tusken Raider;Dark Neutral;Unit;Character/Scavenger;2;1;89-3
@@ -866,6 +877,7 @@ Twi'lek Con Artist;Light Neutral;Unit;Character;2;1;270-1
 Twi'lek Loyalist;Jedi;Unit;Character;1;1;1-1/4-1
 Twi'lek Smuggler;Smugglers and Spies;Unit;Character/Rogue;2;1;15-1
 Twi'lek Sycophant;Dark Neutral;Unit;Character/Mercenary;1;1;250-1/289-1
+Twilight of the Apprentice;Jedi;Objective;Malachor;;;285-1
 Twist of Fate;Dark Neutral;Fate;;0;0;20-1/30-1/36-1/40-1/57-1/82-1/178-1
 Twist of Fate;Light Neutral;Fate;;0;0;5-1/10-1
 Ugnaught;Scum and Villainy;Unit;Character/Engineer;2;1;52-1/260-1
@@ -882,6 +894,7 @@ Unsavory Contracts;Scum and Villainy;Objective;Tatooine;;;279-1
 Unseen Sabotage;Jedi;Event;;0;2;270-1
 Unstoppable Advance;Imperial Navy;Objective;Hoth;;;63-1
 Unwavering Resolve;Jedi;Event;;1;1;48-1
+Use Your Power;Light Neutral;Event;Force/Control/Alter;1;1;285-1
 Utinni!;Scum and Villainy;Event;;2;2;82-1
 Vader's Army;Sith;Objective;;;;267-1
 Vader's Fist;Sith;Objective;Hoth;;;62-1
@@ -901,6 +914,7 @@ Visage of the Dark Lord;Dark Neutral;Fate;;0;1;217-1
 VT-49 Decimator;Imperial Navy;Unit;Vehicle/Transport;2;1;181-2
 Wampa;Dark Neutral;Unit;Creature/Hoth;3;1;42-2
 Warning Shot;Scum and Villainy;Event;;0;1;137-1
+Watchers in the Wasteland;Jedi;Objective;Tatooine;;;91-1
 Watchful Eyes;Scum and Villainy;Event;;0;1;116-1
 We Have Them;Imperial Navy;Event;;1;2;249-1
 Weapon Mastery;Jedi;Event;;0;2;37-1

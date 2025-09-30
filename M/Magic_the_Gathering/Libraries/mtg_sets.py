@@ -59,6 +59,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Tarkir: Dragonstorm Commander", "War of the Spark Mythic Edition", 'SNC Store Championship',
     "FINAL FANTASY Through the Ages", "Magic: The Gathering—FINAL FANTASY Commander",
     "Edge of Eternities Bonus Sheet", "Edge of Eternities Commander", 'Source Material Cards',
+    "SPE - Magic: The Gathering | Marvel's Spider-Man",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
