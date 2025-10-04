@@ -397,7 +397,7 @@ def validate_types(card_type_string):
             continue
         if check_type in ['Artifact', 'Creature', 'Enchantment', 'Sorcery', "Instant",
                 "Legendary", 'Land', 'Planeswalker', 'Vanguard', 'Kindred', 'Scheme',
-                'Snow',]:
+                'Snow', 'Battle']:
             ret_type.append(check_type)
         else:
             print("Unknown type: " + check_type)
