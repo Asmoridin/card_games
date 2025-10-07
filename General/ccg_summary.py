@@ -39,7 +39,8 @@ for file_path, module_name in modules:
     if spec:
         MY_MODULE = importlib.util.module_from_spec(spec)
         sys.modules[module_name] = MY_MODULE  # Optional: add to sys.modules
-        spec.loader.exec_module(MY_MODULE)
+        if spec.loader is not None:
+            spec.loader.exec_module(MY_MODULE)
         added_modules.append(MY_MODULE)
     else:
         print(f"Could not find module at {file_path}")
