@@ -763,12 +763,12 @@ if __name__ == "__main__":
     print_deck = comm_dict["OLDEST"]
     old_name = print_deck[1].replace('.txt','')
     updated = datetime.datetime.strftime(print_deck[0], "%m/%d/%Y")
-    double_print(f"\nOldest Commander deck is {old_name}, last updated {updated}", out_file_h)
+    double_print(f"Oldest Commander deck is {old_name}, last updated {updated}", out_file_h)
 
     print_deck = oath_dict["OLDEST"]
     old_name = print_deck[1].replace('.txt','')
     updated = datetime.datetime.strftime(print_deck[0], "%m/%d/%Y")
-    double_print(f"Oldest Oathbreaker deck is {old_name}, last updated {updated}\n", out_file_h)
+    double_print(f"Oldest Oathbreaker deck is {old_name}, last updated {updated}", out_file_h)
 
     # Other
     del creature_types['Forest']
@@ -780,14 +780,13 @@ if __name__ == "__main__":
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
-        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', 'Warrior', 'Spirit', 'Dragon', 
-        'Sand', ]
+        'Wizard', 'Spider', 'Barbarian', 'Beast', 'Zombie', 'Elf', 'Warrior', 'Spirit', 'Dragon',]
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     if creature_types[99][1] >= len(USED_TYPES) - 5:
         double_print(f"Time to do a Tribal Commander - {creature_types[0][0]}", out_file_h)
-    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Seal', 'Echidna', 'Lobster', ]
+    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Seal', 'Echidna', 'Lobster', 'Sand',]
     for remove_type in remove_one_ofs:
         try:
             one_ofs.remove(remove_type)
