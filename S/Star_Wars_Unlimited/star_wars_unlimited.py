@@ -138,6 +138,7 @@ KEEP_READ = True
 hyperfoil_list = []
 HYPER_MAX = 0
 HYPER_OWN = 0
+clean_list = [] # Slightly cleaned up input that I'll convert for SWUDB import
 
 for line in lines:
     if line == '' or line.startswith('#'):
@@ -175,6 +176,7 @@ for line in lines:
         print("Following line isn't formatted correctly:")
         print(line)
         continue
+    clean_list.append([card_set_info, card_owned])
     if card_name in card_names:
         print(f"Duplicate card name: {card_name}")
     card_names.add(card_name)
@@ -214,6 +216,16 @@ for line in lines:
         HYPER_OWN += HYPER_OWNED
         hyperfoil_list.append((card_name, this_card_sets, this_card_rarities, card_type,
             card_colors, HYPER_OWNED, 1))
+new_clean_list = []
+for entry in clean_list:
+    set_info = entry[0].split('/')[-1]
+    set_info = set_info.replace('-', ',')
+    set_info = ','.join(set_info.split(',')[:-1])
+    if entry[1] != '0':
+        new_clean_list.append(f"{set_info},{entry[1]},false\n")
+
+with open(FILE_PREFIX + '/Data/StarWarsUnlimitedCleanData.csv', 'w', encoding="UTF-8") as clean_f:
+    clean_f.writelines(new_clean_list)
 
 done_decks = []
 MIN_DECK_SIZE = 50
