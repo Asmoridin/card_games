@@ -30,6 +30,8 @@ mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
     'Power of the Atom', 'Supersonic', 'Batroc', 'Growing Strong', 'Extreme Risk', 'Techno',
     'Whiteout', ]
+pro_reg_encounters = []
+anti_reg_encounter = []
 modular_encounters = modular_encounters + mojo_encounters + thunderbolt_encounters
 
 encounters = []
@@ -48,7 +50,7 @@ class Encounter:
     modular encounter sets
     """
     def __init__(self, name, num_encounters, required_enc=None, can_infinity=True, \
-        mojo_only=False, thunderbolt_only=False):
+        mojo_only=False, thunderbolt_only=False, reg=None):
         self.name = name
         if type(num_encounters) != type(0):
             raise ValueError("Invalid modular encounter count")
@@ -62,6 +64,7 @@ class Encounter:
         self.can_infinity = can_infinity
         self.mojo_only = mojo_only
         self.thunderbolt_only = thunderbolt_only
+        self.reg = reg
     def gen_combos(self):
         """
         Generate all possible combos for this particular Encounter.
@@ -73,6 +76,10 @@ class Encounter:
             modular_combos = itertools.combinations(mojo_encounters, self.num_encounters)
         elif self.thunderbolt_only:
             modular_combos = itertools.combinations(thunderbolt_encounters, self.num_encounters)
+        elif self.reg == 'pro':
+            pass
+        elif self.reg == 'anti':
+            pass
         else:
             modular_combos = itertools.combinations(modular_encounters, self.num_encounters)
         for modular_combo in modular_combos:
@@ -140,6 +147,8 @@ encounters.extend([
   Encounter('Baron Zemo', 2),
   Encounter('Enchantress', 1),
   Encounter('God of Lies', 1),
+  Encounter('Iron Man', 4, reg="pro"),
+  
 ])
 
 encounter_map = {}
