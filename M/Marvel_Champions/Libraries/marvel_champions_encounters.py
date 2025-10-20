@@ -30,8 +30,10 @@ mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
     'Power of the Atom', 'Supersonic', 'Batroc', 'Growing Strong', 'Extreme Risk', 'Techno',
     'Whiteout', ]
-pro_reg_encounters = []
-anti_reg_encounter = []
+reg_encounters = []
+reg_stage_1 = ['Cut Off Support',]
+reg_stage_2 = ['Negative Zone Prison',]
+res_encounter = []
 modular_encounters = modular_encounters + mojo_encounters + thunderbolt_encounters
 
 encounters = []
@@ -76,7 +78,7 @@ class Encounter:
             modular_combos = itertools.combinations(mojo_encounters, self.num_encounters)
         elif self.thunderbolt_only:
             modular_combos = itertools.combinations(thunderbolt_encounters, self.num_encounters)
-        elif self.reg == 'pro':
+        elif self.reg == 'Registration':
             pass
         elif self.reg == 'anti':
             pass
@@ -147,7 +149,7 @@ encounters.extend([
   Encounter('Baron Zemo', 2),
   Encounter('Enchantress', 1),
   Encounter('God of Lies', 1),
-  Encounter('Iron Man', 4, reg="pro"),
+  Encounter('Iron Man', 4, reg="Registration"),
   
 ])
 
