@@ -29,12 +29,18 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
     'Power of the Atom', 'Supersonic', 'Batroc', 'Growing Strong', 'Extreme Risk', 'Techno',
-    'Whiteout', ]
-reg_encounters = []
-reg_stage_1 = ['Cut Off Support',]
-reg_stage_2 = ['Negative Zone Prison',]
-res_encounter = []
-modular_encounters = modular_encounters + mojo_encounters + thunderbolt_encounters
+    'Whiteout', 'Dangerous Recruits', ]
+reg_encounters = ['Mighty Avengers', 'The Initiative', 'Maria Hill', 'Dangerous Recruits', 'Cape-Killer', 'Martial Law', 'Heroes for Hire', 'Paladin']
+reg_stage_1 = ['Cut Off Support', 'S.H.I.E.L.D. Recruits', 'Homeland Security', 'Public Outrage', ]
+reg_stage_2 = ['Negative Zone Prison', 'Hunting Rebel Heroes', 'The Initiative', 'No Going Back', ]
+res_encounter = ['New Avengers', 'Secret Avengers', 'Namor', 'Atlanteans', 'Spider-Man', 'Defenders', "Hell's Kitchen", 'Cloak & Dagger', ]
+res_stage_1 = ['Gathering Support', 'Open Rebellion', 'Rallying Call', 'Going Underground', ]
+res_stage_2 = ['Secret Avengers', 'Neighborhood Protectors', 'Guerilla Warfare', 'Superhero Jailbreak', ]
+all_modular_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + reg_encounters))
+reg_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + reg_encounters))
+res_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + res_encounter))
+res_usable_encounters.remove('Dangerous Recruits')
+
 
 encounters = []
 def get_req_by_encounter(encounter_set):
@@ -61,7 +67,7 @@ class Encounter:
             required_enc = []
         self.required_encounters = required_enc
         for this_encounter in self.required_encounters:
-            if this_encounter not in modular_encounters:
+            if this_encounter not in all_modular_encounters:
                 raise ValueError("Invalid required encounter: " + this_encounter)
         self.can_infinity = can_infinity
         self.mojo_only = mojo_only
@@ -79,11 +85,11 @@ class Encounter:
         elif self.thunderbolt_only:
             modular_combos = itertools.combinations(thunderbolt_encounters, self.num_encounters)
         elif self.reg == 'Registration':
-            pass
-        elif self.reg == 'anti':
-            pass
+            modular_combos = itertools.combinations(reg_usable_encounters, self.num_encounters)
+        elif self.reg == 'Resistance':
+            modular_combos = itertools.combinations(res_usable_encounters, self.num_encounters)
         else:
-            modular_combos = itertools.combinations(modular_encounters, self.num_encounters)
+            modular_combos = itertools.combinations(all_modular_encounters, self.num_encounters)
         for modular_combo in modular_combos:
             valid = True
             for req_enc in self.required_encounters:
@@ -150,7 +156,9 @@ encounters.extend([
   Encounter('Enchantress', 1),
   Encounter('God of Lies', 1),
   Encounter('Iron Man', 4, reg="Registration"),
-  
+  Encounter('Captain Marvel', 4, reg="Registration"),
+  Encounter('Captain America', 4, reg="Resistance"),
+  Encounter('Spider-Woman', 4, reg="Resistance"),
 ])
 
 encounter_map = {}
