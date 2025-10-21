@@ -29,18 +29,23 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
     'Power of the Atom', 'Supersonic', 'Batroc', 'Growing Strong', 'Extreme Risk', 'Techno',
-    'Whiteout', 'Dangerous Recruits', ]
-reg_encounters = ['Mighty Avengers', 'The Initiative', 'Maria Hill', 'Dangerous Recruits', 'Cape-Killer', 'Martial Law', 'Heroes for Hire', 'Paladin']
+    'Whiteout',]
+reg_encounters = ['Mighty Avengers', 'The Initiative', 'Maria Hill', 'Dangerous Recruits',
+    'Cape-Killer', 'Martial Law', 'Heroes for Hire', 'Paladin']
 reg_stage_1 = ['Cut Off Support', 'S.H.I.E.L.D. Recruits', 'Homeland Security', 'Public Outrage', ]
 reg_stage_2 = ['Negative Zone Prison', 'Hunting Rebel Heroes', 'The Initiative', 'No Going Back', ]
-res_encounter = ['New Avengers', 'Secret Avengers', 'Namor', 'Atlanteans', 'Spider-Man', 'Defenders', "Hell's Kitchen", 'Cloak & Dagger', ]
+res_encounter = ['New Avengers', 'Secret Avengers', 'Namor', 'Atlanteans', 'Spider-Man',
+    'Defenders', "Hell's Kitchen", 'Cloak & Dagger', ]
 res_stage_1 = ['Gathering Support', 'Open Rebellion', 'Rallying Call', 'Going Underground', ]
-res_stage_2 = ['Secret Avengers', 'Neighborhood Protectors', 'Guerilla Warfare', 'Superhero Jailbreak', ]
-all_modular_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + reg_encounters))
-reg_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + reg_encounters))
-res_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + res_encounter))
-res_usable_encounters.remove('Dangerous Recruits')
-
+res_stage_2 = ['Secret Avengers', 'Neighborhood Protectors', 'Guerilla Warfare',
+    'Superhero Jailbreak', ]
+all_modular_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + \
+    reg_encounters + res_encounter))
+reg_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + \
+    reg_encounters))
+res_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + \
+    res_encounter))
+modular_encounters = all_modular_encounters
 
 encounters = []
 def get_req_by_encounter(encounter_set):
