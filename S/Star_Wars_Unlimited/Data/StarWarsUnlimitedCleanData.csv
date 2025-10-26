@@ -9,7 +9,7 @@ TWI,096,1,false
 SOR,037,3,false
 JTL,058,2,false
 SOR,120,3,false
-LOF,106,2,false
+LOF,106,3,false
 LOF,129,3,false
 SHD,101,3,false
 JTL,114,2,false
@@ -597,7 +597,7 @@ TWI,029,1,false
 LOF,189,1,false
 SHD,200,3,false
 SOR,035,3,false
-LOF,212,2,false
+LOF,212,3,false
 LOF,176,2,false
 JTL,127,1,false
 SHD,032,1,false
@@ -616,7 +616,7 @@ JTL,094,1,false
 SOR,053,3,false
 LOF,104,1,false
 SHD,187,3,false
-LOF,068,2,false
+LOF,068,3,false
 TWI,210,3,false
 SHD,229,3,false
 TWI,152,1,false
@@ -1019,6 +1019,7 @@ JTL,087,3,false
 JTL,237,3,false
 JTL,239,3,false
 SOR,225,3,false
+LOF,177,1,false
 SHD,129,3,false
 JTL,130,1,false
 LOF,226,3,false
