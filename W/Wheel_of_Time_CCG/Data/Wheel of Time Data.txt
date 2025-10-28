@@ -36,7 +36,7 @@ Ba'alzamon;Children of the Dragon;Advantage;;R;1
 Bael;Children of the Dragon;Character;Aiel;R;1
 Bain;Premier;Character;Aiel;C;3
 Bair;Dark Prophecies;Character;Aiel;U;3
-Balefire;Dark Prophecies;Event;R;1
+Balefire;Dark Prophecies;Event;;R;1
 Balthamel;Children of the Dragon;Starting Character;Dark One;R;1
 Battle Fury;Promos;Event;;P;3
 Battle Hardened;Premier;Advantage;;C;3
@@ -99,7 +99,7 @@ Confrontation;Premier;Challenge;;F;3
 Connections;Premier;Event;;C;3
 Conquer and Control;Children of the Dragon;Challenge;;C;3
 Conquest;Dark Prophecies;Challenge;;R;1
-Consumed by the Blight;Dark Prophecies;Event;U;3
+Consumed by the Blight;Dark Prophecies;Event;;U;3
 Couladin Car'a'carn;Children of the Dragon;Character;Aiel;R;0
 Couladin;Dark Prophecies;Character;Aiel;R;1
 Cut Supply Lines;Premier;Challenge;;R;1
@@ -115,7 +115,7 @@ Darkhound Pack;Premier;Character;Dark One;R;1
 Daryne Aiel;Children of the Dragon;Troop;Aiel;U;3
 Debt of Honor;Premier;Challenge;;F;2
 Decisive Tactics;Premier;Event;;F;3
-Deep Waters;Dark Prophecies;Event;U;2
+Deep Waters;Dark Prophecies;Event;;U;2
 Defenders of the Stone;Dark Prophecies;Troop;Tear;U;3
 Defensive Measures;Premier;Event;;C;3
 Demandred;Cycles;Starting Character;Dark One;P;0
@@ -188,7 +188,7 @@ Gaul;Premier;Character;Aiel;U;2
 Gawyn;Dark Prophecies;Character;Andor;R;1
 Genocide;Dark Prophecies;Challenge;;R;1
 Geofram Bornhald;Premier;Character;Children of the Light;R;2
-Gholam Attack;Dark Prophecies;Event;U;3
+Gholam Attack;Dark Prophecies;Event;;U;3
 Goshien Aiel;Children of the Dragon;Troop;Aiel;U;2
 Graendal;Dark Prophecies;Character;Dark One;R;1
 Graendal;Premier;Starting Character;Dark One;R;0
@@ -242,7 +242,7 @@ Illian Volunteers;Dark Prophecies;Troop;Tear;U;3
 Illian;Dark Prophecies;Advantage;;U;3
 Illusion;Premier;Event;;U;3
 In Harm's Way;Premier;Event;;C;3
-Incendiary Strike;Dark Prophecies;Event;U;3
+Incendiary Strike;Dark Prophecies;Event;;U;3
 Incentives;Premier;Event;;C;3
 Incite Rebellion;Children of the Dragon;Challenge;;C;3
 Indirian;Children of the Dragon;Character;Aiel;R;1
@@ -336,7 +336,7 @@ Mangin;Children of the Dragon;Character;Aiel;U;2
 Manifest Destiny;Children of the Dragon;Advantage;;C;3
 Marksmen;Premier;Advantage;;U;2
 Martyn Tallanvor;Children of the Dragon;Character;Andor;U;2
-Mat Cauthon;Cycles;Starting Character;Dragon;P;
+Mat Cauthon;Cycles;Starting Character;Dragon;P;0
 Mat Cauthon;Premier;Character;Dragon;F;1
 Mat the Gambler;Dark Prophecies;Character;Dragon;R;0
 Mat the General;Children of the Dragon;Character;Dragon;R;0
@@ -363,7 +363,7 @@ Nakai Aiel;Children of the Dragon;Troop;Aiel;U;3
 Nandera;Children of the Dragon;Character;Aiel;R;0
 Narg;Premier;Character;Dark One;C;3
 Narrow Escape;Premier;Event;;U;1
-Narrow Pass;Dark Prophecies;Event;C;3
+Narrow Pass;Dark Prophecies;Event;;C;3
 Need;Children of the Dragon;Challenge;;C;3
 Network of Spies;Children of the Dragon;Challenge;;C;3
 Night Raid;Promos;Challenge;;P;1
@@ -372,7 +372,7 @@ No Middle Ground;Dark Prophecies;Challenge;;C;3
 Noble Allies;Premier;Challenge;;R;1
 Nynaeve al'Meara;Premier;Character;Aes Sedai;R;0
 Omerna;Children of the Dragon;Character;Children of the Light;U;3
-On All Sides;Dark Prophecies;Event;C;3
+On All Sides;Dark Prophecies;Event;;C;3
 Ordeith;Dark Prophecies;Character;Mercenary;R;2
 Organize Resistance;Dark Prophecies;Challenge;;C;3
 Overrun;Premier;Event;;F;2
@@ -383,12 +383,12 @@ Pedron Niall;Premier;Character;Children of the Light;R;1
 People of the Dragon;Dark Prophecies;Advantage;;C;3
 Perpetual Conflict;Children of the Dragon;Challenge;;C;3
 Perrin Aybara;Cycles;Starting Character;Dragon;P;0
-Perrin Aybara;Premier;Character;Dragon;F;
+Perrin Aybara;Premier;Character;Dragon;F;1
 Perring Goldeneyes;Children of the Dragon;Character;Dragon;R;0
 Personal Growth;Premier;Event;;F;3
 Pevin;Dark Prophecies;Character;Dragon;U;3
 Pitched Battle;Promos;Event;;P;1
-Plans Within Plans;Dark Prophecies;Event;C;3
+Plans Within Plans;Dark Prophecies;Event;;C;3
 Plots;Premier;Event;;F;3
 Political Isolation;Premier;Challenge;;C;3
 Political Maneuvering;Premier;Challenge;;C;3
@@ -465,7 +465,7 @@ Sentries;Premier;Troop;Mercenary;U;2
 Sept Warrior;Children of the Dragon;Character;Aiel;C;3
 Sevanna;Children of the Dragon;Character;Aiel;R;1
 Shaarad Aiel;Children of the Dragon;Troop;Aiel;U;2
-Shades of Grey;Dark Prophecies;Event;U;3
+Shades of Grey;Dark Prophecies;Event;;U;3
 Shaidar Haran;Cycles;Starting Character;Dark One;P;0
 Shaidar Haran;Premier;Character;Dark One;R;0
 Shaido Aiel;Children of the Dragon;Troop;Aiel;R;0
@@ -487,9 +487,9 @@ Spying;Premier;Event;;F;3
 Square of Tammaz;Dark Prophecies;Advantage;;C;3
 Stalemate;Premier;Challenge;;R;1
 Stedding;Premier;Event;;R;2
-Strength in Diversity;Dark Prophecies;Event;C;3
+Strength in Diversity;Dark Prophecies;Event;;C;3
 Strength of Character;Dark Prophecies;Challenge;;C;3
-Strong Loyalties;Dark Prophecies;Event;C;3
+Strong Loyalties;Dark Prophecies;Event;;C;3
 Strong Support;Premier;Event;;C;3
 Stymied;Premier;Event;;F;3
 Subtle Manipulations;Premier;Event;;U;2
@@ -519,31 +519,31 @@ The Bleakness;Children of the Dragon;Advantage;;C;3
 The Chosen;Children of the Dragon;Advantage;;U;2
 The City of Illian;Dark Prophecies;Advantage;;R;1
 The Companions;Dark Prophecies;Troop;Tear;R;0
-The Dance of Spears;Dark Prophecies;Event;C;3
+The Dance of Spears;Dark Prophecies;Event;;C;3
 The Dragon Revealed;Premier;Character;Dragon;R;2
 The Dragon Scepter;Children of the Dragon;Advantage;;R;1
 The Dying Ground;Premier;Event;;U;2
 The Fifth;Children of the Dragon;Advantage;;C;3
-The Game of Houses;Dark Prophecies;Event;C;3
+The Game of Houses;Dark Prophecies;Event;;C;3
 The Great Game;Premier;Advantage;;R;1
 The Great Lord Comes;Dark Prophecies;Advantage;;R;1
 The Halls of Power;Dark Prophecies;Advantage;;C;3
 The Host;Dark Prophecies;Troop;Dragon;R;1
-The Light Illumine;Dark Prophecies;Event;C;3
+The Light Illumine;Dark Prophecies;Event;;C;3
 The Lines of Loyalty;Dark Prophecies;Advantage;;U;3
-The Lion and the Rose;Dark Prophecies;Event;C;3
+The Lion and the Rose;Dark Prophecies;Event;;C;3
 The Lion Throne;Dark Prophecies;Advantage;;C;3
 The Lord of Chaos;Dark Prophecies;Advantage;;R;2
 The Old Tongue;Children of the Dragon;Challenge;;C;3
-The Pattern Decrees;Dark Prophecies;Event;C;3
-The Port of Illian;Dark Prophecies;Event;C;3
+The Pattern Decrees;Dark Prophecies;Event;;C;3
+The Port of Illian;Dark Prophecies;Event;;C;3
 The Prophet;Dark Prophecies;Character;Dragon;R;1
 The Ruby Dagger;Premier;Advantage;;R;2
 The Seals;Dark Prophecies;Advantage;;R;1
 The Shadows Rising;Dark Prophecies;Advantage;;R;2
 The Stone of Tear;Premier;Advantage;;R;1
 The Stone Shall Fall;Dark Prophecies;Advantage;;R;1
-The Stone Still Stands;Dark Prophecies;Event;C;3
+The Stone Still Stands;Dark Prophecies;Event;;C;3
 The Sun Throne;Dark Prophecies;Advantage;;C;3
 The Ta'veren;Children of the Dragon;Advantage;;C;3
 The Telling Blow;Premier;Event;;C;3
@@ -589,7 +589,7 @@ Two Rivers Archers;Premier;Troop;Andor;U;2
 Uncontrolled Rage;Promos;Advantage;;P;2
 Under One Banner;Dark Prophecies;Advantage;;C;3
 Unexpected Ally;Premier;Event;;F;3
-United Front;Dark Prophecies;Event;C;3
+United Front;Dark Prophecies;Event;;C;3
 Unravel the Pattern;Promos;Event;;P;2
 Urien;Children of the Dragon;Character;Aiel;U;3
 Verin Sedai;Premier;Character;Aes Sedai;R;1
@@ -609,7 +609,7 @@ Weariness;Premier;Advantage;;U;3
 What Might Be;Premier;Event;;R;0
 Whispers in the Dark;Premier;Event;;C;3
 White Lions;Dark Prophecies;Troop;Andor;U;3
-Whitecloak Spy;Dark Prophecies;Character;Whitecloak Spy;U;3
+Whitecloak Spy;Dark Prophecies;Character;Children of the Light;U;3
 Wolfbrother;Children of the Dragon;Character;Mercenary;C;3
 Wolves;Premier;Troop;Mercenary;U;1
 Young Bull;Dark Prophecies;Character;Dragon;R;1
