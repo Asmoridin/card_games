@@ -1,4 +1,4 @@
-# Objective Sets Done: 1-16, 19-31, 33-38, 40-53, 56-59, 62-68, 70, 72, 74-77, 80-92, 94-98, 100-122, 124-140, 143-147, 149-156, 159-167, 169-170, 172, 176, 178-185, 187-190, 194-197, 199-202, 204-208, 210-214, 216-220, 222-224, 226-229, 231-232, 234-235, 238-242, 244-252, 255-256, 258-260, 263-272, 274-285, 287-289
+# Objective Sets Done: 1-16, 19-31, 33-38, 40-54, 56-59, 62-68, 70, 72, 74-77, 80-92, 94-98, 100-140, 142-147, 149-156, 159-167, 169-174, 176, 178-185, 187-190, 194-197, 199-202, 204-208, 210-214, 216-220, 222-224, 226-229, 231-232, 234-235, 238-242, 244-252, 255-256, 258-260, 263-272, 274-285, 287-289
 "Backstabber";Imperial Navy;Unit;Vehicle/Fighter/Black Squadron;3;1;27-1
 "Backstabber";Sith;Unit;Vehicle/Fighter/Black Squadron;2;2;220-1
 "Howlrunner";Imperial Navy;Unit;Character/Pilot/Obsidian Squadron;2;1;255-1
@@ -27,11 +27,13 @@ A Hero's Resolve;Jedi;Objective;Hoth;;;64-1
 A Hero's Trial;Jedi;Objective;Endor;;;127-1
 A Journey to Dagobah;Jedi;Objective;Dagobah;;;4-1
 A Legend Begins;Rebel Alliance;Objective;Yavin 4;;;242-1
+A Little Maneuver;Smugglers and Spies;Event;Maneuver;2;2;142-1
 A Message from Beyond;Jedi;Objective;Dagobah;;;37-1
 A New Beginning;Jedi;Objective;;;;231-1
 A New Hope;Rebel Alliance;Event;;2;2;14-1
 A Price on Their Heads;Scum and Villainy;Event;Bounty;6;4;96-1
 A Quick Hunt;Dark Neutral;Fate;;0;2;222-1
+A Stinging Insult;Smugglers and Spies;Event;;1;1;54-1
 A Wookiee's Journey;Smugglers and Spies;Objective;Tatooine;;;119-1
 A-A5 Heavy Speeder Truck;Rebel Alliance;Unit;Vehicle/Speeder;3;1;213-1
 A-Wing;Light Neutral;Unit;Vehicle/Fighter;2;1;9-1
@@ -171,6 +173,7 @@ Bull's-eye!;Light Neutral;Event;Tactic;0;2;256-1
 Buried Outpost;Rebel Alliance;Enhancement;Hoth/Location;0;1;65-1
 BX-series Droid Commando;Dark Neutral;Unit;Droid;1;1;263-1
 C-3PO (Hero of a Thousand Devices);Jedi;Unit;Droid;2;2;246-1
+C-3PO (Impersonating a Deity);Smugglers and Spies;Unit;Droid;1;2;123-1
 C-3PO (Lost in the Forest);Jedi;Unit;Droid;1;0;207-1
 C-3PO;Light Neutral;Unit;Droid;1;1;5-1
 Calculated Wager;Scum and Villainy;Event;Gamble;0;2;155-1
@@ -190,6 +193,7 @@ Carbonite Transport;Scum and Villainy;Objective;Cloud City;;;84-1
 Cargo Skiff;Scum and Villainy;Unit;Vehicle/Speeder;2;1;284-1
 Cathar Defender;Light Neutral;Unit;Character;1;1;241-1
 Cell Block Detention;Imperial Navy;Objective;Death Star;;;268-1
+Central Computer;Smugglers and Spies;Enhancement;Cloud City/Item;1;0;173-1
 Chain of Command;Imperial Navy;Event;Tactic;1;2;164-1
 Chain Reaction;Dark Neutral;Event;;1;3;126-1/289-1
 Chevin Mercenary;Scum and Villainy;Unit;Character/Mercenary;2;1;206-1
@@ -201,12 +205,14 @@ Citadel Inquisitorious;Sith;Enhancement;Prakith/Location;3;2;153-1
 Clever Distraction;Smugglers and Spies;Event;Tactic;1;1;272-1
 Clever Ruse;Smugglers and Spies;Event;;1;2;133-1
 Closed Formation;Imperial Navy;Enhancement;Formation/Black Squadron;1;0;159-1
-Cloud City Casino;Light Neutral;Enhancement;Cloud City/Location;1;0;15-1
+Cloud City Casino;Light Neutral;Enhancement;Cloud City/Location;1;0;15-1/171-1
 Cloud City Guest Quarters;Light Neutral;Enhancement;Cloud City/Location;2;2;72-1
 Cloud City Incinerator;Scum and Villainy;Enhancement;Base/Cloud City;2;2;52-1
 Cloud City Operative;Smugglers and Spies;Unit;Character/Rogue;2;1;70-1/72-1
+Cloud City Technician;Light Neutral;Unit;Character/Engineer;2;1;173-2
 Cloud Cover;Imperial Navy;Objective;Bespin;;;255-1
 Coerced;Scum and Villainy;Enhancement;Condition;0;3;240-1
+Col Serra;Smugglers and Spies;Unit;Character/Renegade Squadron;4;2;54-1
 Colonel Dyer;Imperial Navy;Unit;Character/Officer/Force Sensitive;3;2;210-1
 Colonel Starck;Imperial Navy;Unit;Character/Officer;4;3;51-1
 Colonel Yularen;Imperial Navy;Unit;Character/Officer;3;2;180-1
@@ -220,6 +226,7 @@ Concentrated Firepower;Rebel Alliance;Event;Tactic;1;1;228-1
 Concussion Rifle;Rebel Alliance;Enhancement;Weapon;1;2;226-1
 Confiscation;Sith;Enhancement;Condition;0;2;139-1
 Confronting the Terror;Jedi;Event;Force/Sense;3;3;53-1
+Conner Net;Light Neutral;Enhancement;Weapon;0;1;142-1
 Consumed by the Dark Side;Sith;Event;Force/Alter;1;2;114-1
 Containment Field;Dark Neutral;Enhancement;Item;0;1;106-1
 Contract Hunter;Dark Neutral;Unit;Character/Bounty Hunter;2;1;189-2
@@ -305,6 +312,7 @@ Dirty Secrets;Smugglers and Spies;Enhancement;Condition;1;1;133-1
 Diversion;Smugglers and Spies;Event;Tactic;2;3;282-1
 Djas Puhr;Scum and Villainy;Unit;Character/Bounty Hunter/Force Sensitive;3;3;245-1
 Doctor Aphra;Sith;Unit;Character;4;2;263-1
+Don't Get Cocky;Smugglers and Spies;Event;;1;1;54-1
 Double Strike;Jedi;Event;;1;1;4-1
 Double-bladed Lightsaber;Sith;Enhancement;Weapon;1;1;287-1
 Double-Crossing Droid;Scum and Villainy;Objective;Nar Shaddaa;;;289-1
@@ -360,6 +368,7 @@ Evasive Maneuvers;Rebel Alliance;Event;Maneuver;0;2;118-1
 Ewok Ally;Light Neutral;Unit;Character/Ewok;2;2;275-2
 Ewok Companion;Light Neutral;Unit;Character/Ewok;1;1;117-1
 Ewok Hunter;Light Neutral;Unit;Character/Ewok;2;1;131-2
+Ewok Lookout;Light Neutral;Unit;Character/Ewok;2;1;123-2
 Executive Override;Sith;Event;;0;3;238-1
 Executor;Imperial Navy;Unit;Vehicle/Capital Ship/Death Squadron;6;3;200-1
 Executor;Sith;Unit;Vehicle/Capital Ship;8;3;66-1
@@ -415,10 +424,12 @@ Forest Awareness;Jedi;Enhancement;Skill;0;1;207-1
 Forgotten Droid Factory;Dark Neutral;Enhancement;Geonosis/Location;2;1;267-1
 Forgotten Heroes;Jedi;Objective;;;;3-1
 Fortified Holding Cells;Scum and Villainy;Enhancement;Fortification/Location;2;2;235-1
+Fortune and Fate;Smugglers and Spies;Objective;Cloud City;;;173-1
 Forward Command Post;Dark Neutral;Enhancement;Base/Hoth;2;1;58-2
 Forward Reconnaissance;Rebel Alliance;Objective;;;;98-1
 Freelance Assassin;Dark Neutral;Unit;Character/Assassin/Mercenary;1;1;170-1
 Freelance Hunter;Dark Neutral;Unit;Character/Bounty Hunter/Mercenary;2;1;134-1/250-1
+Fringer Captain;Light Neutral;Unit;Character/Rogue;2;1;174-2
 From the Abyss;Sith;Objective;Tatooine;;;277-1
 Funeral Pyre;Jedi;Enhancement;Endor/Location;1;4;131-1
 Gaffi Stick;Dark Neutral;Enhancement;Weapon;1;3;89-1
@@ -473,6 +484,7 @@ Heavy Blaster Emplacement;Light Neutral;Enhancement;Weapon;0;1;9-1
 Heavy Fire;Imperial Navy;Event;;0;1;51-1
 Heavy Stormtrooper Squad;Dark Neutral;Unit;Character/Trooper;2;1;26-2
 Hera Syndulla;Rebel Alliance;Unit;Character/Leader/Specter;3;2;252-1
+Herglic Sabacc Addict;Light Neutral;Unit;Character/Gambler;2;1;171-1
 Hero of a Thousand Devices;Jedi;Objective;;;;246-1
 Heroes and Legends;Jedi;Objective;Ruusan;;;97-1
 Heroes of the Rebellion;Rebel Alliance;Objective;;;;167-1
@@ -488,11 +500,13 @@ Holding All the Cards;Smugglers and Spies;Event;Gamble;0;1;103-2
 Home One (Solidarity of Spirit);Rebel Alliance;Unit;Vehicle/Capital Ship;5;3;197-1
 Home One;Rebel Alliance;Unit;Vehicle/Capital Ship;5;3;11-1
 Homeland Defender;Light Neutral;Unit;Character/Ewok;2;2;207-2
+Honor Among Thieves;Smugglers and Spies;Objective;Corellia;;;174-1
 Hope of Rebellion;Rebel Alliance;Objective;Yavin 4;;;224-1
 Hoth Operations;Rebel Alliance;Objective;Hoth;;;38-1
 Hoth Reinforcements;Imperial Navy;Unit;Character/Trooper;2;1;120-1
 Hoth Scout;Light Neutral;Unit;Character;1;1;45-1
 Hoth Survival Gear;Rebel Alliance;Enhancement;Item;0;2;38-1
+House Edge;Smugglers and Spies;Objective;Cloud City;;;171-1
 Human Replica Droid;Dark Neutral;Unit;Droid/Spy;3;1;36-2
 Hunt Them Down;Scum and Villainy;Objective;;;;67-1
 Hunted;Sith;Enhancement;Condition;0;2;218-1
@@ -530,6 +544,7 @@ Imperial Senate Guard;Sith;Unit;Character/Imperial Guard;2;1;238-1
 Imperial Shadow Guard;Sith;Unit;Character/Force Sensitive;2;1;104-1
 Imperial Suppression;Imperial Navy;Event;;0;1;41-1
 Imperial Vengeance;Imperial Navy;Objective;Outer Rim;;;249-1
+Impersonating a Deity;Smugglers and Spies;Objective;Endor;;;123-1
 Improvised Demolition;Light Neutral;Event;Tactic;2;1;251-1
 Improvised Explosive;Light Neutral;Enhancement;Weapon;1;1;232-1
 In You Must Go;Jedi;Objective;Dagobah;;;2-1
@@ -593,9 +608,13 @@ Kuat Reinforcements;Imperial Navy;Objective;Kuat;;;27-1
 Kuati Security Team;Dark Neutral;Unit;Character/Trooper;2;1;20-1/22-1
 Kyle Katarn (Mission to Talay);Rebel Alliance;Unit;Character/Force Sensitive/Mercenary;4;2;226-1
 Kyle Katarn;Jedi;Unit;Character/Force User;4;3;97-2
+Lady Luck;Smugglers and Spies;Unit;Vehicle/Transport;4;3;173-1
 Lady Valarian;Scum and Villainy;Unit;Character;4;3;216-1
 Lak Sivrak;Smugglers and Spies;Unit;Character;3;3;272-1
+Lando Calrissian (House Edge);Smugglers and Spies;Unit;Character/Gambler/Scoundrel;4;2;171-1
+Lando Calrissian (Memories of Taanab);Smugglers and Spies;Unit;Character/Scoundrel/Pilot;3;2;142-1
 Lannik Lackey;Dark Neutral;Unit;Character/Force Sensitive;2;2;211-2
+Last Defense of Hoth;Smugglers and Spies;Objective;Hoth;;;54-1
 Last Ditch Maneuver;Smugglers and Spies;Event;Maneuver;1;2;214-1
 Last Minute Rescue;Jedi;Objective;Cloud City;;;6-1
 Leia Organa (Hope of Rebellion);Rebel Alliance;Unit;Character/Leader/Force Sensitive;2;3;224-1
@@ -646,9 +665,11 @@ MC30c Frigate;Rebel Alliance;Unit;Vehicle/Capital Ship;2;1;228-1
 MC40a Light Cruiser;Rebel Alliance;Unit;Vehicle/Capital Ship;3;2;228-1
 MC80 Liberty-type Cruiser;Rebel Alliance;Unit;Vehicle/Capital Ship;3;1;197-2
 Memories of Home;Jedi;Event;;0;0;256-1
+Memories of Taanab;Smugglers and Spies;Objective;Taanab;;;142-1
 Mercenary Support;Scum and Villainy;Objective;;;;96-1
 Might of the Empire;Imperial Navy;Objective;Ralltiir;;;179-1
 Millennium Falcon;Smugglers and Spies;Unit;Vehicle/Transport;5;3;72-1
+Mirax Terrik;Smugglers and Spies;Unit;Character/Rogue;2;2;174-1
 Mirialan Mystic;Jedi;Unit;Character;2;1;265-1
 Misdirection;Rebel Alliance;Event;;0;1;77-1
 Mission Briefing;Rebel Alliance;Objective;;;;9-1
@@ -694,6 +715,7 @@ Obsidian 2;Imperial Navy;Unit;Vehicle/Fighter/Obsidian Squadron;3;2;255-1
 Obsidian Leader;Imperial Navy;Unit;Vehicle/Fighter/Obsidian Squadron;2;3;255-1
 Official Inquiry;Sith;Event;;1;1;139-1
 Old Ben's Spirit;Jedi;Enhancement;Force Spirit;1;1;37-2
+One Last Trick;Smugglers and Spies;Event;Maneuver;1;1;174-1
 Operations Planner;Rebel Alliance;Unit;Character;2;0;224-2
 Orbital Bombardment;Imperial Navy;Enhancement;Operation;4;2;26-1
 Orbital Resupply Station;Imperial Navy;Enhancement;Location;1;1;63-1
@@ -759,6 +781,7 @@ Rahn's Guidance;Jedi;Event;Force/Sense;0;1;97-1
 Raise the Stakes;Smugglers and Spies;Objective;Cloud City;;;70-1
 Rancor;Dark Neutral;Unit;Creature;4;1;25-1
 Rapid Fire;Rebel Alliance;Event;;1;3;92-1
+Rash Action;Smugglers and Spies;Event;;0;1;123-1
 Ready for Takeoff;Rebel Alliance;Event;;1;1;167-1
 Rear Admiral Chiraneau;Imperial Navy;Unit;Character/Officer;3;2;200-1
 Reassignment;Jedi;Event;;0;2;156-1
@@ -787,6 +810,8 @@ Relentless;Imperial Navy;Unit;Vehicle/Capital Ship;5;3;288-1
 Remote Hideout;Dark Neutral;Enhancement;Location;0;1;67-1
 Renegade Squadron Escort;Smugglers and Spies;Unit;Vehicle/Fighter/Renegade Squadron;2;1;49-2
 Renegade Squadron Mobilization;Smugglers and Spies;Objective;Hoth;;;44-1
+Renegade Squadron Recruit;Light Neutral;Unit;Character/Renegade Squadron;0;0;54-1
+Renegade Squadron X-Wing;Smugglers and Spies;Unit;Vehicle/Fighter/Renegade Squadron;2;1;54-1
 Renegade Squadron;Smugglers and Spies;Unit;Vehicle/Renegade Squadron;5;2;44-1
 Repair and Refurbish;Imperial Navy;Objective;;;;95-1
 Repair Droid;Rebel Alliance;Unit;Droid;1;1;11-1
@@ -815,6 +840,7 @@ Rule by Fear;Imperial Navy;Enhancement;Doctrine;3;1;178-1
 Rumors at the Cantina;Light Neutral;Objective;Tatooine;;;16-1
 Running the Canyon;Jedi;Objective;Tatooine;;;256-1
 Ruusan Colonist;Light Neutral;Unit;Character/Civilian;2;1;107-2
+Sabacc Shift;Smugglers and Spies;Event;;1;2;171-1
 Sabine Wren;Rebel Alliance;Unit;Character/Specter;3;2;232-1
 Sabine's Armor;Rebel Alliance;Enhancement;Armor;1;2;232-1
 Sabotage in the Snow;Dark Neutral;Objective;Hoth;;;58-1
@@ -846,7 +872,7 @@ Security Protocols;Dark Neutral;Fate;;0;2;268-1/274-1
 Security Task Force;Imperial Navy;Unit;Character/Trooper;2;1;140-2
 Security Trooper;Imperial Navy;Unit;Character/Trooper;2;2;268-2
 Seeds of Decay;Dark Neutral;Fate;;0;2;110-1/116-1/120-1/220-1/269-1
-Seeds of Decay;Light Neutral;Fate;;0;2;102-1/112-1/272-1/276-1
+Seeds of Decay;Light Neutral;Fate;;0;2;102-1/112-1/123-1/272-1/276-1
 Seedy Cantina;Dark Neutral;Enhancement;Location;2;0;222-1
 Self Preservation;Jedi;Objective;;;;48-1
 Sensor Array;Sith;Enhancement;Item;2;2;258-1
@@ -895,6 +921,7 @@ Sonic Detonation;Scum and Villainy;Event;;2;2;121-1
 Soresu Training;Jedi;Enhancement;Skill/Lightsaber Form;0;2;48-1
 Spark of Rebellion;Jedi;Objective;Lothal;;;229-1
 SpecForce Pathfinder;Rebel Alliance;Unit;Character/Trooper;1;1;185-2
+Special Discount;Smugglers and Spies;Event;;0;2;174-1
 Specter's Concentration;Light Neutral;Fate;;0;1;251-1
 Speeder Bike;Light Neutral;Unit;Vehicle/Speeder;2;0;127-1
 Spice Blitz;Scum and Villainy;Event;Addiction;1;1;195-1
@@ -926,6 +953,7 @@ Supporting Fire;Dark Neutral;Fate;;0;1;94-1/95-1/96-1/155-1/163-1/164-1
 Supporting Fire;Light Neutral;Fate;;0;1;91-1/92-1/152-1/161-1
 Surprising Maneuver;Smugglers and Spies;Event;Maneuver/Trap;0;3;162-1
 Swindled;Smugglers and Spies;Event;;1;1;15-1/70-1
+System Patrol Craft;Light Neutral;Unit;Vehicle/Transport;2;1;142-2
 T'ra Saa;Jedi;Unit;Character/Force User;4;3;166-1
 T-16 Skyhopper;Light Neutral;Unit;Vehicle/Speeder;1;2;256-1
 T-7 Ion Disruptor;Imperial Navy;Enhancement;Weapon;1;0;239-1
@@ -938,7 +966,7 @@ Talon Karrde;Smugglers and Spies;Unit;Character/Smuggler;4;3;133-1
 Tamtel Skreej;Smugglers and Spies;Unit;Character/Scoundrel/Spy;3;3;202-1
 Tantive IV;Rebel Alliance;Unit;Vehicle/Capital Ship;5;1;77-1
 Target of Opportunity;Dark Neutral;Fate;;0;2;21-1/31-1/36-1/44-1/67-1/84-1/137-1/150-1
-Target of Opportunity;Light Neutral;Fate;;0;2;4-1/11-1/38-1/103-1/129-1/132-1/147-1/229-1/256-1
+Target of Opportunity;Light Neutral;Fate;;0;2;4-1/11-1/38-1/103-1/129-1/132-1/147-1/173-1/229-1/256-1
 Tauntaun;Light Neutral;Unit;Creature/Hoth;1;1;45-1/64-1/108-1
 Tear This Ship Apart;Imperial Navy;Event;;1;2;32-1
 Technological Terror;Imperial Navy;Objective;Death Star;;;259-1
@@ -975,6 +1003,7 @@ The Final Battle;Rebel Alliance;Mission;Endor;1;1;201-1
 The Findsman's Intuition;Scum and Villainy;Objective;Nar Shaddaa;;;106-1
 The Flight of the Crow;Jedi;Objective;Ruusan;;;107-1
 The Forgotten Masters;Jedi;Objective;Kashyyyk;;;166-1
+The Gambler's Trick;Light Neutral;Fate;;0;1;171-1
 The General's Imperative;Imperial Navy;Objective;Hoth;;;56-1
 The Ghosts of the Dark Side;Sith;Objective;Malachor V.;;;87-1
 The Grand Heist;Scum and Villainy;Objective;;;;145-1
