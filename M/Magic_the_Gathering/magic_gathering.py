@@ -22,6 +22,7 @@ commander_cat_fh = open(FILE_PREFIX + '/Data/MTGCommanderCategories.txt', 'r', e
 card_corrections_fh = open(FILE_PREFIX + '/Data/MTG Card Corrections.txt', 'r', encoding="UTF-8")
 DECK_DIR = FILE_PREFIX + "/Decks"
 
+VALID_RARITIES = ['Common', 'Uncommon', 'Rare', 'Mythic Rare', 'Special', 'Bonus', 'Land', 'Promo']
 raw_list = [] # Will hold the full list of cards
 
 class Deck:
@@ -216,6 +217,8 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
         match_obj = re.search(r"(.*) \((.*)\)", card_set)
         if match_obj:
             this_set, this_set_rarity = match_obj.groups()
+            if this_set_rarity not in VALID_RARITIES:
+                print("[" + this_card_name + "] Unknown rarity: " + this_set_rarity)
             if this_set in mtg_sets.LEGACY_SETS:
                 ret_sets.append(this_set)
                 ret_rarities.add(this_set_rarity)
