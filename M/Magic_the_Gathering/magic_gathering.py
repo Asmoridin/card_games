@@ -496,9 +496,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Lorwyn'
-CHECK_AMOUNT = 301
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = 'Morningtide'
+CHECK_AMOUNT = 150
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
