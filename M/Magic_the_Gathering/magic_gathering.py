@@ -343,11 +343,11 @@ def get_categories(in_lines):
     for cat_line in in_lines:
         cat_line = cat_line.strip()
         cmdr, category = cat_line.split(';')
-        if category in ['Fallout', ]:
+        if category in ['Fallout', 'Sonic the Hedgehog', 'Street Fighter', 'The Walking Dead',]:
             category = 'Other'
         if category not in ret_dict:
-            ret_dict[category] = []
-        ret_dict[category].append(cmdr)
+            ret_dict[category] = set()
+        ret_dict[category].add(cmdr)
     return ret_dict
 
 def get_corrections(in_lines):
@@ -762,6 +762,24 @@ if __name__ == "__main__":
             double_print(f"Other U.B. deck closest to completion: {deck[0]}", out_file_h)
             double_print(f"Needed cards: {deck[1]} - {str(deck[2])}\n", out_file_h)
             break
+    
+    for deck in comm_dict['DECKS']:
+        if deck[0] in commander_cats['Marvel']:
+            commander_cats['Marvel'].remove(deck[0])
+            continue
+        if deck[0] in commander_cats['Warhammer 40K']:
+            commander_cats['Warhammer 40K'].remove(deck[0])
+            continue
+        if deck[0] in commander_cats['Lord of the Rings']:
+            commander_cats['Lord of the Rings'].remove(deck[0])
+            continue
+        if deck[0] in commander_cats['Final Fantasy']:
+            commander_cats['Final Fantasy'].remove(deck[0])
+            continue
+        if deck[0] in commander_cats['Other']:
+            commander_cats['Other'].remove(deck[0])
+            continue
+    #print(commander_cats)
 
     print_deck = comm_dict["OLDEST"]
     old_name = print_deck[1].replace('.txt','')
@@ -776,6 +794,7 @@ if __name__ == "__main__":
     # Other
     del creature_types['Forest']
     del creature_types['Saga']
+    del creature_types['Food']
     one_ofs = []
     for creature, creature_freq in creature_types.items():
         if creature_freq == 1:
