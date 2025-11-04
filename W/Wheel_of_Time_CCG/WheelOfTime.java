@@ -1,4 +1,6 @@
 import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
@@ -61,8 +63,15 @@ public class WheelOfTime {
 
             int card_own = Integer.parseInt(parts[5]);
             TOTAL_OWN += card_own;
+
+            int card_max = 3;
+            if (thisCardType.equals("Starting Character")) {
+                card_max = 1;
+            }
+            TOTAL_MAX += card_max;
         }
         System.out.println("Total owned: " + TOTAL_OWN);
+        System.out.println("Total max: " + TOTAL_MAX);
         // We then need to parse and validate the deck data, which almost certainly will go into a deck
 
         // Do a summary of my collection, give me purchase suggestion
@@ -72,5 +81,18 @@ public class WheelOfTime {
         // Write all of this to both the screen and to an output file.
         
         // Write out a Python file that can be used by ccg_summary
+        String fileName = "card_games/W/Wheel_of_Time_CCG/wheel_of_time.py";
+        String pythonCode = "#!/usr/bin/python3\n\n" +
+            "\"\"\"\nInventory manager and collection suggestor for the Wheel of Time TCG\n\"\"\"\n" +
+            "GAME_NAME = \"Wheel of Time\"\n\n" + 
+            "TOTAL_MAX = " + TOTAL_MAX + "\n" +
+            "TOTAL_OWN = " + TOTAL_OWN + "\n";
+
+        try (FileWriter writer = new FileWriter(fileName)) {
+            writer.write(pythonCode);
+            System.out.println("Python module 'wheel_of_time.py' created successfully.");
+        } catch (IOException e) {
+            System.err.println("Error writing Python module: " + e.getMessage());
+        }
     }
 }

@@ -28,6 +28,7 @@ modules = [
     ("card_games/S/Star_Wars_Unlimited/star_wars_unlimited.py", "star_wars_unlimited"),
     ("card_games/T/Tribbles/tribbles.py", "tribbles"),
     ("card_games/W/Wars_TCG/wars_tcg.py", "wars_tcg"),
+    ("card_games/W/Wheel_of_Time_CCG/wheel_of_time.py", "wheel_of_time"),
     ("card_games/W/Wyvern/wyvern.py", "wyvern"),
     ("card_games/X/Xena_Warrior_Princess/xena.py", "xena"),
 ]

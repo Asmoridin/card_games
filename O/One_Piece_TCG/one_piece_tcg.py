@@ -252,4 +252,14 @@ if __name__ == "__main__":
             for check_color in check_deck[3][1]:
                 unused_colors.remove(check_color)
 
+    PRINTED_PROMO = False
+    PRINTED_STARTER = False
+    for p_card in card_sorter:
+        if ('P-' in p_card[1]) and (not PRINTED_PROMO):
+            double_print(f"Most needed promo: {p_card[0]} ({p_card[1]})", out_file_h)
+            PRINTED_PROMO = True
+        if ('ST' in p_card[1]) and (not PRINTED_STARTER):
+            double_print(f"Most needed starter card: {p_card[0]} ({p_card[1]})", out_file_h)
+            PRINTED_STARTER = True
+
     out_file_h.close()

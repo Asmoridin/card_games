@@ -235,5 +235,14 @@ if __name__ == "__main__":
     double_print("\nMost needed cards, overall:", out_file_h)
     for print_card in most_missing_cards[:10]:
         double_print(f"- {print_card[0]}: {print_card[1]}", out_file_h)
+    PRINTED_PROMO = False
+    PRINTED_STARTER = False
+    for print_card in most_missing_cards:
+        if (' (FP' in print_card[0]) and (not PRINTED_PROMO):
+            double_print(f"\nMost needed promo: {print_card[0]}", out_file_h)
+            PRINTED_PROMO = True
+        if (' (FS' in print_card[0]) and (not PRINTED_STARTER):
+            double_print(f"Most needed starter card: {print_card[0]}", out_file_h)
+            PRINTED_STARTER = True
 
     out_file_h.close()
