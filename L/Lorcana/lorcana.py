@@ -15,7 +15,8 @@ GAME_NAME = "Lorcana"
 valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
 card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
-    "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", 'Fabled', ]
+    "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", 'Fabled',
+    'Whispers in the Well']
 valid_rarities = ['Common', 'Uncommon', 'Rare', 'Super Rare', 'Legendary']
 
 def parse_sets(this_card_name, card_set_string):
@@ -56,7 +57,7 @@ item_list = []
 for line in lines:
     line = line.split('#')[0].strip()
     try:
-        card_name, card_type, card_color, card_set_info, card_own = line.split(';')
+        card_name, card_type, card_color, card_traits, card_set_info, card_own = line.split(';')
     except ValueError:
         print("Issue with line:")
         print(line)
@@ -70,6 +71,7 @@ for line in lines:
     for card_color in card_colors:
         if card_color not in valid_colors:
             print("Invalid card color: " + card_color)
+    card_traits = card_traits.split('/')
 
     card_own = int(card_own)
 

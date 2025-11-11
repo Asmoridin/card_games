@@ -496,9 +496,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Shadowmoor'
-CHECK_AMOUNT = 301
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = 'Eventide'
+CHECK_AMOUNT = 180
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
@@ -834,6 +834,6 @@ if __name__ == "__main__":
 
     double_print(f"\nFirst card needing a mana value is {FIRST_MANA_NEEDED_CARD}", out_file_h)
     MANA_DONE = MANA_CARDS_DONE/len(raw_list) * 100
-    double_print(f"Currently done with {MANA_CARDS_DONE} cards - {MANA_DONE:.2f} pct", out_file_h)
+    double_print(f"Have {len(raw_list) - MANA_CARDS_DONE} cards to go - {MANA_DONE:.2f} pct", out_file_h)
 
     out_file_h.close()
