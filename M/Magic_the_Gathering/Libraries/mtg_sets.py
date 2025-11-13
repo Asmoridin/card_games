@@ -60,7 +60,8 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "FINAL FANTASY Through the Ages", "Magic: The Gathering—FINAL FANTASY Commander",
     "Edge of Eternities Bonus Sheet", "Edge of Eternities Commander", 'Source Material Cards',
     "SPE - Magic: The Gathering | Marvel's Spider-Man", 'Guilds of Ravnica Mythic Edition',
-    'Promo Cards', 'Universes Within',
+    'Promo Cards', 'Universes Within', 'Magic: The Gathering | Avatar: The Last Airbender Extra',
+    'Magic: The Gathering | Avatar: The Last Airbender Jumpstart',
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
@@ -88,7 +89,8 @@ STANDARD_SETS = ["Wilds of Eldraine", "The Lost Caverns of Ixalan", "Murders at 
     "Outlaws of Thunder Junction", "Outlaws of Thunder Junction: The Big Score", "Bloomburrow",
     "Duskmourn: House of Horror", "Magic: The Gathering Foundations", "Aetherdrift",
     "Tarkir: Dragonstorm", "Magic: The Gathering—FINAL FANTASY", "Edge of Eternities",
-    "Magic: The Gathering | Marvel's Spider-Man", "Magic: The Gathering | Avatar: The Last Airbender"]
+    "Magic: The Gathering | Marvel's Spider-Man",
+    "Magic: The Gathering | Avatar: The Last Airbender"]
 
 # These sets are legal in Pioneer, Modern, and older formats
 PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 Core Set", "Theros",

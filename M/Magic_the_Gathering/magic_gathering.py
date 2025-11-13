@@ -834,6 +834,7 @@ if __name__ == "__main__":
 
     double_print(f"\nFirst card needing a mana value is {FIRST_MANA_NEEDED_CARD}", out_file_h)
     MANA_DONE = MANA_CARDS_DONE/len(raw_list) * 100
-    double_print(f"Have {len(raw_list) - MANA_CARDS_DONE} cards to go - {MANA_DONE:.2f} pct", out_file_h)
+    double_print(f"Have {len(raw_list) - MANA_CARDS_DONE} cards to go - {MANA_DONE:.2f} pct",
+        out_file_h)
 
     out_file_h.close()
