@@ -12,7 +12,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 GAME_NAME = "Gundam Card Game"
 
 valid_types = ['Unit', 'Command', 'Base', 'Pilot', ]
-valid_colors = ['Red', 'Blue', 'Green', 'White']
+valid_colors = ['Red', 'Blue', 'Green', 'White', 'Purple']
 
 FILE_PREFIX = "card_games/G/Gundam_Card_Game"
 if os.getcwd().endswith('card_games'):
