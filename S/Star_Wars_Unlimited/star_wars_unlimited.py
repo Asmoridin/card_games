@@ -226,7 +226,7 @@ for entry in clean_list:
     if entry[1] != '0':
         new_clean_list.append(f"{set_info},{entry[1]},false\n")
 
-with open(FILE_PREFIX + '/Data/StarWarsUnlimitedCleanData.csv', 'w', encoding="UTF-8") as clean_f:
+with open(FILE_PREFIX + '/Data/SWUDBImportFile.csv', 'w', encoding="UTF-8") as clean_f:
     clean_f.writelines(new_clean_list)
 
 done_decks = []
