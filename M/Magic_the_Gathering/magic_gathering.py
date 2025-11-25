@@ -496,9 +496,10 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Eventide'
-CHECK_AMOUNT = 180
-SET_CHECK += 0 # Extra basic lands
+CHECK_SET = 'Shards of Alara'
+CHECK_AMOUNT = 249
+SET_CHECK += 15 # Extra basic lands
+PRINT_SET = False
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
@@ -568,6 +569,8 @@ for line in lines:
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
+        if PRINT_SET:
+            print(f"{card_name}")
         #print(card_name)
         SET_CHECK += 1
     if 'Basic Land' in card_type:
@@ -591,6 +594,9 @@ for line in lines:
     TOTAL_OWN += card_qty
     raw_list.append((card_name, card_type, card_subtype, card_colors, card_sets, card_rarities, \
         card_formats, card_qty, CARD_MAX))
+
+if PRINT_SET:
+    os._exit(0)
 
 FORMAT_LIST = []
 
