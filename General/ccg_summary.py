@@ -21,6 +21,7 @@ modules = [
     ("card_games/L/Lorcana/lorcana.py", "lorcana"),
     ("card_games/M/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
     ("card_games/O/One_Piece_TCG/one_piece_tcg.py", "one_piece_tcg"),
+    ("card_games/R/Riftbound/riftbound.py", "riftbound"),
     ("card_games/S/Star_Trek_1E/star_trek_first_edition.py", "star_trek_first_edition"),
     ("card_games/S/Star_Trek_2E/star_trek_second_edition.py", "star_trek_second_edition"),
     ("card_games/S/Star_Wars_CCG/star_wars_ccg.py", "star_wars_ccg"),
