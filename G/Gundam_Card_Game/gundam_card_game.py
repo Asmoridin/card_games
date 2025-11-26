@@ -70,8 +70,6 @@ if __name__ == "__main__":
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
 
-    double_print(f"{len(champions)} different champions in the game\n", out_file_h)
-
     SUGG_STRING = f"Buy {picked_item[0]} ({chosen_color + ' ' + chosen_type}) from " + \
         f"{picked_item[1]} (have {picked_item[10]} out of {picked_item[11]})"
     double_print(SUGG_STRING, out_file_h)

@@ -99,7 +99,7 @@ Get Excited!;Spell;Fury;;2;1;;Origins (Common);0
 Grand Strategem;Spell;Order;;6;3;;Origins (Rare);0
 Grove of the God-Willow;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Guerilla Warfare;Signature Spell;Chaos/Mind;Teemo;2;1;;Origins (Epic);0
-Gust;Spell;Chaos;;1;0;Origins (Common);0
+Gust;Spell;Chaos;;1;0;;Origins (Common);0
 Hallowed Tomb;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Hand of Noxus;Legend;Fury/Order;Darius;;;;Origins (Rare);0
 Harnessed Dragon;Unit;Order;Demacia/Dragon;8;2;6;Origins (Rare);0
@@ -156,7 +156,7 @@ Miss Fortune, Captain;Champion Unit;Body;Miss Fortune/Bilgewater/Pirate;5;1;5;Or
 Mistfall;Gear;Body;;3;0;;Origins (Rare);0
 Mobilize;Spell;Body;;2;0;;Origins (Common);0
 Monastery of Hirana;Battlefield;Colorless;;;;;Origins (Uncommon);0
-Morbid Return;Spell;Chaos;;2;0;Origins (Common);0
+Morbid Return;Spell;Chaos;;2;0;;Origins (Common);0
 Mountain Drake;Unit;Body;Dragon;9;0;10;Origins (Uncommon);0
 Mushroom Pouch;Gear;Mind;;2;0;;Origins (Uncommon);0
 Mystic Poro;Unit;Chaos;Poro;2;0;2;Origins (Common);0
@@ -195,14 +195,14 @@ Raging Soul;Unit;Fury;Shadow Isles/Spirit;4;0;4;Origins (Uncommon);0
 Ravenbloom Student;Unit;Mind;Noxus;2;0;2;Origins (Uncommon);0
 Ravenborn Tome;Gear;Fury;;3;0;;Origins (Rare);0
 Reaver's Row;Battlefield;Colorless;;;;;Origins (Uncommon);0
-Rebuke;Spell;Chaos;;2;2;Origins (Common);0
+Rebuke;Spell;Chaos;;2;2;;Origins (Common);0
 Reckoner's Arena;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Recruit the Vanguard;Spell;Order;;6;0;;Proving Grounds (Uncommon);0
 Reinforce;Spell;Calm;;5;0;;Origins (Uncommon);0
 Relentless Storm;Legend;Body/Fury;Volibear;;;;Origins (Rare);0
 Retreat;Spell;Mind;;1;0;;Origins (Uncommon);0
 Rhasa the Sunderer;Unit;Chaos;Shadow Isles/Spirit;10;1;6;Origins (Rare);0
-Ride the Wind;Spell;Chaos;;2;1;Origins (Common);0
+Ride the Wind;Spell;Chaos;;2;1;;Origins (Common);0
 Riptide Rex;Unit;Mind;Bilgewater/Pirate;6;2;6;Origins (Common);0
 Rune Prison;Spell;Calm;;2;1;;Origins (Common);0
 Sabotage;Spell;Body;;1;1;;Origins (Rare);0
@@ -219,7 +219,7 @@ Seal of Unity;Gear;Order;;0;1;;Origins (Epic);0
 Sett, Brawler;Champion Unit;Body;Sett/Ionia;5;1;4;Origins (Epic);0
 Sett, Kingpin;Champion Unit;Order;Sett/Ionia;4;1;5;Origins (Rare);0
 Shakedown;Spell;Fury;;2;1;;Origins (Rare);0
-Shen, Kinkou;Champion Unit;Shen/Ionia;3;1;3;Origins (Rare);0
+Shen, Kinkou;Champion Unit;Order;Shen/Ionia;3;1;3;Origins (Rare);0
 Shipyard Skulker;Unit;Chaos;Bilgewater/Pirate;3;0;3;Origins (Common);0
 Showstopper;Signature Spell;Body/Order;Sett;1;1;;Origins (Epic);0
 Sigil of the Storm;Battlefield;Colorless;;;;;Origins (Uncommon);0
@@ -266,7 +266,7 @@ The Harrowing;Spell;Chaos;;6;2;;Origins (Rare);0
 The Syren;Gear;Chaos;;2;0;;Origins (Uncommon);0
 Thermo Beam;Spell;Fury;;5;2;;Origins (Uncommon);0
 Thousand-Tailed Watcher;Unit;Mind;Ionia;7;1;7;Origins (Rare);0
-Tibbers;Signature Unit;Fury/Chaos/Annie;8;2;7;Proving Grounds (Epic);0
+Tibbers;Signature Unit;Fury/Chaos;Annie;8;2;7;Proving Grounds (Epic);0
 Tideturner;Unit;Chaos;Bilgewater;2;0;2;Origins (Rare);0
 Time Warp;Spell;Mind;;10;4;;Origins (Epic);0
 Traveling Merchant;Unit;Chaos;Bilgewater;2;0;2;Origins (Uncommon);0
@@ -294,9 +294,9 @@ Vilemaw's Lair;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Void Gate;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Void Seeker;Spell;Fury;;3;1;;Origins (Uncommon);0
 Volibear, Furious;Champion Unit;Fury;Volibear/Freljord;10;2;9;Origins (Epic);0
-Volibear, Imposing;Champion Unit;Volibear/Freljord;12;2;10;Origins (Rare);0
+Volibear, Imposing;Champion Unit;Body;Volibear/Freljord;12;2;10;Origins (Rare);0
 Wallop;Spell;Body;;2;0;;Origins (Uncommon);0
-Warwick, Hunter;Champion Unit;Warwick/Zaun/Dog;6;1;5;Origins (Rare);0
+Warwick, Hunter;Champion Unit;Body;Warwick/Zaun/Dog;6;1;5;Origins (Rare);0
 Watchful Sentry;Unit;Mind;Freljord;2;0;1;Origins (Common);0
 Whirlwind;Spell;Chaos;;4;1;;Origins (Uncommon);0
 Whiteflame Protector;Unit;Calm;Mount Targon/Dragon;8;2;8;Origins (Epic);0
@@ -308,9 +308,9 @@ Wizened Elder;Unit;Calm;Ionia;4;0;4;Origins (Uncommon);0
 Wraith of Echoes;Unit;Mind;Shadow Isles/Spirit;6;1;5;Origins (Rare);0
 Wuju Bladesman;Legend;Calm/Body;Master Yi;;;;Proving Grounds (Rare);0
 Yasuo, Remorseful;Champion Unit;Calm;Yasuo/Ionia;6;2;6;Origins (Rare);0
-Yasuo, Windrider;Champion Unit;Yasuo/Ionia;5;1;4;Origins (Epic);0
+Yasuo, Windrider;Champion Unit;Chaos;Yasuo/Ionia;5;1;4;Origins (Epic);0
 Yi, Honed;Champion Unit;Body;Master Yi/Ionia;7;1;6;Proving Grounds (Epic);0
-Yi, Meditative;Champion Unit;Calm;Master Yi/Ionia;;5;1;4;Proving Grounds (Rare);0
+Yi, Meditative;Champion Unit;Calm;Master Yi/Ionia;5;1;4;Proving Grounds (Rare);0
 Zaun Warrens;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Zaunite Bouncer;Unit;Chaos;Zaun;4;2;2;Origins (Uncommon);0
 Zenith Blade;Signature Spell;Calm/Order;Leona;3;2;;Origins (Epic);0
