@@ -1,0 +1,194 @@
+#!/usr/bin/python3
+
+"""
+Collection manager/purchase suggester for Union Arena
+"""
+
+import os
+
+from card_games.General.Libraries.deck import Deck
+from card_games.General.Libraries.output_utils import double_print
+from card_games.General.Libraries.sort_and_filter import sort_and_filter
+
+GAME_NAME = "Union Arena"
+
+valid_types = ['Character', 'Event', 'Site']
+valid_colors = ['Green', 'Yellow', 'Blue', 'Purple']
+valid_rarities = ['C', 'U', 'R', 'SR']
+
+FILE_PREFIX = "card_games\\U\\Union_Arena"
+DECK_PREFIX = FILE_PREFIX + "\\Decks"
+if os.getcwd().endswith('card_games'):
+    FILE_PREFIX = "U\\Union_Arena"
+
+file_h = open(FILE_PREFIX + '\\Data\\Union Arena Data.txt', 'r', encoding="UTF-8")
+
+lines = file_h.readlines()
+file_h.close()
+lines = [line.strip() for line in lines]
+
+with open(FILE_PREFIX + '\\Data\\Union Arena Sets.txt', 'r', encoding="UTF-8") as in_sets:
+    ua_sets = in_sets.readlines()
+ua_sets = [line.strip() for line in ua_sets if line.strip() != '']
+
+CODES_FILE_NAME = FILE_PREFIX + '\\Data\\Union Arena Source Material Codes.txt'
+with open(CODES_FILE_NAME, 'r', encoding="UTF-8") as in_codes:
+    temp_ua_codes = in_codes.readlines()
+temp_ua_codes = [line.strip() for line in temp_ua_codes if line.strip() != '']
+ua_codes = {}
+for line in temp_ua_codes:
+    try:
+        code, source = line.split(';')
+    except ValueError:
+        print("Invalid line in source material codes:")
+        print(line)
+        continue
+    ua_codes[code] = source
+
+with open(FILE_PREFIX + '/Data/Union Arena WL Data.txt', 'r', encoding="UTF-8") as in_wl:
+    ua_wl = in_wl.readlines()
+ua_wl = [line.strip() for line in ua_wl if line.strip() != '']
+
+TOTAL_OWN = 0
+TOTAL_MAX = 0
+item_list = []
+card_inv_dict = {}
+most_needed_cards = {}
+card_mapping = {}
+for line in lines:
+    if line == '' or line.startswith('#'):
+        continue
+    line = line.split('#')[0].strip()
+    try:
+        card_name, card_affin, card_code, card_rarity, card_type, card_color, card_energy, \
+            card_ap, card_sets, card_triggers, card_own = line.split(';')
+    except ValueError:
+        print("Invalid line:")
+        print(line)
+        continue
+
+    card_affin = card_affin.split('/')
+
+    card_property = ua_codes.get(card_code[:3], 'Unknown Source')
+    if card_property == 'Unknown Source':
+        print(f"Unknown source code {card_code[:3]} for {card_name}")
+
+    CARD_ID = f"{card_name} [{card_code}]"
+
+    if card_rarity not in valid_rarities:
+        print(f"Invalid card rarity {card_rarity} for {card_name}")
+    if card_type not in valid_types:
+        print(f"Invalid card type {card_type} for {card_name}")
+    card_colors = card_color.split('/')
+    for card_color in card_colors:
+        if card_color not in valid_colors:
+            print(f"Invalid card color {card_color} for {card_name}")
+    card_energy = int(card_energy) if card_energy.isdigit() else card_energy
+    card_ap = int(card_ap) if card_ap.isdigit() else card_ap
+
+    card_sets = card_sets.split('/')
+
+    card_own = int(card_own)
+    CARD_MAX = 4
+
+    TOTAL_OWN += card_own
+    TOTAL_MAX += CARD_MAX
+    if card_own < CARD_MAX:
+        most_needed_cards[CARD_ID] = CARD_MAX - card_own
+    card_inv_dict[CARD_ID] = card_own
+    card_mapping[card_code] = CARD_ID
+    item_list.append((card_name, CARD_ID, card_affin, card_code, card_property, card_rarity, \
+        card_type, card_colors, card_energy, card_ap, card_sets, card_triggers, card_own, CARD_MAX))
+
+# Being processing decks
+decks = []
+for deck_file in os.listdir(DECK_PREFIX):
+    if not deck_file.endswith('.txt'):
+        print("Skipping non-txt file in decks folder:", deck_file)
+        continue
+    deck_path = os.path.join(DECK_PREFIX, deck_file)
+    with open(deck_path, 'r', encoding="UTF-8") as deck_h:
+        deck_lines = deck_h.readlines()
+    deck_lines = [line.strip() for line in deck_lines if line.strip() != '' and
+            not line.startswith('//') and not line.startswith('#')]
+    deck_dict = {}
+    for deck_line in deck_lines:
+        try:
+            deck_card_qty = int(deck_line.split(' ')[0])
+            DECK_CARD_NAME = ' '.join(deck_line.split(' ')[1:]).strip()
+            DECK_CARD_NAME = DECK_CARD_NAME.split('/')[1]
+        except ValueError:
+            print(f"Invalid deck line in {deck_path}: {deck_line}")
+            continue
+        if DECK_CARD_NAME not in card_mapping:
+            print(f"Unknown card {DECK_CARD_NAME} in deck {deck_path}")
+        if DECK_CARD_NAME not in deck_dict:
+            deck_dict[DECK_CARD_NAME] = 0
+        deck_dict[DECK_CARD_NAME] += deck_card_qty
+    this_deck = Deck(deck_file[:-4], deck_dict, {'property': deck_file[:3]})
+    this_deck.update_missing_cards(card_inv_dict)
+    decks.append(this_deck)
+
+for deck in decks:
+    for card_name, missing_qty in deck.deck_missing_cards.items():
+        if card_name not in most_needed_cards:
+            most_needed_cards[card_name] = 0
+        most_needed_cards[card_name] += missing_qty
+
+# Filter by property
+chosen_property, filtered_list = sort_and_filter(item_list, 4)
+
+# Filter by card_color
+chosen_color, filtered_list = sort_and_filter(filtered_list, 7)
+
+#Filter by set
+chosen_set, filtered_list = sort_and_filter(filtered_list, 10)
+
+#Filter by type
+chosen_type, filtered_list = sort_and_filter(filtered_list, 6)
+
+# Filter by rarity
+chosen_rarity, filtered_list = sort_and_filter(filtered_list, 5)
+
+# Choose card
+chosen_card, filtered_list = sort_and_filter(filtered_list, 0)
+picked_item = filtered_list[0]
+
+if __name__ == "__main__":
+    out_file_h = open(FILE_PREFIX + "/Union Arena Out.txt", 'w', encoding="UTF-8")
+
+    double_print("Union Arena Inventory Tracker Tool\n", out_file_h)
+
+    total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
+    double_print(total_string, out_file_h)
+
+    SUGG_STRING = f"Buy {picked_item[1]} ({chosen_color + ' ' + chosen_type}) from " + \
+        f"{chosen_set} (have {picked_item[-2]} out of {picked_item[-1]})"
+    double_print(SUGG_STRING, out_file_h)
+
+    double_print("\nMost needed cards:", out_file_h)
+    sorted_most_needed = sorted(most_needed_cards.items(), key=lambda x: (-x[1], x[0]))
+    for card_name, needed_qty in sorted_most_needed[:10]:
+        double_print(f" - {card_mapping.get(card_name, card_name)}: {needed_qty} cards", out_file_h)
+
+    sorted_decks = sorted(decks, key=lambda x: x.get_num_missing_cards())
+    double_print("\nDecks closest to completion:", out_file_h)
+    used_properties = set()
+    for deck in sorted_decks:
+        if len(used_properties) >= 6:
+            break
+        PROCESS_DECK = True
+        for prop_name in deck.deck_tags['property']:
+            if prop_name in used_properties:
+                PROCESS_DECK = False
+                break
+        if not PROCESS_DECK:
+            continue
+        for prop_name in deck.deck_tags['property']:
+            used_properties.add(prop_name)
+        double_print(f" - {deck.deck_name}: {deck.get_num_missing_cards()} cards", out_file_h)
+        for card_name, missing_qty in sorted(deck.deck_missing_cards.items()):
+            CARD_STR = f"    - {card_mapping.get(card_name, card_name)}: {missing_qty}"
+            double_print(CARD_STR, out_file_h)
+
+    out_file_h.close()
