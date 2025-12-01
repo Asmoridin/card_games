@@ -175,17 +175,12 @@ if __name__ == "__main__":
     double_print("\nDecks closest to completion:", out_file_h)
     used_properties = set()
     for deck in sorted_decks:
-        if len(used_properties) >= 6:
-            break
         PROCESS_DECK = True
-        for prop_name in deck.deck_tags['property']:
-            if prop_name in used_properties:
-                PROCESS_DECK = False
-                break
+        if deck.deck_tags['property'] in used_properties:
+            PROCESS_DECK = False
         if not PROCESS_DECK:
             continue
-        for prop_name in deck.deck_tags['property']:
-            used_properties.add(prop_name)
+        used_properties.add(deck.deck_tags['property'])
         double_print(f" - {deck.deck_name}: {deck.get_num_missing_cards()} cards", out_file_h)
         for card_name, missing_qty in sorted(deck.deck_missing_cards.items()):
             CARD_STR = f"    - {card_mapping.get(card_name, card_name)}: {missing_qty}"

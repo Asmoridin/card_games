@@ -200,7 +200,6 @@ if __name__ == "__main__":
         for color in deck.deck_tags['colors']:
             if color in used_colors:
                 PROCESS_DECK = False
-                break
         if not PROCESS_DECK:
             continue
         for color in deck.deck_tags['colors']:
