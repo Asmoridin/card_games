@@ -106,42 +106,59 @@ Yumichika Ayasegawa;Thirteen Court Guard Squads;BLC-1-067;U;Character;Green;0;1;
 Äs Nödt;Stern Ritters;BLC-1-003;U;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Color;0
 Äs Nödt;Stern Ritters;BLC-1-004;SR;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
 # Need triggers from here
-Alphonse Elric;;FMA-1-001;C;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST]/FULLMETAL ALCHEMIST [UE09BT];;0
-Alphonse Elric;;FMA-1-002;U;Character;Yellow;0;1;FULLMETAL ALCHEMIST [UE09BT];;0
-Alphonse Elric;;FMA-1-003;R;Character;Yellow;1;1;Fullmetal Alchemist [UE09ST]/FULLMETAL ALCHEMIST [UE09BT];;0
-Alphonse Elric;;FMA-1-004;SR;Character;Yellow;4;1;FULLMETAL ALCHEMIST [UE09BT];;0
-Izumi Curtis;;FMA-1-005;U;Character;Yellow;4;1;Fullmetal Alchemist [UE09ST]/FULLMETAL ALCHEMIST [UE09BT];;0
-Van Hohenheim;;FMA-1-006;U;Character;Yellow;1;1;Fullmetal Alchemist [UE09ST]/FULLMETAL ALCHEMIST [UE09BT];;0
-Winry Rockbell;;FMA-1-007;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/FULLMETAL ALCHEMIST [UE09BT];;0
-Winry Rockbell;;FMA-1-008;R;Character;Yellow;2;1;FULLMETAL ALCHEMIST [UE09BT];;0
-Edward Elric;;FMA-1-009;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/FULLMETAL ALCHEMIST [UE09BT];;0
-Edward Elric;;FMA-1-010;U;Character;Yellow;1;1;FULLMETAL ALCHEMIST [UE09BT];;0
-Edward Elric;;FMA-1-011;R;Character;Yellow;2;1;FULLMETAL ALCHEMIST [UE09BT];;0
+Alphonse Elric;;FMA-1-001;C;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Active;0
+Alphonse Elric;;FMA-1-002;U;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Draw;0
+Alphonse Elric;;FMA-1-003;R;Character;Yellow;1;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Active;0
+Alphonse Elric;;FMA-1-004;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09BT];Color;0
+Izumi Curtis;;FMA-1-005;U;Character;Yellow;4;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];;0
+Van Hohenheim;;FMA-1-006;U;Character;Yellow;1;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];;0
+Winry Rockbell;;FMA-1-007;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Draw;0
+Winry Rockbell;;FMA-1-008;R;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];Active;0
+Edward Elric;;FMA-1-009;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Get;0
+Edward Elric;;FMA-1-010;U;Character;Yellow;1;1;Fullmetal Alchemist [UE09BT];;0
+Edward Elric;;FMA-1-011;R;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];Draw;0
+Edward Elric;;FMA-1-012;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09BT];Raid;0
+Scar;;FMA-1-013;R;Character;Yellow;5;2;Fullmetal Alchemist [UE09BT];Active;0
+Tim Marcoh;;FMA-1-014;C;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];;0
+Trisha Elric;;FMA-1-015;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];;0
+Yoki;;FMA-1-016;C;Character;Yellow;1;1;Fullmetal Alchemist [UE09BT];;0
+Shao May;Xing;FMA-1-017;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Draw;0
+Old Man Fu;Xing;FMA-1-018;U;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];Active;0
+May Chang;Xing;FMA-1-019;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Get;0
+May Chang;Xing;FMA-1-020;U;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];;0
+May Chang;Xing;FMA-1-021;R;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];Get;0
+Lanfan;Xing;FMA-1-022;C;Character;Yellow;1;1;Fullmetal Alchemist [UE09BT];Draw;0
+Lanfan;Xing;FMA-1-023;SR;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];Get;0
+Ling Yao;Xing;FMA-1-024;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Active;0
+Ling Yao;Xing;FMA-1-025;U;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];;0
+Ling Yao;Xing;FMA-1-026;R;Character;Yellow;4;1;Fullmetal Alchemist [UE09BT];Color;0
+Greed;Xing/Homunculus;FMA-1-027;SR;Character;Yellow;6;1;Fullmetal Alchemist [UE09BT];Raid;0
+Gateway of Truth;;FMA-1-028;U;Site;Yellow;3;1;Fullmetal Alchemist [UE09BT];Get;0
+Automail;;FMA-1-029;C;Event;Yellow;3;1;Fullmetal Alchemist [UE09BT];Active;0
 
-Trisha Elric;;FMA-1-015;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST];;0
 
-Equivalent Exchange;;FMA-1-031;U;Event;Yellow;3;1;Fullmetal Alchemist [UE09ST];;0
+Equivalent Exchange;;FMA-1-031;U;Event;Yellow;3;1;Fullmetal Alchemist [UE09ST];Final;0
 
-Fullmetal Alchemist;;FMA-1-033;U;Event;Yellow;4;1;Fullmetal Alchemist [UE09ST];;0
+Fullmetal Alchemist;;FMA-1-033;U;Event;Yellow;4;1;Fullmetal Alchemist [UE09ST];Special;0
 
-Alex Louis Armstrong;;FMA-1-034;C;Character;Blue;0;1;FULLMETAL ALCHEMIST [UE09BT];;0
+Alex Louis Armstrong;;FMA-1-034;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];Active;0
 
-Alphonse Elric;;FMA-1-101;SR;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST];;0
+Alphonse Elric;;FMA-1-101;SR;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST];Active;0
 Edward Elric;;FMA-1-102;U;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST];;0
-Edward Elric;;FMA-1-103;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09ST];;0
-Pinako Rockbell;;FMA-1-104;C;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST];;0
-Maes Hughes;;FMA-1-105;C;Character;Yellow;2;1;Fullmetal Alchemist [UE09ST];;0
-Riza Hawkeye;;FMA-1-106;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST];;0
-Roy Mustang;;FMA-1-107;R;Character;Yellow;4;2;Fullmetal Alchemist [UE09ST];;0
-Rockbell House;;FMA-1-108;U;Site;Yellow;2;1;Fullmetal Alchemist [UE09ST];;0
+Edward Elric;;FMA-1-103;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09ST];Raid;0
+Pinako Rockbell;;FMA-1-104;C;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST];Active;0
+Maes Hughes;;FMA-1-105;C;Character;Yellow;2;1;Fullmetal Alchemist [UE09ST];Draw;0
+Riza Hawkeye;;FMA-1-106;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST];Draw;0
+Roy Mustang;;FMA-1-107;R;Character;Yellow;4;2;Fullmetal Alchemist [UE09ST];Draw;0
+Rockbell House;;FMA-1-108;U;Site;Yellow;2;1;Fullmetal Alchemist [UE09ST];Get;0
 Let's Go Home;;FMA-1-109;R;Event;Yellow;2;1;Fullmetal Alchemist [UE09ST];;0
 Alex Louis Armstrong;;FMA-1-110;R;Character;Blue;4;1;Fullmetal Alchemist [UE09ST];;0
-Roy Mustang;;FMA-1-111;R;Character;Blue;1;1;Fullmetal Alchemist [UE09ST];;0
-Father;Homunculus;FMA-1-112;R;Character;Purple;4;2;Fullmetal Alchemist [UE09ST];;0
-King Bradley;Homunculus／Human;FMA-1-113;R;Character;Purple;3;1;Fullmetal Alchemist [UE09ST];;0
+Roy Mustang;;FMA-1-111;R;Character;Blue;1;1;Fullmetal Alchemist [UE09ST];Draw;0
+Father;Homunculus;FMA-1-112;R;Character;Purple;4;2;Fullmetal Alchemist [UE09ST];Active;0
+King Bradley;Homunculus／Human;FMA-1-113;R;Character;Purple;3;1;Fullmetal Alchemist [UE09ST];Draw;0
 
-Abengane;;HTR-1-001;U;Character;Blue;4;1;HUNTER X HUNTER [UE02BT];;0
-Eeta;;HTR-1-002;U;Character;Blue;1;1;HUNTER X HUNTER [UE02BT];;0
+Abengane;;HTR-1-001;U;Character;Blue;4;1;Hunter × Hunter [UE02BT];;0
+Eeta;;HTR-1-002;U;Character;Blue;1;1;Hunter × Hunter [UE02BT];;0
 
 # HUNTER X HUNTER [UE02ST]
 # HUNTER X HUNTER [UE02BT]
@@ -158,7 +175,7 @@ Eeta;;HTR-1-002;U;Character;Blue;1;1;HUNTER X HUNTER [UE02BT];;0
 # Black Clover [UE08BT]
 # BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT]
 # JUJUTSU KAISEN Vol.2 [UEX02BT]
-# FULLMETAL ALCHEMIST [UE09BT]
+# Fullmetal Alchemist [UE09BT]
 # Attack on Titan [UE10ST]
 # Attack on Titan [UE10BT]
 # CODE GEASS Lelouch of the Rebellion Vol.2 [UEX03BT]
