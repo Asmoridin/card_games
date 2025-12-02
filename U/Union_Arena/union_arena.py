@@ -60,10 +60,26 @@ for line in lines:
     if line == '' or line.startswith('#'):
         continue
     line = line.split('#')[0].strip()
-    try:
-        card_name, card_affin, card_code, card_rarity, card_type, card_color, card_energy, \
-            card_ap, card_sets, card_triggers, card_own = line.split(';')
-    except ValueError:
+    CARD_MAX = 4
+    line_vals = line.split(';')
+    if len(line_vals) == 11:
+        try:
+            card_name, card_affin, card_code, card_rarity, card_type, card_color, card_energy, \
+                card_ap, card_sets, card_triggers, card_own = line.split(';')
+        except ValueError:
+            print("Invalid line:")
+            print(line)
+            continue
+    elif len(line_vals) == 12:
+        try:
+            card_name, card_affin, card_code, card_rarity, card_type, card_color, card_energy, \
+                card_ap, card_sets, card_triggers, card_own, temp_max = line.split(';')
+            CARD_MAX = int(temp_max)
+        except ValueError:
+            print("Invalid line:")
+            print(line)
+            continue
+    else:
         print("Invalid line:")
         print(line)
         continue
@@ -93,7 +109,6 @@ for line in lines:
     card_sets = card_sets.split('/')
 
     card_own = int(card_own)
-    CARD_MAX = 4
 
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
@@ -126,6 +141,8 @@ for deck_file in os.listdir(DECK_PREFIX):
             continue
         if DECK_CARD_NAME not in card_mapping:
             print(f"Unknown card {DECK_CARD_NAME} in deck {deck_path}")
+        else:
+            DECK_CARD_NAME = card_mapping[DECK_CARD_NAME]
         if DECK_CARD_NAME not in deck_dict:
             deck_dict[DECK_CARD_NAME] = 0
         deck_dict[DECK_CARD_NAME] += deck_card_qty
