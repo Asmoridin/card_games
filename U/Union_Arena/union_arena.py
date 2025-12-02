@@ -56,6 +56,7 @@ card_inv_dict = {}
 most_needed_cards = {}
 card_mapping = {}
 prop_color_mapping = {}
+ownership_by_set_color = {}
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -91,6 +92,7 @@ for line in lines:
         print(f"Unknown source code {card_code[:3]} for {card_name}")
     if card_property not in prop_color_mapping:
         prop_color_mapping[card_property] = set()
+        ownership_by_set_color[card_property] = {}
 
     CARD_ID = f"{card_name} [{card_code}]"
 
@@ -115,6 +117,10 @@ for line in lines:
     if card_own < CARD_MAX:
         most_needed_cards[CARD_ID] = CARD_MAX - card_own
     card_inv_dict[CARD_ID] = card_own
+    for card_color in card_colors:
+        if card_color not in ownership_by_set_color[card_property]:
+            ownership_by_set_color[card_property][card_color] = 0
+        ownership_by_set_color[card_property][card_color] += card_own
     card_mapping[card_code] = CARD_ID
     item_list.append((card_name, CARD_ID, card_affin, card_code, card_property, card_rarity, \
         card_type, card_colors, card_energy, card_ap, card_sets, card_triggers, card_own, CARD_MAX))
@@ -233,7 +239,7 @@ for ua_line in ua_wl:
 
 games_by_property = {}
 for prop, prop_wl in my_prop_wl.items():
-    games_by_property[prop] = prop_wl[0] + prop_wl[1] 
+    games_by_property[prop] = prop_wl[0] + prop_wl[1]
 
 if __name__ == "__main__":
     out_file_h = open(FILE_PREFIX + "/Union Arena Out.txt", 'w', encoding="UTF-8")
@@ -261,6 +267,9 @@ if __name__ == "__main__":
     double_print("\nDecks closest to completion:", out_file_h)
     used_properties = set()
     for deck in sorted_decks:
+        if deck.get_num_missing_cards() == 0:
+            double_print(f" - Completed deck: {deck.deck_name}", out_file_h)
+            continue
         PROCESS_DECK = True
         if deck.deck_tags['property'] in used_properties:
             PROCESS_DECK = False
@@ -294,7 +303,27 @@ if __name__ == "__main__":
     for opp_name, wl_vals in sorted(opp_wl_dict.items()):
         double_print(f" - {opp_name}: {wl_vals[0]}-{wl_vals[1]}", out_file_h)
 
-    print(games_by_property)
-    print(my_prop_color_games)
+    playable_props = {}
+    for prop_name, colors in ownership_by_set_color.items():
+        for color, owned_qty in colors.items():
+            if owned_qty >= 50:
+                if prop_name not in playable_props:
+                    playable_props[prop_name] = []
+                playable_props[prop_name].append(color)
+    for playable_prop in playable_props:
+        if playable_prop not in games_by_property:
+            games_by_property[playable_prop] = 0
+    games_by_property = sorted(games_by_property.items(), key=lambda x: (x[1], x[0]))
+    CHOSEN_PROP = games_by_property[0][0]
+    color_chooser = {}
+    for color in playable_props[CHOSEN_PROP]:
+        if color not in color_chooser:
+            color_chooser[color] = 0
+    for color in my_prop_color_games.get(CHOSEN_PROP, {}):
+        color_chooser[color] = my_prop_color_games[CHOSEN_PROP][color]
+    color_chooser = sorted(color_chooser.items(), key=lambda x: (x[1], x[0]))
+    CHOSEN_COLOR = color_chooser[0][0]
+    double_print(f"\nSuggested property/color to play next: {CHOSEN_PROP} / {CHOSEN_COLOR}", \
+        out_file_h)
 
     out_file_h.close()
