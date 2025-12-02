@@ -119,7 +119,7 @@ for line in lines:
     item_list.append((card_name, CARD_ID, card_affin, card_code, card_property, card_rarity, \
         card_type, card_colors, card_energy, card_ap, card_sets, card_triggers, card_own, CARD_MAX))
 
-# Being processing decks
+# Begin processing decks
 decks = []
 for deck_file in os.listdir(DECK_PREFIX):
     if not deck_file.endswith('.txt'):
@@ -175,6 +175,66 @@ chosen_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 chosen_card, filtered_list = sort_and_filter(filtered_list, 0)
 picked_item = filtered_list[0]
 
+# Get W-L structures working
+opp_wl_dict = {}
+w_l_val = [0, 0]  # [wins, losses]
+my_prop_wl = {}
+opp_prop_wl = {}
+my_color_wl = {}
+opp_color_wl = {}
+my_prop_color_games = {}
+for ua_line in ua_wl:
+    my_prop, my_color, opp_prop, opp_color, opp_name, w_l = ua_line.split(';')
+    if opp_name not in opp_wl_dict:
+        opp_wl_dict[opp_name] = [0, 0]
+    my_prop = ua_codes.get(my_prop, "Unknown Source")
+    if my_prop == "Unknown Source":
+        print(f"Unknown source code {my_prop} in W-L data")
+        continue
+    if my_prop not in my_prop_wl:
+        my_prop_wl[my_prop] = [0, 0]
+        my_prop_color_games[my_prop] = {}
+    opp_prop = ua_codes.get(opp_prop, "Unknown Source")
+    if opp_prop == "Unknown Source":
+        print(f"Unknown source code {opp_prop} in W-L data")
+        continue
+    if opp_prop not in opp_prop_wl:
+        opp_prop_wl[opp_prop] = [0, 0]
+    if my_color not in valid_colors:
+        print(f"Invalid color {my_color} in W-L data")
+        continue
+    if my_color not in my_color_wl:
+        my_color_wl[my_color] = [0, 0]
+    if my_color not in my_prop_color_games[my_prop]:
+        my_prop_color_games[my_prop][my_color] = 0
+    if opp_color not in valid_colors:
+        print(f"Invalid color {opp_color} in W-L data")
+        continue
+    if opp_color not in opp_color_wl:
+        opp_color_wl[opp_color] = [0, 0]
+    if w_l not in ['W', 'L']:
+        print(f"Invalid W/L value {w_l} in W-L data")
+        continue
+    my_prop_color_games[my_prop][my_color] += 1
+    if w_l == 'W':
+        w_l_val[0] += 1
+        my_prop_wl[my_prop][0] += 1
+        opp_prop_wl[opp_prop][0] += 1
+        my_color_wl[my_color][0] += 1
+        opp_color_wl[opp_color][0] += 1
+        opp_wl_dict[opp_name][0] += 1
+    else:
+        w_l_val[1] += 1
+        my_prop_wl[my_prop][1] += 1
+        opp_prop_wl[opp_prop][1] += 1
+        my_color_wl[my_color][1] += 1
+        opp_color_wl[opp_color][1] += 1
+        opp_wl_dict[opp_name][1] += 1
+
+games_by_property = {}
+for prop, prop_wl in my_prop_wl.items():
+    games_by_property[prop] = prop_wl[0] + prop_wl[1] 
+
 if __name__ == "__main__":
     out_file_h = open(FILE_PREFIX + "/Union Arena Out.txt", 'w', encoding="UTF-8")
 
@@ -186,7 +246,11 @@ if __name__ == "__main__":
     SUGG_STRING = f"Buy {picked_item[1]} ({chosen_color + ' ' + chosen_type}) from " + \
         f"{chosen_set} (have {picked_item[-2]} out of {picked_item[-1]})"
     double_print(SUGG_STRING, out_file_h)
-    print(prop_color_mapping)
+
+    TOTAL_COMBOS = 0
+    for prop, colors in prop_color_mapping.items():
+        TOTAL_COMBOS += len(colors)
+    double_print(f"\nTotal property/color combinations: {TOTAL_COMBOS}", out_file_h)
 
     double_print("\nMost needed cards:", out_file_h)
     sorted_most_needed = sorted(most_needed_cards.items(), key=lambda x: (-x[1], x[0]))
@@ -207,5 +271,30 @@ if __name__ == "__main__":
         for card_name, missing_qty in sorted(deck.deck_missing_cards.items()):
             CARD_STR = f"    - {card_mapping.get(card_name, card_name)}: {missing_qty}"
             double_print(CARD_STR, out_file_h)
+
+    double_print("\nWin-Loss Information:", out_file_h)
+    double_print("My record: " + f"{w_l_val[0]}-{w_l_val[1]}", out_file_h)
+    double_print("Win-Loss by Property:", out_file_h)
+    for prop, wl_vals in sorted(my_prop_wl.items()):
+        double_print(f" - {prop}: {wl_vals[0]}-{wl_vals[1]}", out_file_h)
+
+    double_print("Record Against Properties:", out_file_h)
+    for prop, wl_vals in sorted(opp_prop_wl.items()):
+        double_print(f" - {prop}: {wl_vals[0]}-{wl_vals[1]}", out_file_h)
+
+    double_print("Win-Loss by Color:", out_file_h)
+    for color, wl_vals in sorted(my_color_wl.items()):
+        double_print(f" - {color}: {wl_vals[0]}-{wl_vals[1]}", out_file_h)
+
+    double_print("Record Against Colors:", out_file_h)
+    for color, wl_vals in sorted(opp_color_wl.items()):
+        double_print(f" - {color}: {wl_vals[0]}-{wl_vals[1]}", out_file_h)
+
+    double_print("Record Against Opponents:", out_file_h)
+    for opp_name, wl_vals in sorted(opp_wl_dict.items()):
+        double_print(f" - {opp_name}: {wl_vals[0]}-{wl_vals[1]}", out_file_h)
+
+    print(games_by_property)
+    print(my_prop_color_games)
 
     out_file_h.close()
