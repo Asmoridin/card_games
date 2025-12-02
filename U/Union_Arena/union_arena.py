@@ -13,7 +13,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 GAME_NAME = "Union Arena"
 
 valid_types = ['Character', 'Event', 'Site']
-valid_colors = ['Green', 'Yellow', 'Blue', 'Purple']
+valid_colors = ['Green', 'Yellow', 'Blue', 'Purple', 'Red']
 valid_rarities = ['C', 'U', 'R', 'SR']
 
 FILE_PREFIX = "card_games\\U\\Union_Arena"
@@ -55,6 +55,7 @@ item_list = []
 card_inv_dict = {}
 most_needed_cards = {}
 card_mapping = {}
+prop_color_mapping = {}
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -72,6 +73,8 @@ for line in lines:
     card_property = ua_codes.get(card_code[:3], 'Unknown Source')
     if card_property == 'Unknown Source':
         print(f"Unknown source code {card_code[:3]} for {card_name}")
+    if card_property not in prop_color_mapping:
+        prop_color_mapping[card_property] = set()
 
     CARD_ID = f"{card_name} [{card_code}]"
 
@@ -83,6 +86,7 @@ for line in lines:
     for card_color in card_colors:
         if card_color not in valid_colors:
             print(f"Invalid card color {card_color} for {card_name}")
+    prop_color_mapping[card_property].update(card_colors)
     card_energy = int(card_energy) if card_energy.isdigit() else card_energy
     card_ap = int(card_ap) if card_ap.isdigit() else card_ap
 
@@ -165,6 +169,7 @@ if __name__ == "__main__":
     SUGG_STRING = f"Buy {picked_item[1]} ({chosen_color + ' ' + chosen_type}) from " + \
         f"{chosen_set} (have {picked_item[-2]} out of {picked_item[-1]})"
     double_print(SUGG_STRING, out_file_h)
+    print(prop_color_mapping)
 
     double_print("\nMost needed cards:", out_file_h)
     sorted_most_needed = sorted(most_needed_cards.items(), key=lambda x: (-x[1], x[0]))
