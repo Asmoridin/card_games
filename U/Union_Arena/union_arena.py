@@ -57,6 +57,7 @@ most_needed_cards = {}
 card_mapping = {}
 prop_color_mapping = {}
 ownership_by_set_color = {}
+card_codes = set()
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -86,6 +87,10 @@ for line in lines:
         continue
 
     card_affin = card_affin.split('/')
+
+    if card_code in card_codes:
+        print(f"Duplicate card code {card_code} for {card_name}")
+    card_codes.add(card_code)
 
     card_property = ua_codes.get(card_code[:3], 'Unknown Source')
     if card_property == 'Unknown Source':
