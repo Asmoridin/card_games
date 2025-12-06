@@ -14,7 +14,7 @@ GAME_NAME = "Union Arena"
 
 valid_types = ['Character', 'Event', 'Site']
 valid_colors = ['Green', 'Yellow', 'Blue', 'Purple', 'Red']
-valid_rarities = ['C', 'U', 'R', 'SR']
+valid_rarities = ['C', 'U', 'R', 'SR', 'SP', ]
 
 FILE_PREFIX = "card_games\\U\\Union_Arena"
 DECK_PREFIX = FILE_PREFIX + "\\Decks"
