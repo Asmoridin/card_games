@@ -58,6 +58,7 @@ card_mapping = {}
 prop_color_mapping = {}
 ownership_by_set_color = {}
 card_codes = set()
+prop_ownership = {}
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -96,6 +97,7 @@ for line in lines:
     if card_property == 'Unknown Source':
         print(f"Unknown source code {card_code[:3]} for {card_name}")
     if card_property not in prop_color_mapping:
+        prop_ownership[card_property] = [0, 0]
         prop_color_mapping[card_property] = set()
         ownership_by_set_color[card_property] = {}
 
@@ -116,6 +118,9 @@ for line in lines:
     card_sets = card_sets.split('/')
 
     card_own = int(card_own)
+
+    prop_ownership[card_property][0] += card_own
+    prop_ownership[card_property][1] += CARD_MAX
 
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
@@ -330,5 +335,13 @@ if __name__ == "__main__":
     CHOSEN_COLOR = color_chooser[0][0]
     double_print(f"\nSuggested property/color to play next: {CHOSEN_PROP} / {CHOSEN_COLOR}", \
         out_file_h)
+
+    sorted_prop_ownership = sorted(prop_ownership.items(), key=lambda x: \
+        (-x[1][0] / x[1][1], x[1][1] - x[1][0], x[0]))
+    double_print("\nOwnership by Property:", out_file_h)
+    for prop, ownership in sorted_prop_ownership:
+        prop_own_str = f" - {prop}: {ownership[0]} out of {ownership[1]} " + \
+            f"({100 * ownership[0]/ownership[1]:.2f} percent)"
+        double_print(prop_own_str, out_file_h)
 
     out_file_h.close()
