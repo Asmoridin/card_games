@@ -316,7 +316,7 @@ if __name__ == "__main__":
     playable_props = {}
     for prop_name, colors in ownership_by_set_color.items():
         for color, owned_qty in colors.items():
-            if owned_qty >= 50:
+            if owned_qty >= 80:
                 if prop_name not in playable_props:
                     playable_props[prop_name] = []
                 playable_props[prop_name].append(color)
