@@ -29,16 +29,21 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
     'Power of the Atom', 'Supersonic', 'Batroc', 'Growing Strong', 'Extreme Risk', 'Techno',
-    'Whiteout',]
+    'Whiteout', 'Taskmaster', ]
 reg_encounters = ['Mighty Avengers', 'The Initiative', 'Maria Hill', 'Dangerous Recruits',
-    'Cape-Killer', 'Martial Law', 'Heroes for Hire', 'Paladin']
-reg_stage_1 = ['Cut Off Support', 'S.H.I.E.L.D. Recruits', 'Homeland Security', 'Public Outrage', ]
-reg_stage_2 = ['Negative Zone Prison', 'Hunting Rebel Heroes', 'The Initiative', 'No Going Back', ]
+    'Cape-Killer', 'Martial Law', 'Heroes for Hire', 'Paladin', 'S.H.I.E.L.D. Ops', 'Thunderbolts',
+	'Taskmaster', 'Deadly Duo', ]
+reg_stage_1 = ['Cut Off Support', 'S.H.I.E.L.D. Recruits', 'Homeland Security', 'Public Outrage',
+    'Enforce the Law',]
+reg_stage_2 = ['Negative Zone Prison', 'Hunting Rebel Heroes', 'The Initiative', 'No Going Back',
+    'Mighty Avengers', ]
 res_encounter = ['New Avengers', 'Secret Avengers', 'Namor', 'Atlanteans', 'Spider-Man',
-    'Defenders', "Hell's Kitchen", 'Cloak & Dagger', ]
-res_stage_1 = ['Gathering Support', 'Open Rebellion', 'Rallying Call', 'Going Underground', ]
+    'Defenders', "Hell's Kitchen", 'Cloak & Dagger', 'Young Avengers', 'Scarlet Twins',
+	'Moon Knight', 'Royal Guard', ]
+res_stage_1 = ['Gathering Support', 'Open Rebellion', 'Rallying Call', 'Going Underground',
+    'Protect Secret Identities', ]
 res_stage_2 = ['Secret Avengers', 'Neighborhood Protectors', 'Guerilla Warfare',
-    'Superhero Jailbreak', ]
+    'Superhero Jailbreak', 'Expose Overreach', ]
 all_modular_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + \
     reg_encounters + res_encounter))
 reg_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + \
@@ -164,6 +169,8 @@ encounters.extend([
   Encounter('Captain Marvel', 4, reg="Registration"),
   Encounter('Captain America', 4, reg="Resistance"),
   Encounter('Spider-Woman', 4, reg="Resistance"),
+  Encounter('She-Hulk', 4, reg="Registration"),
+  Encounter('Vision', 4, reg="Resistance"),
 ])
 
 encounter_map = {}
