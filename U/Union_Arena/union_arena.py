@@ -12,7 +12,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Union Arena"
 
-valid_types = ['Character', 'Event', 'Site']
+valid_types = ['Character', 'Event', 'Site', 'Action Point']
 valid_colors = ['Green', 'Yellow', 'Blue', 'Purple', 'Red']
 valid_rarities = ['C', 'U', 'R', 'SR', 'SP', ]
 
@@ -89,10 +89,6 @@ for line in lines:
 
     card_affin = card_affin.split('/')
 
-    if card_code in card_codes:
-        print(f"Duplicate card code {card_code} for {card_name}")
-    card_codes.add(card_code)
-
     card_property = ua_codes.get(card_code[:3], 'Unknown Source')
     if card_property == 'Unknown Source':
         print(f"Unknown source code {card_code[:3]} for {card_name}")
@@ -107,13 +103,22 @@ for line in lines:
         print(f"Invalid card rarity {card_rarity} for {card_name}")
     if card_type not in valid_types:
         print(f"Invalid card type {card_type} for {card_name}")
-    card_colors = card_color.split('/')
-    for card_color in card_colors:
-        if card_color not in valid_colors:
-            print(f"Invalid card color {card_color} for {card_name}")
-    prop_color_mapping[card_property].update(card_colors)
-    card_energy = int(card_energy) if card_energy.isdigit() else card_energy
-    card_ap = int(card_ap) if card_ap.isdigit() else card_ap
+    if card_type != "Action Point":
+        if card_code in card_codes:
+            print(f"Duplicate card code {card_code} for {card_name}")
+        card_codes.add(card_code)
+        card_colors = card_color.split('/')
+        for card_color in card_colors:
+            if card_color not in valid_colors:
+                print(f"Invalid card color {card_color} for {card_name}")
+        prop_color_mapping[card_property].update(card_colors)
+        card_energy = int(card_energy) if card_energy.isdigit() else card_energy
+        card_ap = int(card_ap) if card_ap.isdigit() else card_ap
+    else:
+        CARD_MAX = 3
+        card_energy = ''
+        card_colors = []
+        card_ap = ''
 
     card_sets = card_sets.split('/')
 
