@@ -329,7 +329,11 @@ if __name__ == "__main__":
         if playable_prop not in games_by_property:
             games_by_property[playable_prop] = 0
     games_by_property = sorted(games_by_property.items(), key=lambda x: (x[1], x[0]))
-    CHOSEN_PROP = games_by_property[0][0]
+    CHOSEN_PROP = None
+    for prop_name in games_by_property:
+        if prop_name[0] in playable_props:
+            CHOSEN_PROP = prop_name[0]
+            break
     color_chooser = {}
     for color in playable_props[CHOSEN_PROP]:
         if color not in color_chooser:
