@@ -496,9 +496,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Shards of Alara'
-CHECK_AMOUNT = 249
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = 'Conflux'
+CHECK_AMOUNT = 145
+SET_CHECK += 0 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0
