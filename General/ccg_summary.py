@@ -17,6 +17,7 @@ modules = [
     ("card_games/D/Dragon_Dice/dragon_dice.py", "dragon_dice"),
     ("card_games/D/DBS_Fusion_World/dbs_fusion_world.py", "dbs_fusion_world"),
     ("card_games/G/Grand_Archive/grand_archive.py", "grand_archive"),
+    ("card_games/G/Gundam_Card_Game/gundam_card_game.py", "gundam_card_game"),
     ("card_games/L/Legend_of_the_Five_Rings/l5r.py", "l5r"),
     ("card_games/L/Lorcana/lorcana.py", "lorcana"),
     ("card_games/M/Magic_the_Gathering/magic_gathering.py", "magic_gathering"),
