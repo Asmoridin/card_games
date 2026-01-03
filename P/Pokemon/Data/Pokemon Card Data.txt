@@ -173,6 +173,8 @@ Piplup;Pokemon;Water;70;;Call for Support|Tackle;PFL 27 (Common)/PFL 98 (Illustr
 Pokémon Center Lady;Trainer;Supporter;;;;Flashfire 93 (Uncommon)/Flashfire 105 (Rare Ultra)/Generations 68 (Uncommon)/Hidden Fates 64 (Uncommon)/Sword & Shield 176 (Uncommon)/Vivid Voltage 185 (Rare Ultra)/Champion's Path 60 (Uncommon)/MEG 123 (Common);D/I;8;0
 Premium Power Pro;Trainer;Item;;;;MEG 124 (Uncommon)/MEG 174 (Ultra Rare);I;4;0
 Prinplup;Pokemon;Water;100;;Peck|Targeted Dive;PFL 28 (Common);I;4;0
+Darkness Energy;Energy;Basic;;;;MEE 7 (Common)/SVE 7 (Common)/SVE 15 (Common)/SVE 23 (Common);All;15;0
+Water Energy;Energy;Basic;;;;MEE 3 (Common)/SVE 3 (Common)/SVE 11 (Common)/SVE 19 (Common);All;15;0
 Psychic Energy;Energy;Basic;;;;SVE 5 (Common)/MEE 5 (Common);All;15;15
 Psyduck;Pokemon;Water;70;Damp;Ram;MEP 7 (Promo)/ASC 226 (Illustration Rare);I;4;0
 Punk Helmet;Trainer;Pokemon Tool;;;;PFL 92 (Uncommon)/PFL 121 (Ultra Rare);I;4;2
@@ -292,7 +294,7 @@ Reuniclus;Pokemon;Psychic;120;;Summoning Gate|Brain Shake;TEF 72 (Uncommon)/TEF 
 Iron Valiant;Pokemon;Psychic;130;;Gemini Laser|Zen Blade;TEF 79 (Uncommon);H;4;1
 Mudbray;Pokemon;Fighting;80;;Smask Kick|Mud-Slap;TEF 91 (Common);H;4;1
 Carkol;Pokemon;Fighting;110;;Knock Away|Boulder Crush;TEF 94 (Common);H;4;1 # have 1 reverse foil
-Sandy Shocks;Pokemon;Fighting;120;Magnetic Burst/Power Gem;TEF 98 (Uncommon);H;4;1
+Sandy Shocks;Pokemon;Fighting;120;;Magnetic Burst|Power Gem;TEF 98 (Uncommon);H;4;1
 Gastly;Pokemon;Darkness;60;;Mysterious Beam|Suffocating Gas;TEF 102 (Common)/TEF 117 (Illustration Rare);H;4;1
 Roaring Moon;Pokemon;Darkness;140;;Vengeance Fletching|Speed Wing;TEF 109 (Rare)/PRE 65 (Rare);H;4;1
 Dunsparce;Pokemon;Colorless;60;;Gnaw|Dig;TEF 128 (Common)/PRE 79 (Common);H;4;0
@@ -311,6 +313,7 @@ Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common);H;4;0
 
 # Surging Sparks
+Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;4;0
 
 # Prismatic Evolutions
@@ -318,7 +321,7 @@ Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;4;0
 # Journey Together
 
 # Destined Rivals (DRI)
-Ethan's Pinsir;Pokemon;Grass;;Vise Grip|Rallying Horn;DRI 1 (Uncommon);I;4;1
+Ethan's Pinsir;Pokemon;Grass;120;;Vise Grip|Rallying Horn;DRI 1 (Uncommon);I;4;1
 Cynthia's Roselia;Pokemon;Grass;70;;Spike Sting;DRI 7 (Common);I;4;1
 Mow Rotom;Pokemon;Grass;70;;Trimming Mower|Gadget Show;DRI 9 (Common);I;4;2 # 1 reverse foil
 Shaymin;Pokemon;Grass;80;Flower Curtain;Smash Kick;DRI 10 (Uncommon)/DRI 185 (Illustration Rare);I;4;0

@@ -18,18 +18,21 @@ CURRENT_DECK_ERA = "2025 - SVI-PFL"
 valid_rarities = ['Common', 'Uncommon', 'Rare', 'Illustration Rare', 'Ultra Rare', 'Double Rare',
     'Special Illustration Rare', 'Black White Rare', 'Promo', 'Rare Holo', 'Rare Ultra',
     'Rare Rainbow', 'TGU', 'Rare Secret', 'Mega Hyper Rare', 'Hyper Rare', 'Shiny Rare',
-    'ACE SPEC Rare']
+    'ACE SPEC Rare', 'TGH', 'Rare Shiny']
 valid_types = ['Pokemon', 'Trainer', 'Energy']
 valid_colors = ['Fire', 'Water', 'Grass', 'Psychic', 'Darkness', 'Metal', 'Lightning', 'Fairy',
     'Colorless', 'Fighting', 'Dragon']
 trainer_subtypes = ['Supporter', 'Item', 'Stadium', 'Pokemon Tool']
 
 color_mapping = {
+    'Darkness Energy': 'Darkness',
     'Fighting Energy': 'Fighting',
     'Fire Energy': 'Fire',
     'Grass Energy': 'Grass',
     'Lightning Energy': 'Lightning',
+    'Metal Energy': 'Metal',
     'Psychic Energy': 'Psychic',
+    'Water Energy': 'Water',
 }
 
 FILE_PREFIX = os.path.join("card_games", "P", "Pokemon")
@@ -135,6 +138,7 @@ for line in lines:
     card_max = int(card_max)
     card_own = int(card_own)
 
+    card_inv_dict[card_id] = card_own
     TOTAL_OWN += card_own
     TOTAL_MAX += card_max
     if card_own < card_max:
@@ -188,6 +192,7 @@ for deck_file in os.listdir(DECK_PREFIX):
         deck_card_id = deck_card_set + ' ' + deck_card_set_number
         if deck_card_id not in card_num_mapping:
             print(f"Unknown card {DECK_CARD_NAME} ({deck_card_id}) in deck {deck_path}")
+        deck_card_id = card_num_mapping.get(deck_card_id, deck_card_id)
         if PROCESS_ENERGY:
             COLORLESS_ENERGY = ['Enriching Energy', 'Jet Energy', 'Legacy Energy',
                 'Luminous Energy', 'Mist Energy']
