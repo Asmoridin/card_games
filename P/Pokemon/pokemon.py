@@ -18,7 +18,7 @@ CURRENT_DECK_ERA = "2025 - SVI-PFL"
 valid_rarities = ['Common', 'Uncommon', 'Rare', 'Illustration Rare', 'Ultra Rare', 'Double Rare',
     'Special Illustration Rare', 'Black White Rare', 'Promo', 'Rare Holo', 'Rare Ultra',
     'Rare Rainbow', 'TGU', 'Rare Secret', 'Mega Hyper Rare', 'Hyper Rare', 'Shiny Rare',
-    'ACE SPEC Rare', 'TGH', 'Rare Shiny']
+    'ACE SPEC Rare', 'TGH', 'Rare Shiny', 'Shiny Ultra Rare', 'Other']
 valid_types = ['Pokemon', 'Trainer', 'Energy']
 valid_colors = ['Fire', 'Water', 'Grass', 'Psychic', 'Darkness', 'Metal', 'Lightning', 'Fairy',
     'Colorless', 'Fighting', 'Dragon']

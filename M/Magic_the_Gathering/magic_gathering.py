@@ -407,6 +407,10 @@ def validate_types(card_type_string):
     for check_type in subtypes.split(' '):
         if check_type != '':
             ret_subtype.append(check_type)
+    if 'Time' in ret_subtype and 'Lord' in ret_subtype:
+        ret_subtype.remove('Time')
+        ret_subtype.remove('Lord')
+        ret_subtype.append('Time Lord')
     return(ret_type, ret_subtype)
 
 def process_formats(format_name, correction_dict):
