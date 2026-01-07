@@ -261,6 +261,7 @@ Drifblim;Pokemon;Psychic;110;;Gust|Curse Spreading;SVI 90 (Uncommon)/PAF 156 (Sh
 Cyclizar;Pokemon;Colorless;110;;Touring|Speed Attack;SVI 164 (Rare)/M23 14 (Promo);G;4;2
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
 Nemona;Trainer;Supporter;;;;SVI 180 (Common)/PAF 82 (Common)/PAF 229 (Ultra Rare)/PAF 238 (Special Illustration Rare);G;8;4
+Picnic Basket;Trainer;Item;;;;SVI 184 (Uncommon);G;4;0
 Youngster;Trainer;Supporter;;;;SVI 198 (Uncommon);G;8;3
 
 # Paldea Evolved (PAL)
@@ -316,6 +317,7 @@ Buddy-Buddy Poffin;Trainer;Item;;;;TEF 144 (Uncommon)/TWM 223 (Hyper Rare)/PRE 1
 
 # Twilight Masquerade TWM
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
+Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 
 # Shrouded Fable (SFA)
@@ -374,6 +376,7 @@ Team Rocket's Archer;Trainer;Supporter;;;;DRI 170 (Uncommon)/DRI 223 (Ultra Rare
 Team Rocket's Bother-Bot;Trainer;Item;;;;DRI 172 (Uncommon);I;4;2
 
 # Black Bolt
+Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
@@ -423,10 +426,15 @@ Gothorita;Pokemon;Psychic;90;;Fortunate Eye|Psyshot;WHT 42 (Common)/WHT 125 (Ill
 Gothitelle;Pokemon;Psychic;150;Distorted Future;Synchro Shot;WHT 43 (Rare)/SVP 211 (Promo);I;4;0
 Frillish;Pokemon;Psychic;80;;Oceanic Gloom;WHT 44 (Common)/WHT 126 (Illustration Rare);I;4;0
 Jellicent ex;Pokemon;Psychic;270;Oceanic Curse;Power Press;WHT 45 (Double Rare)/WHT 160 (Ultra Rare)/WHT 168 (Special Illustration Rare);I;4;0
+Roggenrola;Pokemon;Fighting;80;;Harden|Rolling Rocks;WHT 46 (Common)/WHT 127 (Illustration Rare);I;4;0
+Boldore;Pokemon;Fighting;110;;Smack Down|Power Gem;WHT 47 (Common)/WHT 128 (Illustration Rare);I;4;0
+Gigalith;Pokemon;Fighting;170;;Vengeful Cannon|Heavy Impact;WHT 48 (Uncommon)/WHT 129 (Illustration Rare);I;4;0
+Sawk;Pokemon;Fighting;110;;Elbow Strike|Rising Chop;WHT 49 (Uncommon)/WHT 130 (Illustration Rare);I;4;0
+Archen;Pokemon;Fighting;80;;Acrobatics;WHT 50 (Uncommon)/WHT 131 (Illustration Rare);I;4;0
 
 Hilda;Trainer;Supporter;;;;WHT 84 (Uncommon)/WHT 164 (Ultra Rare)/WHT 171 (Special Illustration Rare);I;8;0
 
-# WHT 86-126 done
+# WHT 86-131 done
 # WHT 157-160 done
 # WHT 164-168 done 
 # WHT 171 done
