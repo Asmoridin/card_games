@@ -273,6 +273,7 @@ Dunsparce;Pokemon;Colorless;70;;Find a Friend|Bite;PAL 156 (Common);G;4;0
 Artazon;Trainer;Stadium;;;;PAL 171 (Uncommon)/OBF 229 (Hyper Rare)/PAF 76 (Uncommon);G;4;0
 Bravery Charm;Trainer;Pokemon Tool;;;;PAL 173 (Uncommon)/SCR 175 (Hyper Rare);G;4;0
 Super Rod;Trainer;Item;;;;Neo Genesis 103 (Common)/Noble Victories 95 (Uncommon)/Dragon Vault 20 (Other)/BREAKthrough 149 (Uncommon)/PAL 188 (Common)/PAL 276 (Hyper Rare);G;4;0
+Superior Energy Retrieval;Trainer;Item;;;;Plasma Freeze 103 (Uncommon)/PAL 189 (Uncommon)/PAL 277 (Hyper Rare);G;4;0
 Jet Energy;Energy;Special Energy;;;;PAL 190 (Uncommon)/SSP 252 (Hyper Rare);G;8;0
 Luminous Energy;Energy;Special Energy;;;;PAL 191 (Uncommon)/TWM 226 (Hyper Rare);G;8;0
 
@@ -287,6 +288,7 @@ Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
 # Paradox Rift (PAR)
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
+Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
 Counter Catcher;Trainer;Item;;;;Crimson Invasion 91 (Uncommon)/Crimson Invasion 120 (Rare Secret)/PAR 160 (Uncommon)/PAR 264 (Hyper Rare);G;4;0
 Earthen Vessel;Trainer;Item;;;;PAR 163 (Uncommon)/SFA 96 (Hyper Rare)/PRE 106 (Uncommon);G;4;0
 Professor Turo's Scenario;Trainer;Supporter;;;;PAF 171 (Uncommon)/PAR 240 (Ultra Rare)/PAR 257 (Special Illustration Rare)/PRE 121 (Uncommon);G;4;0
@@ -333,7 +335,8 @@ Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;4;0
 
 # Prismatic Evolutions
 
-# Journey Together
+# Journey Together (JTG)
+Levincia;Trainer;Stadium;;;;JTG 150 (Uncommon)/DRI 244 (Hyper Rare);I;4;0
 
 # Destined Rivals (DRI)
 Ethan's Pinsir;Pokemon;Grass;120;;Vise Grip|Rallying Horn;DRI 1 (Uncommon);I;4;1
@@ -431,10 +434,15 @@ Boldore;Pokemon;Fighting;110;;Smack Down|Power Gem;WHT 47 (Common)/WHT 128 (Illu
 Gigalith;Pokemon;Fighting;170;;Vengeful Cannon|Heavy Impact;WHT 48 (Uncommon)/WHT 129 (Illustration Rare);I;4;0
 Sawk;Pokemon;Fighting;110;;Elbow Strike|Rising Chop;WHT 49 (Uncommon)/WHT 130 (Illustration Rare);I;4;0
 Archen;Pokemon;Fighting;80;;Acrobatics;WHT 50 (Uncommon)/WHT 131 (Illustration Rare);I;4;0
+Archeops;Pokemon;Fighting;140;Ancient Wing;Rock Throw;WHT 51 (Rare)/WHT 132 (Illustration Rare);I;4;0
+Mienfoo;Pokemon;Fighting;60;;Kick;WHT 52 (Common)/WHT 133 (Illustration Rare);I;4;0
+Mienshao;Pokemon;Fighting;100;;Low Sweep|Smash Uppercut;WHT 53 (Uncommon)/WHT 134 (Illustration Rare);I;4;0
+Terrakion;Pokemon;Fighting;140;;Retaliate|Land Crush;WHT 54 (Rare)/WHT 135 (Illustration Rare);I;4;0
+Purrloin;Pokemon;Darkness;60;;Invite Evil;WHT 55 (Common)/WHT 136 (Illustration Rare);I;4;0
 
 Hilda;Trainer;Supporter;;;;WHT 84 (Uncommon)/WHT 164 (Ultra Rare)/WHT 171 (Special Illustration Rare);I;8;0
 
-# WHT 86-131 done
+# WHT 86-136 done
 # WHT 157-160 done
 # WHT 164-168 done 
 # WHT 171 done
