@@ -805,7 +805,7 @@ if __name__ == "__main__":
     del creature_types['Forest']
     del creature_types['Saga']
     del creature_types['Food']
-	del creature_types['Treasure']
+    del creature_types['Treasure']
     one_ofs = []
     for creature, creature_freq in creature_types.items():
         if creature_freq == 1:
