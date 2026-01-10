@@ -500,7 +500,7 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Conflux'
+CHECK_SET = 'Alara Reborn'
 CHECK_AMOUNT = 145
 SET_CHECK += 0 # Extra basic lands
 PRINT_SET = False

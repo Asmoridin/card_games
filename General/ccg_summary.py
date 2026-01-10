@@ -6,6 +6,7 @@ Summarizes the current collection status of all tracked card/dice games
 
 import os
 import importlib.util
+import math
 import sys
 
 from card_games.General.Libraries.output_utils import double_print
@@ -98,6 +99,48 @@ game_data.append(("New Game", NEW_GAMES_STARTED + 1, new_games_count + 1))
 game_data = sorted(game_data, key=lambda x:(x[1]/x[2], -1 * (x[2] - x[1])))
 largest_collection = sorted(game_data, key=lambda x:x[1], reverse = True)
 
+# Process Play Data
+
+PLAY_DIR = os.path.join(FILE_PREFIX, "Data", "Plays")
+
+game_plays_total = {}
+game_year_counter = {} # To track in how many years a game was playable
+YEARS_PROCESSED = 0
+prev_year_plays = {}
+for play_file in sorted(os.listdir(PLAY_DIR))[:-1]:
+    if not play_file.endswith(".txt"):
+        continue
+    YEARS_PROCESSED += 1
+    prev_year_plays = {}
+    with open(os.path.join(PLAY_DIR, play_file), encoding="UTF-8") as play_file_h:
+        play_lines = play_file_h.readlines()
+    play_lines = [line.strip() for line in play_lines]
+    this_years_plays = []
+    for play_line in play_lines:
+        play_game, play_count = play_line.split(';')
+        play_count = int(play_count)
+        this_years_plays.append((play_game, play_count))
+        if play_game not in game_plays_total:
+            game_year_counter[play_game] = 0
+            game_plays_total[play_game] = 0
+        game_plays_total[play_game] += play_count
+        prev_year_plays[play_game] = play_count
+    for game_name in game_year_counter:
+        game_year_counter[game_name] += 1
+
+    this_years_plays = sorted(this_years_plays, key=lambda x:x[1], reverse=True)
+
+# Get current year data
+current_year_file = sorted(os.listdir(PLAY_DIR))[-1]
+with open(os.path.join(PLAY_DIR, current_year_file), encoding="UTF-8") as play_file_h:
+    current_play_lines = play_file_h.readlines()
+current_play_lines = [line.strip() for line in current_play_lines]
+current_year_plays = {}
+for play_line in current_play_lines:
+    play_game, play_count = play_line.split(';')
+    play_count = int(play_count)
+    current_year_plays[play_game] = play_count
+
 if __name__ == "__main__":
     if os.getcwd().endswith('card_games'):
         out_file_h = open("General/CCGSummaryOut.txt", 'w', encoding="UTF-8")
@@ -123,6 +166,38 @@ if __name__ == "__main__":
     for game_info in largest_collection[:10]:
         info_n, info_h, _  = game_info
         PT_STR = f"- {info_n}: {info_h}"
+        double_print(PT_STR, out_file_h)
+
+    game_goals = {}
+    for game_name, game_plays in game_plays_total.items():
+        # Take the highest of last year's plays, or average plays per year
+        avg_plays = math.ceil(game_plays / YEARS_PROCESSED)
+        last_year_plays = prev_year_plays.get(game_name, 0)
+        goal_plays = max(avg_plays, last_year_plays)
+        game_goals[game_name] = goal_plays
+
+    # Figure out today's date progress as a percentage of the year
+    from datetime import datetime
+    now = datetime.now()
+    start_of_year = datetime(now.year, 1, 1)
+    end_of_year = datetime(now.year + 1, 1, 1)
+    year_progress = (now - start_of_year).total_seconds() / \
+        (end_of_year - start_of_year).total_seconds()
+
+    # Now, given our current year progress, determine how many plays we should have
+    # And then print out the top 10 games by how far off that goal we are
+    game_progress = []
+    for game_name, goal_plays in game_goals.items():
+        current_plays = current_year_plays.get(game_name, 0)
+        expected_plays = goal_plays * year_progress
+        progress_diff = current_plays - expected_plays
+        game_progress.append((game_name, current_plays, expected_plays, progress_diff))
+    game_progress = sorted(game_progress, key=lambda x:x[3])
+    double_print("\nTop 10 Games Behind Expected Play Count (based on " + \
+        f"{year_progress*100:.2f}% of year):", out_file_h)
+    for game_info in game_progress[:10]:
+        info_n, info_c, info_e, _ = game_info
+        PT_STR = f"- {info_n}: {info_c} plays (expected {info_e:.2f})"
         double_print(PT_STR, out_file_h)
 
     out_file_h.close()
