@@ -103,6 +103,14 @@ largest_collection = sorted(game_data, key=lambda x:x[1], reverse = True)
 
 PLAY_DIR = os.path.join(FILE_PREFIX, "Data", "Plays")
 
+# Fix for renamed games
+GAME_NAME_FIX = {
+    "Hordes: High Command": "Warmachine: High Command",
+    "Shadowfist: Combat In Kowloon": "Shadowfist",
+    "Spearpoint 1943: Eastern Front": "Spearpoint 1943",
+    "Summoner Wars": "Summoner Wars (Second Edition)",
+}
+
 game_plays_total = {}
 game_year_counter = {} # To track in how many years a game was playable
 YEARS_PROCESSED = 0
@@ -117,7 +125,13 @@ for play_file in sorted(os.listdir(PLAY_DIR))[:-1]:
     play_lines = [line.strip() for line in play_lines]
     this_years_plays = []
     for play_line in play_lines:
+        if play_line == "":
+            continue
+        print(play_line)
         play_game, play_count = play_line.split(';')
+        play_game = play_game.strip()
+        if play_game in GAME_NAME_FIX:
+            play_game = GAME_NAME_FIX[play_game]
         play_count = int(play_count)
         this_years_plays.append((play_game, play_count))
         if play_game not in game_plays_total:
@@ -137,6 +151,8 @@ with open(os.path.join(PLAY_DIR, current_year_file), encoding="UTF-8") as play_f
 current_play_lines = [line.strip() for line in current_play_lines]
 current_year_plays = {}
 for play_line in current_play_lines:
+    if play_line == "":
+        continue
     play_game, play_count = play_line.split(';')
     play_count = int(play_count)
     current_year_plays[play_game] = play_count
@@ -173,7 +189,7 @@ if __name__ == "__main__":
         # Take the highest of last year's plays, or average plays per year
         avg_plays = math.ceil(game_plays / YEARS_PROCESSED)
         last_year_plays = prev_year_plays.get(game_name, 0)
-        goal_plays = max(avg_plays, last_year_plays)
+        goal_plays = max(avg_plays, last_year_plays) + 1
         game_goals[game_name] = goal_plays
 
     # Figure out today's date progress as a percentage of the year
@@ -189,6 +205,8 @@ if __name__ == "__main__":
     game_progress = []
     for game_name, goal_plays in game_goals.items():
         current_plays = current_year_plays.get(game_name, 0)
+        if current_plays >= goal_plays:
+            continue
         expected_plays = goal_plays * year_progress
         progress_diff = current_plays - expected_plays
         game_progress.append((game_name, current_plays, expected_plays, progress_diff))
