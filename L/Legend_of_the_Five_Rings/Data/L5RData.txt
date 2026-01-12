@@ -1715,10 +1715,26 @@ Bayushi Yojiro;Personality;Scorpion;Scorpion Clan Coup 2 (Common);Hidden Emperor
 Bayushi Yokuan;Personality;Ninja/Scorpion;Pearl Edition (Rare)/Jade Edition (Rare);Hidden Emperor (Jade);1;0
 Bayushi Yokuan;Personality;Ninja/Scorpion;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);3;1
 Bayushi Yousui;Personality;Scorpion;Words and Deeds (Uncommon);Race for the Throne (Samurai);3;0
+Bayushi Yumita;Personality;Scorpion/Ninja;Khan's Defiance (Uncommon);Age of Enlightenment (Lotus);3;0
+Bayushi Yumita;Personality;Scorpion/Ninja;Khan's Defiance (Uncommon);Race for the Throne (Samurai);3;0
 Bayushi Zenkiri;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Bayushi Zenkiri;Personality;Scorpion;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Bayushi's Feint;Strategy;;Code of Bushido (Uncommon);Age of Enlightenment (Lotus);3;0
+Bayushi's Feint;Strategy;;Code of Bushido (Uncommon);Rain of Blood (Diamond);3;0
+Bayushi's Guidance • Experienced;Celestial;;Emperor Edition (Fixed);Age of Conquest (Emperor);1;0
+Bayushi's Guidance;Celestial;;Path of the Destroyer (Uncommon);Destroyer War (Celestial);1;0
+Bayushi's Knives;Strategy;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
+Bayushi's Labyrinth;Holding;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);3;0
+Bayushi's Mask;Item;;Dawn of the Empire (Fixed);Age of Enlightenment (Lotus);1;0
+Bayushi's Mask;Item;;Dawn of the Empire (Fixed);Rain of Blood (Diamond);1;0
+Bayushi's Shrine;Region;;Promotional–Gold (Promo);Four Winds (Gold);1;0
 Bayushi;Personality;Scorpion;Dawn of the Empire (Fixed);BigDeck;1;0
 Be Prepared to Dig Two Graves • Experienced;Strategy;;Chaos Reigns II (Fixed);Shattered Empire;3;0
+Be Prepared to Dig Two Graves;Strategy;;Diamond Edition (Rare);Rain of Blood (Diamond);3;0
+Be Prepared to Dig Two Graves;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
+Be Prepared to Dig Two Graves;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;0
+Be Prepared to Dig Two Graves;Strategy;;Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
+Be the Breeze;Strategy;;Dark Allies (Common);Four Winds (Gold);3;0
 Beginning and End;Strategy;;The War of Spirits (Rare);Four Winds (Gold);3;0
 Beginning and End;Strategy;;The War of Spirits (Rare);Hidden Emperor (Jade);3;1
 Beiko Sensei;Sensei;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);1;0
@@ -2033,6 +2049,8 @@ Cleave the Chaff;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);
 Clever Strategist;Follower;;Road to Ruin (Fixed);Shattered Empire;3;0
 Clever Strategist;Follower;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Cliffs of Golden Tears;Region;;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;3
+Coastal Lane;Holding;;A Line in the Sand (Rare);A Brother's Destiny (Ivory Edition);3;0
+Coastal Lane;Holding;;A Line in the Sand (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Coastal Region;Region;;An Oni's Fury (Uncommon);Four Winds (Gold);3;1
 Collapsing Bridge;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Collapsing Bridge;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
@@ -5760,6 +5778,8 @@ Sun Kites;Item;;An Oni's Fury (Uncommon);Four Winds (Gold);3;1
 Sunabe;Personality;Brotherhood of Shinsei;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;1
 Sundered Blade;Strategy;;Thunderous Acclaim (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Sundered Blade;Strategy;;Thunderous Acclaim (Uncommon);War of the Seals (Onyx Edition);3;0
+Sundering Strike;Strategy;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
+Sundering Strike;Strategy;;Forgotten Legacy (Fixed);Destroyer War (Celestial);3;0
 Superior Assault;Strategy;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;3
 Superior Assault;Strategy;;Evil Portents (Uncommon);War of the Seals (Onyx Edition);3;0
 Superior Defense;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
@@ -6340,6 +6360,9 @@ Transpose the Infinite;Spell;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edit
 Trapping Tactics;Strategy;;Hidden Emperor 6 (Common);Hidden Emperor (Jade);3;3
 Traveling Caravan;Holding;;Gold Edition (Common);Four Winds (Gold);3;0
 Traveling Caravan;Holding;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Traveling Peddler;Holding;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Traveling Peddler;Holding;;Glory of the Empire (Rare)/Battle of Kyuden Tonbo (Fixed)/War of Honor (Fixed);Destroyer War (Celestial);3;0
+Traveling Peddler;Holding;;Glory of the Empire (Rare);Race for the Throne (Samurai);3;0
 Traveling Ronin • Experienced;Follower;;The Coming Storm (Rare);A Brother's Destiny (Ivory Edition);3;0
 Traveling Ronin • Experienced;Follower;;The Coming Storm (Rare);A Brother's Destiny (Twenty Festivals);3;1
 Traveling Ronin;Follower;;Gathering Storms (Fixed);Shattered Empire;3;0
@@ -7004,7 +7027,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #930
+# Done through card #940
 #944
 #955
 #960
@@ -7723,6 +7746,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8692
 #8723
 #8726
+#8729
 #8734
 #8739
 #8743
@@ -7955,6 +7979,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11289
 #11306
 #11310
+#11547
 #11555-11556
 #11561
 #11585

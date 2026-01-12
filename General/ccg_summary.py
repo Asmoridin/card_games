@@ -189,7 +189,7 @@ if __name__ == "__main__":
         # Take the highest of last year's plays, or average plays per year
         avg_plays = math.ceil(game_plays / YEARS_PROCESSED)
         last_year_plays = prev_year_plays.get(game_name, 0)
-        goal_plays = max(avg_plays, last_year_plays) + 1
+        goal_plays = max(avg_plays, last_year_plays + 1)
         game_goals[game_name] = goal_plays
 
     # Figure out today's date progress as a percentage of the year

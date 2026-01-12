@@ -1,4 +1,4 @@
-Abra;Pokemon;Psychic;50;;Teleportation Attack;MEG 54 (Common);I;4;0
+Abra;Pokemon;Psychic;50;;Teleportation Attack;MEG 54 (Common);I;4;1
 Absol;Pokemon;Darkness;110;;Allure|Dark Cutter;PFL 63 (Common);I;4;1
 Acerola's Mischief;Trainer;Supporter;;;;MEG 113 (Uncommon)/MEG 165 (Ultra Rare)/MEG 183 (Special Illustration Rare);I;4;0
 Aipom;Pokemon;Colorless;70;;Astonish;PFL 78 (Common);I;4;2
@@ -8,7 +8,7 @@ Ambipom;Pokemon;Colorless;110;;Slap|Dual Tail;PFL 79 (Rare)/PFL 107 (Illustratio
 Archaludon;Pokemon;Metal;180;;Coated Attack;PFL 75 (Uncommon);I;4;2
 Battle Cage;Trainer;Stadium;;;;PFL 85 (Uncommon)/PFL 116 (Ultra Rare);I;4;1
 Bayleef;Pokemon;Grass;110;;Push Down;MEG 9 (Common);I;4;0
-Bewear;Pokemon;Colorless;130;;Knuckle Punch|Hyper Lariat;MEG 112 (Common);I;4;0
+Bewear;Pokemon;Colorless;130;;Knuckle Punch|Hyper Lariat;MEG 112 (Common);I;4;1
 Blowtorch;Trainer;Item;;;;PFL 86 (Uncommon)/PFL 117 (Ultra Rare);I;4;3
 Boltund;Pokemon;Lightning;130;;Electric Run;PFL 31 (Common);I;4;4
 Boss's Orders;Trainer;Supporter;;;;Rebel Clash 154 (Rare Holo)/Rebel Clash 189 (Rare Ultra)/Rebel Clash 200 (Rare Rainbow)/Shining Fates 58 (Rare)/Lost Origin 24 (TGU)/Brilliant Stars 132 (Rare Holo)/SWSH Black Star Promos 251 (Promo)/PAL 172 (Rare)/PAL 248 (Ultra Rare)/PAL 265 (Special Illustration Rare)/MEG 114 (Uncommon)/ASC 183 (Uncommon);D/F/G/I;8;2
@@ -17,10 +17,11 @@ Bramblin;Pokemon;Psychic;50;;Sneaky Placement;PFL 46 (Common);I;4;3
 Bronzong;Pokemon;Metal;140;;Triple Draw|Tool Drop;PFL 72 (Uncommon);I;4;1
 Bronzor;Pokemon;Metal;80;;Iron Defense|Rollout;PFL 71 (Common);I;4;2
 Bulbasaur;Pokemon;Grass;80;;Bind Down;MEG 1 (Common)/MEG 133 (Illustration Rare);I;4;0
-Buneary;Pokemon;Colorless;70;;Charm|Skip;MEG 107 (Common);I;4;0
+Buneary;Pokemon;Colorless;70;;Charm|Skip;MEG 107 (Common);I;4;1
 Buneary;Pokemon;Colorless;70;;Run Around|Kick;PFL 83 (Common);I;4;2
 Carnivine;Pokemon;Grass;90;;Festering Saliva|Bind Down;Crown Zenith 12 (Uncommon);F;4;1
 Carvanha;Pokemon;Darkness;70;;Reckless Charge;PFL 60 (Common);I;4;1
+Carvanha;Pokemon;Water;50;;Ram|Razor Fin;Evolving Skies 35 (Common);E;4;1
 Celebi;Pokemon;Grass;80;;Traverse Time|Solar Cutter;MEG 12 (Uncommon);I;4;0
 Celebratory Fanfare;Trainer;Stadium;;;;MEP 28 (Promo);I;4;0
 Centiskorch;Pokemon;Fire;140;;Coiling Crush|Heat Crawler;MEG 30 (Uncommon);I;4;0
@@ -29,7 +30,7 @@ Charcadet;Pokemon;Fire;70;;Gather Strength|Chop;PFL 19 (Common)/MEP 22 (Promo);I
 Charmander;Pokemon;Fire;80;Agile;Live Coal;PFL 11 (Common);I;4;1
 Charmeleon;Pokemon;Fire;110;;Steady Firebreathing;PFL 12 (Common);I;4;3
 Chatot;Pokemon;Colorless;70;;Cycle Draw|Flap;Crown Zenith 112 (Common);F;4;1
-Chi-Yu;Pokemon;Fire;110;;Scorching Earth;MEG 31 (Uncommon);I;4;0
+Chi-Yu;Pokemon;Fire;110;;Scorching Earth;MEG 31 (Uncommon);I;4;1
 Chikorita;Pokemon;Grass;70;;Razor Leaf;MEG 8 (Common);I;4;0
 Cinderace;Pokemon;Fire;160;Explosiveness;Turbo Flare;MEG 28 (Rare);I;4;0
 Clauncher;Pokemon;Water;80;;Wave Splash;MEG 37 (Common);I;4;0
@@ -40,46 +41,50 @@ Crawdaunt;Pokemon;Darkness;130;;Vise Grip|Cutting Riposte;MEG 85 (Uncommon);I;4;
 Crawdaunt;Pokemon;Water;130;;Corkscrew Punch|Crab Impact;Brilliant Stars 33 (Uncommon);F;4;1
 Cresselia;Pokemon;Psychic;120;;Swelling Light|Aurora Beam;PFL 39 (Uncommon);I;4;4
 Croagunk;Pokemon;Fighting;70;;Smack;MEG 78 (Common);I;4;0
+Crystal Cave;Trainer;Stadium;;;;Evolving Skies 144 (Uncommon)/Evolving Skies 230 (Rare Secret);E;4;1
 Cufant;Pokemon;Metal;100;;Rollout|High Horsepower;Fusion Strike 191 (Common);E;4;1
-Darkness Energy;Energy;Basic;;;;MEE 7 (Common)/SVE 7 (Common)/SVE 15 (Common)/SVE 23 (Common);All;15;5
+Darkness Energy;Energy;Basic;;;;MEE 7 (Common)/SVE 7 (Common)/SVE 15 (Common)/SVE 23 (Common);All;15;7
 Darmanitan;Pokemon;Fire;150;;Blaze Ball;PFL 16 (Uncommon);I;4;1
 Darumaka;Pokemon;Fire;80;;Blaze Ball;PFL 15 (Common);I;4;2
 Dawn;Trainer;Supporter;;;;PFL 87 (Uncommon)/PFL 118 (Ultra Rare)/PFL 129 (Special Illustration Rare);I;8;0
-Delibird;Pokemon;Colorless;90;;Quick Gift|Gentle Slap;MEG 105 (Common)/MEG 152 (Illustration Rare);I;4;0
+Delibird;Pokemon;Colorless;90;;Quick Gift|Gentle Slap;MEG 105 (Common)/MEG 152 (Illustration Rare);I;4;1
 Dewgong;Pokemon;Water;130;Thick Fat;Slam;PFL 22 (Common)/PFL 97 (Illustration Rare);I;4;2
-Dhelmise;Pokemon;Grass;120;;Earthen Power;MEG 18 (Uncommon);I;4;0
+Dhelmise;Pokemon;Grass;120;;Earthen Power;MEG 18 (Uncommon);I;4;1
 Dialga;Pokemon;Metal;140;;Beam|Chrono Burst;MEG 95 (Rare);I;4;0
+Digging Gloves;Trainer;Pokemon Tool;;;;Evolving Skies 145 (Uncommon);E;4;1
 Dizzying Valley;Trainer;Stadium;;;;PFL 88 (Uncommon);I;4;2
 Drifblim;Pokemon;Psychic;110;;Creepy Wind|Balloon Return;MEP 6 (Promo);I;4;0
 Drifloon;Pokemon;Psychic;70;;Pull;MEP 5 (Promo);I;4;0
 Drizzile;Pokemon;Water;100;;Double Stab;MEG 40 (Common);I;4;0
-Dunsparce;Pokemon;Colorless;60;Mysterious Nest;Rollout;Fusion Strike 207 (Uncommon)/Crown Zenith 23 (GGH);E;4;1
+Drowzee;Pokemon;Psychic;70;;Pound;Evolving Skies 61 (Common);E;4;1
+Dunsparce;Pokemon;Colorless;60;Mysterious Nest;Rollout;Fusion Strike 207 (Uncommon);E;4;1
 Duraludon;Pokemon;Metal;130;;Hyper Beam;PFL 74 (Common);I;4;0
 Dusknoir;Pokemon;Psychic;150;Spectral Breach;Spooky Shot;Vivid Voltage 71 (Rare Holo)/Brilliant Stars 6 (TGH);D;4;1
+Dwebble;Pokemon;Grass;60;;Ram|Sharp Claws;Evolving Skies 11 (Common);E;4;1
 Eelektrik;Pokemon;Lightning;90;;Lightning Ball|Thunder;Fusion Strike 96 (Uncommon);E;4;1
 Eiscue;Pokemon;Water;110;;Freezing Headbutt|Tackle;MEG 44 (Common);I;4;0
-Electrike;Pokemon;Lightning;70;;Thunder Jolt;MEG 49 (Common);I;4;0
-Emolga;Pokemon;Lightning;70;;Thunder Shock;Evolving Skies 57 (Common)/Crown Zenith 47 (Common);E;4;1
+Electrike;Pokemon;Lightning;70;;Thunder Jolt;MEG 49 (Common);I;4;1
+Emolga;Pokemon;Lightning;70;;Thunder Shock;Evolving Skies 57 (Common)/Crown Zenith 47 (Common);E;4;2
 Empoleon ex;Pokemon;Metal;320;Emperor's Stance;Iron Feathers;PFL 70 (Double Rare)/PFL 114 (Ultra Rare);I;4;1
 Energy Search;Trainer;Item;;;;Fossil 59 (Common)/Expedition Base Set 153 (Common)/EX Ruby & Sapphire 90 (Common)/EX Unseen Forces 94 (Common)/EX Crystal Guardians 86 (Common)/Diamond & Pearl 117 (Common)/Majestic Dawn 90 (Common)/Black & White 93 (Common)/Boundaries Crossed 128 (Common)/Sword & Shield 161 (Uncommon)/Crown Zenith 128 (Common)/SVI 172 (Common);D/F/G;4;1
 Energy Switch;Trainer;Item;;;;Aquapolis 120 (Uncommon)/EX Ruby & Sapphire 82 (Uncommon)/EX FireRed & LeafGreen 90 (Uncommon)/EX Unseen Forces 84 (Uncommon)/EX Power Keepers 75 (Uncommon)/Diamond & Pearl 107 (Uncommon)/Stormfront 84 (Uncommon)/HeartGold & SoulSilver 91 (Uncommon)/Black & White 94 (Uncommon)/Legendary Treasures 112 (Uncommon)/Furious Fists 89 (Uncommon)/Roaring Skies 109 (Rare Secret)/Generations 61 (Uncommon)/Sun & Moon 117 (Uncommon)/Celestial Storm 129 (Uncommon)/Sword & Shield 162 (Uncommon)/Silver Tempest 212 (Rare Secret)/Crown Zenith 129 (Uncommon)/SVI 173 (Uncommon)/MEG 115 (Common);D/F/G/I;4;0
 Eternatus;Pokemon;Darkness;150;;Shatter|Power Rush;PFL 69 (Uncommon);I;4;1
 Exeggcute;Pokemon;Grass;60;;Jam-Packed;MEG 4 (Common);I;4;0
-Exeggutor;Pokemon;Grass;140;;Guard Press|Stomping Wood;MEG 5 (Uncommon)/MEG 135 (Illustration Rare);I;4;0
-Fearow;Pokemon;Colorless;100;;Repeating Drill;MEG 103 (Common);I;4;0
-Fighting Energy;Energy;Basic;;;;Base Set 97 (Common)/Gym Heroes 127 (Common)/Base Set 2 125 (Common)/Gym Challenge 127 (Common)/Neo Genesis 106 (Common)/Expedition Base Set 160 (Common)/EX Ruby & Sapphire 105 (Common)/EX Emerald 106 (Rare Holo)/EX Holon Phantoms 110 (Rare Holo)/EX Power Keepers 108 (Rare Holo)/Diamond & Pearl 128 (Common)/HeartGold & SoulSilver 120 (Common)/Call of Legends 93 (Common)/Black & White 110 (Common)/XY 137 (Common)/Generations 80 (Common)/Evolutions 96 (Common)/Guardians Rising 169 (Rare Secret)/Chilling Reign 233 (Rare Secret)/SVI 258 (Hyper Rare)/SVE 6 (Common)/MEE 6 (Common);All;15;8
-Fighting Gong;Trainer;Item;;;;MEG 116 (Uncommon)/MEG 168 (Ultra Rare);I;4;0
+Exeggutor;Pokemon;Grass;140;;Guard Press|Stomping Wood;MEG 5 (Uncommon)/MEG 135 (Illustration Rare);I;4;1
+Fearow;Pokemon;Colorless;100;;Repeating Drill;MEG 103 (Common);I;4;1
+Fighting Energy;Energy;Basic;;;;Base Set 97 (Common)/Gym Heroes 127 (Common)/Base Set 2 125 (Common)/Gym Challenge 127 (Common)/Neo Genesis 106 (Common)/Expedition Base Set 160 (Common)/EX Ruby & Sapphire 105 (Common)/EX Emerald 106 (Rare Holo)/EX Holon Phantoms 110 (Rare Holo)/EX Power Keepers 108 (Rare Holo)/Diamond & Pearl 128 (Common)/HeartGold & SoulSilver 120 (Common)/Call of Legends 93 (Common)/Black & White 110 (Common)/XY 137 (Common)/Generations 80 (Common)/Evolutions 96 (Common)/Guardians Rising 169 (Rare Secret)/Chilling Reign 233 (Rare Secret)/SVI 258 (Hyper Rare)/SVE 6 (Common)/MEE 6 (Common);All;15;9
+Fighting Gong;Trainer;Item;;;;MEG 116 (Uncommon)/MEG 168 (Ultra Rare);I;4;1
 Fire Energy;Energy;Basic;;;;SVE 2 (Common)/SVE 10 (Common)/SVE 18 (Common)/MEE 2 (Common);All;15;15
 Firebreather;Trainer;Supporter;;;;PFL 89 (Uncommon)/PFL 119 (Ultra Rare);I;4;0
 Flygon;Pokemon;Fighting;150;Sandy Flapping;Cutting Wind;PFL 53 (Rare)/PFL 101 (Illustration Rare)/MEP 16 (Promo);I;4;1
-Forest of Vitality;Trainer;Stadium;;;;MEG 117 (Uncommon);I;4;0
+Forest of Vitality;Trainer;Stadium;;;;MEG 117 (Uncommon);I;4;1
 Friends in Hisui;Trainer;Supporter;;;;Crown Zenith 130 (Uncommon)/Crown Zenith 148 (Rare Ultra);F;4;1
-Frosmoth;Pokemon;Water;110;;Chilling Wings;MEG 43 (Uncommon);I;4;0
+Frosmoth;Pokemon;Water;110;;Chilling Wings;MEG 43 (Uncommon);I;4;2
 Galarian Runerigus;Pokemon;Fighting;100;;Spreading Spite|Mad Hammer;Rebel Clash 102 (Rare)/Shining Fates 66 (Rare Shiny);D;4;1
 Garganacl;Pokemon;Fighting;180;Powerful a-Salt;Hammer In;MEG 84 (Uncommon)/MEG 147 (Illustration Rare);I;4;0
 Gastly;Pokemon;Darkness;70;;Petty Grudge;PFL 54 (Common)/ASC 123 (Common);I;4;1
 Genesect;Pokemon;Grass;120;;Bug's Cannon|Speed Attack;PFL 8 (Rare);I;4;1
-Gholdengo;Pokemon;Metal;130;;All-You-Can-Grab|Speed Attack;MEG 99 (Uncommon);I;4;0
+Gholdengo;Pokemon;Metal;130;;All-You-Can-Grab|Speed Attack;MEG 99 (Uncommon);I;4;1
 Gimmighoul;Pokemon;Psychic;70;;Slap;MEG 67 (Common);I;4;0
 Gligar;Pokemon;Fighting;70;;Poison Jab;PFL 49 (Common);I;4;0
 Gliscor;Pokemon;Fighting;120;;Poison Ring;PFL 50 (Uncommon);I;4;0
@@ -89,7 +94,7 @@ Grafaiai;Pokemon;Darkness;100;;Miraculous Paint;MEG 92 (Common);I;4;0
 Granbull;Pokemon;Psychic;130;;Bite|Finishing Blow;PFL 38 (Uncommon);I;4;2
 Grass Energy;Energy;Basic;;;;MEE 1 (Common);All;15;8
 Great Ball;Trainer;Item;;;;EX FireRed & LeafGreen 92 (Uncommon)/EX Delta Species 90 (Uncommon)/EX Power Keepers 77 (Uncommon)/Stormfront 85 (Uncommon)/Emerging Powers 93 (Uncommon)/Boundaries Crossed 129 (Uncommon)/XY 118 (Uncommon)/BREAKpoint 100 (Uncommon)/Sun & Moon 119 (Uncommon)/Shining Legends 60 (Uncommon)/Sword & Shield 164 (Uncommon)/Champion's Path 52 (Uncommon)/Crown Zenith 132 (Uncommon)/PAL 183 (Uncommon);D/F/G;8;4
-Greavard;Pokemon;Psychic;80;;Stampede|Take Down;MEG 65 (Common);I;4;0
+Greavard;Pokemon;Psychic;80;;Stampede|Take Down;MEG 65 (Common);I;4;1
 Grimsley's Move;Trainer;Supporter;;;;PFL 90 (Uncommon)/PFL 120 (Ultra Rare);I;4;1
 Grubbin;Pokemon;Grass;70;;Energize|Surprise Attack;Fusion Strike 18 (Common)/Crown Zenith 15 (Common);E;4;1
 Grumpig;Pokemon;Psychic;120;Energized Steps;Psychic Sphere;MEG 63 (Uncommon);I;4;2
@@ -97,7 +102,7 @@ Gumshoos;Pokemon;Colorless;100;Evidence Gathering;Bite;MEG 110 (Uncommon)/MEG 15
 Hariyama;Pokemon;Fighting;150;Heave-Ho Catcher;Wild Press;MEG 73 (Rare);I;4;0
 Haunter;Pokemon;Darkness;100;;Spooky Shot;PFL 55 (Uncommon)/MEP 27 (Promo);I;4;2
 Heliolisk;Pokemon;Lightning;120;;Dazzle Blast|Head Bolt;MEG 53 (Common);I;4;0
-Helioptile;Pokemon;Lightning;70;;Double Scratch;MEG 52 (Common)/MEG 143 (Illustration Rare);I;4;0
+Helioptile;Pokemon;Lightning;70;;Double Scratch;MEG 52 (Common)/MEG 143 (Illustration Rare);I;4;1
 Honchkrow;Pokemon;Darkness;130;;Wind of Darkness|Sniping Feathers;PFL 58 (Uncommon);I;4;1
 Houndstone;Pokemon;Psychic;140;;Horrifying Bite|Hammer In;MEG 66 (Uncommon)/MEG 145 (Illustration Rare);I;4;0
 Ignition Energy;Energy;Special Energy;;;;WHT 86 (Uncommon)/PFL 124 (Ultra Rare);I;4;0
@@ -108,17 +113,18 @@ Ivysaur;Pokemon;Grass;110;;Razor Leaf;MEG 2 (Common)/MEG 134 (Illustration Rare)
 Jigglypuff;Pokemon;Colorless;70;;Ball Roll;PFL 76 (Common);I;4;2
 Jumbo Ice Cream;Trainer;Item;;;;PFL 91 (Uncommon);I;8;1
 Jynx;Pokemon;Psychic;110;;Psychic;MEG 57 (Common);I;4;0
-Kadabra;Pokemon;Psychic;80;Psychic Draw;Super Psy Bolt;MEG 55 (Uncommon);I;4;0
+Kadabra;Pokemon;Psychic;80;Psychic Draw;Super Psy Bolt;MEG 55 (Uncommon);I;4;1
 Kirlia;Pokemon;Psychic;100;;Call Sign|Psyshot;MEG 59 (Common);I;4;0
+Koffing;Pokemon;Darkness;70;;Smog;Chilling Reign 94 (Common)/Crown Zenith 75 (Common);E;4;1
 Kricketot;Pokemon;Grass;60;;Trip Over;Astral Radiance 9 (Common)/Crown Zenith 10 (Common);F;4;1
 Krokorok;Pokemon;Darkness;100;;Bite|Confront;PFL 65 (Common);I;4;0
 Krookodile;Pokemon;Darkness;170;;Vengeful Fang|Hammer In;PFL 66 (Uncommon);I;4;0
 Kyogre;Pokemon;Water;150;;Riptide|Swirling Waves;MEG 34 (Rare);I;4;0
 Lairon;Pokemon;Metal;90;;Confront|Wreak Havoc;Crown Zenith 88 (Uncommon);F;4;1
-Latios;Pokemon;Dragon;130;Lustrous Assist;Dragon Claw;MEG 101 (Uncommon);I;4;0
+Latios;Pokemon;Dragon;130;Lustrous Assist;Dragon Claw;MEG 101 (Uncommon);I;4;2
 Lightning Energy;Energy;Basic;;;;SVE 4 (Common)/SVE 12 (Common)/SVE 20 (Common)/MEE 4 (Common);All;15;7
 Lillie's Determination;Trainer;Supporter;;;;MEG 119 (Uncommon)/MEG 169 (Ultra Rare)/MEG 184 (Special Illustration Rare);I;8;4
-Linoone;Pokemon;Colorless;100;Excited Dash;Slash;PFL 82 (Uncommon);I;4;1
+Linoone;Pokemon;Colorless;100;Excited Dash;Slash;PFL 82 (Uncommon);I;4;2
 Litleo;Pokemon;Fire;70;;Flare;MEG 23 (Common)/MEG 139 (Illustration Rare);I;4;0
 Lokix;Pokemon;Grass;120;;Low Kick|Jumping Shot;PFL 10 (Uncommon);I;4;0
 Lombre;Pokemon;Grass;90;;Mega Drain;PFL 6 (Common);I;4;0
@@ -126,16 +132,18 @@ Lopunny;Pokemon;Colorless;110;;Dashing Kick|Spiral Kick;MEG 108 (Common);I;4;0
 Lotad;Pokemon;Grass;70;;Headbutt;PFL 5 (Common);I;4;3
 Lt. Surge's Bargain;Trainer;Supporter;;;;MEG 120 (Uncommon)/MEG 170 (Ultra Rare)/MEG 185 (Special Illustration Rare);I;4;0
 Lucario VSTAR;Pokemon;Fighting;270;;Fighting Knuckle|Aura Star;SWSH Black Star Promos 214 (Promo)/SWSH Black Star Promos 291 (Promo);F;4;2
+Lucky Ice Pop;Trainer;Item;;;;Evolving Skies 150 (Uncommon);E;4;1
 Ludicolo;Pokemon;Grass;160;Excited Heal;Lunge Out;PFL 7 (Uncommon)/PFL 95 (Illustration Rare);I;4;1
 Lunatone;Pokemon;Fighting;110;Lunar Cycle;Power Gem;MEG 74 (Rare)/MEP 4 (Promo);I;4;0
 Magma Basin;Trainer;Stadium;;;;Brilliant Stars 144 (Uncommon)/Brilliant Stars 185 (Rare Secret);F;4;1
 Magnemite;Pokemon;Lightning;70;;Beam;MEG 45 (Common);I;4;0
 Magneton;Pokemon;Lightning;90;;Thunder Shock;MEG 46 (Common);I;4;0
 Magnezone;Pokemon;Lightning;160;;Upper Spark|Flashing Bolt;MEG 47 (Uncommon);I;4;0
-Makuhita;Pokemon;Fighting;80;;Corkscrew Punch|Confront;MEG 72 (Common);I;4;0
+Makuhita;Pokemon;Fighting;80;;Corkscrew Punch|Confront;MEG 72 (Common);I;4;1
 Mamoswine;Pokemon;Water;180;;Wreck|Blizzard Edge;PFL 25 (Uncommon);I;4;1
-Mantine;Pokemon;Water;110;;Call for Family|Waterfall;MEG 32 (Common);I;4;0
-Marshadow;Pokemon;Fighting;90;;Shadowy Side Kick;MEG 80 (Uncommon)/MEG 146 (Illustration Rare);I;4;0
+Mantine;Pokemon;Water;110;;Call for Family|Waterfall;MEG 32 (Common);I;4;1
+Mareep;Pokemon;Lightning;60;;Rear Kick|Electro Ball;Evolving Skies 54 (Common);E;4;1
+Marshadow;Pokemon;Fighting;90;;Shadowy Side Kick;MEG 80 (Uncommon)/MEG 146 (Illustration Rare);I;4;1
 Mega Abomasnow ex;Pokemon;Water;350;;Hammer-lanche|Frost Barrier;MEG 36 (Double Rare)/MEG 157 (Ultra Rare);I;4;0
 Mega Absol ex;Pokemon;Darkness;280;;Terminal Period|Claw of Darkness;MEG 86 (Double Rare)/MEG 161 (Ultra Rare)/MEG 180 (Special Illustration Rare);I;4;0
 Mega Camerupt ex;Pokemon;Fire;340;;Roasting Heat|Volcanic Meteor;MEG 22 (Double Rare)/MEG 156 (Ultra Rare);I;4;0
@@ -164,30 +172,31 @@ Misdreavus;Pokemon;Psychic;70;;Petty Grudge;PFL 35 (Common);I;4;1
 Mismagius ex;Pokemon;Psychic;260;Swirling Prose;Hexa-Magic;PFL 36 (Double Rare)/PFL 112 (Ultra Rare);I;4;0
 Moltres;Pokemon;Fire;120;;Fighting Wings;PFL 14 (Rare);I;4;1
 Murkrow;Pokemon;Darkness;60;;Ambush;PFL 57 (Common);I;4;1
-Mystery Garden;Trainer;Stadium;;;;MEG 122 (Uncommon)/MEG 172 (Ultra Rare);I;4;2
+Mystery Garden;Trainer;Stadium;;;;MEG 122 (Uncommon)/MEG 172 (Ultra Rare);I;4;3
 N's Zekrom;Pokemon;Dragon;130;;Shred|Rampaging Thunder;ASC 155 (Rare)/MEP 31 (Promo);I;4;0
-Nacli;Pokemon;Fighting;70;;Ram;MEG 82 (Common);I;4;0
+Nacli;Pokemon;Fighting;70;;Ram;MEG 82 (Common);I;4;1
 Naclstack;Pokemon;Fighting;110;;Rock Hurl;MEG 83 (Common);I;4;0
 Nickit;Pokemon;Darkness;70;;Darkness Fang;MEG 89 (Common);I;4;0
-Nincada;Pokemon;Grass;50;;Scratch;MEG 16 (Common);I;4;0
-Ninetales;Pokemon;Fire;120;;Supernatural Shapeshifter|Combustion;MEG 20 (Uncommon);I;4;0
+Nincada;Pokemon;Grass;50;;Scratch;MEG 16 (Common);I;4;1
+Ninetales;Pokemon;Fire;120;;Supernatural Shapeshifter|Combustion;MEG 20 (Uncommon);I;4;1
 Ninjask;Pokemon;Grass;80;Cast-Off Shell;U-turn;MEG 17 (Uncommon)/MEG 137 (Illustration Rare);I;4;0
-Numel;Pokemon;Fire;80;;Call for Family|Flare;MEG 21 (Common);I;4;0
+Numel;Pokemon;Fire;80;;Call for Family|Flare;MEG 21 (Common);I;4;1
 Nuzleaf;Pokemon;Grass;100;;Pound|Low Kick;MEG 14 (Common);I;4;0
 Nymble;Pokemon;Grass;50;;Flail Around;PFL 9 (Common)/PFL 96 (Illustration Rare);I;4;0
 Oddish;Pokemon;Grass;50;;Seed Bomb;PFL 1 (Common);I;4;2
 Onix;Pokemon;Fighting;110;;Guard Press|Rock Throw;Fusion Strike 138 (Common);E;4;1
 Onix;Pokemon;Fighting;120;;Bind|Strength;MEG 70 (Common);I;4;0
 Oricorio ex;Pokemon;Fire;190;Excited Turbo;Fire Wing;PFL 18 (Double Rare)/PFL 110 (Ultra Rare)/MEP 24 (Promo);I;4;1
-Pachirisu;Pokemon;Lightning;70;;Electrified Incisors;MEG 51 (Common);I;4;0
+Pachirisu;Pokemon;Lightning;70;;Electrified Incisors;MEG 51 (Common);I;4;1
 Paldean Tauros;Pokemon;Fighting;130;;Raging Charge|Double-Edge;PFL 48 (Uncommon);I;4;1
 Paldean Wooper;Pokemon;Darkness;60;;Trip Over;JTG 93 (Common)/PFL 102 (Illustration Rare);H;4;0
+Palpitoad;Pokemon;Fighting;100;;Stampede|Tongue Slap;Evolving Skies 89 (Uncommon);E;4;1
 Pawmi;Pokemon;Lightning;60;;Growl|Tiny Charge;PFL 32 (Common);I;4;0
 Pawmo;Pokemon;Lightning;90;;Electric Punch;PFL 33 (Common);I;4;3
 Pawmot;Pokemon;Lightning;140;;Voltaic Fist;PFL 34 (Rare);I;4;1
 Pawniard;Pokemon;Metal;60;;Reckless Charge;Astral Radiance 115 (Common)/Crown Zenith 91 (Common);F;4;1
 Piloswine;Pokemon;Water;100;;Rising Lunge|Frost Smash;PFL 24 (Common);I;4;1
-Pincurchin;Pokemon;Lightning;80;;Call for Family|Continuous Tumble;Crown Zenith 56 (Uncommon);F;4;1
+Pincurchin;Pokemon;Lightning;80;;Call for Family|Continuous Tumble;Crown Zenith 56 (Uncommon);F;4;2
 Piplup;Pokemon;Water;70;;Call for Support|Tackle;PFL 27 (Common)/PFL 98 (Illustration Rare);I;4;2
 Pokémon Catcher;Trainer;Item;;;;Emerging Powers 95 (Uncommon)/Dark Explorers 111 (Ultra-Rare Rare)/Plasma Blast 83 (Uncommon)/Kalos Starter Set 36 (Common)/BREAKpoint 105 (Uncommon)/Sun & Moon 126 (Uncommon)/Shining Legends 64 (Uncommon)/Sword & Shield 175 (Uncommon)/Crown Zenith 138 (Uncommon)/SVI 187 (Common);D/F/G;4;1
 Pokémon Center Lady;Trainer;Supporter;;;;Flashfire 93 (Uncommon)/Flashfire 105 (Rare Ultra)/Generations 68 (Uncommon)/Hidden Fates 64 (Uncommon)/Sword & Shield 176 (Uncommon)/Vivid Voltage 185 (Rare Ultra)/Champion's Path 60 (Uncommon)/MEG 123 (Common);D/I;8;0
@@ -195,15 +204,16 @@ Premium Power Pro;Trainer;Item;;;;MEG 124 (Uncommon)/MEG 174 (Ultra Rare);I;4;0
 Prinplup;Pokemon;Water;100;;Peck|Targeted Dive;PFL 28 (Common);I;4;0
 Psychic Energy;Energy;Basic;;;;SVE 5 (Common)/MEE 5 (Common);All;15;15
 Psyduck;Pokemon;Water;70;Damp;Ram;MEP 7 (Promo)/ASC 226 (Illustration Rare);I;4;0
-Punk Helmet;Trainer;Pokemon Tool;;;;PFL 92 (Uncommon)/PFL 121 (Ultra Rare);I;4;2
+Punk Helmet;Trainer;Pokemon Tool;;;;PFL 92 (Uncommon)/PFL 121 (Ultra Rare);I;4;3
 Pyroar;Pokemon;Fire;130;Intimidating Fang;Searing Flame;MEG 24 (Uncommon);I;4;0
 Raboot;Pokemon;Fire;100;;Jumping Kick;MEG 27 (Common);I;4;0
 Raikou;Pokemon;Lightning;120;;Electro Fall;MEG 48 (Rare);I;4;0
-Ralts;Pokemon;Psychic;70;;Collect|Headbutt;MEG 58 (Common);I;4;0
-Rare Candy;Trainer;Item;;;;EX Sandstorm 88 (Uncommon)/EX Emerald 83 (Uncommon)/EX Holon Phantoms 90 (Uncommon)/POP Series 5 7 (Uncommon)/Great Encounters 102 (Uncommon)/POP Series 8 10 (Uncommon)/Unleashed 82 (Uncommon)/Dark Explorers 100 (Uncommon)/Plasma Blast 85 (Uncommon)/Plasma Blast 105 (Rare Secret)/Primal Clash 135 (Uncommon)/Sun & Moon 129 (Uncommon)/Guardians Rising 165 (Rare Secret)/Celestial Storm 142 (Uncommon)/Sword & Shield 180 (Uncommon)/Pokémon GO 69 (Uncommon)/Crown Zenith 141 (Uncommon)/SVI 191 (Common)/SVI 256 (Hyper Rare)/PAF 89 (Common)/MEG 125 (Common)/MEG 175 (Ultra Rare);D/F/G/I;8;0
-Repel;Trainer;Item;;;;Sun & Moon 130 (Uncommon)/MEG 126 (Uncommon);I;4;0
+Ralts;Pokemon;Psychic;70;;Collect|Headbutt;MEG 58 (Common);I;4;1
+Rare Candy;Trainer;Item;;;;EX Sandstorm 88 (Uncommon)/EX Emerald 83 (Uncommon)/EX Holon Phantoms 90 (Uncommon)/POP Series 5 7 (Uncommon)/Great Encounters 102 (Uncommon)/POP Series 8 10 (Uncommon)/Unleashed 82 (Uncommon)/Dark Explorers 100 (Uncommon)/Plasma Blast 85 (Uncommon)/Plasma Blast 105 (Rare Secret)/Primal Clash 135 (Uncommon)/Sun & Moon 129 (Uncommon)/Guardians Rising 165 (Rare Secret)/Celestial Storm 142 (Uncommon)/Sword & Shield 180 (Uncommon)/Pokémon GO 69 (Uncommon)/Crown Zenith 141 (Uncommon)/SVI 191 (Common)/SVI 256 (Hyper Rare)/PAF 89 (Common)/MEG 125 (Common)/MEG 175 (Ultra Rare);D/F/G/I;8;1
+Repel;Trainer;Item;;;;Sun & Moon 130 (Uncommon)/MEG 126 (Uncommon);I;4;2
 Rescue Carrier;Trainer;Item;;;;Evolving Skies 154 (Uncommon)/Crown Zenith 142 (Uncommon);E;4;1
 Reshiram;Pokemon;Fire;130;;Combustion|Burning Flare;PFL 17 (Rare);I;4;1
+Riolu;Pokemon;Fighting;60;;Low Kick;Brilliant Stars 78 (Common)/Crown Zenith 71 (Common);F;4;1
 Riolu;Pokemon;Fighting;80;;Accelerating Stab;MEG 76 (Common)/MEP 10 (Promo);I;4;0
 Risky Ruins;Trainer;Stadium;;;;MEG 127 (Uncommon);I;4;0
 Rotom ex;Pokemon;Lightning;190;Multi Adapter;Thunderbolt;PFL 29 (Double Rare)/PFL 111 (Ultra Rare)/PFL 126 (Special Illustration Rare);I;4;0
@@ -214,7 +224,9 @@ Sandshrew;Pokemon;Fighting;60;;Dig It Up|Let's All Rollout;Fusion Strike 131 (Co
 Sandshrew;Pokemon;Fighting;70;;Dig Claws|Mud-Slap;MEG 68 (Common);I;4;0
 Sandslash;Pokemon;Fighting;120;;Sand Attack|Mud Shot;MEG 69 (Common);I;4;0
 Scorbunny;Pokemon;Fire;70;;Wild Kick;MEG 26 (Common);I;4;0
-Seedot;Pokemon;Grass;60;;Nap|Seed Bomb;MEG 13 (Common);I;4;0
+Scraggy;Pokemon;Darkness;70;;Hard Head;Evolving Skies 98 (Common);E;4;1
+Scyther;Pokemon;Grass;80;;Mach Cut;Crown Zenith 6 (Common);F;4;1
+Seedot;Pokemon;Grass;60;;Nap|Seed Bomb;MEG 13 (Common);I;4;1
 Seel;Pokemon;Water;80;;Bubble Drain;PFL 21 (Common);I;4;2
 Seviper;Pokemon;Darkness;120;Excited Power;Pitch-Black Fangs;PFL 62 (Uncommon);I;4;1 # 1 reversed foil
 Shaymin;Pokemon;Colorless;70;;Gather Flowers|Rear Kick;Crown Zenith 115 (Uncommon);F;4;1
@@ -227,21 +239,24 @@ Smeargle;Pokemon;Colorless;80;;Energizing Sketch|Hook;PFL 80 (Common);I;4;2
 Sneasel;Pokemon;Darkness;70;;Dig Claws|Scratch;MEP 20 (Promo);I;4;0
 Snom;Pokemon;Water;40;;Find Ice;Fusion Strike 84 (Common);E;4;1
 Snom;Pokemon;Water;50;;Hide;MEG 42 (Common);I;4;0
-Snover;Pokemon;Water;90;;Beat|Icy Snow;MEG 35 (Common)/MEG 140 (Illustration Rare);I;4;0
+Snover;Pokemon;Water;90;;Beat|Icy Snow;MEG 35 (Common)/MEG 140 (Illustration Rare);I;4;1
 Snubbull;Pokemon;Psychic;70;;Tackle;PFL 37 (Common);I;4;2 # 1 reverse foil
 Sobble;Pokemon;Water;70;;Surprise Attack;MEG 39 (Common);I;4;0
 Solrock;Pokemon;Fighting;110;;Cosmic Beam;MEG 75 (Uncommon);I;4;0
 Spearow;Pokemon;Colorless;60;;Pluck;MEG 102 (Common)/MEG 151 (Illustration Rare);I;4;0
 Spiritomb;Pokemon;Darkness;80;Spiteful Swirl;Mountain Breaker;MEG 87 (Uncommon)/MEG 148 (Illustration Rare);I;4;0
-Spoink;Pokemon;Psychic;70;;Triple Spin;MEG 62 (Common);I;4;2
+Spoink;Pokemon;Psychic;70;;Triple Spin;MEG 62 (Common);I;4;3
+Starly;Pokemon;Colorless;60;;Claw;Brilliant Stars 117 (Common)/Crown Zenith 110 (Common);F;4;1
 Steelix;Pokemon;Metal;200;;Welcoming Tail|Skull Bash;MEG 93 (Rare)/MEG 150 (Illustration Rare);I;4;0
 Stonjourner;Pokemon;Fighting;130;;Stony Kick|Boundless Power;MEG 81 (Uncommon);I;4;0
 Strange Timepiece;Trainer;Item;;;;MEG 128 (Uncommon);I;4;0
-Stufful;Pokemon;Colorless;70;;Light Punch|Flop;MEG 111 (Common)/MEG 154 (Illustration Rare);I;4;0
+Stufful;Pokemon;Colorless;70;;Light Punch|Flop;MEG 111 (Common)/MEG 154 (Illustration Rare);I;4;1
 Suicune;Pokemon;Water;130;;Crystal Fall;PFL 26 (Rare);I;4;1
-Surfing Beach;Trainer;Stadium;;;;MEG 129 (Uncommon);I;4;0
+Sunkern;Pokemon;Grass;40;;Seed Bomb;Silver Tempest 5 (Common)/Crown Zenith 7 (Common);F;4;1
+Surfing Beach;Trainer;Stadium;;;;MEG 129 (Uncommon);I;4;1
 Swinub;Pokemon;Water;70;;Stampede | Icy Snow;PFL 23 (Common);I;4;0
 Switch;Trainer;Item;;;;Base Set 95 (Common)/Base Set 2 123 (Common)/EX Ruby & Sapphire 92 (Common)/EX FireRed & LeafGreen 102 (Common)/EX Delta Species 102 (Common)/EX Dragon Frontiers 83 (Common)/Diamond & Pearl 119 (Common)/Secret Wonders 128 (Common)/Stormfront 93 (Common)/HeartGold & SoulSilver 102 (Uncommon)/Black & White 104 (Uncommon)/Boundaries Crossed 135 (Common)/Kalos Starter Set 38 (Common)/Primal Clash 163 (Rare Secret)/Roaring Skies 91 (Uncommon)/Evolutions 88 (Uncommon)/Sun & Moon 132 (Uncommon)/Sun & Moon 160 (Rare Secret)/Shining Legends 67 (Uncommon)/Celestial Storm 147 (Uncommon)/Sword & Shield 183 (Uncommon)/Crown Zenith 144 (Common)/SVI 194 (Common)/MEW 205 (Hyper Rare)/MEG 130 (Common)/PFL 123 (Ultra Rare);D/F/G/I;8;5
+Swoobat;Pokemon;Psychic;90;;Synchro Woofer;Evolving Skies 69 (Uncommon);E;4;1
 Tangela;Pokemon;Grass;80;;Poison Powder|Hook;MEG 6 (Common);I;4;0
 Tangrowth;Pokemon;Grass;150;;Absorb|Pumped-Up Whip;MEG 7 (Uncommon);I;4;0
 Thievul;Pokemon;Darkness;120;;Greedy Hunt|Pitch-Black Fangs;MEG 90 (Common);I;4;0
@@ -250,7 +265,7 @@ Tinkaton;Pokemon;Metal;160;;Windup Swing;MEG 98 (Uncommon);I;4;0
 Tinkatuff;Pokemon;Metal;90;Haphazard Hammer;Light Punch;MEG 97 (Common);I;4;0
 Togedemaru;Pokemon;Metal;80;;Find a Friend|Gnaw;PFL 73 (Common)/PFL 104 (Illustration Rare);I;4;0
 Toxel;Pokemon;Darkness;70;;Call for Family|Playful Kick;PFL 67 (Common);I;4;1
-Toxicroak;Pokemon;Fighting;130;;Reckless Charge;MEG 79 (Common);I;4;0
+Toxicroak;Pokemon;Fighting;130;;Reckless Charge;MEG 79 (Common);I;4;1
 Toxtricity;Pokemon;Darkness;140;Sinister Surge;Gentle Slap;PFL 68 (Rare)/PFL 103 (Illustration Rare)/MEP 17 (Promo);I;4;0
 Trapinch;Pokemon;Fighting;70;;Double Headbutt;PFL 51 (Common);I;4;0
 Trekking Shoes;Trainer;Item;;;;Astral Radiance 156 (Uncommon)/Astral Radiance 215 (Rare Secret)/Crown Zenith 145 (Uncommon);F;4;1
@@ -263,7 +278,7 @@ Vileplume;Pokemon;Grass;150;;Pollen Bomb|Lively Flower;PFL 3 (Rare);I;4;2
 Volcanion;Pokemon;Fire;130;;Singe|Backfire;MEG 25 (Uncommon);I;4;0
 Vulpix;Pokemon;Fire;70;;Stampede|Combustion;MEG 19 (Common)/MEG 138 (Illustration Rare);I;4;0
 Wally's Compassion;Trainer;Supporter;;;;MEG 132 (Uncommon)/MEG 176 (Ultra Rare)/MEG 186 (Special Illustration Rare);I;4;1
-Water Energy;Energy;Basic;;;;MEE 3 (Common)/SVE 3 (Common)/SVE 11 (Common)/SVE 19 (Common);All;15;6
+Water Energy;Energy;Basic;;;;MEE 3 (Common)/SVE 3 (Common)/SVE 11 (Common)/SVE 19 (Common);All;15;7
 Weavile;Pokemon;Darkness;90;;Retaliatory Claw|Cut;MEP 21 (Promo);I;4;0
 Whimsicott;Pokemon;Psychic;90;;Healing Fluff|U-turn;MEP 19 (Promo);I;4;0
 Wigglytuff;Pokemon;Colorless;120;;Round|Seismic Toss;PFL 77 (Uncommon)/PFL 105 (Illustration Rare);I;4;0
@@ -272,6 +287,7 @@ Xerneas;Pokemon;Psychic;120;;Geo Gate|Bright Horns;MEG 64 (Rare);I;4;0
 Yamper;Pokemon;Lightning;70;;Play Rough;PFL 30 (Common)/PFL 99 (Illustration Rare);I;4;2
 Yanma;Pokemon;Grass;70;;Swoop Across|Cutting Wind;Crown Zenith 8 (Common);F;4;1
 Yungoos;Pokemon;Colorless;70;;Collect|Gnaw;MEG 109 (Common);I;4;0
+Yungoos;Pokemon;Colorless;70;;Sharp Fang;Crown Zenith 117 (Common);F;4;1
 Yveltal;Pokemon;Darkness;110;;Clutch|Dark Feather;MEG 88 (Rare);I;4;0
 Zacian;Pokemon;Psychic;130;;Limit Break;PFL 45 (Rare)/PFL 100 (Illustration Rare)/MEP 15 (Promo);I;4;1
 Zigzagoon;Pokemon;Colorless;70;;Surprise Attack;PFL 81 (Common);I;4;1
@@ -286,6 +302,7 @@ Drifblim;Pokemon;Psychic;110;;Gust|Curse Spreading;SVI 90 (Uncommon)/PAF 156 (Sh
 Cyclizar;Pokemon;Colorless;110;;Touring|Speed Attack;SVI 164 (Rare)/M23 14 (Promo);G;4;2
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
 Nemona;Trainer;Supporter;;;;SVI 180 (Common)/PAF 82 (Common)/PAF 229 (Ultra Rare)/PAF 238 (Special Illustration Rare);G;8;4
+Pal Pad;Trainer;Item;;;;Flashfire 92 (Uncommon)/Ultra Prism 132 (Uncommon)/Sword & Shield 172 (Uncommon)/SVI 182 (Common);D/G;4;0
 Picnic Basket;Trainer;Item;;;;SVI 184 (Uncommon);G;4;0
 Youngster;Trainer;Supporter;;;;SVI 198 (Uncommon);G;8;3
 
@@ -295,12 +312,14 @@ Fuecoco;Pokemon;Fire;80;;Tackle;PAL 34 (Common)/SVP  79 (Promo);G;4;4
 Crocalor;Pokemon;Fire;110;;Steady Firebreathing|Hyper Voice;PAL 36 (Uncommon)/PAL 202 (Illustration Rare)/SVP 80 (Promo);G;4;3
 Mimikyu;Pokemon;Psychic;70;Safeguard;Ghost Eye;PAL 97 (Rare)/PAF 37 (Rare)/PAF 160 (Shiny Rare)/SVP 75 (Promo);G;4;1
 Dunsparce;Pokemon;Colorless;70;;Find a Friend|Bite;PAL 156 (Common);G;4;0
+Squawkabilly ex;Pokemon;Colorless;160;Squawk and Seize;Motivate;PAL 169 (Double Rare)/PAL 247 (Ultra Rare)/PAL 264 (Special Illustration Rare)/PAF 75 (Double Rare)/PAF 223 (Shiny Ultra Rare)/SVP 160 (Promo);G;4;0
 Artazon;Trainer;Stadium;;;;PAL 171 (Uncommon)/OBF 229 (Hyper Rare)/PAF 76 (Uncommon);G;4;0
 Bravery Charm;Trainer;Pokemon Tool;;;;PAL 173 (Uncommon)/SCR 175 (Hyper Rare);G;4;0
 Super Rod;Trainer;Item;;;;Neo Genesis 103 (Common)/Noble Victories 95 (Uncommon)/Dragon Vault 20 (Other)/BREAKthrough 149 (Uncommon)/PAL 188 (Common)/PAL 276 (Hyper Rare);G;4;0
 Superior Energy Retrieval;Trainer;Item;;;;Plasma Freeze 103 (Uncommon)/PAL 189 (Uncommon)/PAL 277 (Hyper Rare);G;4;0
 Jet Energy;Energy;Special Energy;;;;PAL 190 (Uncommon)/SSP 252 (Hyper Rare);G;8;0
 Luminous Energy;Energy;Special Energy;;;;PAL 191 (Uncommon)/TWM 226 (Hyper Rare);G;8;0
+Reversal Energy;Energy;Special Energy;;;;PAL 192 (Uncommon)/PAR 266 (Hyper Rare);G;4;0
 
 # Obsidian Flames (OBF)
 Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (Promo);G;4;1
@@ -330,8 +349,10 @@ Nest Ball;Trainer;Item;;;;Sun & Moon 123 (Uncommon)/Sun & Moon 158 (Rare Secret)
 # Temporal Forces
 Rabsca;Pokemon;Grass;70;Spherical Shield;Psychic;TEF 24 (Uncommon);H;4;1
 Turtonator;Pokemon;Fire;120;;Spit-Out Shot|Steam Artillery;TEF 35 (Common);H;4;1
+Snom;Pokemon;Water;50;;Powder Snow;TEF 45 (Common)/TEF 168 (Illustration Rare);H;4;1
 Finizen;Pokemon;Water;80;;Rain Splash|Sharp Fin;TEF 48 (Common);H;4;1
 Palafin;Pokemon;Water;150;;Vanguard Punch|Double Hit;TEF 49 (Uncommon);H;4;1 # have 1 reverse foil
+Latias;Pokemon;Psychic;110;;Allure|Lagoon Flight;TEF 67 (Uncommon);H;4;1
 Bronzor;Pokemon;Psychic;80;;Mirror Attack;TEF 68 (Common)/TEF 170 (Illustration Rare);H;4;1
 Reuniclus;Pokemon;Psychic;120;;Summoning Gate|Brain Shake;TEF 72 (Uncommon)/TEF 171 (Illustration Rare);H;4;1
 Iron Valiant;Pokemon;Psychic;130;;Gemini Laser|Zen Blade;TEF 79 (Uncommon);H;4;1
@@ -494,10 +515,15 @@ Scraggy;Pokemon;Darkness;70;;Headbutt|Invade;WHT 57 (Common)/WHT 138 (Illustrati
 Scrafty;Pokemon;Darkness;120;;Ruffians Attack;WHT 58 (Uncommon)/WHT 139 (Illustration Rare);I;4;0
 Trubbish;Pokemon;Darkness;70;;Drool|Sludge Bomb;WHT 59 (Common)/WHT 140 (Illustration Rare);I;4;0
 Garbodor;Pokemon;Darkness;140;;Suffocating Gas|Gunk Shot;WHT 60 (Uncommon)/WHT 141 (Illustration Rare);I;4;0
+Zorua;Pokemon;Darkness;70;;Take Down;WHT 61 (Common)/WHT 142 (Illustration Rare);I;4;0
+Zoroark;Pokemon;Darkness;120;;Mind Jack|Foul Play;WHT 62 (Rare)/WHT 143 (Illustration Rare);I;4;0
+Vullaby;Pokemon;Darkness;70;;Playful Kick;WHT 63 (Common)/WHT 144 (Illustration Rare);I;4;0
+Mandibuzz;Pokemon;Darkness;110;Look for Prey;Cutting Wind;WHT 64 (Uncommon)/WHT 145 (Illustration Rare);I;4;0
+Deino;Pokemon;Darkness;80;;Body Slam|Darkness Fang;WHT 65 (Common)/WHT 146 (Illustration Rare);I;4;0
 
 Hilda;Trainer;Supporter;;;;WHT 84 (Uncommon)/WHT 164 (Ultra Rare)/WHT 171 (Special Illustration Rare);I;8;0
 
-# WHT 86-141 done
+# WHT 86-146 done
 # WHT 157-160 done
 # WHT 164-168 done 
 # WHT 171 done
