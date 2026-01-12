@@ -286,6 +286,7 @@ Drifblim;Pokemon;Psychic;110;;Gust|Curse Spreading;SVI 90 (Uncommon)/PAF 156 (Sh
 Cyclizar;Pokemon;Colorless;110;;Touring|Speed Attack;SVI 164 (Rare)/M23 14 (Promo);G;4;2
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
 Nemona;Trainer;Supporter;;;;SVI 180 (Common)/PAF 82 (Common)/PAF 229 (Ultra Rare)/PAF 238 (Special Illustration Rare);G;8;4
+Pal Pad;Trainer;Item;;;;Flashfire 92 (Uncommon)/Ultra Prism 132 (Uncommon)/Sword & Shield 172 (Uncommon)/SVI 182 (Common);D/G;4;0
 Picnic Basket;Trainer;Item;;;;SVI 184 (Uncommon);G;4;0
 Youngster;Trainer;Supporter;;;;SVI 198 (Uncommon);G;8;3
 
@@ -295,6 +296,7 @@ Fuecoco;Pokemon;Fire;80;;Tackle;PAL 34 (Common)/SVP  79 (Promo);G;4;4
 Crocalor;Pokemon;Fire;110;;Steady Firebreathing|Hyper Voice;PAL 36 (Uncommon)/PAL 202 (Illustration Rare)/SVP 80 (Promo);G;4;3
 Mimikyu;Pokemon;Psychic;70;Safeguard;Ghost Eye;PAL 97 (Rare)/PAF 37 (Rare)/PAF 160 (Shiny Rare)/SVP 75 (Promo);G;4;1
 Dunsparce;Pokemon;Colorless;70;;Find a Friend|Bite;PAL 156 (Common);G;4;0
+Squawkabilly ex;Pokemon;Colorless;160;Squawk and Seize;Motivate;PAL 169 (Double Rare)/PAL 247 (Ultra Rare)/PAL 264 (Special Illustration Rare)/PAF 75 (Double Rare)/PAF 223 (Shiny Ultra Rare)/SVP 160 (Promo);G;4;0
 Artazon;Trainer;Stadium;;;;PAL 171 (Uncommon)/OBF 229 (Hyper Rare)/PAF 76 (Uncommon);G;4;0
 Bravery Charm;Trainer;Pokemon Tool;;;;PAL 173 (Uncommon)/SCR 175 (Hyper Rare);G;4;0
 Super Rod;Trainer;Item;;;;Neo Genesis 103 (Common)/Noble Victories 95 (Uncommon)/Dragon Vault 20 (Other)/BREAKthrough 149 (Uncommon)/PAL 188 (Common)/PAL 276 (Hyper Rare);G;4;0
@@ -494,10 +496,15 @@ Scraggy;Pokemon;Darkness;70;;Headbutt|Invade;WHT 57 (Common)/WHT 138 (Illustrati
 Scrafty;Pokemon;Darkness;120;;Ruffians Attack;WHT 58 (Uncommon)/WHT 139 (Illustration Rare);I;4;0
 Trubbish;Pokemon;Darkness;70;;Drool|Sludge Bomb;WHT 59 (Common)/WHT 140 (Illustration Rare);I;4;0
 Garbodor;Pokemon;Darkness;140;;Suffocating Gas|Gunk Shot;WHT 60 (Uncommon)/WHT 141 (Illustration Rare);I;4;0
+Zorua;Pokemon;Darkness;70;;Take Down;WHT 61 (Common)/WHT 142 (Illustration Rare);I;4;0
+Zoroark;Pokemon;Darkness;120;;Mind Jack|Foul Play;WHT 62 (Rare)/WHT 143 (Illustration Rare);I;4;0
+Vullaby;Pokemon;Darkness;70;;Playful Kick;WHT 63 (Common)/WHT 144 (Illustration Rare);I;4;0
+Mandibuzz;Pokemon;Darkness;110;Look for Prey;Cutting Wind;WHT 64 (Uncommon)/WHT 145 (Illustration Rare);I;4;0
+Deino;Pokemon;Darkness;80;;Body Slam|Darkness Fang;WHT 65 (Common)/WHT 146 (Illustration Rare);I;4;0
 
 Hilda;Trainer;Supporter;;;;WHT 84 (Uncommon)/WHT 164 (Ultra Rare)/WHT 171 (Special Illustration Rare);I;8;0
 
-# WHT 86-141 done
+# WHT 86-146 done
 # WHT 157-160 done
 # WHT 164-168 done 
 # WHT 171 done
