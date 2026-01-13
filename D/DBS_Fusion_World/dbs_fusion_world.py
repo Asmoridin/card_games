@@ -12,7 +12,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 GAME_NAME = "Dragon Ball Super Card Game: Fusion World"
 
 ALL_COLORS = ['Green', 'Red', 'Blue', 'Yellow', 'Black',]
-DECK_ERA = 'Set 7'
+DECK_ERA = 'Set 8'
 
 class Deck:
     """
@@ -41,29 +41,54 @@ def read_decks(in_deck_lists, all_cards):
     Take in a list of deck list tuples, and return a list of deck objects
     """
     ret_list = []
-    for in_deck in in_deck_lists:
-        this_deck_name = in_deck[0]
-        deck_dict = {}
-        deck_color = ''
-        deck_contents_str = in_deck[1]
-        deck_contents = deck_contents_str.split(',')
-        for content_line in deck_contents:
-            try:
-                deck_card_no, deck_card_qty = content_line.split(':')
-            except ValueError:
-                print("Problem with line:")
-                print(content_line)
-                continue
-            deck_card_no = deck_card_no.replace('-F', '')
-            deck_card_qty = int (deck_card_qty)
-            if deck_card_no not in deck_dict:
-                deck_dict[deck_card_no] = 0
-            deck_dict[deck_card_no] += deck_card_qty
-        for card_tuple in all_cards:
-            if card_tuple[5] in deck_dict and card_tuple[2] == 'Leader':
-                deck_color = card_tuple[3]
-        ret_list.append(Deck(this_deck_name, deck_dict, deck_color))
-    return ret_list
+    if DECK_ERA in ['Set 8']:
+        for deck_data in in_deck_lists:
+            this_deck_name = deck_data[0].replace('.txt', '')
+            this_deck_list = deck_data[1]
+            this_deck_color = deck_data[2]
+            deck_dict = {}
+            deck_color = this_deck_color.split('-')
+            for proc_line in this_deck_list:
+                if proc_line == '' or proc_line.startswith('#'):
+                    continue
+                try:
+                    deck_card_qty = int(proc_line.split(' ')[0])
+                    _ = ' '.join(proc_line.split(' ')[1:-1]) # deck_card, which we aren't using
+                    deck_card_no = proc_line.rsplit(' ', maxsplit=1)[-1]
+                    deck_card_no = deck_card_no.replace('[', '').replace(']', '')
+                except ValueError:
+                    print("Problem with line:")
+                    print(proc_line)
+                    continue
+                if deck_card_no not in deck_dict:
+                    deck_dict[deck_card_no] = 0
+                deck_dict[deck_card_no] += deck_card_qty
+            ret_list.append(Deck(this_deck_name, deck_dict, deck_color))
+        return ret_list
+    else:
+        for in_deck in in_deck_lists:
+            this_deck_name = in_deck[0]
+            deck_dict = {}
+            deck_color = ''
+            deck_contents_str = in_deck[1]
+            deck_contents = deck_contents_str.split(',')
+            for content_line in deck_contents:
+                try:
+                    deck_card_no, deck_card_qty = content_line.split(':')
+                except ValueError:
+                    print("Problem with line:")
+                    print(content_line)
+                    continue
+                deck_card_no = deck_card_no.replace('-F', '')
+                deck_card_qty = int (deck_card_qty)
+                if deck_card_no not in deck_dict:
+                    deck_dict[deck_card_no] = 0
+                deck_dict[deck_card_no] += deck_card_qty
+            for card_tuple in all_cards:
+                if card_tuple[5] in deck_dict and card_tuple[2] == 'Leader':
+                    deck_color = card_tuple[3]
+            ret_list.append(Deck(this_deck_name, deck_dict, deck_color))
+        return ret_list
 
 def get_missing(in_decks, in_card_own_dict):
     """
@@ -99,21 +124,32 @@ file_h.close()
 lines = [line.strip() for line in lines]
 
 deck_lists = []
-for file_name in os.listdir(DECK_DIR):
-    if file_name.startswith('Set '):
-        continue
-    dlh = open(DECK_DIR + "/" + file_name, 'r', encoding="UTF-8")
-    deck_list = dlh.readlines()
-    dlh.close()
-    deck_list = [line.strip() for line in deck_list]
-    for line in deck_list:
-        if line.startswith('#'):
+
+if DECK_ERA in ['Set 8']:
+    for leader_color in os.listdir(DECK_DIR):
+        DECK_COLOR_DIR = DECK_DIR + "/" + leader_color
+        for file_name in os.listdir(DECK_COLOR_DIR):
+            with open(DECK_COLOR_DIR + "/" + file_name, 'r', encoding="UTF-8") as dlh:
+                deck_list = dlh.readlines()
+
+            deck_list = [line.strip() for line in deck_list]
+            deck_lists.append((file_name, deck_list, leader_color))
+else:
+    for file_name in os.listdir(DECK_DIR):
+        if file_name.startswith('Set '):
             continue
-        if line == '':
-            continue
-        line = line.replace('https://deckbuilder.egmanevents.com/?deck=', '')
-        line = line.replace('&type=fusionworld', '')
-        deck_lists.append((file_name, line))
+        dlh = open(DECK_DIR + "/" + file_name, 'r', encoding="UTF-8")
+        deck_list = dlh.readlines()
+        dlh.close()
+        deck_list = [line.strip() for line in deck_list]
+        for line in deck_list:
+            if line.startswith('#'):
+                continue
+            if line == '':
+                continue
+            line = line.replace('https://deckbuilder.egmanevents.com/?deck=', '')
+            line = line.replace('&type=fusionworld', '')
+            deck_lists.append((file_name, line))
 
 sub_type_map = {}
 TOTAL_OWN = 0

@@ -127,7 +127,6 @@ for play_file in sorted(os.listdir(PLAY_DIR))[:-1]:
     for play_line in play_lines:
         if play_line == "":
             continue
-        print(play_line)
         play_game, play_count = play_line.split(';')
         play_game = play_game.strip()
         if play_game in GAME_NAME_FIX:
@@ -185,12 +184,14 @@ if __name__ == "__main__":
         double_print(PT_STR, out_file_h)
 
     game_goals = {}
+    TOTAL_PLAYS_GOAL = 0
     for game_name, game_plays in game_plays_total.items():
         # Take the highest of last year's plays, or average plays per year
         avg_plays = math.ceil(game_plays / YEARS_PROCESSED)
         last_year_plays = prev_year_plays.get(game_name, 0)
         goal_plays = max(avg_plays, last_year_plays + 1)
         game_goals[game_name] = goal_plays
+        TOTAL_PLAYS_GOAL += goal_plays
 
     # Figure out today's date progress as a percentage of the year
     from datetime import datetime
@@ -203,11 +204,14 @@ if __name__ == "__main__":
     # Now, given our current year progress, determine how many plays we should have
     # And then print out the top 10 games by how far off that goal we are
     game_progress = []
+    TOTAL_PLAYS = 0
     for game_name, goal_plays in game_goals.items():
         current_plays = current_year_plays.get(game_name, 0)
         if current_plays >= goal_plays:
+            TOTAL_PLAYS += goal_plays
             continue
         expected_plays = goal_plays * year_progress
+        TOTAL_PLAYS += current_plays
         progress_diff = current_plays - expected_plays
         game_progress.append((game_name, current_plays, expected_plays, progress_diff))
     game_progress = sorted(game_progress, key=lambda x:x[3])
@@ -217,5 +221,18 @@ if __name__ == "__main__":
         info_n, info_c, info_e, _ = game_info
         PT_STR = f"- {info_n}: {info_c} plays (expected {info_e:.2f})"
         double_print(PT_STR, out_file_h)
+
+    # Figure out what percentage of the total plays goal we've achieved
+    # And then print out how far off pace we are
+    total_plays_percentage = TOTAL_PLAYS * 100 / TOTAL_PLAYS_GOAL
+    expected_pace = year_progress * TOTAL_PLAYS_GOAL
+    pace_diff = TOTAL_PLAYS - expected_pace
+    total_plays_string = f"\nTotal Plays so far: {TOTAL_PLAYS} out of " + \
+        f"{TOTAL_PLAYS_GOAL} ({total_plays_percentage:.2f} percent)"
+    double_print(total_plays_string, out_file_h)
+    pace_string = f"At {year_progress*100:.2f}% of the year, you should have " + \
+        f"played {expected_pace:.2f} games. You are {'ahead' if pace_diff >= 0 else 'behind'} " + \
+        f"pace by {abs(pace_diff):.2f} plays."
+    double_print(pace_string, out_file_h)
 
     out_file_h.close()
