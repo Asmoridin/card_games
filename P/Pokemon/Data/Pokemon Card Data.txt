@@ -304,6 +304,7 @@ Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Speci
 Nemona;Trainer;Supporter;;;;SVI 180 (Common)/PAF 82 (Common)/PAF 229 (Ultra Rare)/PAF 238 (Special Illustration Rare);G;8;4
 Pal Pad;Trainer;Item;;;;Flashfire 92 (Uncommon)/Ultra Prism 132 (Uncommon)/Sword & Shield 172 (Uncommon)/SVI 182 (Common);D/G;4;0
 Picnic Basket;Trainer;Item;;;;SVI 184 (Uncommon);G;4;0
+Pokégear 3.0;Trainer;Item;;;;HeartGold & SoulSilver 96 (Uncommon)/Unbroken Bonds 182 (Uncommon)/Unbroken Bonds 233 (Rare Secret)/Sword & Shield 174 (Uncommon)/SVI 186 (Common)/BLK 84 (Uncommon);D/G/I;4;0
 Youngster;Trainer;Supporter;;;;SVI 198 (Uncommon);G;8;3
 
 # Paldea Evolved (PAL)
@@ -330,6 +331,7 @@ Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
 
 # Paradox Rift (PAR)
+Charcadet;Pokemon;Fire;80;;Fiery Fighting Spirit|Knuckle Punch;PAR 26 (Common);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
@@ -380,6 +382,7 @@ Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (
 
 # Stellar Crown
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common);H;4;0
+Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
 
 # Surging Sparks
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
@@ -520,11 +523,16 @@ Zoroark;Pokemon;Darkness;120;;Mind Jack|Foul Play;WHT 62 (Rare)/WHT 143 (Illustr
 Vullaby;Pokemon;Darkness;70;;Playful Kick;WHT 63 (Common)/WHT 144 (Illustration Rare);I;4;0
 Mandibuzz;Pokemon;Darkness;110;Look for Prey;Cutting Wind;WHT 64 (Uncommon)/WHT 145 (Illustration Rare);I;4;0
 Deino;Pokemon;Darkness;80;;Body Slam|Darkness Fang;WHT 65 (Common)/WHT 146 (Illustration Rare);I;4;0
+Zweilous;Pokemon;Darkness;110;;Double Hit|Pitch-Black Fangs;WHT 66 (Common)/WHT 147 (Illustration Rare);I;4;0
+Hydreigon ex;Pokemon;Darkness;330;Greedy Eater;Dark Bite;WHT 67 (Double Rare)/WHT 161 (Ultra Rare)/WHT 169 (Special Illustration Rare);I;4;0
+Ferroseed;Pokemon;Metal;70;;Zzzt|Metal Claw;WHT 68 (Common)/WHT 148 (Illustration Rare);I;4;0
+Ferrothorn;Pokemon;Metal;140;;Power Whip|Metal Claw;WHT 69 (Uncommon)/WHT 149 (Illustration Rare);I;4;0
+Durant;Pokemon;Metal;110;;Bite Together|Vise Grip;WHT 70 (Uncommon)/WHT 150 (Illustration Rare);I;4;0
 
 Hilda;Trainer;Supporter;;;;WHT 84 (Uncommon)/WHT 164 (Ultra Rare)/WHT 171 (Special Illustration Rare);I;8;0
 
-# WHT 86-146 done
-# WHT 157-160 done
-# WHT 164-168 done 
+# WHT 86-150 done
+# WHT 157-161 done
+# WHT 164-169 done 
 # WHT 171 done
 # WHT 173 done - end of list
