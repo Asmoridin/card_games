@@ -359,6 +359,7 @@ Bronzor;Pokemon;Psychic;80;;Mirror Attack;TEF 68 (Common)/TEF 170 (Illustration 
 Reuniclus;Pokemon;Psychic;120;;Summoning Gate|Brain Shake;TEF 72 (Uncommon)/TEF 171 (Illustration Rare);H;4;1
 Iron Valiant;Pokemon;Psychic;130;;Gemini Laser|Zen Blade;TEF 79 (Uncommon);H;4;1
 Meditite;Pokemon;Fighting;70;;Slap|Kick;TEF 82 (Common);H;4;1
+Drilbur;Pokemon;Fighting;70;Dig Dig Dig;Sand Spray;TEF 85 (Common);H;4;0
 Mudbray;Pokemon;Fighting;80;;Smask Kick|Mud-Slap;TEF 91 (Common);H;4;1
 Carkol;Pokemon;Fighting;110;;Knock Away|Boulder Crush;TEF 94 (Common);H;4;1 # have 1 reverse foil
 Sandy Shocks;Pokemon;Fighting;120;;Magnetic Burst|Power Gem;TEF 98 (Uncommon);H;4;1
@@ -374,6 +375,7 @@ Hand Trimmer;Trainer;Item;;;;TEF 150 (Uncommon);H;4;1
 # Twilight Masquerade TWM
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare);H;4;0
+Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 
 # Shrouded Fable (SFA)
@@ -386,6 +388,7 @@ Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Spec
 
 # Surging Sparks
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
+Ceruledge ex;Pokemon;Fire;270;;Abyssal Flames|Raging Amethyst;SSP 36 (Double Rare)/PRE 147 (Special Illustration Rare);H;4;0
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
 Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;1;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;4;0
@@ -528,10 +531,15 @@ Hydreigon ex;Pokemon;Darkness;330;Greedy Eater;Dark Bite;WHT 67 (Double Rare)/WH
 Ferroseed;Pokemon;Metal;70;;Zzzt|Metal Claw;WHT 68 (Common)/WHT 148 (Illustration Rare);I;4;0
 Ferrothorn;Pokemon;Metal;140;;Power Whip|Metal Claw;WHT 69 (Uncommon)/WHT 149 (Illustration Rare);I;4;0
 Durant;Pokemon;Metal;110;;Bite Together|Vise Grip;WHT 70 (Uncommon)/WHT 150 (Illustration Rare);I;4;0
+Druddigon;Pokemon;Dragon;120;;Shred|Ambush;WHT 71 (Uncommon)/WHT 151 (Illustration Rare);I;4;0
+Patrat;Pokemon;Colorless;60;;Procurement|Gnaw;WHT 72 (Common)/WHT 152 (Illustration Rare);I;4;0
+Watchog;Pokemon;Colorless;90;;Focus Energy|Hyper Fang;WHT 73 (Uncommon)/WHT 153 (Illustration Rare);I;4;0
+Lillipup;Pokemon;Colorless;60;;Play Rough;WHT 74 (Common)/WHT 154 (Illustration Rare);I;4;0
+Herdier;Pokemon;Colorless;90;;Roar|Lunge Out;WHT 75 (Common)/WHT 155 (Illustration Rare);I;4;0
 
 Hilda;Trainer;Supporter;;;;WHT 84 (Uncommon)/WHT 164 (Ultra Rare)/WHT 171 (Special Illustration Rare);I;8;0
 
-# WHT 86-150 done
+# WHT 86-155 done
 # WHT 157-161 done
 # WHT 164-169 done 
 # WHT 171 done

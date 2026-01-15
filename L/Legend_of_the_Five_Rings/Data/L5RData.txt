@@ -1756,10 +1756,25 @@ Beiden Pass;Region;;Samurai Edition (Uncommon);Race for the Throne (Samurai);1;0
 Beiden Shadows;Region;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
 Beiko Sensei;Sensei;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);1;0
 Beiko Sensei;Sensei;;Shattered Empire (Fixed)/Road to Ruin (Fixed);Shattered Empire;1;0
+Bells of the Dead;Region;;The Dark Journey Home (Common);Hidden Emperor (Jade);3;0
+Belly of Fudo;Holding;;Promotional–Samurai (Promo);Destroyer War (Celestial);1;0
+Belly of Fudo;Holding;;Promotional–Samurai (Promo);Race for the Throne (Samurai);1;0
+Beloved of the Clan;Strategy;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
+Beloved of the Clan;Strategy;;The Heaven's Will (Rare);Race for the Throne (Samurai);3;0
 Bend Like a Reed • Experienced;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
+Bend like a Reed;Strategy;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
+Bend like a Reed;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
+Bend like a Reed;Strategy;;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
+Bend like a Reed;Strategy;;Time of the Void (Common);Clan Wars (Imperial);3;0
 Benefactor;Holding;;An Oni's Fury (Common);Four Winds (Gold);3;2
+Benefices of the Emperor;Event;;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
+Benefices of the Emperor;Event;;Honor Bound (Rare);Hidden Emperor (Jade);1;0
+Benefits of Experience;Strategy;;Promotional–Gold (Promo);Four Winds (Gold);3;0
+Benevolent Protection of Shinsei;Spell;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
 Benika Sensei;Sensei;;Evil Portents (Premium);A Brother's Destiny (Twenty Festivals);1;0
 Benika Sensei;Sensei;;Evil Portents (Premium);War of the Seals (Onyx Edition);1;1
+Benten's Blessing;Celestial;;Promotional–Celestial (Promo);Age of Conquest (Emperor);1;0
+Benten's Blessing;Celestial;;Promotional–Celestial (Promo);Destroyer War (Celestial);1;0
 Berserker Rage;Strategy;;Broken Blades (Rare);Four Winds (Gold);3;0
 Berserker Rage;Strategy;;Diamond Edition (Rare);Rain of Blood (Diamond);3;0
 Berserker Rage;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -2660,6 +2675,8 @@ Energy Transference;Spell;;Imperial Edition (Common)/Emerald Edition (Common)/Ob
 Enervation;Spell;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Enervation;Spell;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Enlistment;Event;;Gathering Storms (Fixed);Shattered Empire;1;0
+Ensorcelled Longsword;Item;;A Line in the Sand (Rare);A Brother's Destiny (Ivory Edition);3;0
+Ensorcelled Longsword;Item;;A Line in the Sand (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Entrapping Terrain;Strategy;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
 Entrapping Terrain;Strategy;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Entrapping Terrain;Strategy;;Jade Edition (Common)/Pearl Edition (Common)/Storms Over Matsu Palace (Fixed);Hidden Emperor (Jade);3;0
@@ -4537,6 +4554,10 @@ Ninube Kaede;Personality;Spider;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Ninube Kaede;Personality;Spider;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Ninube Shiho • Experienced;Personality;Spider;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Ninube Shiho • Experienced;Personality;Spider;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Ninube Shiho;Personality;Spider;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
+Ninube Shiho;Personality;Spider;Forgotten Legacy (Fixed);Destroyer War (Celestial);3;0
+Ninube Shiho;Personality;Spider;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Ninube Shiho;Personality;Spider;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Nishiguchi;Personality;Spider;Coils of Madness (Premium);A Brother's Destiny (Ivory Edition);3;2
 Nishiguchi;Personality;Spider;Coils of Madness (Premium);Age of Conquest (Emperor);3;1
 Nishoji,the Steel-Eyed;Personality;Crab;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
@@ -5995,6 +6016,8 @@ The Battle of Broken Wave City;Event;;Gathering Storms (Fixed);Shattered Empire;
 The Bite of Fire;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 The Bite of Fire;Spell;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 The Black Court;Sensei;;Chaos Reigns III (Fixed);Shattered Empire;1;0
+The Blessing;Event;;The Coming Storm (Rare);A Brother's Destiny (Ivory Edition);3;0
+The Blessing;Event;;The Coming Storm (Rare);A Brother's Destiny (Twenty Festivals);3;0
 The Blood Awakens;Spell;;Siege: Clan War (Fixed);Legacy;3;3
 The Boar Returns;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
 The Boundless Plains of the Unicorn;Stronghold;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
@@ -7059,9 +7082,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #950
-#955
-#960
+# Done through card #960
 #962
 #968-970
 #977
@@ -7468,6 +7489,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5572
 #5577
 #5581
+#5591
 #5599
 #5607
 #5611
@@ -8028,7 +8050,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11626-11627
 #11629
 #11631
-#11636
+#11636-11637
 #11645
 #11653
 #11657
@@ -8040,6 +8062,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11690
 #11697
 #11699
+#11711
 #11717
 #11722-11723
 #11736-11737
