@@ -113,6 +113,7 @@ def parse_sets(this_card_name, set_string):
             elif this_set in PRE_MODERN_SETS:
                 pass
             else:
+                print(f"For card [{this_card_name}]")
                 print(f"Unhandled set for modern check: {this_set}")
             ret_sets.append(this_set)
             ret_rarities.add(this_set_rarity)

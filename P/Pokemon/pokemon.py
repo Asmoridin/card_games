@@ -252,7 +252,7 @@ if __name__ == "__main__":
         used_colors.update(deck.deck_tags['colors'])
         PRINT_DECK_NAME = f"{deck.deck_name} ({'/'.join(sorted(deck.deck_tags['colors']))})"
         double_print(f" - {PRINT_DECK_NAME}: {deck.get_num_missing_cards()} cards", out_file_h)
-        for card_num, missing_qty in sorted(deck.deck_missing_cards.items()):
+        for card_num, missing_qty in sorted(deck.deck_missing_cards.items(), key=lambda x: card_mapping.get(x[0], x[0])):
             CARD_STR = f"    - {card_mapping.get(card_num, card_num)} ({card_num}): {missing_qty}"
             double_print(CARD_STR, out_file_h)
 
