@@ -182,6 +182,10 @@ Ayala;Personnel;Federation;Voyager;61;62;4;0
 Ayala;Personnel;Non-Aligned;Voyager;62;61;4;0
 Azet'izan;Personnel;Dominion;The Dominion;63;;4;0
 Azetbur;Personnel;Klingon;The Motion Pictures;686,7214;;2;0
+B'Elanna Daughter of Miral;Personnel;Klingon;Holodeck Adventures;719;;2;0
+B'Elanna Torres;Personnel;Federation;Voyager/Virtual Promos;720,5811;721,5812;2;0
+B'Elanna Torres;Personnel;Non-Aligned;Voyager/Virtual Promos;721,5812;720,5811;2;0
+B'Elanna;Personnel;Non-Aligned;The Borg;718;;2;0
 B'Etor;Personnel;Klingon;Premiere;431,3568,6028,6391,6754,7676,8040;;2;0
 B'iJik;Personnel;Klingon;Premiere;72,5978,6341,6704,7626;;4;0
 B'rel;Ship;Ferengi;Rules of Acquisition;83;;4;0
@@ -213,10 +217,17 @@ Bareil Antos;Personnel;Bajoran;Deep Space 9/Reflections;708,3609,4407;;2;0
 Bareil of Borg;Personnel;Borg;Enhanced First Contact;709;;2;0
 Bareil;Personnel;Bajoran;Mirror, Mirror/Virtual Promos;707,5176;;2;0
 Barry Waddle;Personnel;Non-Aligned;The Trouble with Tribbles;710;;2;0
+Baryon Buildup;Interrupt;;Alternate Universe;711;;4;0
+Barzan Wormhole;Doorway;;Voyager/Virtual Promos;715,5724;;4;0
+Baseball;Interrupt;;Deep Space 9/Virtual Promos;713,4489;;4;0
+Bashir Founder;Personnel;Dominion;Second Anthology/Virtual Promos;714,5496;;2;0
 Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
+Bat'leth;Equipment;;Blaze of Glory/Trouble with Tribbles Starter Decks;715,5252,5651,7123;;4;0
 Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703,7625;;4;0
+Battle Bridge Door;Doorway;;Blaze of Glory/BaH!/Virtual Promos;716,3699,5146;;4;0
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
 Battle Cruiser;Ship;Romulan;Mirror, Mirror;71;3067;4;0
+Baxial;Ship;Non-Aligned;Holodeck Adventures;717;;2;0
 Benjamin Maxwell;Personnel;Federation;Premiere;424,6027,6390,6753,7520,7675,8039;;2;0
 Benjamin Sisko;Personnel;Federation;Deep Space 9;425,3556;;2;0
 Berik;Personnel;Ferengi;Rules of Acquisition;426;;2;0
@@ -896,7 +907,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 710
+# Done through card 721
 #724
 #731
 #747
@@ -1086,6 +1097,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3627-3628
 #3632
 #3689
+#3699
 #3703-3705
 #3727
 #3730-3733
@@ -1147,6 +1159,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4470
 #4477
 #4485
+#4489
 #4565-4566
 #4594-4595
 #4597
@@ -1188,10 +1201,11 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4876
 #4892
 #4954
+#5146
 #5170-5171
 #5173
 #5176
-#5248-5251
+#5248-5252
 #5254-5255
 #5257
 #5259-5260
@@ -1203,6 +1217,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5435-5438
 #5449
 #5493
+#5496
 #5503-5505
 #5572
 #5591
@@ -1214,16 +1229,16 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5636-5637
 #5639-5644
 #5646
-#5648-5650
-#5652
+#5648-5652
 #5654-5656
 #5658
 #5719
 #5722
+#5724
 #5728
 #5731-5732
 #5809
-#5813-5815
+#5811-5815
 #5817
 #5822
 #5824
@@ -1439,7 +1454,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7048-7049
 #7051
 #7054-7058
-#7098-7122
+#7098-7123
 #7126
 #7128-7129
 #7131-7134
