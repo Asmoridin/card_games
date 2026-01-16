@@ -377,6 +377,8 @@ Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
+Secret Box;Trainer;Item;;;;TWM 163 (ACE SPEC Rare);H;2;0
+Legacy Energy;Energy;Special Energy;;;;TWM 167 (ACE SPEC Rare);H;2;0
 
 # Shrouded Fable (SFA)
 Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare);H;4;0
@@ -390,12 +392,13 @@ Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Spec
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
 Ceruledge ex;Pokemon;Fire;270;;Abyssal Flames|Raging Amethyst;SSP 36 (Double Rare)/PRE 147 (Special Illustration Rare);H;4;0
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
-Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;1;0
-Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;4;0
+Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;2;0
+Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # Prismatic Evolutions
 
 # Journey Together (JTG)
+Lillie's Clefairy ex;Pokemon;Psychic;190;Fairy Zone;Full Moon Rondo;JTG 56 (Double Rare)/JTG 173 (Ultra Rare)/JTG 184 (Special Illustration Rare)/SVP 195 (Promo);I;4;0
 Levincia;Trainer;Stadium;;;;JTG 150 (Uncommon)/DRI 244 (Hyper Rare);I;4;0
 
 # Destined Rivals (DRI)
@@ -536,11 +539,14 @@ Patrat;Pokemon;Colorless;60;;Procurement|Gnaw;WHT 72 (Common)/WHT 152 (Illustrat
 Watchog;Pokemon;Colorless;90;;Focus Energy|Hyper Fang;WHT 73 (Uncommon)/WHT 153 (Illustration Rare);I;4;0
 Lillipup;Pokemon;Colorless;60;;Play Rough;WHT 74 (Common)/WHT 154 (Illustration Rare);I;4;0
 Herdier;Pokemon;Colorless;90;;Roar|Lunge Out;WHT 75 (Common)/WHT 155 (Illustration Rare);I;4;0
+Stoutland;Pokemon;Colorless;160;;Odor Sleuth|Special Fang;WHT 76 (Uncommon)/WHT 156 (Illustration Rare);I;4;0
+Bouffalant ex;Pokemon;Colorless;220;Bouffer;Gold Breaker;WHT 77 (Double Rare)/WHT 162 (Ultra Rare)/WHT 170 (Special Illustration Rare);I;4;0
+Tornadus;Pokemon;Colorless;120;;Wrapped in Wind|Hurricane;WHT 78 (Rare)/SVP 210 (Promo);I;4;0
+Antique Plume Fossil;Trainer;Item;;;;WHT 79 (Common);I;4;0
+Brave Bangle;Trainer;Pokemon Tool;;;;WHT 80 (Uncommon);I;4;0
 
 Hilda;Trainer;Supporter;;;;WHT 84 (Uncommon)/WHT 164 (Ultra Rare)/WHT 171 (Special Illustration Rare);I;8;0
 
-# WHT 86-155 done
-# WHT 157-161 done
-# WHT 164-169 done 
-# WHT 171 done
+# WHT 86-162 done
+# WHT 164-171 done 
 # WHT 173 done - end of list
