@@ -205,10 +205,12 @@ if __name__ == "__main__":
     # And then print out the top 10 games by how far off that goal we are
     game_progress = []
     TOTAL_PLAYS = 0
+    completed_games = []
     for game_name, goal_plays in game_goals.items():
         current_plays = current_year_plays.get(game_name, 0)
         if current_plays >= goal_plays:
             TOTAL_PLAYS += goal_plays
+            completed_games.append(game_name)
             continue
         expected_plays = goal_plays * year_progress
         TOTAL_PLAYS += current_plays
@@ -234,5 +236,8 @@ if __name__ == "__main__":
         f"played {expected_pace:.2f} games. You are {'ahead' if pace_diff >= 0 else 'behind'} " + \
         f"pace by {abs(pace_diff):.2f} plays."
     double_print(pace_string, out_file_h)
+    double_print(f"Completed Games List: ({len(completed_games)})", out_file_h)
+    for comp_game in completed_games:
+        double_print(f"- {comp_game}", out_file_h)
 
     out_file_h.close()
