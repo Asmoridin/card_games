@@ -1779,6 +1779,8 @@ Berserker Rage;Strategy;;Broken Blades (Rare);Four Winds (Gold);3;0
 Berserker Rage;Strategy;;Diamond Edition (Rare);Rain of Blood (Diamond);3;0
 Berserker Rage;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Berserker Rage;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
+Berserker's Charge;Strategy;;The Truest Test (Uncommon);Age of Enlightenment (Lotus);3;0
+Berserker's Charge;Strategy;;The Truest Test (Uncommon);Race for the Throne (Samurai);3;0
 Berserkers;Follower;;Celestial Edition (Uncommon)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
 Berserkers;Follower;;Lotus Edition (Uncommon);Age of Enlightenment (Lotus);3;0
 Berserkers;Follower;;Promotional–Twenty Festivals (Promo);A Brother's Destiny (Twenty Festivals);3;0
@@ -1790,6 +1792,14 @@ Beset from All Sides;Strategy;;A Line in the Sand (Rare);A Brother's Destiny (Iv
 Beset from All Sides;Strategy;;A Line in the Sand (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Beset from All Sides;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Beset from All Sides;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
+Besieged Borderland;Region;;Path of the Destroyer (Common)/Celestial Edition 15th Anniversary (Common);Destroyer War (Celestial);3;0
+Besieged;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
+Besieged;Strategy;;Words and Deeds (Rare);Race for the Throne (Samurai);1;0
+Bestial Rage;Strategy;;The Dead of Winter (Uncommon);Destroyer War (Celestial);3;0
+Betrayal;Strategy;;Hidden Emperor 2 (Uncommon);Hidden Emperor (Jade);3;0
+Betrayal;Strategy;;Lotus Edition (Uncommon);Age of Enlightenment (Lotus);3;0
+Beyond the Line;Strategy;;Before the Dawn (Common);Age of Conquest (Emperor);3;0
+Beyond the Line;Strategy;;Before the Dawn (Common);Destroyer War (Celestial);3;0
 Bhakarash;Personality;Naga;Soul of the Empire (Common);Hidden Emperor (Jade);4;4
 Bhaya;Personality;Naga;Hidden Forest War (Fixed);War of the Seals (Onyx Edition);3;0
 Bide Your Time;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
@@ -2061,6 +2071,9 @@ Chuda Tairao, Soul of Chuda Rintaro;Personality;Spider;Ivory Edition (Uncommon);
 Chuda Tairao, Soul of Chuda Rintaro;Personality;Spider;Shattered Empire (Fixed);Shattered Empire;3;0
 Chuda Yabe;Personality;Spider;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Chuda Yabe;Personality;Spider;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
+Chugo Seido;Holding;;Death at Koten (Fixed)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
+Chugo Seido;Holding;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
+Chugo Seido;Holding;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
 City of Empty Dreams;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 City of Living Flames;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 City of Loyalty;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
@@ -2309,6 +2322,8 @@ Daigotsu Hashibei • Experienced;Personality;Spider;Rise of Jigoku (Fixed);Shat
 Daigotsu Hashibei • Experienced;Personality;Spider;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Daigotsu Hiromu;Personality;Spider;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Daigotsu Hiromu;Personality;Spider;Shattered Empire (Fixed);Shattered Empire;3;0
+Daigotsu Hotako • Experienced 3;Personality;Spider;Second City (Rare);Age of Conquest (Emperor);1;0
+Daigotsu Hotako • Experienced 3;Personality;Spider;Second City (Rare);Destroyer War (Celestial);1;0
 Daigotsu Isoroku • Experienced;Personality;Spider;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Daigotsu Kanpeki • Experienced 5;Personality;Spider;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Daigotsu Konishi;Personality;Spider;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
@@ -5437,6 +5452,11 @@ Shinobi Vassal;Follower;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edi
 Shinobi Vassal;Follower;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;2
 Shinomen Defenders;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shinomen Defenders;Follower;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Shinomen Marsh;Holding;;Celestial Edition (Fixed);Destroyer War (Celestial);3;0
+Shinomen Marsh;Holding;;Emperor Edition (Fixed)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
+Shinomen Marsh;Holding;;Ivory Edition (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Shinomen Marsh;Holding;;Ivory Edition (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Shinomen Marsh;Holding;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
 Shinomen Village;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shinomen Village;Holding;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Shinsei's Heart;Holding;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
@@ -7082,9 +7102,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #960
-#962
-#968-970
+# Done through card #970
 #977
 #981-982
 #989
@@ -7136,6 +7154,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #1339
 #1341
 #1358
+#1373
 #1385
 #1388-1389
 #1393-1394
@@ -7170,6 +7189,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #1606
 #1667
 #1671
+#1726
 #1791-1792
 #1797-1798
 #1837
@@ -7639,6 +7659,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6966-6967
 #6970
 #6976
+#6984
 #6999
 #7006-7007
 #7029
