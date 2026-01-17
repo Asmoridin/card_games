@@ -15,6 +15,7 @@ GAME_NAME = "Union Arena"
 valid_types = ['Character', 'Event', 'Site', 'Action Point']
 valid_colors = ['Green', 'Yellow', 'Blue', 'Purple', 'Red']
 valid_rarities = ['C', 'U', 'R', 'SR', 'SP', ]
+VALID_TRIGGERS = ['', 'Active', 'Draw', 'Color', 'Raid', 'Special', 'Final', 'Get']
 
 FILE_PREFIX = "card_games\\U\\Union_Arena"
 DECK_PREFIX = FILE_PREFIX + "\\Decks"
@@ -121,6 +122,9 @@ for line in lines:
         card_ap = ''
 
     card_sets = card_sets.split('/')
+
+    if card_triggers not in VALID_TRIGGERS:
+        print(f"Invalid card trigger {card_triggers} for {card_name}")
 
     card_own = int(card_own)
 
