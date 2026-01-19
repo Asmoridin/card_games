@@ -1808,10 +1808,22 @@ Big Stink;Region;;Hidden Emperor 6 (Uncommon);Hidden Emperor (Jade);1;0
 Big Stink;Region;;Lotus Edition (Rare);Age of Enlightenment (Lotus);1;0
 Binasa • Experienced;Personality;Naga;Shattered Empire (Fixed);Shattered Empire;1;0
 Binasa;Personality;Naga;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
+Binding Contract;Item;;Honor's Veil (Uncommon);Race for the Throne (Samurai);3;0
+Binding Kharma;Spell;;Wrath of the Emperor (Rare);Rain of Blood (Diamond);3;0
+Birth and Death;Event;;Reign of Blood (Rare);Rain of Blood (Diamond);1;0
+Birth of the Anvil;Event;;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
+Birth of the Anvil;Event;;The War of Spirits (Rare);Hidden Emperor (Jade);1;0
+Birth of the Blood Heir;Event;;Khan's Defiance (Uncommon);Age of Enlightenment (Lotus);1;0
+Birth of the Blood Heir;Event;;Khan's Defiance (Uncommon);Race for the Throne (Samurai);1;0
+Birth of the New Hantei;Event;;1,000 Years of Darkness (Fixed);Legacy;1;0
 Birth of the Sword;Event;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Birth of the Sword;Event;;The War of Spirits (Rare);Hidden Emperor (Jade);1;0
+Birth of the Wolf;Event;;The War of Spirits (Rare);Hidden Emperor (Jade);1;0
 Bisa;Personality;Naga;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Bisala;Personality;Naga;Hidden Forest War (Fixed);War of the Seals (Onyx Edition);3;0
+Bishamon's Fury;Spell;;Web of Lies (Uncommon);Age of Enlightenment (Lotus);3;0
+Bishamon's Fury;Spell;;Web of Lies (Uncommon);Rain of Blood (Diamond);3;0
+Bishamon's Guidance;Celestial;;Empire at War (Rare);Destroyer War (Celestial);1;0
 Bishamon's Tower;Stronghold;Crab;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);1;0
 Biting Steel;Spell;;Gold Edition (Common);Four Winds (Gold);3;0
 Biting Steel;Spell;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
@@ -3900,6 +3912,8 @@ Knife in the Darkness;Strategy;;Samurai Edition (Uncommon);Race for the Throne (
 Knife in the Darkness;Strategy;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Knife in the Darkness;Strategy;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
 Knife in the Darkness;Strategy;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
+Know No Fear;Strategy;;Second City (Uncommon)/Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
+Know No Fear;Strategy;;Second City (Uncommon);Destroyer War (Celestial);3;0
 Know the Enemy;Strategy;;An Oni's Fury (Rare);Four Winds (Gold);3;0
 Know Your Place;Strategy;;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Knowing Lands and Giving Trees;Region;;The War of Spirits (Uncommon);Four Winds (Gold);3;0
@@ -5284,6 +5298,7 @@ Seppun Remnants;Follower;;Gates of Tengoku (Fixed);Shattered Empire;3;0
 Seppun Teshan;Personality;Unaligned;The Coming Storm (Common);A Brother's Destiny (Ivory Edition);3;0
 Seppun Teshan;Personality;Unaligned;The Coming Storm (Common);A Brother's Destiny (Twenty Festivals);3;3
 Seppun Toshiken • Experienced 2;Personality;Toturi's Army;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
+Serenity in Air;Strategy;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);3;0
 Servitors of Wind;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Servitors of Wind;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
 Seska;Personality;Naga;Road to Ruin (Fixed);Shattered Empire;3;0
@@ -6196,6 +6211,11 @@ The Mountain Keep of the Dragon;Stronghold;Dragon;Imperial Edition (Fixed)/Emera
 The Mountain Keep of the Dragon;Stronghold;Dragon;Pearl Edition (Fixed)/Jade Edition (Fixed)/Siege of Sleeping Mountain (Fixed)/Promotional–Jade (Promo);Hidden Emperor (Jade);1;0
 The Nameless One • Experienced;Personality;Phoenix;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
 The Nameless One • Experienced;Personality;Phoenix;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
+The New Order;Event;;Celestial Edition (Uncommon);Destroyer War (Celestial);1;0
+The New Order;Event;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);1;0
+The New Order;Event;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);1;0
+The New Order;Event;;Winds of Change (Rare);Four Winds (Gold);1;0
+The New Order;Event;;Winds of Change (Rare);Rain of Blood (Diamond);1;0
 The Palatial Estate of the Crane;Stronghold;Crane;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 The Palatial Estate of the Crane;Stronghold;Crane;Shattered Empire (Fixed);Shattered Empire;1;0
 The Path of Violence;Ring;;Chaos Reigns II (Fixed);Shattered Empire;1;0
@@ -7102,8 +7122,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #970
-#977
+# Done through card #980
 #981-982
 #989
 #991
@@ -7396,8 +7415,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4400
 #4434
 #4451
-#4480
-#4482
+#4480-4482
 #4490
 #4494
 #4500
@@ -7776,6 +7794,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8169
 #8223
 #8226
+#8235
 #8257
 #8269
 #8275
@@ -7930,6 +7949,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9893
 #9895
 #9908
+#9926
 #9933
 #9945
 #9974
