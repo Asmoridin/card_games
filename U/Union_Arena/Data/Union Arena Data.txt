@@ -40,7 +40,7 @@ Action Point Card (AP01);;KJ8-1-AP01;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
 Action Point Card (AP01);;KJ8-AP01;R;Action Point;;;;Promotional Card;;0
 Action Point Card (AP01);;KMY-3-AP01;R;Action Point;;;;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];;0
 Action Point Card (AP01);;KMY-AP01;R;Action Point;;;;Promotional Card;;0
-Action Point Card (AP01);;NIK-1-AP01;R;Action Point;;;;Goddess of Victory: Nikke [UE14BT];;1
+Action Point Card (AP01);;NIK-1-AP01;R;Action Point;;;;Goddess of Victory: Nikke [UE14BT];;2
 Action Point Card (AP01);;NIK-AP01;R;Action Point;;;;Promotional Card;;0
 Action Point Card (AP01);;OPM-1-AP01;C;Action Point;;;;One-Punch Man [UE06ST];;0
 Action Point Card (AP01);;OPM-1-AP01;R;Action Point;;;;One-Punch Man [UE06BT];;0
@@ -551,7 +551,7 @@ Edward Elric;;FMA-1-010;U;Character;Yellow;1;1;Fullmetal Alchemist [UE09BT];;4
 Edward Elric;;FMA-1-011;R;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];Draw;4
 Edward Elric;;FMA-1-012;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09BT];Raid;2
 Edward Elric;;FMA-1-039;U;Character;Blue;2;1;Fullmetal Alchemist [UE09BT];;4
-Edward Elric;;FMA-1-040;SR;Character;Blue;4;1;Fullmetal Alchemist [UE09BT];Draw;2
+Edward Elric;;FMA-1-040;SR;Character;Blue;4;1;Fullmetal Alchemist [UE09BT];Draw;3
 Edward Elric;;FMA-1-102;U;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST];;4
 Edward Elric;;FMA-1-103;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09ST];Raid;4
 Eeta;;HTR-1-002;U;Character;Blue;1;1;Hunter × Hunter [UE02BT];;0
@@ -560,7 +560,7 @@ Eiji;SAO Survivor;SAO-2-034;U;Character;Purple;2;1;Sword Art Online Vol.2 [UEX06
 Eld Gin;Levi Squad;AOT-1-004;C;Character;Blue;0;1;Attack on Titan [UE10BT];Active;0
 Elder Toguro;;YYH-1-022;SR;Character;Purple;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
 Eldrie Synthesis Thirty-One;Integrity Knights;SAO-1-014;C;Character;Yellow;2;1;Sword Art Online [UE07BT];Draw;0
-Elegg;Missilis/Electric Shock;NIK-P-003;R;Character;Green;3;1;Goddess of Victory: Nikke [UE14BT];Active;2
+Elegg;Missilis/Electric Shock;NIK-P-003;R;Character;Green;3;1;Goddess of Victory: Nikke [UE14BT];Active;3
 Elena;;HTR-1-003;U;Character;Blue;2;1;Hunter × Hunter [UE02BT];;1
 Ember Insects;;JJK-1-095;C;Event;Purple;4;1;Jujutsu Kaisen [UE03BT];Draw;0
 Emergency Meeting;;BCV-1-109;U;Site;Red;2;1;Black Clover [UE08ST];Get;0
@@ -572,7 +572,7 @@ Encounter;;NIK-1-098;U;Event;Green;3;1;Goddess of Victory: Nikke [UE14BT];Final;
 Enmu;Lower Rank Demon;KMY-1-044;C;Character;Purple;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Enmu;Lower Rank Demon;KMY-1-045;R;Character;Purple;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
 Envy;Homunculus;FMA-1-075;C;Character;Purple;0;1;Fullmetal Alchemist [UE09BT];Get;4
-Envy;Homunculus;FMA-1-076;R;Character;Purple;2;1;Fullmetal Alchemist [UE09BT];;2
+Envy;Homunculus;FMA-1-076;R;Character;Purple;2;1;Fullmetal Alchemist [UE09BT];;3
 Envy;Homunculus;FMA-1-077;SR;Character;Purple;4;1;Fullmetal Alchemist [UE09BT];Raid;2
 Epinel;Missilis/Nepenthe;NIK-1-093;U;Character;Green;1;1;Goddess of Victory: Nikke [UE14BT];;4
 Equivalent Exchange;;FMA-1-031;U;Event;Yellow;3;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Final;4
@@ -621,7 +621,7 @@ Exia;Tetra Line/Protocol;NIK-1-080;C;Character;Green;3;1;Goddess of Victory: Nik
 Eyelashes & Wild Monkey;Hero;OPM-1-024;C;Character;Yellow;3;1;One-Punch Man [UE06BT];;0
 Family Vows;;HTR-2-060;C;Event;Purple;2;1;Hunter × Hunter Vol.2 [UEX04BT];Active;1
 Fanatio Synthesis Two;Integrity Knights;SAO-1-016;C;Character;Yellow;3;1;Sword Art Online [UE07BT];Draw;0
-Father;Homunculus;FMA-1-078;U;Character;Purple;1;1;Fullmetal Alchemist [UE09BT];;2
+Father;Homunculus;FMA-1-078;U;Character;Purple;1;1;Fullmetal Alchemist [UE09BT];;3
 Father;Homunculus;FMA-1-079;SR;Character;Purple;4;2;Fullmetal Alchemist [UE09BT];Get;0
 Father;Homunculus;FMA-1-112;R;Character;Purple;4;2;Fullmetal Alchemist [UE09ST];Active;3
 Fear My Jagan Eye!;;YYH-1-098;U;Event;Red;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;1
@@ -642,7 +642,7 @@ Found You;;KJ8-1-080;C;Event;Green;1;1;Kaiju No. 8 [UE12BT];Draw;0
 Franklin;Phantom Troupe;HTR-1-046;C;Character;Purple;3;1;Hunter × Hunter [UE02BT];Active;0
 Freyja;ALO;SAO-2-067;C;Character;Green;0;1;Sword Art Online Vol.2 [UEX06BT];Active;0
 Fuegoleon Vermillion;Crimson Lion Kings;BCV-1-039;R;Character;Green;4;1;Black Clover [UE08BT];Active;0
-Fullmetal Alchemist;;FMA-1-033;U;Event;Yellow;4;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Special;4
+Fullmetal Alchemist;;FMA-1-033;U;Event;Yellow;4;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Special;4 # have 4 starter, 3 booster
 Ganju Shiba;;BLC-2-022;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Ganymede;Ashford Academy/KMF;CGH-1-093;U;Character;Red;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Garou;;OPM-1-073;C;Character;Red;0;1;One-Punch Man [UE06BT];Active;0
@@ -1339,7 +1339,7 @@ Metal Bat;Hero;OPM-1-043;U;Character;Green;2;1;One-Punch Man [UE06BT];Color;1
 Metal Bat;Hero;OPM-1-044;SR;Character;Green;4;1;One-Punch Man [UE06BT];Color;0
 Metal Knight;Hero;OPM-1-059;C;Character;Green;3;1;One-Punch Man [UE06BT];;0
 Midori Kitakami;WILLE;EVA-1-047;C;Character;Purple;3;1;Evangelion: New Theatrical Edition [UE15BT];;0
-Mihara;Missilis/Wardress;NIK-1-024;U;Character;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];;3
+Mihara;Missilis/Wardress;NIK-1-024;U;Character;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];;4
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-023;C;Character;Blue;0;1;Attack on Titan [UE10BT];Draw;0
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-024;U;Character;Blue;3;1;Attack on Titan [UE10BT];Draw;0
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-025;R;Character;Blue;4;2;Attack on Titan [UE10BT];Active;0
