@@ -228,6 +228,8 @@ Battle Bridge Door;Doorway;;Blaze of Glory/BaH!/Virtual Promos;716,3699,5146;;4;
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
 Battle Cruiser;Ship;Romulan;Mirror, Mirror;71;3067;4;0
 Baxial;Ship;Non-Aligned;Holodeck Adventures;717;;2;0
+Bendii Syndrome;Dilemma;Dual;Q Continuum;722;;4;0
+Benil;Personnel;Cardassian;Rules of Acquisition;723;;2;0
 Benjamin Maxwell;Personnel;Federation;Premiere;424,6027,6390,6753,7520,7675,8039;;2;0
 Benjamin Sisko;Personnel;Federation;Deep Space 9;425,3556;;2;0
 Berik;Personnel;Ferengi;Rules of Acquisition;426;;2;0
@@ -247,6 +249,12 @@ Birta;Personnel;Ferengi;Rules of Acquisition;440;;2;0
 Birth of "Junior";Dilemma;Space;Premiere;441,6756,4040,6030,6393,7678,8042;;4;1
 Black Hole;Doorway;;Fajo Collection;442,5827;;4;0
 Blade of Tkon;Artifact;;Q Continuum;724;;2;1
+Blended;Dilemma;Planet;First Contact/Homefront;725,3486;;4;0
+Blood Oath;Incident;;Blaze of Glory/Virtual Promos;726,4880;;4;0
+Blood Screening;Event;;Mirror, Mirror;727;;4;0
+Blue Alert;Incident;;Voyager;728;;4;0
+Bluegill Infestation;Incident;;All Good Things/Virtual Promos;729,4568,8407,8448;;4;0
+Boarding Party;Objective;;Voyager;730;;4;0
 Bochra;Personnel;Romulan;Premiere;731,6066,7714,6429,6792;;2;1
 Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
 Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;0
@@ -907,8 +915,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 721
-#724
+# Done through card 730
 #731
 #747
 #775
@@ -1072,7 +1079,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3404-3405
 #3407
 #3476
-#3487-3490
+#3486-3490
 #3492
 #3495
 #3501
@@ -1161,6 +1168,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4485
 #4489
 #4565-4566
+#4568
 #4594-4595
 #4597
 #4658
@@ -1199,6 +1207,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4871
 #4873-4874
 #4876
+#4880
 #4892
 #4954
 #5146
@@ -1605,3 +1614,5 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8334-8335
 #8337
 #8363
+#8407
+#8448
