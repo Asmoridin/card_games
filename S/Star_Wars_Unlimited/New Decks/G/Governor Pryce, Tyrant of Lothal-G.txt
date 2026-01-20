@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "name": "Token Domination!",
+    "author": "SealeysonSW"
+  },
+  "leader": {
+    "id": "SEC_011",
+    "count": 1
+  },
+  "base": {
+    "id": "SOR_023",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "SEC_083",
+      "count": 3
+    },
+    {
+      "id": "JTL_085",
+      "count": 3
+    },
+    {
+      "id": "JTL_158",
+      "count": 3
+    },
+    {
+      "id": "JTL_142",
+      "count": 3
+    },
+    {
+      "id": "JTL_116",
+      "count": 3
+    },
+    {
+      "id": "TWI_140",
+      "count": 2
+    },
+    {
+      "id": "JTL_081",
+      "count": 3
+    },
+    {
+      "id": "JTL_122",
+      "count": 3
+    },
+    {
+      "id": "JTL_082",
+      "count": 3
+    },
+    {
+      "id": "SEC_082",
+      "count": 3
+    },
+    {
+      "id": "SEC_092",
+      "count": 2
+    },
+    {
+      "id": "SOR_092",
+      "count": 3
+    },
+    {
+      "id": "TWI_079",
+      "count": 2
+    },
+    {
+      "id": "SHD_135",
+      "count": 3
+    },
+    {
+      "id": "JTL_084",
+      "count": 3
+    },
+    {
+      "id": "SOR_162",
+      "count": 2
+    },
+    {
+      "id": "JTL_115",
+      "count": 3
+    },
+    {
+      "id": "SEC_172",
+      "count": 3
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "SOR_173",
+      "count": 3
+    },
+    {
+      "id": "SEC_126",
+      "count": 2
+    },
+    {
+      "id": "TWI_174",
+      "count": 3
+    },
+    {
+      "id": "SEC_092",
+      "count": 1
+    },
+    {
+      "id": "SOR_162",
+      "count": 1
+    }
+  ]
+}
