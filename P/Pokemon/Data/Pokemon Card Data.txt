@@ -470,12 +470,15 @@ Secret Box;Trainer;Item;;;;TWM 163 (ACE SPEC Rare);H;2;0
 Legacy Energy;Energy;Special Energy;;;;TWM 167 (ACE SPEC Rare);H;2;0
 
 # Shrouded Fable (SFA)
+Galvantula;Pokemon;Grass;100;Compound Eyes;Shocking Web;SFA 2 (Uncommon);H;4;0
 Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare);H;4;0
 Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (Ultra Rare);H;8;2
+Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
 
 # Stellar Crown
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common);H;4;0
 Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
+Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Uncommon)/PRE 171 (Special Illustration Rare);H;4;0
 
 # Surging Sparks
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
@@ -548,7 +551,23 @@ Team Rocket's Bother-Bot;Trainer;Item;;;;DRI 172 (Uncommon);I;4;4
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
 
 # Black Bolt
+Snivy;Pokemon;Grass;70;;Tackle|Vine Whip;BLK 1 (Common)/BLK 87 (Illustration Rare);I;4;0
+Servine;Pokemon;Grass;100;;Wrap|Vine Whip;BLK 2 (Common)/BLK 88 (Illustration Rare);I;4;0
+Serperior ex;Pokemon;Grass;320;Regal Cheer;Command the Grass;BLK 3 (Double Rare)/BLK 156 (Ultra Rare)/BLK 164 (Special Illustration Rare);I;4;0
+Pansage;Pokemon;Grass;70;;Collect|Scratch;BLK 4 (Common)/BLK 89 (Illustration Rare);I;4;0
+Simisage;Pokemon;Grass;100;;Gentle Slap;BLK 5 (Uncommon)/BLK 90 (Illustration Rare);I;4;0
+
 Victini;Pokemon;Fire;80;;V-Force;BLK 12 (Rare)/SVP 208 (Promo)/BLK 171 (Black White Rare)/WHT 172 (Black White Rare);I;4;0
 Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
+
+# BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
+
+# BLK 87-90 done
+# BLK 156 done
+# BLK 161 done
+# BLK 164 done
+# BLK 169 done
+# BLK 171 done
+# Ends BLK 172 (86 last new card)
