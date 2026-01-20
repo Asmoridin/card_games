@@ -206,6 +206,10 @@ if __name__ == "__main__":
     game_progress = []
     TOTAL_PLAYS = 0
     completed_games = []
+    for game_name, _ in current_year_plays.items():
+        if game_name not in game_goals:
+            # Game not played last year, so no goal
+            completed_games.append(game_name)
     for game_name, goal_plays in game_goals.items():
         current_plays = current_year_plays.get(game_name, 0)
         if current_plays >= goal_plays:
