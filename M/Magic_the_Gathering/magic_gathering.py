@@ -611,10 +611,6 @@ for card in raw_list:
         VALID_CARD = False
     if VALID_CARD:
         PLAYABLE_CARDS += 1
-    if 'Vintage' not in card[6]:
-        if 'Premodern' not in card[6]:
-            print("No Vintage?")
-            print(card)
 
 if __name__ == "__main__":
     out_file_h = open(FILE_PREFIX + "/MTGOut.txt", 'w', encoding="UTF-8")

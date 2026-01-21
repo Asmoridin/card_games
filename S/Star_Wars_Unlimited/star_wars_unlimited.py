@@ -42,6 +42,8 @@ def process_card_set(card_set_in):
             check_card_set = 'Legends of the Force'
         elif check_card_set == 'SEC':
             check_card_set = 'Secrets of Power'
+        elif check_card_set == 'IBH':
+            check_card_set = 'Intro Battle: Hoth'
         else:
             print(f"Unknown card set {check_card_set}")
             return [[], []]
@@ -70,9 +72,34 @@ def convert_colors(in_color):
             return []
     return ret_list
 
-def parse_deck(deck_lines, collection_dict_in, in_card_ids):
+def parse_deck(deck_lines, collection_dict_in, in_correction_dict):
     """
-    Take a list of lines from a deck that has een read in, and convert the lines
+    Take a list of lines from a deck that has been read in, and convert the lines
+    into an output dictionary
+    """
+    deck_lines = [line.strip() for line in deck_lines]
+    ret_dict = {}
+    for deck_line in deck_lines:
+        if deck_line == '' or deck_line.startswith('#'):
+            continue
+        if deck_line in ['Leader', 'Base', 'MainDeck', 'Sideboard']:
+            continue
+        this_card_qty = deck_line.split(' ')[0]
+        this_card_name = ' '.join(deck_line.split(' ')[1:])
+        this_card_qty = int(this_card_qty)
+        this_card_name = this_card_name.replace(' | ', ', ')
+        this_card_name = in_correction_dict.get(this_card_name, this_card_name)
+        if this_card_name not in collection_dict_in:
+            print("Unknown card: " + this_card_name)
+        if this_card_name not in ret_dict:
+            ret_dict[this_card_name] = 0
+        ret_dict[this_card_name] += this_card_qty
+
+    return ret_dict
+
+def parse_deck_json(deck_lines, collection_dict_in, in_card_ids):
+    """
+    Take a list of lines from a deck that has been read in, and convert the lines
     into an output dictionary
     """
     ret_dict = {}
@@ -121,11 +148,24 @@ FILE_PREFIX = "card_games/S/Star_Wars_Unlimited"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "S/Star_Wars_Unlimited"
 
-DECK_DIR = FILE_PREFIX + '/Decks'
+CURRENT_FORMAT = "06 - Secrets of Power"
+DECK_DIR = FILE_PREFIX + '/Decks/' + CURRENT_FORMAT
 with open(FILE_PREFIX + '/Data/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8") as sw_data_file:
     lines = sw_data_file.readlines()
 
 lines = [line.strip() for line in lines]
+
+CORRECTION_FILE = FILE_PREFIX + '/Data/SWU Deck Card Corrections.txt'
+with open(CORRECTION_FILE, 'r', encoding="UTF-8") as correction_file_h:
+    correction_lines = correction_file_h.readlines()
+
+correction_dict = {}
+for c_line in correction_lines:
+    c_line = c_line.strip()
+    if c_line == '' or c_line.startswith('#'):
+        continue
+    wrong_name, correct_name = c_line.split(';')
+    correction_dict[wrong_name.strip()] = correct_name.strip()
 
 item_list = []
 TOTAL_MAX = 0
@@ -239,13 +279,17 @@ for letter_start in os.listdir(DECK_DIR):
         deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
         this_deck_lines = deck_file_h.readlines()
         deck_file_h.close()
-        this_deck_dict = parse_deck(this_deck_lines, collection_dict, card_id_dict)
+        if CURRENT_FORMAT != "06 - Secrets of Power":
+            this_deck_dict = parse_deck_json(this_deck_lines, collection_dict, card_id_dict)
+        else:
+            this_deck_dict = parse_deck(this_deck_lines, collection_dict, correction_dict)
         missing_cards = determine_missing(this_deck_dict, collection_dict)
+        total_missing = sum(missing_cards.values())
         if len(missing_cards) == 0:
             done_decks.append(file_name)
         else:
-            if len(missing_cards) < MIN_DECK_SIZE:
-                MIN_DECK_SIZE = len(missing_cards)
+            if total_missing < MIN_DECK_SIZE:
+                MIN_DECK_SIZE = total_missing
                 MIN_DECK_NAME = file_name
                 MIN_DECK_CARDS = missing_cards
         for missing_card, missing_card_qty in missing_cards.items():
