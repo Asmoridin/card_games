@@ -208,8 +208,9 @@ if __name__ == "__main__":
     completed_games = []
     for game_name, _ in current_year_plays.items():
         if game_name not in game_goals:
-            # Game not played last year, so no goal
-            completed_games.append(game_name)
+            # Game not played last year, so just make it a goal of 1
+            game_goals[game_name] = 1
+            TOTAL_PLAYS_GOAL += 1
     for game_name, goal_plays in game_goals.items():
         current_plays = current_year_plays.get(game_name, 0)
         if current_plays >= goal_plays:
@@ -241,7 +242,7 @@ if __name__ == "__main__":
         f"pace by {abs(pace_diff):.2f} plays."
     double_print(pace_string, out_file_h)
     double_print(f"Completed Games List: ({len(completed_games)})", out_file_h)
-    for comp_game in completed_games:
+    for comp_game in sorted(completed_games):
         double_print(f"- {comp_game}", out_file_h)
 
     out_file_h.close()

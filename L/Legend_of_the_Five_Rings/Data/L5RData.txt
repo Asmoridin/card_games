@@ -1872,7 +1872,21 @@ Blacksmiths;Holding;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Blacksmiths;Holding;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Blacksmiths;Holding;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;2
 Blacksmiths;Holding;;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
+Blacksteel Blade;Item;;An Oni's Fury (Common);Four Winds (Gold);3;0
+Blade of Awe;Item;;Words and Deeds (Rare);Race for the Throne (Samurai);1;0
+Blade of Champions;Item;;Second City (Rare);Age of Conquest (Emperor);1;0
+Blade of Champions;Item;;Second City (Rare);Destroyer War (Celestial);1;0
 Blade of Fury;Item;;Hidden City (Common);Rain of Blood (Diamond);3;1
+Blade of Guile;Item;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
+Blade of Guile;Item;;Khan's Defiance (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;0
+Blade of Guile;Item;;Khan's Defiance (Rare);Age of Enlightenment (Lotus);3;0
+Blade of Hubris;Item;;Drums of War (Rare);Age of Enlightenment (Lotus);3;0
+Blade of Hubris;Item;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
+Blade of Kaiu;Item;;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
+Blade of Kaiu;Item;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Blade of Penance;Item;;Reign of Blood (Rare);Rain of Blood (Diamond);3;0
+Blade of Perfection;Item;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
+Blade of Perfection;Item;;Empire at War (Common);Destroyer War (Celestial);3;0
 Blade of Secrets;Item;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Blade of Secrets;Item;;Hidden Emperor 5 (Rare);Hidden Emperor (Jade);1;0
 Blade of Storms;Spell;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
@@ -2125,6 +2139,7 @@ Cleave the Chaff;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);
 Clever Strategist;Follower;;Road to Ruin (Fixed);Shattered Empire;3;0
 Clever Strategist;Follower;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Cliffs of Golden Tears;Region;;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;3
+Closing the Gap;Strategy;;Promotional–Emperor (Promo);Age of Conquest (Emperor);1;0
 Coastal Lane;Holding;;A Line in the Sand (Rare);A Brother's Destiny (Ivory Edition);3;0
 Coastal Lane;Holding;;A Line in the Sand (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Coastal Region;Region;;An Oni's Fury (Uncommon);Four Winds (Gold);3;1
@@ -2991,8 +3006,8 @@ Fudo's Fiends;Follower;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
 Fudo's Fiends;Follower;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Fudoist Advisor;Holding;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;2
 Fudoist Advisor;Holding;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;0
-Fukuzo • Experienced;Personalty;Spider;Second City (Rare);Age of Conquest (Emperor);1;0
-Fukuzo • Experienced;Personalty;Spider;Second City (Rare);Destroyer War (Celestial);1;0
+Fukuzo • Experienced;Personality;Spider;Second City (Rare);Age of Conquest (Emperor);1;0
+Fukuzo • Experienced;Personality;Spider;Second City (Rare);Destroyer War (Celestial);1;0
 Fusako Sensei;Sensei;;Rise of Jigoku (Fixed);Shattered Empire;1;0
 Fusako Sensei;Sensei;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);1;0
 Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Four Winds (Gold);3;0
@@ -4449,6 +4464,7 @@ Moto Maral;Personality;Unicorn;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Moto Maral;Personality;Unicorn;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Moto Miyu;Personality;Unicorn;Seeds of Decay (Common);Age of Conquest (Emperor);3;2
 Moto Naleesh, the Living Goddess • Experienced 2;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
+Moto Naleesh;Personality;Unicorn;Emperor Edition (Fixed)/Promotional–Emperor (Promo);Age of Conquest (Emperor);1;0
 Moto Nasan;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Moto Nasan;Personality;Unicorn;Shattered Empire (Fixed);Shattered Empire;3;0
 Moto Nergui • Experienced;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
@@ -5629,6 +5645,11 @@ Silent Assault;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;
 Silent Movements;Strategy;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;3
 Silent Rot;Strategy;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
 Silent Rot;Strategy;;The Heaven's Will (Rare);Race for the Throne (Samurai);3;3
+Silk Works;Holding;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Silk Works;Holding;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
+Silk Works;Holding;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
+Silk Works;Holding;;Hidden Emperor 5 (Common)/Storms Over Matsu Palace (Fixed);Hidden Emperor (Jade);3;0
+Silk Works;Holding;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Single Combat;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Single Combat;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Single Strike Style;Strategy;;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;1
@@ -7155,9 +7176,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1000
-#1001
-#1005
+# Done through card #1010
 #1011
 #1020
 #1022
@@ -7531,6 +7550,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5309
 #5317
 #5325
+#5354
 #5380-5381
 #5384
 #5387
@@ -7732,6 +7752,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7241-7242
 #7250-7251
 #7257-7258
+#7265
 #7272-7273
 #7281
 #7283
@@ -7984,6 +8005,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9933
 #9945
 #9974
+#9989
 #10027
 #10029-10031
 #10033

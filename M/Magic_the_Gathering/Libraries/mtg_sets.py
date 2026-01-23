@@ -63,6 +63,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     'Promo Cards', 'Universes Within', 'Magic: The Gathering | Avatar: The Last Airbender Extra',
     'Magic: The Gathering | Avatar: The Last Airbender Jumpstart', 'Gift Pack', 'Promo Cards 2025',
     'Mystery Booster 2: Convention Edition Eternal', "The Brothers' War Transformers Cards",
+    "Magic: The Gathering Universes Beyond - FINAL FANTASY", 'Lorwyn Eclipsed Commander',
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
