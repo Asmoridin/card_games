@@ -92,7 +92,7 @@ STANDARD_SETS = ["Wilds of Eldraine", "The Lost Caverns of Ixalan", "Murders at 
     "Duskmourn: House of Horror", "Magic: The Gathering Foundations", "Aetherdrift",
     "Tarkir: Dragonstorm", "Magic: The Gathering—FINAL FANTASY", "Edge of Eternities",
     "Magic: The Gathering | Marvel's Spider-Man",
-    "Magic: The Gathering | Avatar: The Last Airbender"]
+    "Magic: The Gathering | Avatar: The Last Airbender", 'Lorwyn Eclipsed']
 
 # These sets are legal in Pioneer, Modern, and older formats
 PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 Core Set", "Theros",
