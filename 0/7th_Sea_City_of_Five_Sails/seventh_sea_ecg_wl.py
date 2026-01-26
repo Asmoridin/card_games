@@ -9,16 +9,16 @@ import os
 from card_games.General.Libraries.output_utils import double_print
 from card_games.General.Libraries.get_h_index import get_h_index
 
-FILE_PREFIX = "card_games/0/7th_Sea_City_of_Five_Sails"
+file_prefix = "card_games/0/7th_Sea_City_of_Five_Sails"
 
 if os.getcwd().endswith('card_games'):
-    FILE_PREFIX = "0/7th_Sea_City_of_Five_Sails"
+    file_prefix = "0/7th_Sea_City_of_Five_Sails"
 
-with open(FILE_PREFIX + '/Data/7thSeaCo5SWL.txt', 'r', encoding="UTF-8") as in_file:
+with open(file_prefix + '/Data/7thSeaCo5SWL.txt', 'r', encoding="UTF-8") as in_file:
     in_lines = in_file.readlines()
 in_lines = [line.strip() for line in in_lines]
 
-with open(FILE_PREFIX + '/Data/7thSeaCo5SLeaders.txt', 'r', encoding="UTF-8") as ldr_data_file:
+with open(file_prefix + '/Data/7thSeaCo5SLeaders.txt', 'r', encoding="UTF-8") as ldr_data_file:
     ldr_lines = ldr_data_file.readlines()
 ldr_lines = [line.strip() for line in ldr_lines]
 
@@ -142,16 +142,16 @@ LOW_O_STR = f"\nI should play more games with {LOWEST_FLEET[0]}, where I only ha
     f"{int(LOWEST_FLEET[1])} games. Suggested leader - {low_ldr[0]} ({low_ldr[1]} " + \
     "total plays)"
 
-with open(FILE_PREFIX + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8") as out_file_h:
+with open(file_prefix + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8") as out_file_h:
     double_print("7th Sea: City of Five Sails Win-Loss Tracker and leader selector", out_file_h)
     double_print(f"My current record (W-L) is {total_wl[0]}-{total_wl[1]}", out_file_h)
     double_print(f"\nMy record by leader: ({len(seen_total)} total leader in game)", out_file_h)
     ldr_play_tuples = []
     for faction, faction_ids in sorted(ldrs_by_faction.items()):
-        FACTION_WL_STR = f"{faction}:"
+        faction_wl_str = f"{faction}:"
         if faction in faction_wl:
-            FACTION_WL_STR = f"{faction}: {faction_wl[faction][0]}-{faction_wl[faction][1]}"
-        double_print(FACTION_WL_STR, out_file_h)
+            faction_wl_str = f"{faction}: {faction_wl[faction][0]}-{faction_wl[faction][1]}"
+        double_print(faction_wl_str, out_file_h)
         for ldr_name in faction_ids:
             if ldr_name in ldr_wl:
                 ldr_play_tuples.append((ldr_name, sum(ldr_wl[ldr_name])))
@@ -169,8 +169,8 @@ with open(FILE_PREFIX + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8") as out_file
 
     double_print("\nMy record against opposing factions:", out_file_h)
     for opp_faction, faction_wl in sorted(opp_faction_wl.items()):
-        FACTION_WL_STR = f"- {opp_faction}: {faction_wl[0]}-{faction_wl[1]}"
-        double_print(FACTION_WL_STR, out_file_h)
+        faction_wl_str = f"- {opp_faction}: {faction_wl[0]}-{faction_wl[1]}"
+        double_print(faction_wl_str, out_file_h)
 
     double_print("\nI've seen the following leaders on the table the least " + \
         f"({LEAST_PLAYED_QTY} times)", out_file_h)

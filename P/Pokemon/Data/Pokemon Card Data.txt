@@ -427,6 +427,7 @@ Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Pr
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
 Counter Catcher;Trainer;Item;;;;Crimson Invasion 91 (Uncommon)/Crimson Invasion 120 (Rare Secret)/PAR 160 (Uncommon)/PAR 264 (Hyper Rare);G;4;0
 Earthen Vessel;Trainer;Item;;;;PAR 163 (Uncommon)/SFA 96 (Hyper Rare)/PRE 106 (Uncommon);G;4;0
+Future Booster Energy Capsule;Trainer;Pokemon Tool;;;;PAR 164 (Uncommon)/TEF 149 (Uncommon);G;4;0
 Professor Turo's Scenario;Trainer;Supporter;;;;PAR 171 (Uncommon)/PAR 240 (Ultra Rare)/PAR 257 (Special Illustration Rare)/PRE 121 (Uncommon);G;4;0
 Rika;Trainer;Supporter;;;;PAR 172 (Uncommon)/PAR 241 (Ultra Rare)/PAR 258 (Special Illustration Rare);G;8;2
 Technical Machine: Evolution;Trainer;Pokemon Tool;;;;PAR 178 (Uncommon);G;4;0
@@ -440,6 +441,7 @@ Nest Ball;Trainer;Item;;;;Sun & Moon 123 (Uncommon)/Sun & Moon 158 (Rare Secret)
 
 # Temporal Forces
 Rabsca;Pokemon;Grass;70;Spherical Shield;Psychic;TEF 24 (Uncommon);H;4;1
+Iron Leaves ex;Pokemon;Grass;220;Rapid Vernier;Prism Edge;TEF 25 (Double Rare)/TEF 186 (Ultra Rare)/TEF 203 (Special Illustration Rare)/TEF 213 (Hyper Rare)/SVP 128 (Promo)/PRE 176 (Hyper Rare);H;4;0
 Turtonator;Pokemon;Fire;120;;Spit-Out Shot|Steam Artillery;TEF 35 (Common);H;4;1
 Snom;Pokemon;Water;50;;Powder Snow;TEF 45 (Common)/TEF 168 (Illustration Rare);H;4;1
 Finizen;Pokemon;Water;80;;Rain Splash|Sharp Fin;TEF 48 (Common);H;4;1
@@ -461,6 +463,7 @@ Dunsparce;Pokemon;Colorless;60;;Gnaw|Dig;TEF 128 (Common)/PRE 79 (Common);H;4;0
 Dudunsparce;Pokemon;Colorless;140;Run Away Draw;Land Crush;TEF 129 (Rare)/PRE 80 (Rare);H;4;0
 Buddy-Buddy Poffin;Trainer;Item;;;;TEF 144 (Uncommon)/TWM 223 (Hyper Rare)/PRE 101 (Uncommon)/MEG 167 (Ultra Rare);H;8;2
 Hand Trimmer;Trainer;Item;;;;TEF 150 (Uncommon);H;4;1
+Prime Catcher;Trainer;Item;;;;TEF 157 (ACE SPEC Rare)/PRE 119 (ACE SPEC Rare);H;2;0
 
 # Twilight Masquerade TWM
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
@@ -571,6 +574,11 @@ Victini;Pokemon;Fire;80;;V-Force;BLK 12 (Rare)/SVP 208 (Promo)/BLK 171 (Black Wh
 Darumaka;Pokemon;Fire;80;;Will-O-Wisp;BLK 13 (Common)/BLK 97 (Illustration Rare);I;4;0
 Darmanitan;Pokemon;Fire;140;;Searing Flame|Smashing Headbutt;BLK 14 (Uncommon)/BLK 98 (Illustration Rare);I;4;0
 Larvesta;Pokemon;Fire;60;;Peck Off;BLK 15 (Common)/BLK 99 (Illustration Rare);I;4;0
+Volcarona;Pokemon;Fire;120;Torrid Scales;Fire Wing;BLK 16 (Rare)/BLK 100 (Illustration Rare);I;4;0
+Panpour;Pokemon;Water;70;;Collect|Scratch;BLK 17 (Common)/BLK 101 (Illustration Rare);I;4;0
+Simipour;Pokemon;Water;100;;Gentle Slap;BLK 18 (Uncommon)/BLK 102 (Illustration Rare);I;4;0
+Tympole;Pokemon;Water;60;;Round;BLK 19 (Common)/BLK 103 (Illustration Rare);I;4;0
+Palpitoad;Pokemon;Water;90;;Round|Wave Splash;BLK 20 (Common)/BLK 104 (Illustration Rare);I;4;0
 
 Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
@@ -578,7 +586,7 @@ Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield
 # BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
-# BLK 87-99 done
+# BLK 87-104 done
 # BLK 156 done
 # BLK 161 done
 # BLK 164 done

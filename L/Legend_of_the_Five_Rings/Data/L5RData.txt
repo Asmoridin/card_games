@@ -1889,10 +1889,21 @@ Blade of Perfection;Item;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 Blade of Perfection;Item;;Empire at War (Common);Destroyer War (Celestial);3;0
 Blade of Secrets;Item;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Blade of Secrets;Item;;Hidden Emperor 5 (Rare);Hidden Emperor (Jade);1;0
+Blade of Slaughter;Item;;Heaven & Earth (Uncommon);Four Winds (Gold);3;0
+Blade of Slaughter;Item;;Heaven & Earth (Uncommon);Rain of Blood (Diamond);3;0
 Blade of Storms;Spell;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
 Blade of Storms;Spell;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;0
+Blade of the Kansen;Item;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;0
+Blade of the Master;Item;;Web of Lies (Rare);Age of Enlightenment (Lotus);3;0
+Blade of the Master;Item;;Web of Lies (Rare);Rain of Blood (Diamond);3;0
+Blade of the Meek;Item;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
+Blade of the Pure Soul;Item;;Words and Deeds (Rare);Race for the Throne (Samurai);1;0
+Blade of Thorns;Item;;Promotional–Diamond (Promo);Rain of Blood (Diamond);1;0
 Blade of Truths • Experienced;Item;;Rise of Jigoku (Fixed);Shattered Empire;1;0
 Blade of Truths • Experienced;Item;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);1;0
+Blade of Truths;Item;;Dark Allies (Rare);Four Winds (Gold);1;0
+Blade of Truths;Item;;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
+Blades of the Fallen Phoenix;Item;;The Harbinger (Uncommon)/War of Honor (Fixed);Destroyer War (Celestial);3;0
 Blanketed Forest;Strategy;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
 Blanketed Forest;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
 Blanketed Forest;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
@@ -3048,6 +3059,10 @@ Glimpse of the Unicorn;Event;;Ivory Edition (Uncommon);A Brother's Destiny (Ivor
 Glimpse of the Unicorn;Event;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Glimpse of the Unicorn;Event;;Jade Edition (Uncommon)/Pearl Edition (Uncommon)/Storms Over Matsu Palace (Fixed);Hidden Emperor (Jade);3;0
 Glory Grounds;Region;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Glory of the Shogun;Event;;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
+Glory of the Shogun;Event;;Samurai Edition (Rare);Race for the Throne (Samurai);1;0
+Glory of the Shogun;Event;;Web of Lies (Rare);Age of Enlightenment (Lotus);1;0
+Glory of the Shogun;Event;;Web of Lies (Rare);Rain of Blood (Diamond);1;0
 Glory Seekers;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Glory Seekers;Follower;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Go Master;Holding;;Gold Edition (Common)/Promotional–Gold (Promo);Four Winds (Gold);3;0
@@ -6291,6 +6306,8 @@ The Search for Enlightenment;Strategy;;Evil Portents (Common);War of the Seals (
 The Searing Touch of Jigoku;Spell;;Siege: Clan War (Fixed);Legacy;3;3
 The Second Battle of Beiden Pass;Event;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;1
 The Second Battle of Beiden Pass;Event;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
+The Second City;Region;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
+The Second City;Region;;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
 The Second Kengun;Follower;;Chaos Reigns III (Fixed);Shattered Empire;3;0
 The Secret Entrance;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;2
 The Shakash • Experienced;Personality;Unaligned;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;1
@@ -7006,6 +7023,8 @@ Wyrm Riders;Follower;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Wyrm Riders;Follower;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;1
 Wyrm Riders;Follower;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Wyrm Riders;Follower;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Wyrmbone Katana;Item;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
+Wyrmbone Katana;Item;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
 Yabe no Oni, Blessed Abomination • Experienced;Personality;Unaligned;Chaos Reigns II (Fixed);Shattered Empire;1;0
 Yaheiko Sensei;Sensei;;Rise of Jigoku (Fixed);Shattered Empire;1;0
 Yaheiko Sensei;Sensei;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);1;0
@@ -7176,9 +7195,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1010
-#1011
-#1020
+# Done through card #1020
 #1022
 #1029
 #1033
@@ -7348,6 +7365,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2812-2813
 #2818
 #2821
+#2824
 #2827
 #2829
 #2831-2832
@@ -7849,6 +7867,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8269
 #8275
 #8285
+#8303
 #8307
 #8344
 #8346
@@ -7975,7 +7994,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9368
 #9378
 #9380
-#9412-9413
+#9412-9414
 #9434
 #9449
 #9454-9455

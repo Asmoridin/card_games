@@ -226,7 +226,8 @@ if __name__ == "__main__":
         f"{year_progress*100:.2f}% of year):", out_file_h)
     for game_info in game_progress[:10]:
         info_n, info_c, info_e, _ = game_info
-        PT_STR = f"- {info_n}: {info_c} plays (expected {info_e:.2f})"
+        info_g = game_goals.get(info_n, 0)
+        PT_STR = f"- {info_n}: {info_c} plays out of {info_g} (expected {info_e:.2f})"
         double_print(PT_STR, out_file_h)
 
     # Figure out what percentage of the total plays goal we've achieved
