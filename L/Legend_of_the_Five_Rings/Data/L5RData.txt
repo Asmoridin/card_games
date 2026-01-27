@@ -1909,7 +1909,17 @@ Blanketed Forest;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Editi
 Blanketed Forest;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Blanketed Forest;Strategy;;Khan's Defiance (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;0
 Blanketed Forest;Strategy;;Khan's Defiance (Rare);Age of Enlightenment (Lotus);3;0
+Blazing Arrow;Item;;Enemy of My Enemy (Common);Age of Enlightenment (Lotus);3;0
+Blazing Arrow;Item;;Enemy of My Enemy (Common);Rain of Blood (Diamond);3;0
 Blazing Arrows;Strategy;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;3
+Blazing Sun;Event;;A Perfect Cut (Uncommon);Four Winds (Gold);1;0
+Bleak Portents;Spell;;Reign of Blood (Rare);Rain of Blood (Diamond);3;0
+Bleeding Grounds;Holding;;Hidden City (Uncommon);Rain of Blood (Diamond);3;0
+Bleeding the Elements;Strategy;;Honor Bound (Uncommon);Hidden Emperor (Jade);3;0
+Blessed Dojo;Holding;;Broken Blades (Common);Four Winds (Gold);3;0
+Blessed Dojo;Holding;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Blessed Dojo;Holding;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
+Blessed Library;Holding;;Promotional–Samurai (Promo);Race for the Throne (Samurai);1;0
 Blessed Sanctuary;Holding;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Blessed Sanctuary;Holding;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Blessed Sword;Item;;Heaven & Earth (Common);Four Winds (Gold);3;0
@@ -1917,6 +1927,8 @@ Blessed Sword;Item;;Heaven & Earth (Common);Rain of Blood (Diamond);3;0
 Blessed Sword;Item;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Blessed Sword;Item;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
 Blessed Sword;Item;;Shattered Empire (Fixed);Shattered Empire;3;0
+Blessed Tessen;Item;;Celestial Edition (Common);Destroyer War (Celestial);3;0
+Blessed Tessen;Item;;The Heaven's Will (Common);Race for the Throne (Samurai);3;0
 Blessing of the Celestial Heavens;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Blessings of Isawa;Event;;The Dark Journey Home (Uncommon);Hidden Emperor (Jade);1;0
 Blessings of the Red Panda Spirit;Event;;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
@@ -3327,6 +3339,7 @@ Hida Yurike, Soul of Hida Rikyu;Personality;Crab;Onyx Edition (Fixed);War of the
 Hida Yurike, Soul of Hida Rikyu;Personality;Crab;Shattered Empire (Fixed);Shattered Empire;3;0
 Hida Zaiberu • Experienced;Personality;Crab;Rise of Jigoku (Fixed);Shattered Empire;1;0
 Hida Zaiberu • Experienced;Personality;Crab;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);1;0
+Hidden Defenses;Strategy;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 Hidden Scandal;Strategy;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Hidden Scandal;Strategy;;Honor's Veil (Common);Race for the Throne (Samurai);3;1
 Hideo Spawn;Follower;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Four Winds (Gold);3;0
@@ -5665,6 +5678,16 @@ Silk Works;Holding;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed)/
 Silk Works;Holding;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
 Silk Works;Holding;;Hidden Emperor 5 (Common)/Storms Over Matsu Palace (Fixed);Hidden Emperor (Jade);3;0
 Silk Works;Holding;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Silver Mine;Holding;;Celestial Edition (Fixed)/War of Honor (Fixed);Destroyer War (Celestial);3;0
+Silver Mine;Holding;;Diamond Edition (Fixed);Rain of Blood (Diamond);3;0
+Silver Mine;Holding;;Emperor Edition (Fixed)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
+Silver Mine;Holding;;Gold Edition (Fixed);Four Winds (Gold);3;0
+Silver Mine;Holding;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;0
+Silver Mine;Holding;;Ivory Edition (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Silver Mine;Holding;;Ivory Edition (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Silver Mine;Holding;;Jade Edition (Fixed)/Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
+Silver Mine;Holding;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);3;0
+Silver Mine;Holding;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
 Single Combat;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Single Combat;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Single Strike Style;Strategy;;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;1
@@ -6146,6 +6169,8 @@ The Dark Horseman;Personality;Spider;The Blackest Storm (Fixed);A Brother's Dest
 The Dark Horseman;Personality;Spider;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 The Dark Naga • Experienced;Personality;Unaligned;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;1
 The Dark Naga • Experienced;Personality;Unaligned;Coils of Madness (Fixed);Age of Conquest (Emperor);1;0
+The Dark Naga;Personality;Unaligned;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
+The Dark Naga;Personality;Unaligned;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
 The Dead-Eyed;Follower;;Road to Ruin (Fixed);Shattered Empire;3;0
 The Dead-Eyed;Follower;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 The Deathseeker's Oath;Sensei;;Rise of Jigoku (Fixed);Shattered Empire;1;0
@@ -7195,9 +7220,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1020
-#1022
-#1029
+# Done through card #1030
 #1033
 #1036
 #1040
@@ -7408,6 +7431,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3219
 #3237
 #3240-3241
+#3254
 #3264
 #3269
 #3276
@@ -7770,7 +7794,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7241-7242
 #7250-7251
 #7257-7258
-#7265
+#7265-7266
 #7272-7273
 #7281
 #7283
@@ -7847,6 +7871,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7991
 #7994
 #7998
+#8012
 #8028
 #8042
 #8065-8066
