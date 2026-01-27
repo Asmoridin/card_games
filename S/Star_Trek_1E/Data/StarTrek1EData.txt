@@ -282,9 +282,19 @@ Borg Servo;Dilemma;Dual;First Contact;749;;4;0
 Borg Ship;Dilemma;Space;Premiere/Reflections/Virtual Promos;750,3536,5825,6068,6431,6794,7716,8080;;4;0
 Borg Sphere;Ship;Borg;First Contact;78;;4;0
 Borg Tactical Cube;Ship;Borg;The Borg;79;;4;0
+Borg Vinculum;Equipment;;The Borg;751;;4;0
 Botanical Research;Mission;Planet;Starter Deck II;80,4053,7055;;4;0
 Bothan Vessel;Ship;Non-Aligned;Voyager;81;;4;0
+Bractor;Personnel;Ferengi;Rules of Acquisition;752;;2;0
+Brain Drain;Interrupt;;Alternate Universe;753;;4;0
+Brainwash;Event;;Q Continuum/Virtual Promos;754,4806,4879;;4;0
+Breen CRM114;Equipment;;Rules of Acquisition;755;;4;0
+Breen Disruptor Burst;Tactic;;The Trouble with Tribbles/BaH!;756,3707;;10;0
+Breen Energy-Dampening Weapon;Tactic;;The Trouble with Tribbles/BaH!;757,3708;;10;0
 Breen Warship;Ship;Dominion;The Trouble with Tribbles;82;;4;0
+Bribery;Incident;;Rules of Acquisition/Homefront II;758,3867;;4;0
+Brief Romance;Dilemma;Dual;Deep Space 9;759,4375;;4;0
+Brigadier Kerla;Personnel;Klingon;The Motion Pictures;760,7215;;2;0
 Calandra;Personnel;Non-Aligned;Rules of Acquisition;84;;4;0
 Calloway;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;85,5979,6342,6705,7103,7627,7991;;4;1
 Canar;Artifact;;Q Continuum;775;;2;1
@@ -933,7 +943,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 750
+# Done through card 760
 #775
 #793
 #808
@@ -1120,7 +1130,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3632
 #3689
 #3699
-#3703-3706
+#3703-3708
 #3727
 #3730-3733
 #3839
@@ -1131,7 +1141,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3854
 #3856
 #3858-3859
-#3866
+#3866-3867
 #3885
 #3927
 #3934
@@ -1158,7 +1168,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4284
 #4287
 #4289
-#4373-4374
+#4373-4375
 #4380
 #4384
 #4388
@@ -1206,6 +1216,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4796
 #4798
 #4801-4802
+#4806
 #4812
 #4820
 #4824
@@ -1222,7 +1233,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4871
 #4873-4874
 #4876
-#4880
+#4879-4880
 #4892
 #4954
 #5146
@@ -1490,7 +1501,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7169
 #7173
 #7179-7180
-#7183-7214
+#7183-7215
 #7251
 #7277
 #7318
