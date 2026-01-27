@@ -386,6 +386,7 @@ Miraidon ex;Pokemon;Lightning;220;Tandem Unit;Photon Blaster;SVI 81 (Double Rare
 Gardevoir ex;Pokemon;Psychic;310;Psychic Embrace;Miracle Force;SVI 86 (Double Rare)/SVI 228 (Ultra Rare)/SVI 245 (Special Illustration Rare)/PAF 29 (Double Rare)/PAF 217 (Shiny Ultra Rare)/PAF 233 (Special Illustration Rare);G;4;0
 Drifloon;Pokemon;Psychic;70;;Gust|Balloon Blast;SVI 89 (Common)/PAF 155 (Shiny Rare);G;4;0
 Drifblim;Pokemon;Psychic;110;;Gust|Curse Spreading;SVI 90 (Uncommon)/PAF 156 (Shiny Rare);G;4;1
+Klefki;Pokemon;Psychic;70;Mischievous Lock;Joust;SVI 96 (Rare)/PAF 159 (Shiny Rare);G;4;0
 Cyclizar;Pokemon;Colorless;110;;Touring|Speed Attack;SVI 164 (Rare)/M23 14 (Promo);G;4;2
 Electric Generator;Trainer;Item;;;;SVI 170 (Uncommon)/PAF 79 (Uncommon);G;4;0
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
@@ -416,6 +417,7 @@ Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (
 Arven;Trainer;Supporter;;;;SVI 166 (Uncommon)/SVI 235 (Ultra Rare)/SVI 249 (Special Illustration Rare)/OBF 186 (Uncommon)/PAF 235 (Special Illustration Rare);G;8;2
 
 # 151 (MEW)
+Ditto;Pokemon;Colorless;Transformative Start;Splup;MEW 132 (Rare)/PAF 201 (Shiny Rare);G;4;0
 Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 (Ultra Rare)/MEW 205 (Hyper Rare)/SVP 53 (Promo)/PAF 216 (Shiny Ultra Rare)/PAF 232 (Special Illustration Rare);G;4;0
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
 
@@ -468,6 +470,7 @@ Prime Catcher;Trainer;Item;;;;TEF 157 (ACE SPEC Rare)/PRE 119 (ACE SPEC Rare);H;
 # Twilight Masquerade TWM
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare);H;4;0
+Bloodmoon Ursaluna ex;Pokemon;Colorless;260;Seasoned Skill;Blood Moon;TWM 141 (Double Rare)/TWM 202 (Ultra Rare)/TWM 216 (Special Illustration Rare)/TWM 222 (Hyper Rare)/SVP 177 (Promo)/PRE 168 (Special Illustration Rare);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 Secret Box;Trainer;Item;;;;TWM 163 (ACE SPEC Rare);H;2;0
@@ -579,6 +582,11 @@ Panpour;Pokemon;Water;70;;Collect|Scratch;BLK 17 (Common)/BLK 101 (Illustration 
 Simipour;Pokemon;Water;100;;Gentle Slap;BLK 18 (Uncommon)/BLK 102 (Illustration Rare);I;4;0
 Tympole;Pokemon;Water;60;;Round;BLK 19 (Common)/BLK 103 (Illustration Rare);I;4;0
 Palpitoad;Pokemon;Water;90;;Round|Wave Splash;BLK 20 (Common)/BLK 104 (Illustration Rare);I;4;0
+Seismitoad;Pokemon;Water;170;;Round|Hyper Voice;BLK 21 (Uncommon)/BLK 105 (Illustration Rare);I;4;0
+Tirtouga;Pokemon;Water;100;;Ancient Seaweed|Surf;BLK 22 (Uncommon)/BLK 106 (Illustration Rare);I;4;0
+Carracosta;Pokemon;Water;180;Mighty Shell;Big Bite;BLK 23 (Rare)/BLK 107 (Illustration Rare);I;4;0
+Alomomola;Pokemon;Water;110;Gentle Fin;Waterfall;BLK 24 (Uncommon)/BLK 108 (Illustration Rare);I;4;0
+Cubchoo;Pokemon;Water;70;;Snotted Up;BLK 25 (Common)/BLK 109 (Illustration Rare);I;4;0
 
 Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
@@ -586,7 +594,7 @@ Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield
 # BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
-# BLK 87-104 done
+# BLK 87-109 done
 # BLK 156 done
 # BLK 161 done
 # BLK 164 done
