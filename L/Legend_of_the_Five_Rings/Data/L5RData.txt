@@ -1929,8 +1929,16 @@ Blessed Sword;Item;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals
 Blessed Sword;Item;;Shattered Empire (Fixed);Shattered Empire;3;0
 Blessed Tessen;Item;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Blessed Tessen;Item;;The Heaven's Will (Common);Race for the Throne (Samurai);3;0
+Blessed Ward;Strategy;;Broken Blades (Common);Four Winds (Gold);3;0
+Blessed Yumi;Item;;Drums of War (Common);Age of Enlightenment (Lotus);3;0
 Blessing of the Celestial Heavens;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Blessing of the Dragon;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Blessing of the Dragon;Strategy;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
+Blessing upon the Lands;Strategy;;Honor Bound (Common);Hidden Emperor (Jade);3;0
 Blessings of Isawa;Event;;The Dark Journey Home (Uncommon);Hidden Emperor (Jade);1;0
+Blessings of Sky;Strategy;;The Plague War (Common);Destroyer War (Celestial);3;0
+Blessings of Steel;Strategy;;Hidden City (Rare);Rain of Blood (Diamond);3;0
+Blessings of the Death Lords;Spell;;Honor's Veil (Uncommon);Race for the Throne (Samurai);3;0
 Blessings of the Red Panda Spirit;Event;;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
 Blessings of the Red Panda Spirit;Event;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
 Blessings of the Shi-Tien Yen-Wang;Celestial;;Second City (Rare);Age of Conquest (Emperor);1;0
@@ -1991,6 +1999,8 @@ Br'nn, the Eternal • Experienced 2;Personality;Naga;Gates of Tengoku (Fixed);S
 Bracing Ground;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Bracing Ground;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Brash Challenger;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
+Brawl;Strategy;;Second City (Rare);Age of Conquest (Emperor);3;0
+Brawl;Strategy;;Second City (Rare);Destroyer War (Celestial);3;0
 Breach of Etiquette;Strategy;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;2
 Breach of Etiquette;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Breach of Etiquette;Strategy;;Pearl Edition (Uncommon)/Jade Edition (Uncommon);Hidden Emperor (Jade);3;0
@@ -2721,6 +2731,8 @@ Earthquake;Spell;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidia
 Earthquake;Spell;;Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
 Echoing Infinity;Spell;;Road to Ruin (Fixed);Shattered Empire;3;0
 Echoing Infinity;Spell;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
+Effortless Counterattack;Strategy;;Second City (Rare);Age of Conquest (Emperor);3;0
+Effortless Counterattack;Strategy;;Second City (Rare);Destroyer War (Celestial);3;0
 Elder Goju;Personality;Ninja;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Elder Veteran;Holding;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Elder Veteran;Holding;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
@@ -2759,6 +2771,11 @@ Energy Transference;Spell;;Imperial Edition (Common)/Emerald Edition (Common)/Ob
 Enervation;Spell;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Enervation;Spell;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Enlistment;Event;;Gathering Storms (Fixed);Shattered Empire;1;0
+Enlistment;Event;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);1;0
+Enlistment;Event;;Samurai Edition (Uncommon);Race for the Throne (Samurai);1;0
+Enlistment;Event;;Time of the Void (Uncommon);Clan Wars (Imperial);1;0
+Enlistment;Event;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);1;0
+Enlistment;Event;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);1;0
 Ensorcelled Longsword;Item;;A Line in the Sand (Rare);A Brother's Destiny (Ivory Edition);3;0
 Ensorcelled Longsword;Item;;A Line in the Sand (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Entrapping Terrain;Strategy;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
@@ -7220,10 +7237,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1030
-#1033
-#1036
-#1040
+# Done through card #1040
 #1045-1046
 #1059
 #1062
@@ -7235,7 +7249,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #1106
 #1113
 #1117
-#1128-1129
+#1127-1129
 #1146
 #1150
 #1159
@@ -7335,6 +7349,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2233
 #2259
 #2266
+#2283
 #2289
 #2297
 #2305
@@ -7342,6 +7357,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2329
 #2332
 #2339
+#2346
 #2353
 #2355
 #2385
