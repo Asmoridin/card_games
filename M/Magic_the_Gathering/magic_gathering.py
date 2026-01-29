@@ -500,9 +500,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Magic 2010'
-CHECK_AMOUNT = 249
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = 'Planechase'
+CHECK_AMOUNT = 212
+SET_CHECK += 23 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0

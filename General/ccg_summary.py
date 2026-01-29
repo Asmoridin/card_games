@@ -187,7 +187,7 @@ if __name__ == "__main__":
     TOTAL_PLAYS_GOAL = 0
     for game_name, game_plays in game_plays_total.items():
         # Take the highest of last year's plays, or average plays per year
-        avg_plays = math.ceil(game_plays / YEARS_PROCESSED)
+        avg_plays = math.ceil(game_plays / game_year_counter[game_name])
         last_year_plays = prev_year_plays.get(game_name, 0)
         goal_plays = max(avg_plays, last_year_plays + 1)
         game_goals[game_name] = goal_plays

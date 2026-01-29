@@ -1,5 +1,155 @@
+Planechase:
+
+Akroma's Vengeance
+Ancient Den
+Arc Lightning
+Arcbound Crusher
+Arcbound Slith
+Arsenal Thresher
+Ascendant Evincar
+Assault // Battery
+Balefire Liege
+Battlegate Mimic
+Beacon of Unrest
+Beseech the Queen
+Blaze
+Bogardan Firefiend
+Bogardan Rager
+Boros Garrison
+Boros Guildmage
+Boros Signet
+Boros Swiftblade
+Bosh, Iron Golem
+Branching Bolt
+Briarhorn
+Broodstar
+Browbeat
+Bull Cerodon
+Cabal Coffers
+Cadaverous Knight
+Captain's Maneuver
+Cerodon Yearling
+Cinder Elemental
+Cone of Flame
+Congregate
+Consume Spirit
+Copper Myr
+Corpse Harvester
+Cranial Plating
+Cruel Revival
+Dark Ritual
+Darksteel Forge
+Death Baron
+Door to Nothingness
+Double Cleave
+Dregscape Zombie
+Duergar Hedge-Mage
+Etched Oracle
+Explosive Vegetation
+Fabricate
+Fertile Ground
+Fertilid
+Festering Goblin
+Fires of Yavimaya
+Flamekin Harbinger
+Flametongue Kavu
+Forest
+Forgotten Ancient
+Furnace of Rath
+Glory of Warfare
+Goblin Offensive
+Gold Myr
+Grave Pact
+Gravedigger
+Great Furnace
+Gruul Turf
+Hearthfire Hobgoblin
+Helldozer
+Hideous End
+Hull Breach
+Incremental Blight
+Innocent Blood
+Insurrection
+Iron Myr
+Island
+Ivy Elemental
+Keep Watch
+Keldon Champion
+Leaden Myr
+Leechridden Swamp
+Lightning Helix
+Living Hive
+Lodestone Myr
+Loxodon Warhammer
+Mage Slayer
+Mask of Memory
+Master of Etherium
+Menacing Ogre
+Mountain
+Myr Enforcer
+Nefashu
+Noxious Ghoul
+Nuisance Engine
+Oblivion Ring
+Order // Chaos
+Orim's Thunder
+Pentad Prism
+Pentavus
+Phyrexian Arena
+Phyrexian Ghoul
+Plains
+Prison Term
+Profane Command
+Pyrotechnics
+Qumulox
+Rampant Growth
+Razia, Boros Archangel
+Reckless Charge
+Relentless Assault
+Relic of Progenitus
+Rockslide Elemental
+Rolling Thunder
+Rorix Bladewing
+Rotting Rats
+Rumbling Slum
+Sarcomite Myr
+Savage Twister
+Search for Tomorrow
+Seat of the Synod
+Serum Tank
+Shepherd of Rot
+Shivan Oasis
+Silver Myr
+Silverglade Elemental
+Siphon Soul
+Skeleton Shard
+Sludge Strider
+Smokebraider
+Soul Warden
+Soulless One
+Sunhome, Fortress of the Legion
+Suntouched Myr
+Swamp
+Syphon Mind
+Taurean Mauler
+Terramorphic Expanse
+Thirst for Knowledge
+Tornado Elemental
+Tree of Tales
+Tribal Unity
+Undead Warchief
+Vault of Whispers
+Vedalken Engineer
+Verdant Force
+Withered Wretch
+Wizard Replica
+
 OATHBREAKER:
 
+       1 | Missing card Ethersworn Sphinx
+       1 | Missing card Frostwalk Bastion
+       1 | Missing card Icehide Golem
+       1 | Missing card Lens Flare
        1 | Missing card Llanowar Scout
        1 | Missing card Longhorn Sharpshooter
        1 | Missing card Longstalk Brawl
@@ -12,11 +162,14 @@ OATHBREAKER:
        1 | Missing card Magmatic Force
        1 | Missing card Majestic Genesis
        1 | Missing card Makindi Stampede
+       1 | Missing card Malcator, Purity Overseer
        1 | Missing card Mandate of Abaddon
        1 | Missing card Marchesa's Decree
        1 | Missing card Mardu Woe-Reaper
        1 | Missing card Mark of the Vampire
        1 | Missing card Martyr for the Cause
+       1 | Missing card Master Splicer
+       1 | Missing card Master's Guide-Mural
        1 | Missing card Meditation Puzzle
        1 | Missing card Memorial to Unity
        1 | Missing card Merfolk Branchwalker
@@ -84,8 +237,10 @@ OATHBREAKER:
        1 | Missing card Plan the Heist
        1 | Missing card Planar Ally
        1 | Missing card Planewide Celebration
+       1 | Missing card Plated Onslaught
        1 | Missing card Pledge of Unity
        1 | Missing card Plunge into Winter
+       1 | Missing card Porcelain Legionnaire
        1 | Missing card Porom's Silence Magic
        1 | Missing card Portal Mage
        1 | Missing card Precinct Captain
@@ -154,6 +309,7 @@ OATHBREAKER:
        1 | Missing card Search Party Captain
        1 | Missing card See the Truth
        1 | Missing card Selvala's Enforcer
+       1 | Missing card Sensor Splicer
        1 | Missing card Seraph of Dawn
        1 | Missing card Seraph of the Suns
        1 | Missing card Serene Master
@@ -240,6 +396,7 @@ OATHBREAKER:
        1 | Missing card Sunblade Samurai
        1 | Missing card Sungrace Pegasus
        1 | Missing card Sunhome Stalwart
+       1 | Missing card Surge Engine
        1 | Missing card Swiftblade Vindicator
        1 | Missing card Sword of Hours
        1 | Missing card Sworn Companions
@@ -277,6 +434,7 @@ OATHBREAKER:
        1 | Missing card Tilonalli's Summoner
        1 | Missing card Timely Hordemate
        1 | Missing card Timely Reinforcements
+       1 | Missing card Tinker's Tote
        1 | Missing card Tomik, Wielder of Law
        1 | Missing card Torch Fiend
        1 | Missing card Torgaar, Famine Incarnate
@@ -332,6 +490,7 @@ OATHBREAKER:
        1 | Missing card Wild Guess
        1 | Missing card Wild Shape
        1 | Missing card Wildfire Devils
+       1 | Missing card Wing Splicer
        1 | Missing card Witchstalker
        1 | Missing card Wolfkin Bond
        1 | Missing card Worldfire
@@ -348,45 +507,70 @@ OATHBREAKER:
 
 COMMANDER:
 
+      10 | Missing card Skinrender
+      10 | Missing card Teetering Peaks
+       9 | Missing card Raging Ravine
+       7 | Missing card Emrakul's Hatcher
+       7 | Missing card Kor Spiritdancer
+       7 | Missing card Plated Geopede
+       7 | Missing card Steppe Lynx
+       6 | Missing card Act of Treason
+       6 | Missing card Fated Firepower
+       6 | Missing card Fireball
+       6 | Missing card Flame Slash
+       6 | Missing card Goblin Ruinblaster
+       6 | Missing card Heliod, God of the Sun
+       6 | Missing card Kindred Boon
+       6 | Missing card Loyal Inventor
+       6 | Missing card Pacifism
        6 | Missing card Pearl-Ear, Imperial Advisor
+       6 | Missing card Pilgrim's Eye
        6 | Missing card Primordial Hydra
        6 | Missing card Signal Pest
+       6 | Missing card Stirring Wildwood
+       6 | Missing card Stocking the Pantry
        6 | Missing card Tempered Steel
        6 | Missing card Tezzeret, Agent of Bolas
        6 | Missing card Toph, Earthbending Master
+       6 | Missing card Treasure Mage
        6 | Missing card Viral Drake
        6 | Missing card Witness Protection
        5 | Missing card Ambush Viper
        5 | Missing card Archaeomender
+       5 | Missing card Bitterbloom Bearer
        5 | Missing card Candlekeep Sage
        5 | Missing card Chain Devil
        5 | Missing card Claws of Valakut
+       5 | Missing card Conquering Manticore
+       5 | Missing card Cunning Sparkmage
        5 | Missing card Diregraf Captain
        5 | Missing card Doom Blade
        5 | Missing card Emergency Weld
        5 | Missing card Endless Ranks of the Dead
-       5 | Missing card Fated Firepower
        5 | Missing card Frontier Warmonger
        5 | Missing card Geist-Honored Monk
        5 | Missing card Geistwave
        5 | Missing card General Marhault Elsdragon
        5 | Missing card Generous Pup
        5 | Missing card Ghoulish Impetus
+       5 | Missing card Giant Growth
        5 | Missing card Gimli's Reckless Might
        5 | Missing card Glissa, the Traitor
        5 | Missing card Goblin Diplomats
+       5 | Missing card God-Eternal Rhonas
        5 | Missing card Gogo, Master of Mimicry
        5 | Missing card Gonti, Lord of Luxury
        5 | Missing card Gonti's Aether Heart
        5 | Missing card Grist, Voracious Larva
        5 | Missing card Guardian of Ghirapur
+       5 | Missing card Hand of Emrakul
        5 | Missing card Haunted Library
        5 | Missing card Hazel's Brewmaster
-       5 | Missing card Heliod, God of the Sun
        5 | Missing card Henneth Annûn
        5 | Missing card Hexplate Wallbreaker
        5 | Missing card Hidden Cataract
        5 | Missing card Hidden Volcano
+       5 | Missing card Hoarding Dragon
        5 | Missing card Hope Tender
        5 | Missing card Horizon Spellbomb
        5 | Missing card Horn of the Mark
@@ -406,21 +590,22 @@ COMMANDER:
        5 | Missing card Kamahl's Will
        5 | Missing card Kami of Celebration
        5 | Missing card Karametra, God of Harvests
+       5 | Missing card Kargan Dragonlord
        5 | Missing card Karn, Scion of Urza
        5 | Missing card Karumonix, the Rat King
+       5 | Missing card Kazandu Blademaster
        5 | Missing card Kelpie Guide
        5 | Missing card Khârn the Betrayer
-       5 | Missing card Kindred Boon
        5 | Missing card Klauth, Unrivaled Ancient
-       5 | Missing card Kor Spiritdancer
+       5 | Missing card Kor Sanctifiers
        5 | Missing card Laser Screwdriver
        5 | Missing card Lathiel, the Bounteous Dawn
        5 | Missing card Lay Down Arms
        5 | Missing card Lazotep Plating
        5 | Missing card Ley Weaver
        5 | Missing card Liesa, Forgotten Archangel
+       5 | Missing card Lightning Bolt
        5 | Missing card Llanowar Loamspeaker
-       5 | Missing card Loyal Inventor
        5 | Missing card Lunar Convocation
        5 | Missing card Machinist's Arsenal
        5 | Missing card Mask of Avacyn
@@ -431,23 +616,29 @@ COMMANDER:
        5 | Missing card Mindsplice Apparatus
        5 | Missing card Minion's Return
        5 | Missing card Mirage Phalanx
+       5 | Missing card Moonsilver Spear
        5 | Missing card Myr Welder
        5 | Missing card Nadir Kraken
        5 | Missing card Naru Meha, Master Wizard
        5 | Missing card Nest of Scarabs
        5 | Missing card Nesting Dovehawk
        5 | Missing card Network Terminal
+       5 | Missing card Nexus of Becoming
        5 | Missing card Oketra the True
        5 | Missing card Old Rutstein
+       5 | Missing card Ondu Cleric
        5 | Missing card One Ring to Rule Them All
        5 | Missing card Open the Graves
        5 | Missing card Oreskos Explorer
        5 | Missing card Orzhov Guildgate
+       5 | Missing card Overrun
        5 | Missing card Pact of the Serpent
        5 | Missing card Path of the Pyromancer
        5 | Missing card Peacewalker Colossus
+       5 | Missing card Peerless Recycling
        5 | Missing card Perpetual Timepiece
        5 | Missing card Perplexing Chimera
+       5 | Missing card Piranha Marsh
        5 | Missing card Plate Armor
        5 | Missing card Polymorphist's Jest
        5 | Missing card Preposterous Proportions
@@ -473,30 +664,36 @@ COMMANDER:
        5 | Missing card Sarkhan's Unsealing
        5 | Missing card Scourge of the Skyclaves
        5 | Missing card Scrap Mastery
+       5 | Missing card Scute Mob
        5 | Missing card Search for Azcanta
        5 | Missing card Season of Growth
+       5 | Missing card See Beyond
        5 | Missing card Shipwreck Dowser
        5 | Missing card Sigarda's Summons
        5 | Missing card Sigrid, God-Favored
        5 | Missing card Sixth Sense
+       5 | Missing card Skittering Invasion
        5 | Missing card Skullwinder
        5 | Missing card Skyhunter Strike Force
        5 | Missing card Skyline Despot
+       5 | Missing card Sleep
        5 | Missing card Song of the Worldsoul
        5 | Missing card Spell Swindle
+       5 | Missing card Spreading Seas
+       5 | Missing card Staggershock
        5 | Missing card Star of Extinction
-       5 | Missing card Stocking the Pantry
        5 | Missing card Stoneforge Masterwork
        5 | Missing card Storm of Souls
+       5 | Missing card Strong Back
        5 | Missing card Sunken Palace
        5 | Missing card Surgehacker Mech
        5 | Missing card Swashbuckler Extraordinaire
        5 | Missing card Take Up the Shield
        5 | Missing card Tectonic Reformation
-       5 | Missing card Teetering Peaks
        5 | Missing card Teferi, Temporal Archmage
        5 | Missing card Tempting Contract
        5 | Missing card Terminal Agony
+       5 | Missing card Terramorphic Expanse
        5 | Missing card Thalia's Lancers
        5 | Missing card The Cabbage Merchant
        5 | Missing card The Indomitable
@@ -506,16 +703,17 @@ COMMANDER:
        5 | Missing card Thundering Mightmare
        5 | Missing card Tormented Soul
        5 | Missing card Toxrill, the Corrosive
-       5 | Missing card Treasure Mage
        5 | Missing card Trostani, Selesnya's Voice
        5 | Missing card Twisted Image
        5 | Missing card Undergrowth Recon
        5 | Missing card Underrealm Lich
        5 | Missing card Undying Evil
+       5 | Missing card Unsummon
        5 | Missing card Urn of Godfire
        5 | Missing card V.A.T.S.
        5 | Missing card Vampiric Rites
        5 | Missing card Vapor Snag
+       5 | Missing card Vapor Snare
        5 | Missing card Vexilus Praetor
        5 | Missing card Vexing Puzzlebox
        5 | Missing card Victim of Night
@@ -526,4 +724,6 @@ COMMANDER:
        5 | Missing card Waterbender's Restoration
        5 | Missing card Winged Words
        5 | Missing card Wizard's Rockets
+       5 | Missing card Wolfbriar Elemental
        5 | Missing card Xenagos, the Reveler
+       5 | Missing card Zimone, Paradox Sculptor
