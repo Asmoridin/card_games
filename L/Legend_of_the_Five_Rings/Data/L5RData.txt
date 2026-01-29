@@ -1943,6 +1943,16 @@ Blessings of the Red Panda Spirit;Event;;Rise of Otosan Uchi (Fixed);Shattered E
 Blessings of the Red Panda Spirit;Event;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
 Blessings of the Shi-Tien Yen-Wang;Celestial;;Second City (Rare);Age of Conquest (Emperor);1;0
 Blessings of the Shi-Tien Yen-Wang;Celestial;;Second City (Rare);Destroyer War (Celestial);1;0
+Blight of War;Strategy;;Enemy of My Enemy (Common);Age of Enlightenment (Lotus);3;0
+Blight of War;Strategy;;Enemy of My Enemy (Common);Rain of Blood (Diamond);3;0
+Blighted Region;Region;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Blighted Region;Region;;The Heaven's Will (Rare);Race for the Throne (Samurai);3;0
+Blind Honor;Strategy;;Hidden City (Rare);Rain of Blood (Diamond);3;0
+Blind Honor;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Blind Honor;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Blind Rage;Strategy;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
+Blind Rage;Strategy;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
+Blind Rage;Strategy;;Emperor Edition (Uncommon)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Block Supply Lines;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Block Supply Lines;Strategy;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
 Block Supply Lines;Strategy;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
@@ -1952,6 +1962,10 @@ Block Supply Lines;Strategy;;Ivory Edition (Common)/Promotional–Ivory (Promo)/
 Block Supply Lines;Strategy;;Jade Edition (Common)/Pearl Edition (Common)/Storms Over Matsu Palace (Fixed)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
 Block Supply Lines;Strategy;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
 Blocked Ground;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;1
+Blood and Chaos;Spell;;Reign of Blood (Rare);Rain of Blood (Diamond);3;0
+Blood and Darkness;Spell;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;0
+Blood and Steel;Strategy;;Path of Hope (Uncommon);Age of Enlightenment (Lotus);3;0
+Blood Armor;Item;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
 Blood of Fu Leng;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Blood of Fu Leng;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Blood of Isawa's Tribe • Experienced;Spell;;Gates of Tengoku (Fixed);Shattered Empire;3;0
@@ -4332,6 +4346,10 @@ Medium Infantry;Follower;;Ivory Edition (Common)/Promotional–Twenty Festivals 
 Medium Infantry;Follower;;Jade Edition (Common)/Pearl Edition (Common)/Storms Over Matsu Palace (Fixed)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
 Medium Infantry;Follower;;Onyx Edition (Fixed)/Promotional–Twenty Festivals (Promo);War of the Seals (Onyx Edition);3;0
 Medium Infantry;Follower;;Shattered Empire (Fixed);Shattered Empire;3;0
+Merchant Atoll;Holding;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Merchant Atoll;Holding;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Merchant Atoll;Holding;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
+Merchant Atoll;Holding;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
 Merchant Caravan;Holding;;Forbidden Knowledge (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;2
 Mess Hall;Holding;;Thunderous Acclaim (Common);A Brother's Destiny (Twenty Festivals);3;3
 Mess Hall;Holding;;Thunderous Acclaim (Common);War of the Seals (Onyx Edition);3;0
@@ -5039,6 +5057,8 @@ Rebuilt Harbor;Holding;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Rebuilt Harbor;Holding;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Reckless Zeal;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Reckless Zeal;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
+Recruitment Officer;Holding;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
+Recruitment Officer;Holding;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
 Recruitment Station;Holding;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
 Recruitment Station;Holding;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;0
 Recruitment;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -5401,6 +5421,7 @@ Severing Maneuver;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition)
 Shackled Oni;Holding;;Dark Allies (Common);Four Winds (Gold);3;0
 Shackled Oni;Holding;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Shadow Assassins;Follower;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Shadow Dragon • Experienced 2;Personality;Spider/Ninja;Embers of War (Rare);Age of Conquest (Emperor);1;0
 Shadowlands Ambassador;Follower;;Rise of the Shogun (Uncommon);Age of Enlightenment (Lotus);3;0
 Shadowlands Ambassador;Follower;;Shattered Empire (Fixed);Shattered Empire;3;0
 Shadowlands Bastion;Holding;;A Perfect Cut (Rare);Four Winds (Gold);1;0
@@ -7237,8 +7258,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1040
-#1045-1046
+# Done through card #1050
 #1059
 #1062
 #1072
@@ -7584,7 +7604,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5000
 #5014
 #5016-5017
-#5028
+#5027-5028
 #5056
 #5066
 #5079
@@ -7706,6 +7726,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6174
 #6178
 #6190-6191
+#6218
 #6227
 #6229
 #6235
@@ -7756,6 +7777,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6602
 #6617
 #6647-6648
+#6653
 #6669-6670
 #6673
 #6693
