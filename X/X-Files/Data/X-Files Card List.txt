@@ -1,0 +1,863 @@
+Premiere:
+1	[Skan]	Aura Of Invulnerability	combat		Uncommon
+2	[Skan]	First Aid	combat		Common
+3	[Skan]	Face-Off	combat		Uncommon
+4	[Skan]	Rending Claws	combat		Uncommon
+5	[Skan]	Fast Strike	combat		Rare
+6	[Skan]	Sneak Attack	combat		Rare
+7	[Skan]	Ambush	combat		Common
+8	[Skan]	Kick	combat		Common
+9	[Skan]	Gun Jammed	combat		Common
+10	[Skan]	Hide	combat		Common
+11	[Skan]	Dodge	combat		Uncommon
+12	[Skan]	Nerve Strike	combat		Rare
+13	[Skan]	Webbed	combat		Rare
+14	[Skan]	Vicious Fangs	combat		Uncommon
+15	[Skan]	Spin Kick	combat		Rare
+16	[Skan]	Mind Control	combat		Rare
+17	[Skan]	Alien Stealth Technology	combat		Uncommon
+18	[Skan]	Block And Attack	combat		Rare
+19	[Skan]	Block	combat		Uncommon
+20	[Skan]	Body Armor	combat		Uncommon
+21	[Skan]	Disarm	combat		Rare
+22	[Skan]	Running Gun Battle	combat		Uncommon
+23	[Skan]	Fascination	combat		Uncommon
+24	[Skan]	Internal Bleeding	combat		Uncommon
+25	[Skan]	Covering Fire	combat		Uncommon
+26	[Skan]	No Way Out	combat		Uncommon
+27	[Skan]	Hard Punch	combat		Common
+28	[Skan]	Choke Hold	combat		Rare
+29	[Skan]	Fast Draw	combat		Rare
+30	[Skan]	Watch Out!	combat		Uncommon
+31	[Skan]	Hit And Run	combat		Uncommon
+32	[Skan]	Handcuff	combat		Rare
+33	[Skan]	Illusionary Foe	combat		Rare
+34	[Skan]	Run For It!	combat		Uncommon
+35	[Skan]	Terminal Damage	combat		Rare
+36	[Skan]	Flaming Wall	combat		Uncommon
+37	[Skan]	Massive Internal Damage	combat		Uncommon
+38	[Skan]	Semi-Jacketed Hollow Points	combat		Uncommon
+39	[Skan]	Stunning Blow	combat		Uncommon
+40	[Skan]	Take Cover!	combat		Uncommon
+41	[Skan]	Energy Strike	combat		Rare
+42	[Skan]	Gibsonton, Fl.	site		Common
+43	[Skan]	Excelsius Dei Convalescent Home, Worcester, MA.	site		Uncommon
+44	[Skan]	Broad Street, Philadelphia, PA.	site		Rare
+45	[Skan]	Ellens Air Base, ID	site		Rare
+46	[Skan]	Coastal Northwest, Oregon	site		Common
+47	[Skan]	Olympic National Forest, WA.	site		Common
+48	[Skan]	Arlington, VA.	site		Common
+49	[Skan]	Lake Okobogee, Campsite #53 Sioux City, IA.	site		Common
+50	[Skan]	Newark, NJ.	site		Common
+51	[Skan]	Central Prison, Raleigh, NC.	site		Uncommon
+52	[Skan]	Genetics Clinic, Marin County, CA.	site		Common
+53	[Skan]	Cumberland Prison, VA.	site		Common
+54	[Skan]	Mt. Avalon, WA.	site		Common
+55	[Skan]	Northeast Georgetown Medical Center, Washington DC	site		Rare
+56	[Skan]	NASA Mission Control, Houston, TX	site		Uncommon
+57	[Skan]	New York City, NY	site		Rare
+58	[Skan]	Fairfield Zoo, Fairfield ID.	site		Common
+59	[Skan]	Deadhorse, AK	site		Rare
+60	[Skan]	Containment Facility, Georgetown, MD.	site		Common
+61	[Skan]	University Of Maryland, Baltimore MD.	site		Common
+62	[Skan]	Chaco House, Dudley, AR.	site		Uncommon
+63	[Skan]	Aubrey, MO.	site		Common
+64	[Skan]	Cape Cod, MA.	site		Common
+65	[Skan]	Icy Cape, AK.	site		Fixed
+66	[Skan]	Farmington, NM	site		Uncommon
+67	[Skan]	U.F.O. Wreckage, Townsend WI.	site		Rare
+68	[Skan]	Mattawa, WA.	site		Common
+69	[Skan]	Mahan Propulsion Laboratory, Colson, WA.	site		Common
+70	[Skan]	Church Of The Red Museum, Delta Glen, WI.	site		Rare
+71	[Skan]	Psychiatric Hospital, Richmond, VA.	site		Common
+72	[Skan]	Washington Monument, Washington DC	site		Uncommon
+73	[Skan]	Marion, VA.	site		Common
+74	[Skan]	Arecibo, Puerto Rico	site		Uncommon
+75	[Skan]	Sea Off Of Tildeskan, Norway	site		Common
+76	[Skan]	Aleister Crowley High School, Milford Haven, NH.	site		Rare
+77	[Skan]	Los Angeles, CA.	site		Uncommon
+78	[Skan]	Minneapolis, MN.	site		Uncommon
+79	[Skan]	Franklin, PA.	site		Fixed
+80	[Skan]	Eurisko Building, Crystal City, VA.	site		Uncommon
+81	[Skan]	Folkstone, NC.	site		Uncommon
+82	[Skan]	Outskirts Of Atlantic City, NJ	site		Uncommon
+83	[Skan]	Browning, MT.	site		Fixed
+84	[Skan]	Steveston, MA.	site		Rare
+85	[Skan]	Skyland Mountain, VA.	site		Rare
+86	[Skan]	Baltimore, MD	site		Uncommon
+87	[Skan]	Detective Kelly Ryan	bluff		Common
+88	[Skan]	Sinus Cavity Implant	bluff		Uncommon
+89	[Skan]	Peter Tanaka	bluff		Uncommon
+90	[Skan]	Section Chief Joseph McGrath	bluff		Rare
+91	[Skan]	Cigarette Butts	bluff		Common
+92	[Skan]	Sheriff Daniels	bluff		Uncommon
+93	[Skan]	Dr. Berube	bluff		Common
+94	[Skan]	The Overcoat Man	bluff		Common
+95	[Skan]	You've Got A Tail	bluff		Common
+96	[Skan]	Pete Calcagni	bluff		Uncommon
+97	[Skan]	Holtzman, D.S.A.	bluff		Common
+98	[Skan]	Claude Peterson	bluff		Common
+99	[Skan]	The Conundrum	bluff		Uncommon
+100	[Skan]	Paul Mossinger	bluff		Common
+101	[Skan]	Intruder Counter-Measures Program	bluff		Uncommon
+102	[Skan]	Dr. Aaron Monte	bluff		Common
+103	[Skan]	Poisonous Gases	bluff		Common
+104	[Skan]	Laser Barrier	bluff		Rare
+105	[Skan]	Nasty Surprise	bluff		Uncommon
+106	[Skan]	Sleep Deprivation	bluff		Rare
+107	[Skan]	Radioactive Area	bluff		Uncommon
+108	[Skan]	Ghost In The Machine	bluff		Common
+109	[Skan]	Unnatural Aging	bluff		Uncommon
+110	[Skan]	Car Troubles	bluff		Fixed
+111	[Skan]	Puzzles Within Puzzles	bluff		Uncommon
+112	[Skan]	Government Cover-up	bluff		Common
+113	[Skan]	Hazardous Sample	bluff		Common
+114	[Skan]	Henry Trondheim	bluff		Uncommon
+115	[Skan]	Detective Miles	bluff		Uncommon
+116	[Skan]	Detective Thompson	bluff		Uncommon
+117	[Skan]	Harry Cokely	bluff		Common
+118	[Skan]	Detective Tony Fiore	bluff		Uncommon
+119	[Skan]	B.J. Morrow, Genetic Trait Recipient	x-file		Fixed
+120	[Skan]	Augustus Cole, A.K.A. The Preacher	x-file		Fixed
+121	[Skan]	The Cigarette-Smoking Man	x-file		Common
+122	[Skan]	Duane Barry	x-file		Fixed
+123	[Skan]	The Jersey Devil	x-file		Common
+124	[Skan]	The Host	x-file		Fixed
+125	[Skan]	Lucas Henry, Serial Killer	x-file		Fixed
+126	[Skan]	Arthur Grable	x-file		Common
+127	[Skan]	Warren James Dupré, The Lazarus Man	x-file		Fixed
+128	[Skan]	Colonel Wharton, Zombie Master	x-file		Common
+129	[Skan]	Alien D.N.A. Steroid Program (Project Purity Control)	x-file		Common
+130	[Skan]	The Gregors	x-file		Common
+131	[Skan]	Sheriff Tom Arens, Cannibal	x-file		Common
+132	[Skan]	The Vampire, A.K.A. The Unholy Spirit	x-file		Common
+133	[Skan]	Central Operating System, Artificial Intelligence	x-file		Fixed
+134	[Skan]	Volcanic Spore	x-file		Common
+135	[Skan]	Michael Holvey, The Evil One	x-file		Fixed
+136	[Skan]	Eugene Victor Tooms	x-file		Common
+137	[Skan]	Howard Graves, The Poltergeist	x-file		Common
+138	[Skan]	Dr. Banton And His Shadow	x-file		Common
+139	[Skan]	Alien Listeners	x-file		Common
+140	[Skan]	Commander Colin Henderson	x-file		Common
+141	[Skan]	Arctic Worm	x-file		Common
+142	[Skan]	The Manitou	x-file		Common
+143	[Skan]	Leonard Vance	x-file		Common
+144	[Skan]	Ancestor Spirits	x-file		Common
+145	[Skan]	Ed Funsch, Postal Worker	x-file		Common
+146	[Skan]	Mrs. Paddock, A.K.A. The Dark Angel	x-file		Common
+147	[Skan]	Dod Kalm	x-file		Common
+148	[Skan]	John Barnett	x-file		Fixed
+149	[Skan]	Alien Conservationist	x-file		Common
+150	[Skan]	Faciphaga Emasculata	x-file		Common
+151	[Skan]	Donnie Pfaster, Death Fetishist	x-file		Fixed
+152	[Skan]	Brother Martin, Rogue Kindred	x-file		Common
+153	[Skan]	Alien Abductors	x-file		Common
+154	[Skan]	Eve	x-file		Common
+155	[Skan]	Alien Experimenters	x-file		Common
+156	[Skan]	Reverse Engineers	x-file		Common
+157	[Skan]	The Swarm	x-file		Common
+158	[Skan]	Leonard, Detachable Congenital Twin	x-file		Common
+159	[Skan]	Cecil L'ively	x-file		Common
+160	[Skan]	Section Chief Scott Blevins	agent		Fixed
+161	[Skan]	Albert Hosteen	agent		Fixed
+162	[Skan]	Agent Alex Krycek (UR)	agent		Ultra-Rare
+163	[Skan]	Agent Fox Mulder (UR)	agent		Ultra-Rare
+164	[Skan]	Lt. Brian Tillman, Aubrey Police Department	agent		Fixed
+165	[Skan]	Agent Rich	agent		Fixed
+166	[Skan]	Agent Lucy Kazdin	agent		Fixed
+167	[Skan]	Agent Jack Willis	agent		Fixed
+168	[Skan]	Inspector Phoebe Green	agent		Fixed
+169	[Skan]	Agent Fox Mulder (F)	agent		Fixed
+170	[Skan]	Agent Alex Krycek (F)	agent		Fixed
+171	[Skan]	Agent Nancy Spiller	agent		Fixed
+172	[Skan]	Agent Dana Scully (UR)	agent		Ultra-Rare
+173	[Skan]	Agent Dana Scully (F)	agent		Fixed
+174	[Skan]	Assistant Director, Walter Skinner (UR)	agent		Ultra-Rare
+175	[Skan]	Dr. Charles Burk	agent		Fixed
+176	[Skan]	Agent Tom Colton	agent		Fixed
+177	[Skan]	Agent Janus, Trained Medic	agent		Fixed
+178	[Skan]	Agent Moe Bocks	agent		Fixed
+179	[Skan]	Agent Reggie Purdue	agent		Fixed
+180	[Skan]	Assistant Director, Walter Skinner (F)	agent		Fixed
+181	[Skan]	Agent Weiss	agent		Fixed
+182	[Skan]	Agent Jerry Lamana	agent		Fixed
+183	[Skan]	Agent Karen Kosseff, Counselor	agent		Fixed
+184	[Skan]	Sheriff Spencer	witness		Common
+185	[Skan]	Dr. Blockhead	witness		Rare
+186	[Skan]	The Thinker	witness		Rare
+187	[Skan]	Byers	witness		Fixed
+188	[Skan]	Emil And Zoe	witness		Uncommon
+189	[Skan]	Dr. Davey	witness		Uncommon
+190	[Skan]	Billy Miles	witness		Common
+191	[Skan]	Dr. Diamond	witness		Rare
+192	[Skan]	Detective Frank Briggs	witness		Uncommon
+193	[Skan]	Dr. Grissom	witness		Rare
+194	[Skan]	Kevin Morris, a.k.a. The Conduit	witness		Rare
+195	[Skan]	Detective Sharon Lazard	witness		Uncommon
+196	[Skan]	Dr. Laskos	witness		Uncommon
+197	[Skan]	The Calusari	witness		Rare
+198	[Skan]	Bill Mulder	witness		Rare
+199	[Skan]	Charley Tskany	witness		Rare
+200	[Skan]	Dr. Osborne	witness		Rare
+201	[Skan]	Michelle Generoo	witness		Rare
+202	[Skan]	Sir Malcolm Marsden	witness		Common
+203	[Skan]	Samantha Mulder	witness		Rare
+204	[Skan]	Max Fenig	witness		Rare
+205	[Skan]	Dr. Hodge	witness		Common
+206	[Skan]	Doug Spinney	witness		Common
+207	[Skan]	Dr. Sheila Braun	witness		Uncommon
+208	[Skan]	U.S. Marshall Tapia	witness		Fixed
+209	[Skan]	Brad Wilczek	witness		Uncommon
+210	[Skan]	Dr. Nollette	witness		Rare
+211	[Skan]	Ish-Tribal Elder	witness		Uncommon
+212	[Skan]	Sheriff Mazeroski	witness		Rare
+213	[Skan]	Lt. Colonel Marcus Aurelius Belt	witness		Rare
+214	[Skan]	Gung Bituen	witness		Rare
+215	[Skan]	Kristen Kilar	witness		Rare
+216	[Skan]	Gerd Thomas	witness		Fixed
+217	[Skan]	Dr. Daniel Trepkos	witness		Rare
+218	[Skan]	Maggie Holvey	witness		Fixed
+219	[Skan]	Luther Lee Boggs	witness		Rare
+220	[Skan]	Senator Richard Matheson	witness		Rare
+221	[Skan]	Successful Diagnosis	event		Uncommon
+222	[Skan]	Deep Throat	event		Ultra-Rare
+223	[Skan]	Shutting Down The X-Files	event		Rare
+224	[Skan]	Reporters At The Crime Scene	event		Uncommon
+225	[Skan]	I Want To Believe	event		Common
+226	[Skan]	Road Trip	event		Rare
+227	[Skan]	Hidden Transmitter	event		Uncommon
+228	[Skan]	Medical Treatment	event		Common
+229	[Skan]	Agent Weiss Killed By Unknown Toxin	event		Rare
+230	[Skan]	The Cigarette-Smoking Man Strikes	event		Rare
+231	[Skan]	Eve 7	event		Rare
+232	[Skan]	Street Contacts	event		Uncommon
+233	[Skan]	Government Arrests Suspects	event		Common
+234	[Skan]	Red Tape	event		Rare
+235	[Skan]	S.W.A.T. Training	event		Common
+236	[Skan]	Fingerprints	event		Uncommon
+237	[Skan]	Back Tracking Program	event		Uncommon
+238	[Skan]	Agent Lamana Dies In Fatal Elevator Accident	event		Rare
+239	[Skan]	Evidence Destroyed	event		Uncommon
+240	[Skan]	Surfing The Net	event		Rare
+241	[Skan]	Government Sanctioned Pheromone Experiments	event		Rare
+242	[Skan]	Thorough Documentation	event		Rare
+243	[Skan]	Skinner Chooses A Side	event		Ultra-Rare
+244	[Skan]	Overwhelming Force	event		Rare
+245	[Skan]	Warning From The Loa	event		Rare
+246	[Skan]	Evidence Overlooked	event		Common
+247	[Skan]	Message From The Stars	event		Rare
+248	[Skan]	Dana Scully, Abducted	event		Ultra-Rare
+249	[Skan]	Reading The Signs	event		Uncommon
+250	[Skan]	Agent Jack Willis Shot To Death In Bank Robbery	event		Rare
+251	[Skan]	Skinner Adopts The Company Line	event		Rare
+252	[Skan]	Safe House	event		Rare
+253	[Skan]	Crop Circles	event		Common
+254	[Skan]	Langly	event		Common
+255	[Skan]	Expedite Request For Resources	event		Uncommon
+256	[Skan]	Paperwork	event		Uncommon
+257	[Skan]	Unexplainable Time Loss	event		Rare
+258	[Skan]	Clone	event		Uncommon
+259	[Skan]	Suspect Description	event		Uncommon
+260	[Skan]	Smoke Screen	event		Uncommon
+261	[Skan]	Dark Forces Align	event		Rare
+262	[Skan]	Computer Access Denied	event		Rare
+263	[Skan]	Improved Channels	event		Uncommon
+264	[Skan]	The Erlenmeyer Flask	event		Rare
+265	[Skan]	Krycek, the Double Agent	event		Rare
+266	[Skan]	Spying Mission	event		Uncommon
+267	[Skan]	Authorized Access Only	event		Rare
+268	[Skan]	Equipment Malfunction	event		Uncommon
+269	[Skan]	The Local Law Enforcement Are Uncooperative	event		Uncommon
+270	[Skan]	The Lone Gunmen	event		Ultra-Rare
+271	[Skan]	Alien Discretion	event		Rare
+272	[Skan]	Fingernail Scrapings	event		Common
+273	[Skan]	Trust No One	event		Rare
+274	[Skan]	Lula Phillips	event		Rare
+275	[Skan]	No Place Is Safe	event		Rare
+276	[Skan]	Blackmail	event		Rare
+277	[Skan]	Dissection	event		Uncommon
+278	[Skan]	Hack Into Government Files	event		Rare
+279	[Skan]	Application For F.B.I. Resources Approved	event		Rare
+280	[Skan]	Expert Briefing	event		Common
+281	[Skan]	Access Personnel Files	event		Common
+282	[Skan]	Hard Evidence	event		Common
+283	[Skan]	Relentless Pursuit	event		Common
+284	[Skan]	Counterintelligence Measures	event		Ultra-Rare
+285	[Skan]	Deductive Reasoning	event		Rare
+286	[Skan]	Grid Pattern Search	event		Rare
+287	[Skan]	Driving	event		Uncommon
+288	[Skan]	In-Service Training	event		Common
+289	[Skan]	Rejuvenating Caves	event		Uncommon
+290	[Skan]	Alien Experimentation	event		Rare
+291	[Skan]	Hidden Grave	event		Uncommon
+292	[Skan]	Trap	event		Uncommon
+293	[Skan]	X	event		Ultra-Rare
+294	[Skan]	Assigned to the X-Files	event		Rare
+295	[Skan]	Plague Of Locusts	event		Rare
+296	[Skan]	X-Files Research	event		Common
+297	[Skan]	A Friend In The FBI	event		Rare
+298	[Skan]	Written Report	event		Common
+299	[Skan]	Government Mindwipe Serum	event		Uncommon
+300	[Skan]	Travel Arrangements	event		Common
+301	[Skan]	Decoy	event		Uncommon
+302	[Skan]	Autopsy	event		Uncommon
+303	[Skan]	Evasive Maneuvers	event		Rare
+304	[Skan]	Frohike	event		Rare
+305	[Skan]	Agent Reggie Purdue Found Strangled	event		Rare
+306	[Skan]	Road Hazard	event		Uncommon
+307	[Skan]	Core Training	event		Common
+308	[Skan]	Samuel Hartley	event		Rare
+309	[Skan]	True Grit	event		Rare
+310	[Skan]	Decreased Workload	event		Uncommon
+311	[Skan]	Laptop Computer	equipment		Uncommon
+312	[Skan]	Gas Chromatograph	equipment		Common
+313	[Skan]	Wire-Tap	equipment		Common
+314	[Skan]	Binoculars	equipment		Common
+315	[Skan]	Medi-Kit	equipment		Rare
+316	[Skan]	Kevlar Vest	equipment		Uncommon
+317	[Skan]	Glock 19 Semi-Automatic Pistol	equipment		Uncommon
+318	[Skan]	High Resolution Camera	equipment		Common
+319	[Skan]	High-Powered Flashlight	equipment		Uncommon
+320	[Skan]	Government Car	equipment		Common
+321	[Skan]	Knife	equipment		Common
+322	[Skan]	Taped Intelligence	equipment		Rare
+323	[Skan]	Walther PPK 7.65 Hold Out Weapon	equipment		Uncommon
+324	[Skan]	Geiger Counter	equipment		Uncommon
+325	[Skan]	Hospital Crash Cart	equipment		Rare
+326	[Skan]	Cellular Phone	equipment		Rare
+327	[Skan]	Symbol of Faith	equipment		Rare
+328	[Skan]	Electron Emission Microscope	equipment		Common
+329	[Skan]	Shotgun	equipment		Rare
+330	[Skan]	Mini-14 Assault Rifle	equipment		Uncommon
+331	[Skan]	Mojo Bag	equipment		Uncommon
+332	[Skan]	Lie Detector	equipment		Common
+333	[Skan]	Slithers In The Night	adversary		Fixed
+334	[Skan]	Alien Harvester	adversary		Rare
+335	[Skan]	Hunter In The Dark	adversary		Fixed
+336	[Skan]	Crew Cut Man	adversary		Uncommon
+337	[Skan]	Alien Bounty Hunter	adversary		Rare
+338	[Skan]	The Host Attacks	adversary		Rare
+339	[Skan]	Pvt. McAlpin, Zombie	adversary		Fixed
+340	[Skan]	Good People, Good Food	adversary		Uncommon
+341	[Skan]	The Sandman	adversary		Uncommon
+342	[Skan]	Abduction	adversary		Rare
+343	[Skan]	Squeeze	adversary		Uncommon
+344	[Skan]	The Psychotic Attack	adversary		Fixed
+345	[Skan]	The Mechanic	adversary		Uncommon
+346	[Skan]	Darkness Falls	adversary		Uncommon
+347	[Skan]	Suppressed Fury	adversary		Fixed
+348	[Skan]	Living Machine	adversary		Uncommon
+349	[Skan]	Operation Falcon Blue Berets	adversary		Rare
+350	[Skan]	Pheromone-Induced Psychosis	adversary		Uncommon
+351	[Skan]	Deadly Blur	adversary		Uncommon
+352	[Skan]	The Manitou Stalks His Prey	adversary		Rare
+353	[Skan]	Poltergeist Attack	adversary		Fixed
+354	[Skan]	Kiss Of The Vampire	adversary		Rare
+
+The Truth is Out There
+1	[Skan]	Aura Of Invulnerability	combat		Uncommon
+2	[Skan]	First Aid	combat		Common
+3	[Skan]	Face-Off	combat		Uncommon
+4	[Skan]	Rending Claws	combat		Uncommon
+5	[Skan]	Fast Strike	combat		Rare
+6	[Skan]	Sneak Attack	combat		Rare
+7	[Skan]	Ambush	combat		Common
+8	[Skan]	Kick	combat		Common
+9	[Skan]	Gun Jammed	combat		Common
+10	[Skan]	Hide	combat		Common
+11	[Skan]	Dodge	combat		Uncommon
+12	[brak obrazka]	Nerve Strike	combat		Rare
+13	[Skan]	Webbed	combat		Rare
+14	[brak obrazka]	Vicious Fangs	combat		Uncommon
+15	[Skan]	Spin Kick	combat		Rare
+16	[Skan]	Mind Control	combat		Rare
+17	[Skan]	Alien Stealth Technology	combat		Uncommon
+18	[Skan]	Block And Attack	combat		Rare
+19	[Skan]	Block	combat		Uncommon
+20	[brak obrazka]	Body Armor	combat		Uncommon
+21	[Skan]	Disarm	combat		Rare
+22	[Skan]	Running Gun Battle	combat		Uncommon
+23	[Skan]	Fascination	combat		Uncommon
+24	[Skan]	Internal Bleeding	combat		Uncommon
+25	[Skan]	Covering Fire	combat		Uncommon
+26	[Skan]	No Way Out	combat		Uncommon
+27	[Skan]	Hard Punch	combat		Common
+28	[brak obrazka]	Choke Hold	combat		Rare
+29	[Skan]	Fast Draw	combat		Rare
+30	[Skan]	Watch Out	combat		Uncommon
+31	[Skan]	Hit And Run	combat		Uncommon
+32	[Skan]	Handcuff	combat		Rare
+33	[Skan]	Illusionary Foe	combat		Rare
+34	[brak obrazka]	Run For It	combat		Uncommon
+35	[Skan]	Terminal Damage	combat		Rare
+36	[Skan]	Flaming Wall	combat		Uncommon
+37	[Skan]	Massive Internal Damage	combat		Uncommon
+38	[Skan]	Semi-Jacketed Hollow Points	combat		Uncommon
+39	[Skan]	Stunning Blow	combat		Uncommon
+40	[Skan]	Take Cover	combat		Uncommon
+41	[Skan]	Energy Strike	combat		Rare
+42	[Skan]	Gibsonton, FL.	site		Fixed Uncommon
+43	[Skan]	Excelsius Dei Convalescent Home, Worcester,MA.	site		Uncommon
+44	[Skan]	Broad Street, Philadelphia, PA.	site		Common
+45	[Skan]	Ellens Air Base, Idaho	site		Fixed Uncommon
+46	[Skan]	Coastal Northwest, Oregon	site		Fixed Uncommon
+47	[Skan]	Olympic National Forest, WA.	site		Common
+48	[Skan]	Arlington, VA.	site		Fixed Uncommon
+49	[Skan]	Lake Okobogee, Campsite #53 Sioux City, IA.	site		Fixed Uncommon
+50	[Skan]	Newark, NJ.	site		Fixed Uncommon
+51	[Skan]	Central Prison, Raleigh, NC.	site		Uncommon
+52	[Skan]	Genetics Clinic, Marin County, CA.	site		Fixed Uncommon
+53	[Skan]	Cumberland Prison, VA.	site		Fixed Uncommon
+54	[Skan]	Mt. Avalon, WA.	site		Common
+55	[Skan]	Northeast Georgetown Medical Center, Washington DC	site		Rare
+56	[brak obrazka]	NASA Mission Control, Houston, Texas	site		Rare
+57	[Skan]	New York City, NY.	site		Rare
+58	[Skan]	Fairfield Zoo, Fairfield ID.	site		Fixed Uncommon
+59	[Skan]	Deadhorse, Alaska	site		Rare
+60	[Skan]	Containment Facility, Georgetown, MD.	site		Common
+61	[Skan]	University Of Maryland, Baltimore MD.	site		Fixed Uncommon
+62	[Skan]	Chaco House, Dudley, AR.	site		Uncommon
+63	[Skan]	Aubrey, MO.	site		Fixed Uncommon
+64	[Skan]	Cape Cod, MA.	site		Common
+65	[Skan]	Icy Cape, AK.	site		Fixed Common
+66	[Skan]	Farmington, New Mexico	site		Uncommon
+67	[Skan]	U.F.O. Wreckage, Townsend WI.	site		Rare
+68	[Skan]	Mattawa, WA.	site		Common
+69	[Skan]	Mahan Propulsion Laboratory, Colson, WA.	site		Common
+70	[Skan]	Church Of The Red Museum, Delta Glen, WI.	site		Rare
+71	[Skan]	Psychiatric Hospital, Richmond, VA.	site		Common
+72	[Skan]	Washington Monument, Washington D.C.	site		Rare
+73	[Skan]	Marion, VA.	site		Common
+74	[Skan]	Arecibo, Puerto Rico	site		Rare
+75	[Skan]	Sea Off Of Tildeskan, Norway	site		Fixed Uncommon
+76	[Skan]	Aleister Crowley High School, Milford Haven, NH.	site		Rare
+77	[Skan]	Los Angeles, CA.	site		Rare
+78	[brak obrazka]	Minneapolis, MN.	site		Uncommon
+79	[Skan]	Franklin, PA.	site		Fixed Common
+80	[Skan]	Eurisko Building, Crystal City, VA.	site		Uncommon
+81	[Skan]	Folkstone, NC.	site		Uncommon
+82	[Skan]	Outskirts Of Atlantic City, N.J.	site		Uncommon
+83	[Skan]	Browning, MT.	site		Fixed Common
+84	[Skan]	Steveston, MA.	site		Fixed Uncommon
+85	[Skan]	Skyland Mountain, VA.	site		Fixed Uncommon
+86	[Skan]	Baltimore, MD	site		Uncommon
+87	[Skan]	Detective Kelly Ryan	bluff		Common
+88	[Skan]	Sinus Cavity Implant	bluff		Uncommon
+89	[Skan]	Peter Tanaka	bluff		Uncommon
+91	[Skan]	Cigarette Butts	bluff		Common
+92	[Skan]	Sheriff Daniels	bluff		Uncommon
+93	[Skan]	Dr. Berube	bluff		Common
+94	[Skan]	The Overcoat Man	bluff		Common
+95	[Skan]	You've Got A Tail	bluff		Common
+96	[Skan]	Pete Calcagni	bluff		Uncommon
+97	[Skan]	Holtzman, D.S.A.	bluff		Common
+98	[Skan]	Claude Peterson	bluff		Common
+99	[Skan]	The Conundrum	bluff		Uncommon
+100	[Skan]	Paul Mossinger	bluff		Common
+101	[Skan]	Intruder Counter-Measures Program	bluff		Uncommon
+102	[Skan]	Dr. Aaron Monte	bluff		Common
+103	[Skan]	Poisonous Gases	bluff		Common
+104	[Skan]	Laser Barrier	bluff		Rare
+105	[brak obrazka]	Nasty Surprise	bluff		Uncommon
+107	[Skan]	Radioactive Area	bluff		Uncommon
+108	[Skan]	Ghost In The Machine	bluff		Fixed Uncommon
+109	[Skan]	Unnatural Aging	bluff		Uncommon
+110	[Skan]	Car Troubles	bluff		Common
+111	[Skan]	Puzzles Within Puzzles	bluff		Uncommon
+112	[Skan]	Government Cover-up	bluff		Common
+113	[Skan]	Hazardous Sample	bluff		Common
+114	[Skan]	Henry Trondheim	bluff		Uncommon
+115	[Skan]	Detective Miles	bluff		Uncommon
+116	[Skan]	Detective Thompson	bluff		Uncommon
+117	[Skan]	Harry Cokely	bluff		Common
+118	[Skan]	Detective Tony Fiore	bluff		Uncommon
+119	[Skan]	B.J. Morrow, Genetic Trait Recipient	x-file		Fixed Uncommon
+120	[brak obrazka]	Augustus Cole, A.K.A. The Preacher	x-file		Fixed Uncommon
+121	[Skan]	The Cigarette-Smoking Man	x-file		Fixed Uncommon
+122	[Skan]	Duane Barry	x-file		Fixed Uncommon
+123	[brak obrazka]	The Jersey Devil	x-file		Fixed Uncommon
+124	[brak obrazka]	The Host	x-file		Fixed Uncommon
+125	[Skan]	Lucas Henry, Serial Killer	x-file		Fixed Uncommon
+126	[brak obrazka]	Arthur Grable	x-file		Fixed Uncommon
+127	[Skan]	Warren James Dupré, The Lazarus Man	x-file		Fixed Uncommon
+128	[brak obrazka]	Colonel Wharton, Zombie Master	x-file		Fixed Uncommon
+129	[brak obrazka]	Alien D.N.A. Steroid Program (Project Purity Control)	x-file		Fixed Uncommon
+130	[brak obrazka]	The Gregors *	x-file		Fixed Uncommon
+131	[brak obrazka]	Sheriff Tom Arens, Cannibal	x-file		Fixed Uncommon
+132	[brak obrazka]	The Vampire, A.K.A. The Unholy Spirit	x-file		Fixed Uncommon
+133	[brak obrazka]	Central Operating System, Artificial Intelligence	x-file		Fixed Uncommon
+134	[Skan]	Volcanic Spore	x-file		Fixed Uncommon
+135	[brak obrazka]	Michael Holvey, The Evil One	x-file		Fixed Uncommon
+136	[brak obrazka]	Eugene Victor Tooms	x-file		Fixed Uncommon
+137	[brak obrazka]	Howard Graves, The Poltergeist	x-file		Fixed Uncommon
+138	[Skan]	Dr. Banton And His Shadow	x-file		Fixed Uncommon
+139	[brak obrazka]	Alien Listeners	x-file		Fixed Uncommon
+140	[Skan]	Commander Colin Henderson	x-file		Fixed Uncommon
+141	[Skan]	Arctic Worm	x-file		Fixed Uncommon
+142	[brak obrazka]	The Manitou	x-file		Fixed Uncommon
+143	[brak obrazka]	Leonard Vance	x-file		Fixed Uncommon
+144	[Skan]	Ancestor Spirits	x-file		Fixed Uncommon
+145	[Skan]	Ed Funsch, Postal Worker	x-file		Fixed Uncommon
+146	[brak obrazka]	Mrs. Paddock, A.K.A. The Dark Angel	x-file		Fixed Uncommon
+147	[Skan]	Dod Kalm	x-file		Fixed Uncommon
+148	[Skan]	John Barnett	x-file		Fixed Uncommon
+149	[brak obrazka]	Alien Conservationist	x-file		Fixed Uncommon
+150	[brak obrazka]	Faciphaga Emasculata	x-file		Fixed Uncommon
+151	[brak obrazka]	Donnie Pfaster, Death Fetishist	x-file		Fixed Uncommon
+152	[brak obrazka]	Brother Martin, Rogue Kindred	x-file		Fixed Uncommon
+153	[brak obrazka]	Alien Abductors	x-file		Fixed Uncommon
+154	[brak obrazka]	Eve	x-file		Fixed Uncommon
+155	[Skan]	Alien Experimenters	x-file		Fixed Uncommon
+156	[brak obrazka]	Reverse Engineers	x-file		Fixed Uncommon
+157	[brak obrazka]	The Swarm	x-file		Fixed Uncommon
+158	[brak obrazka]	Leonard, Detachable Congenital Twin	x-file		Fixed Uncommon
+159	[Skan]	Cecil L'ively	x-file		Fixed Uncommon
+160	[brak obrazka]	Section Chief Scott Blevins	agent		Fixed Uncommon
+161	[brak obrazka]	Albert Hosteen	agent		Fixed Uncommon
+164	[Skan]	Lt. Brian Tillman, Aubry P.D.	agent		Fixed Uncommon
+165	[brak obrazka]	Agent Rich	agent		Fixed Uncommon
+166	[Skan]	Agent Lucy Kazdin	agent		Fixed Uncommon
+167	[Skan]	Agent Jack Willis	agent		Fixed Uncommon
+168	[brak obrazka]	Inspector Phoebe Green	agent		Fixed Uncommon
+169	[Skan]	Agent Fox Mulder	agent		Fixed Uncommon
+170	[Skan]	Agent Alex Krycek	agent		Fixed Uncommon
+171	[brak obrazka]	Agent Nancy Spiller	agent		Fixed Uncommon
+173	[Skan]	Agent Dana Scully	agent		Fixed Uncommon
+175	[brak obrazka]	Dr. Charles Burk	agent		Fixed Uncommon
+176	[Skan]	Agent Tom Colton	agent		Fixed Uncommon
+177	[brak obrazka]	Agent Janus, Trained Medic	agent		Fixed Uncommon
+178	[brak obrazka]	Agent Moe Bocks	agent		Fixed Uncommon
+179	[brak obrazka]	Agent Reggie Purdue	agent		Fixed Uncommon
+180	[brak obrazka]	Assistant Director Walter Skinner	agent		Fixed Uncommon
+181	[brak obrazka]	Agent Weiss	agent		Fixed Uncommon
+182	[brak obrazka]	Agent Jerry Lamana	agent		Fixed Uncommon
+183	[Skan]	Agent Karen Kosseff, Counselor	agent		Fixed Uncommon
+184	[Skan]	Sheriff Spencer	witness		Fixed Uncommon
+185	[Skan]	Dr. Blockhead	witness		Rare
+186	[Skan]	The Thinker	witness		Rare
+187	[Skan]	Byers	witness		Fixed Uncommon
+188	[Skan]	Emil And Zoe	witness		Uncommon
+189	[Skan]	Dr. Davey	witness		Uncommon
+190	[Skan]	Billy Miles	witness		Fixed Uncommon
+191	[Skan]	Dr. Diamond	witness		Rare
+192	[Skan]	Detective Frank Briggs	witness		Uncommon
+195	[brak obrazka]	Detective Sharon Lazard	witness		Uncommon
+196	[Skan]	Dr. Laskos	witness		Uncommon
+197	[brak obrazka]	The Calusari	witness		Rare
+198	[Skan]	Bill Mulder	witness		Rare
+202	[Skan]	Sir Malcolm Marsden	witness		Common
+203	[Skan]	Samantha Mulder	witness		Rare
+204	[Skan]	Max Fenig	witness		Rare
+205	[Skan]	Dr. Hodge	witness		Fixed Uncommon
+206	[Skan]	Doug Spinney	witness		Common
+207	[Skan]	Dr. Sheila Braun	witness		Uncommon
+208	[Skan]	U.S. Marshall Tapia	witness		Fixed Common
+209	[brak obrazka]	Brad Wilczek	witness		Uncommon
+211	[brak obrazka]	Ish-Tribal Elder	witness		Uncommon
+212	[brak obrazka]	Sheriff Mazeroski	witness		Rare
+213	[Skan]	Lt. Colonel Marcus Aurelius Belt	witness		Rare
+214	[Skan]	Gung Bituen	witness		Rare
+216	[Skan]	Gerd Thomas	witness		Common
+217	[brak obrazka]	Dr. Daniel Trepkos	witness		Rare
+218	[Skan]	Maggie Holvey	witness		Common
+219	[brak obrazka]	Luther Lee Boggs	witness		Rare
+220	[Skan]	Senator Richard Matheson	witness		Rare
+221	[Skan]	Successful Diagnosis	event		Uncommon
+223	[Skan]	Shutting Down The X-Files	event		Rare
+224	[brak obrazka]	Reporters At The Crime Scene	event		Uncommon
+225	[Skan]	I Want To Believe	event		Fixed Uncommon
+226	[Skan]	Road Trip	event		Rare
+227	[Skan]	Hidden Transmitter	event		Uncommon
+228	[Skan]	Medical Treatment	event		Common
+230	[Skan]	The Cigarette-Smoking Man Strikes	event		Rare
+231	[brak obrazka]	Eve 7	event		Rare
+232	[Skan]	Street Contacts	event		Uncommon
+233	[Skan]	Government Arrests Suspects	event		Fixed Uncommon
+234	[Skan]	Red Tape	event		Rare
+235	[Skan]	S.W.A.T. Training	event		Common
+236	[Skan]	Fingerprints	event		Uncommon
+237	[Skan]	Back Tracking Program	event		Fixed Uncommon
+239	[Skan]	Evidence Destroyed	event		Fixed Uncommon
+240	[Skan]	Surfing the Net	event		Rare
+241	[Skan]	Government Sanctioned Pheromone Experiments	event		Rare
+242	[Skan]	Thorough Documentation	event		Rare
+246	[Skan]	Evidence Overlooked	event		Common
+249	[Skan]	Reading The Signs	event		Uncommon
+251	[Skan]	Skinner Adopts The Company Line	event		Rare
+252	[Skan]	Safe House	event		Rare
+253	[Skan]	Crop Circles	event		Fixed Uncommon
+254	[brak obrazka]	Langly	event		Fixed Uncommon
+255	[Skan]	Expedite Request For Resources	event		Uncommon
+256	[Skan]	Paperwork	event		Uncommon
+257	[Skan]	Unexplainable Time Loss	event		Rare
+258	[Skan]	Clone	event		Uncommon
+259	[Skan]	Suspect Description	event		Common
+260	[Skan]	Smoke Screen	event		Uncommon
+261	[brak obrazka]	Dark Forces Align	event		Rare
+262	[Skan]	Computer Access Denied	event		Rare
+263	[brak obrazka]	Improved Channels	event		Uncommon
+265	[Skan]	Krycek, the Double Agent	event		Rare
+266	[Skan]	Spying Mission	event		Uncommon
+267	[Skan]	Authorized Access Only	event		Rare
+268	[Skan]	Equipment Malfunction	event		Uncommon
+269	[Skan]	The Local Law Enforcement Are Uncooperative	event		Uncommon
+271	[Skan]	Alien Discretion	event		Rare
+272	[Skan]	Fingernail Scrapings	event		Fixed Uncommon
+273	[brak obrazka]	Trust No One	event		Rare
+274	[Skan]	Lula Phillips	event		Rare
+275	[Skan]	No Place Is Safe	event		Rare
+276	[Skan]	Blackmail	event		Rare
+277	[Skan]	Dissection	event		Uncommon
+279	[Skan]	Application For F.B.I. Resources Approved	event		Rare
+280	[Skan]	Expert Briefing	event		Common
+281	[Skan]	Access Personnel Files	event		Common
+282	[Skan]	Hard Evidence	event		Common
+283	[Skan]	Relentless Pursuit	event		Common
+285	[Skan]	Deductive Reasoning	event		Rare
+286	[Skan]	Grid Pattern Search	event		Rare
+287	[Skan]	Driving	event		Uncommon
+288	[Skan]	In-Service Training	event		Common
+289	[Skan]	Rejuvenating Caves	event		Uncommon
+290	[Skan]	Alien Experimentation	event		Rare
+291	[brak obrazka]	Hidden Grave	event		Uncommon
+292	[Skan]	Trap	event		Uncommon
+294	[Skan]	Assigned to the X-Files	event		Rare
+296	[Skan]	X-Files Research	event		Common
+297	[brak obrazka]	A Friend In The FBI	event		Rare
+298	[Skan]	Written Report	event		Common
+299	[Skan]	Government Mindwipe Serum	event		Uncommon
+300	[Skan]	Travel Arrangements	event		Common
+301	[brak obrazka]	Decoy	event		Uncommon
+302	[Skan]	Autopsy	event		Uncommon
+303	[Skan]	Evasive Maneuvers	event		Rare
+304	[Skan]	Frohike	event		Rare
+306	[Skan]	Road Hazard	event		Uncommon
+307	[Skan]	Core Training	event		Common
+308	[Skan]	Samuel Hartley	event		Rare
+309	[Skan]	True Grit	event		Rare
+310	[Skan]	Decreased Workload	event		Uncommon
+311	[Skan]	Laptop Computer	equipment		Uncommon
+312	[Skan]	Gas Chromatograph	equipment		Common
+313	[Skan]	Wire-Tap	equipment		Fixed Uncommon
+314	[Skan]	Binoculars	equipment		Fixed Uncommon
+315	[Skan]	Medi-Kit	equipment		Rare
+316	[Skan]	Kevlar Vest	equipment		Uncommon
+317	[Skan]	Glock 19 Semi-Automatic Pistol	equipment		Uncommon
+318	[Skan]	High Resolution Camera	equipment		Common
+319	[Skan]	High Powered Flashlight	equipment		Uncommon
+320	[Skan]	Government Car	equipment		Fixed Uncommon
+321	[Skan]	Knife	equipment		Common
+322	[Skan]	Taped Intelligence	equipment		Rare
+323	[Skan]	Walther PPK 7.65 Hold Out Weapon	equipment		Uncommon
+324	[Skan]	Geiger Counter	equipment		Uncommon
+325	[Skan]	Hospital Crash Cart	equipment		Rare
+326	[Skan]	Cellular Phone	equipment		Rare
+327	[brak obrazka]	Symbol of Faith	equipment		Rare
+328	[Skan]	Electron Emission Microscope	equipment		Common
+329	[Skan]	Shotgun	equipment		Rare
+330	[Skan]	M-16 Assault Rifle	equipment		Uncommon
+331	[Skan]	Mojo Bag	equipment		Uncommon
+332	[Skan]	Lie Detector	equipment		Fixed Uncommon
+333	[Skan]	Slithers In The Night	adversary		Uncommon
+335	[Skan]	Hunter In The Dark	adversary		Uncommon
+336	[Skan]	Crew Cut Man	adversary		Uncommon
+337	[Skan]	Alien Bounty Hunter	adversary		Rare
+338	[brak obrazka]	The Host Attacks	adversary		Rare
+339	[Skan]	Pvt. McAlpin, Zombie	adversary		Fixed Uncommon
+340	[Skan]	Good People, Good Food	adversary		Uncommon
+341	[Skan]	The Sandman	adversary		Uncommon
+342	[Skan]	Abduction	adversary		Rare
+343	[Skan]	Squeeze	adversary		Uncommon
+344	[Skan]	The Psychotic Attack	adversary		Fixed Uncommon
+345	[Skan]	The Mechanic	adversary		Uncommon
+346	[Skan]	Darkness Falls	adversary		Uncommon
+347	[Skan]	Suppressed Fury	adversary		Fixed Uncommon
+348	[Skan]	Living Machine	adversary		Uncommon
+349	[brak obrazka]	Operation Falcon Blue Berets	adversary		Rare
+350	[Skan]	Pheromone Induced Psychosis	adversary		Uncommon
+351	[Skan]	Deadly Blur	adversary		Uncommon
+352	[brak obrazka]	The Manitou Stalks His Prey	adversary		Rare
+353	[Skan]	Poltergeist Attack	adversary		Fixed Uncommon
+354	[Skan]	Kiss Of The Vampire	adversary		Rare
+355	[Skan]	John Barnett Links You To Mulder	adversary		Rare
+356	[Skan]	Brother Martin Is Attracted To You	adversary		Rare
+357	[Skan]	Leonard	adversary		Rare
+358	[Skan]	F. Emasculata Outbreak	adversary		Rare
+359	[Skan]	The Evil One	adversary		Rare
+360	[brak obrazka]	Spirit of The Amaru	adversary		Ultra-Rare
+361	[Skan]	Limited Choices	bluff		Ultra-Rare
+362	[brak obrazka]	Too Close To The Truth	bluff		Ultra-Rare
+363	[Skan]	Injured Relative	bluff		Rare
+364	[Skan]	Explosion	bluff		Rare
+365	[Skan]	Lock Pick	equipment		Rare
+366	[Skan]	U.S.G.S. Quadrant Map	equipment		Rare
+367	[brak obrazka]	Nurse Owens	event		Ultra-Rare
+368	[Skan]	One Breath	event		Ultra-Rare
+369	[Skan]	Taking Chances	event		Rare
+370	[Skan]	A Friend In The Lab	event		Rare
+371	[Skan]	False Leads	event		Rare
+372	[Skan]	Witness Intimidated	event		Rare
+373	[Skan]	Assassinated	event		Rare
+374	[Skan]	Security Clearance	event		Rare
+375	[Skan]	Dr. Joe Ridley	event		Rare
+376	[Skan]	Colonel Kissell	event		Rare
+377	[Skan]	Meet Brother Andrew	event		Rare
+378	[Skan]	Misclassified Case	event		Ultra-Rare
+379	[Skan]	Additional Resources	event		Ultra-Rare
+380	[Skan]	Women's Health Clinic Richville, MD	site		Rare
+381	[Skan]	Tracking The Killer	site		Rare
+382	[brak obrazka]	Mrs. Mulder	witness		Ultra-Rare
+383	[brak obrazka]	Margaret Scully	witness		Ultra-Rare
+384	[brak obrazka]	Melissa Scully	witness		Ultra-Rare
+
+101361
+1	[Skan]	2Shy	adversary		Common
+2	[Skan]	Darin Peter Oswald	adversary		Rare
+3	[Skan]	John Mostow	adversary		Common
+4	[Skan]	Margi Kleinjan	adversary		Uncommon
+5	[Skan]	Puppet	adversary		Common
+6	[Skan]	Red-Haired Man	adversary		Rare
+7	[Skan]	Simon Gates A.K.A. Ferreau	adversary		Uncommon
+8	[Skan]	Terri Roberts	adversary		Uncommon
+9	[Skan]	The List	adversary		Rare
+10	[Skan]	The Walk	adversary		Uncommon
+11	[Skan]	Joseph Patnik	adversary		Uncommon
+12	[Skan]	Agent Bill Patterson	agent		Rare
+13	[Skan]	Agent Danny Pendrell	agent		Rare
+14	[Skan]	Agent Fred Nemhauser	agent		Common
+15	[Skan]	Agent Kreski	agent		Common
+16	[Skan]	Clyde Bruckman	agent		Rare
+17	[Skan]	Detective Angela White	agent		Common
+18	[Skan]	Detective Manners	agent		Common
+19	[Skan]	Angry Townspeople	bluff		Common
+20	[Skan]	Big Blue	bluff		Common
+21	[Skan]	Philosophical Question	bluff		Common
+22	[Skan]	Cerulean Blue	bluff		Rare
+23	[Skan]	Darkened Forest	bluff		Common
+24	[Skan]	Dissolving Evidence	bluff		Common
+25	[Skan]	Deceiving The Flock	bluff		Common
+26	[Skan]	Festival of the Hungry Ghosts	bluff		Rare
+27	[Skan]	Flesh Sculpting	bluff		Rare
+28	[Skan]	Veracity in Question	bluff		Common
+29	[Skan]	Heads Up	bluff		Common
+30	[Skan]	Mass Grave	bluff		Common
+31	[Skan]	Final Repose	bluff		Common
+32	[Skan]	No One Believes You	bluff		Rare
+33	[Skan]	Oubliette	bluff		Rare
+34	[Skan]	Stoner, Chick, And Dude	bluff		Common
+35	[Skan]	The Mailman	bluff		Rare
+36	[Skan]	This is Not Happening	bluff		Common
+37	[Skan]	Visions of a Madman	bluff		Rare
+38	[Skan]	You're a Dead Man	bluff		Rare
+39	[Skan]	Two LUX Video Camera	equipment		Rare
+40	[Skan]	Alien Autopsy Video	equipment		Uncommon
+41	[Skan]	Ambulance	equipment		Uncommon
+42	[Skan]	M.R.I.	equipment		Uncommon
+43	[Skan]	Classified Photos	equipment		Uncommon
+44	[Skan]	Dental X-Ray Plate	equipment		Uncommon
+45	[Skan]	Desktop Computer	equipment		Uncommon
+46	[Skan]	Dried Frog	equipment		Common
+47	[Skan]	Decomposing Victim	equipment		Uncommon
+48	[Skan]	Garrote	equipment		Uncommon
+49	[Skan]	Helicopter Spotter	equipment		Uncommon
+50	[Skan]	Laser Targeter	equipment		Uncommon
+51	[Skan]	Murder Weapon	equipment		Uncommon
+52	[Skan]	Stationery	equipment		Uncommon
+53	[Skan]	Queequeg	equipment		Rare
+54	[Skan]	Satellite Photos	equipment		Uncommon
+55	[Skan]	Secret Government Files	equipment		Uncommon
+56	[Skan]	Secret Passage	equipment		Uncommon
+57	[Skan]	Alien Stiletto	equipment		Ultra-Rare
+58	[Skan]	Tape Recorder	equipment		Uncommon
+59	[Skan]	Classified Ad	equipment		Uncommon
+60	[Skan]	Foo Fighter	event		Rare
+61	[Skan]	Amaru Urn	event		Rare
+62	[Skan]	Avatar	event		Rare
+63	[Skan]	Captive Hybrid	event		Common
+64	[Skan]	Circuit Board Implant	event		Rare
+65	[Skan]	Disbelief	event		Common
+66	[Skan]	Eliminating the Source	event		Rare
+67	[Skan]	A Near Death Experience	event		Ultra-Rare
+68	[Skan]	Hell Money	event		Rare
+69	[Skan]	Jose Chung's From Outer Space	event		Rare
+70	[Skan]	Krycek Possessed	event		Ultra-Rare
+71	[Skan]	Mostow's Sketches	event		Rare
+72	[Skan]	Ceremony	event		Rare
+73	[Skan]	Skinner Intervenes	event		Common
+74	[Skan]	Skinner's Wedding Ring	event		Common
+75	[Skan]	Men In Black	event		Ultra-Rare
+76	[Skan]	The Video Trap	event		Common
+77	[Skan]	Tong Lottery Jar	event		Rare
+78	[Skan]	Visit From the First Elder	event		Rare
+79	[Skan]	War of The Coprophages	event		Rare
+80	[Skan]	White Buffalo	event		Rare
+81	[Skan]	Unexpected Call	event		Ultra-Rare
+82	[Skan]	Work a Deal	event		Common
+83	[Skan]	Mostow's Studio, Washington, D.C.	site		Uncommon
+84	[Skan]	Braddock Heights, Maryland	site		Common
+85	[Skan]	Chinatown, San Francisco, CA.	site		Uncommon
+86	[Skan]	Jerusalem, Ohio	site		Uncommon
+87	[Skan]	Miller's Grove, Massachusetts	site		Uncommon
+88	[Skan]	Positron Emission Tomography Lab, Allentown, Pennsylvania	site		Uncommon
+89	[Skan]	Strikers Cove, Heuvalman's Lake, Blue Ridge Mountains, Georgia	site		Common
+90	[Skan]	Strughold Mining Company, Rural West Virginia	site		Uncommon
+91	[Skan]	Tesos Dos Bichos Excavation, Ecquadorian Highlands, South America	site		Uncommon
+92	[Skan]	Virgil Incanto's Apartment, Cleveland, Ohio	site		Common
+93	[Skan]	Agent Dan Kazanjian	witness		Rare
+94	[Skan]	Carina Maywald	witness		Rare
+95	[Skan]	Coast Guard Lieutenant	witness		Common
+96	[Skan]	Detective Alan Cross	witness		Uncommon
+97	[Skan]	Detective Cline	witness		Common
+98	[Skan]	Detective Havez	witness		Common
+99	[Skan]	Detective Walter Eubanks	witness		Rare
+100	[Skan]	Dr. Alexander Ivanov	witness		Rare
+101	[Skan]	Dr. Bambi Berenbaum	witness		Uncommon
+102	[Skan]	Dr. Bugger	witness		Uncommon
+103	[Skan]	Dr. Jeff Eckerle	witness		Uncommon
+104	[Skan]	Dr. Rick Newton	witness		Common
+105	[Skan]	Ellen Kaminski	witness		Uncommon
+106	[Skan]	Eric Hosteen	witness		Uncommon
+107	[Skan]	Escalante	witness		Common
+108	[Skan]	General Thomas Callahan	witness		Rare
+109	[Skan]	Jim Ullrich	witness		Common
+110	[Skan]	Lottie Holoway	witness		Rare
+111	[Skan]	Lt. Colonel Victor Stans	witness		Common
+112	[Skan]	Lucy Householder	witness		Rare
+113	[Skan]	Michael Kryder	witness		Common
+114	[Skan]	Navajo Elder	witness		Uncommon
+115	[Skan]	Owen Jarvis	witness		Rare
+116	[Skan]	Parmelly	witness		Common
+117	[Skan]	Penny Northern	witness		Common
+118	[Skan]	Sammon Roque	witness		Uncommon
+119	[Skan]	Sharon Kiveat	witness		Common
+120	[Skan]	Sharon Skinner	witness		Rare
+121	[Skan]	Sheriff John Teller	witness		Uncommon
+122	[Skan]	Stan Buxton	witness		Uncommon
+123	[Skan]	The Stupendous Yappi	witness		Rare
+124	[Skan]	Victor Klemper	witness		Rare
+125	[Skan]	Warden Leo Brodeur	witness		Uncommon
+
+Promo
+1	[Skan]	The Dark Angel	Adversary		Promo/R
+2	[Skan]	Fighter Interceptor	Event		Promo/R
+3	[Skan]	Alien Technology	Event		Promo/R
+4	[Skan]	No One So Paranoid	Event		Promo/UR
+5	[Skan]	Chester Bonaparte, The Spirit Guide	Event		Promo/UR
+6	[Skan]	Agent Henderson	Agent		Promo/R
+7	[Skan]	Team Work	Event		Promo/R
+8	[Skan]	Mulligan	Event		Promo/R
+9	[Skan]	Smoke & Mirrors 1	Event		Promo/UR
+10	[Skan]	Smoke & Mirrors 2	Event		Promo/UR
+11	[Skan]	Smoke & Mirrors 3	Event		Promo/UR
+12	[Skan]	Smoke & Mirrors 4	Event		Promo/UR
+13	[Skan]	Smoke & Mirrors 5	Event		Promo/UR
+14	[Skan]	Blue Plate Special	Event		Promo/R
+15	[Skan]	Je Vois Quelque Chose La Au-Dessous	Event		Promo/UR
+16	[Skan]	Die Hand Die Verletzt	Event		Promo/UR
+17	[Skan]	Not On The Menu	Event		Promo/R
+18	[Skan]	Deny Everything	Event		Promo/UR
+19	[Skan]	Believe The Lie	Event		Promo/UR
+20	[Skan]	Infected That You Might Believe	Event		Promo/UR
+21	[Skan]	A Final Choice	Event		Promo/UR
+22	[Skan]	Good Fortune	Event		Promo/UR
+23	[Skan]	Call On Us More Often	Event		Promo/UR
