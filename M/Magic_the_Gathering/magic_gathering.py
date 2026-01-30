@@ -400,7 +400,7 @@ def validate_types(card_type_string):
             continue
         if check_type in ['Artifact', 'Creature', 'Enchantment', 'Sorcery', "Instant",
                 "Legendary", 'Land', 'Planeswalker', 'Vanguard', 'Kindred', 'Scheme',
-                'Snow', 'Battle']:
+                'Snow', 'Battle', 'Plane']:
             ret_type.append(check_type)
         else:
             print("Unknown type: " + check_type)
@@ -584,7 +584,7 @@ for line in lines:
             else:
                 card_formats[card_format] = 30
         CARD_MAX = 40
-    if 'Scheme' in card_type:
+    if 'Scheme' in card_type or 'Plane' in card_type:
         card_formats = {'Vintage':1}
         CARD_MAX = 1
     if 'Vanguard' in card_type:
@@ -607,7 +607,7 @@ FORMAT_LIST = []
 PLAYABLE_CARDS = 0
 for card in raw_list:
     VALID_CARD = True
-    if 'Scheme' in card[1] or 'Vanguard' in card[1]:
+    if 'Scheme' in card[1] or 'Vanguard' in card[1] or 'Plane' in card[1]:
         VALID_CARD = False
     if VALID_CARD:
         PLAYABLE_CARDS += 1
