@@ -500,9 +500,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Planechase'
-CHECK_AMOUNT = 212
-SET_CHECK += 23 # Extra basic lands
+CHECK_SET = 'Zendikar'
+CHECK_AMOUNT = 249
+SET_CHECK += 15 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0
@@ -575,7 +575,6 @@ for line in lines:
     if CHECK_SET in card_sets:
         if PRINT_SET:
             print(f"{card_name}")
-        #print(card_name)
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
