@@ -1966,6 +1966,16 @@ Blood and Chaos;Spell;;Reign of Blood (Rare);Rain of Blood (Diamond);3;0
 Blood and Darkness;Spell;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;0
 Blood and Steel;Strategy;;Path of Hope (Uncommon);Age of Enlightenment (Lotus);3;0
 Blood Armor;Item;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
+Blood Arrows of Yajinden;Item;;The Dark Journey Home (Common);Hidden Emperor (Jade);3;0
+Blood Calls to Blood;Strategy;;Dawn of the Empire (Fixed);Age of Enlightenment (Lotus);3;0
+Blood Calls to Blood;Strategy;;Dawn of the Empire (Fixed);Rain of Blood (Diamond);3;0
+Blood Command;Spell;;Reign of Blood (Rare);Rain of Blood (Diamond);3;0
+Blood Frenzy;Strategy;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
+Blood in the Shinomen;Strategy;;Broken Blades (Uncommon);Four Winds (Gold);3;0
+Blood Madness;Strategy;;A Perfect Cut (Rare);Four Winds (Gold);3;0
+Blood Money;Event;;The Fall of Otosan Uchi (Uncommon);Four Winds (Gold);1;0
+Blood Money;Event;;The Fall of Otosan Uchi (Uncommon);Rain of Blood (Diamond);1;0
+Blood Oath;Strategy;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
 Blood of Fu Leng;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Blood of Fu Leng;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Blood of Isawa's Tribe • Experienced;Spell;;Gates of Tengoku (Fixed);Shattered Empire;3;0
@@ -1975,6 +1985,7 @@ Blood of Midnight;Spell;;Shadowlands (Common)/Battle of Beiden Pass (Fixed);Clan
 Blood of the Preserver • Experienced 2;Item;;Chaos Reigns III (Fixed);Shattered Empire;1;0
 Blood of the Preserver • Experienced;Item;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
 Blood of the Preserver • Experienced;Item;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
+Blood Pact;Strategy;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
 Blood Rite;Spell;;Gold Edition (Rare);Four Winds (Gold);3;0
 Blood Rite;Spell;;Soul of the Empire (Rare);Hidden Emperor (Jade);3;2
 Bloodstained Forest;Spell;;Gold Edition (Uncommon);Four Winds (Gold);3;0
@@ -5517,6 +5528,8 @@ Shika Sensei;Sensei;;The New Order (Uncommon);A Brother's Destiny (Ivory Edition
 Shika Sensei;Sensei;;The New Order (Uncommon);A Brother's Destiny (Twenty Festivals);1;1
 Shinden Hisui no Taiyo;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shinden Hisui no Taiyo;Holding;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Shinden Shorai;Region;;Second City (Rare);Age of Conquest (Emperor);1;0
+Shinden Shorai;Region;;Second City (Rare);Destroyer War (Celestial);1;0
 Shingo Riding Stables • Experienced;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Shingo Riding Stables • Experienced;Holding;;Shattered Empire (Fixed);Shattered Empire;1;0
 Shinjo Araragi;Personality;Unicorn;Chaos Reigns I (Fixed);Shattered Empire;3;0
@@ -6302,6 +6315,8 @@ The Ikoma Halls;Holding;;Evil Portents (Common);War of the Seals (Onyx Edition);
 The Imperial Standard;Item;;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
 The Imperial Standard;Item;;Forbidden Knowledge (Rare);Clan Wars (Imperial);1;0
 The Imperial Standard;Item;;Gold Edition (Rare);Four Winds (Gold);1;0
+The Imperial Treasury;Holding;;Promotional–Celestial (Promo);Age of Conquest (Emperor);1;0
+The Imperial Treasury;Holding;;Promotional–Celestial (Promo);Destroyer War (Celestial);1;0
 The Indignity of Arrest;Strategy;;Thunderous Acclaim (Common);A Brother's Destiny (Twenty Festivals);3;2
 The Indignity of Arrest;Strategy;;Thunderous Acclaim (Common);War of the Seals (Onyx Edition);3;0
 The Indomitable Fortress of the Crab;Stronghold;Crab;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
@@ -6459,6 +6474,8 @@ Tides of the Battlefield;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
 Tiger Climbing Mountain;Strategy;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Tiger Climbing Mountain;Strategy;;The Heaven's Will (Common);Race for the Throne (Samurai);3;1
 Time of the Void;Event;;Promotional–Imperial (Promo);Clan Wars (Imperial);1;0
+Times of Strife;Event;;Second City (Uncommon);Age of Conquest (Emperor);1;0
+Times of Strife;Event;;Second City (Uncommon);Destroyer War (Celestial);1;0
 Tirandaja;Personality;Naga;Hidden Forest War (Fixed);War of the Seals (Onyx Edition);3;0
 Tireless Assault;Strategy;;Heaven & Earth (Common)/Training Grounds (Fixed);Four Winds (Gold);3;3
 Tireless Assault;Strategy;;Heaven & Earth (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
@@ -7258,8 +7275,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1050
-#1059
+# Done through card #1060
 #1062
 #1072
 #1076
@@ -7796,6 +7812,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6825
 #6840
 #6846
+#6857
 #6878-6879
 #6887
 #6898
@@ -7920,7 +7937,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8095-8096
 #8098
 #8143
-#8149
+#8149-8150
 #8168
 #8169
 #8223
@@ -7953,7 +7970,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8469
 #8480
 #8489
-#8495
+#8494-8495
 #8499
 #8509
 #8524
