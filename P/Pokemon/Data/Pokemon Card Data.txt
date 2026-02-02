@@ -485,12 +485,14 @@ Legacy Energy;Energy;Special Energy;;;;TWM 167 (ACE SPEC Rare);H;2;0
 # Shrouded Fable (SFA)
 Galvantula;Pokemon;Grass;100;Compound Eyes;Shocking Web;SFA 2 (Uncommon);H;4;0
 Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare);H;4;0
+Colress's Tenacity;Trainer;Supporter;;;;SFA 57 (Uncommon)/SFA 87 (Ultra Rare);H;4;0
 Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (Ultra Rare);H;8;2
 Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
 
 # Stellar Crown
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common);H;4;0
+Grand Tree;Trainer;Stadium;;;;SCR 136 (ACE SPEC Rare);H;2;0
 Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
 Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Uncommon)/PRE 171 (Special Illustration Rare);H;4;0
 
@@ -505,6 +507,7 @@ Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;2;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # Prismatic Evolutions
+Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Illustration Rare);H;4;0
 
 # Journey Together (JTG)
 Lillie's Clefairy ex;Pokemon;Psychic;190;Fairy Zone;Full Moon Rondo;JTG 56 (Double Rare)/JTG 173 (Ultra Rare)/JTG 184 (Special Illustration Rare)/SVP 195 (Promo);I;4;0
@@ -614,6 +617,11 @@ Eelektross;Pokemon;Lightning;160;;Thunder Fang|Buzz Flip;BLK 32 (Uncommon)/BLK 1
 Thundurus;Pokemon;Lightning;120;;Charge|Disaster Volt;BLK 33 (Rare)/SVP 209 (Promo);I;4;0
 Zekrom ex;Pokemon;Lightning;230;;Slash|Voltage Burst;BLK 34 (Double Rare)/BLK 158 (Ultra Rare)/BLK 166 (Special Illustration Rare)/BLK 172 (Black White Rare);I;4;0
 Munna;Pokemon;Psychic;70;;Rest|Mumble;BLK 35 (Common)/BLK 116 (Illustration Rare);I;4;0
+Musharna;Pokemon;Psychic;120;;Dream Calling|Sleep Pulse;BLK 36/BLK 117 (Illustration Rare);I;4;0
+Solosis;Pokemon;Psychic;40;;Rollout;BLK 37 (Common)/BLK 118 (Illustration Rare);I;4;0
+Duosion;Pokemon;Psychic;70;;Cellular Evolution|Spray Fluid;BLK 38 (Common)/BLK 119 (Illustration Rare);I;4;0
+Reuniclus;Pokemon;Psychic;140;;Cellular Ascension|Evo-Lariat;BLK 39 (Uncommon)/SVP 212 (Promo);I;4;0
+Elgyem;Pokemon;Psychic;60;;Slight Shift|Beam;BLK 40 (Common)/BLK 120 (Illustration Rare);I;4;0
 
 Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
@@ -621,7 +629,7 @@ Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield
 # BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
-# BLK 87-116 done
+# BLK 87-120 done
 # BLK 156-158 done
 # BLK 161 done
 # BLK 164-166 done
