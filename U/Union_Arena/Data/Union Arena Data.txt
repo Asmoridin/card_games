@@ -42,7 +42,7 @@ Action Point Card (AP01);;KMY-3-AP01;R;Action Point;;;;Demon Slayer: Kimetsu no 
 Action Point Card (AP01);;KMY-AP01;R;Action Point;;;;Promotional Card;;0
 Action Point Card (AP01);;NIK-1-AP01;R;Action Point;;;;Goddess of Victory: Nikke [UE14BT];;2
 Action Point Card (AP01);;NIK-AP01;R;Action Point;;;;Promotional Card;;0
-Action Point Card (AP01);;OPM-1-AP01;C;Action Point;;;;One-Punch Man [UE06ST];;0
+Action Point Card (AP01);;OPM-1-AP01;C;Action Point;;;;One-Punch Man [UE06ST];;3
 Action Point Card (AP01);;OPM-1-AP01;R;Action Point;;;;One-Punch Man [UE06BT];;0
 Action Point Card (AP01);;OPM-AP01;R;Action Point;;;;Promotional Card;;0
 Action Point Card (AP01);;RNK-1-AP01;C;Action Point;;;;Rurouni Kenshin [UE11ST];;0
@@ -333,10 +333,10 @@ Back;;HTR-2-035;U;Event;Yellow;1;1;Hunter × Hunter Vol.2 [UEX04BT];Get;1
 Bakko;;KJ8-1-022;C;Character;Yellow;3;1;Kaiju No. 8 [UE12BT];Color;0
 Bakko;;KJ8-1-023;U;Character;Yellow;4;1;Kaiju No. 8 [UE12BT];Draw;0
 Bambietta Basterbine;Stern Ritters/Zombie;BLC-2-006;R;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Color;0
-Bambietta Basterbine;Stern Ritters;BLC-1-012;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;1
+Bambietta Basterbine;Stern Ritters;BLC-1-012;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;2
 Bambietta Basterbine;Stern Ritters;BLC-1-013;R;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Bambietta Basterbine;Stern Ritters;BLC-1-014;SR;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
-Bankai;;BLC-1-066;U;Event;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];Final;0
+Bankai;;BLC-1-066;U;Event;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];Final;1
 Bankai;;BLC-1-100;U;Event;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Final;0
 Bankai;;BLC-2-049;U;Event;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Final;0
 Bara;The Bomber;HTR-1-025;U;Character;Blue;3;1;Hunter × Hunter [UE02BT];Draw;0
@@ -355,7 +355,7 @@ Beautiful Suzuki;;YYH-1-002;R;Character;Purple;3;1;Yu Yu Hakusho: Ghost Files [U
 Bento;;KMY-1-094;U;Site;Red;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
 Bercouli Synthesis One;Integrity Knights;SAO-1-017;U;Character;Yellow;5;1;Sword Art Online [UE07BT];Active;0
 Bercouli Synthesis One;Integrity Knights;SAO-2-006;C;Character;Yellow;2;1;Sword Art Online Vol.2 [UEX06BT];;0
-Berenice Gabrielli;Stern Ritters;BLC-1-016;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+Berenice Gabrielli;Stern Ritters;BLC-1-016;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Bertholdt Hoover (Colossal Titan);104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-057;SR;Character;Green;10;1;Attack on Titan [UE10BT];Raid;0
 Bertholdt Hoover;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-054;C;Character;Green;0;1;Attack on Titan [UE10BT];;0
 Bertholdt Hoover;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-055;U;Character;Green;3;1;Attack on Titan [UE10BT];Active;0
@@ -363,7 +363,7 @@ Bertholdt Hoover;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1
 Bertholdt Hoover;104th Cadet Corps;AOT-1-102;C;Character;Red;3;1;Attack on Titan [UE10ST];Active;4
 Beshimi;Oniwaban Group;RNK-1-021;U;Character;Blue;1;1;Rurouni Kenshin [UE11BT];Draw;0
 Bestowing Knighthood;;CGH-1-065;C;Event;Green;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
-BG9;Stern Ritters;BLC-1-015;U;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+BG9;Stern Ritters;BLC-1-015;U;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Binolt;;HTR-1-013;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];;0
 Biscuit;Tetra Line/Happy Zoo;NIK-1-078;R;Character;Green;1;1;Goddess of Victory: Nikke [UE14BT];Draw;0
 Bisky's Meal;;HTR-2-036;U;Event;Yellow;3;1;Hunter × Hunter Vol.2 [UEX04BT];Final;1
@@ -383,7 +383,7 @@ Black Hayate;;FMA-1-044;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];Active
 Blanc;Tetra Line/777;NIK-1-074;U;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];;4
 Blue Planet;Specified Slot;HTR-2-049;U;Site;Blue;2;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;1
 Blut;;BLC-1-032;C;Event;Yellow;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
-Bomb;;OPM-1-001;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Active;0
+Bomb;;OPM-1-001;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Active;4 # have 4 starter
 Bomb;;OPM-1-002;U;Character;Yellow;3;1;One-Punch Man [UE06BT];Active;0
 Bombs;;AOT-1-032;C;Event;Blue;2;1;Attack on Titan [UE10BT];;0
 Bonolenov & Kortopi;Phantom Troupe;HTR-1-047;C;Character;Purple;1;1;Hunter × Hunter [UE02BT];;0
@@ -409,7 +409,7 @@ Butterfly Mansion;;KMY-1-028;U;Site;Yellow;2;1;Demon Slayer: Kimetsu no Yaiba [U
 Byakko;;YYH-1-026;C;Character;Purple;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-048;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-049;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Color;0
-Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-050;SR;Character;Purple;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
+Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-050;SR;Character;Purple;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;1
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-2-029;U;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-2-030;SR;Character;Blue;4;2;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Color;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-2-053;U;Character;Purple;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
@@ -438,7 +438,7 @@ Carla Jaeger;;AOT-1-068;C;Character;Red;0;1;Attack on Titan [UE10BT]/Attack on T
 Carnage Kabuto;House of Evolution;OPM-1-092;U;Character;Red;4;1;One-Punch Man [UE06BT];Active;0
 Cart Titan;Inheritor of the Titan;AOT-1-039;U;Character;Green;1;1;Attack on Titan [UE10BT];;0
 Cecil;;NIK-1-034;C;Character;Purple;0;1;Goddess of Victory: Nikke [UE14BT];;4
-Centi;Missilis/Mighty Tools;NIK-1-113;R;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];Draw;2
+Centi;Missilis/Mighty Tools;NIK-1-113;R;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];Draw;3
 Centichoro;Monster Association;OPM-1-090;U;Character;Red;4;1;One-Punch Man [UE06BT];Active;0
 Charles zi Britannia;Holy Britannian Empire;CGH-1-040;SR;Character;Green;3;2;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Charlotte Chuhlhourne;Arrancars/Kurotsuchi Corpse Unit;BLC-2-039;U;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
@@ -453,7 +453,7 @@ Childhood Promise;;KJ8-1-075;C;Event;Green;2;1;Kaiju No. 8 [UE12BT];Draw;1
 Chimera Shadow Garden;;JJK-1-027;U;Site;Yellow;4;1;Jujutsu Kaisen [UE03BT];Get;0
 Cho Sawagejo;Ten Swords;RNK-1-053;C;Character;Purple;0;1;Rurouni Kenshin [UE11BT];Draw;0
 Cho Sawagejo;Ten Swords;RNK-1-054;U;Character;Purple;4;1;Rurouni Kenshin [UE11BT];Get;0
-Chojiro Tadaoki Sasakibe;Thirteen Court Guard Squads;BLC-1-079;U;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+Chojiro Tadaoki Sasakibe;Thirteen Court Guard Squads;BLC-1-079;U;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Choso;Cursed Wombs: Death Paintings;JJK-3-060;C;Character;Red;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Get;0
 Choso;Cursed Wombs: Death Paintings;JJK-3-061;U;Character;Red;1;1;Jujutsu Kaisen Vol.2 [UEX02BT];Draw;0
 Choso;Cursed Wombs: Death Paintings;JJK-3-062;R;Character;Red;4;1;Jujutsu Kaisen Vol.2 [UEX02BT];Raid;0
@@ -567,7 +567,7 @@ Emergency Meeting;;BCV-1-109;U;Site;Red;2;1;Black Clover [UE08ST];Get;0
 Emperor Time: Absolute Mastery;;HTR-1-096;U;Event;Green;5;1;Hunter × Hunter [UE02BT];Special;0
 En & Kai & Ryo;;YYH-1-004;C;Character;Purple;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Encounter;;NIK-1-029;U;Event;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];Final;4
-Encounter;;NIK-1-063;U;Event;Purple;3;1;Goddess of Victory: Nikke [UE14BT];Final;3
+Encounter;;NIK-1-063;U;Event;Purple;3;1;Goddess of Victory: Nikke [UE14BT];Final;4
 Encounter;;NIK-1-098;U;Event;Green;3;1;Goddess of Victory: Nikke [UE14BT];Final;4
 Enmu;Lower Rank Demon;KMY-1-044;C;Character;Purple;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Enmu;Lower Rank Demon;KMY-1-045;R;Character;Purple;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
@@ -665,14 +665,14 @@ Genkai;;YYH-1-044;C;Character;Green;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Acti
 Genkai;;YYH-1-045;U;Character;Green;3;2;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;0
 Genkai;;YYH-1-046;U;Character;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Color;0
 Genkai;;YYH-1-047;SR;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Raid;0
-Genos;Hero;OPM-1-005;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Get;0
+Genos;Hero;OPM-1-005;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Get;4 # have 4 starter
 Genos;Hero;OPM-1-006;R;Character;Yellow;2;1;One-Punch Man [UE06BT];;0
 Genos;Hero;OPM-1-007;SR;Character;Yellow;3;1;One-Punch Man [UE06BT];Color;0
 Genos;Hero;OPM-1-046;C;Character;Green;0;1;One-Punch Man [UE06BT];Draw;0
 Genos;Hero;OPM-1-047;U;Character;Green;3;1;One-Punch Man [UE06BT];Draw;0
 Genos;Hero;OPM-1-048;R;Character;Green;4;1;One-Punch Man [UE06BT];Raid;0
-Genos;Hero;OPM-1-101;U;Character;Yellow;3;1;One-Punch Man [UE06ST];Draw;0
-Genos;Hero;OPM-1-102;SR;Character;Yellow;4;1;One-Punch Man [UE06ST];Raid;0
+Genos;Hero;OPM-1-101;U;Character;Yellow;3;1;One-Punch Man [UE06ST];Draw;4
+Genos;Hero;OPM-1-102;SR;Character;Yellow;4;1;One-Punch Man [UE06ST];Raid;4
 Genthru;The Bomber;HTR-1-020;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];Get;0
 Genthru;The Bomber;HTR-1-021;U;Character;Blue;1;1;Hunter × Hunter [UE02BT];;0
 Genthru;The Bomber;HTR-1-022;R;Character;Blue;3;2;Hunter × Hunter [UE02BT];Color;0
@@ -786,10 +786,10 @@ Heavens Arena;;HTR-1-095;U;Site;Green;3;1;Hunter × Hunter [UE02BT];Get;1
 Hellfire Flame;Monster Association;OPM-1-084;U;Character;Red;2;1;One-Punch Man [UE06BT];;0
 Hellish Blizzard;Hero;OPM-1-019;C;Character;Yellow;0;1;One-Punch Man [UE06BT];Draw;0
 Hellish Blizzard;Hero;OPM-1-020;U;Character;Yellow;1;1;One-Punch Man [UE06BT];;0
-Hellish Blizzard;Hero;OPM-1-021;U;Character;Yellow;2;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;0
+Hellish Blizzard;Hero;OPM-1-021;U;Character;Yellow;2;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;4 # have 4 starter
 Hellish Blizzard;Hero;OPM-1-022;R;Character;Yellow;3;1;One-Punch Man [UE06BT];Color;0
 Hellish Blizzard;Hero;OPM-1-023;SR;Character;Yellow;4;1;One-Punch Man [UE06BT];Raid;0
-Hellish Blizzard;Hero;OPM-1-107;C;Character;Yellow;3;1;One-Punch Man [UE06ST];Active;0
+Hellish Blizzard;Hero;OPM-1-107;C;Character;Yellow;3;1;One-Punch Man [UE06ST];Active;4
 Hellstorm;;OPM-1-028;C;Event;Yellow;3;1;One-Punch Man [UE06BT];Draw;0
 Helm;Elysion/Aegis;NIK-1-002;U;Character;Yellow;2;1;Goddess of Victory: Nikke [UE14BT];;4
 Henry Legolant;Black Bulls;BCV-1-086;C;Character;Red;3;1;Black Clover [UE08BT];;0
@@ -797,7 +797,7 @@ Henry Legolant;Black Bulls;BCV-1-111;R;Character;Purple;2;1;Black Clover [UE08ST
 Henya Kariwa;Ten Swords;RNK-1-051;C;Character;Purple;3;1;Rurouni Kenshin [UE11BT];;0
 Hero Almanac;;OPM-1-098;C;Event;Red;3;1;One-Punch Man [UE06BT];Draw;0
 Hero Association;;OPM-1-063;U;Site;Green;1;1;One-Punch Man [UE06BT];Draw;0
-Hero;;OPM-1-032;U;Event;Yellow;3;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Final;0
+Hero;;OPM-1-032;U;Event;Yellow;3;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Final;4 # have 4 starter
 Heymans Breda;;FMA-1-043;C;Character;Blue;3;1;Fullmetal Alchemist [UE09BT];;4
 Hiei;;YYH-1-053;C;Character;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
 Hiei;;YYH-1-054;R;Character;Green;5;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
@@ -870,7 +870,7 @@ Illumi;Zoldyck Family;HTR-1-049;R;Character;Purple;3;1;Hunter × Hunter [UE02BT]
 Illumi;Zoldyck Family;HTR-1-050;SR;Character;Purple;5;1;Hunter × Hunter [UE02BT];Raid;0
 Illumi;Zoldyck Family;HTR-2-055;U;Character;Purple;4;1;Hunter × Hunter Vol.2 [UEX04BT];Color;0
 Illumi;Zoldyck Family;HTR-2-076;R;Character;Purple;1;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;0
-Incineration Cannons;;OPM-1-029;R;Event;Yellow;4;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Special;1
+Incineration Cannons;;OPM-1-029;R;Event;Yellow;4;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Special;4 # have 4 starter, 1 booster
 Inoko;Disguised;KMY-1-091;C;Character;Red;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Inosuke Hashibira;;KMY-1-015;U;Character;Yellow;1;1;Demon Slayer: Kimetsu no Yaiba [UE05ST]/Demon Slayer: Kimetsu no Yaiba [UE05BT];;4 # have 4 starter
 Inosuke Hashibira;;KMY-1-076;C;Character;Red;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
@@ -883,7 +883,7 @@ Ironclad Rengoku;;RNK-1-062;U;Site;Purple;3;1;Rurouni Kenshin [UE11BT];Get;0
 Isabel;Pilgrim/Inherit;NIK-1-037;C;Character;Purple;1;1;Goddess of Victory: Nikke [UE14BT];;4
 Isabel;Pilgrim/Inherit;NIK-1-038;U;Character;Purple;2;1;Goddess of Victory: Nikke [UE14BT];;4
 Isabel;Pilgrim/Inherit;NIK-1-039;R;Character;Purple;2;1;Goddess of Victory: Nikke [UE14BT];;3
-Isane Kotetsu;Thirteen Court Guard Squads;BLC-1-077;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
+Isane Kotetsu;Thirteen Court Guard Squads;BLC-1-077;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;2
 It's About Me Taking You On Right Here, Right Now;;OPM-1-065;U;Event;Green;3;1;One-Punch Man [UE06BT];Final;0
 Izumi Curtis;;FMA-1-005;U;Character;Yellow;4;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];;4
 Izumi Curtis;;FMA-1-038;C;Character;Blue;4;1;Fullmetal Alchemist [UE09BT];;4
@@ -1061,7 +1061,7 @@ King Bradley;Homunculus/Human;FMA-1-092;U;Character;Purple;2;1;Fullmetal Alchemi
 King Bradley;Homunculus/Human;FMA-1-093;SR;Character;Purple;6;1;Fullmetal Alchemist [UE09BT];Raid;4 # 3 regular, 1 alt
 King Bradley;Homunculus/Human;FMA-1-113;R;Character;Purple;3;1;Fullmetal Alchemist [UE09ST];Draw;3
 King Engine;;OPM-1-064;U;Event;Green;5;1;One-Punch Man [UE06BT];Special;0
-King;Hero;OPM-1-003;U;Character;Yellow;1;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;0
+King;Hero;OPM-1-003;U;Character;Yellow;1;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;4 # have 4 starter
 King;Hero;OPM-1-004;R;Character;Yellow;0;1;One-Punch Man [UE06BT];Draw;0
 King;Hero;OPM-1-039;C;Character;Green;0;1;One-Punch Man [UE06BT];Get;0
 King;Hero;OPM-1-040;U;Character;Green;1;1;One-Punch Man [UE06BT];Draw;0
@@ -1222,7 +1222,7 @@ Lisbeth;ALO;SAO-1-061;U;Character;Blue;2;1;Sword Art Online [UE07BT];;0
 Lisbeth;ALO;SAO-1-083;R;Character;Green;3;2;Sword Art Online [UE07BT];Active;0
 Lisbeth;SAO Survivor;SAO-2-039;U;Character;Purple;1;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
 List;;HTR-2-004;U;Character;Yellow;1;1;Hunter × Hunter Vol.2 [UEX04BT];;0
-Liter;Missilis/Mighty Tools;NIK-1-084;SR;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];Color;2
+Liter;Missilis/Mighty Tools;NIK-1-084;SR;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];Color;3
 Live!;;CGH-1-062;U;Event;Green;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Final;0
 Lloyd Asplund;Holy Britannian Empire;CGH-1-048;U;Character;Green;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Locket;;CGH-2-037;C;Event;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Active;0
@@ -1244,7 +1244,7 @@ Ludmilla;Tetra Line/Unlimited;NIK-1-083;R;Character;Green;3;1;Goddess of Victory
 Lumiere Silvamillion Clover;;BCV-1-036;U;Character;Green;1;1;Black Clover [UE08BT];;0
 Luppi Antenor;Arrancars/Kurotsuchi Corpse Unit;BLC-2-042;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Lust;Homunculus;FMA-1-088;C;Character;Purple;0;1;Fullmetal Alchemist [UE09BT];Draw;4
-Lust;Homunculus;FMA-1-089;R;Character;Purple;3;1;Fullmetal Alchemist [UE09BT];Color;3
+Lust;Homunculus;FMA-1-089;R;Character;Purple;3;1;Fullmetal Alchemist [UE09BT];Color;4
 Lust;Homunculus;FMA-1-090;SR;Character;Purple;4;1;Fullmetal Alchemist [UE09BT];Raid;1
 Machi;Phantom Troupe;HTR-1-048;U;Character;Purple;1;1;Hunter × Hunter [UE02BT];;0
 Maes Hughes;;FMA-1-045;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];;4
@@ -1297,7 +1297,7 @@ May Chang;Xing;FMA-1-019;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Get
 May Chang;Xing;FMA-1-020;U;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];;4
 May Chang;Xing;FMA-1-021;R;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];Get;2
 Maya Ibuki;;EVA-1-076;C;Character;Red;3;1;Evangelion: New Theatrical Edition [UE15ST]/Evangelion: New Theatrical Edition [UE15BT];;0
-Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-1-054;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-1-054;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-036;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-037;R;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-038;SR;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
@@ -1424,7 +1424,7 @@ Muichiro Tokito;Hashira;KMY-3-038;R;Character;Blue;4;1;Demon Slayer: Kimetsu no 
 Muichiro Tokito;Hashira;KMY-3-039;SR;Character;Blue;5;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Raid;0
 Mumen Rider;Hero;OPM-1-016;C;Character;Yellow;0;1;One-Punch Man [UE06BT];;1
 Mumen Rider;Hero;OPM-1-060;R;Character;Green;1;1;One-Punch Man [UE06BT];Active;0
-Mumen Rider;Hero;OPM-1-105;C;Character;Yellow;0;1;One-Punch Man [UE06ST];;0
+Mumen Rider;Hero;OPM-1-105;C;Character;Yellow;0;1;One-Punch Man [UE06ST];;4
 Murata;;KMY-1-016;C;Character;Yellow;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Muscular Mice;;KMY-1-080;C;Character;Red;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Musketeer X;GGO;SAO-1-094;C;Character;Green;0;1;Sword Art Online [UE07BT];Active;0
@@ -1527,7 +1527,7 @@ Olivier Mira Armstrong;Briggs;FMA-1-059;R;Character;Blue;3;1;Fullmetal Alchemist
 Olivier Mira Armstrong;Briggs;FMA-1-060;SR;Character;Blue;6;1;Fullmetal Alchemist [UE09BT];Raid;1
 Omni-Directional Mobility Gear;;AOT-1-099;R;Event;Red;4;1;Attack on Titan [UE10BT];Special;0
 One Million Miracles;;CGH-2-036;U;Event;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Final;0
-ONE PUNCH;;OPM-1-109;R;Event;Yellow;4;1;One-Punch Man [UE06ST];Draw;0
+ONE PUNCH;;OPM-1-109;R;Event;Yellow;4;1;One-Punch Man [UE06ST];Draw;4
 Onji;;YYH-1-005;C;Character;Purple;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;1
 Operations Room (Operation Yashima);;EVA-1-093;C;Site;Red;4;1;Evangelion: New Theatrical Edition [UE15BT];Get;0
 Order of the Black Knights;;CGH-1-109;R;Event;Purple;1;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
@@ -1639,7 +1639,7 @@ Reiner Braun;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-060
 Reiner Braun;104th Cadet Corps;AOT-1-103;C;Character;Red;1;1;Attack on Titan [UE10ST];;4
 Release;;HTR-1-033;U;Event;Blue;3;2;Hunter × Hunter [UE02BT];Special;0
 Render Heaven and Earth Asunder!;;NIK-1-064;U;Event;Purple;4;1;Goddess of Victory: Nikke [UE14BT];Special;4
-Renji Abarai;Thirteen Court Guard Squads;BLC-1-045;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
+Renji Abarai;Thirteen Court Guard Squads;BLC-1-045;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;1
 Renji Abarai;Thirteen Court Guard Squads;BLC-1-046;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];;1
 Renji Abarai;Thirteen Court Guard Squads;BLC-1-047;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
 Renji Abarai;Thirteen Court Guard Squads;BLC-1-105;SR;Character;Purple;5;2;BLEACH: Thousand-Year Blood War [UE01ST];Active;0
@@ -1702,7 +1702,7 @@ Rui;Lower Rank Demon;KMY-1-050;R;Character;Purple;3;1;Demon Slayer: Kimetsu no Y
 Ruka Rengoku;;KMY-3-067;C;Character;Red;2;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];;0
 Ruka;;YYH-1-062;C;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-051;C;Character;Purple;0;1;Promotional Card;Draw;0
-Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-052;R;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-052;R;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;1
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-053;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-106;R;Character;Purple;4;2;BLEACH: Thousand-Year Blood War [UE01ST];Get;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-2-031;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
@@ -1718,12 +1718,12 @@ Ryouga Senba;Order of the Black Knights/Four Holy Swords;CGH-1-020;C;Character;P
 Ryuutsuisen;;RNK-1-100;U;Event;Red;4;1;Rurouni Kenshin [UE11ST]/Rurouni Kenshin [UE11BT];Special;0
 Sabito;;KMY-1-105;C;Character;Yellow;1;1;Demon Slayer: Kimetsu no Yaiba [UE05ST];;4
 Sachi;Aincrad;SAO-1-105;U;Character;Blue;1;1;Sword Art Online [UE07ST];;0
-Saitama's Apartment;;OPM-1-108;U;Site;Yellow;2;1;One-Punch Man [UE06ST];Get;0
-Saitama;Hero;OPM-1-017;U;Character;Yellow;3;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Active;0
+Saitama's Apartment;;OPM-1-108;U;Site;Yellow;2;1;One-Punch Man [UE06ST];Get;4
+Saitama;Hero;OPM-1-017;U;Character;Yellow;3;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Active;4 # have 4 starter
 Saitama;Hero;OPM-1-018;SR;Character;Yellow;5;2;One-Punch Man [UE06BT];Get;0
 Saitama;Hero;OPM-1-061;R;Character;Green;15;1;One-Punch Man [UE06BT];Draw;0
 Saitama;Hero;OPM-1-062;SR;Character;Green;15;2;One-Punch Man [UE06BT];Get;1
-Saitama;Hero;OPM-1-106;SR;Character;Yellow;4;2;One-Punch Man [UE06ST];Get;0
+Saitama;Hero;OPM-1-106;SR;Character;Yellow;4;2;One-Punch Man [UE06ST];Get;4
 Sajin Komamura;Thirteen Court Guard Squads;BLC-1-078;R;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Sajin Komamura;Thirteen Court Guard Squads;BLC-2-065;U;Character;Green;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
 Sakabato: Shinuchi;;RNK-1-032;U;Event;Blue;2;1;Rurouni Kenshin [UE11BT];Draw;0
@@ -1837,7 +1837,7 @@ Shoko Ieiri;;JJK-3-002;U;Character;Yellow;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Dra
 Shou Tucker;Human;FMA-1-069;U;Character;Purple;3;1;Fullmetal Alchemist [UE09BT];Draw;4
 Shougo Asahina;Order of the Black Knights/Four Holy Swords;CGH-1-018;C;Character;Purple;2;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Shougo Asahina;Order of the Black Knights/Four Holy Swords;CGH-2-043;C;Character;Purple;0;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Active;0
-Shuhei Hisagi;Thirteen Court Guard Squads;BLC-1-082;C;Character;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+Shuhei Hisagi;Thirteen Court Guard Squads;BLC-1-082;C;Character;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Shuhei Hisagi;Thirteen Court Guard Squads;BLC-2-068;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Shuichi Minamino;;YYH-1-087;C;Character;Red;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
 Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-1-074;R;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
@@ -1853,11 +1853,11 @@ Silica;ALO;SAO-1-075;R;Character;Green;3;1;Sword Art Online [UE07BT];;0
 Silica;SAO Survivor;SAO-2-038;C;Character;Purple;3;1;Sword Art Online Vol.2 [UEX06BT];;0
 Silva;Zoldyck Family;HTR-1-055;U;Character;Purple;4;1;Hunter × Hunter [UE02BT];;0
 Silva;Zoldyck Family;HTR-1-056;SR;Character;Purple;5;2;Hunter × Hunter [UE02BT];Get;0
-Silverfang;Hero;OPM-1-008;C;Character;Yellow;1;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Draw;0
+Silverfang;Hero;OPM-1-008;C;Character;Yellow;1;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Draw;4 # have 4 starter
 Silverfang;Hero;OPM-1-009;U;Character;Yellow;0;1;One-Punch Man [UE06BT];;0
 Silverfang;Hero;OPM-1-010;R;Character;Yellow;4;1;One-Punch Man [UE06BT];Get;0
 Silverfang;Hero;OPM-1-049;SR;Character;Green;6;1;One-Punch Man [UE06BT];Color;0
-Silverfang;Hero;OPM-1-103;C;Character;Yellow;2;1;One-Punch Man [UE06ST];Active;0
+Silverfang;Hero;OPM-1-103;C;Character;Yellow;2;1;One-Punch Man [UE06ST];Active;4
 Silverfang;Hero;OPM-1-110;R;Character;Green;4;1;One-Punch Man [UE06BT];Draw;0
 Sinon (Sun Goddess, Solus);Goddess;SAO-1-023;C;Character;Yellow;0;1;Sword Art Online [UE07BT];Draw;0
 Sinon (Sun Goddess, Solus);Goddess;SAO-1-024;U;Character;Yellow;2;1;Sword Art Online [UE07BT];;0
@@ -2015,12 +2015,12 @@ Tenjiro Kirinji;Squad Zero;BLC-1-056;C;Character;Purple;1;1;BLEACH: Thousand-Yea
 Tenjiro Kirinji;Squad Zero;BLC-2-055;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Teoni;;KMY-1-041;C;Character;Purple;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Draw;0
 Terrible Tornado;Hero;OPM-1-011;C;Character;Yellow;0;1;One-Punch Man [UE06BT];Get;0
-Terrible Tornado;Hero;OPM-1-012;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;1
+Terrible Tornado;Hero;OPM-1-012;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;4 # have 4 starter, 1 booster
 Terrible Tornado;Hero;OPM-1-013;U;Character;Yellow;3;1;One-Punch Man [UE06BT];Active;1
 Terrible Tornado;Hero;OPM-1-014;R;Character;Yellow;2;1;One-Punch Man [UE06BT];Draw;0
 Terrible Tornado;Hero;OPM-1-015;SR;Character;Yellow;4;1;One-Punch Man [UE06BT];Raid;0
 Terrible Tornado;Hero;OPM-1-051;R;Character;Green;4;1;One-Punch Man [UE06BT];Active;0
-Terrible Tornado;Hero;OPM-1-104;R;Character;Yellow;4;1;One-Punch Man [UE06ST];Draw;0
+Terrible Tornado;Hero;OPM-1-104;R;Character;Yellow;4;1;One-Punch Man [UE06ST];Draw;4
 Terrible Tornado;Hero;OPM-1-111;R;Character;Green;7;1;One-Punch Man [UE06BT];Draw;0
 Testing Gate;;HTR-1-061;U;Site;Purple;3;1;Hunter × Hunter [UE02BT];;1
 The Ark;;NIK-1-108;U;Site;Yellow;2;1;Goddess of Victory: Nikke [UE14BT];Get;4
@@ -2030,7 +2030,7 @@ The Clover Kingdom;;BCV-1-063;C;Site;Green;3;1;Black Clover [UE08BT];Get;0
 The Dark Tournament;;YYH-1-029;U;Site;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
 The Dwarf in the Flask;Homunculus;FMA-1-087;C;Character;Purple;0;1;Fullmetal Alchemist [UE09BT];Active;4
 The Fear;;BLC-1-031;U;Event;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Special;1
-The Jail;;BLC-1-030;C;Event;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
+The Jail;;BLC-1-030;C;Event;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;1
 The Mark;;KMY-3-044;U;Event;Blue;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Final;0
 The Military is in Trouble!;;FMA-1-064;C;Event;Blue;2;1;Fullmetal Alchemist [UE09BT];Draw;4
 The Osmanthus Blade;;SAO-1-030;R;Event;Yellow;4;1;Sword Art Online [UE07BT];Special;0
