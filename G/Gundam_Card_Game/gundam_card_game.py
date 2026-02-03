@@ -12,7 +12,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Gundam Card Game"
 
-CURRENT_DECK_ERA = "GD02"
+CURRENT_DECK_ERA = "GD03"
 
 valid_rarities = ['C', 'U', 'R', 'LR']
 valid_types = ['Unit', 'Command', 'Base', 'Pilot', ]
@@ -108,6 +108,7 @@ for deck_colors in os.listdir(DECK_PREFIX):
             if DECK_CARD_NUMBER not in card_mapping:
                 print(f"Unknown card {DECK_CARD_NAME} in deck {deck_path}")
             if DECK_CARD_NAME != card_mapping[DECK_CARD_NUMBER]:
+                print(card_mapping[DECK_CARD_NUMBER])
                 print(f"Card name/number mismatch for {DECK_CARD_NAME} in deck {deck_path}")
             if DECK_CARD_NUMBER not in deck_dict:
                 deck_dict[DECK_CARD_NUMBER] = 0
