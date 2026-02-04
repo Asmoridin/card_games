@@ -317,6 +317,15 @@ Captain Chakotay;Personnel;Non-Aligned;The Borg;777;;2;0
 Captain Dax;Personnel;Federation;Mirror, Mirror;778,4838;;2;0
 Captain Kang;Personnel;Klingon;The Motion Pictures;779,7218;;2;0
 Captain Kirk;Personnel;Federation;The Dominion/The Trouble with Tribbles;780,3117;;2;0
+Captain Koloth;Personnel;Klingon;The Trouble with Tribbles/Virtual Promos;781,5748;;2;0
+Captain Proton;Personnel;Non-Aligned;Holodeck Adventures;782;;2;0
+Captain Spock;Personnel;Federation;The Motion Pictures;783,7219;;2;0
+Captain Styles;Personnel;Federation;The Motion Pictures;784,7220;;2;0
+Captain Sulu;Personnel;Federation;The Motion Pictures/Virtual Promos;785,4964,7221;;2;0
+Captain's Log;Event;;Alternate Universe/Voyager;786,787;;4;0
+Captured;Incident;;Blaze of Glory/Virtual Promos;788,7438;;4;0
+Cardassian Disruptor Rifle;Equipment;;Deep Space 9;790;;4;0
+Cardassian Disruptor;Equipment;;Deep Space 9;789,7508;;4;0
 Cardassian Processing;Dilemma;Dual;Homefront II;3848;;4;4
 Cardassian Shuttle;Ship;Cardassian;Deep Space 9;86;;4;0
 Cardassian Trap;Dilemma;Dual;Alternate Universe;793;;4;0 # Needs errata
@@ -962,7 +971,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 780
+# Done through card 790
 #793
 #808
 #824
@@ -1258,6 +1267,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4879-4880
 #4892
 #4954
+#4964
 #5146
 #5170-5171
 #5173
@@ -1294,6 +1304,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5724
 #5728
 #5731-5732
+#5748
 #5809
 #5811-5815
 #5817
@@ -1520,15 +1531,17 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7169
 #7173
 #7179-7180
-#7183-7218
+#7183-7221
 #7251
 #7277
 #7318
 #7327
 #7371
 #7432
+#7438
 #7441
 #7503-7505
+#7508
 #7510-7511
 #7513-7514
 #7516-7517

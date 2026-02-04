@@ -1986,8 +1986,21 @@ Blood of the Preserver • Experienced 2;Item;;Chaos Reigns III (Fixed);Shattere
 Blood of the Preserver • Experienced;Item;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
 Blood of the Preserver • Experienced;Item;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
 Blood Pact;Strategy;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
+Blood Pearl;Item;;Web of Lies (Uncommon);Age of Enlightenment (Lotus);3;0
+Blood Pearl;Item;;Web of Lies (Uncommon);Rain of Blood (Diamond);3;0
 Blood Rite;Spell;;Gold Edition (Rare);Four Winds (Gold);3;0
 Blood Rite;Spell;;Soul of the Empire (Rare);Hidden Emperor (Jade);3;2
+Blood-Soaked Ground;Region;;Reign of Blood (Rare);Rain of Blood (Diamond);3;0
+Bloodied Ground;Strategy;;Winds of Change (Rare);Four Winds (Gold);3;0
+Bloodied Ground;Strategy;;Winds of Change (Rare);Rain of Blood (Diamond);3;0
+Bloodsmith;Follower;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Bloodspeaker Ambush;Strategy;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
+Bloodspeaker Sanctum;Holding;;Reign of Blood (Uncommon);Rain of Blood (Diamond);3;0
+Bloodspeaker Students;Follower;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Bloodspeaker Students;Follower;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
+Bloodspeaker's Altar;Holding;;1,000 Years of Darkness (Fixed);Four Winds (Gold);3;0
+Bloodspeaker's Altar;Holding;;1,000 Years of Darkness (Fixed);Rain of Blood (Diamond);3;0
+Bloodspeaker's Deal;Strategy;;Ambition's Debt (Uncommon);Hidden Emperor (Jade);3;0
 Bloodstained Forest;Spell;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Bloodstained Forest;Spell;;Soul of the Empire (Uncommon)/Storms Over Matsu Palace (Fixed);Hidden Emperor (Jade);3;2
 Bloodsword;Item;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;3
@@ -3577,6 +3590,12 @@ Imperial Gift;Event;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Imperial Gift;Event;;Shattered Empire (Fixed);Shattered Empire;1;0
 Imperial Reinforcements;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Imperial Reinforcements;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Imperial Summons;Strategy;;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
+Imperial Summons;Strategy;;Ivory Edition (Uncommon)/Promotional–Twenty Festivals (Promo);A Brother's Destiny (Twenty Festivals);3;0
+Imperial Summons;Strategy;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
+Imperial Summons;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Imperial Summons;Strategy;;Promotional–Twenty Festivals (Promo);War of the Seals (Onyx Edition);3;0
+Imperial Summons;Strategy;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
 Imperial Treasurer's Outpost;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Imperial Treasurer's Outpost;Holding;;Shattered Empire (Fixed);Shattered Empire;3;0
 Imperial Wedding;Event;;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
@@ -5937,6 +5956,8 @@ Stockpiled Weapon;Item;;A Line in the Sand (Common);A Brother's Destiny (Ivory E
 Stockpiled Weapon;Item;;A Line in the Sand (Common);A Brother's Destiny (Twenty Festivals);3;0
 Stockpiled Weapon;Item;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Stockpiled Weapon;Item;;Shattered Empire (Fixed);Shattered Empire;3;0
+Stolen Merchandise;Holding;;Before the Dawn (Rare);Age of Conquest (Emperor);1;0
+Stolen Merchandise;Holding;;Before the Dawn (Rare);Destroyer War (Celestial);1;0
 Stolen Records;Strategy;;An Oni's Fury (Common);Four Winds (Gold);3;1
 Stones of Purity;Spell;;A Line in the Sand (Common);A Brother's Destiny (Ivory Edition);3;0
 Stones of Purity;Spell;;A Line in the Sand (Common);A Brother's Destiny (Twenty Festivals);3;0
@@ -6304,6 +6325,7 @@ The Head of My Enemy • Experienced;Strategy;;Chaos Reigns II (Fixed);Shattered
 The Heart's Arrow;Spell;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 The Heart's Arrow;Spell;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 The Height of Courage;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
+The Heir's Wrath;Strategy;;Embers of War (Rare);Age of Conquest (Emperor);1;0
 The Hida Ryokans;Holding;;Road to Ruin (Fixed);Shattered Empire;3;0
 The Hida Ryokans;Holding;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 The Hidden Heart of Iuchiban • ExperiencedCW;Ring;;Siege: Clan War (Fixed);Legacy;1;1
@@ -7277,8 +7299,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1060
-#1062
+# Done through card #1070
 #1072
 #1076
 #1084
@@ -7512,6 +7533,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3636
 #3650
 #3694
+#3710
 #3713
 #3730
 #3743
@@ -7881,6 +7903,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7470
 #7475-7476
 #7487
+#7494
 #7496
 #7503
 #7510
@@ -7938,6 +7961,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8092-8093
 #8095-8096
 #8098
+#8127
 #8143
 #8149-8150
 #8168
