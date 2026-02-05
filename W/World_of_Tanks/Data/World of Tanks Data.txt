@@ -1,8 +1,24 @@
-Excelsior;UK;Heavy Tank;4;3;3;First Strike;160;U;0
-Panther II;Germany;Medium Tank;2;2;3;First Strike;53;P;0
+Excelsior;UK;Heavy Tank;4;3;3;1;Thick Armor;First Strike;160;U;0
+Panther II;Germany;Medium Tank;2;2;3;2;Blitz;First Strike;53;P;0
 Armament Storage Collapse;France;Base;First Strike;18;Standard;0
-Challenger;UK;Tank Destroyer;4;2;3;First Strike;164;R;0
-LTG;USSR;Light Tank;1;2;2;First Strike;74;C;0
-B.U.G.I.;Poland;Medium Tank;2;3;4;First Strike;173;C;0
-Achilles;UK;Tank Destroyer;3;2;2;First Strike;163;C;0
-T-100 LT;USSR;Light Tank;1;0;1;First Strike;76;R;0
+Challenger;UK;Tank Destroyer;4;2;3;1;Repair;First Strike;164;R;0
+LTG;USSR;Light Tank;1;2;2;0;;First Strike;74;C;0
+B.U.G.I.;Poland;Medium Tank;2;3;4;1;Repair;First Strike;173;C;0
+Achilles;UK;Tank Destroyer;3;2;2;2;Explosive Ammo;First Strike;163;C;0
+T-100 LT;USSR;Light Tank;1;0;1;3;;First Strike;76;R;0
+T3 HMC;USA;Tank Destroyer;2;0;2;1;;First Strike;112;C;0
+SDP 40 Zadymka;Poland;Tank Destroyer;2;0;2;1;;First Strike;176;C;0
+Type 5 Ke-Ho;Japan;Light Tank;1;2;2;2;Blitz;First Strike;191;C;0
+Char Futur 4;France;Medium Tank;2;2;3;1;Thick Armor/Triple Shot;First Strike;128;C;0
+S35 CA;France;Tank Destroyer;3;1;2;1;;First Strike;136;U;0
+Progetto M40 mod. 65;Italy;Medium Tank;2;1;3;1;Blitz/Explosive Ammo;First Strike;203;U;0
+Emergency Ammunition Supply;UK;Base;First Strike;23;C;0
+Do or Die;Japan;Base;First Strike;43;R;0
+SU-152;USSR;Tank Destroyer;3;2;2;0;;First Strike;90;U;0
+D1;France;Light Tank;1;1;1;3;;First Strike;120;C;0
+IS-2;USSR;Heavy Tank;2;2;4;1;Explosive Ammo;First Strike;185;U;0
+Carro d'assalto P.88;Italy;Heavy Tank;2;2;4;1;Thick Armor;First Strike;204;C;0
+Manticore;UK;Light Tank;2;1;1;1;;First Strike;147;C;0
+60TP Lewandowskiego;Poland;Heavy Tank;3;4;5;1;;First Strike;175;Premium;0
+WZ-131;USSR;Light Tank;1;1;2;4;;First Strike;181;C;0
+Iron Rebirth;USSR;Base;First Strike;8;Standard;0
