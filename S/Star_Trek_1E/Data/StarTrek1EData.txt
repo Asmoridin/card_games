@@ -326,12 +326,21 @@ Captain's Log;Event;;Alternate Universe/Voyager;786,787;;4;0
 Captured;Incident;;Blaze of Glory/Virtual Promos;788,7438;;4;0
 Cardassian Disruptor Rifle;Equipment;;Deep Space 9;790;;4;0
 Cardassian Disruptor;Equipment;;Deep Space 9;789,7508;;4;0
+Cardassian Outpost;Facility;Cardassian;Deep Space 9/Homefront VI/Virtual Promos;791,4391,4698,4948;;4;0
+Cardassian PADD;Equipment;;Deep Space 9;792,7509;;4;0
 Cardassian Processing;Dilemma;Dual;Homefront II;3848;;4;4
 Cardassian Shuttle;Ship;Cardassian;Deep Space 9;86;;4;0
 Cardassian Trap;Dilemma;Dual;Alternate Universe;793;;4;0 # Needs errata
+Caretaker's Array;Incident;;Voyager;794;;4;0
 Cargo Bay;Site;;Rules of Acquisition/Homefront V;87,4462;;2;0
+Cargo Rendezvous;Mission;Planet;Introductory 2-Player Game/Trouble with Tribbles Starter Decks;795,7124;;2;0
+Carlos;Personnel;Non-Aligned;Holodeck Adventures;796;;2;0
+Carol Marcus;Personnel;Federation;The Motion Pictures;797,7222;;2;0
 Catalog Phenomena;Mission;Space;Voyager;88;;4;0
+Caught Red-Handed;Interrupt;;The Dominion;798;;4;0
 Cavit;Personnel;Federation;Voyager;89;;4;0
+Center of Attention;Dilemma;Dual;Rules of Acquisition;799;;4;0
+Central Command;Facility;Cardassian;Deep Space 9/Homefront/Reflections;800,3504,3544;;2;0
 Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
 Chalnoth;Dilemma;Planet;Premiere;808,6070,6433,6796,7718,8082;;4;1
 Chief O'Brien;Personnel;Romulan;Blaze of Glory;91;;4;0
@@ -971,8 +980,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 790
-#793
+# Done through card 800
 #808
 #824
 #828
@@ -1137,12 +1145,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3492
 #3495
 #3501
+#3504
 #3513-3514
 #3518
 #3522
 #3529-3530
 #3533-3539
 #3541
+#3544
 #3556-3561
 #3564-3566
 #3568
@@ -1202,6 +1212,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4380
 #4384
 #4388
+#4391
 #4399
 #4406-4407
 #4411-4414
@@ -1233,8 +1244,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4677-4680
 #4689
 #4692
-#4695-4697
-#4699-4700
+#4695-4700
 #4702-4704
 #4706-4707
 #4711
@@ -1266,6 +1276,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4876
 #4879-4880
 #4892
+#4948
 #4954
 #4964
 #5146
@@ -1520,7 +1531,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7051
 #7054-7058
 #7063
-#7098-7123
+#7098-7124
 #7126
 #7128-7129
 #7131-7134
@@ -1531,7 +1542,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7169
 #7173
 #7179-7180
-#7183-7221
+#7183-7222
 #7251
 #7277
 #7318
@@ -1541,8 +1552,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7438
 #7441
 #7503-7505
-#7508
-#7510-7511
+#7508-7511
 #7513-7514
 #7516-7517
 #7520-7525
