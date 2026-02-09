@@ -341,8 +341,18 @@ Caught Red-Handed;Interrupt;;The Dominion;798;;4;0
 Cavit;Personnel;Federation;Voyager;89;;4;0
 Center of Attention;Dilemma;Dual;Rules of Acquisition;799;;4;0
 Central Command;Facility;Cardassian;Deep Space 9/Homefront/Reflections;800,3504,3544;;2;0
+Cetacean Institute;Time Location;;The Motion Pictures;801,7223;;2;0
+Ceti Eel;Incident;;The Motion Pictures;802,7224;;4;0
 Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
+Cha'Joh;Ship;Klingon;Identity Crisis;3068;805;2;0
+Cha'Joh;Ship;Romulan;Deep Space 9/Reflections;805,3625;3068;2;0
+Chain Reaction Pulsar;Tactic;;The Trouble with Tribbles/BaH!;803,3709;;10;0
+Chain Reaction Ricochet;Incident;;The Trouble with Tribbles;804;;4;0
+Chakotay;Personnel;Federation;Voyager;806;807;2;0
+Chakotay;Personnel;Non-Aligned;Voyager;807;806;2;0
 Chalnoth;Dilemma;Planet;Premiere;808,6070,6433,6796,7718,8082;;4;1
+Chamber of Ministers;Facility;Bajoran;Deep Space 9/Homefront/Reflections;809,3505,3543;;2;0
+Chancellor Gorkon;Personnel;Klingon;The Motion Pictures;810,7225;;2;0
 Chief O'Brien;Personnel;Romulan;Blaze of Glory;91;;4;0
 Chinese Finger Puzzle;Dilemma;Dual;Q Continuum;824;;4;4
 Christopher Hobson;Personnel;Federation;Premiere;92,5980,6343,6706,7628;;4;0
@@ -980,8 +990,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 800
-#808
+# Done through card 810
 #824
 #828
 #832
@@ -1134,7 +1143,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2611
 #3045
 #3047
-#3067
+#3067-3068
 #3083
 #3086
 #3117
@@ -1145,14 +1154,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3492
 #3495
 #3501
-#3504
+#3504-3505
 #3513-3514
 #3518
 #3522
 #3529-3530
 #3533-3539
 #3541
-#3544
+#3543-3544
 #3556-3561
 #3564-3566
 #3568
@@ -1165,11 +1174,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3607
 #3609
 #3616-3617
+#3625
 #3627-3628
 #3632
 #3689
 #3699
-#3703-3708
+#3703-3709
 #3727
 #3730-3733
 #3839
@@ -1542,7 +1552,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7169
 #7173
 #7179-7180
-#7183-7222
+#7183-7225
 #7251
 #7277
 #7318
