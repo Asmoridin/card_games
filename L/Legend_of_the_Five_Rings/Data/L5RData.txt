@@ -2014,17 +2014,27 @@ Bloom of the White Orchid;Event;;Imperial Edition (Rare)/Emerald Edition (Rare)/
 Blossoming Conflict;Strategy;;Path of Hope (Rare);Age of Enlightenment (Lotus);3;0
 Blowdarts;Item;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Blue Skies;Strategy;;An Oni's Fury (Common);Four Winds (Gold);3;0
+Blue Tanuki Bar;Holding;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
+Blue Tanuki Bar;Holding;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
+Blue Tanuki Serving Girl;Personality;Unaligned;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
+Blunting the Charge;Strategy;;The Truest Test (Common);Age of Enlightenment (Lotus);3;0
+Blunting the Charge;Strategy;;The Truest Test (Common);Race for the Throne (Samurai);3;0
 Bo of Ritual Blessings;Item;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Bo of Ritual Blessings;Item;;The Coming Storm (Rare);A Brother's Destiny (Ivory Edition);3;0
 Bo of Ritual Blessings;Item;;The Coming Storm (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Bo of Water;Spell;;Second City (Common);Age of Conquest (Emperor);3;0
 Bo of Water;Spell;;Second City (Common);Destroyer War (Celestial);3;0
+Bo Stick;Item;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
+Bo Stick;Item;;Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
 Boastful Proclamation;Event;;Chaos Reigns I (Fixed);Shattered Empire;1;0
 Boastful Proclamation;Event;;Dark Allies (Uncommon);Four Winds (Gold);1;0
 Boastful Proclamation;Event;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Boastful Proclamation;Event;;Emperor Edition (Uncommon);Age of Conquest (Emperor);1;0
 Boastful Proclamation;Event;;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);1;0
+Bog Hag;Personality;Unaligned;Forbidden Knowledge (Common);Clan Wars (Imperial);3;0
+Boisterous Soldiers;Follower;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);1;0
 Bokatu;Personality;Toturi's Army;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Bokken;Item;;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
 Bonded by Battle;Strategy;;Road to Ruin (Fixed);Shattered Empire;3;0
 Bonded by Battle;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Border Keep;Holding;;Celestial Edition (Fixed)/Battle of Kyuden Tonbo (Fixed)/War of Honor (Fixed);Destroyer War (Celestial);2;0
@@ -2207,6 +2217,8 @@ City of the Lost;Strategy;;Dark Allies (Common);Four Winds (Gold);3;1
 City of White Clouds;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Clan Mon;Item;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);10;2
 Clan Mon;Item;;Evil Portents (Common);War of the Seals (Onyx Edition);10;2
+Clash of Blades;Strategy;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Clash of Blades;Strategy;;Twenty Festivals (Rare);War of the Seals (Onyx Edition);3;0
 Clay Soldiers;Follower;;The War of Spirits (Common);Four Winds (Gold);3;0
 Clay Soldiers;Follower;;The War of Spirits (Common);Hidden Emperor (Jade);3;3
 Cleansing Wave;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -2783,6 +2795,8 @@ Echoing Infinity;Spell;;Road to Ruin (Fixed);Shattered Empire;3;0
 Echoing Infinity;Spell;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Effortless Counterattack;Strategy;;Second City (Rare);Age of Conquest (Emperor);3;0
 Effortless Counterattack;Strategy;;Second City (Rare);Destroyer War (Celestial);3;0
+Ekichu no Oni;Personality;Unaligned;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
+Ekichu no Oni;Personality;Unaligned;Empire at War (Rare);Destroyer War (Celestial);1;0
 Elder Goju;Personality;Ninja;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Elder Veteran;Holding;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Elder Veteran;Holding;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
@@ -6428,6 +6442,8 @@ The Second City;Region;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
 The Second City;Region;;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
 The Second Kengun;Follower;;Chaos Reigns III (Fixed);Shattered Empire;3;0
 The Secret Entrance;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;2
+The Seekers' Temple;Holding;;War of Honor (Fixed);Age of Conquest (Emperor);1;0
+The Seekers' Temple;Holding;;War of Honor (Fixed);Destroyer War (Celestial);1;0
 The Shakash • Experienced;Personality;Unaligned;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;1
 The Shakash • Experienced;Personality;Unaligned;Coils of Madness (Fixed);Age of Conquest (Emperor);1;0
 The Shattered Stormfront of the Mantis;Stronghold;Mantis;Shattered Empire (Fixed)/Gathering Storms (Fixed);Shattered Empire;1;0
@@ -7315,10 +7331,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1080
-#1084
-#1086
-#1089
+# Done through card #1090
 #1106
 #1113
 #1117
@@ -7424,6 +7437,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2259
 #2266
 #2283
+#2286
 #2289
 #2297
 #2305
@@ -7990,7 +8004,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8275
 #8285
 #8303
-#8307
+#8307-8308
 #8344
 #8346
 #8348
@@ -8352,7 +8366,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #12198
 #12211
 #12220
-#12226
+#12225-12226
 #12240
 #12244
 #12260
