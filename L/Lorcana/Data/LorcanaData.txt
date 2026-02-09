@@ -1,13 +1,14 @@
 99 Puppies;Action;Amber;;Into the Inklands (Uncommon);0
-A Pirate's Life;Action;Ruby;;Ursula's Return (Uncommon)/Fabled (Uncommon);2
-A Very Merry Unbirthday;Action;Amethyst;;Azurite Sea (Common);1
-A Whole New World;Action;Steel;;The First Chapter (Super Rare);0
-Abu - Bold Henchman;Character;Ruby;;Azurite Sea (Common);1
-Abu - Illusory Pachyderm;Character;Amethyst/Steel;;Reign of Jafar (Uncommon);0
-Abu - Mischievous Monkey;Character;Ruby;;The First Chapter (Common);0
-Adelaide Bonfamille - Patron of the Arts;Character;Sapphire;;Reign of Jafar (Common);0
-Adorabeezle Winterpop - Ice Rocker Racer;Character;Ruby;;Azurite Sea (Common);1
+A Pirate's Life;Action;Ruby;Song;Ursula's Return (Uncommon)/Fabled (Uncommon);2
+A Very Merry Unbirthday;Action;Amethyst;Song;Azurite Sea (Common);1
+A Whole New World;Action;Steel;Song;The First Chapter (Super Rare);0
+Abu - Bold Helmsman;Character;Ruby;Storyborn/Ally;Azurite Sea (Common);1
+Abu - Illusory Pachyderm;Character;Amethyst/Steel;Dreamborn/Ally/Illusion;Reign of Jafar (Uncommon);0
+Abu - Mischievous Monkey;Character;Ruby;Storyborn/Ally;The First Chapter (Common);0
+Adelaide Bonfamille - Patron of the Arts;Character;Sapphire;Storyborn/Ally;Reign of Jafar (Common);0
+Adorabeezle Winterpop - Ice Rocket Racer;Character;Ruby;Storyborn/Hero/Racer;Azurite Sea (Common);1
 Agrabah - Marketplace;Location;Ruby;;Into the Inklands (Common)/Fabled (Common);4
+# Traits done through here
 Agustin Madrigal - Clumsy Dad;Character;Amber;;Ursula's Return (Common);4
 Airfoil;Item;Emerald;;Into the Inklands (Common);0
 Akela - Forest Runner;Character;Emerald;Storyborn/Ally;Whispers in the Well (Common);2
@@ -1868,3 +1869,14 @@ Zeus - Mr. Lightning Bolts;Character;Emerald;;Ursula's Return (Super Rare);0
 Zipper - Astute Decoy;Character;Sapphire;;Azurite Sea (Rare);0
 Zipper - Flying Ranger;Character;Steel;;Reign of Jafar (Uncommon);0
 Zootopia - Police Headquarters;Location;Steel;;Whispers in the Well (Uncommon);0
+# Start Winterspell
+Thomas - Wide‐Eyed Recruit;Character;Amber;Storyborn/Ally;Winterspell (Common);0
+Lilo - Snow Artist;Character;Amber;Storyborn/Hero;Winterspell (Common);0
+Pudge - Controls the Weather;Character;Amber;Storyborn/Deity;Winterspell (Uncommon);0
+Pumbaa - Winter Warthog;Character:Amber;Storyborn/Ally;Winterspell (Common);0
+Tiana - Warm and Happy;Character:Amber;Dreamborn/Ally/Princess;Winterspell (Common);0
+Nakoma - Waiting Out the Storm;Character:Amber;Storyborn/Ally;Winterspell (Common);0
+Stitch - Carefree Snowboarder;Character:Amber;Storyborn/Hero/Alien;Winterspell (Rare);0
+Pocahontas - Finding the Way;Character:Amber;Storyborn/Hero/Princess;Winterspell (Common);0
+David - Protective Snowboarder;Character:Amber;Storyborn/Ally;Winterspell (Common);0
+Fangmeyer - Icy Officer;Character:Amber;Storyborn/Ally/Detective;Winterspell (Common);0
