@@ -26,7 +26,7 @@ RUNNER_FACTIONS = ['Neutral Runner', 'Shaper', 'Anarch', 'Criminal']
 with open(FILE_PREFIX + '/Data/NetrunnerIDs.txt', 'r', encoding="UTF-8") as id_data_file:
     id_lines = id_data_file.readlines()
 
-identities = {'Startup':{}, 'Standard':{}, 'Extended':{}}
+identities = {'Startup':{}, 'Standard':{}, 'Eternal':{}}
 id_by_faction = {}
 id_to_faction = {}
 id_total_plays = {}
@@ -40,7 +40,7 @@ for id_line in id_lines:
     if ID_FACTION not in CORP_FACTIONS and ID_FACTION not in RUNNER_FACTIONS:
         print(f"Unknown faction {ID_FACTION} for ID {identity_name}")
         continue
-    if id_format not in ['Standard', 'Extended', 'Startup']:
+    if id_format not in ['Standard', 'Eternal', 'Startup']:
         print(f"Unknown format {id_format} for ID {identity_name}")
         continue
     if ID_FACTION not in id_by_faction:
@@ -49,7 +49,7 @@ for id_line in id_lines:
     id_to_faction[identity_name] = ID_FACTION
     id_total_plays[identity_name] = 0
     seen_total[identity_name] = 0
-    do_formats = ['Extended']
+    do_formats = ['Eternal']
     if id_format in ['Standard', 'Startup']:
         do_formats.append('Standard')
     if id_format == 'Startup':
