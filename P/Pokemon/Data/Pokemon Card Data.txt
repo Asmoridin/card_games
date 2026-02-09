@@ -392,6 +392,7 @@ Electric Generator;Trainer;Item;;;;SVI 170 (Uncommon)/PAF 79 (Uncommon);G;4;0
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
 Nemona;Trainer;Supporter;;;;SVI 180 (Common)/PAF 82 (Common)/PAF 229 (Ultra Rare)/PAF 238 (Special Illustration Rare);G;8;4
 Pal Pad;Trainer;Item;;;;Flashfire 92 (Uncommon)/Ultra Prism 132 (Uncommon)/Sword & Shield 172 (Uncommon)/SVI 182 (Common);D/G;4;0
+Penny;Trainer;Supporter;;;;SVI 183 (Uncommon)/SVI 239 (Ultra Rare)/SVI 252 (Special Illustration Rare)/PAF (239 (Special Illustration Rare);G;4;0
 Picnic Basket;Trainer;Item;;;;SVI 184 (Uncommon);G;4;0
 Pokégear 3.0;Trainer;Item;;;;HeartGold & SoulSilver 96 (Uncommon)/Unbroken Bonds 182 (Uncommon)/Unbroken Bonds 233 (Rare Secret)/Sword & Shield 174 (Uncommon)/SVI 186 (Common)/BLK 84 (Uncommon);D/G/I;4;0
 Vitality Band;Trainer;Pokemon Tool;;;;Sword & Shield 185 (Uncommon)/SVI 197 (Uncommon);D/G;4;0
@@ -426,6 +427,7 @@ Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
 
 # Paradox Rift (PAR)
 Charcadet;Pokemon;Fire;80;;Fiery Fighting Spirit|Knuckle Punch;PAR 26 (Common);G;4;0
+Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)/SVP 58 (Promo)/SVP 66 (Promo);G;4;0
 Iron Hands ex;Pokemon;Lightning;230;;Arm Press|Amp You Very Much;PAR 70 (Double Rare)/PAR 223 (Ultra Rare)/PAR 248 (Special Illustration Rare)/PRE 31 (Double Rare)/PRE 154 (Special Illustration Rare);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
@@ -467,6 +469,7 @@ Hoothoot;Pokemon;Colorless;70;;Silent Wing;TEF 126 (Common);H;4;1
 Dunsparce;Pokemon;Colorless;60;;Gnaw|Dig;TEF 128 (Common)/PRE 79 (Common);H;4;0
 Dudunsparce;Pokemon;Colorless;140;Run Away Draw;Land Crush;TEF 129 (Rare)/PRE 80 (Rare);H;4;0
 Buddy-Buddy Poffin;Trainer;Item;;;;TEF 144 (Uncommon)/TWM 223 (Hyper Rare)/PRE 101 (Uncommon)/MEG 167 (Ultra Rare);H;8;2
+Ciphermaniac's Codebreaking;Trainer;Supporter;;;;TEF 145 (Uncommon)/TEF 198 (Ultra Rare)/PRE 104 (Uncommon);H;4;0
 Hand Trimmer;Trainer;Item;;;;TEF 150 (Uncommon);H;4;1
 Prime Catcher;Trainer;Item;;;;TEF 157 (ACE SPEC Rare)/PRE 119 (ACE SPEC Rare);H;2;0
 
@@ -638,6 +641,11 @@ Timburr;Pokemon;Fighting;70;;Low Kick|Strength;BLK 47 (Common)/BLK 125 (Illustra
 Gurdurr;Pokemon;Fighting;100;;Low Kick|Hammer Arm;BLK 48 (Common)/BLK 126 (Illustration Rare);I;4;0
 Conkeldurr;Pokemon;Fighting;140;Craftmanship;Swing Around;BLK 49 (Rare)/BLK 127 (Illustration Rare);I;4;0
 Throh;Pokemon;Fighting;130;;Shoulder Throw;BLK 50 (Uncommon)/BLK 128 (Illustration Rare);I;4;0
+Dwebble;Pokemon;Fighting;70;;Flail|Dig Claws;BLK 51 (Common)/BLK 129 (Illustration Rare);I;4;0
+Crustle;Pokemon;Fighting;150;Sturdy;Stone Edge;BLK 52 (Uncommon)/BLK 130 (Illustration Rare);I;4;0
+Landorus;Pokemon;Fighting;130;;Abundant Harvest|Earthquake;BLK 53 (Rare)/BLK 131 (Illustration Rare);I;4;0
+Venipede;Pokemon;Darkness;80;;Poison Spray;BLK 54 (Common)/BLK 132 (Illustration Rare);I;4;0
+Whirlipede;Pokemon;Darkness;100;;Venoshock;BLK 55 (Common)/BLK 133 (Illustration Rare);I;4;0
 
 Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
@@ -645,8 +653,32 @@ Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield
 # BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
-# BLK 87-128 done
+# BLK 87-133 done
 # BLK 156-161 done
 # BLK 164-169 done
 # BLK 171-172 done
 # Ends BLK 172 (86 last new card)
+
+# Ascended Heroes
+Erika's Oddish;Pokemon;Grass;60;;Reckless Charge;ASC 1 (Common);J;4;0
+Erika's Gloom;Pokemon;Grass;90;;Poison Spray;ASC 2 (Uncommon);J;4;0
+Erika's Vileplume ex;Pokemon;Grass;310;Lovely Fragrance;Bloom Powder;ASC 3 (Double Rare);J;4;0
+Erika's Bellsprout;Pokemon;Grass;60;;Vine Slap;ASC 4 (Common);J;4;0
+Erika's Weepinbell;Pokemon;Grass;90;;Melt|Leafy Cyclone;ASC 5 (Uncommon);J;4;0
+Erika's Victreebel;Pokemon;Grass;150;;Flower Garden Rondo|Solar Beam;ASC 6 (Rare);J;4;0
+Erika's Tangela;Pokemon;Grass;60;Gathering of Blossoms;Bind;ASC 7 (Common)/ASC 218 (Illustration Rare);J;4;0
+Chikorita;Pokemon;Grass;70;;Growl|Seed Bomb;ASC 8 (Common);J;4;0
+Bayleef;Pokemon;Grass;100;;Leaf Step;ASC 9 (Uncommon);J;4;0
+Mega Meganium ex;Pokemon;Grass;360;;Giant Bouquet;ASC 10 (Double Rare)/ASC 272 (Special Illustration Rare)/MEP 34 (Promo);J;4;0
+
+# ASC 16 done
+# ASC 123 done
+# ASC 155 done
+# ASC 158-160 done
+# ASC 183 done
+# ASC 218 done
+# ASC 221 done
+# ASC 226 done
+# ASC 247-248 done
+# ASC 272 done
+# ASC 284 done
