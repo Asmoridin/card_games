@@ -16,7 +16,7 @@ valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
 card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
     "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", 'Fabled',
-    'Whispers in the Well']
+    'Whispers in the Well', 'Winterspell']
 valid_rarities = ['Common', 'Uncommon', 'Rare', 'Super Rare', 'Legendary']
 
 def parse_sets(this_card_name, card_set_string):
@@ -56,6 +56,8 @@ card_names = set()
 item_list = []
 for line in lines:
     line = line.split('#')[0].strip()
+    if line == '':
+        continue
     try:
         card_name, card_type, card_color, card_traits, card_set_info, card_own = line.split(';')
     except ValueError:

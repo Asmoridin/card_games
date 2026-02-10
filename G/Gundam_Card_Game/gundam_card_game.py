@@ -105,6 +105,7 @@ for deck_colors in os.listdir(DECK_PREFIX):
                 continue
             DECK_CARD_NAME = DECK_CARD_NAME.replace(' III', ' Ⅲ').strip()
             DECK_CARD_NAME = DECK_CARD_NAME.replace(' II', ' Ⅱ').strip()
+            DECK_CARD_NAME = DECK_CARD_NAME.replace('Xi Gundam', 'Ξ Gundam').strip()
             if DECK_CARD_NUMBER not in card_mapping:
                 print(f"Unknown card {DECK_CARD_NAME} in deck {deck_path}")
             if DECK_CARD_NAME != card_mapping[DECK_CARD_NUMBER]:

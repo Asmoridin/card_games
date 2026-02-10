@@ -1,5 +1,5 @@
 100 Percent of 100 Percent;;YYH-1-032;R;Event;Purple;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Special;0
-104th Cadet Corps;;AOT-1-109;R;Event;Red;4;1;Attack on Titan [UE10ST];Special;2
+104th Cadet Corps;;AOT-1-109;R;Event;Red;4;1;Attack on Titan [UE10ST];Special;4
 2nd Experimental High Power Self-Propelled 460mm Positron Cannon;;EVA-1-095;U;Event;Red;4;1;Evangelion: New Theatrical Edition [UE15ST]/Evangelion: New Theatrical Edition [UE15BT];Special;0
 A Hot Bath Lets You Wash Your Life and Begin Anew;;EVA-1-023;U;Event;Yellow;3;1;Evangelion: New Theatrical Edition [UE15BT];Final;0
 A Steamed Potato, Sir!;;AOT-1-100;R;Event;Red;3;1;Attack on Titan [UE10BT];Get;0
@@ -175,7 +175,7 @@ Action Point Card (AP07);;YYH-1-AP07;R;Action Point;;;;Yu Yu Hakusho: Ghost File
 Action Point Card (AP08);;KJ8-1-AP08;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
 Action Point Card (AP08);;SAO-1-AP08;R;Action Point;;;;Sword Art Online [UE07BT];;0
 Action Point Card (AP08);;YYH-1-AP08;R;Action Point;;;;Yu Yu Hakusho: Ghost Files [UE13BT];;0
-Action Point Card (AP09);;KJ8-1-AP09;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
+Action Point Card (AP09);;KJ8-1-AP09;R;Action Point;;;;Kaiju No. 8 [UE12BT];;1
 Action Point Card (AP09);;SAO-1-AP09;R;Action Point;;;;Sword Art Online [UE07BT];;0
 Action Point Card (AP10);;KJ8-1-AP10;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
 Action Point Card (AP11);;KJ8-1-AP11;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
@@ -196,8 +196,8 @@ Agil;Progressive;SAO-2-045;U;Character;Purple;4;1;Sword Art Online Vol.2 [UEX06B
 Agil;SAO Survivor;SAO-2-035;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
 Aizetsu;Upper Rank Demon/Hantengu's Duplicate;KMY-3-056;C;Character;Purple;2;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
 Akabeko;;RNK-1-094;C;Site;Red;1;1;Rurouni Kenshin [UE11BT];Get;0
-Akari Minase;;KJ8-1-032;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];;0
-Akari Minase;;KJ8-1-072;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];;0
+Akari Minase;;KJ8-1-032;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];;1
+Akari Minase;;KJ8-1-072;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];;1
 Akari Nitta;;JJK-3-020;C;Character;Blue;1;1;Jujutsu Kaisen Vol.2 [UEX02BT];Draw;0
 Akatsuki Follow-Up Specs (C.C. Fighter);Order of the Black Knights/KMF;CGH-2-025;U;Character;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
 Akatsuki Follow-Up Specs;Order of the Black Knights/KMF/Four Holy Swords;CGH-2-048;C;Character;Purple;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;1
@@ -270,9 +270,9 @@ Armin Arlelt;104th Cadet Corps/Levi Squad;AOT-1-015;U;Character;Blue;1;1;Attack 
 Armin Arlelt;104th Cadet Corps/Levi Squad;AOT-1-075;C;Character;Red;0;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Draw;4 # have 4 starter
 Armin Arlelt;104th Cadet Corps/Levi Squad;AOT-1-076;U;Character;Red;1;1;Attack on Titan [UE10BT];Draw;0
 Armin Arlelt;104th Cadet Corps/Levi Squad;AOT-1-077;SR;Character;Red;4;1;Attack on Titan [UE10BT];Active;0
-Armin Arlelt;104th Cadet Corps/Levi Squad;AOT-1-104;R;Character;Red;3;1;Attack on Titan [UE10ST];;2
+Armin Arlelt;104th Cadet Corps/Levi Squad;AOT-1-104;R;Character;Red;3;1;Attack on Titan [UE10ST];;4
 Armored Gorilla;House of Evolution;OPM-1-091;C;Character;Red;0;1;One-Punch Man [UE06BT];;0
-Armored Titan;Inheritor of the Titan;AOT-1-112;R;Character;Green;4;2;Attack on Titan [UE10ST];Active;1
+Armored Titan;Inheritor of the Titan;AOT-1-112;R;Character;Green;4;2;Attack on Titan [UE10ST];Active;2
 Arthur;Ashford Academy;CGH-1-068;C;Character;Red;0;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Asguiaro Ebern;;BLC-1-001;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Ashford Academy;;CGH-1-094;C;Site;Red;2;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
@@ -351,7 +351,7 @@ Bazz-B;Stern Ritters;BLC-2-003;C;Character;Yellow;2;1;BLEACH: Thousand-Year Bloo
 Be Proud. You Were Strong;;JJK-3-024;U;Event;Blue;8;2;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Beast Breathing Fifth Fang: Crazy Cutting;;KMY-1-098;U;Event;Red;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Beautiful Suzuki;;YYH-1-001;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
-Beautiful Suzuki;;YYH-1-002;R;Character;Purple;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
+Beautiful Suzuki;;YYH-1-002;R;Character;Purple;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;1
 Bento;;KMY-1-094;U;Site;Red;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
 Bercouli Synthesis One;Integrity Knights;SAO-1-017;U;Character;Yellow;5;1;Sword Art Online [UE07BT];Active;0
 Bercouli Synthesis One;Integrity Knights;SAO-2-006;C;Character;Yellow;2;1;Sword Art Online Vol.2 [UEX06BT];;0
@@ -368,7 +368,7 @@ Binolt;;HTR-1-013;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];;0
 Biscuit;Tetra Line/Happy Zoo;NIK-1-078;R;Character;Green;1;1;Goddess of Victory: Nikke [UE14BT];Draw;0
 Bisky's Meal;;HTR-2-036;U;Event;Yellow;3;1;Hunter × Hunter Vol.2 [UEX04BT];Final;1
 Bisky's Training;;HTR-1-032;U;Event;Blue;3;1;Hunter × Hunter [UE02BT];Final;1
-Bisky;;HTR-1-010;U;Character;Blue;3;1;Hunter × Hunter [UE02BT];;1
+Bisky;;HTR-1-010;U;Character;Blue;3;1;Hunter × Hunter [UE02BT];;2
 Bisky;;HTR-1-011;R;Character;Blue;0;1;Hunter × Hunter [UE02BT];Active;0
 Bisky;;HTR-1-012;SR;Character;Blue;4;2;Hunter × Hunter [UE02BT];Draw;1
 Bisky;;HTR-2-040;U;Character;Blue;1;1;Hunter × Hunter Vol.2 [UEX04BT];;0
@@ -428,7 +428,7 @@ C.C.;Order of the Black Knights;CGH-2-003;U;Character;Blue;2;2;Code Geass Lelouc
 C.C.;Order of the Black Knights;CGH-2-004;R;Character;Blue;1;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Active;0
 C.C.;Order of the Black Knights;CGH-2-005;SR;Character;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;1
 C.C.;Order of the Black Knights;CGH-2-039;U;Character;Purple;2;2;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
-Cadet Corps Grounds;;AOT-1-108;U;Site;Red;2;1;Attack on Titan [UE10ST];Get;2
+Cadet Corps Grounds;;AOT-1-108;U;Site;Red;2;1;Attack on Titan [UE10ST];Get;4
 Canary;Zoldyck Family;HTR-2-056;U;Character;Purple;1;1;Hunter × Hunter Vol.2 [UEX04BT];;1
 Candice Catnipp;Stern Ritters/Bambies;BLC-2-007;C;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
 Cang Du;Stern Ritters;BLC-1-008;C;Character;Yellow;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
@@ -439,7 +439,7 @@ Carnage Kabuto;House of Evolution;OPM-1-092;U;Character;Red;4;1;One-Punch Man [U
 Cart Titan;Inheritor of the Titan;AOT-1-039;U;Character;Green;1;1;Attack on Titan [UE10BT];;0
 Cecil;;NIK-1-034;C;Character;Purple;0;1;Goddess of Victory: Nikke [UE14BT];;4
 Centi;Missilis/Mighty Tools;NIK-1-113;R;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];Draw;3
-Centichoro;Monster Association;OPM-1-090;U;Character;Red;4;1;One-Punch Man [UE06BT];Active;0
+Centichoro;Monster Association;OPM-1-090;U;Character;Red;4;1;One-Punch Man [UE06BT];Active;1
 Charles zi Britannia;Holy Britannian Empire;CGH-1-040;SR;Character;Green;3;2;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Charlotte Chuhlhourne;Arrancars/Kurotsuchi Corpse Unit;BLC-2-039;U;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
 Charlotte Roselei;Blue Rose Knights;BCV-1-037;R;Character;Green;4;1;Black Clover [UE08BT];Draw;0
@@ -469,7 +469,7 @@ Cleanup;;AOT-1-031;C;Event;Blue;3;1;Attack on Titan [UE10BT];Active;1
 Clone;;HTR-2-047;U;Event;Blue;3;1;Hunter × Hunter Vol.2 [UEX04BT];Active;0
 Clovis la Britannia;Holy Britannian Empire;CGH-1-037;C;Character;Green;2;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Codename: Red Hood;;NIK-1-031;R;Event;Yellow;4;1;Goddess of Victory: Nikke [UE14BT];Special;2
-Colossal Titan;Inheritor of the Titan;AOT-1-113;R;Character;Green;6;1;Attack on Titan [UE10ST];Draw;1
+Colossal Titan;Inheritor of the Titan;AOT-1-113;R;Character;Green;6;1;Attack on Titan [UE10ST];Draw;2 # 2 alternate
 Comin' Through;;KMY-1-100;C;Event;Red;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Comrades;;KMY-1-109;R;Event;Yellow;2;1;Demon Slayer: Kimetsu no Yaiba [UE05ST];;4
 Conditions and Contract;;HTR-2-073;C;Event;Green;3;1;Hunter × Hunter Vol.2 [UEX04BT];Active;1
@@ -504,9 +504,9 @@ Dante Zogratis;Dark Triad;BCV-1-026;R;Character;Purple;4;1;Black Clover [UE08BT]
 Dante Zogratis;Dark Triad;BCV-1-027;SR;Character;Purple;5;1;Black Clover [UE08BT];Raid;0
 Dark Cloaked Dimension Slash ~ Equinox;;BCV-1-066;U;Event;Green;4;1;Black Clover [UE08BT];Special;0
 Dark Triad;;BCV-1-032;U;Event;Purple;3;1;Black Clover [UE08BT];Final;0
-Death Gatling;Hero;OPM-1-037;C;Character;Green;1;1;One-Punch Man [UE06BT];;0
-Dedicate Your Heart!!;;AOT-1-097;U;Event;Red;3;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Final;2 # have 2 starter
-Deep Sea King;;OPM-1-078;C;Character;Red;2;1;One-Punch Man [UE06BT];Draw;0
+Death Gatling;Hero;OPM-1-037;C;Character;Green;1;1;One-Punch Man [UE06BT];;1
+Dedicate Your Heart!!;;AOT-1-097;U;Event;Red;3;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Final;4 # have 2 starter
+Deep Sea King;;OPM-1-078;C;Character;Red;2;1;One-Punch Man [UE06BT];Draw;1
 Defense Force's Tachikawa Base;;KJ8-1-033;U;Site;Yellow;2;1;Kaiju No. 8 [UE12BT];Draw;0
 Delivery Pizza;;CGH-1-100;C;Event;Red;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Demon Power;;KMY-1-062;C;Event;Purple;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
@@ -565,7 +565,7 @@ Elena;;HTR-1-003;U;Character;Blue;2;1;Hunter × Hunter [UE02BT];;1
 Ember Insects;;JJK-1-095;C;Event;Purple;4;1;Jujutsu Kaisen [UE03BT];Draw;0
 Emergency Meeting;;BCV-1-109;U;Site;Red;2;1;Black Clover [UE08ST];Get;0
 Emperor Time: Absolute Mastery;;HTR-1-096;U;Event;Green;5;1;Hunter × Hunter [UE02BT];Special;0
-En & Kai & Ryo;;YYH-1-004;C;Character;Purple;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
+En & Kai & Ryo;;YYH-1-004;C;Character;Purple;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;2
 Encounter;;NIK-1-029;U;Event;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];Final;4
 Encounter;;NIK-1-063;U;Event;Purple;3;1;Goddess of Victory: Nikke [UE14BT];Final;4
 Encounter;;NIK-1-098;U;Event;Green;3;1;Goddess of Victory: Nikke [UE14BT];Final;4
@@ -581,14 +581,14 @@ Eren Jaeger (Attack Titan);104th Cadet Corps/Levi Squad/Inheritor of the Titan;A
 Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-026;U;Character;Blue;2;1;Attack on Titan [UE10BT];;0
 Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-027;R;Character;Blue;3;1;Attack on Titan [UE10BT];Active;1
 Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-090;C;Character;Red;0;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Get;4 # have 4 starter, 1 booster
-Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-091;R;Character;Red;2;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Active;2 # have 2 starter
+Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-091;R;Character;Red;2;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Active;4 # have 4 starter
 Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-092;SR;Character;Red;4;1;Attack on Titan [UE10BT];Raid;0
-Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-106;U;Character;Red;3;1;Attack on Titan [UE10ST];;2
-Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-107;SR;Character;Red;4;1;Attack on Titan [UE10ST];Raid;2
+Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-106;U;Character;Red;3;1;Attack on Titan [UE10ST];;4
+Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-107;SR;Character;Red;4;1;Attack on Titan [UE10ST];Raid;4
 Eren Kruger;Inheritor of the Titan;AOT-1-071;C;Character;Red;0;1;Attack on Titan [UE10BT];;0
 Erwin Smith;;AOT-1-001;U;Character;Blue;0;1;Attack on Titan [UE10BT];Active;0
 Erwin Smith;;AOT-1-002;SR;Character;Blue;3;1;Attack on Titan [UE10BT];Active;0
-Erwin Smith;;AOT-1-111;R;Character;Blue;3;1;Attack on Titan [UE10ST];Draw;1
+Erwin Smith;;AOT-1-111;R;Character;Blue;3;1;Attack on Titan [UE10ST];Draw;2
 Eso;Cursed Wombs: Death Paintings;JJK-3-058;C;Character;Red;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];Active;0
 Esper Sisters;;OPM-1-027;C;Event;Yellow;2;1;One-Punch Man [UE06BT];Draw;0
 Eugene;ALO;SAO-1-057;U;Character;Blue;3;1;Sword Art Online [UE07BT];Active;0
@@ -625,10 +625,10 @@ Father;Homunculus;FMA-1-078;U;Character;Purple;1;1;Fullmetal Alchemist [UE09BT];
 Father;Homunculus;FMA-1-079;SR;Character;Purple;4;2;Fullmetal Alchemist [UE09BT];Get;0
 Father;Homunculus;FMA-1-112;R;Character;Purple;4;2;Fullmetal Alchemist [UE09ST];Active;3
 Fear My Jagan Eye!;;YYH-1-098;U;Event;Red;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;1
-Feitan;Phantom Troupe;HTR-1-045;R;Character;Purple;4;2;Hunter × Hunter [UE02BT];;0
+Feitan;Phantom Troupe;HTR-1-045;R;Character;Purple;4;2;Hunter × Hunter [UE02BT];;1
 Finral Roulacase;Black Bulls;BCV-1-013;U;Character;Purple;1;1;Black Clover [UE08BT];;0
 Finral Roulacase;Black Bulls;BCV-1-085;C;Character;Red;3;1;Black Clover [UE08ST]/Black Clover [UE08BT];;0
-Fire Training Exercise;;KJ8-1-076;U;Event;Green;4;1;Kaiju No. 8 [UE12BT];Draw;0
+Fire Training Exercise;;KJ8-1-076;U;Event;Green;4;1;Kaiju No. 8 [UE12BT];Draw;1
 Fishing Rod;;HTR-1-097;R;Event;Green;3;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];Special;4
 Fist of Flowing Water Crushing Rock;;OPM-1-100;R;Event;Red;5;2;One-Punch Man [UE06BT];Special;0
 Flame Alchemist;;FMA-1-067;U;Event;Blue;4;1;Fullmetal Alchemist [UE09BT];Special;4
@@ -638,7 +638,7 @@ Flying Blood Sickles;;KMY-1-066;U;Event;Purple;4;1;Demon Slayer: Kimetsu no Yaib
 Former Headquarters of the Scout Regiment;;AOT-1-028;U;Site;Blue;3;1;Attack on Titan [UE10BT];Get;0
 Fort Briggs;;FMA-1-063;C;Site;Blue;3;2;Fullmetal Alchemist [UE09BT];Get;4
 Fortitude 9.8;;KJ8-1-078;C;Event;Green;3;1;Kaiju No. 8 [UE12BT];Active;0
-Found You;;KJ8-1-080;C;Event;Green;1;1;Kaiju No. 8 [UE12BT];Draw;0
+Found You;;KJ8-1-080;C;Event;Green;1;1;Kaiju No. 8 [UE12BT];Draw;1
 Franklin;Phantom Troupe;HTR-1-046;C;Character;Purple;3;1;Hunter × Hunter [UE02BT];Active;0
 Freyja;ALO;SAO-2-067;C;Character;Green;0;1;Sword Art Online Vol.2 [UEX06BT];Active;0
 Fuegoleon Vermillion;Crimson Lion Kings;BCV-1-039;R;Character;Green;4;1;Black Clover [UE08BT];Active;0
@@ -673,7 +673,7 @@ Genos;Hero;OPM-1-047;U;Character;Green;3;1;One-Punch Man [UE06BT];Draw;0
 Genos;Hero;OPM-1-048;R;Character;Green;4;1;One-Punch Man [UE06BT];Raid;0
 Genos;Hero;OPM-1-101;U;Character;Yellow;3;1;One-Punch Man [UE06ST];Draw;4
 Genos;Hero;OPM-1-102;SR;Character;Yellow;4;1;One-Punch Man [UE06ST];Raid;4
-Genthru;The Bomber;HTR-1-020;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];Get;0
+Genthru;The Bomber;HTR-1-020;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];Get;1
 Genthru;The Bomber;HTR-1-021;U;Character;Blue;1;1;Hunter × Hunter [UE02BT];;0
 Genthru;The Bomber;HTR-1-022;R;Character;Blue;3;2;Hunter × Hunter [UE02BT];Color;0
 Genthru;The Bomber;HTR-1-023;SR;Character;Blue;4;1;Hunter × Hunter [UE02BT];Raid;0
@@ -693,7 +693,7 @@ Gino Weinberg;Holy Britannian Empire/Knights of the Round;CGH-2-056;C;Character;
 Gino Weinberg;Holy Britannian Empire/Knights of the Round;CGH-2-057;U;Character;Green;1;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
 Giselle Gewelle;Stern Ritters/Bambies;BLC-2-008;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Giselle Gewelle;Stern Ritters/Bambies;BLC-2-009;SR;Character;Yellow;4;2;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
-Gittarackur;Zoldyck Family;HTR-1-053;C;Character;Purple;0;1;Hunter × Hunter [UE02BT];Get;1
+Gittarackur;Zoldyck Family;HTR-1-053;C;Character;Purple;0;1;Hunter × Hunter [UE02BT];Get;2
 Giyu Tomioka;;KMY-1-107;SR;Character;Yellow;5;2;Demon Slayer: Kimetsu no Yaiba [UE05ST];Get;4
 Giyu Tomioka;Hashira;KMY-1-025;R;Character;Yellow;5;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Giyu Tomioka;Hashira;KMY-2-008;SR;Character;Yellow;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
@@ -706,7 +706,7 @@ Goketsu;Monster Association;OPM-1-085;C;Character;Red;3;1;One-Punch Man [UE06BT]
 Goki;;YYH-1-077;C;Character;Red;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Goki;;YYH-1-078;U;Character;Red;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Gon Freecss;;HTR-1-005;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];Draw;0
-Gon Freecss;;HTR-1-006;R;Character;Blue;3;1;Hunter × Hunter [UE02BT];;0
+Gon Freecss;;HTR-1-006;R;Character;Blue;3;1;Hunter × Hunter [UE02BT];;1
 Gon Freecss;;HTR-1-007;SR;Character;Blue;4;1;Hunter × Hunter [UE02BT];Get;0
 Gon Freecss;;HTR-1-075;C;Character;Green;0;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];Get;4
 Gon Freecss;;HTR-1-076;U;Character;Green;2;1;Hunter × Hunter [UE02BT];;1
@@ -768,7 +768,7 @@ Hanami;Cursed Spirit;JJK-3-066;U;Character;Red;3;1;Jujutsu Kaisen Vol.2 [UEX02BT
 Handsome Kamen Amai Mask;Hero;OPM-1-035;U;Character;Green;1;1;One-Punch Man [UE06BT];;0
 Hange Zoë;;AOT-1-003;U;Character;Blue;3;1;Attack on Titan [UE10BT];;0
 Hange Zoë;;AOT-1-069;R;Character;Red;3;1;Attack on Titan [UE10BT];Active;1
-Hannes;;AOT-1-070;U;Character;Red;1;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];;2 # have 2 starter
+Hannes;;AOT-1-070;U;Character;Red;1;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];;4 # have 4 starter
 Hantengu;Upper Rank Demon;KMY-3-055;R;Character;Purple;4;2;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Get;0
 Hanzo;;HTR-1-087;C;Character;Green;5;1;Hunter × Hunter [UE02BT];;1
 Hardened Punch;;AOT-1-096;U;Event;Red;5;2;Attack on Titan [UE10BT];Special;0
@@ -795,7 +795,7 @@ Helm;Elysion/Aegis;NIK-1-002;U;Character;Yellow;2;1;Goddess of Victory: Nikke [U
 Henry Legolant;Black Bulls;BCV-1-086;C;Character;Red;3;1;Black Clover [UE08BT];;0
 Henry Legolant;Black Bulls;BCV-1-111;R;Character;Purple;2;1;Black Clover [UE08ST];;0
 Henya Kariwa;Ten Swords;RNK-1-051;C;Character;Purple;3;1;Rurouni Kenshin [UE11BT];;0
-Hero Almanac;;OPM-1-098;C;Event;Red;3;1;One-Punch Man [UE06BT];Draw;0
+Hero Almanac;;OPM-1-098;C;Event;Red;3;1;One-Punch Man [UE06BT];Draw;1
 Hero Association;;OPM-1-063;U;Site;Green;1;1;One-Punch Man [UE06BT];Draw;0
 Hero;;OPM-1-032;U;Event;Yellow;3;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Final;4 # have 4 starter
 Heymans Breda;;FMA-1-043;C;Character;Blue;3;1;Fullmetal Alchemist [UE09BT];;4
@@ -859,10 +859,10 @@ Ichigo Kurosaki;;BLC-3-001;SP;Character;Blue;3;1;NEW CARD SELECTION BLEACH: Thou
 Ichigo's Room;;BLC-1-108;U;Site;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01ST];Get;0
 Idle Transfiguration;;JJK-1-099;R;Event;Purple;4;1;Jujutsu Kaisen [UE03BT];Special;0
 Iharu Furuhashi;;KJ8-1-026;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];;0
-Iharu Furuhashi;;KJ8-1-027;U;Character;Yellow;1;1;Kaiju No. 8 [UE12BT];;0
+Iharu Furuhashi;;KJ8-1-027;U;Character;Yellow;1;1;Kaiju No. 8 [UE12BT];;1
 Iharu Furuhashi;;KJ8-1-028;R;Character;Yellow;3;1;Kaiju No. 8 [UE12BT];Active;0
 Iharu Furuhashi;;KJ8-1-064;C;Character;Green;1;1;Kaiju No. 8 [UE12BT];Draw;0
-Iharu Furuhashi;;KJ8-1-065;U;Character;Green;3;1;Kaiju No. 8 [UE12BT];Draw;0
+Iharu Furuhashi;;KJ8-1-065;U;Character;Green;3;1;Kaiju No. 8 [UE12BT];Draw;1
 Ikaruga;;CGH-2-031;C;Site;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
 Ikkaku Madarame;Thirteen Court Guard Squads;BLC-1-088;U;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Ikkaku Madarame;Thirteen Court Guard Squads;BLC-2-071;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
@@ -895,7 +895,7 @@ Jackal;Missilis/Exotic;NIK-1-023;R;Character;Yellow;4;1;Goddess of Victory: Nikk
 Jean Havoc;;FMA-1-042;U;Character;Blue;3;1;Fullmetal Alchemist [UE09BT];;4
 Jean Kirschtein;104th Cadet Corps/Levi Squad;AOT-1-018;C;Character;Blue;3;1;Attack on Titan [UE10BT];Active;0
 Jean Kirschtein;104th Cadet Corps/Levi Squad;AOT-1-083;C;Character;Red;0;1;Attack on Titan [UE10BT];Draw;0
-Jean Kirschtein;104th Cadet Corps/Levi Squad;AOT-1-084;U;Character;Red;2;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Active;2 # have 2 starter
+Jean Kirschtein;104th Cadet Corps/Levi Squad;AOT-1-084;U;Character;Red;2;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Active;4 # have 4 starter
 Jeremiah Gottwald;Holy Britannian Empire/Pureblood Faction;CGH-1-051;C;Character;Green;0;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Jeremiah Gottwald;Holy Britannian Empire/Pureblood Faction;CGH-1-052;R;Character;Green;3;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Jeremiah Gottwald;Order of the Black Knights;CGH-2-006;U;Character;Blue;1;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;2
@@ -981,7 +981,7 @@ Kaworu Nagisa;;EVA-1-038;U;Character;Purple;1;1;Evangelion: New Theatrical Editi
 Kaworu Nagisa;;EVA-1-039;SR;Character;Purple;3;1;Evangelion: New Theatrical Edition [UE15BT];Color;0
 Kaworu Nagisa;;EVA-1-112;R;Character;Purple;2;1;Evangelion: New Theatrical Edition [UE15ST];Active;0
 Kazsule;;HTR-2-002;C;Character;Yellow;0;1;Hunter × Hunter Vol.2 [UEX04BT];;3
-Kazuma Kuwabara;;YYH-1-040;C;Character;Green;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
+Kazuma Kuwabara;;YYH-1-040;C;Character;Green;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;1
 Kazuma Kuwabara;;YYH-1-041;U;Character;Green;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
 Kazuma Kuwabara;;YYH-1-042;R;Character;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Kazuma Kuwabara;;YYH-1-043;SR;Character;Green;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Raid;0
@@ -1034,7 +1034,7 @@ Kikoru Shinomiya;;KJ8-1-019;SR;Character;Yellow;3;1;Kaiju No. 8 [UE12BT];Color;0
 Kikoru Shinomiya;;KJ8-1-020;SR;Character;Yellow;4;1;Kaiju No. 8 [UE12BT];Raid;0
 Kikoru Shinomiya;;KJ8-1-057;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];Active;0
 Kikoru Shinomiya;;KJ8-1-058;U;Character;Green;2;1;Kaiju No. 8 [UE12BT];;0
-Kikoru Shinomiya;;KJ8-1-059;R;Character;Green;3;1;Kaiju No. 8 [UE12BT];;0
+Kikoru Shinomiya;;KJ8-1-059;R;Character;Green;3;1;Kaiju No. 8 [UE12BT];;1
 Kikyo;Zoldyck Family;HTR-1-052;U;Character;Purple;1;1;Hunter × Hunter [UE02BT];;0
 Killua Zoldyck;Zoldyck Family/Razor Attack Team;HTR-2-027;C;Character;Yellow;0;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;2
 Killua Zoldyck;Zoldyck Family/Razor Attack Team;HTR-2-028;U;Character;Yellow;1;1;Hunter × Hunter Vol.2 [UEX04BT];;0
@@ -1063,10 +1063,10 @@ King Bradley;Homunculus/Human;FMA-1-113;R;Character;Purple;3;1;Fullmetal Alchemi
 King Engine;;OPM-1-064;U;Event;Green;5;1;One-Punch Man [UE06BT];Special;0
 King;Hero;OPM-1-003;U;Character;Yellow;1;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;4 # have 4 starter
 King;Hero;OPM-1-004;R;Character;Yellow;0;1;One-Punch Man [UE06BT];Draw;0
-King;Hero;OPM-1-039;C;Character;Green;0;1;One-Punch Man [UE06BT];Get;0
+King;Hero;OPM-1-039;C;Character;Green;0;1;One-Punch Man [UE06BT];Get;1
 King;Hero;OPM-1-040;U;Character;Green;1;1;One-Punch Man [UE06BT];Draw;0
 King;Hero;OPM-1-041;SR;Character;Green;3;1;One-Punch Man [UE06BT];Raid;0
-Kiriko;;HTR-1-070;C;Character;Green;2;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];;4 # 4 starter, 1 booster
+Kiriko;;HTR-1-070;C;Character;Green;2;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];;4 # 4 starter, 2 booster
 Kirio Hikifune;Squad Zero;BLC-1-059;C;Character;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Kirio Hikifune;Squad Zero;BLC-2-059;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Kirito & Eugeo;;SAO-2-003;C;Character;Yellow;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
@@ -1107,9 +1107,9 @@ Klein;SAO Survivor;SAO-2-037;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX0
 Knights of the Round;;CGH-2-061;U;Event;Green;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;1
 Ko-guy;Cursed Spirit;JJK-3-063;C;Character;Red;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Koenma;;YYH-1-048;C;Character;Green;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;0
-Koenma;;YYH-1-049;U;Character;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
+Koenma;;YYH-1-049;U;Character;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Koenma;;YYH-1-050;SR;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Color;0
-Koenma;;YYH-1-079;U;Character;Red;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
+Koenma;;YYH-1-079;U;Character;Red;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Kokichi Muta;Kyoto Jujutsu High;JJK-3-029;C;Character;Purple;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Get;0
 Kokichi Muta;Kyoto Jujutsu High;JJK-3-030;U;Character;Purple;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];Color;0
 Konomi Okonogi;;KJ8-1-013;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];;0
@@ -1186,7 +1186,7 @@ Lelouch Lamperouge;Order of the Black Knights;CGH-2-013;R;Character;Blue;3;1;Cod
 Lelouch Lamperouge;Order of the Black Knights;CGH-2-041;C;Character;Purple;1;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
 Lelouch Lamperouge;Order of the Black Knights;CGH-2-042;SR;Character;Purple;5;2;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Color;0
 Leopold Vermillion;Crimson Lion Kings;BCV-1-043;C;Character;Green;1;1;Black Clover [UE08BT];Active;0
-Leorio;;HTR-1-090;U;Character;Green;1;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];;4
+Leorio;;HTR-1-090;U;Character;Green;1;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];;4 # have 4 starter, 1 booster
 Leorio;;HTR-1-091;R;Character;Green;3;2;Hunter × Hunter [UE02BT];Active;0
 Leorio;;HTR-1-092;SR;Character;Green;4;1;Hunter × Hunter [UE02BT];Active;0
 Leorio;;HTR-1-105;C;Character;Green;3;1;Hunter × Hunter [UE02ST];Active;4
@@ -1200,7 +1200,7 @@ Levi;Levi Squad;AOT-1-009;R;Character;Blue;2;1;Attack on Titan [UE10BT];Color;0
 Levi;Levi Squad;AOT-1-010;SR;Character;Blue;4;1;Attack on Titan [UE10BT];Get;0
 Levi;Levi Squad;AOT-1-011;SR;Character;Blue;6;1;Attack on Titan [UE10BT];Raid;0
 Levi;Levi Squad;AOT-1-073;R;Character;Red;5;2;Attack on Titan [UE10BT];Draw;0
-Levi;Levi Squad;AOT-1-110;R;Character;Blue;5;1;Attack on Titan [UE10ST];Raid;1
+Levi;Levi Squad;AOT-1-110;R;Character;Blue;5;1;Attack on Titan [UE10ST];Raid;2
 Li Xingke;Chinese Federation;CGH-2-022;C;Character;Blue;0;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
 Li Xingke;Chinese Federation;CGH-2-023;U;Character;Blue;1;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;1
 Li Xingke;Chinese Federation;CGH-2-024;SR;Character;Blue;4;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;0
@@ -1345,14 +1345,14 @@ Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-024;U;Character;Blue;3;1;Att
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-025;R;Character;Blue;4;2;Attack on Titan [UE10BT];Active;0
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-085;C;Character;Red;0;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Active;4 # have 4 starter
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-086;C;Character;Red;2;1;Attack on Titan [UE10BT];;1
-Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-087;U;Character;Red;2;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];;3 # have 2 starter, 1 booster
+Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-087;U;Character;Red;2;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];;4 # have 4 starter, 1 booster
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-088;R;Character;Red;3;1;Attack on Titan [UE10BT];Color;0
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-089;SR;Character;Red;4;1;Attack on Titan [UE10BT];Raid;0
-Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-105;SR;Character;Red;4;2;Attack on Titan [UE10ST];Draw;2
+Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-105;SR;Character;Red;4;2;Attack on Titan [UE10ST];Draw;4
 Mike;Zoldyck Family;HTR-1-059;C;Character;Purple;0;1;Hunter × Hunter [UE02BT];;0
 Miles;Briggs;FMA-1-062;U;Character;Blue;2;1;Fullmetal Alchemist [UE09BT];;4
 Military Buildup;;CGH-1-067;U;Event;Green;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Special;0
-Milluki;Zoldyck Family;HTR-1-060;C;Character;Purple;2;1;Hunter × Hunter [UE02BT];Draw;1
+Milluki;Zoldyck Family;HTR-1-060;C;Character;Purple;2;1;Hunter × Hunter [UE02BT];Draw;2
 Milly Ashford;Ashford Academy;CGH-1-086;C;Character;Red;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Milly Ashford;Ashford Academy;CGH-1-087;U;Character;Red;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Milly Ashford;Ashford Academy;CGH-1-088;R;Character;Red;2;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
@@ -1360,12 +1360,12 @@ Mimosa Vermillion;Golden Dawn;BCV-1-090;C;Character;Red;0;1;Black Clover [UE08BT
 Mimosa Vermillion;Golden Dawn;BCV-1-091;U;Character;Red;1;1;Black Clover [UE08ST]/Black Clover [UE08BT];;0
 Mimosa Vermillion;Golden Dawn;BCV-1-092;R;Character;Red;3;1;Black Clover [UE08BT];;0
 Mimosa Vermillion;Golden Dawn;BCV-1-093;SR;Character;Red;4;1;Black Clover [UE08BT];Raid;0
-Mina Ashiro;;KJ8-1-001;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];Get;0
+Mina Ashiro;;KJ8-1-001;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];Get;1
 Mina Ashiro;;KJ8-1-002;U;Character;Yellow;1;1;Kaiju No. 8 [UE12BT];;0
 Mina Ashiro;;KJ8-1-003;R;Character;Yellow;3;1;Kaiju No. 8 [UE12BT];Active;0
 Mina Ashiro;;KJ8-1-004;SR;Character;Yellow;4;2;Kaiju No. 8 [UE12BT];Get;0
 Mina Ashiro;;KJ8-1-005;SR;Character;Yellow;5;1;Kaiju No. 8 [UE12BT];Raid;0
-Mina Ashiro;;KJ8-1-041;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];Draw;0
+Mina Ashiro;;KJ8-1-041;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];Draw;1
 Mina Ashiro;;KJ8-1-042;C;Character;Green;3;1;Kaiju No. 8 [UE12BT];Draw;1
 Mina Ashiro;;KJ8-1-043;U;Character;Green;2;1;Kaiju No. 8 [UE12BT];;0
 Mina Ashiro;;KJ8-1-044;R;Character;Green;4;1;Kaiju No. 8 [UE12BT];Draw;1
@@ -1405,7 +1405,7 @@ Modernia;Pilgrim/Heretic;NIK-1-060;U;Character;Purple;2;1;Goddess of Victory: Ni
 Modernia;Pilgrim/Heretic;NIK-1-061;R;Character;Purple;4;1;Goddess of Victory: Nikke [UE14BT];Get;3
 Momo Hinamori;Thirteen Court Guard Squads;BLC-1-086;U;Character;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Momo Nishimiya;Kyoto Jujutsu High;JJK-1-082;U;Character;Purple;3;1;Jujutsu Kaisen [UE03BT];;0
-Monster Association;Monster Association;OPM-1-096;U;Site;Red;3;1;One-Punch Man [UE06BT];Get;0
+Monster Association;Monster Association;OPM-1-096;U;Site;Red;3;1;One-Punch Man [UE06BT];Get;1
 Monster Cells;;OPM-1-097;U;Event;Red;3;1;One-Punch Man [UE06BT];Final;0
 Monster Sweeper Inc.;;KJ8-1-073;U;Site;Green;3;1;Kaiju No. 8 [UE12BT];Get;1
 Mordred;Holy Britannian Empire/Knights of the Round/KMF;CGH-2-059;U;Character;Green;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
@@ -1650,7 +1650,7 @@ Renji Abarai;Thirteen Court Guard Squads;BLC-2-028;SR;Character;Blue;3;1;BLEACH:
 Renji Abarai;Thirteen Court Guard Squads;BLC-2-052;C;Character;Purple;1;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Renji Abarai;Thirteen Court Guard Squads;BLC-3-005;SP;Character;Purple;5;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Active;0
 Reno Ichikawa;;KJ8-1-009;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];Draw;1
-Reno Ichikawa;;KJ8-1-010;U;Character;Yellow;1;1;Kaiju No. 8 [UE12BT];Draw;0
+Reno Ichikawa;;KJ8-1-010;U;Character;Yellow;1;1;Kaiju No. 8 [UE12BT];Draw;1
 Reno Ichikawa;;KJ8-1-011;R;Character;Yellow;3;1;Kaiju No. 8 [UE12BT];;0
 Reno Ichikawa;;KJ8-1-012;SR;Character;Yellow;3;1;Kaiju No. 8 [UE12BT];Raid;0
 Reno Ichikawa;;KJ8-1-048;C;Character;Green;3;1;Kaiju No. 8 [UE12BT];Active;0
@@ -1666,7 +1666,7 @@ Revolution Life or Death Free Formation;;CGH-1-031;U;Event;Purple;3;1;Code Geass
 Reward;;NIK-1-032;C;Event;Yellow;4;1;Goddess of Victory: Nikke [UE14BT];Draw;4
 Riko Amanai;;JJK-3-001;U;Character;Yellow;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Rill Boismortier;Aqua Deer;BCV-1-062;U;Character;Green;2;1;Black Clover [UE08BT];Draw;0
-Rinku;;YYH-1-028;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
+Rinku;;YYH-1-028;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Risky Dice;Specified Slot;HTR-1-027;U;Site;Blue;3;1;Hunter × Hunter [UE02BT];Get;0
 Ritsuko Akagi;;EVA-1-068;U;Character;Red;2;1;Evangelion: New Theatrical Edition [UE15ST]/Evangelion: New Theatrical Edition [UE15BT];;0
 Ritsuko Akagi;WILLE;EVA-1-040;U;Character;Purple;1;1;Evangelion: New Theatrical Edition [UE15BT];;0
@@ -1688,7 +1688,7 @@ Rolo Lamperouge;Order of the Black Knights;CGH-2-014;C;Character;Blue;0;1;Code G
 Rolo Lamperouge;Order of the Black Knights;CGH-2-015;U;Character;Blue;2;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
 Rolo Lamperouge;Order of the Black Knights;CGH-2-016;SR;Character;Blue;4;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Active;0
 Ronie Arabel;;SAO-1-006;U;Character;Yellow;1;1;Sword Art Online [UE07BT];;0
-Rose Whip Thorn Wheel;;YYH-1-093;U;Site;Red;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
+Rose Whip Thorn Wheel;;YYH-1-093;U;Site;Red;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;1
 Rose Whip;;YYH-1-100;U;Event;Red;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Special;1
 Round Boulder;;KMY-1-108;U;Site;Yellow;2;1;Demon Slayer: Kimetsu no Yaiba [UE05ST];;4
 Roy Mustang;;FMA-1-052;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];Get;4
@@ -1700,7 +1700,7 @@ Roy Mustang;;FMA-1-111;R;Character;Blue;1;1;Fullmetal Alchemist [UE09ST];Draw;3
 Royd Loyd;Stern Ritters;BLC-1-026;U;Character;Yellow;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Rui;Lower Rank Demon;KMY-1-050;R;Character;Purple;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Ruka Rengoku;;KMY-3-067;C;Character;Red;2;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];;0
-Ruka;;YYH-1-062;C;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
+Ruka;;YYH-1-062;C;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-051;C;Character;Purple;0;1;Promotional Card;Draw;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-052;R;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;1
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-053;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
@@ -1779,7 +1779,7 @@ Seijuro Hiko;;RNK-1-007;U;Character;Blue;4;1;Rurouni Kenshin [UE11BT];Active;0
 Seijuro Hiko;;RNK-1-008;SR;Character;Blue;7;1;Rurouni Kenshin [UE11BT];Raid;0
 Seijuro Hiko;;RNK-1-111;R;Character;Blue;3;1;Rurouni Kenshin [UE11ST];Active;0
 Seiku Arai;;RNK-1-001;C;Character;Blue;2;1;Rurouni Kenshin [UE11BT];Draw;0
-Seiryu;;YYH-1-017;C;Character;Purple;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
+Seiryu;;YYH-1-017;C;Character;Purple;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;2
 Sekido;Upper Rank Demon/Hantengu's Duplicate;KMY-3-059;C;Character;Purple;0;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Get;0
 Self-Embodiment of Perfection;;JJK-1-094;U;Site;Purple;3;1;Jujutsu Kaisen [UE03BT];Get;0
 Selim Bradley;Homunculus;FMA-1-084;C;Character;Purple;0;1;Fullmetal Alchemist [UE09BT];Active;4
@@ -1789,7 +1789,7 @@ Senjumaru Shutara;Squad Zero;BLC-2-056;C;Character;Purple;0;1;BLEACH: Thousand-Y
 Senjumaru Shutara;Squad Zero;BLC-2-057;R;Character;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
 Senjuro Rengoku;;KMY-1-081;C;Character;Red;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Serious Punch;;OPM-1-067;R;Event;Green;12;1;One-Punch Man [UE06BT];;0
-Shadow Beasts;;HTR-1-068;C;Character;Green;2;1;Hunter × Hunter [UE02BT];;0
+Shadow Beasts;;HTR-1-068;C;Character;Green;2;1;Hunter × Hunter [UE02BT];;1
 Shalnark;Phantom Troupe;HTR-1-039;U;Character;Purple;3;1;Hunter × Hunter [UE02BT];Active;1
 Shalnark;Phantom Troupe;HTR-2-052;C;Character;Purple;2;1;Hunter × Hunter Vol.2 [UEX04BT];;2
 Shao May;Xing;FMA-1-017;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Draw;4
@@ -1822,7 +1822,7 @@ Shinobu Kocho;Hashira;KMY-1-021;R;Character;Yellow;3;1;Demon Slayer: Kimetsu no 
 Shinobu Kocho;Hashira;KMY-2-005;U;Character;Yellow;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Shinobu Kocho;Hashira;KMY-3-008;SR;Character;Yellow;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Get;0
 Shinta;;RNK-1-002;C;Character;Blue;0;1;Rurouni Kenshin [UE11BT];Active;0
-Shiori Minamino;;YYH-1-086;C;Character;Red;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
+Shiori Minamino;;YYH-1-086;C;Character;Red;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;1
 Shirley Fenette;Ashford Academy;CGH-1-079;C;Character;Red;0;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Shirley Fenette;Ashford Academy;CGH-1-080;U;Character;Red;2;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Shirley Fenette;Ashford Academy;CGH-1-081;SR;Character;Red;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Raid;0
@@ -1856,7 +1856,7 @@ Silva;Zoldyck Family;HTR-1-056;SR;Character;Purple;5;2;Hunter × Hunter [UE02BT]
 Silverfang;Hero;OPM-1-008;C;Character;Yellow;1;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Draw;4 # have 4 starter
 Silverfang;Hero;OPM-1-009;U;Character;Yellow;0;1;One-Punch Man [UE06BT];;0
 Silverfang;Hero;OPM-1-010;R;Character;Yellow;4;1;One-Punch Man [UE06BT];Get;0
-Silverfang;Hero;OPM-1-049;SR;Character;Green;6;1;One-Punch Man [UE06BT];Color;0
+Silverfang;Hero;OPM-1-049;SR;Character;Green;6;1;One-Punch Man [UE06BT];Color;1
 Silverfang;Hero;OPM-1-103;C;Character;Yellow;2;1;One-Punch Man [UE06ST];Active;4
 Silverfang;Hero;OPM-1-110;R;Character;Green;4;1;One-Punch Man [UE06BT];Draw;0
 Sinon (Sun Goddess, Solus);Goddess;SAO-1-023;C;Character;Yellow;0;1;Sword Art Online [UE07BT];Draw;0
@@ -1893,7 +1893,7 @@ Sojiro Seta;Ten Swords;RNK-1-057;U;Character;Purple;3;1;Rurouni Kenshin [UE11BT]
 Sojiro Seta;Ten Swords;RNK-1-058;R;Character;Purple;4;1;Rurouni Kenshin [UE11BT];Color;0
 Sojiro Seta;Ten Swords;RNK-1-059;SR;Character;Purple;4;1;Rurouni Kenshin [UE11BT];Raid;0
 Sometimes You Gotta Risk It All... to Win That Special... Something!;;EVA-1-099;C;Event;Red;2;1;Evangelion: New Theatrical Edition [UE15BT];Active;0
-Soshiro Hoshina;;KJ8-1-029;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];Active;0
+Soshiro Hoshina;;KJ8-1-029;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];Active;1
 Soshiro Hoshina;;KJ8-1-030;U;Character;Yellow;2;1;Kaiju No. 8 [UE12BT];;0
 Soshiro Hoshina;;KJ8-1-031;R;Character;Yellow;4;1;Kaiju No. 8 [UE12BT];Get;1
 Soshiro Hoshina;;KJ8-1-066;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];Get;0
@@ -1970,7 +1970,7 @@ Suzaku Kururugi;Holy Britannian Empire;CGH-1-035;R;Character;Green;3;1;Code Geas
 Suzaku Kururugi;Holy Britannian Empire;CGH-1-036;SR;Character;Green;4;1;Code Geass Lelouch of the Rebellion [UE04BT];Active;0
 Suzaku;;YYH-1-016;U;Character;Purple;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Switch;;SAO-1-109;R;Event;Blue;2;1;Sword Art Online [UE07ST];Draw;0
-Sword of the Darkness Flame;;YYH-1-096;C;Event;Red;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
+Sword of the Darkness Flame;;YYH-1-096;C;Event;Red;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Swordsmith Village;Swordsmith Village;KMY-3-040;U;Site;Blue;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Get;0
 Tae Nakanoshima;;KJ8-1-021;C;Character;Yellow;4;1;Kaiju No. 8 [UE12BT];Active;0
 Tae Sekihara & Tsubame Sanjo;;RNK-1-104;C;Character;Red;3;1;Rurouni Kenshin [UE11ST];Active;0
@@ -1997,7 +1997,7 @@ Tanjiro Kamado;;KMY-3-017;SR;Character;Blue;4;1;Demon Slayer: Kimetsu no Yaiba V
 Tanjiro Kamado;;KMY-3-063;C;Character;Red;1;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Color;0
 Tanjiro Kamado;;KMY-3-064;R;Character;Red;4;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Raid;0
 Tank-top Master;Hero;OPM-1-053;U;Character;Green;2;1;One-Punch Man [UE06BT];;0
-Tareo;;OPM-1-079;C;Character;Red;0;1;One-Punch Man [UE06BT];;1
+Tareo;;OPM-1-079;C;Character;Red;0;1;One-Punch Man [UE06BT];;2
 Tasty Bread;;BLC-1-062;C;Event;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Tasty!;;KMY-1-095;C;Event;Red;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Draw;0
 Team Genthru;The Bomber;HTR-2-044;R;Character;Blue;4;1;Hunter × Hunter Vol.2 [UEX04BT];Color;0
@@ -2014,12 +2014,12 @@ Tengen Uzui;Hashira;KMY-3-069;R;Character;Red;2;1;Demon Slayer: Kimetsu no Yaiba
 Tenjiro Kirinji;Squad Zero;BLC-1-056;C;Character;Purple;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Tenjiro Kirinji;Squad Zero;BLC-2-055;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Teoni;;KMY-1-041;C;Character;Purple;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Draw;0
-Terrible Tornado;Hero;OPM-1-011;C;Character;Yellow;0;1;One-Punch Man [UE06BT];Get;0
+Terrible Tornado;Hero;OPM-1-011;C;Character;Yellow;0;1;One-Punch Man [UE06BT];Get;1
 Terrible Tornado;Hero;OPM-1-012;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;4 # have 4 starter, 1 booster
 Terrible Tornado;Hero;OPM-1-013;U;Character;Yellow;3;1;One-Punch Man [UE06BT];Active;1
 Terrible Tornado;Hero;OPM-1-014;R;Character;Yellow;2;1;One-Punch Man [UE06BT];Draw;0
 Terrible Tornado;Hero;OPM-1-015;SR;Character;Yellow;4;1;One-Punch Man [UE06BT];Raid;0
-Terrible Tornado;Hero;OPM-1-051;R;Character;Green;4;1;One-Punch Man [UE06BT];Active;0
+Terrible Tornado;Hero;OPM-1-051;R;Character;Green;4;1;One-Punch Man [UE06BT];Active;1
 Terrible Tornado;Hero;OPM-1-104;R;Character;Yellow;4;1;One-Punch Man [UE06ST];Draw;4
 Terrible Tornado;Hero;OPM-1-111;R;Character;Green;7;1;One-Punch Man [UE06BT];Draw;0
 Testing Gate;;HTR-1-061;U;Site;Purple;3;1;Hunter × Hunter [UE02BT];;1
@@ -2086,7 +2086,7 @@ Traveler from Xing;;FMA-1-030;U;Event;Yellow;4;1;Fullmetal Alchemist [UE09BT];Sp
 Tree of Qliphoth;;BCV-1-028;C;Site;Purple;3;1;Black Clover [UE08BT];Get;0
 Trisha Elric;;FMA-1-015;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];;4
 Tristan;Holy Britannian Empire/Knights of the Round/KMF;CGH-2-058;C;Character;Green;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
-Tsezguerra;;HTR-1-008;C;Character;Blue;3;1;Hunter × Hunter [UE02BT];;0
+Tsezguerra;;HTR-1-008;C;Character;Blue;3;1;Hunter × Hunter [UE02BT];;1
 Tsezguerra;Razor Attack Team;HTR-2-017;C;Character;Yellow;2;1;Hunter × Hunter Vol.2 [UEX04BT];;0
 Tsezguerra;Razor Attack Team;HTR-2-018;R;Character;Yellow;4;1;Hunter × Hunter Vol.2 [UEX04BT];Active;0
 Tsubame Sanjo;;RNK-1-078;U;Character;Red;1;1;Rurouni Kenshin [UE11ST]/Rurouni Kenshin [UE11BT];;0
@@ -2099,7 +2099,7 @@ Ultimate Eye;;FMA-1-098;U;Event;Purple;4;1;Fullmetal Alchemist [UE09BT];Special;
 Ultimate Mechamaru, Mode: Absolute;Kyoto Jujutsu High;JJK-3-027;R;Character;Purple;6;1;Jujutsu Kaisen Vol.2 [UEX02BT];Raid;0
 Ultimate Mechamaru;Kyoto Jujutsu High;JJK-1-074;U;Character;Purple;2;1;Jujutsu Kaisen [UE03BT];;0
 Ultra Cannon;;JJK-3-036;U;Event;Purple;4;1;Jujutsu Kaisen Vol.2 [UEX02BT];Special;0
-Underworld Resident;;HTR-1-062;U;Event;Purple;3;1;Hunter × Hunter [UE02BT];Final;0
+Underworld Resident;;HTR-1-062;U;Event;Purple;3;1;Hunter × Hunter [UE02BT];Final;1
 Undine;;BCV-1-095;C;Site;Red;3;1;Black Clover [UE08BT];Get;0
 Unit Maintenance;;CGH-1-066;C;Event;Green;1;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
 United States of Japan;;CGH-1-029;U;Event;Purple;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Final;0
@@ -2132,7 +2132,7 @@ Viper;Tetra Line/Exotic;NIK-1-013;C;Character;Yellow;0;1;Goddess of Victory: Nik
 Viper;Tetra Line/Exotic;NIK-1-014;U;Character;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];Color;4
 Viper;Tetra Line/Exotic;NIK-1-015;R;Character;Yellow;3;2;Goddess of Victory: Nikke [UE14BT];Get;1
 Warabihime;Upper Rank Demon;KMY-1-060;C;Character;Purple;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
-Watchdog Man;Hero;OPM-1-056;U;Character;Green;3;1;One-Punch Man [UE06BT];Active;0
+Watchdog Man;Hero;OPM-1-056;U;Character;Green;3;1;One-Punch Man [UE06BT];Active;1
 Water Breathing Tenth Form: Constant Flux;;KMY-1-033;R;Event;Yellow;4;1;Demon Slayer: Kimetsu no Yaiba [UE05ST]/Demon Slayer: Kimetsu no Yaiba [UE05BT];Special;4 # have 4 starter
 Water Divination;;HTR-1-100;C;Event;Green;3;1;Hunter × Hunter [UE02BT];Draw;1
 We Fight Now!! We Decide This Right Here!!;;AOT-1-064;R;Event;Green;9;2;Attack on Titan [UE10BT];Special;0
@@ -2148,8 +2148,8 @@ Who Gave You Permission to Yap Away?;;BLC-2-045;U;Event;Blue;4;1;BLEACH: Thousan
 Why Do I Have to Choose?;;FMA-1-032;C;Event;Yellow;3;1;Fullmetal Alchemist [UE09BT];Draw;4
 Will to Live;;RNK-1-027;U;Event;Blue;3;1;Rurouni Kenshin [UE11BT];Final;0
 William Vangeance;Golden Dawn;BCV-1-054;U;Character;Green;2;1;Black Clover [UE08BT];;0
-Wind Blade Leg;;OPM-1-099;U;Event;Red;4;1;One-Punch Man [UE06BT];Special;0
-Wing;;HTR-1-069;U;Character;Green;2;1;Hunter × Hunter [UE02BT];;0
+Wind Blade Leg;;OPM-1-099;U;Event;Red;4;1;One-Punch Man [UE06BT];Special;1
+Wing;;HTR-1-069;U;Character;Green;2;1;Hunter × Hunter [UE02BT];;1
 Wing;;HTR-1-112;U;Character;Green;4;1;Hunter × Hunter [UE02BT];Get;1
 Wing;;HTR-2-062;C;Character;Green;2;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;0
 WINGS OF PARADISE;;NIK-1-066;R;Event;Purple;4;1;Goddess of Victory: Nikke [UE14BT];Special;2
@@ -2259,7 +2259,7 @@ Yusuke Urameshi;;YYH-1-069;U;Character;Red;3;1;Yu Yu Hakusho: Ghost Files [UE13B
 Yusuke Urameshi;;YYH-1-070;R;Character;Red;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
 Yusuke Urameshi;;YYH-1-102;C;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
 Yusuke Urameshi;;YYH-1-103;SR;Character;Green;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Raid;0
-Yusuke Urameshi;;YYH-P-002;R;Character;Green;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
+Yusuke Urameshi;;YYH-P-002;R;Character;Green;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Yutaro Tsukayama;;RNK-1-083;C;Character;Red;0;1;Rurouni Kenshin [UE11BT];;0
 Yuuki;ALO;SAO-1-078;C;Character;Green;0;1;Sword Art Online [UE07BT];Draw;0
 Yuuki;ALO;SAO-1-079;U;Character;Green;2;1;Sword Art Online [UE07BT];;0

@@ -1,0 +1,88 @@
+id: 24_tcg
+title: "24 Trading Card Game"
+short_title: "24 TCG"
+
+publisher: Press Pass, Inc.
+license_holder: Fox Television Studios
+designer:
+  - Trevor McGregor 
+  - Jason Winter
+
+initial_release_year: 2007
+
+status:
+  lifecycle: discontinued     # living | discontinued | dormant
+  rules_supported: true       # this archive hosts a rulebook transcription
+  official_support_ended: 2008
+
+game_type:
+  - trading_card_game
+  - collectible_card_game
+  - licensed_property
+
+players:
+  min: 2
+  max: 2
+  recommended: 2
+
+deck_construction:
+  min_deck_size: 24
+  max_deck_size: null
+  copies_per_card: null
+  notes: >
+    Deck construction rules vary by product release.
+    Refer to the official rulebook for details.
+
+win_condition:
+  primary: score_points
+  target_points: 24
+  notes: >
+    The first player to reach or exceed 24 points wins the game.
+
+core_mechanics:
+  - mission_resolution
+  - skill_comparison
+  - resource_management
+  - attrition
+  - direct_player_conflict
+
+rules_engine:
+  complexity: medium
+  randomness_level: medium
+  interaction_level: high
+
+card_types:
+  - character
+  - directive
+  - equipment
+  - agenda
+  - event
+
+setting:
+  franchise: "24"
+  genre:
+    - modern
+    - espionage
+    - political_thriller
+  tone:
+    - tense
+    - tactical
+    - dramatic
+
+release_model:
+  primary: booster_packs
+  secondary:
+    - starter_decks
+    - theme_decks
+
+notes: >
+  24 TCG is a two-player competitive card game based on the television
+  series "24". Players deploy characters and directives to complete
+  missions and score points. The game is now out of print and no longer
+  officially supported.
+
+links:
+  rulebook_pdf: http://ccggamez.com/files/24/24%20TCG%20-%20Rulebook.pdf
+  wikipedia: https://en.wikipedia.org/wiki/24_(TV_series)
+  ccg_database: https://www.ccgtrader.net/games/24-tcg
+  boardgamegeek: https://boardgamegeek.com/boardgame/26430/24-tcg
