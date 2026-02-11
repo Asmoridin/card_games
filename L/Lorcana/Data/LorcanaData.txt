@@ -8,17 +8,17 @@ Abu - Mischievous Monkey;Character;Ruby;Storyborn/Ally;The First Chapter (Common
 Adelaide Bonfamille - Patron of the Arts;Character;Sapphire;Storyborn/Ally;Reign of Jafar (Common);0
 Adorabeezle Winterpop - Ice Rocket Racer;Character;Ruby;Storyborn/Hero/Racer;Azurite Sea (Common);1
 Agrabah - Marketplace;Location;Ruby;;Into the Inklands (Common)/Fabled (Common);4
-# Traits done through here
-Agustin Madrigal - Clumsy Dad;Character;Amber;;Ursula's Return (Common);4
+Agustin Madrigal - Clumsy Dad;Character;Amber;Storyborn/Mentor/Madrigal;Ursula's Return (Common);4
 Airfoil;Item;Emerald;;Into the Inklands (Common);0
 Akela - Forest Runner;Character;Emerald;Storyborn/Ally;Whispers in the Well (Common);2
-Akela - Wolf Pack Elder;Character;Steel;;Archazia's Island (Common);2
-Aladdin - Barreling Through;Character;Ruby;;Whispers in the Well (Rare);0
-Aladdin - Brave Rescuer;Character;Steel;;Ursula's Return (Uncommon);0
-Aladdin - Cornered Swordsman;Character;Steel;;The First Chapter (Common);2
-Aladdin - Fearless Navigator;Character;Ruby;;Azurite Sea (Common);0
-Aladdin - Heroic Outlaw;Character;Ruby;;The First Chapter (Super Rare);1
-Aladdin - Intrepid Commander;Character;Ruby;;Azurite Sea (Uncommon);0
+Akela - Wolf Pack Elder;Character;Steel;Storyborn/Ally;Archazia's Island (Common);2
+Aladdin - Barreling Through;Character;Ruby;Storyborn/Hero/Whisper;Whispers in the Well (Rare);0
+Aladdin - Brave Rescuer;Character;Steel;Floodborn/Hero;Ursula's Return (Uncommon);0
+Aladdin - Cornered Swordsman;Character;Steel;Storyborn/Hero;The First Chapter (Common);2
+Aladdin - Fearless Navigator;Character;Ruby;Storyborn/Hero/Prince;Azurite Sea (Common);0
+Aladdin - Heroic Outlaw;Character;Ruby;Floodborn/Hero;The First Chapter (Super Rare);1
+Aladdin - Intrepid Commander;Character;Ruby;Floodborn/Hero/Prince;Azurite Sea (Uncommon);0
+# Traits done through here
 Aladdin - Prince Ali;Character;Emerald;;The First Chapter (Common)/Fabled (Common);4
 Aladdin - Research Assistant;Character;Steel;;Archazia's Island (Rare);1
 Aladdin - Resolute Swordsman;Character;Steel;;Ursula's Return (Common);3
@@ -1880,3 +1880,13 @@ Stitch - Carefree Snowboarder;Character;Amber;Storyborn/Hero/Alien;Winterspell (
 Pocahontas - Finding the Way;Character;Amber;Storyborn/Hero/Princess;Winterspell (Common);0
 David - Protective Snowboarder;Character;Amber;Storyborn/Ally;Winterspell (Common);0
 Fangmeyer - Icy Officer;Character;Amber;Storyborn/Ally/Detective;Winterspell (Common);0
+Chief Powhatan - Protective Leader;Character;Amber;Storyborn/Mentor/King;Winterspell (Uncommon);0
+Sarabi - Protecting the Pride;Character;Amber;Storyborn/Mentor/Queen;Winterspell (Common);0
+Grandmother Willow - Ancient Advisor;Character;Amber;Storyborn/Mentor;Winterspell (Uncommon);0
+Cobra Bubbles - Dedicated Official;Character;Amber;Storyborn/Ally;Winterspell (Rare);0
+John Smith - Snow Tracker;Character;Amber;Storyborn/Hero;Winterspell (Uncommon);0
+Timon - Snowball Swiper;Character;Amber;Storyborn/Ally;Winterspell (Rare);0
+Lilo - Rock Star;Character;Amber;Floodborn/Hero;Winterspell (Super Rare);0
+Pleakley - Arctic Naturalist;Character;Amber;Dreamborn/Ally/Alien;Winterspell (Uncommon);0
+Jumba Jookiba - Prolific Inventor;Character;Amber;Storyborn/Ally/Alien/Inventor;Winterspell (Rare);0
+Nani - Stage Manager;Character;Amber;Dreamborn/Hero;Winterspell (Uncommon);0

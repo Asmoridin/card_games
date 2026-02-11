@@ -398,7 +398,7 @@ Botan;;YYH-1-085;U;Character;Red;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Brace Yourself;;KJ8-1-077;R;Event;Green;5;1;Kaiju No. 8 [UE12BT];Special;0
 Britannian Soldiers;Holy Britannian Empire;CGH-1-044;C;Character;Green;0;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
 Bubble Horse;;HTR-2-039;C;Character;Blue;3;1;Hunter × Hunter Vol.2 [UEX04BT];Active;1
-Buccaneer;Briggs;FMA-1-061;R;Character;Blue;4;2;Fullmetal Alchemist [UE09BT];Active;2
+Buccaneer;Briggs;FMA-1-061;R;Character;Blue;4;2;Fullmetal Alchemist [UE09BT];Active;3
 Buggy;;SAO-1-096;U;Site;Green;3;1;Sword Art Online [UE07BT];Get;0
 Bui;;YYH-1-027;R;Character;Purple;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
 Bungee Gum;;HTR-1-067;C;Event;Purple;2;1;Hunter × Hunter [UE02BT];Draw;0
@@ -548,10 +548,10 @@ Dwun;;HTR-2-003;U;Character;Yellow;2;1;Hunter × Hunter Vol.2 [UEX04BT];;1
 Eden;;NIK-1-062;U;Site;Purple;6;1;Goddess of Victory: Nikke [UE14BT];;4
 Edward Elric;;FMA-1-009;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Get;4
 Edward Elric;;FMA-1-010;U;Character;Yellow;1;1;Fullmetal Alchemist [UE09BT];;4
-Edward Elric;;FMA-1-011;R;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];Draw;4
-Edward Elric;;FMA-1-012;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09BT];Raid;2
+Edward Elric;;FMA-1-011;R;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];Draw;4 # have 4 base, 1 variant
+Edward Elric;;FMA-1-012;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09BT];Raid;2 # have 1 base, 1 three-star variant
 Edward Elric;;FMA-1-039;U;Character;Blue;2;1;Fullmetal Alchemist [UE09BT];;4
-Edward Elric;;FMA-1-040;SR;Character;Blue;4;1;Fullmetal Alchemist [UE09BT];Draw;3
+Edward Elric;;FMA-1-040;SR;Character;Blue;4;1;Fullmetal Alchemist [UE09BT];Draw;3 # have 2 base, 1 variant
 Edward Elric;;FMA-1-102;U;Character;Yellow;3;1;Fullmetal Alchemist [UE09ST];;4
 Edward Elric;;FMA-1-103;SR;Character;Yellow;4;1;Fullmetal Alchemist [UE09ST];Raid;4
 Eeta;;HTR-1-002;U;Character;Blue;1;1;Hunter × Hunter [UE02BT];;0
@@ -1295,7 +1295,7 @@ Maxwell;Missilis/Matis;NIK-1-088;U;Character;Green;1;1;Goddess of Victory: Nikke
 Maxwell;Missilis/Matis;NIK-1-089;R;Character;Green;4;2;Goddess of Victory: Nikke [UE14BT];Get;3
 May Chang;Xing;FMA-1-019;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Get;4
 May Chang;Xing;FMA-1-020;U;Character;Yellow;2;1;Fullmetal Alchemist [UE09BT];;4
-May Chang;Xing;FMA-1-021;R;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];Get;2
+May Chang;Xing;FMA-1-021;R;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];Get;3
 Maya Ibuki;;EVA-1-076;C;Character;Red;3;1;Evangelion: New Theatrical Edition [UE15ST]/Evangelion: New Theatrical Edition [UE15BT];;0
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-1-054;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-036;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
@@ -1924,7 +1924,7 @@ Squad Funeral;;BLC-1-098;C;Event;Green;1;1;BLEACH: Thousand-Year Blood War [UE01
 Squadron-Style Axe Technique Number One - Falling Thunder;;KJ8-1-040;R;Event;Yellow;3;1;Kaiju No. 8 [UE12BT];Special;0
 Squala;;HTR-2-067;C;Character;Green;3;1;Hunter × Hunter Vol.2 [UEX04BT];;0
 Starburst Stream;;SAO-1-065;R;Event;Blue;4;1;Sword Art Online [UE07ST]/Sword Art Online [UE07BT];Special;0
-State Alchemists;;FMA-1-065;U;Event;Blue;3;1;Fullmetal Alchemist [UE09BT];Final;3
+State Alchemists;;FMA-1-065;U;Event;Blue;3;1;Fullmetal Alchemist [UE09BT];Final;4
 Stinger;Hero;OPM-1-036;C;Character;Green;0;1;One-Punch Man [UE06BT];;0
 Straw Doll Technique: Hairpin;;JJK-1-031;C;Event;Yellow;2;1;Jujutsu Kaisen [UE03BT];;0
 Straw Doll Technique: Resonance;;JJK-1-032;C;Event;Yellow;2;1;Jujutsu Kaisen [UE03BT];Special;0
