@@ -415,6 +415,7 @@ Reversal Energy;Energy;Special Energy;;;;PAL 192 (Uncommon)/PAR 266 (Hyper Rare)
 
 # Obsidian Flames (OBF)
 Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (Promo);G;4;1
+Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
 Pidgeot ex;Pokemon;Colorless;280;Quick Search;Blustery Wind;OBF 164 (Double Rare)/OBF 217 (Ultra Rare)/OBF 225 (Special Illustration Rare)/PAF 221 (Shiny Ultra Rare);G;4;0
 Arven;Trainer;Supporter;;;;SVI 166 (Uncommon)/SVI 235 (Ultra Rare)/SVI 249 (Special Illustration Rare)/OBF 186 (Uncommon)/PAF 235 (Special Illustration Rare);G;8;2
 
@@ -499,8 +500,10 @@ Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (
 Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
 
 # Stellar Crown
+Grubbin;Pokemon;Grass;70;;Ambush;SCR 9 (Common)/ASC 17 (Common);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common);H;4;0
+Area Zero Underdepths;Trainer;Stadium;SCR 131 (Uncommon)/SCR 174 (Hyper Rare)/PRE 94 (Uncommon);H;4;0
 Grand Tree;Trainer;Stadium;;;;SCR 136 (ACE SPEC Rare);H;2;0
 Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
 Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Uncommon)/PRE 171 (Special Illustration Rare);H;4;0
@@ -513,6 +516,7 @@ Latias ex;Pokemon;Psychic;210;Skyliner;Eon Blade;SSP 76 (Double Rare)/SSP 220 (U
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
 Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;2;0
+Precious Trolley;Trainer;Item;;;;SSP 185 (ACE SPEC Rare);H;1;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # Prismatic Evolutions
@@ -533,7 +537,8 @@ Mow Rotom;Pokemon;Grass;70;;Trimming Mower|Gadget Show;DRI 9 (Common);I;4;3 # 1 
 Shaymin;Pokemon;Grass;80;Flower Curtain;Smash Kick;DRI 10 (Uncommon)/DRI 185 (Illustration Rare);I;4;0
 Fomantis;Pokemon;Grass;60;;Cut Up;DRI 13 (Common);I;4;2 # 1 reverse holofoil
 Team Rocket's Blipbug;Pokemon;Grass;60;;Searching Eyes;DRI 15 (Common);I;4;1
-Team Rocket's Spidops;Pokemon;Grass;130;Charging Up;Rocket Rush;DRI 20 (Rare)/DRI 187 (Illustration Rare);I;4;1 # 1 reverse foil
+Team Rocket's Tarountula;Pokemon;Grass;50;;Take Down;DRI 19 (Common)/ASC 18 (Common);I;4;0
+Team Rocket's Spidops;Pokemon;Grass;130;Charging Up;Rocket Rush;DRI 20 (Rare)/DRI 187 (Illustration Rare)/ASC 19 (Rare);I;4;1 # 1 reverse foil
 Growlithe;Pokemon;Fire;80;;Live Coal|Dig Claws;DRI 27 (Common);I;4;1
 Ethan's Cyndaquil;Pokemon;Fire;70;;Ember;DRI 32 (Common);I;4;2 # 1 reverse foil
 Ethan's Slugma;Pokemon;Fire;80;;Steady Firebreathing;DRI 35 (Common);I;4;1
@@ -646,6 +651,11 @@ Crustle;Pokemon;Fighting;150;Sturdy;Stone Edge;BLK 52 (Uncommon)/BLK 130 (Illust
 Landorus;Pokemon;Fighting;130;;Abundant Harvest|Earthquake;BLK 53 (Rare)/BLK 131 (Illustration Rare);I;4;0
 Venipede;Pokemon;Darkness;80;;Poison Spray;BLK 54 (Common)/BLK 132 (Illustration Rare);I;4;0
 Whirlipede;Pokemon;Darkness;100;;Venoshock;BLK 55 (Common)/BLK 133 (Illustration Rare);I;4;0
+Scolipede;Pokemon;Darkness;160;Poison Point;Venoshock;BLK 56 (Uncommon)/BLK 134 (Illustration Rare);I;4;0
+Sandile;Pokemon;Darkness;70;;Tighten Up;BLK 57 (Common)/BLK 135 (Illustration Rare);I;4;0
+Krokorok;Pokemon;Darkness;100;;Tighten Up;BLK 58 (Common)/BLK 136 (Illustration Rare);I;4;0
+Krookodile;Pokemon;Darkness;170;;Tighten Up|Cursed Slug;BLK 59 (Uncommon)/BLK 137 (Illustration Rare);I;4;0
+Escavalier;Pokemon;Metal;130;;Wild Lances;BLK 60 (Uncommon)/BLK 138 (Illustration Rare);I;4;0
 
 Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
@@ -653,7 +663,7 @@ Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield
 # BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
-# BLK 87-133 done
+# BLK 87-138 done
 # BLK 156-161 done
 # BLK 164-169 done
 # BLK 171-172 done
@@ -670,14 +680,18 @@ Erika's Tangela;Pokemon;Grass;60;Gathering of Blossoms;Bind;ASC 7 (Common)/ASC 2
 Chikorita;Pokemon;Grass;70;;Growl|Seed Bomb;ASC 8 (Common);J;4;0
 Bayleef;Pokemon;Grass;100;;Leaf Step;ASC 9 (Uncommon);J;4;0
 Mega Meganium ex;Pokemon;Grass;360;;Giant Bouquet;ASC 10 (Double Rare)/ASC 272 (Special Illustration Rare)/MEP 34 (Promo);J;4;0
+Wurmple;Pokemon;Grass;60;;Bug Bite;ASC 11 (Common);I;4;0
+Silcoon;Pokemon;Grass;90;Multiplying Cocoon;Tackle;ASC 12 (Common);I;4;0
+Beautifly;Pokemon;Grass;130;;Stun Spore|Energy Straw;ASC 13 (Uncommon)/ASC 219 (Illustration Rare);I;4;0
+Cascoon;Pokemon;Grass;90;;Trading Places;ASC 14 (Common);I;4;0
+Dustox;Pokemon;Grass;140;Boisterous Wind;Twilight Poison;ASC 15 (Uncommon)/ASC 220 (Illustration Rare);I;4;0
+Charmander;Pokemon;Fire;80;;Fire Claws;ASC 20 (Common);J;4;0
 
-# ASC 16 done
 # ASC 123 done
 # ASC 155 done
 # ASC 158-160 done
 # ASC 183 done
-# ASC 218 done
-# ASC 221 done
+# ASC 218-221 done
 # ASC 226 done
 # ASC 247-248 done
 # ASC 272 done
