@@ -2035,8 +2035,21 @@ Bog Hag;Personality;Unaligned;Forbidden Knowledge (Common);Clan Wars (Imperial);
 Boisterous Soldiers;Follower;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);1;0
 Bokatu;Personality;Toturi's Army;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Bokken;Item;;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
+Bon Festival;Event;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);1;0
 Bonded by Battle;Strategy;;Road to Ruin (Fixed);Shattered Empire;3;0
 Bonded by Battle;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
+Bonds of Coin;Strategy;;Second City (Uncommon)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
+Bonds of Coin;Strategy;;Second City (Uncommon)/Emperor Edition Demo Decks (Fixed);Destroyer War (Celestial);3;0
+Bonds of Darkness;Event;;Promotional–CWF (Promo);Hidden Emperor (Jade);1;0
+Bonds of Darkness;Event;;Time of the Void (Rare);Clan Wars (Imperial);1;0
+Bonds of Fate;Strategy;;The Fall of Otosan Uchi (Common);Four Winds (Gold);3;0
+Bonds of Fate;Strategy;;The Fall of Otosan Uchi (Common);Rain of Blood (Diamond);3;0
+Bone of the Tattered Ear Tribe;Item;;Diamond Edition (Fixed);Rain of Blood (Diamond);1;0
+Bonedrinker;Personality;Unaligned;Promotional–Emperor (Promo);Legacy;3;0 # Unreleased promo
+Bones of the Fallen;Follower;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
+Bonsai Garden;Holding;;The Dark Journey Home (Common);Hidden Emperor (Jade);3;0
+Book of Air;Item;;Promotional–Diamond (Promo);Rain of Blood (Diamond);3;0
+Book of Earth;Item;;Promotional–Diamond (Promo);Rain of Blood (Diamond);3;0
 Border Keep;Holding;;Celestial Edition (Fixed)/Battle of Kyuden Tonbo (Fixed)/War of Honor (Fixed);Destroyer War (Celestial);2;0
 Border Keep;Holding;;Emperor Edition (Fixed);Age of Conquest (Emperor);2;0
 Borei;Follower;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -3627,6 +3640,7 @@ Imperial Treasurer's Outpost;Holding;;Shattered Empire (Fixed);Shattered Empire;
 Imperial Wedding;Event;;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
 Impressment;Event;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Impressment;Event;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
+Improper Papers;Strategy;;Torn Asunder (Rare);Age of Conquest (Emperor);3;0
 In The Pale Moonlight;Strategy;;Chaos Reigns I (Fixed);Shattered Empire;3;0
 Inazuma's Caress;Spell;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;3
 Inazuma's Caress;Spell;;Evil Portents (Common);War of the Seals (Onyx Edition);3;2
@@ -4075,6 +4089,14 @@ Knowing Lands and Giving Trees;Region;;The War of Spirits (Uncommon);Hidden Empe
 Koan's Robes;Item;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
 Koan's Robes;Item;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;0
 Koan;Personality;Unaligned;Dark Allies (Common);Four Winds (Gold);3;1
+Kobune Port;Holding;;Celestial Edition (Fixed);Destroyer War (Celestial);3;0
+Kobune Port;Holding;;Dark Allies (Common);Four Winds (Gold);3;0
+Kobune Port;Holding;;Diamond Edition (Fixed);Rain of Blood (Diamond);3;0
+Kobune Port;Holding;;Emperor Edition (Fixed)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
+Kobune Port;Holding;;Ivory Edition (Fixed)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Kobune Port;Holding;;Ivory Edition (Fixed)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Kobune Port;Holding;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);3;0
+Kobune Port;Holding;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
 Kohuri;Personality;Toturi's Army;The War of Spirits (Common);Four Winds (Gold);3;0
 Kohuri;Personality;Toturi's Army;The War of Spirits (Common);Hidden Emperor (Jade);3;3
 Kokujin Aoijiro;Personality;Spider;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -4703,6 +4725,8 @@ Nature's Embrace;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Nature's Embrace;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
 Nature's Embrace;Spell;;The Plague War (Common);Destroyer War (Celestial);3;0
 Nature's Wrath;Spell;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Near Miss;Strategy;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
+Near Miss;Strategy;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
 Necessary Sacrifice;Strategy;;Evil Portents (Rare);A Brother's Destiny (Twenty Festivals);3;1
 Necessary Sacrifice;Strategy;;Evil Portents (Rare);War of the Seals (Onyx Edition);3;0
 Necessary Tactics;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
@@ -7331,7 +7355,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1090
+# Done through card #1100
 #1106
 #1113
 #1117
@@ -7615,6 +7639,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4480-4482
 #4490
 #4494
+#4496
 #4500
 #4514
 #4518-4519
@@ -7716,7 +7741,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5495
 #5497
 #5500-5501
-#5522
+#5522-5523
 #5537-5538
 #5541
 #5543
@@ -8202,6 +8227,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #10231
 #10336-10337
 #10354
+#10379
 #10384
 #10420-10421
 #10424-10425
