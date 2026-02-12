@@ -1,97 +1,339 @@
+9mm Parabellum;Equipment;1;1C;Weapon;2;Day 0;Fixed;0
+Abu Fayed, Unwitting Pawn;Character;Insurgent;Terrorist;4;3;2;;1;Day 0;Fixed;0
+Accurized USP;Equipment;4;1C/1H;Unique/Weapon;1;Day 0;Fixed;0
 Adam Kaufman, Watchful Eye;Character;CTU;Analyst;2;2;1;;1;Day 0;Fixed;0
+Adept Work;Event;0;Ops;1;Day 0;Fixed;0
+Ahmed Amar, Young and Dedicated;Character;Insurgent;Terrorist;3;2;1;;1;Day 0;Fixed;0
+AK-47;Equipment;2;2C;Weapon;2;Day 0;Fixed;0
+Alexis Drazen, Hard at Work;Character;Insurgent;Infiltrator;4;5;2;Expert;1;Day 0;Fixed;0
+Arm the Nuke;Agenda;0;Deadline;3;Day 0;Fixed;0
+Backstabbing;Event;1;Ops;2;Day 0;Fixed;0
+Big Picture;Equipment;3;;Unique/Item;1;Day 0;Fixed;0
 Bill Buchanan, Director of Operations;Character;CTU;Analyst;5;4;2;Expert/Director;2;Day 0;Fixed;0
 Brian Jacobs, Palmer's Counsel;Character;CTU;Statesman;1;1;1;;1;Day 0;Fixed;0
+Cell Trace;Equipment;1;;Phone;3;Day 0;Fixed;0
+Chaos for Pay;Directive;Insurgent;Day 0;Fixed;0
+Charles Logan, President of the United States;Character;Insurgent;Conspirator;4;3;2;Adept/President;1;Day 0;Fixed;0
 Chase Edmunds, Jack's Partner;Character;CTU;Agent;4;3;2;;2;Day 0;Fixed;0
 Chloe O'Brian, The Best;Character;CTU;Analyst;4;3;2;Adept;2;Day 0;Fixed;0
 Chloe O'Brian, Trusted Friend;Character;CTU;Analyst;3;3;1;;2;Day 0;Fixed;0
-Curtis Manning, Unforgiving;Character;CTU;Agent;2;2;1;;1;Day 0;Fixed;0
-David Palmer, Man of Integrity;Character;CTU;Statesman;4;3;2;Expert/President;1;Day 0;Fixed;0
-D.J. Graves, Forensics Expert;Character;CTU;Agent;3;3;1;;2;Day 0;Fixed;0
-Hamri Al-Assad, So-Called Traitor;Character;CTU;Statesman;2;2;1;;1;Day 0;Fixed;0
-Jack Bauer, Back in Action;Character;CTU;Agent;5;4;2;Lethal;1;Day 0;Fixed;0
-Jack Bauer, Loyal to the President;Character;CTU;Agent;5;2;2;Lethal/Expert;2;Day 0;Fixed;0
-Jack Bauer, Protective Father;Character;CTU;Agent;3;1;3;;1;Day 0;Fixed;0
-James Prescott, War Hawk;Character;CTU;Statesman;3;2;2;Vice President;2;Day 0;Fixed;0
-Kim Bauer, Like Her Father;Character;CTU;Analyst;5;4;2;Adept;2;Day 0;Fixed;0
-Lynne Kresge, Crisis Management;Character;CTU;Statesman;3;3;1;;2;Day 0;Fixed;0
-Mike Novick, Chief of Staff;Character;CTU;Statesman;2;1;1;Focused;1;Day 0;Fixed;0
-Nicole Duncan, Head of Health Services;Character;CTU;Analyst;1;1;1;;1;Day 0;Fixed;0
-Mark DeSalvo, Warden;Character;CTU;Agent;1;1;1;DOD;1;Day 0;Fixed;0
-Quick Response Team, Elite Agents;Character;CTU;Agent;4;3;1;;1;Day 0;Fixed;0
-Ryan Chappelle, Division Representative;Character;CTU;Analyst;3;2;1;;1;Day 0;Fixed;0
-Ted Simmons, Loyal Interrogator;Character;CTU;Agent;2;2;1;Secret Service/Special Forces;1;Day 0;Fixed;0
-Abu Fayed, Unwitting Pawn;Character;Insurgent;Terrorist;4;3;2;;1;Day 0;Fixed;0
-Ahmed Amar, Young and Dedicated;Character;Insurgent;Terrorist;3;2;1;;1;Day 0;Fixed;0
-Alexis Drazen, Hard at Work;Character;Insurgent;Infiltrator;4;5;2;Expert;1;Day 0;Fixed;0
-Charles Logan, President of the United States;Character;Insurgent;Conspirator;4;3;2;Adept/President;1;Day 0;Fixed;0
 Christopher Henderson, Jack's Mentor;Character;Insurgent;Conspirator;4;3;2;Operative;2;Day 0;Fixed;0
+Clean Administration;Directive;CTU;Day 0;Fixed;0
 Conrad Haas, Hired Gun;Character;Insurgent;Conspirator;3;3;1;Operative;2;Day 0;Fixed;0
+Coup de Main;Agenda;0;Deadline;2;Day 0;Fixed;0
+Curtis Manning, Unforgiving;Character;CTU;Agent;2;2;1;;1;Day 0;Fixed;0
+D.J. Graves, Forensics Expert;Character;CTU;Agent;3;3;1;;2;Day 0;Fixed;0
 Dan Mounts, High-School Dropout;Character;Insurgent;Infiltrator;4;4;1;;2;Day 0;Fixed;0
-Graem Bauer, Behind It All;Character;Insurgent;Conspirator;5;5;2;Focused;1;Day 0;Fixed;0
-Greg Penticoff, Double Murderer;Character;Insurgent;Infiltrator;3;3;1;;1;Day 0;Fixed;0
-Hasan Numair, Bomb Specialist;Character;Insurgent;Terrorist;3;3;1;;2;Day 0;Fixed;0
-Ira Gaines, Mercenary;Character;Insurgent;Infiltrator;3;3;1;;2;Day 0;Fixed;0
-Jamey Farrell, Easy Prey;Character;Insurgent;Infiltrator;1;1;1;;1;Day 0;Fixed;0
-Kevin Carroll, Alan York;Character;Insurgent;Infiltrator;3;2;1;;2;Day 0;Fixed;0
-Martha Logan, First Lady;Character;Insurgent;Infiltrator;2;2;1;;2;Day 0;Fixed;0
-Masheer Abu-Marzuq, Handler;Character;Insurgent;Terrorist;2;2;1;;2;Day 0;Fixed;0
-Mike Novick, Pragmatist;Character;Insurgent;Conspirator;3;3;1;;2;Day 0;Fixed;0
-Nasir Trabelsi, Aggressive Terrorist;Character;Insurgent;Terrorist;4;4;2;;1;Day 0;Fixed;0
-Nina Myers, Ruthless;Character;Insurgent;Infiltrator;4;3;2;Lethal;1;Day 0;Fixed;0
-Phillip Bauer, Founder of BXJ;Character;Insurgent;Conspirator;5;4;2;Expert;1;Day 0;Fixed;0
-Ray Wallace, Under Duress;Character;Insurgent;Terrorist;2;2;1;;2;Day 0;Fixed;0
-Rick Allen, In Over His Head;Character;Insurgent;Infiltrator;2;1;1;;1;Day 0;Fixed;0
-Robert Joseph, Consultant for BXJ;Character;Insurgent;Conspirator;3;3;1;;2;Day 0;Fixed;0
-Sabir Hussain, Lieutenant;Character;Insurgent;Terrorist;4;4;1;;2;Day 0;Fixed;0
-Walt Cummings, Chief of Staff;Character;Insurgent;Conspirator;1;1;1;Focused;2;Day 0;Fixed;0
-9mm Parabellum;Equipment;1;1C;Weapon;2;Day 0;Fixed;0
-Accurized USP;Equipment;4;1C/1H;Unique/Weapon;1;Day 0;Fixed;0
-AK-47;Equipment;2;2C;Weapon;2;Day 0;Fixed;0
-Big Picture;Equipment;3;;Unique/Item;1;Day 0;Fixed;0
-Cell Trace;Equipment;1;;Phone;3;Day 0;Fixed;0
+Data Uplink;Event;0;Ops;1;Day 0;Fixed;0
+David Palmer, Man of Integrity;Character;CTU;Statesman;4;3;2;Expert/President;1;Day 0;Fixed;0
+Decryption;Event;0;Ops;1;Day 0;Fixed;0
+Dedicated to the Cause;Event;0;Tactics;1;Day 0;Fixed;0
+Disarm the Bomb;Agenda;0;Deadline;2;Day 0;Fixed;0
+Epinephrine Shot;Event;1;Tactics;1;Day 0;Fixed;0
 Executive Order;Equipment;3;;Unique/Item;1;Day 0;Fixed;0
 Explosive Vest;Equipment;2;;Item;2;Day 0;Fixed;0
-Jack's PDA;Equipment;3;1C;Unique/Phone;2;Day 0;Fixed;0
-Kevlar Vest;Equipment;1;;Item;2;Day 0;Fixed;0
-Laptop;Equipment;1;1I;Item;2;Day 0;Fixed;0
-Presidential Limo;Equipment;3;;Unique/Vehicle;1;Day 0;Fixed;0
-Restricted Access;Equipment;1;1P;Item;2;Day 0;Fixed;0
-Scrambled Line;Equipment;1;;Phone;1;Day 0;Fixed;0
-Suppressed Pistol;Equipment;2;1I;Weapon;2;Day 0;Fixed;0
-Arm the Nuke;Agenda;0;Deadline;3;Day 0;Fixed;0
-Coup de Main;Agenda;0;Deadline;2;Day 0;Fixed;0
-Disarm the Bomb;Agenda;0;Deadline;2;Day 0;Fixed;0
+Fearless;Event;1;Fearless;1;Day 0;Fixed;0
+Find the Nuke;Directive;CTU;Day 0;Fixed;0
+For the Good of the Country;Event;0;Intrigue;1;Day 0;Fixed;0
+Getting Personal;Event;0;Ops;1;Day 0;Fixed;0
+Going Rogue;Directive;CTU;Day 0;Fixed;0
+Graem Bauer, Behind It All;Character;Insurgent;Conspirator;5;5;2;Focused;1;Day 0;Fixed;0
+Greg Penticoff, Double Murderer;Character;Insurgent;Infiltrator;3;3;1;;1;Day 0;Fixed;0
+Hamri Al-Assad, So-Called Traitor;Character;CTU;Statesman;2;2;1;;1;Day 0;Fixed;0
+Hasan Numair, Bomb Specialist;Character;Insurgent;Terrorist;3;3;1;;2;Day 0;Fixed;0
 Important Assignment;Agenda;0;Deadline;3;Day 0;Fixed;0
 Infiltrate CTU;Agenda;0;Deadline;3;Day 0;Fixed;0
 Inside Man;Agenda;0;Deadline;2;Day 0;Fixed;0
+Interrogation;Event;1;Tactics;3;Day 0;Fixed;0
+Ira Gaines, Mercenary;Character;Insurgent;Infiltrator;3;3;1;;2;Day 0;Fixed;0
+It Was a Suicide;Event;0;Tactics;2;Day 0;Fixed;0
+Jack Bauer, Back in Action;Character;CTU;Agent;5;4;2;Lethal;1;Day 0;Fixed;0
+Jack Bauer, Loyal to the President;Character;CTU;Agent;5;2;2;Lethal/Expert;2;Day 0;Fixed;0
+Jack Bauer, Protective Father;Character;CTU;Agent;3;1;3;;1;Day 0;Fixed;0
+Jack's PDA;Equipment;3;1C;Unique/Phone;2;Day 0;Fixed;0
+James Prescott, War Hawk;Character;CTU;Statesman;3;2;2;Vice President;2;Day 0;Fixed;0
+Jamey Farrell, Easy Prey;Character;Insurgent;Infiltrator;1;1;1;;1;Day 0;Fixed;0
+Kevin Carroll, Alan York;Character;Insurgent;Infiltrator;3;2;1;;2;Day 0;Fixed;0
+Kevlar Vest;Equipment;1;;Item;2;Day 0;Fixed;0
+Kim Bauer, Like Her Father;Character;CTU;Analyst;5;4;2;Adept;2;Day 0;Fixed;0
+Laptop;Equipment;1;1I;Item;2;Day 0;Fixed;0
+Layers of Deceit;Event;2;Intrigue;1;Day 0;Fixed;0
+Lynne Kresge, Crisis Management;Character;CTU;Statesman;3;3;1;;2;Day 0;Fixed;0
+Mark DeSalvo, Warden;Character;CTU;Agent;1;1;1;DOD;1;Day 0;Fixed;0
+Martha Logan, First Lady;Character;Insurgent;Infiltrator;2;2;1;;2;Day 0;Fixed;0
+Masheer Abu-Marzuq, Handler;Character;Insurgent;Terrorist;2;2;1;;2;Day 0;Fixed;0
+Mike Novick, Chief of Staff;Character;CTU;Statesman;2;1;1;Focused;1;Day 0;Fixed;0
+Mike Novick, Pragmatist;Character;Insurgent;Conspirator;3;3;1;;2;Day 0;Fixed;0
 Misinformation;Agenda;0;Deadline;2;Day 0;Fixed;0
+Nasir Trabelsi, Aggressive Terrorist;Character;Insurgent;Terrorist;4;4;2;;1;Day 0;Fixed;0
+Nicole Duncan, Head of Health Services;Character;CTU;Analyst;1;1;1;;1;Day 0;Fixed;0
+Nina Myers, Ruthless;Character;Insurgent;Infiltrator;4;3;2;Lethal;1;Day 0;Fixed;0
+Off the Books;Event;1;Ops;1;Day 0;Fixed;0
 Open Up a Socket;Agenda;0;Deadline;2;Day 0;Fixed;0
+Phillip Bauer, Founder of BXJ;Character;Insurgent;Conspirator;5;4;2;Expert;1;Day 0;Fixed;0
 Political Assassination;Agenda;0;Deadline;3;Day 0;Fixed;0
+Presidential Limo;Equipment;3;;Unique/Vehicle;1;Day 0;Fixed;0
 Questioning;Agenda;0;Deadline;2;Day 0;Fixed;0
+Quick Response Team, Elite Agents;Character;CTU;Agent;4;3;1;;1;Day 0;Fixed;0
+Ray Wallace, Under Duress;Character;Insurgent;Terrorist;2;2;1;;2;Day 0;Fixed;0
+Restricted Access;Equipment;1;1P;Item;2;Day 0;Fixed;0
+Rick Allen, In Over His Head;Character;Insurgent;Infiltrator;2;1;1;;1;Day 0;Fixed;0
+Robert Joseph, Consultant for BXJ;Character;Insurgent;Conspirator;3;3;1;;2;Day 0;Fixed;0
+Ryan Chappelle, Division Representative;Character;CTU;Analyst;3;2;1;;1;Day 0;Fixed;0
+Sabir Hussain, Lieutenant;Character;Insurgent;Terrorist;4;4;1;;2;Day 0;Fixed;0
+Scrambled Line;Equipment;1;;Phone;1;Day 0;Fixed;0
+Sentox Conspiracy;Directive;Insurgent;Day 0;Fixed;0
+Shot in the Back;Event;2;Tactics;1;Day 0;Fixed;0
+Suicide Bombing;Event;0;Tactics;2;Day 0;Fixed;0
+Suppressed Pistol;Equipment;2;1I;Weapon;2;Day 0;Fixed;0
+Ted Simmons, Loyal Interrogator;Character;CTU;Agent;2;2;1;Secret Service/Special Forces;1;Day 0;Fixed;0
+Unofficial Business;Event;1;Intrigue;2;Day 0;Fixed;0
+Veto;Event;0;Tactics;2;Day 0;Fixed;0
+Walt Cummings, Chief of Staff;Character;Insurgent;Conspirator;1;1;1;Focused;2;Day 0;Fixed;0
+Wave of Terror;Directive;Insurgent;Day 0;Fixed;0
+Weight of Duty;Event;0;Intrigue;1;Day 0;Fixed;0
+Well Trained;Event;0;Tactics;1;Day 0;Fixed;0
 WMD;Agenda;0;Deadline;2;Day 0;Fixed;0
-
-Adept Work	Event		Fixed
-Backstabbing	Event		Fixed
-Data Uplink	Event		Fixed
-Decryption	Event		Fixed
-Dedicated to the Cause	Event		Fixed
-Epinephrine Shot	Event		Fixed
-Fearless	Event		Fixed
-For the Good of the Country	Event		Fixed
-Getting Personal	Event		Fixed
-Interrogation	Event		Fixed
-It Was a Suicide	Event		Fixed
-Layers of Deceit	Event		Fixed
-Off the Books	Event		Fixed
-Shot in the Back	Event		Fixed
-Suicide Bombing	Event		Fixed
-Unofficial Business	Event		Fixed
-Veto	Event		Fixed
-Weight of Duty	Event		Fixed
-Well Trained	Event		Fixed
-Clean Administration	Directive	CTU	Fixed
-Find the Nuke	Directive	CTU	Fixed
-Going Rogue	Directive	CTU	Fixed
-Chaos for Pay	Directive	Insurgent	Fixed
-Sentox Conspiracy	Directive	Insurgent	Fixed
-Wave of Terror	Directive	Insurgent	Fixed
+Adam Kaufman, Clockwork Efficiency;Character;CTU;Analyst;3;3;1;;2;1st Edition;Rare;0
+Adam Kaufman, Tightly Wound;Character;CTU;Analyst;4;3;2;;2;1st Edition;Common;0
+Bill Buchanan, Observing Protocol;Character;CTU;Analyst;3;3;1;Director;2;1st Edition;Uncommon;0
+Bill Buchanan, Voice of Authority;Character;CTU;Analyst;1;1;1;Director;2;1st Edition;Rare;0
+5	[Skan]	Bruce Foxton, Professional
+6	[Skan]	Charles Logan, Needs Help
+7	[Skan]	Chase Edmunds, Going Dark
+8	[Skan]	Chase Edmunds, Impatient
+9	[Skan]	Chloe O'Brian, Satellite Surveillance
+10	[Skan]	CTU Chopper Team, Rapid Deployment
+11	[Skan]	Curtis Manning, Squad Leader
+12	[Skan]	Dale Spalding, Hard Nosed
+13	[Skan]	David Palmer, Adaptive
+14	[Skan]	David Palmer, Man of the People
+15	[Skan]	Ed Miller, Field Agent
+16	[Skan]	Elizabeth Nash, A Woman Scorned
+17	[Skan]	Harry Swinton, Security Guard
+18	[Skan]	Jack Bauer, Backin Play
+19	[Skan]	Jack Bauer, Taking Charge
+20	[Skan]	James Prescott, Acting President
+21	[Skan]	Jamey Farrell, Data Technician
+22	[Skan]	Jeff Breeher, Field Agent
+23	[Skan]	Jim Hill, Driven to Succeed
+24	[Skan]	John Keeler, Presidential Candidate
+25	[Skan]	Johnson, Interrogator
+26	[Skan]	Kevin Graves, Attorney General
+27	[Skan]	Kim Bauer, Jane Saunders
+28	[Skan]	Lee Castle, Weapons Expert
+29	[Skan]	Lynn McGill, Inferiority Complex
+30	[Skan]	Lynne Kresge, Trusted Advisor
+31	[Skan]	Marianne Taylor, Corporate Climber
+32	[Skan]	Melissa Raab, Translator
+33	[Skan]	Michelle Dessler, Deep Loyalty
+34	[Skan]	Mike Novick, Sounding Board
+35	[Skan]	Milo Pressman, Loyal to the End
+36	[Skan]	Milo Pressman, No Time to Think
+37	[Skan]	Nicole Duncan, Head of Health Services
+38	[Skan]	Nina Myers, CTU Chief of Staff
+39	[Skan]	Rachel Forrester, Covert Ops
+40	[Skan]	Randy Murdoch, Image Analyst
+41	[Skan]	Reed Pollock, Lennox's Hatchet Man
+42	[Skan]	Richard Walsh, Trusted Ally
+43	[Skan]	Roger Stanton, NSA Chief
+44	[Skan]	Ryan Chappelle, Division Representative
+45	[Skan]	Shari Rothenberg, Giant Headache
+46	[Skan]	Sherry Palmer, Stained Reputation
+47	[Skan]	Teddy Hanlin, Disgruntled Sniper
+48	[Skan]	Tom Lennox, Preparing the Field
+49	[Skan]	Tony Almeida, Vengeful
+50	[Skan]	Walt Cummings, Staff Member
+51	[Skan]	Wayne Palmer, Inexperienced
+52	[Skan]	Wendy Brown, Chief Aide
+53	[Skan]	Yuri Suvarov, Foreign Dignitary
+54	[Skan]	Abu Fayed, Terror Mastermind
+55	[Skan]	Ahmed Amar, Unpredictable
+56	[Skan]	Alan Morgan, Pacific Electric
+57	[Skan]	Alex Hewitt, Audio Engineer
+58	[Skan]	Anton Beresch, Television Presence
+59	[Skan]	Assassin, Shadowy Killer
+60	[Skan]	Behrooz Araz, Just a Kid
+61	[Skan]	Charles McLemore, Posingas CTU
+62	[Skan]	Christopher Henderson, Experienced Agent
+63	[Skan]	Claudia Hernandez, Morally Compromised
+64	[Skan]	Darren McCarthy, Researching Other Options
+65	[Skan]	David Gomez, Out in Public
+66	[Skan]	David Weiss, Amnesty Global
+67	[Skan]	Decoy, Self Immolation
+68	[Skan]	Dina Araz, Divided Loyalty
+69	[Skan]	Eric Rayburn, Deputy Head of NSA
+70	[Skan]	Gael Ortega, Inside Tech One
+71	[Skan]	Graem Bauer, BXJ CEO
+72	[Skan]	Habib Marwan, Evasive
+73	[Skan]	Hasan Numair, Mad Bomber
+74	[Skan]	Ira Gaines, Multiple Plans
+75	[Skan]	James Prescott, Aiming for the Presidency
+76	[Skan]	Jonathan Matijevich, Surgically Altered
+77	[Skan]	Jonathan Wallace, Cobra Team Leader
+78	[Skan]	Joseph Wald, Cowardly Anarchist
+79	[Skan]	Jovan Myovic, Cold-Blooded Killer
+80	[Skan]	Kevin Carroll, "Helpful
+81	[Skan]	Kyle Singer, Mule
+82	[Skan]	Lisa Miller, Careless
+83	[Skan]	Mandy, Malicious Intent
+84	[Skan]	Marcus Alvers, Virus Courier
+85	[Skan]	Marianne Taylor, Powell's Eyes
+86	[Skan]	Marie Warner, Brainwashing Victim
+87	[Skan]	Masheer Abu-Marzuq, Last Act
+88	[Skan]	Michael Amador, Weapons Merchant
+89	[Skan]	Miles Papazian, Political Climber
+90	[Skan]	Nasir Trabelsi, Martyr to the Cause
+91	[Skan]	Navi Araz, Unwavering Dedication
+92	[Skan]	Neill Choi, Perimeter Guard
+93	[Skan]	Nina Myers, Elite Mercenary
+94	[Skan]	Peter Kingsley, Sedate Demeanor
+95	[Skan]	Phillip Bauer, Playing Both Sides
+96	[Skan]	Ray Wallace, Errand Runner
+97	[Skan]	Raymond O'Hara, Rapidly Promoted
+98	[Skan]	Reed Pollock, Deputy Chief of Staff
+99	[Skan]	Reed Pollock, Placing the Bomb
+100	[Skan]	Richard Heller, Being Manipulated
+101	[Skan]	Rita Brady, Unknown to CTU
+102	[Skan]	Ronnie Stark, Torturer
+103	[Skan]	Sherry Palmer, Deflecting Inquiries
+104	[Skan]	Spenser Wolff, Indiscreet
+105	[Skan]	Ted Cofell, Financier
+106	[Skan]	Tom Lennox, Trampling the Constitution
+107	[Skan]	Vladimir Bierko, Financier
+108	[Skan]	Walt Cummings, Deluded Patriot
+109	[Skan]	Zhou Yong, Chinese Mercenary
+110	[Skan]	Armored Van
+111	[Skan]	Blowtorch
+112	[Skan]	Confidential File
+113	[Skan]	Damaged Chip
+114	[Skan]	Dedicated Line
+115	[Skan]	Flamethrower
+116	[Skan]	Flare Gun
+117	[Skan]	Incriminating Evidence
+118	[Skan]	Motorcade
+119	[Skan]	Off-Road Vehicle
+120	[Skan]	Palm Overlay
+121	[Skan]	Phone Tap
+122	[Skan]	Police Cruiser
+123	[Skan]	RPG
+124	[Skan]	Secure Line
+125	[Skan]	Sniper Rifle
+126	[Skan]	Stolen Gun
+127	[Skan]	Trace Feed
+128	[Skan]	Vital Data
+129	[Skan]	Armory Requisition
+130	[Skan]	Bomb CTU
+131	[Skan]	Comm Ready
+132	[Skan]	Cordilla Infection
+133	[Skan]	Dead Drop
+134	[Skan]	EMP Blast
+135	[Skan]	Exhausted
+136	[Skan]	Field Medicine
+137	[Skan]	Frame Job
+138	[Skan]	Going Public
+139	[Skan]	High Profile
+140	[Skan]	Internal Bleeding
+141	[Skan]	Overconfidence
+142	[Skan]	Pacifist Stance
+143	[Skan]	Positive ID
+144	[Skan]	Seize Ontario Airport
+145	[Skan]	Self-Sacrifice
+146	[Skan]	Stealing the Playbook
+147	[Skan]	Strike a Blow
+148	[Skan]	Taken Into Custody
+149	[Skan]	Torture
+150	[Skan]	Trauma Care
+151	[Skan]	Turncoat
+152	[Skan]	Acceptable Losses
+153	[Skan]	Administrative Warrant
+154	[Skan]	Advanced Degree
+155	[Skan]	Airlift
+156	[Skan]	Airtight Alibi
+157	[Skan]	Allies
+158	[Skan]	Assigned to Research
+159	[Skan]	Behind in the Polls
+160	[Skan]	Bulletproof
+161	[Skan]	Call for Help
+162	[Skan]	Complete Schematics
+163	[Skan]	Conspiring
+164	[Skan]	Coverup
+165	[Skan]	Covering Fire
+166	[Skan]	Cycling
+167	[Skan]	Dammit
+168	[Skan]	Debate
+169	[Skan]	Disarmed
+170	[Skan]	Dumpster Diving
+171	[Skan]	Dying, Not Crazy
+172	[Skan]	Emergency Response
+173	[Skan]	Enraged
+174	[Skan]	Entangled in Red Tape
+175	[Skan]	Erase the Evidence
+176	[Skan]	Fainting Spell
+177	[Skan]	Field Support
+178	[Skan]	Filibuster
+179	[Skan]	Firewall Bypass
+180	[Skan]	Flexing Authority
+181	[Skan]	Frontal Assault
+182	[Skan]	Getting an Answer
+183	[Skan]	Going Into Shock
+184	[Skan]	Going Out With A Bang
+185	[Skan]	Hacking
+186	[Skan]	Hand to Hand
+187	[Skan]	Hostage Exchange
+188	[Skan]	Human Shield
+189	[Skan]	I'm Heading There Now
+190	[Skan]	In the Line of Duty
+191	[Skan]	Insertion
+192	[Skan]	Just Another Face
+193	[Skan]	Last Hope
+194	[Skan]	Locked Out
+195	[Skan]	New Information
+196	[Skan]	New Opportunity
+197	[Skan]	New World Order
+198	[Skan]	Oops
+199	[Skan]	Open Portal
+200	[Skan]	Past Indiscretions
+201	[Skan]	Paula's Courage
+202	[Skan]	Plausible Deniability
+203	[Skan]	Pressure
+204	[Skan]	Protection
+205	[Skan]	Quarantine
+206	[Skan]	Quiet Kill
+207	[Skan]	Reload
+208	[Skan]	Resisting Interrogation
+209	[Skan]	Retaliation
+210	[Skan]	Satellite Image
+211	[Skan]	Self-inflicted Injury
+212	[Skan]	Sensing Danger
+213	[Skan]	Setup A Perimeter
+214	[Skan]	Short-handed
+215	[Skan]	Shot in the Front
+216	[Skan]	Shredding Program
+217	[Skan]	Steal a Block of Time
+218	[Skan]	Suicide Mission
+219	[Skan]	Switch
+220	[Skan]	Temporary Containment
+221	[Skan]	Tooth and Claw
+222	[Skan]	Tough it Out
+223	[Skan]	Triangulation
+224	[Skan]	Walk and Chew Gum
+225	[Skan]	We are Running Out of Time
+226	[Skan]	Withdraw from Debate
+227	[Skan]	Campaign Season
+228	[Skan]	Chaos for Pay
+229	[Skan]	Clean Administration
+230	[Skan]	Complete Database Access
+231	[Skan]	CTU Network Access
+232	[Skan]	Data Mining
+233	[Skan]	Domestic Agendas
+234	[Skan]	Executive Privilege
+235	[Skan]	Find the Nuke
+236	[Skan]	Going Rogue
+237	[Skan]	Highly Placed Mole
+238	[Skan]	Hijack the Presidency
+239	[Skan]	Sentox Conspiracy
+240	[Skan]	Separatist Army
+241	[Skan]	Wave of Terror
+242	[Skan]	Weapon Master
+243	[Skan]	Wheels Within Wheels
