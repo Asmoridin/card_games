@@ -541,7 +541,9 @@ Team Rocket's Tarountula;Pokemon;Grass;50;;Take Down;DRI 19 (Common)/ASC 18 (Com
 Team Rocket's Spidops;Pokemon;Grass;130;Charging Up;Rocket Rush;DRI 20 (Rare)/DRI 187 (Illustration Rare)/ASC 19 (Rare);I;4;1 # 1 reverse foil
 Growlithe;Pokemon;Fire;80;;Live Coal|Dig Claws;DRI 27 (Common);I;4;1
 Ethan's Cyndaquil;Pokemon;Fire;70;;Ember;DRI 32 (Common);I;4;2 # 1 reverse foil
-Ethan's Slugma;Pokemon;Fire;80;;Steady Firebreathing;DRI 35 (Common);I;4;1
+Ethan's Slugma;Pokemon;Fire;80;;Steady Firebreathing;DRI 35 (Common)/ASC 23 (Common);I;4;1
+Ethan's Magcargo;Pokemon;Fire;130;Melt Away;Lava Burst;DRI 36 (Rare)/ASC 24 (Rare)/ASC 222 (Illustration Rare);I;4;0
+Ethan's Ho-Oh ex;Pokemon;Fire;230;Golden Flame;Shining Feathers;DRI 39 (Double Rare)/DRI 209 (Ultra Rare)/DRI 230 (Special Illustration Rare)/DRI 239 (Hyper Rare)/ASC 26 (Double Rare);I;4;0
 Combusken;Pokemon;Fire;100;;Combustion|Double Kick;DRI 41 (Common);I;4;1
 Hearthflame Mask Ogerpon;Pokemon;Fire;110;;Fire Kagura|Searing Flame;DRI 44 (Uncommon);I;4;2
 Misty's Psyduck;Pokemon;Water;70;Flustered Leap;Sprinkle Water;DRI 45 (Uncommon)/DRI 193 (Illustration Rare);I;4;3
@@ -686,13 +688,21 @@ Beautifly;Pokemon;Grass;130;;Stun Spore|Energy Straw;ASC 13 (Uncommon)/ASC 219 (
 Cascoon;Pokemon;Grass;90;;Trading Places;ASC 14 (Common);I;4;0
 Dustox;Pokemon;Grass;140;Boisterous Wind;Twilight Poison;ASC 15 (Uncommon)/ASC 220 (Illustration Rare);I;4;0
 Charmander;Pokemon;Fire;80;;Fire Claws;ASC 20 (Common);J;4;0
+Charmeleon;Pokemon;Fire;100;;Heat Blast;ASC 21 (Uncommon);J;4;0
+Mega Charizard Y ex;Pokemon;Fire;360;;Explosion Y;ASC 22 (Double Rare)/ASC 294 (Mega Hyper Rare)/MEP 30 (Promo);J;4;0
+Entei;Pokemon;Fire;140;;Flare Fall;ASC 25 (Rare);I;4;0
+Numel;Pokemon;Fire;80;Incandescent Body;Combustion;ASC 27 (Common)/ASC 223 (Illustration Rare);I;4;0
+Camerupt;Pokemon;Fire;140;;Roasting Burn|Power Stomp;ASC 28 (Uncommon);I;4;0
+Tepig;Pokemon;Fire;80;;Steady Firebreathing;ASC 29 (Common);J;4;0
+Pignite;Pokemon;Fire;110;;Super Singe;ASC 30 (Uncommon);J;4;0
 
 # ASC 123 done
 # ASC 155 done
 # ASC 158-160 done
 # ASC 183 done
-# ASC 218-221 done
+# ASC 218-223 done
 # ASC 226 done
 # ASC 247-248 done
 # ASC 272 done
 # ASC 284 done
+# ASC 294 done
