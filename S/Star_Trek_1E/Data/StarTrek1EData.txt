@@ -344,6 +344,8 @@ Central Command;Facility;Cardassian;Deep Space 9/Homefront/Reflections;800,3504,
 Cetacean Institute;Time Location;;The Motion Pictures;801,7223;;2;0
 Ceti Eel;Incident;;The Motion Pictures;802,7224;;4;0
 Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
+Ch'Pok;Personnel;Klingon;The Dominion;825;;2;0
+Ch'Regha;Personnel;Klingon;The Borg;826;;2;0
 Cha'Joh;Ship;Klingon;Identity Crisis;3068;805;2;0
 Cha'Joh;Ship;Romulan;Deep Space 9/Reflections;805,3625;3068;2;0
 Chain Reaction Pulsar;Tactic;;The Trouble with Tribbles/BaH!;803,3709;;10;0
@@ -363,10 +365,16 @@ Chart Stellar Cluster;Mission;Space;Blaze of Glory;817;;2;0
 Chell;Personnel;Federation;Voyager;818;819;2;0
 Chell;Personnel;Non-Aligned;Voyager;819;818;2;0
 Chief Engineer Scott;Personnel;Federation;Mirror, Mirror;820,4839;;2;0
+Chief Navigator Chekov;Personnel;Federation;Mirror, Mirror;821,4840;;2;0
 Chief O'Brien;Personnel;Romulan;Blaze of Glory;91;;4;0
+Chief Surgeon McCoy;Personnel;Federation;Mirror, Mirror;822,4841;;2;0
+Children of Light;Incident;;Holodeck Adventures;823;;4;0
 Chinese Finger Puzzle;Dilemma;Dual;Q Continuum;824;;4;4
 Christopher Hobson;Personnel;Federation;Premiere;92,5980,6343,6706,7628;;4;0
+Christopher Pike;Personnel;Federation;All Good Things/Virtual Promos;827,3931,8410,8451;;2;0
 Chula: Crossroads;Dilemma;Dual;Rules of Acquisition;828;;4;1
+Chula: Echoes;Dilemma;Dual;Holodeck Adventures;829;;4;0
+Chula: Pick One to Save Two;Dilemma;Dual;The Dominion/Trouble with Tribbles Starter Decks;830,7125;;4;0
 Chula: The Chandra;Dilemma;Dual;The Dominion/Homefront;832,3487;;5;4 # Have 4 HF
 Chula: The Door;Dilemma;Dual;Rules of Acquisition;834,7504;;4;2
 Chula: The Drink;Dilemma;Dual;The Trouble with Tribbles/Virtual Promos;835,4658;;4;1 # Hae 1 TwT
@@ -1000,9 +1008,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 820
-#824
-#828
+# Done through card 830
 #832
 #834-838
 #850
@@ -1206,6 +1212,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3890
 #3900
 #3927
+#3931
 #3934
 #3937
 #4039-4041
@@ -1285,7 +1292,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4826
 #4828
 #4831-4834
-#4837-4839
+#4837-4841
 #4843-4845
 #4848
 #4850
@@ -1554,8 +1561,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7051
 #7054-7058
 #7063
-#7098-7124
-#7126
+#7098-7126
 #7128-7129
 #7131-7134
 #7145-7149
@@ -1705,5 +1711,5 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8334-8335
 #8337
 #8363
-#8407-8409
-#8448-8450
+#8407-8410
+#8448-8451
