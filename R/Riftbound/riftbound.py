@@ -93,7 +93,7 @@ for line in lines:
         legends.add(card_name)
     elif card_type == 'Battlefield':
         CARD_MAX = 2
-    elif card_type == 'Relic':
+    elif card_type == 'Rune':
         CARD_MAX = 12
 
     if card_name in card_names:
