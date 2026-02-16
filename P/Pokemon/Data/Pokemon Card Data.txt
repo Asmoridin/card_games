@@ -387,6 +387,7 @@ Gardevoir ex;Pokemon;Psychic;310;Psychic Embrace;Miracle Force;SVI 86 (Double Ra
 Drifloon;Pokemon;Psychic;70;;Gust|Balloon Blast;SVI 89 (Common)/PAF 155 (Shiny Rare);G;4;0
 Drifblim;Pokemon;Psychic;110;;Gust|Curse Spreading;SVI 90 (Uncommon)/PAF 156 (Shiny Rare);G;4;1
 Klefki;Pokemon;Psychic;70;Mischievous Lock;Joust;SVI 96 (Rare)/PAF 159 (Shiny Rare);G;4;0
+Hawlucha;Pokemon;Fighting;70;Flying Entry;Wing Attack;SVI 118 (Rare)/SVP 7 (Promo);PAF 175 (Shiny Rare);G;4;0
 Cyclizar;Pokemon;Colorless;110;;Touring|Speed Attack;SVI 164 (Rare)/M23 14 (Promo);G;4;2
 Electric Generator;Trainer;Item;;;;SVI 170 (Uncommon)/PAF 79 (Uncommon);G;4;0
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
@@ -428,6 +429,7 @@ Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
 
 # Paradox Rift (PAR)
+Toedscruel;Pokemon;Grass;120;Slime Mold Colony;Mushroom Drain;PAR 17 (Uncommon)/PAR 185 (Illustration Rare);G;4;0
 Charcadet;Pokemon;Fire;80;;Fiery Fighting Spirit|Knuckle Punch;PAR 26 (Common);G;4;0
 Chi-Yu;Pokemon;Fire;110;;Flare Bringer|Megafire of Envy;PAR 29 (Rare)/SVP 57 (Promo);G;4;0
 Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)/SVP 58 (Promo)/SVP 66 (Promo);G;4;0
@@ -493,10 +495,13 @@ Legacy Energy;Energy;Special Energy;;;;TWM 167 (ACE SPEC Rare);H;2;0
 
 # Shrouded Fable (SFA)
 Galvantula;Pokemon;Grass;100;Compound Eyes;Shocking Web;SFA 2 (Uncommon);H;4;0
+Sneasel;Pokemon;Water;70;;Cut|Beset;SFA 13 (Common)/ASC 44 (Common);H;4;0
+Weavile;Pokemon;Water;100;;Slash|Hail Claw;SFA 14 (Uncommon)/ASC 45 (Uncommon)/ASC 228 (Illustration Rare);H;4;0
 Duskull;Pokemon;Psychic;60;;Come and Get You|Mumble;SFA 18 (Common)/SFA 68 (Illustration Rare)/PRE 35 (Common);H;4;0
 Dusclops;Pokemon;Psychic;90;Cursed Blast;Will-O-Wisp;SFA 19 (Common)/SFA 69 (Illustration Rare)/PRE 36 (Common);H;4;0
 Dusknoir;Pokemon;Psychic;160;Curse Blast;Shadow Bind;SFA 20 (Rare)/SFA 70 (Illustration Rare)/PRE 37 (Rare);H;4;0
 Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare);H;4;0
+Pecharunt ex;Pokemon;Darkness;190;Subjugating Chains;Irritated Outburst;SFA 39 (Double Rare)/SFA 85 (Ultra Rare)/SFA 93 (Special Illustration Rare)/SFA 95 (Hyper Rare)/PRE 163 (Special Illustration Rare);H;4;0
 Colress's Tenacity;Trainer;Supporter;;;;SFA 57 (Uncommon)/SFA 87 (Ultra Rare);H;4;0
 Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (Ultra Rare);H;8;2
 Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
@@ -673,14 +678,18 @@ Klang;Pokemon;Metal;90;;Hard Gears;BLK 62 (Common)/BLK 140 (Illustration Rare);I
 Klinklang;Pokemon;Metal;150;Gear Coating;Hammer In;BLK 63 (Rare)/BLK 141 (Illustration Rare);I;4;0
 Pawniard;Pokemon;Metal;60;;Corner;BLK 64 (Common)/BLK 142 (Illustration Rare);I;4;0
 Bisharp;Pokemon;Metal;120;;Cut Up|Finishing Blow;BLK 65 (Uncommon)/BLK 143 (Illustration Rare);I;4;0
-
+Cobalion;Pokemon;Metal;120;;Righteous Edge|Metal Arms;BLK 66 (Rare)/BLK 144 (Illustration Rare);I;4;0
 Genesect ex;Pokemon;Metal;220;Metallic Signal;Protect Charge;BLK 67 (Double Rare)/BLK 161 (Ultra Rare)/BLK 169 (Special Illustration Rare);I;4;0
+Axew;Pokemon;Dragon;70;;Gather Strength;BLK 68 (Common)/BLK 145 (Illustration Rare);I;4;0
+Fraxure;Pokemon;Dragon;100;;Bite|Boundless Power;BLK 69 (Common)/BLK 146 (Illustration Rare);I;4;0
+Haxorus;Pokemon;Dragon;170;;Cross-Cut|Axe Blast;BLK 70 (Common)/BLK 147 (Illustration Rare);I;4;0
+
 Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
 
 # BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
-# BLK 87-143 done
+# BLK 87-147 done
 # BLK 156-161 done
 # BLK 164-169 done
 # BLK 171-172 done
@@ -711,14 +720,22 @@ Camerupt;Pokemon;Fire;140;;Roasting Burn|Power Stomp;ASC 28 (Uncommon);I;4;0
 Tepig;Pokemon;Fire;80;;Steady Firebreathing;ASC 29 (Common);J;4;0
 Pignite;Pokemon;Fire;110;;Super Singe;ASC 30 (Uncommon);J;4;0
 Mega Emboar ex;Pokemon;Fire;380;;Crimson Blast;ASC 31 (Double Rare)/ASC 273 (Special Illustration Rare)/MEP 35 (Promo);J;4;0
-# ASC 40 done
+Totodile;Pokemon;Water;80;;Slight Intrusion;ASC 41 (Common);J;4;0
+Croconaw;Pokemon;Water;100;;Crunch;ASC 42 (Uncommon);J;4;0
+Mega Feraligatr ex;Pokemon;Water;370;;Mortal Crunch;ASC 43 (Double Rare)/ASC 274 (Special Illustration Rare);J;4;0
+Snorunt;Pokemon;Water;70;;Chilly;ASC 46 (Common)/ASC 227 (Illustration Rare);I;4;0
+Mega Froslass ex;Pokemon;Water;310;;Resentful Refrain|Absolute Snow;ASC 47 (Double Rare)/ASC 265 (Mega Attack Rare)/ASC 275 (Special Illustration Rare);I;4;0
+Regice ex;Pokemon;Water;230;;Regi Charge|Ice Prison;ASC 48 (Double Rare);J;4;0
+N's Vanillite;Pokemon;Water;60;;Call for Family|Icy Snow;ASC 49 (Common);I;4;0
+N's Vanillish;Pokemon;Water;100;;Flop|Sheer Cold;ASC 50 (Common);I;4;0
 
 # ASC 123 done
 # ASC 155 done
 # ASC 158-160 done
 # ASC 183 done
-# ASC 218-226 done
+# ASC 218-228 done
 # ASC 247-248 done
-# ASC 272-273 done
+# ASC 265 done
+# ASC 272-275 done
 # ASC 284 done
 # ASC 294 done
