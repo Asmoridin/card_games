@@ -20,7 +20,7 @@ Blastcone Fae;Unit;Mind;Bandle City/Fae;2;1;2;Origins (Uncommon);0
 Blazing Scorcher;Unit;Fury;Noxus/Dragon;5;0;5;Origins (Common);3
 Blind Fury;Spell;Fury;;4;2;;Origins (Rare);2
 Blind Monk;Legend;Body/Calm;Lee Sin;;;;Origins (Rare);1
-Blitzcrank, Impassive;Champion Unit;Calm;Blitzcrank/Zaun/Mech;5;1;5;Origins (Rare);0
+Blitzcrank, Impassive;Champion Unit;Calm;Blitzcrank/Zaun/Mech;5;1;5;Origins (Rare);1
 Block;Spell;Calm;;2;0;;Origins (Uncommon);0
 Body Rune;Rune;Body;;0;0;;Origins (Common);8
 Bounty Hunter;Legend;Body/Chaos;Miss Fortune;;;;Origins (Rare);1
@@ -31,7 +31,7 @@ Caitlyn, Patrolling;Champion Unit;Calm;Caitlyn/Piltover;3;1;3;Origins (Rare);1
 Call to Glory;Spell;Order;;3;0;;Origins (Common);0
 Calm Rune;Rune;Calm;;0;0;;Origins (Common);8
 Cannon Barrage;Spell;Body;;2;1;;Origins (Common);2
-Captain Farron;Unit;Fury;Noxus/Trifarian;4;1;5;Origins (Uncommon);0
+Captain Farron;Unit;Fury;Noxus/Trifarian;4;1;5;Origins (Uncommon);1
 Carnivorous Snapvine;Unit;Body;Shadow Isles;5;2;6;Origins (Rare);0
 Catalyst of Aeons;Spell;Body;;4;0;;Origins (Uncommon);0
 Cemetery Attendant;Unit;Chaos;Shadow Isles/Dog;3;1;3;Origins (Common);3
@@ -39,11 +39,11 @@ Challenge;Spell;Body;;2;1;;Origins (Common);3
 Chaos Rune;Rune;Chaos;;0;0;;Origins (Common);12
 Charm;Spell;Calm;;1;1;;Origins (Common);3
 Chemtech Enforcer;Unit;Fury;Zaun;2;0;2;Origins (Common);3
-Cithria of Cloudfield;Unit;Body;Demacia/Elite;2;0;1;Origins (Uncommon);1
+Cithria of Cloudfield;Unit;Body;Demacia/Elite;2;0;1;Origins (Uncommon);2
 Cleave;Spell;Fury;;1;0;;Origins (Common);3
 Clockwork Keeper;Unit;Calm;Shurima;2;0;2;Origins (Common);2
 Commander Ledros;Unit;Order;Shadow Isles/Spirit;6;4;8;Origins (Rare);1
-Confront;Spell;Body;;2;0;;Origins (Common);2
+Confront;Spell;Body;;2;0;;Origins (Common);3
 Consult the Past;Spell;Mind;;4;0;;Origins (Common);3
 Convergent Mutation;Spell;Mind;;2;1;;Origins (Rare);2
 Crackshot Corsair;Unit;Body;Bilgewater/Pirate;3;0;3;Origins (Common);0
@@ -75,7 +75,7 @@ Energy Conduit;Gear;Mind;;3;0;;Origins (Uncommon);1
 Facebreaker;Spell;Order;;2;0;;Origins (Uncommon);1
 Fading Memories;Spell;Chaos;;4;1;;Origins (Uncommon);3
 Faithful Manufactor;Unit;Order;Piltover;3;0;2;Origins (Common);1
-Falling Comet;Spell;Mind;;5;0;;Origins (Common);0
+Falling Comet;Spell;Mind;;5;0;;Origins (Common);1
 Falling Star;Spell;Fury;;2;2;;Origins (Rare);0
 Fight or Flight;Spell;Chaos;;2;0;;Origins (Common);3
 Final Spark;Signature Spell;Mind/Order;Lux;8;0;;Proving Grounds (Epic);0
@@ -134,7 +134,7 @@ Last Stand;Spell;Calm;;3;1;;Origins (Rare);0
 Lecturing Yordle;Unit;Mind;Bandle City/Yordle;3;0;2;Origins (Common);0
 Lee Sin, Ascetic;Champion Unit;Calm;Lee Sin/Ionia;5;1;5;Origins (Epic);0
 Lee Sin, Centered;Champion Unit;Body;Lee Sin/Ionia;6;0;6;Origins (Rare);1
-Legion Rearguard;Unit;Fury;Noxus/Trifarian;2;0;2;Origins (Common);0
+Legion Rearguard;Unit;Fury;Noxus/Trifarian;2;0;2;Origins (Common);1
 Leona, Determined;Champion Unit;Order;Leona/Mount Targon;4;1;4;Origins (Rare);1
 Leona, Zealot;Champion Unit;Calm;Leonia/Mount Targon;6;1;6;Origins (Epic);1
 Loose Cannon;Legend;Chaos/Fury;Jinx;;;;Origins (Rare);1
@@ -148,7 +148,7 @@ Malzahar, Fanatic;Champion Unit;Mind;Malzahar/The Void;4;0;3;Origins (Rare);1
 Mask of Foresight;Gear;Calm;;2;0;;Origins (Uncommon);1
 Master Yi, Honed;Champion Unit;Body;Master Yi/Ionia;7;1;6;Proving Grounds (Epic);0
 Master Yi, Meditative;Champion Unit;Calm;Master Yi/Ionia;5;1;4;Proving Grounds (Rare);0
-Meditation;Spell;Calm;;2;0;;Origins (Common);1
+Meditation;Spell;Calm;;2;0;;Origins (Common);2
 Mega-Mech;Unit;Mind;Bandle City/Mech;7;0;8;Origins (Common);0
 Might of Demacia;Legend;Body/Order;Garen;;;;Proving Grounds (Rare);0
 Mind Rune;Rune;Mind;;0;0;;Origins (Common);6
@@ -205,7 +205,7 @@ Relentless Storm;Legend;Body/Fury;Volibear;;;;Origins (Rare);0
 Retreat;Spell;Mind;;1;0;;Origins (Uncommon);0
 Rhasa the Sunderer;Unit;Chaos;Shadow Isles/Spirit;10;1;6;Origins (Rare);2
 Ride the Wind;Spell;Chaos;;2;1;;Origins (Common);1
-Riptide Rex;Unit;Mind;Bilgewater/Pirate;6;2;6;Origins (Common);2
+Riptide Rex;Unit;Mind;Bilgewater/Pirate;6;2;6;Origins (Common);3
 Rune Prison;Spell;Calm;;2;1;;Origins (Common);0
 Sabotage;Spell;Body;;1;1;;Origins (Rare);0
 Sai Scout;Unit;Chaos;Shurima;6;0;5;Origins (Common);1
@@ -266,7 +266,7 @@ The Dreaming Tree;Battlefield;Colorless;;;;;Origins (Uncommon);1
 The Grand Plaza;Battlefield;Colorless;;;;;Origins (Uncommon);1
 The Harrowing;Spell;Chaos;;6;2;;Origins (Rare);0
 The Syren;Gear;Chaos;;2;0;;Origins (Uncommon);0
-Thermo Beam;Spell;Fury;;5;2;;Origins (Uncommon);1
+Thermo Beam;Spell;Fury;;5;2;;Origins (Uncommon);2
 Thousand-Tailed Watcher;Unit;Mind;Ionia;7;1;7;Origins (Rare);1
 Tibbers;Signature Unit;Fury/Chaos;Annie;8;2;7;Proving Grounds (Epic);0
 Tideturner;Unit;Chaos;Bilgewater;2;0;2;Origins (Rare);1
@@ -281,7 +281,7 @@ Udyr, Wildman;Champion Unit;Body;Udyr/Freljord;6;1;6;Origins (Rare);1
 Unchecked Power;Spell;Mind;;7;2;;Origins (Epic);0
 Undercover Agent;Unit;Chaos;;5;1;5;Origins (Common);3
 Unforgiven;Legend;Calm/Chaos;Yasuo;;;;Origins (Rare);0
-Unlicensed Armory;Gear;Fury;;2;0;;Origins (Uncommon);1
+Unlicensed Armory;Gear;Fury;;2;0;;Origins (Uncommon);2
 Unyielding Spirit;Spell;Body;;1;1;;Origins (Uncommon);1
 Vanguard Attendant;Unit;Order;Demacia/Elite;6;1;5;Proving Grounds (Common);0
 Vanguard Captain;Unit;Order;Demacia/Elite;3;1;3;Origins (Common);0
@@ -299,7 +299,7 @@ Volibear, Furious;Champion Unit;Fury;Volibear/Freljord;10;2;9;Origins (Epic);0
 Volibear, Imposing;Champion Unit;Body;Volibear/Freljord;12;2;10;Origins (Rare);0
 Wallop;Spell;Body;;2;0;;Origins (Uncommon);0
 Warwick, Hunter;Champion Unit;Body;Warwick/Zaun/Dog;6;1;5;Origins (Rare);0
-Watchful Sentry;Unit;Mind;Freljord;2;0;1;Origins (Common);2
+Watchful Sentry;Unit;Mind;Freljord;2;0;1;Origins (Common);3
 Whirlwind;Spell;Chaos;;4;1;;Origins (Uncommon);0
 Whiteflame Protector;Unit;Calm;Mount Targon/Dragon;8;2;8;Origins (Epic);0
 Wielder of Water;Unit;Calm;Ionia;3;0;2;Origins (Common);3
