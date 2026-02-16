@@ -22,7 +22,7 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
     'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', 
     'The Dominion', 'Starter Deck II', 'Holodeck Adventures', 'Official Tournament Sealed Deck',
     'Enhanced First Contact', 'Q Continuum', 'Introductory 2-Player Game', 'Enhanced Premiere',
-    'Fajo Collection', 'First Anthology', 'Warp Pack', 'Second Anthology']
+    'Fajo Collection', 'First Anthology', 'Warp Pack', 'Second Anthology', 'Enterprise Collection']
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',
     'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation',
@@ -32,7 +32,7 @@ VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'In
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',
     'Trouble', 'Tribble', 'Q Event', 'Q Interrupt', 'Q Dilemma', 'Tactic', ]
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
-    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian',]
+    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian', 'Starfleet']
 
 class Card:
     """

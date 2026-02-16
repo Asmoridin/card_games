@@ -284,6 +284,8 @@ if __name__ == "__main__":
     overall_wl = [0, 0]
     double_print("\nTotal W-L by villain:", out_file_h)
     villain_wl = {}
+    for encounter_obj in ChampEncounters.encounters:
+        villain_wl[encounter_obj.name] = [0, 0]
     for villain_choice in enc_played_map:
         if villain_choice[0] not in villain_wl:
             villain_wl[villain_choice[0]] = [0,0]
