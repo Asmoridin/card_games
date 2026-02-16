@@ -1,13 +1,14 @@
-2-1B Surgical Droid;SOR-059-C;Ground Unit;U;3 # 1 foil
-332nd Stalwart;TWI-240-S;Ground Unit;W;3
-4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Y/B;3
-41st Elite Corps;TWI-045-C;Ground Unit;U/W;3 # 1 hyperspace
-501st Liberator;TWI-109-C;Ground Unit;G;3
-97th Legion, Keeping the Peace on Sullust;SOR-118-U;Ground Unit;G;2
-A Fine Addition;TWI-040-R;Event;B/U;0
-A New Adventure;SHD-207-U;Event;Y;2
-A Precarious Predicament;LOF-222-U;Event;Y;0
-A-Wing;SEC-213-C;Space Unit;Y;3
+2-1B Surgical Droid;SOR-059-C;Ground Unit;Droid;1;1;3;U;3 # 1 foil
+332nd Stalwart;TWI-240-S;Ground Unit;Republic/Clone/Trooper;1;1;2;W;3
+4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Underworld/Droid/Bounty Hunter;4;4;4;Y/B;3
+41st Elite Corps;TWI-045-C;Ground Unit;Republic/Clone/Trooper;3;3;3;U/W;3 # 1 hyperspace
+501st Liberator;TWI-109-C;Ground Unit;Republic/Clone/Trooper;3;3;3;G;3
+97th Legion, Keeping the Peace on Sullust;SOR-118-U;Ground Unit;Imperial/Trooper;7;0;0;G;2
+A Fine Addition;TWI-040-R;Event;Supply;0;B/U;0
+A New Adventure;SHD-207-U;Event;Gambit;2;Y/Y;2
+A Precarious Predicament;LOF-222-U;Event;Trick;2;Y;0
+A-Wing;SEC-213-C;Space Unit;Vehicle/Fighter;Y;3
+# Done with extra data here
 AAT Incinerator;SEC-169-U;Ground Unit;R;3
 Aayla Secura, Master of the Blade;TWI-096-L;Ground Unit;G/W;1
 Academy Defense Walker;SOR-037-C;Ground Unit;U/B;3
@@ -1572,33 +1573,43 @@ Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;3
 Zuckuss, The Findsman;LOF-204-L;Ground Unit;Y;0
 Zygerrian Starhopper;JTL-183-C;Space Unit;Y/B;3 # 1 foil
 ** END **
-Saw Gerrera, Bring Down The Empire;LAW-001-R;Leader;G/R;0
+Saw Gerrera, Bring Down The Empire;LAW-001-R;Leader;Rebel;6;4;7;G/R;0
 # LAW-002
-Agent Kallus, Reconsider Your Allegiance;LAW-003-R;Leader;U/B;0
-Aurra Sing, Assassin;LAW-004-C;Leader;U/B;0
-Jyn Erso, Time to Fight;LAW-005-R;Leader;U/W;0
-Vel Sartha, Aldhani Insurgent;LAW-006-C;Leader;U/W;0
-Boba Fett, Krayt's Claw Commander;LAW-007-C;Leader;G/B;0
-Director Krennic, Amidst My Achievement;LAW-008-R;Leader;G/B;0
-Hera Syndulla, Not Fighting Alone;LAW-009-C;Leader;G/W;0
-Leia Organa, Someone who loves you;LAW-010-S;Leader;G/W;0
-Darth Vader, Unstoppable;LAW-011-C;Leader;R/B;0
-Sebulba, Especially Dangerous Dug;LAW-012-R;Leader;R/B;0
-# LAW-013
-Enfys Nest, Until We Can Go No Higher;LAW-014-C;Leader;R/W;0
-Jabba the Hutt, Crime Boss;LAW-015-S;Leader;Y/B;0
-The Client, Please Lower Your Blaster;LAW-016-C;Leader;Y/B;0
-Han Solo, I Got a Really Good Feeling;LAW-017-C;Leader;Y/W;0
-Lando Calrissian, Full Sabacc;LAW-018-R;Leader;Y/W;0
-Alliance Outpost;LAW-019-R;Base;U;0
-Daimyo's Palace;LAW-020-C;Base;U;0
-Coaxium Mine;LAW-021-C;Base;U;0
-Aldhani Garrison;LAW-022-C;Base;G;0
-Great Pit of Carkoon;LAW-023-S;Base;G;0
-Imperial Command Complex;LAW-024-C;Base;G;0
+Agent Kallus, Reconsider Your Allegiance;LAW-003-R;Leader;Imperial/Trooper;5;3;6;U/B;0
+Aurra Sing, Assassin;LAW-004-C;Leader;Underworld/Bounty Hunter;7;3;7;U/B;0
+Jyn Erso, Time to Fight;LAW-005-R;Leader;Rebel;5;3;6;U/W;0
+Vel Sartha, Aldhani Insurgent;LAW-006-C;Leader;Rebel;6;4;7;U/W;0
+Boba Fett, Krayt's Claw Commander;LAW-007-C;Leader;Underworld/Bounty Hunter;5;3;6;G/B;0
+Director Krennic, Amidst My Achievement;LAW-008-R;Imperial/Officer;7;4;9;Leader;G/B;0
+Hera Syndulla, Not Fighting Alone;LAW-009-C;Leader;Rebel/Twi'lek/Spectre;5;3;6;G/W;0
+Leia Organa, Someone who loves you;LAW-010-S;Leader;Rebel;5;2;2;G/W;0
+Darth Vader, Unstoppable;LAW-011-C;Leader;Force/Imperial/Sith;7;6;8;R/B;0
+Sebulba, Especially Dangerous Dug;LAW-012-R;Leader;Fringe;4;2;5;R/B;0
+Chewbacca, Hero of Kessel;LAW-013-R;Leader;Underworld/Wookiee;4;5;6;R/W;0
+Enfys Nest, Until We Can Go No Higher;LAW-014-C;Leader;Underworld;5;3;7;R/W;0
+Jabba the Hutt, Crime Boss;LAW-015-S;Leader;Underworld/Hutt;6;3;9;Y/B;0
+The Client, Please Lower Your Blaster;LAW-016-C;Leader;Imperial/Official;5;4;4;Y/B;0
+Han Solo, I Got a Really Good Feeling;LAW-017-C;Leader;Underworld;5;3;5;Y/W;0
+Lando Calrissian, Full Sabacc;LAW-018-R;Leader;Underworld;6;4;7;Y/W;0
+Alliance Outpost;LAW-019-R;Base;Lowick;26;U;0
+Daimyo's Palace;LAW-020-C;Base;Tatooine;27;U;0
+Coaxium Mine;LAW-021-C;Base;Kessel;27;U;0
+Aldhani Garrison;LAW-022-C;Base;Aldhani;27;G;0
+Great Pit of Carkoon;LAW-023-S;Base;Tatooine;27;G;0
+Imperial Command Complex;LAW-024-C;Base;Lothal;27;G;0
 # LAW-025
-Shipbreaking Yard;LAW-026-R;Base;R;0
-Stygeon Spire;LAW-027-C;Base;R;0
-Canto Bight;LAW-028-C;Base;Y;0
-Citadel Research Center;LAW-029-R;Base;Y;0
+Shipbreaking Yard;LAW-026-R;Base;Bracca;26;R;0
+Stygeon Spire;LAW-027-C;Base;Stygeon Prime;27;R;0
+Canto Bight;LAW-028-C;Base;Cantonica;27;Y;0
+Citadel Research Center;LAW-029-R;Base;Scarif;26;Y;0
 # LAW-030
+Bossk, Join Our Merry Band;LAW-031-U;Ground Unit;Underworld/Bounty Hunter;4;3;5;U/G/B;0
+Cad Bane, Now It's My Turn;LAW-032-L;Ground Unit;Underworld/Bounty Hunter;6;6;6;U/G/B;0
+Hound's Tooth, Hunter's Approach;LAW-033-R;Space Unit;Underworld/Vehicle/Transport;7;4;8;U/G/B;0
+Chewbacca, Mighty Rescuer;LAW-034-L;Ground Unit;Rebel/Wookiee;4;4;4;U/G/W;0
+Ezra Bridger, Spectre Six;LAW-035-U;Ground Unit;Force/Rebel/Spectre;4;4;5;U/G/W;0
+Obi-Wan Kenobi, Protector of Felucia;LAW-036-L;Ground Unit;Force/Jedi/Republic;7;7;7;U/G/W;0
+Han Solo, Hibernation Sick;LAW-037-S;Ground Unit;Rebel;1;1;1;U/G;0
+Lepi Lookout;LAW-038-C;Ground Unit;Underworld;2;3;1;U/G;0
+Latts Razzi, Deadly Whipmaster;LAW-039-R;Ground Unit;Underworld/Bounty Hunter;3;2;1;U/G;0
+Taramyn Barcona, Eyes Front!;LAW-040-U;Ground Unit;Rebel/Trooper;5;4;6;U/G;0
