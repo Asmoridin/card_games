@@ -32,7 +32,7 @@ def parse_sets(set_string, this_card_name=""):
     return (ret_sets, list(ret_rarities))
 
 valid_types = ['Unit', 'Spell', 'Battlefield', 'Legend', 'Champion Unit', 'Gear', 'Rune',
-    'Signature Spell', 'Signature Unit',]
+    'Signature Spell', 'Signature Unit', 'Signature Gear', ]
 valid_colors = ['Chaos', 'Body', 'Mind', 'Order', 'Fury', 'Colorless', 'Calm']
 
 FILE_PREFIX = "card_games/R/Riftbound"
@@ -60,10 +60,15 @@ card_inv_dict = {}
 most_needed_cards = {}
 for line in lines:
     line = line.split('#')[0].strip()
-    try:
+    line_vals = line.split(';')
+    temp_max = None
+    if len(line_vals) == 9:
         card_name, card_type, card_color, card_traits, card_cost, card_power, card_might, \
-            card_sets, card_own = line.split(';')
-    except ValueError:
+            card_sets, card_own = line_vals
+    elif len(line_vals) == 10:
+        card_name, card_type, card_color, card_traits, card_cost, card_power, card_might, \
+            card_sets, card_own, temp_max = line_vals
+    else:
         print("Invalid line:")
         print(line)
         continue
@@ -95,6 +100,8 @@ for line in lines:
         CARD_MAX = 2
     elif card_type == 'Rune':
         CARD_MAX = 12
+    elif temp_max is not None and temp_max.isdigit():
+        CARD_MAX = int(temp_max)
 
     if card_name in card_names:
         print(f"Duplicate card name found: {card_name}")

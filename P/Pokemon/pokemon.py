@@ -19,7 +19,7 @@ valid_rarities = ['Common', 'Uncommon', 'Rare', 'Illustration Rare', 'Ultra Rare
     'Special Illustration Rare', 'Black White Rare', 'Promo', 'Rare Holo', 'Rare Ultra',
     'Rare Rainbow', 'TGU', 'Rare Secret', 'Mega Hyper Rare', 'Hyper Rare', 'Shiny Rare',
     'ACE SPEC Rare', 'TGH', 'Rare Shiny', 'Shiny Ultra Rare', 'Other', 'GGH', 'Ultra-Rare Rare',
-    'Rare Radiant']
+    'Rare Radiant', 'Mega Attack Rare']
 valid_types = ['Pokemon', 'Trainer', 'Energy']
 valid_colors = ['Fire', 'Water', 'Grass', 'Psychic', 'Darkness', 'Metal', 'Lightning', 'Fairy',
     'Colorless', 'Fighting', 'Dragon']
