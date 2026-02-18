@@ -2119,13 +2119,28 @@ Break Morale;Strategy;;Obsidian Edition (Common)/Imperial Edition (Common)/Emera
 Break Ranks;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Break Ranks;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Break the Line;Strategy;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
+Break the Wave;Strategy;;Dark Allies (Common);Four Winds (Gold);3;0
+Breaking Blow;Strategy;;Crimson and Jade (Uncommon);Clan Wars (Imperial);3;0
+Breaking Concentration;Spell;;A Perfect Cut (Rare);Four Winds (Gold);3;0
 Breaking Point;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Breaking Point;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Breaking the Rhythm;Strategy;;Aftermath (Common)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Breaking the Rhythm;Strategy;;Aftermath (Common);Age of Conquest (Emperor);3;0
 Breaking the Rhythm;Strategy;;Twenty Festivals (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Breaking the Rhythm;Strategy;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
+Breath of the Dragon;Spell;;The Imperial Gift 2 (Fixed);Destroyer War (Celestial);1;0
+Breath of the Heavens;Strategy;;Emperor Edition (Uncommon)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
+Breath of the Heavens;Strategy;;Path of the Destroyer (Uncommon);Destroyer War (Celestial);3;0
 Breath of the Shinjo;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
+Breeding Season;Strategy;;Rise of the Shogun (Uncommon);Age of Enlightenment (Lotus);3;0
+Bribery;Strategy;;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);3;0
+Bridge to Jigoku;Region;;Fire & Shadow (Rare);Hidden Emperor (Jade);1;0
+Bridged Pass;Holding;;Crimson and Jade (Common);Clan Wars (Imperial);3;0
+Bridged Pass;Holding;;Gold Edition (Common);Four Winds (Gold);3;0
+Bridged Pass;Holding;;Jade Edition (Uncommon)/Pearl Edition (Uncommon)/Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
+Bridging the Gap;Strategy;;Empire at War (Common);Destroyer War (Celestial);3;0
+Bridging the Gap;Strategy;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;0
+Bridging the Gap;Strategy;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Bright Eye Legionnaire;Follower;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Bright Eye Legionnaire;Follower;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Brilliant Victory;Strategy;;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
@@ -3159,6 +3174,8 @@ Front Rank Troops;Follower;;Twenty Festivals (Uncommon);A Brother's Destiny (Twe
 Front Rank Troops;Follower;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
 Frost Dragon Festival;Event;;Promotional–Emperor (Promo);A Brother's Destiny (Ivory Edition);1;0
 Frost Dragon Festival;Event;;Promotional–Emperor (Promo);Age of Conquest (Emperor);1;0
+Fruitless Search;Strategy;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
+Fruitless Search;Strategy;;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
 Fu Leng, the Ninth Kami • Experienced;Personality;Unaligned;Siege: Clan War (Fixed);Legacy;1;1
 Fudo's Fiends;Follower;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
 Fudo's Fiends;Follower;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
@@ -3174,6 +3191,7 @@ Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Hidden Emperor 
 Fushiki no Oni;Personality;Unaligned;Training Grounds (Fixed)/Diamond Edition (Common);Rain of Blood (Diamond);3;2
 Fushiki no Oni;Personality;Unaligned;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Fushiki no Oni;Personality;Unaligned;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
+Gaining Advantage;Event;;Embers of War (Rare);Age of Conquest (Emperor);1;0
 Gallant Defeat;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);6;0
 Gallant Defeat;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);6;0
 Gambling House;Holding;;Gold Edition (Uncommon);Four Winds (Gold);3;0
@@ -5487,6 +5505,9 @@ Searing Siege;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
 Seasoned Ronin;Personality;Unaligned;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);3;0
 Seasoned Ronin;Personality;Unaligned;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;3
 Seasoned Ronin;Personality;Unaligned;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
+Secluded Waystation;Holding;;Lotus Edition (Common)/Training Grounds 2 (Fixed)/Promotional–Diamond (Promo);Age of Enlightenment (Lotus);3;0
+Secluded Waystation;Holding;;Promotional–Diamond (Promo);Rain of Blood (Diamond);3;0
+Secluded Waystation;Holding;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
 Second City Guards;Follower;;Road to Ruin (Fixed);Shattered Empire;3;0
 Second City Guards;Follower;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Second City Outpost;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -7403,7 +7424,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1130
+# Done through card #1140
 #1146
 #1150
 #1159
@@ -7550,8 +7571,10 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2694
 #2696
 #2699
+#2708
 #2728
 #2749
+#2759
 #2768
 #2777
 #2786
@@ -7910,6 +7933,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6493
 #6505
 #6532
+#6538
 #6553
 #6569
 #6573
