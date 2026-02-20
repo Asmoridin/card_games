@@ -68,17 +68,17 @@ Ariel - Adventurous Collector;Character;Ruby;Dreamborn/Hero/Princess;Into the In
 Ariel - Determined Mermaid;Character;Steel;Storyborn/Hero/Princess;Ursula's Return (Common)/Fabled (Common);3
 Ariel - Ethereal Voice;Character;Amber;Storyborn/Hero/Princess/Whisper;Whispers in the Well (Rare);0
 Ariel - On Human Legs;Character;Amber;Storyborn/Hero/Princess;The First Chapter (Uncommon);2
-# Traits done through here
-Ariel - Singing Mermaid;Character;Amber;;Ursula's Return (Rare)/Fabled (Rare);2
-Ariel - Sonic Warrior;Character;Steel;;Ursula's Return (Super Rare)/Fabled (Rare);0
-Ariel - Spectacular Singer;Character;Amber;;The First Chapter (Super Rare);0
-Ariel - Treasure Collector;Character;Sapphire;;Ursula's Return (Super Rare);0
-Ariel - Whoseit Collector;Character;Sapphire;;The First Chapter (Rare);1
+Ariel - Singing Mermaid;Character;Amber;Storyborn/Hero/Princess;Ursula's Return (Rare)/Fabled (Rare);2
+Ariel - Sonic Warrior;Character;Steel;Floodborn/Hero/Princess;Ursula's Return (Super Rare)/Fabled (Rare);0
+Ariel - Spectacular Singer;Character;Amber;Storyborn/Hero/Princess;The First Chapter (Super Rare);0
+Ariel - Treasure Collector;Character;Sapphire;Storyborn/Hero/Princess;Ursula's Return (Super Rare);0
+Ariel - Whoseit Collector;Character;Sapphire;Storyborn/Hero/Princess;The First Chapter (Rare);1
 Ariel's Grotto - A Secret Place;Location;Sapphire;;Ursula's Return (Uncommon);2
-Arthur - Determined Squire;Character;Sapphire/Steel;;Reign of Jafar (Uncommon);0
-Arthur - King Victorious;Character;Steel;;Shimmering Skies (Legendary);0
-Arthur - Novice Sparrow;Character;Ruby;;Shimmering Skies (Uncommon);1
-Arthur - Trained Swordsman;Character;Emerald;;Rise of the Floodborn (Common);1
+Arthur - Determined Squire;Character;Sapphire/Steel;Storyborn/Hero;Reign of Jafar (Uncommon);0
+Arthur - King Victorious;Character;Steel;Floodborn/Hero/King;Shimmering Skies (Legendary);0
+Arthur - Novice Sparrow;Character;Ruby;Storyborn/Hero;Shimmering Skies (Uncommon);1
+Arthur - Trained Swordsman;Character;Emerald;Dreamborn/Hero;Rise of the Floodborn (Common);1
+# Traits done through here
 Arthur - Wart;Character;Steel;;Shimmering Skies (Uncommon);1
 Arthur - Wizard's Apprentice;Character;Amethyst;;Rise of the Floodborn (Super Rare);0
 Atitaya - Fang General;Character;Steel;;Reign of Jafar (Uncommon);1
@@ -1940,3 +1940,13 @@ Pot of Honey;Item;Amethyst;;Winterspell (Common);0
 The Frozen Vine - Monstrous Plant;Location;Amethyst;;Winterspell (Uncommon);0
 Mulan - Resourceful Recruit;Character;Emerald;Storyborn/Hero/Princess;Winterspell (Super Rare);0
 Stitch - Naughty Experiment;Character;Emerald;Storyborn/Hero/Alien;Winterspell (Common);0
+Big Mama - Clever and Calming;Character;Emerald;Storyborn/Ally;Winterspell (Uncommon);0
+Minnie Mouse - Spinning Skater;Character;Emerald;Storyborn/Hero;Winterspell (Common);0
+Yao - Snow Warrior;Character;Emerald;Storyborn/Ally;Winterspell (Common);0
+Chien‐Po - Snow Warrior;Character;Emerald;Storyborn/Ally;Winterspell (Uncommon);0
+Ling - Snow Warrior;Character;Emerald;Storyborn/Ally;Winterspell (Rare);0
+Boomer - Has the Beak;Character;Emerald;Storyborn/Ally;Winterspell (Common);0
+Chernabog - Unnatural Force;Character;Emerald;Storyborn/Villain;Winterspell (Super Rare);0
+Dinky - Has the Brains;Character;Emerald;Storyborn/Ally;Winterspell (Common);0
+Stegmutt - Clumsy Dinosaur;Character;Emerald;Storyborn/Ally/Dinosaur;Winterspell (Rare);0
+Squeaks - Cozy Caterpillar;Character;Emerald;Storyborn;Winterspell (Common);0
