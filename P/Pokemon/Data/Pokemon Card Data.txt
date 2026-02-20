@@ -417,6 +417,7 @@ Reversal Energy;Energy;Special Energy;;;;PAL 192 (Uncommon)/PAR 266 (Hyper Rare)
 # Obsidian Flames (OBF)
 Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (Promo);G;4;1
 Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
+Pidgey;Pokemon;Colorless;60;;Gust;OBF 162 (Common)/OBF 207 (Illustration Rare);G;4;0
 Pidgeot ex;Pokemon;Colorless;280;Quick Search;Blustery Wind;OBF 164 (Double Rare)/OBF 217 (Ultra Rare)/OBF 225 (Special Illustration Rare)/PAF 221 (Shiny Ultra Rare);G;4;0
 Arven;Trainer;Supporter;;;;SVI 166 (Uncommon)/SVI 235 (Ultra Rare)/SVI 249 (Special Illustration Rare)/OBF 186 (Uncommon)/PAF 235 (Special Illustration Rare);G;8;2
 
@@ -458,6 +459,7 @@ Turtonator;Pokemon;Fire;120;;Spit-Out Shot|Steam Artillery;TEF 35 (Common);H;4;1
 Snom;Pokemon;Water;50;;Powder Snow;TEF 45 (Common)/TEF 168 (Illustration Rare);H;4;1
 Finizen;Pokemon;Water;80;;Rain Splash|Sharp Fin;TEF 48 (Common);H;4;1
 Palafin;Pokemon;Water;150;;Vanguard Punch|Double Hit;TEF 49 (Uncommon);H;4;1 # have 1 reverse foil
+Charjabug;Pokemon;Lightning;100;;Static Shock;TEF 55 (Common)/TEF 169 (Illustration Rare)/ASC 65 (Common);H;4;0
 Latias;Pokemon;Psychic;110;;Allure|Lagoon Flight;TEF 67 (Uncommon);H;4;1
 Bronzor;Pokemon;Psychic;80;;Mirror Attack;TEF 68 (Common)/TEF 170 (Illustration Rare);H;4;1
 Reuniclus;Pokemon;Psychic;120;;Summoning Gate|Brain Shake;TEF 72 (Uncommon)/TEF 171 (Illustration Rare);H;4;1
@@ -516,7 +518,9 @@ Scorbunny;Pokemon;Fire;70;;Quick Attack;SCR 26 (Common)/ASC 36 (Common)/ASC 225 
 Raboot;Pokemon;Fire;90;;Low Sweep|Combustion;SCR 27 (Common)/SCR 147 (Illustration Rare)/ASC 37 (Common);H;4;0
 Cinderace ex;Pokemon;Fire;320;;Flare Strike|Garnet Volley;SCR 28 (Double Rare)/SCR 157 (Ultra Rare)/SVP 163 (Promo)/ASC 38 (Double Rare);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
+Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common);H;4;0
+Antique Cover Fossil;Trainer;Item;;;;SCR 129 (Common)/BLK 80 (Common);H;4;0
 Area Zero Underdepths;Trainer;Stadium;;;;SCR 131 (Uncommon)/SCR 174 (Hyper Rare)/PRE 94 (Uncommon);H;4;0
 Grand Tree;Trainer;Stadium;;;;SCR 136 (ACE SPEC Rare);H;2;0
 Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
@@ -540,10 +544,14 @@ Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Ill
 # Journey Together (JTG)
 N's Darumaka;Pokemon;Fire;80;;Rolling Tackle|Flare;JTG 26 (Common)/ASC 32 (Common);I;4;0
 N's Darmanitan;Pokemon;Fire;140;;Back Draft|Flamebody Cannon;JTG 27 (Uncommon)/SVP 181 (Promo)/ASC 33 (Uncommon);I;4;0
+Iono's Tadbulb;Pokemon;Lightning;60;;Tiny Charge;JTG 52 (Common)/ASC 69 (Common);I;4;0
+Iono's Bellibolt ex;Pokemon;Lightning;280;Electric Streamer;Thunderous Bolt;JTG 53 (Double Rare)/JTG 172 (Ultra Rare)/JTG 183 (Special Illustration Rare)/JTG 188 (Hyper Rare)/SVP 194 (Promo)/ASC 70 (Double Rare)/ASC 279 (Special Illustration Rare);I;4;0
 Lillie's Clefairy ex;Pokemon;Psychic;190;Fairy Zone;Full Moon Rondo;JTG 56 (Double Rare)/JTG 173 (Ultra Rare)/JTG 184 (Special Illustration Rare)/SVP 195 (Promo);I;4;0
 Larvitar;Pokemon;Fighting;70;;Crunch;JTG 80 (Common);I;4;1
 Pupitar;Pokemon;Fighting;90;;Take Down;JTG 81 (Common);I;4;1
 Tyranitar;Pokemon;Darkness;190;Daunting Gaze;Cracking Stomp;JTG 95 (Rare);I;4;1
+N's Zorua;Pokemon;Darkness;70;;Scratch;JTG 97 (Common)/SVP 189 (Promo)/ASC 136 (Common);I;4;0
+N's Zoroark ex;Pokemon;Darkness;280;Trade;Night Joker;JTG 98 (Double Rare)/JTG 175 (Ultra Rare)/JTG 185 (Special Illustration Rare)/JTG 189 (Hyper Rare)/ASC 137 (Double Rare)/ASC 286 (Special Illustration Rare);I;4;0
 N's Reshiram;Pokemon;Dragon;130;;Powerful Rage|Virtuous Flame;JTG 116 (Rare)/JTG 167 (Illustration Rare)/ASC 154 (Rare);I;4;0
 Levincia;Trainer;Stadium;;;;JTG 150 (Uncommon)/DRI 244 (Hyper Rare);I;4;0
 
@@ -614,6 +622,7 @@ Team Rocket's Archer;Trainer;Supporter;;;;DRI 170 (Uncommon)/DRI 223 (Ultra Rare
 Team Rocket's Bother-Bot;Trainer;Item;;;;DRI 172 (Uncommon);I;4;4
 Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon);I;4;1
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
+Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
 # Black Bolt
 Snivy;Pokemon;Grass;70;;Tackle|Vine Whip;BLK 1 (Common)/BLK 87 (Illustration Rare);I;4;0
@@ -691,14 +700,16 @@ Tranquill;Pokemon;Colorless;80;;Fly;BLK 72 (Common)/BLK 149 (Illustration Rare);
 Unfezant;Pokemon;Colorless;150;;Add On|Swift Flight;BLK 73 (Uncommon)/BLK 150 (Illustration Rare);I;4;0
 Audino;Pokemon;Colorless;100;;Return;BLK 74 (Common)/BLK 151 (Illustration Rare);I;4;0
 Minccino;Pokemon;Colorless;60;;Tail Slap;BLK 75 (Common)/BLK 152 (Illustration Rare);I;4;0
-
-Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare);D/I;8;2
+Cinccino;Pokemon;Colorless;100;;Do the Wave;BLK 76 (Uncommon)/BLK 153 (Illustration Rare);I;4;0
+Rufflet;Pokemon;Colorless;70;;Peck|Glide;BLK 77 (Common)/BLK 154 (Illustration Rare);I;4;0
+Braviary;Pokemon;Colorless;140;;Aerial Ace|Speed Wing;BLK 78 (Uncommon)/BLK 155 (Illustration Rare);I;4;0
+Air Balloon;Trainer;Pokemon Tool;;;;Sword & Shield 156 (Uncommon)/Sword & Shield 213 (Rare Secret)/BLK 79 (Uncommon)/MEG 166 (Ultra Rare)/ASC 181 (Uncommon);D/I;8;2
+# BLK 80 done
 
 # BLK 84 done
 Professor's Research;Trainer;Supporter;;;;Sword & Shield 178 (Rare Holo)/Sword & Shield 201 (Rare Ultra)/Sword & Shield 209 (Rare Rainbow)/Shining Fates 60 (Rare)/SWSH Black Star Promos 178 (Promo)/Celebrations 25 (Rare Ultra)/SWSH Black Star Promos 152 (Promo)/Brilliant Stars 147 (Rare Holo)/Pokémon GO 78 (Rare Ultra)/Pokémon GO 84 (Rare Rainbow)/Crown Zenith 150 (Rare Ultra)/SVI 189 (Rare)/SVI 240 (Ultra Rare)/SVI 190 (Rare)/SVI 241 (Ultra Rare)/PAF 88 (Rare)/PRE 122 (Common)/PRE 123 (Common)/SVP 221 (Promo)/PRE 124 (Common)/PRE 125 (Common)/SVP 222 (Promo)/SVP 223 (Promo)/JTG 155 (Common)/BLK 85 (Uncommon);D/F/G;8;1
 
-# BLK 87-152 done
-# BLK 156-161 done
+# BLK 87-161 done
 # BLK 164-169 done
 # BLK 171-172 done
 # Ends BLK 172 (86 last new card)
@@ -743,16 +754,26 @@ Glastrier;Pokemon;Water;130;;Ice Shot|Frosty Typhoon;ASC 54 (Uncommon);I;4;0
 Pikachu;Pokemon;Lightning;70;;Tail Smack|Tiny Bolt;ASC 55 (Common);J;4;0
 Raichu;Pokemon;Lightning;130;;Quick Blow|Strong Volt;ASC 56 (Uncommon);J;4;0
 Voltorb ex;Pokemon;Lightning;170;;Hundred-Hitting Ball;ASC 58 (Double Rare);J;4;0
-# ASC 60 done
+Mega Eelektross ex;Pokemon;Lightning;350;;Split Bomb|Disaster Shock;ASC 61 (Double Rare)/ASC 266 (Mega Attack Rare)/ASC 278 (Special Illustration Rare);I;4;0
+Stunfisk;Pokemon;Lightning;110;;Pouncing Trap;ASC 62 (Common);I;4;0
+Helioptile;Pokemon;Lightning;70;;Zap Kick;ASC 63 (Common);I;4;0
+Heliolisk;Pokemon;Lightning;120;Frilled Generator;Powerful Bolt;ASC 64 (Uncommon)/ASC 229 (Illustration Rare);I;4;0
+Tapu Koko;Pokemon;Lightning;120;;Fast Flight|Thunder Blast;ASC 67 (Rare);I;4;0
+Hop's Pincurchin ex;Pokemon;Lightning;200;Counterattack Quills;Spiky Thunder;ASC 68 (Double Rare);I;4;0
+# ASC 70 done
 
 # ASC 123 done
+# ASC 136-137 done
 # ASC 154-155 done
 # ASC 158-160 done
+# ASC 181 done
 # ASC 183 done
-# ASC 218-228 done
+# ASC 217 done- last of cards
+# ASC 218-230 done
 # ASC 247-248 done
-# ASC 265 done
+# ASC 265-266 done
 # ASC 272-275 done
-# ASC 277 done
+# ASC 277-279 done
 # ASC 284 done
+# ASC 286 done
 # ASC 294 done

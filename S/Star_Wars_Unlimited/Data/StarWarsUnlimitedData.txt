@@ -7,17 +7,17 @@
 A Fine Addition;TWI-040-R;Event;Supply;0;B/U;0
 A New Adventure;SHD-207-U;Event;Gambit;2;Y/Y;2
 A Precarious Predicament;LOF-222-U;Event;Trick;2;Y;0
+A-Wing;SEC-213-C;Space Unit;Vehicle/Fighter;1;1;2;Y;3
+AAT Incinerator;SEC-169-U;Ground Unit;Imperial/Vehicle/Tank;5;3;6;R;3
+Aayla Secura, Master of the Blade;TWI-096-L;Ground Unit;Force/Jedi/Republic/Twi'lek;5;6;5;G/W;1
+Academy Defense Walker;SOR-037-C;Ground Unit;Imperial/Vehicle/Walker;6;5;5;U/B;3
+Academy Disciplinarian;SEC-165-C;Ground Unit;Imperial/Official;3;3;4;R;3
+Academy Graduate;JTL-058-C;Ground Unit;Imperial/Pilot;2;1;2;U;2
+Academy Training;SOR-120-C;Upgrade;Learned;2;2;2;G;3
+Accelerate Our Plans;SEC-228-C;Event;Plan;1;Y;3
+Acclamator Assault Ship;LOF-106-U;Space Unit;Republic/Vehicle/Capital Ship;7;5;8;G;3
+Acolyte of the Beyond;LOF-129-C;Ground Unit;Sith;2;2;3;R/B;3 # 1 hyperspace
 # Done with extra data here
-A-Wing;SEC-213-C;Space Unit;Y;3
-AAT Incinerator;SEC-169-U;Ground Unit;R;3
-Aayla Secura, Master of the Blade;TWI-096-L;Ground Unit;G/W;1
-Academy Defense Walker;SOR-037-C;Ground Unit;U/B;3
-Academy Disciplinarian;SEC-165-C;Ground Unit;R;3
-Academy Graduate;JTL-058-C;Ground Unit;U;2
-Academy Training;SOR-120-C;Upgrade;G;3
-Accelerate Our Plans;SEC-228-C;Event;Y;3
-Acclamator Assault Ship;LOF-106-U;Space Unit;G;3
-Acolyte of the Beyond;LOF-129-C;Ground Unit;R/B;3 # 1 hyperspace
 Adelphi Patrol Wing;SHD-101-C;Space Unit;G/W;3
 Adept ARC-170;JTL-114-C;Space Unit;G;2
 Adept of Anger;LOF-178-C;Ground Unit;Y/B;3
@@ -1574,7 +1574,7 @@ Zuckuss, The Findsman;LOF-204-L;Ground Unit;Y;0
 Zygerrian Starhopper;JTL-183-C;Space Unit;Y/B;3 # 1 foil
 ** END **
 Saw Gerrera, Bring Down The Empire;LAW-001-R;Leader;Rebel;6;4;7;G/R;0
-# LAW-002
+Tobias Beckett, People Are Predictable;LAW-002-R;Leader;Underworld;5;4;6;Y/U;0
 Agent Kallus, Reconsider Your Allegiance;LAW-003-R;Leader;Imperial/Trooper;5;3;6;U/B;0
 Aurra Sing, Assassin;LAW-004-C;Leader;Underworld/Bounty Hunter;7;3;7;U/B;0
 Jyn Erso, Time to Fight;LAW-005-R;Leader;Rebel;5;3;6;U/W;0
@@ -1597,12 +1597,12 @@ Coaxium Mine;LAW-021-C;Base;Kessel;27;U;0
 Aldhani Garrison;LAW-022-C;Base;Aldhani;27;G;0
 Great Pit of Carkoon;LAW-023-S;Base;Tatooine;27;G;0
 Imperial Command Complex;LAW-024-C;Base;Lothal;27;G;0
-# LAW-025
+Contested Caverns;LAW-025-C;Base;Quarzite;27;R;0
 Shipbreaking Yard;LAW-026-R;Base;Bracca;26;R;0
 Stygeon Spire;LAW-027-C;Base;Stygeon Prime;27;R;0
 Canto Bight;LAW-028-C;Base;Cantonica;27;Y;0
 Citadel Research Center;LAW-029-R;Base;Scarif;26;Y;0
-# LAW-030
+Partisan Hideout;LAW-030-C;Base;Segra Milo;27;Y;0
 Bossk, Join Our Merry Band;LAW-031-U;Ground Unit;Underworld/Bounty Hunter;4;3;5;U/G/B;0
 Cad Bane, Now It's My Turn;LAW-032-L;Ground Unit;Underworld/Bounty Hunter;6;6;6;U/G/B;0
 Hound's Tooth, Hunter's Approach;LAW-033-R;Space Unit;Underworld/Vehicle/Transport;7;4;8;U/G/B;0
@@ -1613,3 +1613,13 @@ Han Solo, Hibernation Sick;LAW-037-S;Ground Unit;Rebel;1;1;1;U/G;0
 Lepi Lookout;LAW-038-C;Ground Unit;Underworld;2;3;1;U/G;0
 Latts Razzi, Deadly Whipmaster;LAW-039-R;Ground Unit;Underworld/Bounty Hunter;3;2;1;U/G;0
 Taramyn Barcona, Eyes Front!;LAW-040-U;Ground Unit;Rebel/Trooper;5;4;6;U/G;0
+Nothing Left to Fear;LAW-041-U;Event;Innate;5;U/G;0
+IG-88, Programmed to Kill;LAW-042-R;Ground Unit;Underworld/Droid/Bounty Hunter;5;6;3;U/R/B;0
+Shadow Cloaking;LAW-043-U;Event;Tactic;5;U/R/B;0
+Single Reactor Ignition;LAW-044-L;Event;Disaster/Tactic;8;U/R/B;0
+Zeb Orellios, Spectre Four;LAW-045-U;Ground Unit;Rebel/Spectre;5;4;4;U/R/W;0
+Chirrut Îmwe, I Don't Need Luck;LAW-046-R;Ground Unit;Force/Rebel;6;8;6;U/R/W;0
+Baze Malbus, Good Luck;LAW-047-R;Ground Unit;Rebel;7;6;8;U/R/W;0
+Chio Fain, Four-Armed Slicer;LAW-048-U;Ground Unit;Underworld/Bounty Hunter;2;2;4;U/R;0
+Bith Brute;LAW-049-C;Ground Unit;Underworld;3;4;3;U/R;0
+Honnah, Oink! Squee!;LAW-050-U;Ground Unit;Underworld/Bounty Hunter;4;3;5;U/R;0
