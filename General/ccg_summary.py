@@ -143,7 +143,12 @@ for play_file in sorted(os.listdir(PLAY_DIR))[:-1]:
 
     this_years_plays = sorted(this_years_plays, key=lambda x:x[1], reverse=True)
 
+PREV_YEAR_PLAY_TOTAL = 0
+for game_name, play_count in prev_year_plays.items():
+    PREV_YEAR_PLAY_TOTAL += play_count
+
 # Get current year data
+THIS_YEAR_PLAYS = 0
 current_year_file = sorted(os.listdir(PLAY_DIR))[-1]
 with open(os.path.join(PLAY_DIR, current_year_file), encoding="UTF-8") as play_file_h:
     current_play_lines = play_file_h.readlines()
@@ -155,6 +160,7 @@ for play_line in current_play_lines:
     play_game, play_count = play_line.split(';')
     play_count = int(play_count)
     current_year_plays[play_game] = play_count
+    THIS_YEAR_PLAYS += play_count
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card_games'):
@@ -250,6 +256,9 @@ if __name__ == "__main__":
         f"played {expected_pace:.2f} games. You are {'ahead' if pace_diff >= 0 else 'behind'} " + \
         f"pace by {abs(pace_diff):.2f} plays."
     double_print(pace_string, out_file_h)
+    total_play_str = f"In total, you have played {THIS_YEAR_PLAYS} games this year, " + \
+        f"compared to {PREV_YEAR_PLAY_TOTAL} last year."
+    double_print(total_play_str, out_file_h)
     double_print(f"Completed Games List: ({len(completed_games)})", out_file_h)
     for comp_game in sorted(completed_games):
         double_print(f"- {comp_game}", out_file_h)
