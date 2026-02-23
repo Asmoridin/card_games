@@ -2176,16 +2176,30 @@ Bronze Lantern;Item;;Lotus Edition (Uncommon);Age of Enlightenment (Lotus);3;0
 Bronze Lantern;Item;;The War of Spirits (Rare);Four Winds (Gold);3;0
 Bronze Lantern;Item;;The War of Spirits (Rare);Hidden Emperor (Jade);3;1
 Bronze Memorial;Holding;;The Heaven's Will (Rare);Race for the Throne (Samurai);3;0
+Brother of Lightning;Follower;;Wrath of the Emperor (Common);Rain of Blood (Diamond);3;0
 Brotherhood of the Waves;Follower;;Gathering Storms (Fixed);Shattered Empire;3;0
 Brotherhood Schism;Strategy;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
 Brotherhood Sohei;Follower;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;3
 Brotherhood Sohei;Follower;;Evil Portents (Common);War of the Seals (Onyx Edition);3;3
+Brothers in Arms • Experienced;Follower;;Samurai Edition (Rare);Race for the Throne (Samurai);1;0
+Brothers in Arms • Experienced;Follower;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);1;0
 Brothers in Arms;Follower;;Hidden City (Uncommon);Rain of Blood (Diamond);3;0
 Brothers in Arms;Follower;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Brothers in Arms;Follower;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
 Brothers in Arms;Follower;;Shattered Empire (Fixed);Shattered Empire;3;0
+Brothers in Battle;Strategy;;Before the Dawn (Uncommon)/Emperor Edition Demo Decks (Fixed);Destroyer War (Celestial);3;0
+Brothers in Battle;Strategy;;Before the Dawn (Uncommon)/Promotional–Emperor (Promo)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Brothers in Battle;Strategy;;Chaos Reigns II (Fixed);Shattered Empire;3;0
 Brothers in Blood;Strategy;;Soul of the Empire (Rare);Hidden Emperor (Jade);3;2
+Brothers in Harmony;Strategy;;Path of the Destroyer (Common);Destroyer War (Celestial);3;0
+Brothers of Goemon;Follower;;Before the Dawn (Uncommon);Age of Conquest (Emperor);3;0
+Brothers of Goemon;Follower;;Before the Dawn (Uncommon);Destroyer War (Celestial);3;0
+Brothers of Jade;Follower;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
+Brothers of Jade;Follower;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Brothers of Jade;Follower;;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
+Brothers of the Wind;Follower;;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
+Brothers of Thunder;Follower;;Crimson and Jade (Uncommon);Clan Wars (Imperial);3;0
+Brothers of Thunder;Follower;;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
 Brutal Lesson;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Brutal Lesson;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Brute Force;Strategy;;Honor's Veil (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;0
@@ -3300,6 +3314,7 @@ Gold Mine;Holding;;Jade Edition (Common)/Pearl Edition (Common)/Siege of Sleepin
 Gold Mine;Holding;;Lotus Edition (Fixed)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
 Gold Mine;Holding;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
 Golden Sun Plain;Region;;The Dark Journey Home (Rare);Hidden Emperor (Jade);1;0
+Gozaru no Oni;Personality;Unaligned;Embers of War (Uncommon);Age of Conquest (Emperor);3;0
 Grateful Reward;Strategy;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
 Grateful Reward;Strategy;;Forgotten Legacy (Fixed);Destroyer War (Celestial);3;0
 Great Crater;Region;;The War of Spirits (Rare)/Gold Edition (Rare);Four Winds (Gold);1;0
@@ -5928,6 +5943,10 @@ Slap the Wave • Experienced;Strategy;;Chaos Reigns III (Fixed);Shattered Empir
 Slaughter of the Land;Strategy;;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;3
 Slaughter the Scout;Strategy;;An Oni's Fury (Common);Four Winds (Gold);3;1
 Slaughter the Scout;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Slave Pits;Holding;;Gates of Chaos (Rare);A Brother's Destiny (Ivory Edition);3;0
+Slave Pits;Holding;;Gates of Chaos (Rare);Age of Conquest (Emperor);3;0
+Slave Pits;Holding;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Slave Pits;Holding;;Twenty Festivals (Rare);War of the Seals (Onyx Edition);3;0
 Slice the Web;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Slice the Web;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Small Farm;Holding;;Emperor Edition (Common)/Promotional–Emperor (Promo)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
@@ -6469,6 +6488,8 @@ The Gusai Estates;Holding;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Ed
 The Head of My Enemy • Experienced;Strategy;;Chaos Reigns II (Fixed);Shattered Empire;3;0
 The Heart's Arrow;Spell;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 The Heart's Arrow;Spell;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
+The Height of Courage;Strategy;;Celestial Edition (Common);Destroyer War (Celestial);3;0
+The Height of Courage;Strategy;;Emperor Edition (Common)/Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
 The Height of Courage;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
 The Heir's Wrath;Strategy;;Embers of War (Rare);Age of Conquest (Emperor);1;0
 The Hida Ryokans;Holding;;Road to Ruin (Fixed);Shattered Empire;3;0
@@ -7447,9 +7468,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1160
-#1162
-#1165
+# Done through card #1170
 #1173
 #1187
 #1196
@@ -7613,6 +7632,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2865
 #2867
 #2872
+#2880
 #2895
 #2897
 #2902
@@ -8108,7 +8128,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8092-8093
 #8095-8096
 #8098
-#8127
+#8126-8127
 #8143
 #8149-8150
 #8168
@@ -8358,6 +8378,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #10570
 #10583
 #10607
+#10611
 #10627
 #10658
 #10690
