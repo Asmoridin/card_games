@@ -99,7 +99,7 @@ Action Point Card (AP03);;BLC-AP04;R;Action Point;;;;Promotional Card;;0
 Action Point Card (AP03);;CGH-2-AP03;R;Action Point;;;;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
 Action Point Card (AP03);;CGH-AP03;R;Action Point;;;;Promotional Card;;0
 Action Point Card (AP03);;EVA-1-AP03;R;Action Point;;;;Evangelion: New Theatrical Edition [UE15BT];;0
-Action Point Card (AP03);;HTR-2-AP03;R;Action Point;;;;Hunter × Hunter Vol.2 [UEX04BT];;0
+Action Point Card (AP03);;HTR-2-AP03;R;Action Point;;;;Hunter × Hunter Vol.2 [UEX04BT];;1
 Action Point Card (AP03);;HTR-AP03;R;Action Point;;;;Promotional Card;;0
 Action Point Card (AP03);;JJK-3-AP03;R;Action Point;;;;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Action Point Card (AP03);;JJK-AP03;R;Action Point;;;;Promotional Card;;0
@@ -174,7 +174,7 @@ Action Point Card (AP07);;YYH-1-AP07;R;Action Point;;;;Yu Yu Hakusho: Ghost File
 Action Point Card (AP08);;KJ8-1-AP08;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
 Action Point Card (AP08);;SAO-1-AP08;R;Action Point;;;;Sword Art Online [UE07BT];;0
 Action Point Card (AP08);;YYH-1-AP08;R;Action Point;;;;Yu Yu Hakusho: Ghost Files [UE13BT];;0
-Action Point Card (AP09);;KJ8-1-AP09;R;Action Point;;;;Kaiju No. 8 [UE12BT];;1
+Action Point Card (AP09);;KJ8-1-AP09;R;Action Point;;;;Kaiju No. 8 [UE12BT];;2
 Action Point Card (AP09);;SAO-1-AP09;R;Action Point;;;;Sword Art Online [UE07BT];;0
 Action Point Card (AP10);;KJ8-1-AP10;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
 Action Point Card (AP11);;KJ8-1-AP11;R;Action Point;;;;Kaiju No. 8 [UE12BT];;0
@@ -201,7 +201,7 @@ Action Point Card(KAGURABACHI);;KGR-1-AP11;R;Action Point;;;;Kagurabachi [UE16BT
 Action Point Card(KAGURABACHI);;KGR-1-AP12;R;Action Point;;;;Kagurabachi [UE16BT];;0
 Action Point Card(KAGURABACHI);;KGR-1-AP13;R;Action Point;;;;Kagurabachi [UE16BT];;0
 Action Point Card;;BLC-3-AP01;R;Action Point;;;;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];;0
-Administrator;;SAO-2-001;U;Character;Yellow;4;2;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Administrator;;SAO-2-001;U;Character;Yellow;4;2;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Aerial Fight;;SAO-1-064;U;Event;Blue;3;1;Sword Art Online [UE07BT];Special;0
 Agil;Aincrad;SAO-1-038;C;Character;Blue;1;1;Sword Art Online [UE07ST]/Sword Art Online [UE07BT];;0
 Agil;Aincrad;SAO-1-102;C;Character;Blue;3;1;Sword Art Online [UE07ST];Active;0
@@ -319,7 +319,7 @@ Asuna (Stacia, the Goddess of Creation);Goddess;SAO-1-019;C;Character;Yellow;0;1
 Asuna (Stacia, the Goddess of Creation);Goddess;SAO-1-020;U;Character;Yellow;1;1;Sword Art Online [UE07BT];;0
 Asuna (Stacia, the Goddess of Creation);Goddess;SAO-1-021;R;Character;Yellow;3;1;Sword Art Online [UE07BT];Color;0
 Asuna (Stacia, the Goddess of Creation);Goddess;SAO-1-022;SR;Character;Yellow;4;1;Sword Art Online [UE07BT];Raid;0
-Asuna (Stacia, the Goddess of Creation);Goddess;SAO-2-009;R;Character;Yellow;2;1;Sword Art Online Vol.2 [UEX06BT];;0
+Asuna (Stacia, the Goddess of Creation);Goddess;SAO-2-009;R;Character;Yellow;2;1;Sword Art Online Vol.2 [UEX06BT];;1
 Asuna Yuuki;Progressive;SAO-2-055;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
 Asuna's Sandwich;;SAO-1-063;U;Event;Blue;3;1;Sword Art Online [UE07ST]/Sword Art Online [UE07BT];Final;0
 Asuna;Aincrad;SAO-1-035;C;Character;Blue;0;1;Sword Art Online [UE07BT];Active;1
@@ -332,7 +332,7 @@ Asuna;ALO;SAO-1-068;C;Character;Green;0;1;Sword Art Online [UE07BT];Get;0
 Asuna;ALO;SAO-1-069;C;Character;Green;1;1;Sword Art Online [UE07BT];Active;1
 Asuna;ALO;SAO-1-070;U;Character;Green;3;1;Sword Art Online [UE07BT];;1
 Asuna;ALO;SAO-1-071;SR;Character;Green;4;1;Sword Art Online [UE07BT];Raid;0
-Asuna;ALO;SAO-2-063;R;Character;Green;3;1;Sword Art Online Vol.2 [UEX06BT];;0
+Asuna;ALO;SAO-2-063;R;Character;Green;3;1;Sword Art Online Vol.2 [UEX06BT];;1
 Asuna;Progressive;SAO-2-040;U;Character;Purple;1;1;Sword Art Online Vol.2 [UEX06BT];Active;0
 Asuna;Progressive;SAO-2-041;U;Character;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];;0
 Asuna;Progressive;SAO-2-042;SR;Character;Purple;4;1;Sword Art Online Vol.2 [UEX06BT];Raid;0
@@ -357,7 +357,7 @@ Barbecue;;SAO-1-098;U;Event;Green;3;1;Sword Art Online [UE07BT];Final;0
 Baryon Cannon;;CGH-2-035;R;Event;Blue;4;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Special;0
 Basement;;AOT-1-095;U;Site;Red;6;1;Attack on Titan [UE10BT];Get;1
 Basho;;HTR-1-086;C;Character;Green;3;1;Hunter × Hunter [UE02BT];Active;1
-Bath;;SAO-2-057;U;Event;Purple;3;1;Sword Art Online Vol.2 [UEX06BT];Final;0
+Bath;;SAO-2-057;U;Event;Purple;3;1;Sword Art Online Vol.2 [UEX06BT];Final;2
 Battera;;HTR-1-009;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];;0
 Bazz-B;Stern Ritters;BLC-1-011;R;Character;Yellow;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Bazz-B;Stern Ritters;BLC-2-003;C;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
@@ -508,7 +508,7 @@ Counters;;NIK-1-109;C;Event;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];Draw;4
 Countrywide Transmutation Circle;;FMA-1-095;U;Site;Purple;1;1;Fullmetal Alchemist [UE09BT];Get;4
 Crow;Missilis/Exotic;NIK-1-020;C;Character;Yellow;0;1;Goddess of Victory: Nikke [UE14BT];Draw;4
 Crow;Missilis/Exotic;NIK-1-021;R;Character;Yellow;2;1;Goddess of Victory: Nikke [UE14BT];Active;4
-Crystallite Ingot;;SAO-2-025;C;Event;Blue;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Crystallite Ingot;;SAO-2-025;C;Event;Blue;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;2
 Cupid's Day;;CGH-2-073;U;Event;Red;2;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Color;0
 Cursed Technique Lapse: Blue;;JJK-3-012;C;Event;Yellow;4;1;Jujutsu Kaisen Vol.2 [UEX02BT];Draw;0
 Cursed Technique Reversal: Red;;JJK-1-030;C;Event;Yellow;3;1;Jujutsu Kaisen [UE03BT];Active;0
@@ -623,7 +623,7 @@ Eso;Cursed Wombs: Death Paintings;JJK-3-058;C;Character;Red;3;1;Jujutsu Kaisen V
 Esper Sisters;;OPM-1-027;C;Event;Yellow;2;1;One-Punch Man [UE06BT];Draw;0
 Eugene;ALO;SAO-1-057;U;Character;Blue;3;1;Sword Art Online [UE07BT];Active;0
 Eugeo Synthesis Thirty-Two;Integrity Knights;SAO-1-018;SR;Character;Yellow;4;1;Sword Art Online [UE07BT];Raid;0
-Eugeo Synthesis Thirty-Two;Integrity Knights;SAO-2-007;C;Character;Yellow;1;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Eugeo Synthesis Thirty-Two;Integrity Knights;SAO-2-007;C;Character;Yellow;1;1;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Eugeo;;SAO-1-004;C;Character;Yellow;0;1;Sword Art Online [UE07BT];Active;0
 Eugeo;;SAO-1-005;U;Character;Yellow;2;1;Sword Art Online [UE07BT];;0
 Eunhwa;Elysion/Absolute;NIK-1-101;C;Character;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];Active;4
@@ -1131,7 +1131,7 @@ King;Hero;OPM-1-041;SR;Character;Green;3;1;One-Punch Man [UE06BT];Raid;0
 Kiriko;;HTR-1-070;C;Character;Green;2;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];;4 # 4 starter, 2 booster
 Kirio Hikifune;Squad Zero;BLC-1-059;C;Character;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Kirio Hikifune;Squad Zero;BLC-2-059;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
-Kirito & Eugeo;;SAO-2-003;C;Character;Yellow;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Kirito & Eugeo;;SAO-2-003;C;Character;Yellow;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Kirito;;SAO-1-001;C;Character;Yellow;0;1;Sword Art Online [UE07BT];;0
 Kirito;;SAO-1-002;R;Character;Yellow;4;2;Sword Art Online [UE07BT];Get;0
 Kirito;;SAO-2-002;SR;Character;Yellow;4;1;Sword Art Online Vol.2 [UEX06BT];Raid;0
@@ -1140,7 +1140,7 @@ Kirito;Aincrad;SAO-1-040;U;Character;Blue;1;1;Sword Art Online [UE07BT];;1
 Kirito;Aincrad;SAO-1-041;SR;Character;Blue;5;1;Sword Art Online [UE07BT];Raid;0
 Kirito;Aincrad;SAO-1-103;U;Character;Blue;3;1;Sword Art Online [UE07ST];Color;0
 Kirito;Aincrad;SAO-1-104;SR;Character;Blue;4;1;Sword Art Online [UE07ST];Raid;0
-Kirito;Aincrad;SAO-2-015;U;Character;Blue;2;1;Sword Art Online Vol.2 [UEX06BT];Active;0
+Kirito;Aincrad;SAO-2-015;U;Character;Blue;2;1;Sword Art Online Vol.2 [UEX06BT];Active;1
 Kirito;ALO;SAO-1-051;C;Character;Blue;1;1;Sword Art Online [UE07BT];;0
 Kirito;ALO;SAO-1-052;U;Character;Blue;2;1;Sword Art Online [UE07BT];;0
 Kirito;ALO;SAO-1-053;R;Character;Blue;4;1;Sword Art Online [UE07BT];;0
@@ -1150,11 +1150,11 @@ Kirito;GGO;SAO-1-084;C;Character;Green;0;1;Sword Art Online [UE07BT];Draw;0
 Kirito;GGO;SAO-1-085;U;Character;Green;4;1;Sword Art Online [UE07BT];;0
 Kirito;GGO;SAO-1-086;R;Character;Green;3;1;Sword Art Online [UE07BT];Active;0
 Kirito;GGO;SAO-1-087;SR;Character;Green;7;1;Sword Art Online [UE07BT];Raid;0
-Kirito;GGO;SAO-2-071;U;Character;Green;2;1;Sword Art Online Vol.2 [UEX06BT];;0
+Kirito;GGO;SAO-2-071;U;Character;Green;2;1;Sword Art Online Vol.2 [UEX06BT];;1
 Kirito;Progressive;SAO-2-047;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Active;0
 Kirito;Progressive;SAO-2-048;U;Character;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];;0
 Kirito;Progressive;SAO-2-049;SR;Character;Purple;4;2;Sword Art Online Vol.2 [UEX06BT];Get;0
-Kirito;SAO Survivor;SAO-2-036;R;Character;Purple;4;1;Sword Art Online Vol.2 [UEX06BT];Color;0
+Kirito;SAO Survivor;SAO-2-036;R;Character;Purple;4;1;Sword Art Online Vol.2 [UEX06BT];Color;2
 Kisuke Urahara;;BLC-1-037;U;Character;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];;0
 Kisuke Urahara;;BLC-1-038;R;Character;Purple;3;2;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Kisuke Urahara;;BLC-1-102;C;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST];Active;0
@@ -1165,8 +1165,8 @@ Kiyohiko Uzuki;Kamunabi/Anti-Cloud Gouger Special Forces;KGR-1-070;C;Character;R
 Kiyotaka Ijichi;;JJK-1-036;C;Character;Blue;0;1;Jujutsu Kaisen [UE03ST]/Jujutsu Kaisen [UE03BT];;4 # 4 starter deck
 Klein;Aincrad;SAO-1-042;C;Character;Blue;2;1;Sword Art Online [UE07ST]/Sword Art Online [UE07BT];Active;0
 Klein;ALO;SAO-1-072;U;Character;Green;3;1;Sword Art Online [UE07BT];Draw;0
-Klein;ALO;SAO-2-065;C;Character;Green;2;1;Sword Art Online Vol.2 [UEX06BT];Active;0
-Klein;SAO Survivor;SAO-2-037;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Active;0
+Klein;ALO;SAO-2-065;C;Character;Green;2;1;Sword Art Online Vol.2 [UEX06BT];Active;1
+Klein;SAO Survivor;SAO-2-037;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Active;1
 Knights of the Round;;CGH-2-061;U;Event;Green;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;1
 Ko-guy;Cursed Spirit;JJK-3-063;C;Character;Red;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Koenma;;YYH-1-048;C;Character;Green;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;0
@@ -1238,7 +1238,7 @@ Leafa;ALO;SAO-1-060;SR;Character;Blue;3;1;Sword Art Online [UE07BT];Raid;0
 Leafa;ALO;SAO-1-082;C;Character;Green;0;1;Sword Art Online [UE07BT];;1
 Leafa;ALO;SAO-2-023;C;Character;Blue;1;1;Sword Art Online Vol.2 [UEX06BT];;0
 Leafa;ALO;SAO-2-024;R;Character;Blue;4;1;Sword Art Online Vol.2 [UEX06BT];Color;0
-Leafa;ALO;SAO-2-070;C;Character;Green;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Leafa;ALO;SAO-2-070;C;Character;Green;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Lelouch Lamperouge;Ashford Academy;CGH-1-090;C;Character;Red;0;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Lelouch Lamperouge;Ashford Academy;CGH-1-091;U;Character;Red;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Color;0
 Lelouch Lamperouge;Ashford Academy;CGH-1-092;SR;Character;Red;5;1;Code Geass Lelouch of the Rebellion [UE04BT];Raid;0
@@ -1453,9 +1453,9 @@ Misato Katsuragi;WILLE;EVA-1-045;U;Character;Purple;1;1;Evangelion: New Theatric
 Misato Katsuragi;WILLE;EVA-1-046;R;Character;Purple;3;1;Evangelion: New Theatrical Edition [UE15BT];Active;0
 Misato Kuroi;;JJK-3-004;C;Character;Yellow;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Active;0
 Mist Breathing Fifth Form: Sea of Clouds and Haze;;KMY-3-047;U;Event;Blue;4;2;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Special;0
-Misumi Tozawa;Progressive;SAO-2-051;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Get;0
+Misumi Tozawa;Progressive;SAO-2-051;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Get;1
 Mito;;HTR-1-104;C;Character;Green;0;1;Hunter × Hunter [UE02ST];Active;4
-Mito;Progressive;SAO-2-052;U;Character;Purple;1;1;Sword Art Online Vol.2 [UEX06BT];Get;0
+Mito;Progressive;SAO-2-052;U;Character;Purple;1;1;Sword Art Online Vol.2 [UEX06BT];Get;1
 Mito;Progressive;SAO-2-053;R;Character;Purple;3;1;Sword Art Online Vol.2 [UEX06BT];Active;0
 Mito;Progressive;SAO-2-054;SR;Character;Purple;4;1;Sword Art Online Vol.2 [UEX06BT];Raid;0
 Mitsuri Kanroji;Hashira;KMY-1-019;U;Character;Yellow;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
@@ -1595,7 +1595,7 @@ Old Man Fu;Xing;FMA-1-018;U;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];Ac
 Olivier Mira Armstrong;Briggs;FMA-1-057;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];Get;4
 Olivier Mira Armstrong;Briggs;FMA-1-058;U;Character;Blue;1;1;Fullmetal Alchemist [UE09BT];;4
 Olivier Mira Armstrong;Briggs;FMA-1-059;R;Character;Blue;3;1;Fullmetal Alchemist [UE09BT];Color;4
-Olivier Mira Armstrong;Briggs;FMA-1-060;SR;Character;Blue;6;1;Fullmetal Alchemist [UE09BT];Raid;2
+Olivier Mira Armstrong;Briggs;FMA-1-060;SR;Character;Blue;6;1;Fullmetal Alchemist [UE09BT];Raid;4
 Omni-Directional Mobility Gear;;AOT-1-099;R;Event;Red;4;1;Attack on Titan [UE10BT];Special;0
 One Million Miracles;;CGH-2-036;U;Event;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Final;0
 ONE PUNCH;;OPM-1-109;R;Event;Yellow;4;1;One-Punch Man [UE06ST];Draw;4
@@ -1746,7 +1746,7 @@ Rivals;;BCV-1-067;R;Event;Green;3;1;Black Clover [UE08BT];Special;0
 Rivalz Cardemonde;Ashford Academy;CGH-1-089;U;Character;Red;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Riza Hawkeye;;FMA-1-048;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];Get;4
 Riza Hawkeye;;FMA-1-049;U;Character;Blue;3;1;Fullmetal Alchemist [UE09BT];;4
-Riza Hawkeye;;FMA-1-050;R;Character;Blue;1;1;Fullmetal Alchemist [UE09BT];Draw;3
+Riza Hawkeye;;FMA-1-050;R;Character;Blue;1;1;Fullmetal Alchemist [UE09BT];Draw;4
 Riza Hawkeye;;FMA-1-051;SR;Character;Blue;4;1;Fullmetal Alchemist [UE09BT];Raid;2
 Riza Hawkeye;;FMA-1-106;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST];Draw;4
 Ro;Masumi;KGR-1-033;C;Character;Purple;2;1;Kagurabachi [UE16BT];;0
@@ -1940,9 +1940,9 @@ Sinon (Sun Goddess, Solus);Goddess;SAO-1-023;C;Character;Yellow;0;1;Sword Art On
 Sinon (Sun Goddess, Solus);Goddess;SAO-1-024;U;Character;Yellow;2;1;Sword Art Online [UE07BT];;0
 Sinon (Sun Goddess, Solus);Goddess;SAO-1-025;SR;Character;Yellow;4;1;Sword Art Online [UE07BT];Raid;0
 Sinon (Sun Goddess, Solus);Goddess;SAO-2-010;R;Character;Yellow;1;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
-Sinon;;SAO-2-026;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];;0
+Sinon;;SAO-2-026;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];;1
 Sinon;ALO;SAO-1-074;U;Character;Green;1;1;Sword Art Online [UE07BT];;0
-Sinon;ALO;SAO-2-066;U;Character;Green;0;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Sinon;ALO;SAO-2-066;U;Character;Green;0;1;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Sinon;GGO;SAO-1-088;C;Character;Green;0;1;Sword Art Online [UE07BT];Get;0
 Sinon;GGO;SAO-1-089;U;Character;Green;2;1;Sword Art Online [UE07BT];;0
 Sinon;GGO;SAO-1-090;R;Character;Green;3;1;Sword Art Online [UE07BT];Color;0
@@ -2183,7 +2183,7 @@ Tsezguerra;Razor Attack Team;HTR-2-018;R;Character;Yellow;4;1;Hunter × Hunter V
 Tsubame Sanjo;;RNK-1-078;U;Character;Red;1;1;Rurouni Kenshin [UE11ST]/Rurouni Kenshin [UE11BT];;0
 Tsumiki Fushiguro;;JJK-1-018;C;Character;Yellow;0;1;Jujutsu Kaisen [UE03BT];Draw;0
 Tsunan Tsukioka;;RNK-1-084;U;Character;Red;3;1;Rurouni Kenshin [UE11BT];Draw;0
-Ubiquitous dB;Song;SAO-2-061;C;Event;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];Active;0
+Ubiquitous dB;Song;SAO-2-061;C;Event;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];Active;1
 Ui Ui;Jujutsu Sorcerer;JJK-3-046;U;Character;Red;1;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Ultima Ratio Hecate II;;SAO-1-097;U;Event;Green;4;1;Sword Art Online [UE07BT];Special;0
 Ultimate Eye;;FMA-1-098;U;Event;Purple;4;1;Fullmetal Alchemist [UE09BT];Special;4
@@ -2297,7 +2297,7 @@ Younger Toguro;;YYH-P-001;R;Character;Purple;1;1;Yu Yu Hakusho: Ghost Files [UE1
 Your Wish Is My Command, Your Highness!;;EVA-1-061;U;Event;Purple;4;1;Evangelion: New Theatrical Edition [UE15BT];Special;0
 Yu Haibara;;JJK-3-021;C;Character;Blue;1;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Yu Haibara;;JJK-3-022;U;Character;Blue;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
-Yui;;SAO-2-027;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Yui;;SAO-2-027;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Yui;Aincrad;SAO-1-046;U;Character;Blue;1;1;Sword Art Online [UE07ST]/Sword Art Online [UE07BT];;0
 Yui;ALO;SAO-1-008;C;Character;Yellow;0;1;Sword Art Online [UE07BT];;0
 Yui;ALO;SAO-1-055;C;Character;Blue;0;1;Sword Art Online [UE07BT];Draw;0
@@ -2327,7 +2327,7 @@ Yumi Komagata;;RNK-1-034;R;Character;Purple;1;1;Rurouni Kenshin [UE11BT];Draw;0
 Yumichika Ayasegawa;Thirteen Court Guard Squads;BLC-1-067;U;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Yumichika Ayasegawa;Thirteen Court Guard Squads;BLC-2-062;C;Character;Green;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Yuna;;SAO-2-028;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Get;0
-Yuna;;SAO-2-029;C;Character;Purple;1;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Yuna;;SAO-2-029;C;Character;Purple;1;1;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Yuna;;SAO-2-030;U;Character;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
 Yuna;;SAO-2-031;R;Character;Purple;4;1;Sword Art Online Vol.2 [UEX06BT];Raid;0
 Yuna;;SAO-2-032;SR;Character;Purple;3;1;Sword Art Online Vol.2 [UEX06BT];Raid;0
@@ -2360,7 +2360,7 @@ Yuuki;ALO;SAO-1-078;C;Character;Green;0;1;Sword Art Online [UE07BT];Draw;0
 Yuuki;ALO;SAO-1-079;U;Character;Green;2;1;Sword Art Online [UE07BT];;0
 Yuuki;ALO;SAO-1-080;R;Character;Green;4;1;Sword Art Online [UE07BT];Active;0
 Yuuki;ALO;SAO-1-081;SR;Character;Green;4;2;Sword Art Online [UE07BT];Color;0
-Yuuki;ALO;SAO-2-068;U;Character;Green;2;1;Sword Art Online Vol.2 [UEX06BT];Active;0
+Yuuki;ALO;SAO-2-068;U;Character;Green;2;1;Sword Art Online Vol.2 [UEX06BT];Active;1
 Yuuki;ALO;SAO-2-069;SR;Character;Green;4;1;Sword Art Online Vol.2 [UEX06BT];Raid;0
 Zangetsu;;BLC-2-021;U;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
 Zangetsu;Order of the Black Knights/KMF;CGH-2-047;U;Character;Purple;4;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
