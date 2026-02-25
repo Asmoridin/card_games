@@ -3,3 +3,11 @@ From The Shadows
 - Normal damage only converts to severe damage when a character is neutralized. Normal damage has no additional effect on a severely damaged character. Normal damage is removed when a character is unneutralized.
 
 - Unless otherwise specified, "damage" refers to normal damage, not severe damage.
+
+- If 2 cards give a character the ability to take half damage from an attack, the character takes half (not 1/4) damage from the attack; the second bonus is redundant.
+
+- Multipliers to abilites and damage (halving, doubling, etc.) are applied after additive bonuses. So, a character who is benefiting from "Convincing Words" and "Body Armor" and is then attacked substracts 1 from the damage before halving.
+
+- Passing requires and is considered an action.
+
+- If a card effect requires a character to be ready, he cannot be neutralized, unless otherwise specified. A neutralized character cannot take any action besides rotating to heal, and cannot even do that on the turn he becomes neutralized.
