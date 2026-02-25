@@ -3,3 +3,37 @@ From The Shadows
 - Normal damage only converts to severe damage when a character is neutralized. Normal damage has no additional effect on a severely damaged character. Normal damage is removed when a character is unneutralized.
 
 - Unless otherwise specified, "damage" refers to normal damage, not severe damage.
+
+- If 2 cards give a character the ability to take half damage from an attack, the character takes half (not 1/4) damage from the attack; the second bonus is redundant.
+
+- Multipliers to abilites and damage (halving, doubling, etc.) are applied after additive bonuses. So, a character who is benefiting from "Convincing Words" and "Body Armor" and is then attacked substracts 1 from the damage before halving.
+
+- Passing requires and is considered an action.
+
+- If a card effect requires a character to be ready, he cannot be neutralized, unless otherwise specified. A neutralized character cannot take any action besides rotating to heal, and cannot even do that on the turn he becomes neutralized.
+
+- Marks on neutralized characters DO count toward the marks in the faction, and may be manipulated as usual.
+
+- Psi cannot be raised above 0 unless a card specifically increases Psi. Cards which raise "any one ability" or "all abilities" do not increase Psi from a base of 0.
+
+- Ability modifiers granted by a conflict only apply during resolution (this means they do not apply during the turn for attacks, for example). An example of such a modifier is Trade Pact, which doubles some characters' Diplomacy.
+
+- A character must have 1 point of damage to become neutralized due to damage. A character with 0 damage and 0 ability is not neutralized.
+
+- For characters with temporary marks or players with temporary influence who purge or convert marks or who lose or transfer influence: when the effect of a temporary mark or influence expires, the player (or character) who gained the temporary mark or influence loses the influence or a mark of that type. If that would put the character below the minimum (0 marks or 3 influence) they remain at the minimum with no further penalty. Anything transferred is unaffected.
+
+- Aftermath play sequence: one at a time, in initiative order, each player plays one aftermath or passes, continue until all players pass in sequence (in the same fashion as with the action round).
+
+- There has been significant confusion regarding attacks and Level the Playing Field. An example of correct play: The Humans initiate a kidnapping conflict against Delenn. General Hague supports the conflict with 3 Intrigue. The Minbari play Level the Playing Field on Kalain, allowing him to use Leadership to support or oppose the Intrigue conflict (NOT allowing him to use Leadership as Intrigue, there is a difference). Kalain cannot attack General Hague, since he must still attack using the ability General Hague used (which is Intrigue). Kalain then opposes the conflict (with his 4 Leadership). Sinclair can now attack Kalain using Leadership, the same ability Kalain used in the conflict. A Human Agent cannot attack Kalain using Intrigue, since Kalain used a non-standard ability, Leadership, to participate in the conflict. Also, please note that when you become a conflit participant, you must at that time decide which ability you are using for the conflict (and announce it if it is not clear). Playing Level the Playing Field at a later time cannot alter which ability you already selected for use in the conflict.
+
+From Severed Dreams:
+
+- Reducing Power Needed to Win: If a card reduces the amount of power you need to win (such as Steal Babylon 4), and you have sufficient power under that new power requirement, you can win the game even if you do not have more power than any other player. You can thereby circumvent part of the Victory requirements outlined in the standard rules. Note that this makes it possible for more than one player to score a victory simultaneously.
+Example: During the check for victory step of the Draw Round, Londo has 20 power and is thereby eligible to score a standard victory. However, John has the "Steal Babylon 4" agenda and John's faction is targetd by 5 aftermaths that have "Babylon 4" in their effect text, which reduces the power John needs to win by 5. Under normal conditions, John would require 21 power to win (at least 20 and more than any other player, including Londo), but his agenda reduces that number by 5, to 16 power. If John has 16 or more power, he and Londo each score a standard victory this turn.
+
+- Kha'Ri Characters: A "Kha'Ri Character" is any character with a bold-face Kha'Ri title in theif effect text, including such titles as "Representative of the Kha'Ri" and "Kha'Ri intelligence officer".
+
+- Characters with No Printed Cost: A card that does not have an orange bubble in the lower right hand corner has a cost that is "undefined" as far as other cards are concerned. "Undefined" does not mean "zero". It is impossible to apply an "undefined" amount of influence or purge an "undefined" number of marks.
+Example: The effect text for Forces Collide states, "Apply influence equal to the cost of the enhancement, plus 1 per Vorlon Mark required to play the card. Discard the enhancement." Therefore, you cannot use Forces Collide on enhancements with no printed cost bubble, such as Shadow Tech Upgrade, Recalled, or Forced Impairment.
+Cards that do not refer to "cost" specifically CAN target other cards with undefined costs.
+Example: Taunts and Games' effect text reads, "Target a card another player sponsored since your last action. Apply the same amount of influence the player applied..." Since Taunts and Games does not refer to "cost", it is legal to use it on cards with undefined costs, such as a sponsored agenda or the First United Fleet.

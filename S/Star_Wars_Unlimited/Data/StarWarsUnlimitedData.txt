@@ -28,17 +28,17 @@ Admiral Holdo, We're Not Alone;JTL-007-R;Leader;Resistance/Official;6;3;8;G/W;1 
 Admiral Motti, Brazen and Scornful;SOR-226-S;Ground Unit;Imperial/Official;2;1;1;B;3
 Admiral Ozzel, As Clumsy As He Is Stupid;IBH-082-S/IBH-085-S;Ground Unit;Imperial/Official;3;3;1;R/B;0
 Admiral Ozzel, Overconfident;SOR-129-U;Ground Unit;Imperial/Official;2;2;3;R/B;2
+Admiral Piett, Captain of the Executor;SOR-079-U;Ground Unit;Imperial/Official;2;1;4;G/B;3
+Admiral Piett, Commanding the Armada;JTL-005-R;Leader;Imperial/Official;5;2;7;G/B;1
+Admiral Piett, In Command Now;IBH-060-S/IBH-065-S;Ground Unit;Imperial Official;4;2;5;U/B;0
+Admiral Trench, Chk-chk-chk-chk;JTL-014-R;Leader;Separatist/Official;6;4;5;Y/B;0
+Admiral Trench, Holding the Line;TWI-086-U;Ground Unit;Separatist/Official;7;5;5;G/B;3
+Admiral Yularen, Advising Caution;TWI-092-R;Ground Unit;Republic/Official;3;2;5;G/W;3 # 1 hyperspace
+Admiral Yularen, Fleet Coordinator;JTL-047-R;Ground Unit;Republic/Official;3;1;5;U/W;0
+Advanced Recon Commando;TWI-093-C;Ground Unit;Republic/Clone/Trooper;3;4;3;G/W;3
+Agent Kallus, Seeking the Rebels;SOR-115-R;Ground Unit;Imperial/Trooper;5;4;4;G;3 # 1 hyperfoil
+Aggression;SOR-155-L;Event;Innate;4;R/R;1
 # Done with extra data here
-Admiral Piett, Captain of the Executor;SOR-079-U;Ground Unit;G/B;3
-Admiral Piett, Commanding the Armada;JTL-005-R;Leader;G/B;1
-Admiral Piett, In Command Now;IBH-060-S/IBH-065-S;Ground Unit;U/B;0
-Admiral Trench, Chk-chk-chk-chk;JTL-014-R;Leader;Y/B;0
-Admiral Trench, Holding the Line;TWI-086-U;Ground Unit;G/B;3
-Admiral Yularen, Advising Caution;TWI-092-R;Ground Unit;G/W;3 # 1 hyperspace
-Admiral Yularen, Fleet Coordinator;JTL-047-R;Ground Unit;U/W;0
-Advanced Recon Commando;TWI-093-C;Ground Unit;G/W;3
-Agent Kallus, Seeking the Rebels;SOR-115-R;Ground Unit;G;3 # 1 hyperfoil
-Aggression;SOR-155-L;Event;R;1
 Aggressive Negotiations;SEC-179-U;Event;R;2
 Aggrieved Parliamentarian;TWI-252-C;Ground Unit;N;3
 Ahsoka Tano, Always Ready For Trouble;TWI-194-L;Ground Unit;Y/W;0
@@ -1633,3 +1633,13 @@ Benthic “Two Tubes”, The War Has Just Begun;LAW-057-R;Ground Unit;Underworld
 Honor-Bound Partisan;LAW-058-U;Ground Unit;Rebel/Twi'lek;2;2;2;G/R;0
 Highsinger, Deadly Droid;LAW-059-R;Ground Unit;Underworld/Droid/Bounty Hunter;3;4;2;G/R;0
 Quarren Contractor;LAW-060-C;Ground Unit;Underworld;4;3;4;G/R;0
+Asajj Ventress, Reluctant Hunter;LAW-061-R;Ground Unit;Force/Underworld/Bounty Hunter;5;3;3;G/R;0
+Defiant Hammerhead;LAW-062-U;Space Unit;Rebel/Vehicle/Capital Ship;6;6;6;G/R;0
+L3-37, Radical Instigator;LAW-063-L;Ground Unit;Underworld/Droid;6;3;2;G/R;0
+Zuckuss, Dangerous;LAW-064-R;Ground Unit;Underworld/Bounty Hunter;4;3;5;G/Y/B;0
+4-LOM, Devious;LAW-065-U;Ground Unit;Underworld/Droid/Bounty Hunter;5;4;5;G/Y/B;0
+Tear This Ship Apart;LAW-066-L;Event;Tactic;7;G/Y/B;0
+Jyn Erso, Take The Next Chance;LAW-067-R;Ground Unit;Rebel;2;2;2;G/Y/W;0
+Millennium Falcon, Dodging Patrols;LAW-068-U;Space Unit;Rebel/Vehicle/Transport;3;2;5;G/Y/W;0
+The Ghost, Home of the Spectres;LAW-069-R;Space Unit;Rebel/Vehicle/Transport/Spectre;6;4;4;G/Y/W;0
+Devaronian Doorbuster;LAW-070-C;Ground Unit;Underworld;2;3;2;G/Y;0
