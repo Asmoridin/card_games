@@ -451,6 +451,8 @@ Akodo Kano, Master Tactician • Experienced 3;Personality;Lion;Rise of Otosan U
 Akodo Kano, Master Tactician • Experienced 3;Personality;Lion;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
 Akodo Kano;Personality;Lion;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
 Akodo Katsumoto;Personality;Lion;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;0
+Akodo Kenaro;Personality;Lion;Ivory Edition (Uncommon)/A Matter of Honor (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Akodo Kenaro;Personality;Lion;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Akodo Ketsu, Soul of Akodo Uehara;Personality;Lion;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Akodo Ketsu, Soul of Akodo Uehara;Personality;Lion;Shattered Empire (Fixed);Shattered Empire;3;0
 Akodo Kin;Personality;Lion;The Harbinger (Common);Destroyer War (Celestial);3;0
@@ -501,6 +503,8 @@ Akodo Nojima • Experienced;Personality;Lion;Gates of Tengoku (Fixed);Shattered
 Akodo Osamu;Personality;Lion;Rise of the Shogun (Rare);Age of Enlightenment (Lotus);3;0
 Akodo Quehao;Personality;Lion/Spirit;The War of Spirits (Rare);Hidden Emperor (Jade);3;1
 Akodo Raemon;Personality;Lion;The Dead of Winter (Rare);Destroyer War (Celestial);3;0
+Akodo Raikitsu;Personality;Lion;The New Order (Rare);A Brother's Destiny (Ivory Edition);3;0
+Akodo Raikitsu;Personality;Lion;The New Order (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Akodo Regulars;Follower;;War of Honor (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
 Akodo Regulars;Follower;;War of Honor (Fixed);Destroyer War (Celestial);3;0
 Akodo Rokku;Personality;Lion;Web of Lies (Uncommon);Age of Enlightenment (Lotus);3;0
@@ -2221,7 +2225,20 @@ Burn the Mind;Spell;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Burn the Mind;Spell;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Burn the Towers;Strategy;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Burn the Towers;Strategy;;Path of the Destroyer (Common);Destroyer War (Celestial);3;0
+Burn the Village;Strategy;;The Harbinger (Rare);Destroyer War (Celestial);3;0
+Burned Village;Strategy;;Glory of the Empire (Common);Destroyer War (Celestial);3;0
+Burned Village;Strategy;;Glory of the Empire (Common);Race for the Throne (Samurai);3;0
+Burning Blade;Spell;;Broken Blades (Common);Four Winds (Gold);3;0
+Burning Blood;Spell;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
+Burning Dreams;Event;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
+Burning Dreams;Event;;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
+Burning Smoke;Spell;;Heaven & Earth (Common);Four Winds (Gold);3;0
+Burning Smoke;Spell;;Heaven & Earth (Common);Rain of Blood (Diamond);3;0
 Burning the Ashes;Spell;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Burning the Tombs;Strategy;;An Oni's Fury (Rare);Four Winds (Gold);3;0
+Burning Your Essence;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
+Burning Your Essence;Strategy;;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
+Burning Your Essence;Strategy;;Time of the Void (Rare);Clan Wars (Imperial);3;0
 Burnt Offering;Strategy;;Chaos Reigns II (Fixed);Shattered Empire;3;0
 Bushi Dojo;Holding;;Forbidden Knowledge (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Bushi Dojo;Holding;;Gold Edition (Common);Four Winds (Gold);3;0
@@ -6489,6 +6506,8 @@ The First Scroll Is Opened;Event;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imp
 The First Wedding;Event;;Dawn of the Empire (Fixed)/Tomorrow (Fixed);Age of Enlightenment (Lotus);1;0
 The First Wedding;Event;;Dawn of the Empire (Fixed);Rain of Blood (Diamond);1;0
 The Fog of War;Strategy;;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;1
+The Forgotten Temple;Stronghold;Unaligned;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
+The Forgotten Temple;Stronghold;Unaligned;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
 The Forgotten;Follower;;Road to Ruin (Fixed);Shattered Empire;3;0
 The Forgotten;Follower;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 The Fortune's Wisdom;Strategy;;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;1
@@ -7491,10 +7510,8 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1180
-#1187
+# Done through card #1190
 #1196
-#1190
 #1202
 #1205
 #1212
@@ -8148,8 +8165,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8068
 #8083
 #8090
-#8092-8093
-#8095-8096
+#8092-8096
 #8098
 #8126-8127
 #8143
@@ -8427,7 +8443,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11141
 #11149
 #11167-11169
-#11178
+#11178-11179
 #11182
 #11187
 #11198-11199
@@ -8496,6 +8512,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11874-11876
 #11880-11881
 #11883
+#11902
 #11906
 #11908
 #11911
