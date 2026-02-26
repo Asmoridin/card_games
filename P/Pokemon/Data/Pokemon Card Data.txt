@@ -574,7 +574,7 @@ Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
 Frogadier;Pokemon;Water;90;;Numbing Water;TWM 57 (Common);H;4;0
 Clefairy;Pokemon;Psychic;60;;Moon Kick;TWM 78 (Common)/ASC 74 (Common);H;4;0
 Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (Uncommon);H;4;0
-Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare);H;4;0
+Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare)/ASC 99 (Rare);H;4;0
 Greninja ex;Pokemon;Fighting;310;;Shinobi Blade|Mirage Barrage;TWM 106 (Double Rare)/TWM 198 (Ultra Rare)/TWM 214 (Special Illustration Rare);H;4;0
 Dreepy;Pokemon;Dragon;70;;Petty Grudge|Bite;TWM 128 (Common)/PRE 71 (Common)/ASC 158 (Common)/ASC 247 (Illustration Rare);H;4;0
 Drakloak;Pokemon;Dragon;90;Recon Directive;Dragon Headbutt;TWM 129 (Common)/PRE 72 (Common)/ASC 159 (Common)/ASC 248 (Illustration Rare);H;4;0
@@ -644,6 +644,7 @@ Iono's Wattrel;Pokemon;Lightning;60;;Quick Attack;JTG 54 (Common)/ASC 71 (Common
 Iono's Kilowattrel;Pokemon;Lightning;120;Flashing Draw;Mach Bolt;JTG 55 (Rare)/JTG 163 (Illustration Rare)/SVP 182 (Promo)/ASC 72 (Rare);I;4;0
 Lillie's Clefairy ex;Pokemon;Psychic;190;Fairy Zone;Full Moon Rondo;JTG 56 (Double Rare)/JTG 173 (Ultra Rare)/JTG 184 (Special Illustration Rare)/SVP 195 (Promo)/ASC 76 (Double Rare)/ASC 280 (Special Illustration Rare);I;4;0
 Shuppet;Pokemon;Psychic;60;;Spooky Shot;JTG 59 (Common)/ASC 90 (Common);I;4;0
+Banette;Pokemon;Psychic;90;;Cursed Words|Spooky Shot;JTG 60 (Uncommon)/ASC 91 (Uncommon)/ASC 234 (Illustration Rare);I;4;0
 Larvitar;Pokemon;Fighting;70;;Crunch;JTG 80 (Common);I;4;1
 Pupitar;Pokemon;Fighting;90;;Take Down;JTG 81 (Common);I;4;1
 Tyranitar;Pokemon;Darkness;190;Daunting Gaze;Cracking Stomp;JTG 95 (Rare);I;4;1
@@ -688,6 +689,7 @@ Team Rocket's Zapdos;Pokemon;Lightning;120;;Jamming Wing|Wicked Thunder;DRI 70 (
 Team Rocket's Ampharos;Pokemon;Lightning;140;Darkest Impulse;Head Bolt;DRI 74 (Uncommon);I;4;1
 Team Rocket's Mewtwo ex;Pokemon;Psychic;280;Power Saver;Erasure Ball;DRI 81 (Double Rare)/DRI 213 (Ultra Rare)/DRI 231 (Special Illustration Rare)/DRI 240 (Hyper Rare)/SVP 205 (Promo)/SVP 216 (Promo)/ASC 79 (Double Rare)/ASC 281 (Special Illustration Rare);I;4;1
 Team Rocket's Chingling;Pokemon;Psychic;30;;Chiming Commotion;DRI 85 (Common);I;4;1
+Team Rocket's Mimikyu;Pokemon;Psychic;60;;Gemstone Mimicry;DRI 87 (Uncommon)/ASC 97 (Uncommon)/ASC 238 (Team Rocket's Mimikyu);I;4;0
 Team Rocket's Dottler;Pokemon;Psychic;80;;Disruptive Radar|Super Psy Bolt;DRI 88 (Common);I;4;1 # 1 reverse foil
 Ethan's Sudowoodo;Pokemon;Fighting;110;;Impound|Try to Imitate;DRI 93 (Common);I;4;1
 Team Rocket's Larvitar;Pokemon;Fighting;70;;Mountain Munch;DRI 94 (Common);I;4;1
@@ -798,7 +800,13 @@ Marill;Pokemon;Psychic;70;;Hide|Flop;ASC 83 (Common)/ASC 232 (Illustration Rare)
 Azumarill ex;Pokemon;Psychic;270;Bubble Gathering;Energized Balloon;ASC 84 (Double Rare);J;4;0
 Misdreavus;Pokemon;Psychic;60;;Ascension;ASC 85 (Common)/ASC 233 (Illustration Rare);I;4;0
 Mismagius;Pokemon;Psychic;110;;Assassin's Magic;ASC 86 (Rare);I;4;0
-# ASC 90 done
+Rotom;Pokemon;Psychic;60;;Roto Call|Gadget Show;ASC 92 (Common);I;4;0
+Swirlix;Pokemon;Psychic;60;;Ram;ASC 93 (Common);J;4;0
+Slurpuff;Pokemon;Psychic;120;;Tackle|Magical Shot;ASC 94 (Uncommon)/ASC 236 (Illustration Rare);J;4;0
+Hop's Phantump;Pokemon;Psychic;70;;Splashing Dodge;ASC 95 (Common);I;4;0
+Hop's Trevenant;Pokemon;Psychic;140;;Horrifying Revenge|Corner;ASC 96 (Rare)/ASC 237 (Illustration Rare);I;4;0
+Spectrier;Pokemon;Psychic;120;;Spooky Shot|Phantasmal Barrage;ASC 98 (Rare);I;4;0
+Team Rocket's Diglett;Pokemon;Fighting;60;;Relentless Burrowing;ASC 100 (Common);I;4;0
 
 # ASC 123 done
 # ASC 136-137 done
@@ -806,8 +814,7 @@ Mismagius;Pokemon;Psychic;110;;Assassin's Magic;ASC 86 (Rare);I;4;0
 # ASC 158-160 done
 # ASC 181 done
 # ASC 183 done
-# ASC 216-233 done- last of cards
-# ASC 235 done
+# ASC 216-238 done- last of cards
 # ASC 247-248 done
 # ASC 265-266 done
 # ASC 272-275 done
