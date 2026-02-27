@@ -38,17 +38,17 @@ Admiral Yularen, Fleet Coordinator;JTL-047-R;Ground Unit;Republic/Official;3;1;5
 Advanced Recon Commando;TWI-093-C;Ground Unit;Republic/Clone/Trooper;3;4;3;G/W;3
 Agent Kallus, Seeking the Rebels;SOR-115-R;Ground Unit;Imperial/Trooper;5;4;4;G;3 # 1 hyperfoil
 Aggression;SOR-155-L;Event;Innate;4;R/R;1
+Aggressive Negotiations;SEC-179-U;Event;Tactic;3;R;2
+Aggrieved Parliamentarian;TWI-252-C;Ground Unit;Separatist/Official;2;2;2;N;3
+Ahsoka Tano, Always Ready For Trouble;TWI-194-L;Ground Unit;Force/Jedi/Republic;3;3;4;Y/W;0
+Ahsoka Tano, Chasing Whispers;JTL-201-R;Ground Unit;Fringe/Force;4;3;5;Y/W;2
+Ahsoka Tano, Fighting For Peace;LOF-003-C;Leader;Force/Fringe;6;5;6;U/W;1 # 1 hyperspace
+Ahsoka Tano, I Learned It From You;SEC-096-S;Ground Unit;Force/Jedi/Republic;3;2;5;G/W;3
+Ahsoka Tano, Snips;TWI-011-S;Leader;Force/Jedi/Republic;5;3;6;R/W;1
+Ahsoka's Padawan Lightsaber;TWI-248-S;Upgrade;Item/Weapon/Lightsaber;1;2;0;W;3
+Aid from the Innocent;TWI-201-R;Event;Gambit;5;Y/W;0
+Air Superiority;JTL-125-C;Event;Tactic;2;G;3
 # Done with extra data here
-Aggressive Negotiations;SEC-179-U;Event;R;2
-Aggrieved Parliamentarian;TWI-252-C;Ground Unit;N;3
-Ahsoka Tano, Always Ready For Trouble;TWI-194-L;Ground Unit;Y/W;0
-Ahsoka Tano, Chasing Whispers;JTL-201-R;Ground Unit;Y/W;2
-Ahsoka Tano, Fighting For Peace;LOF-003-C;Leader;U/W;1 # 1 hyperspace
-Ahsoka Tano, I Learned It From You;SEC-096-S;Ground Unit;G/W;3
-Ahsoka Tano, Snips;TWI-011-S;Leader;R/W;1
-Ahsoka's Padawan Lightsaber;TWI-248-S;Upgrade;W;3
-Aid from the Innocent;TWI-201-R;Event;Y/W;0
-Air Superiority;JTL-125-C;Event;G;3
 Alderaanian Envoys;SEC-066-C;Ground Unit;U;3
 Alexsandr Kallus, With New Purpose;SEC-155-R;Ground Unit;R/W;1 # 1 foil
 All Wings Report In;JTL-122-C;Event;G;3
@@ -1643,3 +1643,13 @@ Jyn Erso, Take The Next Chance;LAW-067-R;Ground Unit;Rebel;2;2;2;G/Y/W;0
 Millennium Falcon, Dodging Patrols;LAW-068-U;Space Unit;Rebel/Vehicle/Transport;3;2;5;G/Y/W;0
 The Ghost, Home of the Spectres;LAW-069-R;Space Unit;Rebel/Vehicle/Transport/Spectre;6;4;4;G/Y/W;0
 Devaronian Doorbuster;LAW-070-C;Ground Unit;Underworld;2;3;2;G/Y;0
+The Max Rebo Band, Jatz-Wailers;LAW-071-U;Ground Unit;Underworld/Musician;3;1;5;G/Y;0
+Max Rebo, Encore!;LAW-072-L;Ground Unit;Underworld/Musician;4;2;7;G/Y;0
+Patient Hunter;LAW-073-U;Ground Unit;Bounty Hunter;4;3;3;G/Y;0
+Maz Kanata, Where's My Boyfriend?;LAW-074-L;Underworld;5;4;4;G/Y;0
+Interrogation Droid;LAW-075-U;Ground Unit;Imperial/Droid;2;3;1;R/Y/B;0
+Vult Skerris's Defender, Secret Project;LAW-076-R;Space Unit;Imperial/Vehicle/Fighter;3;3;3;R/Y/B;0
+Shadow of Stygeon Prime;LAW-077-R;Upgrade;Condition;4;0;0;R/Y/B;0
+Sabine Wren, Spectre Five;LAW-078-U;Ground Unit;Mandalorian/Rebel/Spectre;3;3;3;R/Y/W;0
+K-2SO, Locking the Vault;LAW-079-R;Ground Unit;Rebel/Droid;5;3;5;R/Y/W;0
+Luke Skywalker, Profit or Be Destroyed;LAW-080-L;Ground Unit;Force/Jedi/Rebel;7;9;7;R/Y/W;0
