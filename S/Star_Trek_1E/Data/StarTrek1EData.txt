@@ -430,10 +430,17 @@ Corez;Personnel;Kazon;Voyager;98;;4;0
 Corner Enemy Ship;Mission;Space;The Borg;879;;2;0
 Cortical Node Implant;Incident;;The Borg;880;;4;0
 Cosmic String Fragment;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;881,6072,6435,6798,7126,7720,8084;;4;1
+Council of Warriors;Objective;;The Trouble with Tribbles/Homefront II;882,3874;;4;0
+Counterintelligence;Interrupt;;Blaze of Glory;883;;4;0
+Countermanda;Interrupt;;Alternate Universe/Warp Pack;884,7170;;4;0
 Coutu;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;99,7104;;4;0
+Covert Installation II;Mission;Planet;Enhanced Premiere;886,887;;2;0
 Covert Installation;Mission;Planet;Premiere;885,6073,6436,6799;;2;1
+Covert Rescue;Mission;Planet;Premiere;888,6074,6437,6800,7722,8086;;2;0
+Cranial Transceiver Implant;Event;;The Borg;889;;4;0
 Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 Cravic Warship;Ship;Non-Aligned;Holodeck Adventures;101;;4;0
+Crell Moset;Personnel;Cardassian;Holodeck Adventures;890;2;;0
 Crew Advancement;Dilemma;Dual;Homefront VI;4667;;4;4
 Crewman Wilson;Personnel;Federation;Mirror, Mirror;102,4843;;4;0
 Cryosatellite;Artifact;;Alternate Universe;898;;2;2
@@ -1049,9 +1056,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 880
-#881
-#885
+# Done through card 890
 #898-899
 #906
 #909
@@ -1245,6 +1250,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3856
 #3858-3859
 #3866-3867
+#3874
 #3885
 #3888
 #3890
@@ -1392,7 +1398,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6073
+#5966-6074
 #6076
 #6078-6080
 #6082-6083
@@ -1459,7 +1465,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6436
+#6328-6437
 #6439
 #6441-6443
 #6445-6446
@@ -1526,7 +1532,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6685-6686
 #6691-6787
 #6688
-#6788-6799
+#6788-6800
 #6802
 #6804-6806
 #6808-6809
@@ -1601,7 +1607,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7152
 #7159
 #7164-7165
-#7168-7169
+#7168-7170
 #7173
 #7179-7180
 #7183-7231
@@ -1622,6 +1628,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7546
 #7613
 #7615-7720
+#7722
 #7726-7728
 #7730-7731
 #7733-7735
@@ -1699,6 +1706,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8071
 #8073-8077
 #8079-8084
+#8086
 #8090-8092
 #8094
 #8105
