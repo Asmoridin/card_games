@@ -246,7 +246,7 @@ Mega Heracross ex;Pokemon;Grass;280;;Juggernaut Horn|Mountain Ramming;PFL 4 (Dou
 Mega Kangaskhan ex;Pokemon;Colorless;300;Run Errand;Rapid-Fire Combo;MEG 104 (Double Rare)/MEG 164 (Ultra Rare)/MEG 182 (Special Illustration Rare)/MEP 25 (Promo);I;4;0
 Mega Latias ex;Pokemon;Dragon;280;;Strafe|Illusory Impulse;MEG 100 (Double Rare)/MEG 163 (Ultra Rare)/MEG 181 (Special Illustration Rare)/MEP 11 (Promo);I;4;0
 Mega Lopunny ex;Pokemon;Colorless;330;;Gale Thrust|Spiky Hopper;PFL 84 (Double Rare)/PFL 115 (Ultra Rare)/PFL 128 (Special Illustration Rare);I;4;1
-Mega Lucario ex;Pokemon;Fighting;340;;Aura Jab|Mega Brave;MEG 77 (Double Rare)/MEG 160 (Ultra Rare)/MEG 179 (Special Illustration Rare)/MEG 188 (Mega Hyper Rare)/MEP 12 (Promo)/MEP 33 (Promo);I;4;0
+Mega Lucario ex;Pokemon;Fighting;340;;Aura Jab|Mega Brave;MEG 77 (Double Rare)/MEG 160 (Ultra Rare)/MEG 179 (Special Illustration Rare)/MEG 188 (Mega Hyper Rare)/MEP 12 (Promo)/MEP 33 (Promo)/ASC 113 (Double Rare);I;4;0
 Mega Manectric ex;Pokemon;Lightning;330;;Flash Ray|Riotout Blasting;MEG 50 (Double Rare)/MEG 158 (Ultra Rare);I;4;0
 Mega Mawile ex;Pokemon;Metal;270;;Gobble Down|Huge Bite;MEG 94 (Double Rare)/MEG 162 (Ultra Rare);I;4;0
 Mega Sharpedo ex;Pokemon;Darkness;330;;Greedy Fang|Hungry Jaws;PFL 61 (Double Rare)/PFL 113 (Ultra Rare)/PFL 127 (Special Illustration Rare);I;4;0
@@ -328,7 +328,7 @@ Reshiram ex;Pokemon;Fire;230;;Slash|Blazing Burst;WHT 20 (Double Rare)/WHT 158 (
 Reshiram;Pokemon;Fire;130;;Combustion|Burning Flare;PFL 17 (Rare);I;4;1
 Reuniclus;Pokemon;Psychic;140;;Cellular Ascension|Evo-Lariat;BLK 39 (Uncommon)/SVP 212 (Promo);I;4;0
 Riolu;Pokemon;Fighting;60;;Low Kick;Brilliant Stars 78 (Common)/Crown Zenith 71 (Common);F;4;1
-Riolu;Pokemon;Fighting;80;;Accelerating Stab;MEG 76 (Common)/MEP 10 (Promo);I;4;0
+Riolu;Pokemon;Fighting;80;;Accelerating Stab;MEG 76 (Common)/MEP 10 (Promo)/ASC 112 (Common);I;4;0
 Risky Ruins;Trainer;Stadium;;;;MEG 127 (Uncommon);I;4;0
 Roggenrola;Pokemon;Fighting;80;;Harden|Rolling Rocks;WHT 46 (Common)/WHT 127 (Illustration Rare);I;4;0
 Rotom ex;Pokemon;Lightning;190;Multi Adapter;Thunderbolt;PFL 29 (Double Rare)/PFL 111 (Ultra Rare)/PFL 126 (Special Illustration Rare);I;4;0
@@ -673,9 +673,14 @@ Crustle;Pokemon;Grass;150;Mysterious Rock Inn;Superb Scissors;DRI 12 (Rare)/DRI 
 Fomantis;Pokemon;Grass;60;;Cut Up;DRI 13 (Common);I;4;2 # 1 reverse holofoil
 Lurantis;Pokemon;Grass;120;;Razor Leaf|Petal Blade Dance;DRI 14 (Uncommon);I;4;0
 Team Rocket's Blipbug;Pokemon;Grass;60;;Searching Eyes;DRI 15 (Common);I;4;1
-
+Applin;Pokemon;Grass;40;;Mini Drain;DRI 16 (Common);I;4;0
+Dipplin;Pokemon;Grass;90;;Energy Loop;DRI 17 (Common);I;4;0
+Hydrapple;Pokemon;Grass;170;;Hydra Breath|Whip Smash;DRI 18 (Rare)/DRI 188 (Illustration Rare);I;4;0
 Team Rocket's Tarountula;Pokemon;Grass;50;;Take Down;DRI 19 (Common)/ASC 18 (Common);I;4;0
 Team Rocket's Spidops;Pokemon;Grass;130;Charging Up;Rocket Rush;DRI 20 (Rare)/DRI 187 (Illustration Rare)/ASC 19 (Rare);I;4;1 # 1 reverse foil
+Smoliv;Pokemon;Grass;60;;Ram;DRI 21 (Common);I;4;0
+Dolliv;Pokemon;Grass;90;;Nutrients|Tackle;DRI 22 (Common);I;4;0
+
 Growlithe;Pokemon;Fire;80;;Live Coal|Dig Claws;DRI 27 (Common);I;4;1
 Ethan's Cyndaquil;Pokemon;Fire;70;;Ember;DRI 32 (Common);I;4;2 # 1 reverse foil
 Ethan's Slugma;Pokemon;Fire;80;;Steady Firebreathing;DRI 35 (Common)/ASC 23 (Common);I;4;1
@@ -706,7 +711,7 @@ Medicham;Pokemon;Fighting;120;;Harmonious Spirit Palm;DRI 100 (Uncommon);I;4;2
 Regirock ex;Pokemon;Fighting;230;;Regi Charge|Giant Rock;DRI 101 (Double Rare)/DRI 214 (Ultra Rare)/ASC 107 (Double Rare);I;4;0
 Cynthia's Gible;Pokemon;Fighting;70;;Rock Hurl;DRI 102 (Common)/ASC 109 (Common);I;4;1 # 1 reverse foil
 Cynthia's Gabite;Pokemon;Fighting;100;Champion's Call;Dragonslice;DRI 103 (Common)/ASC 110 (Uncommon);I;4;0
-Cynthia's Garchomp ex;Pokemon;Fighting;330;;Corkscrew Dive|Draconic Buster;DRI 104 (Double Rare)/DRI 215 (Ultra Rare)/DRI 232 (Special Illustration Rare)/DRI 241 (Hyper Rare)/SVP 204 (Promo);I;4;1
+Cynthia's Garchomp ex;Pokemon;Fighting;330;;Corkscrew Dive|Draconic Buster;DRI 104 (Double Rare)/DRI 215 (Ultra Rare)/DRI 232 (Special Illustration Rare)/DRI 241 (Hyper Rare)/SVP 204 (Promo)/ASC 111 (Double Rare);I;4;1
 Hippopotas;Pokemon;Fighting;90;;Push Down;DRI 105 (Common);I;4;1
 Mudsdale;Pokemon;Fighting;150;Mud Coat;Heavy Impact;DRI 108 (Uncommon);I;4;1
 Arven's Toedscool;Pokemon;Fighting;70;;Slight Intrusion;DRI 109 (Common);I;4;2
@@ -738,8 +743,7 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon);I;4;1
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182 done - last orig card
-# DRI 183-187 done
+# DRI 182-188 done - last orig card
 # DRI 193 done
 # DRI 202 done
 # DRI 206 done
@@ -819,7 +823,13 @@ Hitmontop;Pokemon;Fighting;100;;Spin and Draw|Low Kick;ASC 102 (Common)/ASC 240 
 Meditite;Pokemon;Fighting;70;;Collect|Gentle Slap;ASC 103 (Common);I;4;0
 Medicham;Pokemon;Fighting;120;;Seventh Kick;ASC 104 (Common)/ASC 241 (Illustration Rare);I;4;0
 Groudon;Pokemon;Fighting;140;;Hammer In|Megaton Fall;ASC 108 (Rare);J;4;0
-# ASC 110 done
+Stunfisk ex;Pokemon;Fighting;210;;Big Bite|Flopping Trap;ASC 114 (Double Rare)/ASC 252 (Ultra Rare);J;4;0
+Pancham;Pokemon;Fighting;70;;Reckless Charge;ASC 115 (Common);I;4;0
+Mega Hawlucha ex;Pokemon;Fighting;250;Tenacious Body;Somersault Dive;ASC 116 (Double Rare)/ASC 268 (Mega Attack Rare)/ASC 283 (Special Illustration Rare);I;4;0
+Carbink;Pokemon;Fighting;90;Double Type;Counter Jewel;ASC 117 (Uncommon)/ASC 242 (Illustration Rare);J;4;0
+Rolycoly;Pokemon;Fighting;80;;Mud-Slap;ASC 118 (Common);I;4;0
+Carkol;Pokemon;Fighting;110;;Guard Press|Power Gem;ASC 119 (Common);I;4;0
+Coalossal;Pokemon;Fighting;180;;Tar Cannon|Bulky Bump;ASC 120 (Rare);I;4;0
 
 # ASC 123 done
 # ASC 136-137 done
@@ -827,11 +837,13 @@ Groudon;Pokemon;Fighting;140;;Hammer In|Megaton Fall;ASC 108 (Rare);J;4;0
 # ASC 158-160 done
 # ASC 181 done
 # ASC 183 done
-# ASC 216-241 done- last of cards
+# ASC 216-242 done- last of cards
 # ASC 247-248 done
+# ASC 252 done
 # ASC 265-266 done
+# ASC 268
 # ASC 272-275 done
 # ASC 277-281 done
-# ASC 284 done
+# ASC 283-284 done
 # ASC 286 done
 # ASC 294 done
