@@ -58,17 +58,17 @@ Altering the Deal;SHD-243-R;Event;Trick;1;B;0
 Always Two;LOF-042-L;Event;Sith;4;U/B;2
 Ambition's Reward;SEC-175-C;Upgrade;Law;2;1;1;R;3
 Amnesty Housing;SEC-025-C;Base;Coruscant;30;Y;1 # 1 hyperspace
-# Done with extra data here
-Anakin Skywalker, Champion of Mortis;LOF-070-L;Ground Unit;U;0
-Anakin Skywalker, Force Prodigy;LOF-190-S;Ground Unit;Y/W;3 # 1 foil
-Anakin Skywalker, I'll Try Spinning;JTL-197-U;Ground Unit;Y/W;2
-Anakin Skywalker, Maverick Mentor;TWI-147-S;Ground Unit;R/W;3
-Anakin Skywalker, Secret Husband;SEC-201-S;Ground Unit;Y/W;3 # 1 hyperfoil
-Anakin Skywalker, Tempted by the Dark Side;LOF-018-R;Leader;W;1
-Anakin Skywalker, What it Takes to Win;TWI-012-C;Leader;R/W;1
-Anakin's Interceptor, Where the Fun Begins;TWI-142-U;Space Unit;R/W;2
-Ando Commission;SEC-262-C;Ground Unit;N;3
-Annihilator, Tagge's Flagship;JTL-041-L;Space Unit;U/B;0
+Anakin Skywalker, Champion of Mortis;LOF-070-L;Ground Unit;Force/Jedi/Republic;6;5;7;U;0
+Anakin Skywalker, Force Prodigy;LOF-190-S;Ground Unit;Force/Fringe;1;1;1;Y/W;3 # 1 foil
+Anakin Skywalker, I'll Try Spinning;JTL-197-U;Ground Unit;Force/Fringe/Pilot;2;2;3;Y/W;2
+Anakin Skywalker, Maverick Mentor;TWI-147-S;Ground Unit;Force/Jedi/Republic;5;6;6;R/W;3
+Anakin Skywalker, Secret Husband;SEC-201-S;Ground Unit;Force/Jedi/Republic;3;3;4;Y/W;3 # 1 hyperfoil
+Anakin Skywalker, Tempted by the Dark Side;LOF-018-R;Leader;Force/Jedi/Republic;5;4;6;W;1
+Anakin Skywalker, What it Takes to Win;TWI-012-C;Leader;Force/Jedi/Republic;6;4;7;R/W;1
+Anakin's Interceptor, Where the Fun Begins;TWI-142-U;Space Unit;Jedi/Republic/Vehicle/Fighter;2;2;3;R/W;2
+Ando Commission;SEC-262-C;Ground Unit;Separatist/Official;4;4;3;N;3
+Annihilator, Tagge's Flagship;JTL-041-L;Space Unit;Imperial/Vehicle/Capital Ship;11;12;12;U/B;0
+# Done through here
 Apology Accepted;JTL-091-U;Event;G/B;1
 Ardent Sympathizer;SOR-161-C;Ground Unit;R;3
 Arihnda Pryce, On The Road To Power;SEC-136-R;Ground Unit;R/B;2
@@ -1663,3 +1663,13 @@ Jango Fett, Wily Mercenary;LAW-087-U;Ground Unit;Underworld/Bounty Hunter;6;6;5;
 Anakin Skywalker, Prescient Podracer;LAW-088-R;Ground Unit;Force;2;2;4;Y/U/W;0
 Kanan Jarrus, Spectre One;LAW-089-U;Ground Unit;Force/Jedi/Rebel/Spectre;4;3;4;Y/U/W;0
 Toydarian Technician;LAW-090-C;Ground Unit;Underworld;2;2;3;Y/U;0
+Val, It's Been a Ride, Babe;LAW-091-U;Ground Unit;Underworld;2;2;4;Y/U;0
+Two-Faced Troig;LAW-092-R;Ground Unit;Underworld;3;2;4;Y/U;0
+Rio Durant, Beckett's Right Hands;LAW-093-R;Ground Unit;Underworld;4;2;5;Y/U;0
+Hondo Ohnaka, Plays By His Own Rules;LAW-094-L;Ground Unit;Underworld;5;3;7;Y/U;0
+Finn, Looking Closer;LAW-095-U;Ground Unit;Resistance;6;6;5;Y/U;0
+Rhydonium Detonation;LAW-096-R;Event;Tactic;7;Y/U;0
+Imperial Door Technician;LAW-097-C;Ground Unit;Imperial/Trooper;1;2;2;U/B;0
+Vandor Range Troopers;LAW-098-C;Ground Unit;Imperial/Trooper;4;4;6;U/B;0
+Governor's Shuttle;LAW-099-U;Space Unit;Imperial/Vehicle/Transport;5;2;4;U/B;0
+IGV-55 Listener;LAW-100-C;Space Unit;Imperial/Vehicle/Capital Ship;6;5;6;U/B;0
