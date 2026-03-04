@@ -400,7 +400,7 @@ Blanc;Tetra Line/777;NIK-1-074;U;Character;Green;2;1;Goddess of Victory: Nikke [
 Blood Crane;;KGR-1-036;U;Event;Purple;5;1;Kagurabachi [UE16BT];Special;0
 Blue Planet;Specified Slot;HTR-2-049;U;Site;Blue;2;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;1
 Blut;;BLC-1-032;C;Event;Yellow;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
-Bomb;;OPM-1-001;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Active;4 # have 4 starter
+Bomb;;OPM-1-001;C;Character;Yellow;0;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];Active;4 # have 4 starter, 1 booster
 Bomb;;OPM-1-002;U;Character;Yellow;3;1;One-Punch Man [UE06BT];Active;0
 Bombs;;AOT-1-032;C;Event;Blue;2;1;Attack on Titan [UE10BT];;0
 Bonolenov & Kortopi;Phantom Troupe;HTR-1-047;C;Character;Purple;1;1;Hunter × Hunter [UE02BT];;0
@@ -569,7 +569,7 @@ Dorothy;Pilgrim/Inherit;NIK-1-043;SR;Character;Purple;5;1;Goddess of Victory: Ni
 Dr. Ichigaki;;YYH-1-021;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Dragon Head: Long-Tou Xi-Hua!;;HTR-1-066;U;Event;Purple;4;1;Hunter × Hunter [UE02BT];Special;0
 Dragon of the Darkness Flame;;YYH-1-097;R;Event;Red;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Special;0
-Dragon Pummelin';;OPM-1-066;U;Event;Green;4;1;One-Punch Man [UE06BT];Special;0
+Dragon Pummelin';;OPM-1-066;U;Event;Green;4;1;One-Punch Man [UE06BT];Special;1
 Drake;Missilis/Matis;NIK-1-086;C;Character;Green;0;1;Goddess of Victory: Nikke [UE14BT];;4
 Drake;Missilis/Matis;NIK-1-087;R;Character;Green;4;1;Goddess of Victory: Nikke [UE14BT];Active;2
 Driscoll Berci;Stern Ritters;BLC-1-009;U;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
@@ -708,7 +708,7 @@ Genos;Hero;OPM-1-006;R;Character;Yellow;2;1;One-Punch Man [UE06BT];;0
 Genos;Hero;OPM-1-007;SR;Character;Yellow;3;1;One-Punch Man [UE06BT];Color;0
 Genos;Hero;OPM-1-046;C;Character;Green;0;1;One-Punch Man [UE06BT];Draw;0
 Genos;Hero;OPM-1-047;U;Character;Green;3;1;One-Punch Man [UE06BT];Draw;0
-Genos;Hero;OPM-1-048;R;Character;Green;4;1;One-Punch Man [UE06BT];Raid;0
+Genos;Hero;OPM-1-048;R;Character;Green;4;1;One-Punch Man [UE06BT];Raid;1
 Genos;Hero;OPM-1-101;U;Character;Yellow;3;1;One-Punch Man [UE06ST];Draw;4
 Genos;Hero;OPM-1-102;SR;Character;Yellow;4;1;One-Punch Man [UE06ST];Raid;4
 Genthru;The Bomber;HTR-1-020;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];Get;1
@@ -828,10 +828,10 @@ Heathcliff;Aincrad;SAO-1-044;U;Character;Blue;4;2;Sword Art Online [UE07BT];Get;
 Heavens Arena;;HTR-1-095;U;Site;Green;3;1;Hunter × Hunter [UE02BT];Get;1
 Hellfire Flame;Monster Association;OPM-1-084;U;Character;Red;2;1;One-Punch Man [UE06BT];;0
 Hellish Blizzard;Hero;OPM-1-019;C;Character;Yellow;0;1;One-Punch Man [UE06BT];Draw;0
-Hellish Blizzard;Hero;OPM-1-020;U;Character;Yellow;1;1;One-Punch Man [UE06BT];;0
-Hellish Blizzard;Hero;OPM-1-021;U;Character;Yellow;2;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;4 # have 4 starter
+Hellish Blizzard;Hero;OPM-1-020;U;Character;Yellow;1;1;One-Punch Man [UE06BT];;1
+Hellish Blizzard;Hero;OPM-1-021;U;Character;Yellow;2;1;One-Punch Man [UE06ST]/One-Punch Man [UE06BT];;4 # have 4 starter, 1 booster
 Hellish Blizzard;Hero;OPM-1-022;R;Character;Yellow;3;1;One-Punch Man [UE06BT];Color;0
-Hellish Blizzard;Hero;OPM-1-023;SR;Character;Yellow;4;1;One-Punch Man [UE06BT];Raid;0
+Hellish Blizzard;Hero;OPM-1-023;SR;Character;Yellow;4;1;One-Punch Man [UE06BT];Raid;1
 Hellish Blizzard;Hero;OPM-1-107;C;Character;Yellow;3;1;One-Punch Man [UE06ST];Active;4
 Hellstorm;;OPM-1-028;C;Event;Yellow;3;1;One-Punch Man [UE06BT];Draw;0
 Helm;Elysion/Aegis;NIK-1-002;U;Character;Yellow;2;1;Goddess of Victory: Nikke [UE14BT];;4
@@ -1260,7 +1260,7 @@ Leorio;;HTR-1-092;SR;Character;Green;4;1;Hunter × Hunter [UE02BT];Active;0
 Leorio;;HTR-1-105;C;Character;Green;3;1;Hunter × Hunter [UE02ST];Active;4
 Leorio;;HTR-2-070;R;Character;Green;3;1;Hunter × Hunter Vol.2 [UEX04BT];;0
 Let's Go Home;;FMA-1-109;R;Event;Yellow;2;1;Fullmetal Alchemist [UE09ST];;4
-Let's Go;;OPM-1-026;C;Event;Yellow;2;1;One-Punch Man [UE06BT];Active;1
+Let's Go;;OPM-1-026;C;Event;Yellow;2;1;One-Punch Man [UE06BT];Active;2
 Levi;Levi Squad;AOT-1-007;C;Character;Blue;0;1;Attack on Titan [UE10BT];Get;0
 Levi;Levi Squad;AOT-1-008;U;Character;Blue;1;1;Attack on Titan [UE10BT];;0
 Levi;Levi Squad;AOT-1-009;R;Character;Blue;2;1;Attack on Titan [UE10BT];Color;0
@@ -1407,7 +1407,7 @@ Merge;;HTR-2-031;C;Event;Yellow;3;1;Hunter × Hunter Vol.2 [UEX04BT];Active;0
 Metal Bat;Hero;OPM-1-042;C;Character;Green;0;1;One-Punch Man [UE06BT];Get;1
 Metal Bat;Hero;OPM-1-043;U;Character;Green;2;1;One-Punch Man [UE06BT];Color;1
 Metal Bat;Hero;OPM-1-044;SR;Character;Green;4;1;One-Punch Man [UE06BT];Color;0
-Metal Knight;Hero;OPM-1-059;C;Character;Green;3;1;One-Punch Man [UE06BT];;0
+Metal Knight;Hero;OPM-1-059;C;Character;Green;3;1;One-Punch Man [UE06BT];;1
 Midori Kitakami;WILLE;EVA-1-047;C;Character;Purple;3;1;Evangelion: New Theatrical Edition [UE15BT];;0
 Mihara;Missilis/Wardress;NIK-1-024;U;Character;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];;4
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-023;C;Character;Blue;0;1;Attack on Titan [UE10BT];Draw;0
@@ -1656,7 +1656,7 @@ Pure Titan (Relaxing Titan);Pure Titan/Abnormal Titan;AOT-1-049;C;Character;Gree
 Pure Titan (Small Titan);Pure Titan;AOT-1-040;C;Character;Green;2;1;Attack on Titan [UE10BT];;0
 Pure Titans (Zeke's Titans);Pure Titan;AOT-1-041;U;Character;Green;2;1;Attack on Titan [UE10BT];Draw;0
 Purge;;KMY-1-064;C;Event;Purple;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Draw;0
-Puri-puri Prisoner;Hero;OPM-1-058;C;Character;Green;1;1;One-Punch Man [UE06BT];Active;0
+Puri-puri Prisoner;Hero;OPM-1-058;C;Character;Green;1;1;One-Punch Man [UE06BT];Active;1
 Puu;;YYH-1-055;C;Character;Green;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Puu;;YYH-1-056;U;Character;Green;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;0
 Quilge Opie;Stern Ritters;BLC-1-005;U;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
@@ -2026,7 +2026,7 @@ Suguru Geto;;JJK-3-025;C;Character;Purple;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Suguru Geto;;JJK-3-037;C;Character;Red;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Active;0
 Suguru Geto;;JJK-3-038;U;Character;Red;2;1;Jujutsu Kaisen Vol.2 [UEX02BT];Active;0
 Suguru Geto;;JJK-3-039;SR;Character;Red;5;1;Jujutsu Kaisen Vol.2 [UEX02BT];Get;0
-Suiryu;;OPM-1-034;C;Character;Green;0;1;One-Punch Man [UE06BT];Draw;0
+Suiryu;;OPM-1-034;C;Character;Green;0;1;One-Punch Man [UE06BT];Draw;1
 Sukuna;;JJK-1-047;R;Character;Blue;5;1;Jujutsu Kaisen [UE03BT];Get;0
 Sukuna;;JJK-1-048;SR;Character;Blue;6;2;Jujutsu Kaisen [UE03BT];Get;0
 Sukuna;;JJK-1-105;SR;Character;Blue;4;1;Jujutsu Kaisen [UE03ST];Raid;4
@@ -2089,7 +2089,7 @@ Tasty Bread;;BLC-1-062;C;Event;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01S
 Tasty!;;KMY-1-095;C;Event;Red;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Draw;0
 Team Genthru;The Bomber;HTR-2-044;R;Character;Blue;4;1;Hunter × Hunter Vol.2 [UEX04BT];Color;0
 Tecchin Tecchikawahara;Swordsmith Village;KMY-3-028;U;Character;Blue;0;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
-Tempest Wind;Monster Association;OPM-1-086;U;Character;Red;1;1;One-Punch Man [UE06BT];;0
+Tempest Wind;Monster Association;OPM-1-086;U;Character;Red;1;1;One-Punch Man [UE06BT];;1
 Ten Shadows Technique;;JJK-1-033;U;Event;Yellow;3;1;Jujutsu Kaisen [UE03BT];Special;0
 Tenchi Kaijin;;BLC-1-099;U;Event;Green;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Special;0
 Tengen Uzui;Hashira;KMY-1-018;C;Character;Yellow;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Draw;0
@@ -2113,7 +2113,7 @@ Terrible Tornado;Hero;OPM-1-111;R;Character;Green;7;1;One-Punch Man [UE06BT];Dra
 Testing Gate;;HTR-1-061;U;Site;Purple;3;1;Hunter × Hunter [UE02BT];;1
 That Day is What Drives Me. You Just Made the Reason Clearer;;KGR-1-077;U;Event;Red;3;1;Kagurabachi [UE16BT];Final;0
 The Ark;;NIK-1-108;U;Site;Yellow;2;1;Goddess of Victory: Nikke [UE14BT];Get;4
-The Beast King;House of Evolution;OPM-1-094;C;Character;Red;3;1;One-Punch Man [UE06BT];;0
+The Beast King;House of Evolution;OPM-1-094;C;Character;Red;3;1;One-Punch Man [UE06BT];;1
 The Blizzard Bunch;;OPM-1-025;U;Site;Yellow;3;1;One-Punch Man [UE06BT];Get;0
 The Clover Kingdom;;BCV-1-063;C;Site;Green;3;1;Black Clover [UE08BT];Get;0
 The Dark Tournament;;YYH-1-029;U;Site;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
