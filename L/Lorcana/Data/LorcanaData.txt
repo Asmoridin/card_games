@@ -143,19 +143,19 @@ Beast - Thick-Skinned;Character;Steel;Storyborn/Hero/Prince;Ursula's Return (Com
 Beast - Tragic Hero;Character;Steel;Floodborn/Hero/Prince;Rise of the Floodborn (Legendary);0
 Beast - Wolfsbane;Character;Emerald;Dreamborn/Hero/Prince;The First Chapter (Legendary);0
 Beast - Wounded;Character;Ruby;Storyborn/Hero/Prince;Ursula's Return (Uncommon);0
-# Traits done through here
 Beast's Mirror;Item;Steel;;The First Chapter (Common)/Fabled (Common);1
 Befuddle;Action;Amethyst;;The First Chapter (Uncommon);0
 Begone!;Action;Amethyst;;Whispers in the Well (Common);0
-Belle - Accomplished Mystic;Character;Amethyst;;Ursula's Return (Super Rare)/Fabled (Super Rare);0
-Belle - Apprentice Inventor;Character;Sapphire;;Archazia's Island (Common);3
-Belle - Bookworm;Character;Emerald;;Rise of the Floodborn (Uncommon);0
-Belle - Hidden Archer;Character;Emerald;;Rise of the Floodborn (Legendary);0
-Belle - Inventive Engineer;Character;Sapphire;;The First Chapter (Uncommon)/Fabled (Uncommon);2
-Belle - Mechanic Extraordinaire;Character;Ruby/Sapphire;;Archazia's Island (Super Rare);1
-Belle - Of the Ball;Character;Sapphire;;Shimmering Skies (Rare);1
-Belle - Strange but Special;Character;Sapphire;;The First Chapter (Legendary);0
-Belle - Untrained Mystic;Character;Amethyst;;Ursula's Return (Common)/Fabled (Common);0
+Belle - Accomplished Mystic;Character;Amethyst;Floodborn/Hero/Princess/Sorcerer;Ursula's Return (Super Rare)/Fabled (Super Rare);0
+Belle - Apprentice Inventor;Character;Sapphire;Storyborn/Hero/Princess/Inventor;Archazia's Island (Common);3
+Belle - Bookworm;Character;Emerald;Storyborn/Hero/Princess;Rise of the Floodborn (Uncommon);0
+Belle - Hidden Archer;Character;Emerald;Floodborn/Hero/Princess;Rise of the Floodborn (Legendary);0
+Belle - Inventive Engineer;Character;Sapphire;Dreamborn/Hero/Princess/Inventor;The First Chapter (Uncommon)/Fabled (Uncommon);2
+Belle - Mechanic Extraordinaire;Character;Ruby/Sapphire;Floodborn/Hero/Princess/Inventor;Archazia's Island (Super Rare);1
+Belle - Of the Ball;Character;Sapphire;Dreamborn/Hero/Princess;Shimmering Skies (Rare);1
+Belle - Strange but Special;Character;Sapphire;Storyborn/Hero/Princess;The First Chapter (Legendary);0
+Belle - Untrained Mystic;Character;Amethyst;Dreamborn/Hero/Princess;Ursula's Return (Common)/Fabled (Common);0
+# Traits done through here
 Belle's Favorite Book;Item;Sapphire;;Reign of Jafar (Rare);0
 Belle's House - Maurice's Workshop;Location;Sapphire;;Into the Inklands (Rare);0
 Bellwether - Assistant Mayor;Character;Emerald;;Azurite Sea (Uncommon);1
@@ -1579,7 +1579,7 @@ Stolen Scimitar;Item;Emerald;;The First Chapter (Common);2
 Stopped Chaos in its Tracks;Action;Emerald;;Reign of Jafar (Uncommon);0
 Stratos - Tornado Titan;Character;Amethyst;;Into the Inklands (Rare);0
 Strength of a Raging Fire;Action;Steel;;Rise of the Floodborn (Rare)/Fabled (Rare);2
-Strike a Good Match;Action;Emerald;Song;Into the Inklands (Common)/Winterspell (Common);0
+Strike a Good Match;Action;Emerald;Song;Into the Inklands (Common)/Winterspell (Common);1
 Sudden Chill;Action;Emerald;;The First Chapter (Common)/Fabled (Common);1
 Sudden Scare;Action;Sapphire;;Whispers in the Well (Uncommon);0
 Sugar Rush Speedway - Starting Line;Location;Ruby;;Shimmering Skies (Rare);0
@@ -1892,27 +1892,27 @@ Jumba Jookiba - Prolific Inventor;Character;Amber;Storyborn/Ally/Alien/Inventor;
 Nani - Stage Manager;Character;Amber;Dreamborn/Hero;Winterspell (Uncommon);0
 Reuben - Sandwich Expert;Character;Amber;Storyborn/Ally/Alien;Winterspell (Rare);0
 Pocahontas - Peacekeeper;Character;Amber;Floodborn/Hero/Princess;Winterspell (Legendary);0
-Simba - Playful Pouncer;Character;Amber;Storyborn/Hero/Prince;Winterspell (Uncommon);0
+Simba - Playful Pouncer;Character;Amber;Storyborn/Hero/Prince;Winterspell (Uncommon);1
 Bambi - Ethereal Fawn;Character;Amber;Storyborn/Hero/Prince/Whisper;Winterspell (Super Rare);0
 Angel - Siren Singer;Character;Amber;Storyborn/Ally/Alien;Winterspell (Uncommon);0
 Widow Tweed - Kindly Soul;Character;Amber;Storyborn/Ally;Winterspell (Rare);0
-Percy - Pupsicle;Character;Amber;Storyborn/Ally;Winterspell (Common);0
+Percy - Pupsicle;Character;Amber;Storyborn/Ally;Winterspell (Common);1
 Raging Storm;Action;Amber;;Winterspell (Super Rare);0
 Akood Et Emuti;Action;Amber;Song;Winterspell (Rare);0
-Mother Will Protect You;Action;Amber;Song;Winterspell (Common);0
+Mother Will Protect You;Action;Amber;Song;Winterspell (Common);1
 Wisdom of the Willow;Action;Amber;;Winterspell (Uncommon);0
-Ohana Means Family;Action;Amber;;Winterspell (Legendary);0
+Ohana Means Family;Action;Amber;;Winterspell (Legendary);1
 John Smith's Compass;Item;Amber;;Winterspell (Rare);0
 Zootopia - Tundratown;Location;Amber;;Winterspell (Common);0
 Nala - Romping in the Snow;Character;Amethyst;Storyborn/Ally;Winterspell (Common);0
 Alice - Well‐Read Whisper;Character;Amethyst;Storyborn/Hero/Whisper;Winterspell (Uncommon);0
-Tigger - Bouncing All the Way;Character;Amethyst;Storyborn/Tigger;Winterspell (Common);0
+Tigger - Bouncing All the Way;Character;Amethyst;Storyborn/Tigger;Winterspell (Common);1
 Isis Vanderchill - Ice Queen of St. Canard;Character;Amethyst;Storyborn/Super/Villain;Winterspell (Common);0
 Flit - Reflective Hummingbird;Character;Amethyst;Storyborn/Ally;Winterspell (Uncommon);0
 Morgana Macawber - Self‐Centered Spellcaster;Character;Amethyst;Storyborn/Super/Villain/Sorcerer;Winterspell (Common);0
 Rabbit - Fed Up;Character;Amethyst;Storyborn/Ally;Winterspell (Uncommon);0
 Pocahontas - Following the Wind;Character;Amethyst;Dreamborn/Hero/Princess;Winterspell (Super Rare);0
-Darkwing Duck - Darkwolf Dog;Character;Amethyst;Storyborn/Super/Hero/Detective;Winterspell (Common);0
+Darkwing Duck - Darkwolf Dog;Character;Amethyst;Storyborn/Super/Hero/Detective;Winterspell (Common);1
 Taran - Magically Armed;Character;Amethyst;Storyborn/Hero;Winterspell (Uncommon);0
 Eeyore - In the Way;Character;Amethyst;Storyborn/Ally;Winterspell (Rare);0
 Meeko - Skittish Scrounger;Character;Amethyst;Storyborn/Ally;Winterspell (Uncommon);0
@@ -1920,7 +1920,7 @@ Morgana Macawber - Reformed Spellcaster;Character;Amethyst;Floodborn/Super/Hero/
 Tinker Bell - Snowflake Collector;Character;Amethyst;Dreamborn/Ally/Fairy;Winterspell (Legendary);0
 Genie - Magical Researcher;Character;Amethyst;Storyborn/Ally/Whisper;Winterspell (Rare);0
 Anna - Soothing Sister;Character;Amethyst;Floodborn/Hero/Queen;Winterspell (Legendary);0
-Kristoff - Icy Explorer;Character;Amethyst;Dreamborn/Ally;Winterspell (Rare);0
+Kristoff - Icy Explorer;Character;Amethyst;Dreamborn/Ally;Winterspell (Rare);1
 Anna - Little Sister;Character;Amethyst;Storyborn/Hero/Queen;Winterspell (Uncommon);0
 Marshmallow - Cranky Climber;Character;Amethyst;Dreamborn/Ally;Winterspell (Rare);0
 Space Cows - Unexpected Allies;Character;Amethyst;Storyborn/Ally/Alien;Winterspell (Common);0
@@ -1931,7 +1931,7 @@ HeiHei - Persistent Presence;Character;Amethyst;Dreamborn/Ally;Winterspell (Comm
 Pua - Disgruntled Pig;Character;Amethyst;Storyborn/Ally;Winterspell (Common);0
 Sven - Leaping Reindeer;Character;Amethyst;Dreamborn/Ally;Winterspell (Super Rare);0
 Do You Want to Build a Snowman?;Action;Amethyst;Song;Winterspell (Rare);0
-Come Out and Fight!;Action;Amethyst;;Winterspell (Common);0
+Come Out and Fight!;Action;Amethyst;;Winterspell (Common);1
 Swordplay;Action;Amethyst;;Winterspell (Common);0
 Colors of the Wind;Action;Amethyst;Song;Winterspell (Super Rare);0
 Mother's Necklace;Item;Amethyst;;Winterspell (Uncommon);0
@@ -1939,8 +1939,8 @@ Mystical Inkcaster;Item;Amethyst;;Winterspell (Rare);0
 Pot of Honey;Item;Amethyst;;Winterspell (Common);0
 The Frozen Vine - Monstrous Plant;Location;Amethyst;;Winterspell (Uncommon);0
 Mulan - Resourceful Recruit;Character;Emerald;Storyborn/Hero/Princess;Winterspell (Super Rare);0
-Stitch - Naughty Experiment;Character;Emerald;Storyborn/Hero/Alien;Winterspell (Common);0
-Big Mama - Clever and Calming;Character;Emerald;Storyborn/Ally;Winterspell (Uncommon);0
+Stitch - Naughty Experiment;Character;Emerald;Storyborn/Hero/Alien;Winterspell (Common);1
+Big Mama - Clever and Calming;Character;Emerald;Storyborn/Ally;Winterspell (Uncommon);1
 Minnie Mouse - Spinning Skater;Character;Emerald;Storyborn/Hero;Winterspell (Common);0
 Yao - Snow Warrior;Character;Emerald;Storyborn/Ally;Winterspell (Common);0
 Chien‐Po - Snow Warrior;Character;Emerald;Storyborn/Ally;Winterspell (Uncommon);0
@@ -1966,14 +1966,14 @@ Donald Duck - Fred Honeywell;Character;Emerald;Storyborn/Ally;Winterspell (Legen
 Snowball Fight;Action;Emerald;;Winterspell (Common);0
 Freeze the Vine;Action;Emerald;;Winterspell (Rare);0
 Education or Elimination;Action;Emerald;Song;Winterspell (Rare);0
-Snow Fort;Item;Emerald;;Winterspell (Uncommon);0
+Snow Fort;Item;Emerald;;Winterspell (Uncommon);1
 Rafiki's Bakora Staff;Item;Emerald;;Winterspell (Uncommon);0
 Retro Evolution Device;Item;Emerald;;Winterspell (Rare);0
 Battering Ram;Item;Emerald;;Winterspell (Rare);0
 Game Preserve - Protected Land;Location;Emerald;;Winterspell (Common);0
 Wreck‐It Ralph - Raging Wrecker;Character;Ruby;Storyborn/Hero/Whisper;Winterspell (Legendary);0
 Scrooge McDuck - Ghostly Ebenezer;Character;Ruby;Dreamborn/Villain/Ghost;Winterspell (Uncommon);0
-Donald Duck - Nephew Fred;Character;Ruby;Storyborn/Ally;Winterspell (Common);0
+Donald Duck - Nephew Fred;Character;Ruby;Storyborn/Ally;Winterspell (Common);2
 Taurus Bulba - Steerminator;Character;Ruby;Storyborn/Super/Villain;Winterspell (Common);0
 Copper - On the Scent;Character;Ruby;Storyborn/Hero;Winterspell (Uncommon);0
 Mulan - Ready for Battle;Character;Ruby;Storyborn/Hero/Princess;Winterspell (Uncommon);0
@@ -1994,8 +1994,33 @@ Olaf - Snowman of Action;Character;Ruby;Storyborn/Ally;Winterspell (Rare);0
 Elsa - Ice Artisan;Character;Ruby;Floodborn/Hero/Queen/Sorcerer;Winterspell (Legendary);0
 Scrooge McDuck - Ebenezer Scrooge;Character;Ruby;Storyborn/Villain;Winterspell (Super Rare);0
 Elsa - Concerned Sister;Character;Ruby;Storyborn/Hero/Queen/Sorcerer;Winterspell (Uncommon);0
-Willie the Giant - Ghost of Christmas Present;Character;Ruby;Storyborn/Ally/Ghost/Giant;Winterspell (Rare);0
+Willie the Giant - Ghost of Christmas Present;Character;Ruby;Storyborn/Ally/Ghost/Giant;Winterspell (Rare);1
 Nani's Payback;Action;Ruby;;Winterspell (Super Rare);0
 Force of a Great Typhoon;Action;Ruby;Song;Winterspell (Common);0
 Marching Off to Battle;Action;Ruby;Song;Winterspell (Common);0
 The Cold Never Bothered Me;Action;Ruby;Song;Winterspell (Rare);0
+Grab Your Bow;Action;Ruby;Song;Winterspell (Uncommon);0
+Lonely Grave;Item;Ruby;;Winterspell (Uncommon);0
+Kristoff's Lute;Item;Ruby;;Winterspell (Rare);0
+Scrooge's Counting House - Ebenezer's Office;Location;Ruby;;Winterspell (Uncommon);0
+Graveyard of Christmas Future - Lonely Resting Place;Location;Ruby;;Winterspell (Rare);0
+Beast's Castle - Winter Gardens;Location;Ruby;;Winterspell (Common);0
+Roo - Little Helper;Character;Sapphire;Storyborn/Ally/Whisper;Winterspell (Uncommon);0
+Kanga - Peaceful Gatherer;Character;Sapphire;Storyborn/Ally/Whisper;Winterspell (Common);0
+Piglet - Entranced by Snow;Character;Sapphire;Storyborn/Ally;Winterspell (Common);0
+Mickey Mouse - Tiny Tim's Father;Character;Sapphire;Storyborn/Hero;Winterspell (Common);0
+
+Tiny Tim's Crutch;Item;Sapphire;;Winterspell (Common);2
+
+Darkwing's Gas Device;Item;Sapphire;;Winterspell (Uncommon);1
+
+Launchpad - Hideout Defender;Character;Steel;Dreamborn/Ally;Winterspell (Uncommon);1
+
+Gantu - Hamsterviel's Accomplice;Character;Steel;Storyborn/Alien/Captain;Winterspell (Uncommon);1
+
+McHorn - Ice‐Cold Officer;Character;Steel;Dreamborn/Ally/Detective;Winterspell (Common);1
+
+John Smith - Undaunted Protector;Character;Steel;Dreamborn/Hero;Winterspell (Super Rare);1
+
+The Terror That Flaps in the Night;Action;Steel;;Winterspell (Common);1
+Let's Get Dangerous;Action;Steel;Song;Winterspell (Rare);1

@@ -8,7 +8,7 @@ Albus Ferros;Unit;Order;Piltover;4;0;3;Origins (Rare);1
 Altar of Memories;Gear;Order;;2;0;;Spiritforged (Rare);1
 Altar to Unity;Battlefield;Colorless;;;;;Origins (Uncommon);2
 Ancient Henge;Gear;Body;;2;1;;Spiritforged (Epic);0
-Ancient Warmonger;Unit;Chaos;Noxus/Spirit;5;0;4;Spiritforged (Uncommon);1
+Ancient Warmonger;Unit;Chaos;Noxus/Spirit;5;0;4;Spiritforged (Uncommon);3
 Angle Shot;Spell;Fury;;2;0;;Spiritforged (Uncommon);0
 Anivia, Primal;Champion Unit;Body;Anivia/Freljord/Bird;7;2;8;Origins (Rare);0
 Annie, Fiery;Champion Unit;Fury;Annie/Noxus;5;1;4;Proving Grounds (Epic);0
@@ -21,22 +21,22 @@ Arise!;Signature Spell;Calm/Order;Azir;6;1;;Spiritforged (Epic);0
 Armed Assailant;Unit;Fury;Noxus;6;1;6;Spiritforged (Common);2
 Aspirant's Climb;Battlefield;Colorless;;;;;Origins (Uncommon);1
 Aspiring Engineer;Unit;Mind;Piltover;3;1;3;Spiritforged (Common);3
-Assembly Rig;Gear;Fury;;4;0;;Spiritforged (Rare);1
+Assembly Rig;Gear;Fury;;4;0;;Spiritforged (Rare);2
 Ava Achiever;Unit;Mind;Bandle City/Yordle;5;0;4;Origins (Rare);0
 Azir, Ascendant;Champion Unit;Calm;Azir/Shurima/Bird;6;1;6;Spiritforged (Rare);1
-Azir, Sovereign;Champion Unit;Order;Azir/Shurima/Bird;4;0;4;Spiritforged (Epic);0
+Azir, Sovereign;Champion Unit;Order;Azir/Shurima/Bird;4;0;4;Spiritforged (Epic);1
 B.F. Sword;Gear;Order;Equipment;4;0;;Spiritforged (Uncommon);3
 Back to Back;Spell;Order;;3;0;;Origins (Common);2
 Back-Alley Bar;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Baited Hook;Gear;Order;;3;0;;Origins (Epic);0
 Bandle Tree;Battlefield;Colorless;;;;;Origins (Uncommon);0
-Bard, Mercurial;Champion Unit;Mind;Bard;4;1;4;Spiritforged (Rare);0
+Bard, Mercurial;Champion Unit;Mind;Bard;4;1;4;Spiritforged (Rare);1
 Battering Ram;Unit;Fury;Noxus/Trifarian;5;0;5;Spiritforged (Uncommon);0
-Battle Mistress;Legend;Body/Chaos;Sivir;;;;Spiritforged (Rare);0
+Battle Mistress;Legend;Body/Chaos;Sivir;;;;Spiritforged (Rare);1
 Beast Below;Unit;Chaos;Bilgewater;7;2;8;Spiritforged (Uncommon);1
 Bellows Breath;Spell;Mind;;1;1;;Spiritforged (Rare);1
 Bilgewater Bully;Unit;Body;Bilgewater;6;0;6;Origins (Common);2
-Black Market Broker;Unit;Chaos;Zaun;3;0;3;Spiritforged (Common);0
+Black Market Broker;Unit;Chaos;Zaun;3;0;3;Spiritforged (Common);1
 Blade Dancer;Legend;Calm/Chaos;Irelia;;;;Spiritforged (Rare);1
 Blade of the Ruined King;Gear;Order;Equipment;3;1;;Spiritforged (Epic);0
 Blast Corps Cadet;Unit;Fury;Piltover;2;0;2;Spiritforged (Uncommon);0
@@ -50,12 +50,12 @@ Block;Spell;Calm;;2;0;;Origins (Uncommon);0
 Blood Money;Spell;Order;;2;0;;Spiritforged (Uncommon);0
 Blood Rush;Spell;Fury;;1;0;;Spiritforged (Common);1
 Body Rune;Rune;Body;;0;0;;Origins (Common);12
-Bonds of Strength;Spell;Order;;2;0;;Spiritforged (Common);1
+Bonds of Strength;Spell;Order;;2;0;;Spiritforged (Common);2
 Boneshiver;Gear;Body;Equipment;3;0;;Spiritforged (Epic);0
 Boots of Swiftness;Gear;Chaos;Equipment;3;0;;Spiritforged (Uncommon);0
 Bounty Hunter;Legend;Body/Chaos;Miss Fortune;;;;Origins (Rare);1
 Brazen Buccaneer;Unit;Fury;Bilgewater/Pirate;6;0;5;Origins (Common);3
-Breakneck Mech;Unit;Mind;Bandle City/Yordle/Mech;8;2;7;Spiritforged (Uncommon);2
+Breakneck Mech;Unit;Mind;Bandle City/Yordle/Mech;8;2;7;Spiritforged (Uncommon);3
 Brutalizer;Gear;Calm;Equipment;2;0;;Spiritforged (Uncommon);0
 Brynhir Thundersong;Unit;Fury;Freljord;6;0;5;Origins (Rare);0
 Bubble Bot;Unit;Mind;Bandle City/Yordle/Mech;3;0;3;Spiritforged (Common);3
@@ -64,8 +64,8 @@ Bullet Time;Signature Spell;Body/Chaos;Miss Fortune;1;0;;Origins (Epic);0
 Bushwhack;Spell;Fury;;2;1;;Spiritforged (Common);1
 Caitlyn, Patrolling;Champion Unit;Calm;Caitlyn/Piltover;3;1;3;Origins (Rare);1
 Call to Glory;Spell;Order;;3;0;;Origins (Common);0
-Called Shot;Spell;Chaos;;0;1;;Spiritforged (Common);1
-Calm Rune;Rune;Calm;;0;0;;Origins (Common);9
+Called Shot;Spell;Chaos;;0;1;;Spiritforged (Common);2
+Calm Rune;Rune;Calm;;0;0;;Origins (Common);10
 Cannon Barrage;Spell;Body;;2;1;;Origins (Common);2
 Captain Farron;Unit;Fury;Noxus/Trifarian;4;1;5;Origins (Uncommon);1
 Card Sharp;Unit;Mind;Bilgewater;3;0;3;Spiritforged (Rare);0
@@ -94,7 +94,7 @@ Crackshot Corsair;Unit;Body;Bilgewater/Pirate;3;0;3;Origins (Common);0
 Cruel Patron;Unit;Order;Noxus;4;0;6;Origins (Common);3
 Cull the Weak;Spell;Order;;2;1;;Origins (Common);3
 Cull;Gear;Chaos;Equipment;1;0;;Spiritforged (Uncommon);0
-Danger Zone;Signature Spell;Fury/Mind;Rumble;1;1;;Spiritforged (Epic);1
+Danger Zone;Signature Spell;Fury/Mind;Rumble;1;1;;Spiritforged (Epic);2
 Dangerous Duo;Unit;Fury;Mech/Bandle City;3;0;3;Origins (Uncommon);3
 Daring Poro;Unit;Order;Poro;2;0;2;Origins (Common);3
 Darius, Executioner;Champion Unit;Order;Darius/Noxus/Trifarian;6;1;6;Origins (Epic);0
@@ -108,16 +108,16 @@ Deathgrip;Spell;Order;;2;0;;Spiritforged (Uncommon);0
 Decisive Strike;Signature Spell;Body/Order;Garen;5;1;;Proving Grounds (Epic);0
 Defiant Dance;Signature Spell;Calm/Chaos;Irelia;1;1;;Spiritforged (Epic);0
 Defy;Spell;Calm;;1;1;;Origins (Common);0
-Desert's Call;Spell;Calm;;2;0;;Spiritforged (Common);1
-Detonate;Spell;Fury;;1;1;;Spiritforged (Common);1
-Direwing;Unit;Body;Demacia/Dragon;7;0;7;Spiritforged (Common);0
+Desert's Call;Spell;Calm;;2;0;;Spiritforged (Common);2
+Detonate;Spell;Fury;;1;1;;Spiritforged (Common);2
+Direwing;Unit;Body;Demacia/Dragon;7;0;7;Spiritforged (Common);1
 Disarming Rake;Unit;Calm;Demacia;3;1;2;Spiritforged (Common);1
 Discipline;Spell;Calm;;2;0;;Origins (Uncommon);3
 Disintegrate;Spell;Fury;;4;0;;Origins (Common);0
 Divine Judgment;Spell;Order;;7;2;;Origins (Epic);0
 Doran's Blade;Gear;Body;Equipment;2;0;;Spiritforged (Common);3
 Doran's Ring;Gear;Chaos;Equipment;1;0;;Spiritforged (Common);0
-Doran's Shield;Gear;Calm;Equipment;1;0;;Spiritforged (Common);2
+Doran's Shield;Gear;Calm;Equipment;1;0;;Spiritforged (Common);3
 Downwell;Spell;Chaos;;8;2;;Spiritforged (Epic);0
 Dr. Mundo, Expert;Champion Unit;Mind;Dr. Mundo/Zaun;8;2;6;Origins (Rare);0
 Drag Under;Spell;Order;;5;1;;Spiritforged (Uncommon);2
@@ -129,7 +129,7 @@ Dropboarder;Unit;Mind;Zaun;4;0;4;Spiritforged (Uncommon);2
 Dune Drake;Unit;Body;Shurima/Dragon;5;0;5;Origins (Common);1
 Dunebreaker;Unit;Fury;The Void;7;1;7;Spiritforged (Epic);0
 Eager Apprentice;Unit;Mind;Piltover;3;0;3;Origins (Common);3
-Eager Drakehound;Unit;Fury;Noxus/Dog/Dragon;3;1;3;Spiritforged (Common);2
+Eager Drakehound;Unit;Fury;Noxus/Dog/Dragon;3;1;3;Spiritforged (Common);3
 Eclipse Herald;Unit;Calm;Mount Targon/Bird;7;1;7;Origins (Uncommon);1
 Edge of Night;Gear;Chaos;Equipment;3;0;;Spiritforged (Rare);0
 Ekko, Recurrent;Champion Unit;Mind;Ekko/Zaun;5;1;5;Origins (Rare);1
@@ -141,13 +141,13 @@ Emperor's Divide;Spell;Calm;;2;0;;Spiritforged (Uncommon);1
 En Garde;Spell;Calm;;1;0;;Origins (Common);2
 Energy Conduit;Gear;Mind;;3;0;;Origins (Uncommon);1
 Experimental Hexplate;Gear;Mind;Equipment;1;0;;Spiritforged (Uncommon);0
-Eye of the Herald;Gear;Order;Equipment;1;0;;Spiritforged (Common);1
+Eye of the Herald;Gear;Order;Equipment;1;0;;Spiritforged (Common);2
 Ezreal, Dashing;Champion Unit;Mind;Ezreal/Piltover;4;1;3;Spiritforged (Rare);1
 Ezreal, Prodigy;Champion Unit;Chaos;Ezreal/Piltover;3;1;3;Spiritforged (Epic);0
 Facebreaker;Spell;Order;;2;0;;Origins (Uncommon);1
 Factory Recall;Spell;Chaos;;1;0;;Spiritforged (Uncommon);0
 Fading Memories;Spell;Chaos;;4;1;;Origins (Uncommon);3
-Fae Dragon;Unit;Body;Bandle City/Fae/Dragon;7;1;7;Spiritforged (Uncommon);0
+Fae Dragon;Unit;Body;Bandle City/Fae/Dragon;7;1;7;Spiritforged (Uncommon);2
 Fae Porter;Unit;Chaos;Ionia/Fae;4;0;4;Spiritforged (Common);1
 Faithful Manufactor;Unit;Order;Piltover;3;0;2;Origins (Common);1
 Falling Comet;Spell;Mind;;5;0;;Origins (Common);1
@@ -157,9 +157,9 @@ Ferrous Forerunner;Unit;Fury;Bandle City/Yordle/Mech;6;1;6;Spiritforged (Rare);3
 Fight or Flight;Spell;Chaos;;2;0;;Origins (Common);3
 Final Spark;Signature Spell;Mind/Order;Lux;8;0;;Proving Grounds (Epic);0
 Find Your Center;Spell;Calm;;3;0;;Origins (Common);0
-Fiora, Peerless;Champion Unit;Body;Fiora/Demacia;3;1;3;Spiritforged (Rare);2
+Fiora, Peerless;Champion Unit;Body;Fiora/Demacia;3;1;3;Spiritforged (Rare);3
 Fiora, Victorious;Champion Unit;Order;Fiora/Demacia;4;0;4;Origins (Rare);0
-Fiora, Worthy;Champion Unit;Order;Fiora/Demacia;3;0;3;Spiritforged (Epic);1
+Fiora, Worthy;Champion Unit;Order;Fiora/Demacia;3;0;3;Spiritforged (Epic);2
 Fire Below the Mountain;Legend;Calm/Mind;Ornn;;;;Spiritforged (Rare);1
 Firestorm;Spell;Fury;;6;1;;Proving Grounds (Uncommon);0
 First Mate;Unit;Body;Bilgewater/Pirate;3;0;3;Origins (Common);3
@@ -180,7 +180,7 @@ Fury Rune;Rune;Fury;;0;0;;Origins (Common);12
 Garbage Grabber;Gear;Mind;;2;0;;Origins (Uncommon);2
 Garen, Commander;Champion Unit;Order;Garen/Demacia/Elite;6;1;5;Proving Grounds (Epic);0
 Garen, Rugged;Champion Unit;Body;Garen/Demacia/Elite;6;1;5;Proving Grounds (Rare);0
-Gearhead;Unit;Mind;Zaun;5;0;3;Spiritforged (Common);1
+Gearhead;Unit;Mind;Zaun;5;0;3;Spiritforged (Common);2
 Gem Jammer;Unit;Fury;Bandle City/Mech;2;0;2;Spiritforged (Common);3
 Gemcraft Seer;Unit;Mind;Mount Targon;3;1;3;Origins (Uncommon);0
 Gentlemen's Duel;Spell;Body;;6;1;;Proving Grounds (Common);0
@@ -193,13 +193,13 @@ Grandmaster at Arms;Legend;Calm/Body;Jax;;;;Spiritforged (Rare);1
 Grove of the God-Willow;Battlefield;Colorless;;;;;Origins (Uncommon);2
 Guardian Angel;Gear;Calm;Equipment;2;0;;Spiritforged (Rare);0
 Guardian of the Passage;Unit;Calm;Shadow Isles/Spirit;6;0;6;Spiritforged (Common);1
-Guards!;Spell;Order;;3;0;;Spiritforged (Common);1
+Guards!;Spell;Order;;3;0;;Spiritforged (Common);2
 Guerilla Warfare;Signature Spell;Chaos/Mind;Teemo;2;1;;Origins (Epic);0
 Gust;Spell;Chaos;;1;0;;Origins (Common);3
-Hall of Legends;Battlefield;Colorless;;;;;Spiritforged (Uncommon);0
+Hall of Legends;Battlefield;Colorless;;;;;Spiritforged (Uncommon);1
 Hallowed Tomb;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Hand of Noxus;Legend;Fury/Order;Darius;;;;Origins (Rare);1
-Hard Bargain;Spell;Chaos;;2;0;;Spiritforged (Uncommon);0
+Hard Bargain;Spell;Chaos;;2;0;;Spiritforged (Uncommon);1
 Harnessed Dragon;Unit;Order;Demacia/Dragon;8;2;6;Origins (Rare);0
 Harpoon Squad;Unit;Chaos;Bilgewater/Pirate;4;0;4;Spiritforged (Uncommon);1
 Heart of Dark Ice;Gear;Calm;;3;1;;Spiritforged (Rare);1
@@ -220,7 +220,7 @@ Imperial Decree;Spell;Order;;5;2;;Origins (Uncommon);0
 Incinerate;Spell;Fury;;2;0;;Proving Grounds (Uncommon);0
 Invert Timelines;Spell;Chaos;;3;1;;Origins (Epic);0
 Irelia, Fervent;Champion Unit;Calm;Irelia/Ionia;5;0;4;Spiritforged (Epic);0
-Irelia, Graceful;Champion Unit;Chaos;Irelia/Ionia;4;1;4;Spiritforged (Rare);0
+Irelia, Graceful;Champion Unit;Chaos;Irelia/Ionia;4;1;4;Spiritforged (Rare);1
 Iron Ballista;Gear;Fury;;3;0;;Origins (Uncommon);0
 Jae Medarda;Unit;Chaos;Noxus;5;2;5;Spiritforged (Rare);0
 Janna, Savior;Champion Unit;Calm;Janna/Zaun;3;1;3;Spiritforged (Rare);0
@@ -236,7 +236,7 @@ Kai'Sa, Evolutionary;Champion Unit;Mind;Kai'Sa/The Void;6;1;6;Origins (Rare);0
 Kai'Sa, Survivor;Champion Unit;Fury;Kai'Sa/The Void;4;0;4;Origins (Epic);0
 Karma, Channeler;Champion Unit;Order;Karma/Ionia;6;1;6;Origins (Rare);0
 Karthus, Eternal;Champion Unit;Order;Karthus/Shadow Isles/Spirit;3;1;3;Origins (Rare);0
-Kato the Arm;Unit;Body;Noxus;4;1;3;Spiritforged (Rare);0
+Kato the Arm;Unit;Body;Noxus;4;1;3;Spiritforged (Rare);1
 Kayn, Unleashed;Champion Unit;Chaos;Kayn/Ionia;6;1;6;Origins (Rare);1
 King's Edict;Spell;Order;;6;2;;Origins (Rare);0
 Kinkou Monk;Unit;Body;Ionia;4;1;4;Origins (Uncommon);1
@@ -256,11 +256,11 @@ Legion Rearguard;Unit;Fury;Noxus/Trifarian;2;0;2;Origins (Common);1
 Leona, Determined;Champion Unit;Order;Leona/Mount Targon;4;1;4;Origins (Rare);1
 Leona, Zealot;Champion Unit;Calm;Leonia/Mount Targon;6;1;6;Origins (Epic);1
 Lonely Poro;Unit;Calm;Freljord/Poro;2;0;2;Spiritforged (Common);2
-Long Sword;Gear;Fury;Equipment;2;1;;Spiritforged (Rare);1
+Long Sword;Gear;Fury;Equipment;2;1;;Spiritforged (Rare);2
 Loose Cannon;Legend;Chaos/Fury;Jinx;;;;Origins (Rare);1
-Loyal Pup;Unit;Chaos;Bandle City/Dog;3;0;3;Spiritforged (Common);0
-Lucian, Gunslinger;Champion Unit;Fury;Lucian/Demacia/Sentinel;3;0;2;Spiritforged (Epic);0
-Lucian, Merciless;Champion Unit;Body;Lucian/Demacia/Sentinel;3;0;3;Spiritforged (Rare);2
+Loyal Pup;Unit;Chaos;Bandle City/Dog;3;0;3;Spiritforged (Common);2
+Lucian, Gunslinger;Champion Unit;Fury;Lucian/Demacia/Sentinel;3;0;2;Spiritforged (Epic);1
+Lucian, Merciless;Champion Unit;Body;Lucian/Demacia/Sentinel;3;0;3;Spiritforged (Rare);3
 Lux, Crownguard;Champion Unit;Order;Lux/Demacia;4;0;2;Proving Grounds (Epic);0
 Lux, Illuminated;Champion Unit;Mind;Lux/Demacia;6;1;5;Proving Grounds (Rare);0
 Machine Evangel;Unit;Order;Piltover;5;1;4;Origins (Rare);0
@@ -268,7 +268,7 @@ Maddened Marauder;Unit;Chaos;Bilgewater/Pirate;5;0;4;Origins (Rare);0
 Mageseeker Warden;Unit;Calm;Demacia;6;1;5;Origins (Rare);0
 Magma Wurm;Unit;Fury;Freljord;8;1;8;Origins (Common);3
 Malzahar, Fanatic;Champion Unit;Mind;Malzahar/The Void;4;0;3;Origins (Rare);1
-Marai Spire;Battlefield;Colorless;;;;;Spiritforged (Uncommon);0
+Marai Spire;Battlefield;Colorless;;;;;Spiritforged (Uncommon);1
 Marching Orders;Spell;Body;;3;0;;Spiritforged (Rare);0
 Mask of Foresight;Gear;Calm;;2;0;;Origins (Uncommon);1
 Master Bingwen;Unit;Chaos;Ionia;6;0;6;Spiritforged (Common);2
@@ -293,7 +293,7 @@ Mushroom Pouch;Gear;Mind;;2;0;;Origins (Uncommon);2
 Mystic Poro;Unit;Chaos;Poro;2;0;2;Origins (Common);2
 Mystic Reversal;Spell;Calm;;4;3;;Origins (Epic);0
 Navori Fighting Pit;Battlefield;Colorless;;;;;Origins (Uncommon);0
-Navori Scout;Unit;Calm;Ionia/Yordle;4;0;4;Spiritforged (Common);0
+Navori Scout;Unit;Calm;Ionia/Yordle;4;0;4;Spiritforged (Common);1
 Needlessly Large Yordle;Unit;Calm;Bandle City/Yordle;10;3;5;Spiritforged (Rare);0
 Nine-Tailed Fox;Legend;Calm/Mind;Ahri;;;;Origins (Rare);0
 Nocturne, Horrifying;Champion Unit;Chaos;Nocturne;4;1;4;Origins (Rare);0
@@ -308,9 +308,9 @@ Orb of Regret;Gear;Mind;;1;0;;Origins (Common);3
 Order Rune;Rune;Order;;0;0;;Origins (Common);12
 Ornn's Forge;Battlefield;Colorless;;;;;Spiritforged (Uncommon);2
 Ornn, Blacksmith;Champion Unit;Calm;Ornn/Freljord;5;1;5;Spiritforged (Epic);0
-Ornn, Forge God;Champion Unit;Mind;Ornn/Freljord;6;0;4;Spiritforged (Rare);0
+Ornn, Forge God;Champion Unit;Mind;Ornn/Freljord;6;0;4;Spiritforged (Rare);1
 Overt Operation;Spell;Body;;5;2;;Origins (Rare);0
-Overzealous Fan;Unit;Chaos;Noxus;2;0;2;Spiritforged (Common);0
+Overzealous Fan;Unit;Chaos;Noxus;2;0;2;Spiritforged (Common);1
 Pack of Wonders;Gear;Chaos;;2;0;;Origins (Uncommon);1
 Pakaa Cub;Unit;Body;Ixtal/Cat;3;0;3;Origins (Common);2
 Party Favors;Spell;Calm;;3;0;;Origins (Rare);0
@@ -338,7 +338,7 @@ Prodigal Explorer;Legend;Mind/Chaos;Ezreal;;;;Spiritforged (Rare);0
 Production Surge;Spell;Mind;;4;1;;Spiritforged (Uncommon);3
 Progress Day;Spell;Mind;;6;1;;Origins (Rare);0
 Promising Future;Spell;Mind;;5;1;;Origins (Rare);0
-Punch First;Spell;Body;;1;2;;Spiritforged (Common);2
+Punch First;Spell;Body;;1;2;;Spiritforged (Common);3
 Purifier;Legend;Fury/Body;Lucian;;;;Spiritforged (Rare);0
 Qiyana, Victorious;Champion Unit;Body;Qiyana/Ixtal;4;1;4;Origins (Rare);0
 Rabadon's Deathcrown;Signature Gear;Calm/Mind;Ornn/Equipment;4;2;;Spiritforged (Epic);1;1
@@ -346,14 +346,14 @@ Radiant Dawn;Legend;Calm/Order;Leona;;;;Origins (Rare);1
 Raging Firebrand;Unit;Fury;Mount Targon/Dragon;6;1;4;Origins (Rare);0
 Raging Soul;Unit;Fury;Shadow Isles/Spirit;4;0;4;Origins (Uncommon);3
 Rally the Troops;Spell;Order;;2;0;;Spiritforged (Uncommon);1
-Ravenbloom Conservatory;Battlefield;Colorless;;;;;Spiritforged (Uncommon);1
+Ravenbloom Conservatory;Battlefield;Colorless;;;;;Spiritforged (Uncommon);2
 Ravenbloom Student;Unit;Mind;Noxus;2;0;2;Origins (Uncommon);3
 Ravenborn Tome;Gear;Fury;;3;0;;Origins (Rare);1
 Reaver's Row;Battlefield;Colorless;;;;;Origins (Uncommon);2
 Rebuke;Spell;Chaos;;2;2;;Origins (Common);3
 Reckoner's Arena;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Recruit the Vanguard;Spell;Order;;6;0;;Proving Grounds (Uncommon);0
-Recurve Bow;Gear;Fury;Equipment;2;0;;Spiritforged (Uncommon);0
+Recurve Bow;Gear;Fury;Equipment;2;0;;Spiritforged (Uncommon);1
 Reinforce;Spell;Calm;;5;0;;Origins (Uncommon);0
 Rek'Sai, Breacher;Champion Unit;Fury;Rek'Sai/The Void;3;0;3;Spiritforged (Epic);0
 Rek'Sai, Swarm Queen;Champion Unit;Order;Rek'Sai/The Void;5;1;5;Spiritforged (Rare);0
@@ -365,20 +365,20 @@ Renata Glasc, Mastermind;Champion Unit;Mind;Renata Glasc/Zaun;5;0;4;Spiritforged
 Rengar, Pouncing;Champion Unit;Fury;Rengar/Ixtal/Cat;3;1;3;Spiritforged (Rare);0
 Retreat;Spell;Mind;;1;0;;Origins (Uncommon);0
 Rhasa the Sunderer;Unit;Chaos;Shadow Isles/Spirit;10;1;6;Origins (Rare);2
-Ribbon Dancer;Unit;Calm;Ionia;3;0;3;Spiritforged (Common);1
+Ribbon Dancer;Unit;Calm;Ionia;3;0;3;Spiritforged (Common);2
 Ride the Wind;Spell;Chaos;;2;1;;Origins (Common);1
-Riposte;Signature Spell;Body/Order;Fiora;2;2;;Spiritforged (Epic);1
+Riposte;Signature Spell;Body/Order;Fiora;2;2;;Spiritforged (Epic);2
 Riptide Rex;Unit;Mind;Bilgewater/Pirate;6;2;6;Origins (Common);3
-Rocket Barrage;Spell;Mind;;4;1;;Spiritforged (Uncommon);1
+Rocket Barrage;Spell;Mind;;4;1;;Spiritforged (Uncommon);2
 Rockfall Path;Battlefield;Colorless;;;;;Spiritforged (Uncommon);0
 Royal Entourage;Unit;Calm;Shurima;3;1;4;Spiritforged (Common);1
 Royal Guard;Unit;Order;Shurima;4;0;2;Spiritforged (Common);3
 Ruin Runner;Unit;Body;Shurima;6;0;5;Spiritforged (Uncommon);1
-Rumble, Hotheaded;Champion Unit;Fury;Rumble/Bandle City/Yordle/Mech;4;0;4;Spiritforged (Rare);2
-Rumble, Scrapper;Champion Unit;Mind;Rumble/Bandle City/Yordle/Mech;5;1;4;Spiritforged (Epic);1
+Rumble, Hotheaded;Champion Unit;Fury;Rumble/Bandle City/Yordle/Mech;4;0;4;Spiritforged (Rare);3
+Rumble, Scrapper;Champion Unit;Mind;Rumble/Bandle City/Yordle/Mech;5;1;4;Spiritforged (Epic);2
 Rune Prison;Spell;Calm;;2;1;;Origins (Common);0
 Sabotage;Spell;Body;;1;1;;Origins (Rare);0
-Sacred Shears;Gear;Order;Equipment;2;1;;Spiritforged (Rare);1
+Sacred Shears;Gear;Order;Equipment;2;1;;Spiritforged (Rare);2
 Sai Scout;Unit;Chaos;Shurima;6;0;5;Origins (Common);1
 Salvage;Spell;Order;;2;1;;Origins (Uncommon);1
 Sandshifter;Unit;Order;Shurima;5;2;6;Spiritforged (Common);2
@@ -404,7 +404,7 @@ Showstopper;Signature Spell;Body/Order;Sett;1;1;;Origins (Epic);0
 Shurelya's Requiem;Signature Gear;Calm/Mind;Ornn/Equipment;4;2;;Spiritforged (Epic);0;1
 Sigil of the Storm;Battlefield;Colorless;;;;;Origins (Uncommon);1
 Simian Ancestor;Unit;Calm;Ionia;5;1;5;Spiritforged (Uncommon);0
-Singularity;Spell;Mind;;6;2;;Origins (Uncommon);1
+Singularity;Spell;Mind;;6;2;;Origins (Uncommon);2
 Siphon Power;Signature Spell;Mind/Order;Viktor;2;1;;Origins (Epic);0
 Sivir, Ambitious;Champion Unit;Body;Sivir/Shurima;6;3;7;Spiritforged (Epic);0
 Sivir, Mercenary;Champion Unit;Chaos;Sivir/Shurima;4;1;4;Spiritforged (Rare);0
@@ -417,7 +417,7 @@ Solari Chief;Unit;Order;Mount Targon;5;1;4;Origins (Uncommon);1
 Solari Shieldbearer;Unit;Calm;Mount Targon;3;0;2;Origins (Common);1
 Solari Shrine;Gear;Calm;;3;0;;Origins (Rare);0
 Sona, Harmonious;Champion Unit;Calm;Sona/Demacia;4;1;4;Origins (Rare);0
-Soraka, Wanderer;Champion Unit;Order;Soraka/Mount Targon;4;1;4;Spiritforged (Rare);0
+Soraka, Wanderer;Champion Unit;Order;Soraka/Mount Targon;4;1;4;Spiritforged (Rare);1
 Soulgorger;Unit;Chaos;Shadow Isles/Spirit;8;2;5;Origins (Rare);0
 Spectral Matron;Unit;Order;Shadow Isles/Spirit;4;2;4;Origins (Uncommon);0
 Spinning Axe;Signature Gear;Fury/Chaos;Draven/Equipment;2;1;;Spiritforged (Epic);0
@@ -439,7 +439,7 @@ Strike Down;Spell;Body;;3;1;;Spiritforged (Uncommon);3
 Stupefy;Spell;Mind;;1;0;;Origins (Common);3
 Sudden Storm;Spell;Fury;;3;0;;Spiritforged (Uncommon);0
 Sun Disc;Gear;Fury;;2;1;;Origins (Uncommon);0
-Sunken Temple;Battlefield;Colorless;;;;;Spiritforged (Uncommon);1
+Sunken Temple;Battlefield;Colorless;;;;;Spiritforged (Uncommon);2
 Sunlit Guardian;Unit;Calm;Shurima;3;0;3;Origins (Common);2
 Super Mega Death Rocket!;Signature Spell;Chaos/Fury;Jinx;4;1;;Origins (Epic);0
 Svellsongur;Gear;Calm;Equipment;3;1;;Spiritforged (Epic);0
@@ -464,7 +464,7 @@ The Syren;Gear;Chaos;;2;0;;Origins (Uncommon);0
 The Zero Drive;Gear;Mind;Equipment;3;0;;Spiritforged (Epic);0
 Thermo Beam;Spell;Fury;;5;2;;Origins (Uncommon);2
 Thousand-Tailed Watcher;Unit;Mind;Ionia;7;1;7;Origins (Rare);1
-Thwonk!;Spell;Calm;;2;0;;Spiritforged (Common);1
+Thwonk!;Spell;Calm;;2;0;;Spiritforged (Common);2
 Tianna Crownguard;Unit;Calm;Demacia/Elite;7;2;4;Spiritforged (Epic);0
 Tibbers;Signature Unit;Fury/Chaos;Annie;8;2;7;Proving Grounds (Epic);0
 Tideturner;Unit;Chaos;Bilgewater;2;0;2;Origins (Rare);1
@@ -486,7 +486,7 @@ Undercover Agent;Unit;Chaos;;5;1;5;Origins (Common);3
 Undertitan;Unit;Order;The Void;6;1;5;Spiritforged (Rare);1
 Unforgiven;Legend;Calm/Chaos;Yasuo;;;;Origins (Rare);0
 Unlicensed Armory;Gear;Fury;;2;0;;Origins (Uncommon);2
-Unsung Hero;Unit;Order;Demacia/Elite;2;0;2;Spiritforged (Uncommon);2
+Unsung Hero;Unit;Order;Demacia/Elite;2;0;2;Spiritforged (Uncommon);3
 Unyielding Spirit;Spell;Body;;1;1;;Origins (Uncommon);1
 Vanguard Armory;Gear;Order;;7;1;;Spiritforged (Uncommon);1
 Vanguard Attendant;Unit;Order;Demacia/Elite;6;1;5;Proving Grounds (Common);0
@@ -494,23 +494,23 @@ Vanguard Captain;Unit;Order;Demacia/Elite;3;1;3;Origins (Common);0
 Vanguard Helm;Gear;Order;;2;0;;Origins (Uncommon);0
 Vanguard Sergeant;Unit;Order;Demacia/Elite;4;0;4;Origins (Common);3
 Vayne, Hunter;Champion Unit;Fury;Vayne/Demacia;4;1;2;Origins (Rare);0
-Veiled Temple;Battlefield;Colorless;;;;;Spiritforged (Uncommon);1
+Veiled Temple;Battlefield;Colorless;;;;;Spiritforged (Uncommon);2
 Vengeance;Spell;Order;;4;2;;Origins (Uncommon);3
-Veteran Poro;Unit;Body;Freljord/Poro;2;0;2;Spiritforged (Common);2
+Veteran Poro;Unit;Body;Freljord/Poro;2;0;2;Spiritforged (Common);3
 Vex, Cheerless;Champion Unit;Chaos;Vex/Shadow Isles/Yordle;5;1;5;Spiritforged (Rare);0
 Vi, Destructive;Champion Unit;Fury;Vi/Piltover;2;1;3;Origins (Rare);2
 Viktor, Innovator;Champion Unit;Mind;Viktor/Zaun;4;1;3;Origins (Rare);1
 Viktor, Leader;Champion Unit;Order;Viktor/Zaun;4;1;4;Origins (Epic);0
 Vilemaw's Lair;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Void Burrower;Legend;Fury/Order;Rek'Sai;;;;Spiritforged (Rare);0
-Void Drone;Unit;Fury;The Void;3;0;3;Spiritforged (Common);1
+Void Drone;Unit;Fury;The Void;3;0;3;Spiritforged (Common);2
 Void Gate;Battlefield;Colorless;;;;;Origins (Uncommon);0
 Void Hatchling;Unit;Fury;The Void;2;0;2;Spiritforged (Uncommon);0
 Void Rush;Signature Spell;Fury/Order;Rek'Sai;2;1;;Spiritforged (Epic);0
 Void Seeker;Spell;Fury;;3;1;;Origins (Uncommon);3
 Volibear, Furious;Champion Unit;Fury;Volibear/Freljord;10;2;9;Origins (Epic);0
 Volibear, Imposing;Champion Unit;Body;Volibear/Freljord;12;2;10;Origins (Rare);0
-Wages of Pain;Spell;Mind;;3;0;;Spiritforged (Common);2
+Wages of Pain;Spell;Mind;;3;0;;Spiritforged (Common);3
 Wallop;Spell;Body;;2;0;;Origins (Uncommon);0
 Warmog's Armor;Gear;Body;;1;0;;Spiritforged (Uncommon);3
 Warwick, Hunter;Champion Unit;Body;Warwick/Zaun/Dog;6;1;5;Origins (Rare);0
@@ -529,8 +529,8 @@ Wuju Bladesman;Legend;Calm/Body;Master Yi;;;;Proving Grounds (Rare);0
 Xin Zhao, Vigilant;Champion Unit;Order;Xin Zhao/Demacia;3;1;4;Spiritforged (Rare);0
 Yasuo, Remorseful;Champion Unit;Calm;Yasuo/Ionia;6;2;6;Origins (Rare);1
 Yasuo, Windrider;Champion Unit;Chaos;Yasuo/Ionia;5;1;4;Origins (Epic);0
-Yone, Blademaster;Champion Unit;Body;Yone/Ionia/Demon;5;1;5;Spiritforged (Rare);2
-Yordle Explorer;Unit;Body;Bandle City/Yordle;4;0;4;Spiritforged (Common);1
+Yone, Blademaster;Champion Unit;Body;Yone/Ionia/Demon;5;1;5;Spiritforged (Rare);3
+Yordle Explorer;Unit;Body;Bandle City/Yordle;4;0;4;Spiritforged (Common);2
 Zaun Punk;Unit;Order;Zaun;3;0;3;Spiritforged (Common);1
 Zaun Warrens;Battlefield;Colorless;;;;;Origins (Uncommon);2
 Zaunite Bouncer;Unit;Chaos;Zaun;4;2;2;Origins (Uncommon);1

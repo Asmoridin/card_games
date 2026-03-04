@@ -2330,10 +2330,25 @@ Castle Gate;Holding;;Path of Hope (Rare);Age of Enlightenment (Lotus);3;0
 Castle Gate;Holding;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
 Castle Moat;Holding;;The Truest Test (Uncommon);Age of Enlightenment (Lotus);3;0
 Castle Moat;Holding;;The Truest Test (Uncommon);Race for the Throne (Samurai);3;0
+Castle of Earth;Spell;;The Dead of Winter (Common);Destroyer War (Celestial);3;0
+Castle of the Swift Sword;Stronghold;Lion;Lotus Edition (Fixed);Age of Enlightenment (Lotus);1;0
+Castle of the Wasp;Stronghold;Mantis;Diamond Edition (Fixed)/Promotional–Diamond (Promo);Rain of Blood (Diamond);1;0
+Castle of the Wasp;Stronghold;Mantis;Lotus Edition (Fixed);Age of Enlightenment (Lotus);1;0
+Castle of the Wasp;Stronghold;Mantis;Winds of Change (Fixed);Four Winds (Gold);1;0
 Castle of Water;Spell;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Castle of Water;Spell;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;3
 Castle of Water;Spell;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
+Castle Towers;Holding;;Path of Hope (Common);Age of Enlightenment (Lotus);3;0
+Castle Walls;Holding;;Path of Hope (Common);Age of Enlightenment (Lotus);3;0
+Castle Walls;Holding;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
 Catastrophic Confrontation;Strategy;;Chaos Reigns III (Fixed);Shattered Empire;1;0
+Catching the Wind's Favor;Strategy;;Crimson and Jade (Common);Clan Wars (Imperial);3;0
+Catching the Wind's Favor;Strategy;;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
+Caught in the Act;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Caught in the Act;Strategy;;Test of the Emerald and Jade Championships (Fixed);Race for the Throne (Samurai);3;0
+Caught Unawares;Strategy;;Battle of Kyuden Tonbo (Fixed)/The Plague War (Rare);Destroyer War (Celestial);3;0
+Caught Unawares;Strategy;;Emperor Edition (Rare);Legacy;3;0 #Banned in Emperor
+Cautious Advance;Strategy;;Hidden City (Rare);Rain of Blood (Diamond);3;0
 Cavalry Detachment;Follower;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
 Cavalry Raiders;Follower;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
 Cavalry Screen;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
@@ -4920,6 +4935,7 @@ Nanashi Defenders;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Nanashi Defenders;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Narrow Passage;Strategy;;Thunderous Acclaim (Common);A Brother's Destiny (Twenty Festivals);3;2
 Narrow Passage;Strategy;;Thunderous Acclaim (Common);War of the Seals (Onyx Edition);3;0
+Natural Aviary;Region;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);3;0
 Nature's Embrace;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Nature's Embrace;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
 Nature's Embrace;Spell;;The Plague War (Common);Destroyer War (Celestial);3;0
@@ -6188,6 +6204,7 @@ Stables;Holding;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);3;0
 Stables;Holding;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
 Staff of Peace;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Staff of Peace;Item;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Staging Grounds;Holding;;Embers of War (Common);Age of Conquest (Emperor);3;0
 Stand Against the Waves;Strategy;;Crimson and Jade (Common);Clan Wars (Imperial);3;0
 Stand Against the Waves;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
 Stand Against the Waves;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
@@ -6406,6 +6423,9 @@ Tell the Tale;Strategy;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fix
 Tell the Tale;Strategy;;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;2
 Tempest of Air;Spell;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Tempest of Air;Spell;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;2
+Temple Fortress;Holding;;Embers of War (Common);Age of Conquest (Emperor);3;0
+Temple Fortress;Holding;;Twenty Festivals (Uncommon)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Temple Fortress;Holding;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
 Temple Grounds;Strategy;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;2
 Temple Grounds;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;0
 Temple of Destiny;Holding;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;1
@@ -7578,8 +7598,7 @@ Z'orr'tek;Personality;Ratling;Soul of the Empire (Common);Hidden Emperor (Jade);
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1230
-#1234
+# Done through card #1240
 #1244
 #1247-1248
 #1286
@@ -8166,7 +8185,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7422
 #7434
 #7438-7439
-#7443
+#7443-7444
 #7455
 #7457
 #7467
@@ -8208,6 +8227,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7849
 #7852
 #7861-7862
+#7869
 #7874
 #7897-7900
 #7904
@@ -8391,6 +8411,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9700
 #9709
 #9821
+#9866
 #9893
 #9895
 #9908
