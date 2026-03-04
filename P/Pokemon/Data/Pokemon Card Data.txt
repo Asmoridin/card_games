@@ -166,7 +166,7 @@ Gumshoos;Pokemon;Colorless;100;Evidence Gathering;Bite;MEG 110 (Uncommon)/MEG 15
 Gurdurr;Pokemon;Fighting;100;;Low Kick|Hammer Arm;BLK 48 (Common)/BLK 126 (Illustration Rare);I;4;0
 Hariyama;Pokemon;Fighting;150;Heave-Ho Catcher;Wild Press;MEG 73 (Rare);I;4;0
 Harlequin;Trainer;Supporter;;;;WHT 83 (Uncommon)/WHT 163 (Ultra Rare);I;4;0
-Haunter;Pokemon;Darkness;100;;Spooky Shot;PFL 55 (Uncommon)/MEP 27 (Promo);I;4;2
+Haunter;Pokemon;Darkness;100;;Spooky Shot;PFL 55 (Uncommon)/MEP 27 (Promo)/ASC 124 (Uncommon);I;4;2
 Haxorus;Pokemon;Dragon;170;;Cross-Cut|Axe Blast;BLK 70 (Common)/BLK 147 (Illustration Rare);I;4;0
 Heatmor;Pokemon;Fire;120;;Licking Catch|Fire Claws;WHT 19 (Uncommon)/WHT 104 (Illustration Rare);I;4;0
 Heliolisk;Pokemon;Lightning;120;;Dazzle Blast|Head Bolt;MEG 53 (Common);I;4;0
@@ -241,7 +241,7 @@ Mega Camerupt ex;Pokemon;Fire;340;;Roasting Heat|Volcanic Meteor;MEG 22 (Double 
 Mega Charizard X ex;Pokemon;Fire;360;;Inferno X;PFL 13 (Double Rare)/PFL 109 (Ultra Rare)/PFL 125 (Special Illustration Rare)/PFL 130 (Mega Hyper Rare)/MEP 23 (Promo);I;4;0
 Mega Diancie ex;Pokemon;Psychic;270;Diamond Coat;Garland Ray;PFL 41 (Double Rare);I;4;3
 Mega Gardevoir ex;Pokemon;Psychic;360;;Overflowing Wishes|Mega Symphonia;MEG 60 (Double Rare)/MEG 159 (Ultra Rare)/MEG 178 (Special Illustration Rare)/MEG 187 (Mega Hyper Rare)/MEP 32 (Promo)/ASC 89 (Double Rare);I;4;0
-Mega Gengar ex;Pokemon;Darkness;350;Shadowy Concealment;Void Gale;PFL 56 (Double Rare)/ASC 284 (Special Illustration Rare);I;4;0
+Mega Gengar ex;Pokemon;Darkness;350;Shadowy Concealment;Void Gale;PFL 56 (Double Rare)/ASC 284 (Special Illustration Rare)/ASC 269 (Mega Attack Rare)/ASC 125 (Double Rare);I;4;0
 Mega Heracross ex;Pokemon;Grass;280;;Juggernaut Horn|Mountain Ramming;PFL 4 (Double Rare)/PFL 108 (Ultra Rare);I;4;0
 Mega Kangaskhan ex;Pokemon;Colorless;300;Run Errand;Rapid-Fire Combo;MEG 104 (Double Rare)/MEG 164 (Ultra Rare)/MEG 182 (Special Illustration Rare)/MEP 25 (Promo);I;4;0
 Mega Latias ex;Pokemon;Dragon;280;;Strafe|Illusory Impulse;MEG 100 (Double Rare)/MEG 163 (Ultra Rare)/MEG 181 (Special Illustration Rare)/MEP 11 (Promo);I;4;0
@@ -558,6 +558,8 @@ Mudbray;Pokemon;Fighting;80;;Smask Kick|Mud-Slap;TEF 91 (Common);H;4;1
 Carkol;Pokemon;Fighting;110;;Knock Away|Boulder Crush;TEF 94 (Common);H;4;1 # have 1 reverse foil
 Sandy Shocks;Pokemon;Fighting;120;;Magnetic Burst|Power Gem;TEF 98 (Uncommon);H;4;1
 Gastly;Pokemon;Darkness;60;;Mysterious Beam|Suffocating Gas;TEF 102 (Common)/TEF 117 (Illustration Rare);H;4;1
+Poochyena;Pokemon;Darkness;70;;Gnaw Off;TEF 105 (Common)/ASC 128 (Common);H;4;0
+Mightyena;Pokemon;Darkness;120;;Kick Away|Sharp Fang;TEF 106 (Common)/ASC 129 (Uncommon)/ASC 243 (Illustration Rare);H;4;0
 Roaring Moon;Pokemon;Darkness;140;;Vengeance Fletching|Speed Wing;TEF 109 (Rare)/PRE 65 (Rare);H;4;1
 Mawile;Pokemon;Metal;90;;Invite and Strike|Sharp Fang;TEF 112 (Common);H;4;1
 Hoothoot;Pokemon;Colorless;70;;Silent Wing;TEF 126 (Common);H;4;1
@@ -568,6 +570,7 @@ Ciphermaniac's Codebreaking;Trainer;Supporter;;;;TEF 145 (Uncommon)/TEF 198 (Ult
 Hand Trimmer;Trainer;Item;;;;TEF 150 (Uncommon);H;4;1
 Hero's Cape;Trainer;Pokemon Tool;;;;TEF 152 (ACE SPEC Rare);H;2;0
 Prime Catcher;Trainer;Item;;;;TEF 157 (ACE SPEC Rare)/PRE 119 (ACE SPEC Rare);H;2;0
+Rescue Board;Trainer;Pokemon Tool;;;;TEF 159 (Uncommon)/TWM 225 (Hyper Rare)/PRE 126 (Uncommon);H;4;0
 Mist Energy;Energy;Special Energy;;;;TEF 161 (Uncommon);H;4;0
 
 # Twilight Masquerade TWM
@@ -581,6 +584,7 @@ Cornerstone Mask Ogerpon ex;Pokemon;Fighting;210;Cornerstone Stance;Demolish;TWM
 Dreepy;Pokemon;Dragon;70;;Petty Grudge|Bite;TWM 128 (Common)/PRE 71 (Common)/ASC 158 (Common)/ASC 247 (Illustration Rare);H;4;0
 Drakloak;Pokemon;Dragon;90;Recon Directive;Dragon Headbutt;TWM 129 (Common)/PRE 72 (Common)/ASC 159 (Common)/ASC 248 (Illustration Rare);H;4;0
 Dragapult ex;Pokemon;Dragon;320;;Jet Headbutt|Phantom Dive;TWM 130 (Double Rare)/TWM 200 (Ultra Rare)/PRE 73 (Double Rare)/PRE 165 (Special Illustration Rare)/ASC 160 (Double Rare);H;4;0
+Tatsugiri;Pokemon;Dragon;70;Attract Customers;Surf;TWM 131 (Uncommon)/TWM 186 (Illustration Rare)/SVP 118 (Promo);H;4;0
 Bloodmoon Ursaluna ex;Pokemon;Colorless;260;Seasoned Skill;Blood Moon;TWM 141 (Double Rare)/TWM 202 (Ultra Rare)/TWM 216 (Special Illustration Rare)/TWM 222 (Hyper Rare)/SVP 177 (Promo)/PRE 168 (Special Illustration Rare);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
@@ -620,6 +624,7 @@ Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Spec
 Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Uncommon)/PRE 171 (Special Illustration Rare);H;4;0
 
 # Surging Sparks
+Rellor;Pokemon;Grass;40;;Collect|Rollout;SSP 13 (Common)/DRI 24 (Common);H;4;0
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
 Ceruledge ex;Pokemon;Fire;270;;Abyssal Flames|Raging Amethyst;SSP 36 (Double Rare)/PRE 147 (Special Illustration Rare);H;4;0
 Pikachu ex;Pokemon;Lightning;200;Resolute Heart;Topaz Bolt;SSP 57 (Double Rare)/SSP 219 (Ultra Rare)/SSP 238 (Special Illustration Rare)/SSP 247 (Hyper Rare)/PRE 179 (Hyper Rare)/ASC 57 (Double Rare)/ASC 277 (Special Illustration Rare);H;4;0
@@ -637,6 +642,7 @@ Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # Prismatic Evolutions
 Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Illustration Rare);H;4;0
+Black Belt's Training;Trainer;Supporter;;;;PRE 96 (Common)/PRE 97 (Common)/PRE 98 (Common)/PRE 99 (Common)/JTG 143 (Common)/JTG 144 (Common)/JTG 145 (Common)/SVP 220 (Promo)/ASC 255 (Ultra Rare);H;4;0
 
 # Journey Together (JTG)
 N's Darumaka;Pokemon;Fire;80;;Rolling Tackle|Flare;JTG 26 (Common)/ASC 32 (Common);I;4;0
@@ -680,8 +686,12 @@ Team Rocket's Tarountula;Pokemon;Grass;50;;Take Down;DRI 19 (Common)/ASC 18 (Com
 Team Rocket's Spidops;Pokemon;Grass;130;Charging Up;Rocket Rush;DRI 20 (Rare)/DRI 187 (Illustration Rare)/ASC 19 (Rare);I;4;1 # 1 reverse foil
 Smoliv;Pokemon;Grass;60;;Ram;DRI 21 (Common);I;4;0
 Dolliv;Pokemon;Grass;90;;Nutrients|Tackle;DRI 22 (Common);I;4;0
-
+Arboliva ex;Pokemon;Grass;310;;Oil Salvo|Aroma Shot;DRI 23 (Double Rare)/DRI 207 (Ultra Rare);I;4;0
+Rabsca ex;Pokemon;Grass;250;;Upside-Down Draw|Psychic;DRI 25 (Double Rare);H;4;0
+Teal Mask Ogerpon;Pokemon;Grass;110;;Grass Kagura|Ogre's Hammer;DRI 26 (Uncommon);I;4;0
 Growlithe;Pokemon;Fire;80;;Live Coal|Dig Claws;DRI 27 (Common);I;4;1
+Arcanine;Pokemon;Fire;140;;Flare|Punishing Fang;DRI 28 (Uncommon);I;4;0
+
 Ethan's Cyndaquil;Pokemon;Fire;70;;Ember;DRI 32 (Common);I;4;2 # 1 reverse foil
 Ethan's Slugma;Pokemon;Fire;80;;Steady Firebreathing;DRI 35 (Common)/ASC 23 (Common);I;4;1
 Ethan's Magcargo;Pokemon;Fire;130;Melt Away;Lava Burst;DRI 36 (Rare)/ASC 24 (Rare)/ASC 222 (Illustration Rare);I;4;0
@@ -723,6 +733,7 @@ Team Rocket's Nidoqueen;Pokemon;Darkness;170;;Love Impact|Mega Kick;DRI 116 (Unc
 Team Rocket's Zubat;Pokemon;Darkness;50;;Poison Spray;DRI 120 (Common);I;4;1
 Team Rocket's Crobat ex;Pokemon;Darkness;310;Biting Spree;Assassin's Return;DRI 122 (Double Rare)/DRI 217 (Ultra Rare)/DRI 234 (Special Illustration Rare)/DRI 242 (Hyper Rare);I;4;1
 Team Rocket's Koffing;Pokemon;Darkness;70;Smog Signals;Leaking Gas;DRI 125 (Common);I;4;1
+Team Rocket's Murkrow;Pokemon;Darkness;80;;Deceit|Torment;DRI 127 (Uncommon)/DRI 200 (Illustration Rare)/ASC 126 (Common);I;4;0
 Marnie's Impidimp;Pokemon;Darkness;70;;Filch|Corkscrew Punch;DRI 134 (Common);I;4;1
 Marnie's Morgrem;Pokemon;Darkness;100;;Corkscrew Punch;DRI 135 (Uncommon);I;4;1
 Marnie's Morpeko;Pokemon;Darkness;70;;Spiky Wheel;DRI 137 (Common)/SVP 206 (Promo);I;4;1
@@ -745,8 +756,9 @@ Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncomm
 
 # DRI 182-188 done - last orig card
 # DRI 193 done
+# DRI 200 done
 # DRI 202 done
-# DRI 206 done
+# DRI 206-207 done
 # DRI 209 done
 # DRI 213 done
 # DRI 215 done
@@ -830,18 +842,22 @@ Carbink;Pokemon;Fighting;90;Double Type;Counter Jewel;ASC 117 (Uncommon)/ASC 242
 Rolycoly;Pokemon;Fighting;80;;Mud-Slap;ASC 118 (Common);I;4;0
 Carkol;Pokemon;Fighting;110;;Guard Press|Power Gem;ASC 119 (Common);I;4;0
 Coalossal;Pokemon;Fighting;180;;Tar Cannon|Bulky Bump;ASC 120 (Rare);I;4;0
+Koraidon ex;Pokemon;Fighting;230;;Orichalcum Fang|Impact Blow;ASC 121 (Double Rare);J;4;0
+Okidogi;Pokemon;Fighting;140;;Light Punch|Settle the Score;ASC 122 (Rare);I;4;0
+Team Rocket's Honchkrow;Pokemon;Darkness;130;;Rocket Feathers|Hammer In;ASC 127 (Rare);I;4;0
+Galarian Zigzagoon;Pokemon;Darkness;70;;Gnaw;ASC 130 (Common);I;4;0
 
-# ASC 123 done
 # ASC 136-137 done
 # ASC 154-155 done
 # ASC 158-160 done
 # ASC 181 done
 # ASC 183 done
-# ASC 216-242 done- last of cards
+# ASC 216-243 done- last of cards
 # ASC 247-248 done
 # ASC 252 done
+# ASC 255 done
 # ASC 265-266 done
-# ASC 268
+# ASC 268-269
 # ASC 272-275 done
 # ASC 277-281 done
 # ASC 283-284 done
