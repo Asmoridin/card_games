@@ -500,9 +500,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Duel Decks: Garruk vs. Liliana'
-CHECK_AMOUNT = 249
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = 'Worldwake'
+CHECK_AMOUNT = 145
+SET_CHECK += 0 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0
@@ -816,7 +816,7 @@ if __name__ == "__main__":
     if creature_types[99][1] >= len(USED_TYPES) - 5:
         double_print(f"Time to do a Tribal Commander - {creature_types[0][0]}", out_file_h)
     remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Echidna', 'Lobster', 'Sand', 'Kangaroo',
-        'Platypus', 'Skunk', 'Qu']
+        'Platypus', 'Skunk', 'Qu', 'Custodes']
     for remove_type in remove_one_ofs:
         try:
             one_ofs.remove(remove_type)
