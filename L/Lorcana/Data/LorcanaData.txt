@@ -155,17 +155,17 @@ Belle - Mechanic Extraordinaire;Character;Ruby/Sapphire;Floodborn/Hero/Princess/
 Belle - Of the Ball;Character;Sapphire;Dreamborn/Hero/Princess;Shimmering Skies (Rare);1
 Belle - Strange but Special;Character;Sapphire;Storyborn/Hero/Princess;The First Chapter (Legendary);0
 Belle - Untrained Mystic;Character;Amethyst;Dreamborn/Hero/Princess;Ursula's Return (Common)/Fabled (Common);0
-# Traits done through here
 Belle's Favorite Book;Item;Sapphire;;Reign of Jafar (Rare);0
 Belle's House - Maurice's Workshop;Location;Sapphire;;Into the Inklands (Rare);0
-Bellwether - Assistant Mayor;Character;Emerald;;Azurite Sea (Uncommon);1
-Bellwether - Master Manipulator;Character;Emerald;;Whispers in the Well (Uncommon);0
+Bellwether - Assistant Mayor;Character;Emerald;Storyborn/Villain;Azurite Sea (Uncommon);1
+Bellwether - Master Manipulator;Character;Emerald;Storyborn/Villain;Whispers in the Well (Uncommon);0
 Bend to My Will;Action;Emerald;;Azurite Sea (Super Rare);0
-Benja - Bold Uniter;Character;Ruby;;Ursula's Return (Common);0
-Benja - Guardian of the Dragon Gem;Character;Steel;;Rise of the Floodborn (Common)/Fabled (Common);2
-Berlioz - Mischievous Kitten;Character;Emerald;;Archazia's Island (Common);0
-Bernard - Brand-New Agent;Character;Amber;;Into the Inklands (Rare);0
-Bernard - Over-Prepared;Character;Sapphire/Steel;;Reign of Jafar (Uncommon);0
+Benja - Bold Uniter;Character;Ruby;Storyborn/Mentor/King;Ursula's Return (Common);0
+Benja - Guardian of the Dragon Gem;Character;Steel;Storyborn/Mentor/King;Rise of the Floodborn (Common)/Fabled (Common);2
+Berlioz - Mischievous Kitten;Character;Emerald;Storyborn/Ally;Archazia's Island (Common);0
+Bernard - Brand-New Agent;Character;Amber;Storyborn/Hero;Into the Inklands (Rare);0
+Bernard - Over-Prepared;Character;Sapphire/Steel;Storyborn/Hero;Reign of Jafar (Uncommon);0
+# Traits done through here
 Bestow a Gift;Action;Amethyst;;Into the Inklands (Common);0
 Beyond the Horizon;Action;Steel;;Reign of Jafar (Uncommon);1
 Bibbidi Bobbidi Boo;Action;Emerald;;Rise of the Floodborn (Rare);0
@@ -2009,6 +2009,16 @@ Roo - Little Helper;Character;Sapphire;Storyborn/Ally/Whisper;Winterspell (Uncom
 Kanga - Peaceful Gatherer;Character;Sapphire;Storyborn/Ally/Whisper;Winterspell (Common);0
 Piglet - Entranced by Snow;Character;Sapphire;Storyborn/Ally;Winterspell (Common);0
 Mickey Mouse - Tiny Tim's Father;Character;Sapphire;Storyborn/Hero;Winterspell (Common);0
+Minnie Mouse - Tiny Tim's Mother;Character;Sapphire;Storyborn/Ally;Winterspell (Common);0
+Sina - Vigilant Parent;Character;Sapphire;Storyborn/Ally;Winterspell (Common);0
+Honker Muddlefoot - Timid Genius;Character;Sapphire;Storyborn/Ally/Inventor;Winterspell (Common);0
+Daisy Duck - Isabel;Character;Sapphire;Storyborn/Ally;Winterspell (Uncommon);0
+Darkwing Duck - Drake Mallard;Character;Sapphire;Storyborn/Super/Hero/Detective;Winterspell (Uncommon);0
+Jiminy Cricket - Ghost of Christmas Past;Character;Sapphire;Storyborn/Ally/Ghost;Winterspell (Uncommon);0
+Piglet - Cocoa Maker;Character;Sapphire;Floodborn/Ally;Winterspell (Rare);0
+Gramma Tala - Connected to Nature;Character;Sapphire;Storyborn/Mentor;Winterspell (Rare);0
+Gosalyn Mallard - Curious Child;Character;Sapphire;Storyborn/Ally;Winterspell (Uncommon);0
+Darkwing Duck - Dashing Gadgeteer;Character;Sapphire;Dreamborn/Super/Hero/Detective;Winterspell (Super Rare);0
 
 Tiny Tim's Crutch;Item;Sapphire;;Winterspell (Common);2
 

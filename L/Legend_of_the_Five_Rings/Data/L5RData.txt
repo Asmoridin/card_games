@@ -2349,11 +2349,23 @@ Caught in the Act;Strategy;;Test of the Emerald and Jade Championships (Fixed);R
 Caught Unawares;Strategy;;Battle of Kyuden Tonbo (Fixed)/The Plague War (Rare);Destroyer War (Celestial);3;0
 Caught Unawares;Strategy;;Emperor Edition (Rare);Legacy;3;0 #Banned in Emperor
 Cautious Advance;Strategy;;Hidden City (Rare);Rain of Blood (Diamond);3;0
+Cautious Escort;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
 Cavalry Detachment;Follower;;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
+Cavalry for Hire;Follower;;The Dead of Winter (Rare);Destroyer War (Celestial);3;0
+Cavalry Officer;Follower;;Glory of the Empire (Common);Destroyer War (Celestial);3;0
+Cavalry Officer;Follower;;Glory of the Empire (Common);Race for the Throne (Samurai);3;0
 Cavalry Raiders;Follower;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
+Cavalry Reserves;Follower;;Web of Lies (Uncommon);Age of Enlightenment (Lotus);3;0
+Cavalry Reserves;Follower;;Web of Lies (Uncommon);Rain of Blood (Diamond);3;0
+Cavalry Scouts;Follower;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Cavalry Screen;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Cavalry Tactics;Strategy;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
 Cavalry Tactics;Strategy;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
+Celebration;Strategy;;Promotional–Gold (Promo);Four Winds (Gold);3;0
+Celestial Alignment;Event;;Celestial Edition (Rare);Destroyer War (Celestial);1;0
+Celestial Alignment;Event;;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
+Celestial Alignment;Event;;Gold Edition (Rare);Four Winds (Gold);1;0
+Celestial Alignment;Event;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
 Celestial Dragon, Guardian of Tengoku • Experienced;Personality;Unaligned;Chaos Reigns III (Fixed);Shattered Empire;1;0
 Cessation of Hostilities;Event;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Cessation of Hostilities;Event;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
@@ -6624,6 +6636,7 @@ The Height of Courage;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
 The Heir's Wrath;Strategy;;Embers of War (Rare);Age of Conquest (Emperor);1;0
 The Hida Ryokans;Holding;;Road to Ruin (Fixed);Shattered Empire;3;0
 The Hida Ryokans;Holding;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
+The Hidden Bastion of the Spider;Stronghold;Spider;Twenty Festivals (Fixed);A Brother's Destiny (Twenty Festivals);1;0
 The Hidden Heart of Iuchiban • ExperiencedCW;Ring;;Siege: Clan War (Fixed);Legacy;1;1
 The Hidden School of the Scorpion;Stronghold;Scorpion;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 The Hidden School of the Scorpion;Stronghold;Scorpion;Shattered Empire (Fixed);Shattered Empire;1;0
@@ -6760,6 +6773,7 @@ The Viper's Teeth;Strategy;;Road to Ruin (Fixed);Shattered Empire;3;0
 The Viper's Teeth;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 The Wake of Slaughter;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 The Wake of Slaughter;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+The Wall is Breached;Event;;Promotional–Emperor (Promo);Modern;1;0
 The War Fortress of the Crab;Stronghold;Crab;Crab vs. Lion (Fixed);Age of Enlightenment (Lotus);1;1
 The War Fortress of the Crab;Stronghold;Crab;Imperial Edition (Fixed)/Emerald Edition (Fixed)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Fixed)/Time of the Void (Uncommon)/Promotional–Imperial (Promo);Clan Wars (Imperial);1;1
 The Wasting Disease;Spell;;Forbidden Knowledge (Rare);Clan Wars (Imperial);1;0
@@ -7114,6 +7128,8 @@ Utaku Haniko;Personality;Unicorn;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Utaku Hirononri;Personality;Unicorn;Seeds of Decay (Uncommon);Age of Conquest (Emperor);3;1
 Utaku Isuka, Soul of Otaku Kamoko;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Utaku Isuka, Soul of Otaku Kamoko;Personality;Unicorn;Shattered Empire (Fixed);Shattered Empire;3;0
+Utaku Ji-Yun;Personality;Unicorn;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
+Utaku Ji-Yun;Personality;Unicorn;Forgotten Legacy (Fixed);Destroyer War (Celestial);3;0
 Utaku Kazue, Shinjo's Shame • Experienced;Personality;Unicorn;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
 Utaku Kazue, Shinjo's Shame • Experienced;Personality;Unicorn;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
 Utaku Keiko;Personality;Unicorn;Celestial Edition (Rare);Destroyer War (Celestial);3;0
@@ -7598,9 +7614,7 @@ Z'orr'tek;Personality;Ratling;Soul of the Empire (Common);Hidden Emperor (Jade);
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1240
-#1244
-#1247-1248
+# Done through card #1250
 #1286
 #1288
 #1298
@@ -8344,6 +8358,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9035
 #9038
 #9050
+#9071
 #9075
 #9077
 #9080-9082
@@ -8419,6 +8434,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9926
 #9933
 #9945
+#9950
 #9974
 #9989
 #10027
@@ -8636,6 +8652,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #12240
 #12244
 #12260
+#12262
 #12266
 #12272
 #12276
