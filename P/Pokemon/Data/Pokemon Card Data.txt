@@ -501,6 +501,7 @@ Reversal Energy;Energy;Special Energy;;;;PAL 192 (Uncommon)/PAR 266 (Hyper Rare)
 
 # Obsidian Flames (OBF)
 Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (Promo);G;4;1
+Cleffa;Pokemon;Psychic;30;;Grasping Draw;OBF 80 (Common)/OBF 202 (Illustration Rare)/SVP 37 (Promo)/PAF 150 (Shiny Rare);G;4;0
 Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
 Pidgey;Pokemon;Colorless;60;;Gust;OBF 162 (Common)/OBF 207 (Illustration Rare);G;4;0
 Pidgeot ex;Pokemon;Colorless;280;Quick Search;Blustery Wind;OBF 164 (Double Rare)/OBF 217 (Ultra Rare)/OBF 225 (Special Illustration Rare)/PAF 221 (Shiny Ultra Rare);G;4;0
@@ -575,6 +576,7 @@ Mist Energy;Energy;Special Energy;;;;TEF 161 (Uncommon);H;4;0
 
 # Twilight Masquerade TWM
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
+Froslass;Pokemon;Water;90;Freezing Shroud;Frost Smash;TWM 53 (Rare)/TWM 174 (Illustration Rare)/SVP 117 (Promo);H;4;0
 Frogadier;Pokemon;Water;90;;Numbing Water;TWM 57 (Common);H;4;0
 Clefairy;Pokemon;Psychic;60;;Moon Kick;TWM 78 (Common)/ASC 74 (Common);H;4;0
 Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (Uncommon);H;4;0
@@ -635,6 +637,7 @@ Latias ex;Pokemon;Psychic;210;Skyliner;Eon Blade;SSP 76 (Double Rare)/SSP 220 (U
 Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
+Cyrano;Trainer;Supporter;;;;SSP 170 (Uncommon)/SSP 230 (Ultra Rare);H;4;0
 Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;2;0
 Gravity Mountain;Trainer;Stadium;;;;SSP 177 (Uncommon)/SSP 250 (Hyper Rare);H;4;0
 Precious Trolley;Trainer;Item;;;;SSP 185 (ACE SPEC Rare);H;1;0
@@ -691,8 +694,12 @@ Rabsca ex;Pokemon;Grass;250;;Upside-Down Draw|Psychic;DRI 25 (Double Rare);H;4;0
 Teal Mask Ogerpon;Pokemon;Grass;110;;Grass Kagura|Ogre's Hammer;DRI 26 (Uncommon);I;4;0
 Growlithe;Pokemon;Fire;80;;Live Coal|Dig Claws;DRI 27 (Common);I;4;1
 Arcanine;Pokemon;Fire;140;;Flare|Punishing Fang;DRI 28 (Uncommon);I;4;0
-
+Ponyta;Pokemon;Fire;70;;Double Headbutt;DRI 29 (Common);I;4;0
+Rapidash;Pokemon;Fire;110;Hurried Gait;Fire Man;DRI 30 (Uncommon)/DRI 189 (Illustration Rare);I;4;0
+Team Rocket's Moltres ex;Pokemon;Fire;220;;Flame Screen|Evil Incineration;DRI 31 (Double Rare)/DRI 208 (Ultra Rare)/DRI 229 (Special Illustration Rare);I;4;0
 Ethan's Cyndaquil;Pokemon;Fire;70;;Ember;DRI 32 (Common);I;4;2 # 1 reverse foil
+Ethan's Quilava;Pokemon;Fire;100;Bonded by the Journey;Combustion;DRI 33 (Common);I;4;0
+
 Ethan's Slugma;Pokemon;Fire;80;;Steady Firebreathing;DRI 35 (Common)/ASC 23 (Common);I;4;1
 Ethan's Magcargo;Pokemon;Fire;130;Melt Away;Lava Burst;DRI 36 (Rare)/ASC 24 (Rare)/ASC 222 (Illustration Rare);I;4;0
 Ethan's Ho-Oh ex;Pokemon;Fire;230;Golden Flame;Shining Feathers;DRI 39 (Double Rare)/DRI 209 (Ultra Rare)/DRI 230 (Special Illustration Rare)/DRI 239 (Hyper Rare)/ASC 26 (Double Rare);I;4;0
@@ -734,6 +741,7 @@ Team Rocket's Zubat;Pokemon;Darkness;50;;Poison Spray;DRI 120 (Common);I;4;1
 Team Rocket's Crobat ex;Pokemon;Darkness;310;Biting Spree;Assassin's Return;DRI 122 (Double Rare)/DRI 217 (Ultra Rare)/DRI 234 (Special Illustration Rare)/DRI 242 (Hyper Rare);I;4;1
 Team Rocket's Koffing;Pokemon;Darkness;70;Smog Signals;Leaking Gas;DRI 125 (Common);I;4;1
 Team Rocket's Murkrow;Pokemon;Darkness;80;;Deceit|Torment;DRI 127 (Uncommon)/DRI 200 (Illustration Rare)/ASC 126 (Common);I;4;0
+Cynthia's Spiritomb;Pokemon;Darkness;70;;Raging Curse;DRI 129 (Uncommon)/ASC 133 (Uncommon)/ASC 244 (Illustration Rare);I;4;0
 Marnie's Impidimp;Pokemon;Darkness;70;;Filch|Corkscrew Punch;DRI 134 (Common);I;4;1
 Marnie's Morgrem;Pokemon;Darkness;100;;Corkscrew Punch;DRI 135 (Uncommon);I;4;1
 Marnie's Morpeko;Pokemon;Darkness;70;;Spiky Wheel;DRI 137 (Common)/SVP 206 (Promo);I;4;1
@@ -754,19 +762,17 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon);I;4;1
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182-188 done - last orig card
+# DRI 182-189 done - last orig card
 # DRI 193 done
 # DRI 200 done
 # DRI 202 done
-# DRI 206-207 done
-# DRI 209 done
+# DRI 206-209 done
 # DRI 213 done
 # DRI 215 done
 # DRI 217 done
 # DRI 220 done
 # DRI 223 done
-# DRI 228 done
-# DRI 230-232 done
+# DRI 228-232 done
 # DRI 234 done
 # DRI 240-244 done - last card
 
@@ -846,20 +852,25 @@ Koraidon ex;Pokemon;Fighting;230;;Orichalcum Fang|Impact Blow;ASC 121 (Double Ra
 Okidogi;Pokemon;Fighting;140;;Light Punch|Settle the Score;ASC 122 (Rare);I;4;0
 Team Rocket's Honchkrow;Pokemon;Darkness;130;;Rocket Feathers|Hammer In;ASC 127 (Rare);I;4;0
 Galarian Zigzagoon;Pokemon;Darkness;70;;Gnaw;ASC 130 (Common);I;4;0
+Galarian Linoone;Pokemon;Darkness;90;;Gnaw|Claw Slash;ASC 131 (Common);I;4;0
+Galarian Obstagoon;Pokemon;Darkness;170;;Scarring Shout|Punk Smash;ASC 132 (Uncommon)/ASC 245 (Illustration Rare);I;4;0
+Scraggy;Pokemon;Darkness;80;;Knock Off;ASC 134 (Common);I;4;0
+Mega Scrafty ex;Pokemon;Darkness;330;Counterattacking Crest;Outlaw Leg;ASC 135 (Double Rare)/ASC 270 (Mega Attack Rare)/ASC 285 (Special Illustration Rare);I;4;0
+Vullaby;Pokemon;Darkness;70;;Flap;ASC 138 (Common);J;4;0
+Mandibuzz ex;Pokemon;Darkness;260;;Bone Shot|Vulture Claw;ASC 139 (Double Rare);J;4;0
+Pangoro;Pokemon;Darkness;140;;Corkscrew Punch|Master's Punch;ASC 140 (Uncommon);I;4;0
 
-# ASC 136-137 done
 # ASC 154-155 done
 # ASC 158-160 done
 # ASC 181 done
 # ASC 183 done
-# ASC 216-243 done- last of cards
+# ASC 216-245 done- last of cards
 # ASC 247-248 done
 # ASC 252 done
 # ASC 255 done
 # ASC 265-266 done
-# ASC 268-269
+# ASC 268-270
 # ASC 272-275 done
 # ASC 277-281 done
-# ASC 283-284 done
-# ASC 286 done
+# ASC 283-286 done
 # ASC 294 done
