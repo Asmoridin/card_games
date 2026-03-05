@@ -68,17 +68,17 @@ Anakin Skywalker, What it Takes to Win;TWI-012-C;Leader;Force/Jedi/Republic;6;4;
 Anakin's Interceptor, Where the Fun Begins;TWI-142-U;Space Unit;Jedi/Republic/Vehicle/Fighter;2;2;3;R/W;2
 Ando Commission;SEC-262-C;Ground Unit;Separatist/Official;4;4;3;N;3
 Annihilator, Tagge's Flagship;JTL-041-L;Space Unit;Imperial/Vehicle/Capital Ship;11;12;12;U/B;0
+Apology Accepted;JTL-091-U;Event;Tactic;1;G/B;1
+Ardent Sympathizer;SOR-161-C;Ground Unit;Trooper;3;3;3;R;3
+Arihnda Pryce, On The Road To Power;SEC-136-R;Ground Unit;Imperial;4;4;4;R/B;2
+Armed to the Teeth;SHD-175-U;Upgrade;Supply/Weapon;2;2;0;R;3
+Armor of Fortune;SEC-070-C;Upgrade;Item/Armor;2;0;3;U;3 # 1 hyperspace, 1 hyperfoil
+Armored Saber Tank;TWI-245-C;Ground Unit;Republic/Vehicle/Tank;6;5;5;W;2
+Army of the Dead;LOF-236-C;Ground Unit;Night/Undead;6;7;6;B;3
+Arquitens Assault Cruiser;SHD-122-R;Space Unit;Vehicle/Capital Ship;8;7;8;G;1
+Arrest;SEC-195-R;Event;Law;2;Y/B;1
+As I Have Foreseen;LOF-188-R;Event;Force;1;Y/B;2 # 1 hyperspace
 # Done through here
-Apology Accepted;JTL-091-U;Event;G/B;1
-Ardent Sympathizer;SOR-161-C;Ground Unit;R;3
-Arihnda Pryce, On The Road To Power;SEC-136-R;Ground Unit;R/B;2
-Armed to the Teeth;SHD-175-U;Upgrade;R;3
-Armor of Fortune;SEC-070-C;Upgrade;U;3 # 1 hyperspace, 1 hyperfoil
-Armored Saber Tank;TWI-245-C;Ground Unit;W;2
-Army of the Dead;LOF-236-C;Ground Unit;B;3
-Arquitens Assault Cruiser;SHD-122-R;Space Unit;G;1
-Arrest;SEC-195-R;Event;Y/B;1
-As I Have Foreseen;LOF-188-R;Event;Y/B;2 # 1 hyperspace
 Asajj Ventress, Count Dooku's Assassin;TWI-134-U;Ground Unit;B/R;1
 Asajj Ventress, Harden Your Heart;LOF-165-U;Ground Unit;R;1
 Asajj Ventress, I Work Alone;JTL-001-R;Leader;U/B;1
@@ -1673,3 +1673,13 @@ Imperial Door Technician;LAW-097-C;Ground Unit;Imperial/Trooper;1;2;2;U/B;0
 Vandor Range Troopers;LAW-098-C;Ground Unit;Imperial/Trooper;4;4;6;U/B;0
 Governor's Shuttle;LAW-099-U;Space Unit;Imperial/Vehicle/Transport;5;2;4;U/B;0
 IGV-55 Listener;LAW-100-C;Space Unit;Imperial/Vehicle/Capital Ship;6;5;6;U/B;0
+Lawbringer, Shadow Over Lothal;LAW-101-L;Space Unit;Imperial/Vehicle/Capital Ship;8;7;7;U/B;0
+Choke on Aspirations;LAW-102-U;Event;Force;1;U/B;0
+Display Piece;LAW-103-R;Event;Supply;4;U/B;0
+Bodhi Rook, Creating a Diversion;LAW-104-R;Ground Unit;Rebel;2;2;4;U/W;0
+Cinta Kaz, Stone Cold and Fearless;LAW-105-U;Ground Unit;Rebel;3;3;5;U/W;0
+Defiant Scrapper;LAW-106-C;Ground Unit;Fringe;3;3;4;U/W;0
+Swoop Bike Marauder;LAW-107-C;Ground Unit;Underworld;4;4;4;U/W;0
+Lando Calrissian, Eyes Open;LAW-108-S;Ground Unit;Rebel/Underworld;5;4;5;U/W;0
+Tantive IV, Carrying Hope;LAW-109-U;Space Unit;Rebel/Vehicle/Capital Ship;7;5;8;U/W;0
+Phoenix Squadron Fighters;LAW-110-C;Space Unit;Rebel/Vehicle/Fighter;8;6;6;U/W;0
