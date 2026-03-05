@@ -1,5 +1,5 @@
-# Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs);Card Max;Card Own;
 "Crimson Forcefield";Tactic;;Blaze of Glory/BaH!;892,3710;;1;0
+# Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs);Card Max;Card Own;
 ... in the Engine Room;Trouble;;The Trouble with Tribbles;475;;4;0
 ... in the Transporters;Trouble;;The Trouble with Tribbles;476;;4;0
 ... on the Bridge;Trouble;;The Trouble with Tribbles;477;;4;0
@@ -463,6 +463,8 @@ Dabo;Incident;;Rules of Acquisition;908;;4;0
 Dakol;Personnel;Cardassian;Deep Space 9;103;;4;0
 Dal'Rok;Dilemma;Dual;Deep Space 9/Homefront;909,3489,5646;;5;4 # Have 4 HF
 Damar;Personnel;Cardassian;The Dominion/Reflections;910,3610;;2;0
+Danar;Personnel;Cardassian;Deep Space 9;911;;2;0
+Danara Pel;Personnel;Vidiian;Voyager;912;;2;0
 Danderdag;Personnel;Non-Aligned;The Trouble with Tribbles;104;;4;0
 Dangerous Liaisons;Dilemma;Dual;Rules of Acquisition/Trouble with Tribbles Starter Decks;913,7128;;4;4
 Dar;Personnel;Dominion;Holodeck Adventures;105;106;4;0
@@ -470,7 +472,14 @@ Dar;Personnel;Hirogen;Holodeck Adventures;106;105;4;0
 Darian Wallace;Personnel;Federation;Premiere;107,5982,6345,6708,7521,7630;;4;0
 Darmok;Ship;Non-Aligned;Official Tournament Sealed Deck;108,5917;;4;0
 Daro;Personnel;Cardassian;The Dominion;109,7516;;4;0
+Data (First Contact);Personnel;Federation;First Contact;915;;2;0
+Data and Geordi;Personnel;Federation;Enhanced Premiere;916;;2;0
+Data and Picard;Personnel;Federation;Identity Crisis;3048;917;2;0
+Data and Picard;Personnel;Romulan;Enhanced Premiere;917;3048;2;0
+Data Laughing;Interrupt;;Introductory 2-Player Game/Virtual Promos;918,5830;;4;0
+Data, Keep Dealing;Interrupt;;Holodeck Adventures;919;;4;0
 Data;Personnel;Federation;Premiere;914,3559,6079,6442,6805,7727,8091;;2;1
+Data's Body;Personnel;Non-Aligned;Q Continuum;920;;2;0
 Data's Head;Artifact;;Alternate Universe;921,3533;;2;2
 Daval;Personnel;Klingon;The Trouble with Tribbles;110;;4;0
 Davar;Personnel;Hirogen;The Borg;111;;4;0
@@ -1071,8 +1080,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 910
-#913-914
+# Done through card 920
 #921
 #926
 #928
@@ -1213,7 +1221,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2495
 #2611
 #3045
-#3047
+#3047-3048
 #3067-3068
 #3083
 #3086-3087
@@ -1407,6 +1415,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5822
 #5824-5825
 #5827
+#5830
 #5894
 #5900-5905
 #5909-5913
