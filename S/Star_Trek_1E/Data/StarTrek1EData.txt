@@ -1,5 +1,5 @@
-"Crimson Forcefield";Tactic;;Blaze of Glory/BaH!;892,3710;;1;0
 # Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs);Card Max;Card Own;
+"Crimson Forcefield";Tactic;;Blaze of Glory/BaH!;892,3710;;1;0
 ... in the Engine Room;Trouble;;The Trouble with Tribbles;475;;4;0
 ... in the Transporters;Trouble;;The Trouble with Tribbles;476;;4;0
 ... on the Bridge;Trouble;;The Trouble with Tribbles;477;;4;0
@@ -481,11 +481,18 @@ Data, Keep Dealing;Interrupt;;Holodeck Adventures;919;;4;0
 Data;Personnel;Federation;Premiere;914,3559,6079,6442,6805,7727,8091;;2;1
 Data's Body;Personnel;Non-Aligned;Q Continuum;920;;2;0
 Data's Head;Artifact;;Alternate Universe;921,3533;;2;2
+Data's Medals;Interrupt;;Q Continuum;922;;4;0
+Dathon;Personnel;Non-Aligned;Alternate Universe/Reflections/Virtual Promos;923,3573,8341;;2;0
 Daval;Personnel;Klingon;The Trouble with Tribbles;110;;4;0
 Davar;Personnel;Hirogen;The Borg;111;;4;0
+David Marcus;Personnel;Federation;The Motion Pictures;924,7232;;2;0
 D'deridex Advanced;Ship;Romulan;The Dominion/Reflections;113,3581;;4;0
 D'deridex;Ship;Romulan;Premiere;112,5983,6346,6709,7631;;4;1
+Deactivation;Interrupt;;First Contact;925;;4;0
 Dead End;Dilemma;Dual;First Contact/Homefront/Trouble with Tribbles Starter Decks;926,3490,7129;;5;4 # Have 4 HF
+Dead in Bed;Interrupt;;Alternate Universe;927;;4;0
+Deanna Troi (First Contact);Personnel;Federation;First Contact/Virtual Promos;930,3844;;2;0
+Deanna Troi (The Borg);Personnel;Federation;The Borg;929;;2;0
 Deanna Troi;Personnel;Federation;Premiere;928,3560,6080,6443,6806,7728,8092;;2;1
 Derell;Personnel;Cardassian;Deep Space 9;114;;4;0
 Devoras;Ship;Romulan;Premiere;953,6082,6445,6808,7730,8094;;2;1
@@ -1080,10 +1087,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 920
-#921
-#926
-#928
+# Done through card 930
 #953
 #958
 #980
@@ -1244,7 +1248,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3556-3561
 #3564-3566
 #3568
-#3572
+#3572-3573
 #3578
 #3580-3584
 #3587-3589
@@ -1262,7 +1266,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3727
 #3730-3733
 #3839
-#3843
+#3843-3844
 #3846
 #3848
 #3851-3852
@@ -1625,7 +1629,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173
 #7179-7180
-#7183-7231
+#7183-7232
 #7251
 #7277
 #7318
@@ -1764,6 +1768,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8331
 #8334-8335
 #8337
+#8341
 #8363
 #8407-8411
 #8448-8452

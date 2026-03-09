@@ -601,7 +601,7 @@ Weavile;Pokemon;Water;100;;Slash|Hail Claw;SFA 14 (Uncommon)/ASC 45 (Uncommon)/A
 Duskull;Pokemon;Psychic;60;;Come and Get You|Mumble;SFA 18 (Common)/SFA 68 (Illustration Rare)/PRE 35 (Common);H;4;0
 Dusclops;Pokemon;Psychic;90;Cursed Blast;Will-O-Wisp;SFA 19 (Common)/SFA 69 (Illustration Rare)/PRE 36 (Common);H;4;0
 Dusknoir;Pokemon;Psychic;160;Curse Blast;Shadow Bind;SFA 20 (Rare)/SFA 70 (Illustration Rare)/PRE 37 (Rare);H;4;0
-Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare);H;4;0
+Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare)/ASC 142 (Double Rare)/ASC 288 (Special Illustration Rare);H;4;0
 Pecharunt ex;Pokemon;Darkness;190;Subjugating Chains;Irritated Outburst;SFA 39 (Double Rare)/SFA 85 (Ultra Rare)/SFA 93 (Special Illustration Rare)/SFA 95 (Hyper Rare)/PRE 163 (Special Illustration Rare);H;4;0
 Academy at Night;Trainer;Stadium;;;;SFA 54 (Uncommon);H;4;0
 Binding Mochi;Trainer;Pokemon Tool;;;;SFA 55 (Uncommon)/PRE 95 (Uncommon);H;4;0
@@ -699,11 +699,16 @@ Rapidash;Pokemon;Fire;110;Hurried Gait;Fire Man;DRI 30 (Uncommon)/DRI 189 (Illus
 Team Rocket's Moltres ex;Pokemon;Fire;220;;Flame Screen|Evil Incineration;DRI 31 (Double Rare)/DRI 208 (Ultra Rare)/DRI 229 (Special Illustration Rare);I;4;0
 Ethan's Cyndaquil;Pokemon;Fire;70;;Ember;DRI 32 (Common);I;4;2 # 1 reverse foil
 Ethan's Quilava;Pokemon;Fire;100;Bonded by the Journey;Combustion;DRI 33 (Common);I;4;0
-
+Ethan's Typhlosion;Pokemon;Fire;170;;Buddy Blast|Steam Artillery;DRI 34 (Rare)/DRI 190 (Illustration Rare);I;4;0
 Ethan's Slugma;Pokemon;Fire;80;;Steady Firebreathing;DRI 35 (Common)/ASC 23 (Common);I;4;1
 Ethan's Magcargo;Pokemon;Fire;130;Melt Away;Lava Burst;DRI 36 (Rare)/ASC 24 (Rare)/ASC 222 (Illustration Rare);I;4;0
+Team Rocket's Houndour;Pokemon;Fire;70;;Steady Firebreathing;DRI 37 (Common);I;4;0
+Team Rocket's Houndoom;Pokemon;Fire;130;;Cruel Coal|Scorching Fire;DRI 38 (Uncommon)/DRI 191 (Illustration Rare);I;4;0
 Ethan's Ho-Oh ex;Pokemon;Fire;230;Golden Flame;Shining Feathers;DRI 39 (Double Rare)/DRI 209 (Ultra Rare)/DRI 230 (Special Illustration Rare)/DRI 239 (Hyper Rare)/ASC 26 (Double Rare);I;4;0
+Torchic;Pokemon;Fire;70;;Collect|Combustion;DRI 40 (Common);I;4;0
 Combusken;Pokemon;Fire;100;;Combustion|Double Kick;DRI 41 (Common);I;4;1
+Blaziken;Pokemon;Fire;170;;Heat Blast|Inferno Kick Flurry;DRI 42 (Rare)/DRI 192 (Illustration Rare);I;4;0
+
 Hearthflame Mask Ogerpon;Pokemon;Fire;110;;Fire Kagura|Searing Flame;DRI 44 (Uncommon);I;4;2
 Misty's Psyduck;Pokemon;Water;70;Flustered Leap;Sprinkle Water;DRI 45 (Uncommon)/DRI 193 (Illustration Rare);I;4;3
 Misty's Starmie;Pokemon;Water;100;;Abrupt Flash;DRI 47 (Uncommon);I;4;1 # 1 reverse holofoil
@@ -762,8 +767,7 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon);I;4;1
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182-189 done - last orig card
-# DRI 193 done
+# DRI 182-193 done - last orig card
 # DRI 200 done
 # DRI 202 done
 # DRI 206-209 done
@@ -859,13 +863,21 @@ Mega Scrafty ex;Pokemon;Darkness;330;Counterattacking Crest;Outlaw Leg;ASC 135 (
 Vullaby;Pokemon;Darkness;70;;Flap;ASC 138 (Common);J;4;0
 Mandibuzz ex;Pokemon;Darkness;260;;Bone Shot|Vulture Claw;ASC 139 (Double Rare);J;4;0
 Pangoro;Pokemon;Darkness;140;;Corkscrew Punch|Master's Punch;ASC 140 (Uncommon);I;4;0
+Hoopa;Pokemon;Darkness;120;;Filch|Knuckle Impact;ASC 141 (Rare);J;4;0
+Pecharunt;Pokemon;Darkness;80;Final Chain;Mochi Rush;ASC 143 (Rare);I;4;0
+Mawile;Pokemon;Metal;90;;Call for Family|Bite;ASC 144 (Uncommon)/ASC 246 (Illustration Rare);J;4;0
+Registeel ex;Pokemon;Metal;230;;Regi Charge|Protecting Steel;ASC 145 (Double Rare);J;4;0
+Pawniard;Pokemon;Metal;70;;Push Down;ASC 146 (Common);I;4;0
+Bisharp;Pokemon;Metal;120;;Rapid Draw;ASC 147 (Common);I;4;0
+Kingambit;Pokemon;Metal;170;Supreme Overlord;Double-Edged Slash;ASC 148 (Rare);I;4;0
+Togedemaru ex;Pokemon;Metal;190;;Stun Needle|Spiky Rolling;ASC 149 (Double Rare);J;4;0
+Dratini;Pokemon;Dragon;80;;Headbutt;ASC 150 (Common);I;4;0
 
 # ASC 154-155 done
 # ASC 158-160 done
 # ASC 181 done
 # ASC 183 done
-# ASC 216-245 done- last of cards
-# ASC 247-248 done
+# ASC 216-248 done- last of cards
 # ASC 252 done
 # ASC 255 done
 # ASC 265-266 done
@@ -873,4 +885,5 @@ Pangoro;Pokemon;Darkness;140;;Corkscrew Punch|Master's Punch;ASC 140 (Uncommon);
 # ASC 272-275 done
 # ASC 277-281 done
 # ASC 283-286 done
+# ASC 288 done
 # ASC 294 done

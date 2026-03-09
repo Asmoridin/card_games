@@ -78,17 +78,17 @@ Army of the Dead;LOF-236-C;Ground Unit;Night/Undead;6;7;6;B;3
 Arquitens Assault Cruiser;SHD-122-R;Space Unit;Vehicle/Capital Ship;8;7;8;G;1
 Arrest;SEC-195-R;Event;Law;2;Y/B;1
 As I Have Foreseen;LOF-188-R;Event;Force;1;Y/B;2 # 1 hyperspace
+Asajj Ventress, Count Dooku's Assassin;TWI-134-U;Ground Unit;Force/Separatist/Sith;4;2;4;B/R;1
+Asajj Ventress, Harden Your Heart;LOF-165-U;Ground Unit;Force/Night/Bounty Hunter;5;5;6;R;1
+Asajj Ventress, I Work Alone;JTL-001-R;Leader;Force/Night/Bounty Hunter/Pilot;6;4;6;U/B;1
+Asajj Ventress, Unparalleled Adversary;TWI-014-R;Leader;Force/Separatist/Sith;4;3;4;Y/B;0
+Ascension Cable;LOF-215-C;Upgrade;Item;2;1;3;Y;2
+ASP Laborer;SEC-259-C;Ground Unit;Droid;2;1;4;N;3
+Assassin Probe;SEC-263-C;Ground Unit;Separatist/Droid;5;4;4;N;3
+Asteroid Sanctuary;SOR-218-C;Event;Trick;2;Y;3
+Astromech Pilot;JTL-057-U;Ground Unit;Droid/Pilot;1;1;3;U;1
+AT-AT Suppressor;SOR-039-U;Ground Unit;Imperial/Vehicle/Walker;8;8;8;U/B;2 # 1 hyperspace
 # Done through here
-Asajj Ventress, Count Dooku's Assassin;TWI-134-U;Ground Unit;B/R;1
-Asajj Ventress, Harden Your Heart;LOF-165-U;Ground Unit;R;1
-Asajj Ventress, I Work Alone;JTL-001-R;Leader;U/B;1
-Asajj Ventress, Unparalleled Adversary;TWI-014-R;Leader;Y/B;0
-Ascension Cable;LOF-215-C;Upgrade;Y;2
-ASP Laborer;SEC-259-C;Ground Unit;N;3
-Assassin Probe;SEC-263-C;Ground Unit;N;3
-Asteroid Sanctuary;SOR-218-C;Event;Y;3
-Astromech Pilot;JTL-057-U;Ground Unit;U;1
-AT-AT Suppressor;SOR-039-U;Ground Unit;U/B;2 # 1 hyperspace
 AT-DP Occupier;JTL-163-C;Ground Unit;R;3
 AT-ST;SOR-232-C;Ground Unit;B;3 # 1 hyperfoil
 AT-TE Vanguard;TWI-247-U;Ground Unit;W;1
@@ -1192,7 +1192,7 @@ Rey, Nobody;LOF-012-R;Leader;R/W;1 # 1 hyperspace
 Rey, With Palpatine's Power;LOF-148-R;Ground Unit;R/W;1
 Rhokai Gunship;SHD-164-C;Space Unit;R;3
 Rich Reward;SHD-261-C;Upgrade;N;3
-Rickety Quadjumper;SHD-057-C;Space Unit;U;3 # 1 hyperspace
+Rickety Quadjumper;SHD-057-C/LAW-115-C;Space Unit;Fringe/Vehicle/Transport;2;1;3;U;3 # 1 hyperspace
 Rio Durant, Wisecracking Wheelman;JTL-015-C;Leader;Y/B;1
 Rival's Fall;SHD-079-C;Event;U;3
 Rix Road;SEC-019-C;Base;U;1 # 1 hyperspace
@@ -1683,3 +1683,12 @@ Swoop Bike Marauder;LAW-107-C;Ground Unit;Underworld;4;4;4;U/W;0
 Lando Calrissian, Eyes Open;LAW-108-S;Ground Unit;Rebel/Underworld;5;4;5;U/W;0
 Tantive IV, Carrying Hope;LAW-109-U;Space Unit;Rebel/Vehicle/Capital Ship;7;5;8;U/W;0
 Phoenix Squadron Fighters;LAW-110-C;Space Unit;Rebel/Vehicle/Fighter;8;6;6;U/W;0
+Leia's Disguise;LAW-111-S;Upgrade;Item/Armor;2;2;2;U/W;0
+Boonta Eve Flagbearer;LAW-112-U;Ground Unit;Fringe;1;1;3;U;0
+Shield Drive Outfitter;LAW-113-C;Ground Unit;Underworld;1;1;3;U;0
+Alkenzi Patroller;LAW-114-C;Space Unit;Imperial/Vehicle/Fighter;2;2;1;U;0
+Rodian Bondsman;LAW-116-C;Ground Unit;Bounty Hunter;2;2;3;U;0
+Conveyex Security Captain;LAW-117-R;Ground Unit;Imperial/Trooper3;2;4;U;0
+Droid Laser Turret;LAW-118-C;Ground Unit;Droid;3;2;1;U;0
+Rogue One, At Any Cost;LAW-119-R;Space Unit;Rebel/Vehicle/Transport;3;3;3;U;0
+Vigilant Scouts;LAW-120-C;Ground Unit;Underworld/Bounty Hunter;4;3;5;U;0
