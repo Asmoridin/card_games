@@ -175,17 +175,17 @@ Billy Bones - Space Sailor;Character;Steel;Storyborn/Alien/Pirate;Azurite Sea (U
 Binding Contract;Item;Amethyst;;Rise of the Floodborn (Uncommon);0
 Black Heron - Real Bad Egg;Character;Steel;Storyborn/Villain;Whispers in the Well (Uncommon);1
 Blast from Your Past;Action;Amber;Song;Shimmering Skies (Super Rare);0
-# Traits done through here
 Blessed Bagpipes;Item;Emerald;;Whispers in the Well (Uncommon);0
-Blue Fairy - Guiding Light;Character;Amethyst/Emerald;;Reign of Jafar (Uncommon);0
-Blue Fairy - Rewarding Good Deeds;Character;Amethyst;;Rise of the Floodborn (Uncommon);0
-Bobby - Purple Pigeon;Character;Steel;;Reign of Jafar (Common);1
-Bobby Zimurski - Spray Cheese Kid;Character;Emerald;;Fabled (Uncommon);2
-Bolt - Dependable Friend;Character;Amber;;Archazia's Island (Common);2
-Bolt - Down but Not Out;Character;Amber/Steel;;Reign of Jafar (Rare);0
-Bolt - Headstrong Dog;Character;Steel;;Archazia's Island (Common);0
-Bolt - Superdog;Character;Amber/Steel;;Archazia's Island (Super Rare);0
+Blue Fairy - Guiding Light;Character;Amethyst/Emerald;Storyborn/Ally/Fairy;Reign of Jafar (Uncommon);0
+Blue Fairy - Rewarding Good Deeds;Character;Amethyst;Storyborn/Ally/Fairy;Rise of the Floodborn (Uncommon);0
+Bobby - Purple Pigeon;Character;Steel;Storyborn;Reign of Jafar (Common);1
+Bobby Zimuruski - Spray Cheese Kid;Character;Emerald;Storyborn/Ally;Fabled (Uncommon);2
+Bolt - Dependable Friend;Character;Amber;Storyborn/Hero;Archazia's Island (Common);2
+Bolt - Down but Not Out;Character;Amber/Steel;Storyborn/Hero;Reign of Jafar (Rare);0
+Bolt - Headstrong Dog;Character;Steel;Storyborn/Hero;Archazia's Island (Common);0
+Bolt - Superdog;Character;Amber/Steel;Floodborn/Hero;Archazia's Island (Super Rare);0
 Boss's Orders;Action;Amber;;Into the Inklands (Common);1
+# Traits done through here
 Boun - Precarious Entrepreneru;Character;Ruby;;Rise of the Floodborn (Common);0
 Bounce;Action;Emerald;;Rise of the Floodborn (Uncommon);1
 Brawl;Action;Ruby;;Ursula's Return (Common);0
@@ -352,7 +352,7 @@ Diablo - Watchful Raven;Character;Ruby;;Whispers in the Well (Rare);0
 Dig a Little Deeper;Action;Sapphire;;Ursula's Return (Uncommon)/Fabled (Uncommon);4
 Dinglehopper;Item;Amber;;The First Chapter (Common);3
 Dinner Bell;Item;Ruby;;Rise of the Floodborn (Rare)/Fabled (Rare);0
-Distract;Action;Sapphire;;Into the Inklands (Common);0
+Distract;Action;Sapphire;;Into the Inklands (Common)/Winterspell (Common);0
 Divebomb;Action;Ruby;;Into the Inklands (Uncommon);1
 Do It Again!;Action;Emerald;;The First Chapter (Rare);0
 Doc - Bold Knight;Character;Steel;;Shimmering Skies (Rare);0
@@ -877,7 +877,7 @@ Legend of the Sword in the Stone;Action;Amethyst;;Rise of the Floodborn (Common)
 Lena Sabrewing - Mysterious Duck;Character;Amethyst;;Whispers in the Well (Common);0
 Lena Sabrewing - Pure Energy;Character;Amethyst/Steel;;Reign of Jafar (Uncommon);2
 Lena Sabrewing - Rebellious Teenager;Character;Amethyst;;Into the Inklands (Common);0
-Let it Go;Action;Sapphire;;The First Chapter (Rare);1
+Let it Go;Action;Sapphire;;The First Chapter (Rare)/Winterspell (Rare);1
 Lexington - Small in Stature;Character;Steel;;Whispers in the Well (Uncommon);0
 Li Shang - Archery Instructor;Character;Steel;;Rise of the Floodborn (Uncommon);0
 Li Shang - General's Son;Character;Ruby;;Ursula's Return (Common);0
@@ -2029,10 +2029,14 @@ Morty Fieldmouse - Tiny Tim;Character;Sapphire;Storyborn/Ally;Winterspell (Rare)
 Belle - Snowfield Strategist;Character;Sapphire;Storyborn/Hero/Princess;Winterspell (Super Rare);0
 Mickey Mouse - Bob Cratchit;Character;Sapphire;Storyborn/Hero;Winterspell (Rare);0
 Scrooge McDuck - Miserly Ebenezer;Character;Sapphire;Storyborn/Villain;Winterspell (Common);0
-
+Chief Tui - Weaving a Tale;Character;Sapphire;Storyborn/Mentor/King;Winterspell (Common);0
+Visiting Christmas Past;Action;Sapphire;;Winterspell (Rare);0
+Wipe Out!;Action;Sapphire;;Winterspell (Uncommon);0
+Blue Smoke;Item;Sapphire;;Winterspell (Common);0
 Tiny Tim's Crutch;Item;Sapphire;;Winterspell (Common);2
-
+Darkwing's Chair Set;Item;Sapphire;;Winterspell (Rare);0
 Darkwing's Gas Device;Item;Sapphire;;Winterspell (Uncommon);1
+Hidden Trap;Item;Sapphire;;Winterspell (Uncommon);0
 
 Launchpad - Hideout Defender;Character;Steel;Dreamborn/Ally;Winterspell (Uncommon);1
 
