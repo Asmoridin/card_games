@@ -13,6 +13,7 @@ from card_games.General.Libraries.output_utils import double_print
 
 modules = [
     ("card_games/A/Anachronism/anachronism.py", "anachronism"),
+    ("card_games/B/Babylon_5/babylon_5.py", "babylon_5"),
     ("card_games/C/City_of_Heroes/city_of_heroes.py", "city_of_heroes"),
     ("card_games/D/Daemon_Dice/daemon_dice.py", "daemon_dice"),
     ("card_games/D/Dragon_Dice/dragon_dice.py", "dragon_dice"),

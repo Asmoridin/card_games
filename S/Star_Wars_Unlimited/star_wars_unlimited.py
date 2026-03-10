@@ -44,6 +44,8 @@ def process_card_set(card_set_in):
             check_card_set = 'Secrets of Power'
         elif check_card_set == 'IBH':
             check_card_set = 'Intro Battle: Hoth'
+        elif check_card_set == 'LAW':
+            check_card_set = 'A Lawless Time'
         else:
             print(f"Unknown card set {check_card_set}")
             return [[], []]
