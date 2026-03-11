@@ -708,10 +708,15 @@ Ethan's Ho-Oh ex;Pokemon;Fire;230;Golden Flame;Shining Feathers;DRI 39 (Double R
 Torchic;Pokemon;Fire;70;;Collect|Combustion;DRI 40 (Common);I;4;0
 Combusken;Pokemon;Fire;100;;Combustion|Double Kick;DRI 41 (Common);I;4;1
 Blaziken;Pokemon;Fire;170;;Heat Blast|Inferno Kick Flurry;DRI 42 (Rare)/DRI 192 (Illustration Rare);I;4;0
-
+Heat Rotom;Pokemon;Fire;80;;Singe|Gadget Show;DRI 43 (Common);I;4;0
 Hearthflame Mask Ogerpon;Pokemon;Fire;110;;Fire Kagura|Searing Flame;DRI 44 (Uncommon);I;4;2
 Misty's Psyduck;Pokemon;Water;70;Flustered Leap;Sprinkle Water;DRI 45 (Uncommon)/DRI 193 (Illustration Rare);I;4;3
+Misty's Staryu;Pokemon;Water;70;;Bubble Beam;DRI 46 (Common);I;4;0
 Misty's Starmie;Pokemon;Water;100;;Abrupt Flash;DRI 47 (Uncommon);I;4;1 # 1 reverse holofoil
+Misty's Magikarp;Pokemon;Water;30;So Submerged;Splash;DRI 48 (Common);I;4;0
+Misty's Gyarados;Pokemon;Water;180;;Splashing Panic|Waterfall;DRI 49 (Rare);I;4;0
+Misty's Lapras;Pokemon;Water;110;;Swim Together|Surf;DRI 50 (Common)/DRI 194 (Illustration Rare);I;4;0
+
 Cynthia's Milotic;Pokemon;Water;130;;Aqua Split;DRI 53 (Uncommon);I;4;1
 Huntail;Pokemon;Water;110;Diver's Catch;Wave Splash;DRI 55 (Uncommon);I;4;1
 Gorebyss;Pokemon;Water;90;;Crescendo Wave;DRI 56 (Rare);I;4;1
@@ -767,7 +772,7 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon);I;4;1
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182-193 done - last orig card
+# DRI 182-194 done - last orig card
 # DRI 200 done
 # DRI 202 done
 # DRI 206-209 done
@@ -872,18 +877,22 @@ Bisharp;Pokemon;Metal;120;;Rapid Draw;ASC 147 (Common);I;4;0
 Kingambit;Pokemon;Metal;170;Supreme Overlord;Double-Edged Slash;ASC 148 (Rare);I;4;0
 Togedemaru ex;Pokemon;Metal;190;;Stun Needle|Spiky Rolling;ASC 149 (Double Rare);J;4;0
 Dratini;Pokemon;Dragon;80;;Headbutt;ASC 150 (Common);I;4;0
+Dragonair;Pokemon;Dragon;100;Evolutionary Guidance;Tail Snap;ASC 151 (Uncommon);I;4;0
+Mega Dragonite ex;Pokemon;Dragon;370;Sky Transport;Ryuno Glide;ASC 152 (Double Rare)/ASC 271 (Mega Attack Rare)/ASC 290 (Special Illustration Rare)/ASC 295 (Mega Hyper Rare);I;4;0
+Rayquaza;Pokemon;Dragon;120;;Breakthrough Assault|Dragon Claw;ASC 153 (Rare);I;4;0
+Noibat;Pokemon;Dragon;70;;Knickknack Carrying|Bite;ASC 156 (Common);I;4;0
+Noivern;Pokemon;Dragon;120;;Agility|Enhanced Blade;ASC 157 (Uncommon);I;4;0
+#ASC 160 done
 
-# ASC 154-155 done
-# ASC 158-160 done
 # ASC 181 done
 # ASC 183 done
 # ASC 216-248 done- last of cards
 # ASC 252 done
 # ASC 255 done
 # ASC 265-266 done
-# ASC 268-270
-# ASC 272-275 done
+# ASC 268-275
 # ASC 277-281 done
 # ASC 283-286 done
 # ASC 288 done
-# ASC 294 done
+# ASC 290 done
+# ASC 294-295 done (end of list)
