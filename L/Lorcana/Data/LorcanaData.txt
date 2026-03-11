@@ -185,17 +185,17 @@ Bolt - Down but Not Out;Character;Amber/Steel;Storyborn/Hero;Reign of Jafar (Rar
 Bolt - Headstrong Dog;Character;Steel;Storyborn/Hero;Archazia's Island (Common);0
 Bolt - Superdog;Character;Amber/Steel;Floodborn/Hero;Archazia's Island (Super Rare);0
 Boss's Orders;Action;Amber;;Into the Inklands (Common);1
-# Traits done through here
-Boun - Precarious Entrepreneru;Character;Ruby;;Rise of the Floodborn (Common);0
+Boun - Precocious Entrepreneur;Character;Ruby;Storyborn/Ally;Rise of the Floodborn (Common);0
 Bounce;Action;Emerald;;Rise of the Floodborn (Uncommon);1
 Brawl;Action;Ruby;;Ursula's Return (Common);0
 Break Free;Action;Ruby;;Shimmering Skies (Common);2
 Break;Action;Steel;;The First Chapter (Common);0
-Broadway - Sturdy and Strong;Character;Steel;;Whispers in the Well (Uncommon);0
-Brom Bones - Burly Bully;Character;Ruby;;Whispers in the Well (Common);0
+Broadway - Sturdy and Strong;Character;Steel;Storyborn/Ally/Gargoyle;Whispers in the Well (Uncommon);0
+Brom Bones - Burly Bully;Character;Ruby;Storyborn;Whispers in the Well (Common);0
 Bronx - Ferocious Beast;Character;Ruby;Storyborn/Ally/Gargoyle;Whispers in the Well (Common);1
-Brooklyn - Second in Command;Character;Ruby;;Whispers in the Well (Common);0
-Bruni - Fire Salamander;Character;Amethyst;;Shimmering Skies (Uncommon);0
+Brooklyn - Second in Command;Character;Ruby;Storyborn/Ally/Gargoyle;Whispers in the Well (Common);0
+Bruni - Fire Salamander;Character;Amethyst;Storyborn/Ally;Shimmering Skies (Uncommon);0
+# Traits done through here
 Bruno Madrigal - Out of the Shadows;Character;Amethyst;;Ursula's Return (Uncommon);1
 Bruno Madrigal - Singing Seer;Character;Amber/Amethyst;;Reign of Jafar (Super Rare);1
 Bruno Madrigal - Single-Minded;Character;Amethyst;;Reign of Jafar (Common);1
@@ -2037,10 +2037,16 @@ Tiny Tim's Crutch;Item;Sapphire;;Winterspell (Common);2
 Darkwing's Chair Set;Item;Sapphire;;Winterspell (Rare);0
 Darkwing's Gas Device;Item;Sapphire;;Winterspell (Uncommon);1
 Hidden Trap;Item;Sapphire;;Winterspell (Uncommon);0
-
+Rapunzel - Ethereal Protector;Character;Steel;Storyborn/Hero/Princess/Whisper;Winterspell (Rare);0
 Launchpad - Hideout Defender;Character;Steel;Dreamborn/Ally;Winterspell (Uncommon);1
-
+Prince Naveen - Bundled Up;Character;Steel;Dreamborn/Hero/Prince;Winterspell (Common);0
+Darkwing Duck - Crime Fighter;Character;Steel;Storyborn/Super/Hero/Detective;Winterspell (Common);0
+Li Shang - Solemn Son;Character;Steel;Storyborn/Hero/Captain;Winterspell (Common);0
 Gantu - Hamsterviel's Accomplice;Character;Steel;Storyborn/Alien/Captain;Winterspell (Uncommon);1
+Launchpad - Trusty Sidekick;Character;Steel;Storyborn/Ally;Winterspell (Common);0
+Donald Duck - Along for the Ride;Character;Steel;Storyborn/Hero;Winterspell (Common);0
+Chief - Seasoned Tracker;Character;Steel;Storyborn/Ally;Winterspell (Uncommon);0
+Amos Slade - Tenacious Tracker;Character;Steel;Storyborn;Winterspell (Common);0
 
 McHorn - Ice‐Cold Officer;Character;Steel;Dreamborn/Ally/Detective;Winterspell (Common);1
 
