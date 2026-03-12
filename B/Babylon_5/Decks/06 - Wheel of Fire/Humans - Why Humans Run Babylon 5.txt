@@ -34,12 +34,12 @@
 1 Transfer Point Io
 
 // Fleets
-1 Deep Space Fleet
-1 First Battle Fleet
+1 Deep Space Fleet (Human)
+1 First Battle Fleet (Human)
 1 Fleet of the Line
-1 Homeworld Fleet
-1 Picket Fleet
-1 Second Battle Fleet
+1 Homeworld Fleet (Human)
+1 Picket Fleet (Human)
+1 Second Battle Fleet (Human)
 
 // Groups
 1 ISN
@@ -47,7 +47,7 @@
 1 Spin Doctors
 
 // Enhancements
-1 A New Era - Psi Corps
+1 A New Era
 1 Heavy Resistance
 1 Independent Support
 1 Upgraded Defenses
@@ -64,7 +64,8 @@
 // Aftermaths
 1 Diplomatic Advantage
 1 United Front
-1 Events:
+
+// Events:
 1 Exploration
 3 Level the Playing Field
 1 Minds That Matter
