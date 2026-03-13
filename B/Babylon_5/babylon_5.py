@@ -118,7 +118,8 @@ def process_formats(format_name, _=None):
         'The Great War':'03 - The Great War',
         'Psi Corps':'04 - Psi Corps',
         'Severed Dreams':'05 - Severed Dreams',
-        'Wheel of Fire':'06 - Wheel of Fire'
+        'Wheel of Fire':'06 - Wheel of Fire',
+        'Crusade':'07 - Crusade',
     }
 
     return_dict = {}
@@ -343,6 +344,10 @@ if __name__ == "__main__":
     # Wheel of Fire
     wheel_of_fire_dict = process_formats("Wheel of Fire")
     handle_output("Wheel of Fire", wheel_of_fire_dict, out_file_h)
+
+    # Crusade
+    crusade_dict = process_formats("Crusade")
+    handle_output("Crusade", crusade_dict, out_file_h)
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)
