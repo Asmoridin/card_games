@@ -506,6 +506,7 @@ Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Doubl
 Pidgey;Pokemon;Colorless;60;;Gust;OBF 162 (Common)/OBF 207 (Illustration Rare);G;4;0
 Pidgeot ex;Pokemon;Colorless;280;Quick Search;Blustery Wind;OBF 164 (Double Rare)/OBF 217 (Ultra Rare)/OBF 225 (Special Illustration Rare)/PAF 221 (Shiny Ultra Rare);G;4;0
 Arven;Trainer;Supporter;;;;SVI 166 (Uncommon)/SVI 235 (Ultra Rare)/SVI 249 (Special Illustration Rare)/OBF 186 (Uncommon)/PAF 235 (Special Illustration Rare);G;8;2
+Town Store;Trainer;Stadium;;;;OBF 196 (Common);G;4;0
 
 # 151 (MEW)
 Charmander;Pokemon;Fire;70;;Blazing Destruction|Steady Firebreathing;MEW 4 (Common)/MEW 168 (Illustration Rare)/PAF 7 (Common)/PAF 109 (Shiny Rare);G;4;0
@@ -591,6 +592,7 @@ Bloodmoon Ursaluna ex;Pokemon;Colorless;260;Seasoned Skill;Blood Moon;TWM 141 (D
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 Jamming Tower;Trainer;Stadium;;;;TWM 153 (Uncommon)/DRI 243 (Hyper Rare);H;4;0
+Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
 Secret Box;Trainer;Item;;;;TWM 163 (ACE SPEC Rare);H;2;0
 Legacy Energy;Energy;Special Energy;;;;TWM 167 (ACE SPEC Rare);H;2;0
 
@@ -606,7 +608,7 @@ Pecharunt ex;Pokemon;Darkness;190;Subjugating Chains;Irritated Outburst;SFA 39 (
 Academy at Night;Trainer;Stadium;;;;SFA 54 (Uncommon);H;4;0
 Binding Mochi;Trainer;Pokemon Tool;;;;SFA 55 (Uncommon)/PRE 95 (Uncommon);H;4;0
 Colress's Tenacity;Trainer;Supporter;;;;SFA 57 (Uncommon)/SFA 87 (Ultra Rare);H;4;0
-Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (Ultra Rare);H;8;2
+Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (Ultra Rare)/ASC 196 (Common);H;8;2
 Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
 
 # Stellar Crown
@@ -716,11 +718,14 @@ Misty's Starmie;Pokemon;Water;100;;Abrupt Flash;DRI 47 (Uncommon);I;4;1 # 1 reve
 Misty's Magikarp;Pokemon;Water;30;So Submerged;Splash;DRI 48 (Common);I;4;0
 Misty's Gyarados;Pokemon;Water;180;;Splashing Panic|Waterfall;DRI 49 (Rare);I;4;0
 Misty's Lapras;Pokemon;Water;110;;Swim Together|Surf;DRI 50 (Common)/DRI 194 (Illustration Rare);I;4;0
-
+Team Rocket's Articuno;Pokemon;Water;120;Repelling Veil;Dark Frost;DRI 51 (Rare);I;4;0
+Cynthia's Feebas;Pokemon;Water;30;;Undulate;DRI 52 (Common);I;4;0
 Cynthia's Milotic;Pokemon;Water;130;;Aqua Split;DRI 53 (Uncommon);I;4;1
+Clamperl;Pokemon;Water;60;;Shell Press;DRI 54 (Common)/DRI 195 (Illustration Rare);I;4;0
 Huntail;Pokemon;Water;110;Diver's Catch;Wave Splash;DRI 55 (Uncommon);I;4;1
 Gorebyss;Pokemon;Water;90;;Crescendo Wave;DRI 56 (Rare);I;4;1
 Buizel;Pokemon;Water;70;;Tail Whip|Wave Splash;DRI 57 (Common);I;4;1
+
 Snover;Pokemon;Water;90;;Light Punch|Icicle;DRI 59 (Common);I;4;1
 Wash Rotom;Pokemon;Water;80;;Manual Wash|Gadget Show;DRI 61 (Common);I;4;1
 Cetoddle;Pokemon;Water;100;;Gentle Slap|Frost Smash;DRI 64 (Common);I;4;1
@@ -757,6 +762,7 @@ Marnie's Morgrem;Pokemon;Darkness;100;;Corkscrew Punch;DRI 135 (Uncommon);I;4;1
 Marnie's Morpeko;Pokemon;Darkness;70;;Spiky Wheel;DRI 137 (Common)/SVP 206 (Promo);I;4;1
 Steven's Skarmory;Pokemon;Metal;120;;Razor Wing|Sonic Double;DRI 142 (Common);I;4;1
 Team Rocket's Raticate;Pokemon;Colorless;90;;Reckless Abandon;DRI 148 (Common)/DRI 202 (Illustration Rare);I;4;1
+Team Rocket's Meowth;Pokemon;Colorless;70;;Paw-cket Pilfer|Fury Swipes;DRI 149 (Common)/DRI 203 (Illustration Rare)/ASC 161 (Common);I;4;0
 Team Rocket's Porygon;Pokemon;Colorless;60;;Hacking;DRI 153 (Common);I;4;1
 Team Rocket's Porygon-Z;Pokemon;Colorless;140;Reconstitute;R Command;DRI 155 (Uncommon);I;4;1
 Swellow;Pokemon;Colorless;100;;Add On|Speed Wing;DRI 157 (Common);I;4;1 # 1 reverse foil
@@ -772,9 +778,9 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon);I;4;1
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182-194 done - last orig card
+# DRI 182-195 done - last orig card
 # DRI 200 done
-# DRI 202 done
+# DRI 202-203 done
 # DRI 206-209 done
 # DRI 213 done
 # DRI 215 done
@@ -882,11 +888,20 @@ Mega Dragonite ex;Pokemon;Dragon;370;Sky Transport;Ryuno Glide;ASC 152 (Double R
 Rayquaza;Pokemon;Dragon;120;;Breakthrough Assault|Dragon Claw;ASC 153 (Rare);I;4;0
 Noibat;Pokemon;Dragon;70;;Knickknack Carrying|Bite;ASC 156 (Common);I;4;0
 Noivern;Pokemon;Dragon;120;;Agility|Enhanced Blade;ASC 157 (Uncommon);I;4;0
-#ASC 160 done
+Team Rocket's Kangaskhan ex;Pokemon;Colorless;230;;Comet Punch|Wicked Impact;ASC 162 (Double Rare);I;4;0
+Larry's Dunsparce;Pokemon;Colorless;70;;Rising Lunge;ASC 163 (Common);J;4;0
+Larry's Dudunsparce ex;Pokemon;Colorless;270;;Work Rush;ASC 164 (Double Rare);J;4;0
+Skitty;Pokemon;Colorless;60;;Cat Kick;ASC 165 (Common);J;4;0
+Delcatty;Pokemon;Colorless;100;;Cat Kick|Energy Crush;ASC 166 (Uncommon);J;4;0
+Zangoose ex;Pokemon;Colorless;200;;Spike Draw|Wild Scissors;ASC 167 (Double Rare);J;4;0
+Larry's Starly;Pokemon;Colorless;60;;Minor Errand-Running|Glide;ASC 168 (Common);J;4;0
+Larry's Staravia;Pokemon;Colorless;90;;Flap|Razor Wing;ASC 169 (Uncommon);J;4;0
+Larry's Staraptor;Pokemon;Colorless;150;;Facade|Feathery Strike;ASC 170 (Rare)/ASC 249 (Illustration Rare);J;4;0
 
 # ASC 181 done
 # ASC 183 done
-# ASC 216-248 done- last of cards
+# ASC 196 done
+# ASC 216-249 done- last of cards
 # ASC 252 done
 # ASC 255 done
 # ASC 265-266 done

@@ -1,4 +1,3 @@
-# Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs);Card Max;Card Own;
 "Crimson Forcefield";Tactic;;Blaze of Glory/BaH!;892,3710;;1;0
 '45 Dom Perignon;Equipment;;Holodeck Adventures;504;;4;0
 ... in the Engine Room;Trouble;;The Trouble with Tribbles;475;;4;0
@@ -461,6 +460,7 @@ Cytherians;Dilemma;Space;Premiere/Virtual Promos;906,3537,5572,6078,6441,6804,77
 Cytoplasmic Life-form;Dilemma;Dual;Holodeck Adventures;907;;4;0
 D'deridex Advanced;Ship;Romulan;The Dominion/Reflections;113,3581;;4;0
 D'deridex;Ship;Romulan;Premiere;112,5983,6346,6709,7631;;4;1
+D'Ghor;Personnel;Klingon;Deep Space 9;955;;2;0
 D'k Tahg;Equipment;;Blaze of Glory;453;;4;0
 D'Kora Marauder;Ship;Ferengi;Rules of Acquisition;117;;4;0
 D'Kora Transport;Ship;Ferengi;Rules of Acquisition;118,4079;;4;0
@@ -520,10 +520,17 @@ Derell;Personnel;Cardassian;Deep Space 9;114;;4;0
 Dereth;Personnel;Vidiian;Voyager/Virtual Promos;948,7549;;2;0
 Destroy Radioactive Garbage Scow;Interrupt;;Alternate Universe;949;;4;0
 Devidian Door;Doorway;;Alternate Universe/Reflections/Virtual Promos;950,3540,5576;;4;0
+Devidian Foragers;Interrupt;;Alternate Universe;951;;4;0
+Devinoni Ral;Personnel;Non-Aligned;Premiere;952,6081,6444,6807,7130,7729,8093;;2;0
 Devoras;Ship;Romulan;Premiere;953,6082,6445,6808,7730,8094;;2;1
+Deyos;Personnel;Dominion;Rules of Acquisition/Virtual Promos;954,4569;;2;0
+Dial Martok for Murder;Event;;Blaze of Glory;956;;4;0
 Dignitaries and Witnesses;Dilemma;Dual;Homefront II;3851;;4;4
 Dilanum;Personnel;Vidiian;The Borg;115;;4;0
+Dimensional Shifting;Interrupt;;All Good Things;957,8412,8453;;4;0
 Diplomacy Mission;Mission;Planet;Premiere/Trouble with Tribbles Starter Decks;958,6083,6446,6809,7131,7731;;2;1
+Diplomatic Conference;Mission;Planet;Alternate Universe;959;;2;0
+Discommendation;Event;;Q Continuum;960;;4;0
 Disrupt Alliance;Mission;Planet;Mirror, Mirror;443,4820;;2;0
 Disruptor Overload;Interrupt;;Premiere;444,6031,6394,6757,7679,8043;;4;0
 Distortion Field;Event;;Premiere;445,6032,6395,6758,7680;;4;1
@@ -1107,9 +1114,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 950
-#953
-#958
+# Done through card 960
 #980
 #989
 #1005
@@ -1351,7 +1356,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4485
 #4489
 #4565-4566
-#4568
+#4568-4569
 #4594-4595
 #4597
 #4658
@@ -1443,8 +1448,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6080
-#6082-6083
+#5966-6083
 #6085-6087
 #6091
 #6093-6095
@@ -1508,8 +1512,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6443
-#6445-6446
+#6328-6446
 #6448-6450
 #6454
 #6456-6458
@@ -1573,8 +1576,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6685-6686
 #6691-6787
 #6688
-#6788-6806
-#6808-6809
+#6788-6809
 #6811-6813
 #6817
 #6819-6821
@@ -1639,8 +1641,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7051
 #7054-7058
 #7063
-#7098-7129
-#7131-7134
+#7098-7134
 #7145-7149
 #7152
 #7159
@@ -1668,8 +1669,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7613
 #7615-7720
 #7722-7723
-#7725-7728
-#7730-7731
+#7725-7731
 #7733-7735
 #7741
 #7743
@@ -1746,8 +1746,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8073-8077
 #8079-8084
 #8086-8087
-#8089-8092
-#8094
+#8089-8094
 #8105
 #8107
 #8109
@@ -1790,5 +1789,5 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8337
 #8341
 #8363
-#8407-8411
-#8448-8452
+#8407-8412
+#8448-8453
