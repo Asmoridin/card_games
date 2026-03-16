@@ -98,17 +98,17 @@ Attuned Fyrnock;LOF-143-C;Ground Unit;Creature;2;4;1;R/W;3
 Aurra Sing, Crackshot Sniper;TWI-166-U;Ground Unit;Underworld/Bounty Hunter;7;7;6;R;2 # 1 foil
 Aurra Sing, Patient and Deadly;LOF-179-U;Ground Unit;Underworld/Bounty Hunter;2;1;4;Y/B;1
 Auzituck Liberator Gunship;SOR-195-C;Space Unit;Vehicle/Fighter;4;3;4;W/Y;3 # 1 hyperfoil, 1 hyperspace
+Avar Kriss, Marshal of Starlight;LOF-007-R;Leader;Force/Jedi/Republic;9;4;10;G/W;1
+Avenger, Hunting Star Destroyer;SOR-040-L;Space Unit;Imperial/Vehicle/Capital Ship;9;8;8;U/B;1
+Avenger, Hunting the Rebels;IBH-072-S;Space Unit;Imperial/Vehicle/Capital Ship;8;8;8;U/B;0
+Awakened Specters;LOF-066-C;Ground Unit;Night/Undead;4;4;5;U;2
+Axe Woves, Accomplished Warrior;LOF-062-R;Ground Unit;Mandalorian/Trooper;3;2;2;U;0
+B1 Attack Platform;TWI-133-C;Ground Unit;Separatist/Droid/Trooper;3;5;2;B/R;3
+B1 Security Team;TWI-207-C;Ground Unit;Separatist/Droid/Trooper;2;3;1;Y;3
+B2 Legionnaires;TWI-113-C;Ground Unit;Separatist/Droid/Trooper;5;5;4;G;3 # 1 foil
+B2EMO, That's Two Lies;SEC-248-U;Ground Unit;Fringe/Droid;1;0;4;W;2
+Babu Frik, Heyyy!;LOF-206-R;Ground Unit;Underworld;1;1;4;Y;2 # 1 hyperspace
 # Done through here
-Avar Kriss, Marshal of Starlight;LOF-007-R;Leader;G/W;1
-Avenger, Hunting Star Destroyer;SOR-040-L;Space Unit;U/B;1
-Avenger, Hunting the Rebels;IBH-072-S;Space Unit;U/B;0
-Awakened Specters;LOF-066-C;Ground Unit;U;2
-Axe Woves, Accomplished Warrior;LOF-062-R;Ground Unit;U;0
-B1 Attack Platform;TWI-133-C;Ground Unit;B/R;3
-B1 Security Team;TWI-207-C;Ground Unit;Y;3
-B2 Legionnaires;TWI-113-C;Ground Unit;G;3 # 1 foil
-B2EMO, That's Two Lies;SEC-248-U;Ground Unit;W;2
-Babu Frik, Heyyy!;LOF-206-R;Ground Unit;Y;2 # 1 hyperspace
 Bail Organa, Doing Everything He Can;SEC-008-R;Leader;G/W;1 # 1 hyperspace
 Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;G/W;2
 Bail Organa, Responding to Catastrophe;SEC-198-U;Ground Unit;Y/W;3
@@ -1702,3 +1702,13 @@ Kill Switch;LAW-127-C;Upgrade;Condition;2;-1;-1;U;0
 Veiled Strength;LAW-128-U;Upgrade;Innate;3;0;0;U;0
 Mastery;LAW-129-C;Upgrade;Learned;4;3;3;U;0
 Betrayed Trust;LAW-130-U;Event;Trick;2;U;0
+Incapacitate;LAW-131-C;Event;Tactic;2;U;0
+The Tree Remembers;LAW-132-U;Event;Tactic;4;U;0
+Lost and Forgotten;LAW-133-C;Event;Innate;6;U;0
+Bib Fortuna, Die Wanna Wanga?;LAW-134-R;Ground Unit;Underworld/Twi'lek;2;3;2;G/B;0
+Pirate Snub Fighter;LAW-135-C;Space Unit;Underworld/Vehicle/Fighter;2;2;3;G/B;0
+Syndicate Spice Runner;LAW-136-U;Ground Unit;Underworld;2;2;2;G/B;0
+Ruthless Duo;LAW-137-C;Ground Unit;Underworld/Bounty Hunter;4;3;5;G/B;0
+Undercity Hunting Team;LAW-138-C;Ground Unit;Underworld/Bounty Hunter;5;5;5;G/B;0
+Admiral Motti, Chain of Command;LAW-139-R;Ground Unit;Imperial/Official;5;4;5;G/B;0
+Intimidator, Citadel Overwatch;LAW-140-L;Space Unit;Imperial/Vehicle/Capital Ship;11;11;11;G/B;0
