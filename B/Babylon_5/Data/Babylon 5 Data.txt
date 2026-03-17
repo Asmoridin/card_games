@@ -65,7 +65,7 @@ Alliance Superfleet;Crusade;Fleet;Babylon 5;R;0
 Alliance;Deluxe/The Great War;Conflict;;C/F;3
 Altruism;The Great War;Agenda;;U;1
 Alwyn;Crusade;Character;Neutral;U;0
-Alyt Neroon;Severed Dreams;Character;Minbari;R;0
+Alyt Neroon;Severed Dreams;Character;Minbari;R;1
 Alyt;Severed Dreams;Enhancement;;U;0
 Ambassador Kosh;The Shadows;Character;Vorlon;R;1
 Ambitious Captain;The Shadows;Character;Centauri;C;3
@@ -111,7 +111,7 @@ Attack the Underlings;Severed Dreams;Conflict;;C;2
 Attacking Pawns;Deluxe;Conflict;;C;3
 Automated Fleet;Crusade;Fleet;Neutral;U;0
 Avert Incident;Deluxe;Event;;C;3
-Babylon 5 Fighters;The Great War;Fleet;Babylon 5;U;0
+Babylon 5 Fighters;The Great War;Fleet;Babylon 5;U;1
 Babylon 5 Unrest;Deluxe;Enhancement;;R;2
 Babylon 5 War Council;The Great War;Enhancement;;U;2
 Backlash;The Great War;Aftermath;;U;0
@@ -232,7 +232,7 @@ Chief Allan;Wheel of Fire;Character;Human;R;0
 Chosen of God;The Great War;Agenda;;R;1
 Chrysalis;Deluxe;Event;;U;3
 Citizen G'Kar;Severed Dreams;Character;Narn;R;1
-Civil Servants;The Great War;Group;;U;0
+Civil Servants;The Great War;Group;;U;1
 Cloak and Dagger;The Great War;Event;;C;3
 Cloud of Doom;The Great War;Event;;C;1
 Cocksure;Severed Dreams;Enhancement;;U;1
@@ -246,10 +246,10 @@ Colonial Fleet (Narn);Deluxe;Fleet;Narn;F;2
 Combat Experience;Deluxe;Aftermath;;C;3
 Combined Fleet;The Great War;Fleet;Non-Aligned;R;1
 Come Join Us;Psi Corps;Agenda;;F;3
-Command Ship;The Great War;Fleet;Neutral;R;0
+Command Ship;The Great War;Fleet;Neutral;R;1
 Commander Ivanova;The Shadows;Character;Human;U;2
 Commerce Raiding;Deluxe;Enhancement;;U;2
-Commercial Telepaths;Deluxe/Psi Corps;Group;;U/F;0
+Commercial Telepaths;Deluxe/Psi Corps;Group;;U/F;3
 Compatible Goals;Deluxe;Conflict;;U;3
 Compensation;Severed Dreams;Conflict;;U;1
 Competing Interests;Deluxe;Event;;R;2
@@ -277,14 +277,14 @@ Convene the Grey Council;Psi Corps;Event;;R;0
 Convincing Words;The Shadows;Event;;C;3
 Cooperative Measure;Wheel of Fire;Event;;C;0
 Coordinated Fire;Deluxe;Event;;C;3
-Coplann;Wheel of Fire;Character;Minbari;U;0
+Coplann;Wheel of Fire;Character;Minbari;U;1
 Corporate Connections;Wheel of Fire;Contingency;;R;0
 Corporations Go On;Crusade;Enhancement;;U;0
 Corrupted Destiny;The Shadows;Conflict;;U;2
 Cosmopolis;Wheel of Fire;Location;;U;0
 Councilor La'shan;Wheel of Fire;Character;Drakh;U;0
 Councilor Na'Far;Severed Dreams;Character;Narn;R;1
-Counterintelligence;Deluxe;Group;;R;0
+Counterintelligence;Deluxe;Group;;R;1
 Coup de Grace;The Shadows;Conflict;;R;2
 Court the Rebellious;Deluxe;Conflict;;C;3
 Courtly Intrigue;Severed Dreams;Agenda;;C;2
@@ -302,7 +302,7 @@ Cyborg Reconstruction;Psi Corps;Enhancement;;R;0
 Cynthia & Rosa;Psi Corps;Character;Neutral;U;0
 Cynthia Torqueman;Deluxe;Character;Neutral;U;1
 Dagool;The Great War;Character;Non-Aligned;R;0
-Damage Control Team;Deluxe;Group;;R;0
+Damage Control Team;Deluxe;Group;;R;2
 Damaged from Within;The Shadows;Enhancement;;R;1
 Dan Randall;Deluxe;Character;Neutral;C;3
 Danger Sense;Psi Corps;Contingency;;F;3
@@ -358,7 +358,7 @@ Different Perspectives;The Great War;Event;;F;1
 Diplomatic Advantage;Deluxe;Aftermath;;R;1
 Diplomatic Blunder;Deluxe;Event;;C;3
 Diplomatic Channels;The Great War;Enhancement;;U;0
-Diplomatic Corps;Deluxe;Group;;C;0
+Diplomatic Corps;Deluxe;Group;;C;3
 Diplomatic Immunity;Deluxe;Event;;C;3
 Diplomatic Intrusion;The Great War;Conflict;;U;1
 Diplomatic Payoff;The Great War;Contingency;;R;0
@@ -416,7 +416,7 @@ Dust;Psi Corps/The Great War;Event;;C/U;1
 Dwindling Resources;Severed Dreams;Enhancement;;R;0
 Early Warning;Deluxe;Event;;F;1
 Earth;Premier/Psi Corps;Location;Human;F;3
-Efficiency Engineers;Severed Dreams;Group;;C;0
+Efficiency Engineers;Severed Dreams;Group;;C;2
 Efficiency;The Great War;Enhancement;;U;0
 Ego Boost;Psi Corps;Event;;C;0
 Egyptian God of Frustration;The Great War;Enhancement;;U;1
@@ -470,7 +470,7 @@ Exploitation;Deluxe;Enhancement;;C;3
 Exploration;Premier;Event;;C;0
 Explore Vorlon Space;Crusade;Conflict;;R;0
 Exposed;Psi Corps;Conflict;;C;0
-Extended Contacts;Deluxe;Group;;C;0
+Extended Contacts;Deluxe;Group;;C;3
 Extermination;The Shadows;Conflict;;U;0
 Extreme Sanction;Deluxe;Conflict;;U;1
 Eye for an Eye;The Great War;Event;;F;1
@@ -507,7 +507,7 @@ First One Intervention;The Great War;Aftermath;;R;1
 First One Involvement;The Great War;Event;;R;0
 First One Protection;The Great War;Contingency;;R;1
 First Squadron;The Great War;Enhancement;;U;2
-First United Fleet;The Great War;Fleet;United;R;0
+First United Fleet;The Great War;Fleet;United;R;1
 Fixed in Their Ways;Deluxe;Enhancement;;U;3
 Flarn;Wheel of Fire;Event;;P;0
 Flashback;Severed Dreams;Aftermath;;R;0
@@ -582,7 +582,7 @@ Goods and Services;Crusade;Event;;C;0
 Gordon;Psi Corps;Character;Human;F;3
 Government Aid;The Shadows;Enhancement;;R;0
 Government Hostility;The Shadows;Enhancement;;U;1
-Government Opposition;Deluxe;Group;;R;0
+Government Opposition;Deluxe;Group;;R;2
 Grassroots Support;The Great War;Conflict;;F;1
 Gravity Well;Severed Dreams;Event;;C;2
 Greed;Psi Corps;Enhancement;;U;0
@@ -598,7 +598,7 @@ Guarded Resource;The Great War;Contingency;;R;0
 Guerillas;Psi Corps;Enhancement;;U;1
 Guilds;Wheel of Fire;Group;;U;0
 Guilt;Deluxe;Aftermath;;U;3
-Gunboat Diplomacy;Deluxe/The Great War;Conflict;;F;2
+Gunboat Diplomacy;Deluxe/The Great War;Conflict;;F;3
 Gyor;The Great War;Character;Neutral;U;1
 Hacker;The Great War;Enhancement;;U;2
 Hand of Valen;The Great War;Agenda;;U;3
@@ -625,7 +625,7 @@ Hidden Knowledge;Deluxe;Event;;F;3
 Hidden Pressures;The Great War;Event;;R;1
 Hidden Safehouse;The Shadows;Event;;C;3
 Hidden Treasury;The Great War;Contingency;;R;0
-High Level Connections;The Shadows;Group;;U;0
+High Level Connections;The Shadows;Group;;U;1
 Higher Calling;Deluxe;Agenda;;C;3
 High-Tech Weapons;Crusade;Conflict;;C;0
 Hindsight;Wheel of Fire;Event;;R;0
@@ -688,8 +688,8 @@ Internal Opposition;The Shadows;Event;;U;3
 Internal Strife;Deluxe;Event;;C;3
 Internecine Struggle;The Great War;Conflict;;F;1
 Interstellar Alliance;Wheel of Fire;Event;;C;0
-Interstellar Corporation;Deluxe;Group;;C;0
-Intervention Force;The Great War;Fleet;Babylon 5;R;0
+Interstellar Corporation;Deluxe;Group;;C;3
+Intervention Force;The Great War;Fleet;Babylon 5;R;1
 Into Their Own;The Shadows;Aftermath;;U;2
 Intolerable Interference;Deluxe;Aftermath;;U;3
 Intrigues Mature;Deluxe/The Great War;Event;;C/F;3
@@ -704,7 +704,7 @@ Isabelle;Crusade;Character;Neutral;R;0
 Isabelle's Quest;Crusade;Aftermath;;R;0
 Isdrell;Psi Corps;Character;Centauri;R;0
 ISN Reporter;The Great War;Character;Neutral;C;0
-ISN;Deluxe;Group;;U;0
+ISN;Deluxe;Group;;U;2
 Isolated;Deluxe;Enhancement;;U;3
 Isolationism;Deluxe;Enhancement;;U;2
 It Stops Here;Wheel of Fire;Aftermath;;R;0
@@ -747,7 +747,7 @@ Knowledge of the Soul;Deluxe;Event;;U;2
 Knowledge, Then Action;The Shadows;Enhancement;;R;1
 Ko'Dath;Premier;Character;Narn;F;1
 Korrinine;Psi Corps;Character;Centauri;R;0
-Kosh Naranek;Deluxe;Group;;R;1
+Kosh Naranek;Deluxe;Group;;R;2
 Kulan;Crusade;Character;Neutral;U;0
 Kullenbrak;Wheel of Fire;Character;Non-Aligned;R;0
 Labor Strike;The Great War;Event;;C;1
@@ -798,13 +798,13 @@ Lise Hampton Edgars;Severed Dreams;Character;Human;U;0
 Lise Hampton;Psi Corps;Character;Human;C;0
 Living Legends;Psi Corps;Event;;U;0
 Llort Bodyguard;Wheel of Fire;Character;Non-Aligned;C;0
-Lobbyists;The Great War;Group;;C;0
+Lobbyists;The Great War;Group;;C;3
 Local Supremacy;The Great War;Agenda;;F;1
 Lockdown;Deluxe;Event;;C;3
 Londo Mallari (gambler);Severed Dreams;Starting Ambassador;Centauri;R;1
 Londo Mollari (diplomat);Severed Dreams;Starting Ambassador;Centauri;R;1
 Londo Mollari;Premier;Starting Ambassador;Centauri;F;1
-Londo's Wives;Severed Dreams;Group;;U;0
+Londo's Wives;Severed Dreams;Group;;U;1
 Long Term Investment;Deluxe;Event;;C;3
 Looking Ahead;The Shadows;Conflict;;R;0
 Lord Kiro;Deluxe;Character;Centauri;U;2
@@ -883,9 +883,9 @@ Miagi Hidoshi;Premier;Character;Human;F;1
 Michael Garibaldi;Premier;Character;Human;F;1
 Milashi Voktal;The Great War;Character;Non-Aligned;F;1
 Military Buildup;The Shadows;Agenda;;U;3
-Military Cadre;Deluxe;Group;;C;0
-Military Outpost;The Great War;Location;;C;0
-Military Telepaths;Deluxe/Psi Corps;Group;;U/F;0
+Military Cadre;Deluxe;Group;;C;3
+Military Outpost;The Great War;Location;;C;2
+Military Telepaths;Deluxe/Psi Corps;Group;;U/F;3
 Minbar;Premier;Location;Minbari;F;1
 Minbari Agent;Deluxe;Character;Minbari;F;3
 Minbari Aide;Deluxe;Character;Minbari;F;2
@@ -914,15 +914,15 @@ Miziri Tal;Wheel of Fire;Character;Non-Aligned;R;0
 Mob Violence;The Great War;Event;;F;1
 Mobilize Reserves;The Shadows;Enhancement;;C;3
 Modern Refit;The Shadows;Enhancement;;C;3
-Moles;The Great War;Group;;F;0
+Moles;The Great War;Group;;F;1
 Momentum;The Great War;Enhancement;;R;2
 Monitored Deal;Premier;Event;;P;0
-Monks;The Shadows;Group;;R;0
+Monks;The Shadows;Group;;R;2
 Monopoly;Crusade;Conflict;;U;0
 Moral Quandary;Deluxe;Event;;C;3
 Morden;Deluxe;Character;Neutral;R;2
 Mother Ship Alpha;Psi Corps;Fleet;Human;R;0
-Motivated Leaders;Deluxe;Group;;R;0
+Motivated Leaders;Deluxe;Group;;R;1
 Movekk;Psi Corps;Character;Minbari;U;0
 Mr. Adams;Deluxe;Character;Neutral;U;3
 Mr. Chase;The Great War;Character;Neutral;C;0
@@ -962,8 +962,8 @@ Negotiation Deadline;Psi Corps;Event;;U;2
 Nejokk;Psi Corps;Character;Minbari;C;0
 Neroon (ambassador);The Great War;Starting Ambassador;Minbari;F;1
 Neroon;Deluxe;Character;Minbari;U;1
-Nest of Vipers;Severed Dreams;Group;;U;0
-Network Support;The Great War;Group;;C;0
+Nest of Vipers;Severed Dreams;Group;;U;1
+Network Support;The Great War;Group;;C;2
 Neutrality Treaty;Deluxe;Conflict;;C;3
 Never Again;Premier;Agenda;;F;1
 New Opportunities;The Shadows;Enhancement;;R;0
@@ -978,7 +978,7 @@ Nhuk/Vrek;The Great War;Character;Non-Aligned;R;1
 Night of the Long Knives;Psi Corps;Conflict;;R;0
 Nightmares;Deluxe;Aftermath;;U;3
 Nightwatch Agent;The Shadows;Character;Human;C;2
-Nightwatch Collaborators;Severed Dreams;Group;;U;0
+Nightwatch Collaborators;Severed Dreams;Group;;U;2
 Nightwatch Enforcers;The Shadows;Group;;U;2
 No Alternatives;The Shadows;Enhancement;;U;3
 No Compromises;The Great War;Enhancement;;U;2
@@ -1009,7 +1009,7 @@ Nug/Ulg;Wheel of Fire;Character;Non-Aligned;U;0
 Null Field;Crusade;Event;;C;0
 Number One;Severed Dreams;Character;Neutral;R;0
 Obey;Psi Corps;Event;;F;3
-Observation Post;The Shadows;Location;Vorlon;U;0
+Observation Post;The Shadows;Location;Vorlon;U;1
 Observers;Deluxe;Group;;R;0
 Obstacles to Victory;The Shadows;Enhancement;;R;1
 Offer a Position;Severed Dreams;Event;;C;2
@@ -1094,7 +1094,7 @@ Popular Tariffs;The Great War;Enhancement;;U;2
 Portents;The Shadows;Event;;U;2
 Portrait of the Past;Crusade;Event;;C;0
 Power Block;The Great War;Enhancement;;F;1
-Power Brokers;The Great War;Group;;R;0
+Power Brokers;The Great War;Group;;R;2
 Power in Consensus;The Great War;Contingency;;C;2
 Power of Darkness;Wheel of Fire;Event;;C;0
 Power Play;The Great War;Event;;R;1
@@ -1162,7 +1162,7 @@ Quarantine;Crusade;Enhancement;;U;0
 Quartermaster;Severed Dreams;Enhancement;;U;0
 Question Authority;Severed Dreams;Conflict;;C;2
 Quick to Anger;Crusade;Enhancement;;U;0
-Rabble Rousers;Deluxe;Group;;U;1
+Rabble Rousers;Deluxe;Group;;U;3
 Racial Command;The Great War;Event;;F;1
 Racial Cooperation;The Great War;Enhancement;;F;1
 Racial Hatred;Deluxe;Aftermath;;R;1
@@ -1178,9 +1178,9 @@ Rampage;The Shadows;Event;;U;3
 Ranger Initiate;The Great War;Character;Neutral;C;1
 Ranger Lennier;Severed Dreams;Character;Minbari;R;0
 Ranger Operations;The Shadows;Group;;R;0
-Ranger Strike Team;Deluxe;Group;;U;0
+Ranger Strike Team;Deluxe;Group;;U;2
 Ranger Training;The Great War;Enhancement;;R;1
-Rangers Surveillance;Deluxe;Group;;R;0
+Rangers Surveillance;Deluxe;Group;;R;2
 Rapid Aging;Severed Dreams;Aftermath;;U;1
 Rapid Growth;The Great War;Event;;F;1
 Rapid Recovery;The Shadows;Event;;C;3
@@ -1221,7 +1221,7 @@ Reserve Fleet;Deluxe;Fleet;Human;U;2
 Resigned to His Fate;Psi Corps;Event;;U;2
 Resist Control;Severed Dreams;Conflict;;C;2
 Resist the Vorlons;Wheel of Fire;Conflict;;C;0
-Resupply Network;The Great War;Group;;U;0
+Resupply Network;The Great War;Group;;U;1
 Retribution;Deluxe;Aftermath;;F;0
 Retributive Strike;Crusade;Event;;R;0
 Return to Ideals;The Great War;Event;;P;2
@@ -1242,7 +1242,7 @@ Rogue Telepath;Deluxe;Character;Neutral;P;3
 Rogue;Psi Corps;Enhancement;;C;0
 Round Table;Wheel of Fire;Event;;U;0
 Rule By the Masses;Wheel of Fire;Agenda;;U;0
-Rumor Mongers;The Great War;Group;;U;0
+Rumor Mongers;The Great War;Group;;U;1
 Saber Rattling;Deluxe;Conflict;;U;3
 Sabotage;Deluxe;Conflict;;F;1
 Saboteurs;Psi Corps;Group;;C;0
@@ -1273,14 +1273,14 @@ Second United Fleet;The Great War;Fleet;United;R;0
 Secondary Control;Deluxe;Enhancement;;R;1
 Secondary Experience;Deluxe;Aftermath;;F;1
 Secret and Arrogant;Wheel of Fire;Conflict;;C;0
-Secret Police;Deluxe/Psi Corps;Group;;U/F;0
+Secret Police;Deluxe/Psi Corps;Group;;U/F;3
 Secret Strike;Deluxe;Event;;R;1
 Secret Vorlon Aid;Deluxe;Event;;C;3
 Secrets of Success;Severed Dreams;Event;;P;0
-Sector 90;Psi Corps;Location;Neutral;U;0
+Sector 90;Psi Corps;Location;Neutral;U;1
 Secure the Home Front;The Great War;Agenda;;F;1
 Security Crackdown;The Great War;Event;;C;3
-Security Detail;The Great War;Group;;C;0
+Security Detail;The Great War;Group;;C;1
 Security Fleet (Centauri);The Great War;Fleet;Centauri;F;2
 Security Fleet (Human);The Great War;Fleet;Human;F;1
 Security Fleet (Minbari);The Great War;Fleet;Minbari;F;1
@@ -1311,9 +1311,9 @@ Shadow Implants;The Great War;Enhancement;;R;1
 Shadow Medallion;The Shadows;Enhancement;;R;2
 Shadow of a Shadow;Wheel of Fire;Enhancement;;R;0
 Shadow Retribution;The Shadows;Aftermath;;R;2
-Shadow Scouts;The Great War;Fleet;Shadow;U;0
-Shadow Ship;The Shadows;Fleet;Shadow;U;0
-Shadow Strike Fleet;The Great War;Fleet;Shadow;R;0
+Shadow Scouts;The Great War;Fleet;Shadow;U;3
+Shadow Ship;The Shadows;Fleet;Shadow;U;1
+Shadow Strike Fleet;The Great War;Fleet;Shadow;R;1
 Shadow Strike;Deluxe;Event;;U;1
 Shadow Symbiont;The Great War;Conflict;;R;1
 Shadow Tech Upgrade;The Great War;Enhancement;;R;1
@@ -1321,8 +1321,8 @@ Shadow War Fleet;The Great War;Fleet;Shadow;R;0
 Shadows Fall;The Great War;Event;;U;3
 Shadowwatch;The Great War;Enhancement;;R;2
 Shady Dealings;Crusade;Contingency;;C;0
-Shai Alyt Neroon;Wheel of Fire;Character;Minbari;R;0
-Shakat;Deluxe;Character;Minbari;R;0
+Shai Alyt Neroon;Wheel of Fire;Character;Minbari;R;1
+Shakat;Deluxe;Character;Minbari;R;1
 Shal Mayan;Deluxe;Character;Minbari;F;0
 Shambah III;The Great War;Location;Non-Aligned;U;2
 Shar'kali;Wheel of Fire;Character;Drakh;U;0
@@ -1337,14 +1337,14 @@ Short Term Investment;Deluxe;Event;;C;3
 Show the Colors;The Great War;Conflict;;C;0
 Sh'Sak;Psi Corps;Character;Narn;R;0
 Shunned;Deluxe;Enhancement;;U;1
-Sigma 957;The Shadows;Location;;R;0
+Sigma 957;The Shadows;Location;;R;2
 Signs and Portents;Wheel of Fire;Contingency;;U;0
 Silent Majority;Severed Dreams;Enhancement;;U;2
 Silver Tongue;The Great War;Event;;C;1
 Skeletons in the Closet;Deluxe;Aftermath;;R;0
 Skirmish;The Great War;Event;;C;2
 Sleeper Personality;Deluxe;Conflict;;F;2
-Sleeping Z'ha'dum;Deluxe;Location;Neutral;R;0
+Sleeping Z'ha'dum;Deluxe;Location;Neutral;R;2
 Slow Poison;The Shadows;Conflict;;U;0
 Slow Recovery;The Shadows;Aftermath;;C;3
 Sneak Attack;Deluxe;Event;;C;3
@@ -1420,14 +1420,14 @@ Sycophant;Severed Dreams;Character;Neutral;C;3
 Syria Planum;Psi Corps;Location;Human;F;3
 Tactical Error;Psi Corps;Contingency;;U;0
 Tactical Nuke;Crusade;Event;;C;0
-Tacticians;Severed Dreams;Group;;U;0
+Tacticians;Severed Dreams;Group;;U;1
 Taking Credit;The Shadows;Conflict;;R;1
 Taking Sides;Severed Dreams;Aftermath;;C;3
 Talia Winters;Premier/Psi Corps;Character;Human;F;3
 Ta'Lon;Premier;Character;Narn;F;1
 Taralenn II;The Shadows;Location;Minbari;R;1
-Taree;Severed Dreams;Event;;P;0
-Taunts and Games;The Great War;Event;;C;0
+Taree;Severed Dreams;Event;;P;1
+Taunts and Games;The Great War;Event;;C;3
 Team Player;Psi Corps;Enhancement;;U;1
 Technological Espionage;Deluxe;Conflict;;C;2
 Techno-mage;The Great War;Character;Neutral;R;2
@@ -1441,16 +1441,16 @@ Telepath Recruit;The Great War;Character;Non-Aligned;C;2
 Telepath Recruiters;Psi Corps;Group;;R;0
 Telepathic Revenge;Psi Corps;Contingency;;C;0
 Telepathic Scan;Deluxe/Psi Corps/The Great War;Conflict;;F;3
-Temporary Aid;The Shadows;Event;;C;0
+Temporary Aid;The Shadows;Event;;C;3
 Temptations;Deluxe;Conflict;;C;3
-Tense Situation;The Great War;Event;;C;0
-Tenuous Control;The Great War;Event;;U;0
+Tense Situation;The Great War;Event;;C;3
+Tenuous Control;The Great War;Event;;U;2
 Terra Firma;The Great War;Agenda;;R;1
 Terror Tactics;Wheel of Fire;Agenda;;U;0
 Terrorist Bombings;Deluxe;Conflict;;U;3
 Terrorist Strike;The Great War;Conflict;;F;1
 Test of Merit;The Shadows;Enhancement;;U;1
-Test Their Mettle;Deluxe/The Great War;Conflict;;F;1
+Test Their Mettle;Deluxe/The Great War;Conflict;;F;2
 That's the Spirit;Psi Corps;Event;;U;0
 The Badge & The Gloves;Psi Corps;Enhancement;;F;3
 The Chosen Ones;Wheel of Fire;Event;;U;0
@@ -1463,22 +1463,22 @@ The Eye;Premier;Enhancement;;R;0
 The Fen;Crusade;Event;;C;0
 The First One;Wheel of Fire;Aftermath;;C;0
 The Great Machine;Deluxe;Conflict;;R;0
-The Greater Good;The Great War;Event;;C;0
+The Greater Good;The Great War;Event;;C;3
 The Growing Conspiracy;Psi Corps;Enhancement;;U;0
-The Hive;Severed Dreams;Group;;U;0
+The Hive;Severed Dreams;Group;;U;1
 The Hope of Peace;Deluxe;Agenda;;U;3
 The Just Suffer;The Great War;Event;;P;0
 The Katai;The Great War;Enhancement;;R;1
 The Long Night;The Shadows;Aftermath;;C;3
 The Lure of Shadow;The Shadows;Agenda;;R;0
 The Messiah Effect;Severed Dreams;Enhancement;;R;1
-The Mind's Eye;Psi Corps;Event;;F;0
+The Mind's Eye;Psi Corps;Event;;F;3
 The One;Severed Dreams;Aftermath;;R;0
-The Opposition Rises;Deluxe;Event;;C;0
+The Opposition Rises;Deluxe;Event;;C;3
 The Path of Conquest;The Great War;Agenda;;R;0
 The Path to Peace;Severed Dreams;Agenda;;C;2
 The Price of Fame;The Great War;Aftermath;;U;1
-The Price of Power;Deluxe;Event;;F;1
+The Price of Power;Deluxe;Event;;F;3
 The Rangers;Wheel of Fire;Enhancement;;C;0
 The Regent;Wheel of Fire;Character;Centauri;R;0
 The Right Contacts;The Great War;Group;;F;1
@@ -1492,18 +1492,18 @@ The Upper Hand;The Great War;Conflict;;R;1
 The Vorlons Respond;The Shadows;Aftermath;;R;1
 The White Star;The Shadows;Fleet;Babylon 5;R;0
 The Young Races Rise;The Shadows;Enhancement;;R;1
-Their Own Destiny;The Shadows;Event;;C;0
+Their Own Destiny;The Shadows;Event;;C;3
 Thenta Makur;Deluxe;Group;;R;1
 There is Danger, Remember;Wheel of Fire;Aftermath;;R;0
 They Are Not For You;Psi Corps;Event;;R;0
 They're Just Mundanes;Psi Corps;Aftermath;;R;1
 They're Killing Us!;Severed Dreams;Conflict;;U;2
 Thieves' Guild;Crusade;Group;;U;0
-Things to Come;The Shadows;Event;;C;0
+Things to Come;The Shadows;Event;;C;3
 Third Battle Fleet (Centauri);Deluxe;Fleet;Centauri;R;2
 Third Battle Fleet (Minbari);Deluxe;Fleet;Minbari;U;2
 Third Squadron;The Great War;Enhancement;;U;1
-Third United Fleet;The Great War;Fleet;United;R;0
+Third United Fleet;The Great War;Fleet;United;R;1
 Thirteen;Psi Corps;Character;Human;R;0
 This Was a Mistake;The Great War;Event;;R;0
 Thomas;Psi Corps;Character;Neutral;U;1
@@ -1511,10 +1511,10 @@ Thought Police;Psi Corps;Agenda;;R;0
 Thug;Severed Dreams;Character;Neutral;C;2
 Ties to the Mighty;The Great War;Enhancement;;C;1
 Time Jump;Severed Dreams;Conflict;;R;0
-Time of Decision;The Great War;Event;;C;0
+Time of Decision;The Great War;Event;;C;3
 Time Stabilizer;Severed Dreams;Enhancement;;C;3
 Tip-Top Shape;Crusade;Aftermath;;P;0
-To Fight Legends;The Shadows;Event;;U;0
+To Fight Legends;The Shadows;Event;;U;3
 To Make a Stand;The Great War;Agenda;;R;0
 To Stand Alone;The Shadows;Enhancement;;R;1
 To the Victor;The Shadows;Aftermath;;R;0
@@ -1522,22 +1522,22 @@ Toast to Victory;Severed Dreams;Aftermath;;C;2
 Tolonius VII;The Shadows;Location;Centauri;U;2
 Tomorrow's Children;Crusade;Conflict;;R;0
 Tonia Wallis;Severed Dreams;Character;Neutral;C;3
-Too Predictable;The Shadows;Event;;U;0
+Too Predictable;The Shadows;Event;;U;2
 Total War;Deluxe;Agenda;;R;2
 Touched By Vorlons;Wheel of Fire;Aftermath;;U;0
 Trace Miller;Crusade;Character;Neutral;U;0
 Trade Pact;Deluxe/The Great War/Psi Corps;Conflict;;F;3
-Trade Sanctions;The Great War;Event;;C;0
-Trade War;The Great War;Event;;C;0
-Trade Windfall;Deluxe;Event;;C;0
+Trade Sanctions;The Great War;Event;;C;3
+Trade War;The Great War;Event;;C;2
+Trade Windfall;Deluxe;Event;;C;3
 Trakis;Severed Dreams;Character;Non-Aligned;R;0
 Transfer Point Io;Deluxe;Location;Human;U;3
 Treachery;Wheel of Fire;Contingency;;R;0
 Trial By Fire;Crusade;Conflict;;U;0
 Triluminary;Deluxe;Enhancement;;U;2
 Triple-cross;Severed Dreams;Event;;R;0
-Trivial Gains;The Shadows;Event;;C;0
-Troubles Brewing;The Shadows;Event;;C;0
+Trivial Gains;The Shadows;Event;;C;3
+Troubles Brewing;The Shadows;Event;;C;3
 Truce;The Great War;Event;;U;0
 Trulann;Crusade;Character;Minbari;U;0
 Tualakh Vit'lokh;The Great War;Character;Non-Aligned;U;1
@@ -1550,7 +1550,7 @@ Ulterior Motives;Crusade;Conflict;;C;0
 Unauthorized Scan;Psi Corps;Aftermath;;C;0
 Uncertain Followers;The Shadows;Enhancement;;C;3
 Uncertain Futures;The Shadows;Event;;R;1
-Uncertain Times;The Great War;Event;;F;0
+Uncertain Times;The Great War;Event;;F;1
 Under Our Protection;Severed Dreams;Contingency;;U;0
 Under Pressure;Deluxe;Aftermath;;U;1
 Undercover Investigation;Crusade;Conflict;;C;0
@@ -1561,20 +1561,20 @@ Underground Telepath;The Great War;Character;Neutral;U;1
 Undermine Trust;The Shadows;Conflict;;R;2
 Underutilized Resources;Psi Corps;Enhancement;;U;0
 Underworld Connections;Premier;Event;;F;3
-Unexpected Activity;The Great War;Event;;R;0
-Unexpected Return;The Great War;Event;;U;0
+Unexpected Activity;The Great War;Event;;R;1
+Unexpected Return;The Great War;Event;;U;2
 Unfounded Rumors;The Great War;Contingency;;R;2
-Unheralded Losses;The Shadows;Event;;R;0
+Unheralded Losses;The Shadows;Event;;R;1
 United Front;Deluxe;Aftermath;;F;2
 United We Stand;Wheel of Fire;Aftermath;;U;0
 Unity;Wheel of Fire;Contingency;;C;0
 Universal Enemy;Psi Corps;Aftermath;;R;0
 Universal Policeman;Wheel of Fire;Conflict;;C;0
-Universe Today Feature;Deluxe/The Great War;Event;;C/F;1
+Universe Today Feature;Deluxe/The Great War;Event;;C/F;3
 University Complex;The Great War;Enhancement;;U;1
 Unpopular Goals;The Great War;Conflict;;F;1
-Unpopular Intervention;The Great War;Event;;C;0
-Unrecognized Data;Deluxe;Event;;C;0
+Unpopular Intervention;The Great War;Event;;C;2
+Unrecognized Data;Deluxe;Event;;C;3
 Unrelenting Pressure;The Shadows;Enhancement;;P;0
 Unstuck in Time;Severed Dreams;Aftermath;;R;0
 Unsung Hero;The Shadows;Enhancement;;R;2
@@ -1593,15 +1593,15 @@ Venlesh;The Great War;Character;Non-Aligned;C;2
 Veteran Fleet;The Shadows;Enhancement;;P;0
 Vicious Blow;The Great War;Contingency;;C;1
 Vicious Rumors;The Great War;Aftermath;;U;2
-Victory in My Grasp;Deluxe;Event;;F;1
+Victory in My Grasp;Deluxe;Event;;F;2
 Victory;Crusade;Fleet;Babylon 5;R;0
-VIP Involvement;Severed Dreams;Event;;R;0
+VIP Involvement;Severed Dreams;Event;;R;1
 Vir Cotto;Premier;Character;Centauri;F;1
 Visions in Time;Psi Corps;Conflict;;R;0
 Vital Interests;Deluxe;Enhancement;;R;2
 Vizak;The Great War;Character;Non-Aligned;F;1
 Vlur/Nhar;The Great War;Character;Non-Aligned;F;1
-Voice of the Resistance;The Great War;Group;;R;0
+Voice of the Resistance;The Great War;Group;;R;1
 Vorlon Allies;The Great War;Enhancement;;U;1
 Vorlon Cruiser;The Shadows;Fleet;Vorlon;U;3
 Vorlon Dreams;The Great War;Conflict;;U;3
@@ -1611,7 +1611,7 @@ Vorlon Planet Killer;The Great War;Conflict;;R;1
 Vorlon Protection;The Shadows;Conflict;;U;3
 Vorlon Proxy;The Shadows;Enhancement;;C;3
 Vorlon Renegade;Wheel of Fire;Character;Neutral;R;0
-Vorlon Rescue;Deluxe;Event;;R;0
+Vorlon Rescue;Deluxe;Event;;R;1
 Vorlon Space;The Shadows;Location;Vorlon;R;1
 Vorlon Strike Fleet;The Great War;Fleet;Vorlon;R;0
 Vorlon Universe;The Great War;Agenda;;R;0
@@ -1622,8 +1622,8 @@ Vree Saucers;Deluxe;Fleet;Non-Aligned;R;0
 Vree Scouts;The Great War;Fleet;Non-Aligned;F;1
 Wade;Psi Corps;Character;Neutral;R;0
 Walkabout;The Shadows;Aftermath;;R;0
-War by Popular Decree;Deluxe;Event;;C;0
-War College;Deluxe;Group;;C;0
+War by Popular Decree;Deluxe;Event;;C;3
+War College;Deluxe;Group;;C;3
 War Crimes Trial;Severed Dreams;Conflict;;R;0
 War Fever;The Great War;Enhancement;;U;0
 War Footing;The Great War;Agenda;;U;1
@@ -1642,7 +1642,7 @@ Watch Your Back;Severed Dreams;Conflict;;C;3
 We Are Both Damned;Psi Corps;Aftermath;;U;0
 We Are Not Impressed;The Great War;Enhancement;;U;1
 We Are One;Wheel of Fire;Enhancement;;C;0
-We Can't Allow That;The Shadows;Event;;C;0
+We Can't Allow That;The Shadows;Event;;C;3
 We Die for The One;Severed Dreams;Contingency;;U;2
 We Have Always Been Here;Wheel of Fire;Enhancement;;U;0
 We Say It's Over;Wheel of Fire;Conflict;;C;0
@@ -1652,11 +1652,11 @@ Well of Forever;Crusade;Conflict;;U;0
 Well Publicized;The Great War;Aftermath;;R;1
 We'll Take Over;Crusade;Enhancement;;U;0
 What Are You?;The Great War;Aftermath;;C;2
-What Do You Want?;Deluxe;Event;;C;0
+What Do You Want?;Deluxe;Event;;C;3
 What Were You Thinking?;The Great War;Aftermath;;U;1
 Wheel of Fire;Wheel of Fire;Conflict;;R;0
 When Duty Calls;The Shadows;Aftermath;;R;2
-White Star Fleet;The Great War;Fleet;Babylon 5;R;0
+White Star Fleet;The Great War;Fleet;Babylon 5;R;1
 Who Are You?;Deluxe;Event;;C;3
 Who Do You Serve?;Wheel of Fire;Event;;U;0
 Who's Your Little Pak'ma'ra?;Crusade;Enhancement;;R;0
@@ -1665,32 +1665,32 @@ Why Are You Hitting Me?;Severed Dreams;Contingency;;C;2
 William Edgars;Psi Corps;Character;Neutral;R;0
 William Morgan Clark (ambassador);The Great War;Starting Ambassador;Human;F;1
 William Morgan Clark;The Shadows;Character;Human;R;0
-Wind Swords;Deluxe;Group;;U;2
+Wind Swords;Deluxe;Group;;U;3
 Win-Win Schemes;Wheel of Fire;Enhancement;;C;0
 Wisdom of G'Quan;Wheel of Fire;Event;;U;0
 With a Sacrifice;The Great War;Aftermath;;U;1
 With an Iron Fist;The Great War;Conflict;;F;1
-With Us or Against Us;Severed Dreams;Event;;C;0
-Withdrawal;The Shadows;Event;;C;0
+With Us or Against Us;Severed Dreams;Event;;C;2
+Withdrawal;The Shadows;Event;;C;2
 Witness Protection;Deluxe;Conflict;;R;1
 Work of the Wicked;Wheel of Fire;Conflict;;C;0
 Working Relationship;Deluxe;Enhancement;;U;3
 Working Together;Crusade;Event;;U;0
 Wounded;Deluxe;Aftermath;;R;2
-Written in the Stars;Severed Dreams;Event;;C;0
+Written in the Stars;Severed Dreams;Event;;C;2
 Wrong Place and Time;The Great War;Aftermath;;U;2
 Wushmeshkeshlep Fo;Wheel of Fire;Character;Non-Aligned;U;0
-Xenophobia;Severed Dreams;Event;;C;0
+Xenophobia;Severed Dreams;Event;;C;3
 Yabc Ftoba;Crusade;Character;Non-Aligned;R;0
 Yellow Journalism;Crusade;Enhancement;;U;0
 You Are Expendable;Crusade;Event;;C;0
 You Are Not Ready;Deluxe;Event;;F;2
-You Didn't Mean That;The Great War;Event;;C;0
-You Do Not Understand;The Great War;Event;;C;0
+You Didn't Mean That;The Great War;Event;;C;2
+You Do Not Understand;The Great War;Event;;C;2
 You Have a Destiny;Severed Dreams;Enhancement;;U;1
 You Have No Power Here;Wheel of Fire;Event;;R;0
 You Know My Reputation;Deluxe;Event;;F;3
-You Three Are One;Severed Dreams;Event;;R;0
+You Three Are One;Severed Dreams;Event;;R;1
 Zack Allan;Deluxe;Character;Human;U;3
 Zathras Who Was;Severed Dreams;Character;Neutral;R;1
 Zathras;Psi Corps;Character;Neutral;R;0
@@ -1703,5 +1703,5 @@ Za'thras;The Shadows;Character;Neutral;R;1
 Zathras';The Shadows;Character;Neutral;U;1
 Zero Sum Game;The Great War;Enhancement;;F;1
 Zhabar;The Great War;Location;Non-Aligned;F;0
-Z'ha'dum Awakened;The Shadows;Location;Shadow;R;0
+Z'ha'dum Awakened;The Shadows;Location;Shadow;R;1
 Zog!;Crusade;Contingency;;P;0

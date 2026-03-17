@@ -146,7 +146,8 @@ for play_file in sorted(os.listdir(PLAY_DIR))[:-1]:
 
 PREV_YEAR_PLAY_TOTAL = 0
 for game_name, play_count in prev_year_plays.items():
-    PREV_YEAR_PLAY_TOTAL += play_count
+    if game_name != "New Game":
+        PREV_YEAR_PLAY_TOTAL += play_count
 
 # Get current year data
 THIS_YEAR_PLAYS = 0
@@ -161,7 +162,8 @@ for play_line in current_play_lines:
     play_game, play_count = play_line.split(';')
     play_count = int(play_count)
     current_year_plays[play_game] = play_count
-    THIS_YEAR_PLAYS += play_count
+    if play_game != "New Game":
+        THIS_YEAR_PLAYS += play_count
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card_games'):
@@ -198,7 +200,8 @@ if __name__ == "__main__":
         last_year_plays = prev_year_plays.get(game_name, 0)
         goal_plays = max(avg_plays, last_year_plays + 1)
         game_goals[game_name] = goal_plays
-        TOTAL_PLAYS_GOAL += goal_plays
+        if game_name != "New Game":
+            TOTAL_PLAYS_GOAL += goal_plays
 
     # Figure out today's date progress as a percentage of the year
     from datetime import datetime
@@ -229,7 +232,8 @@ if __name__ == "__main__":
             completed_games.append(game_name)
             continue
         expected_plays = goal_plays * year_progress
-        TOTAL_PLAYS += current_plays
+        if game_name != "New Game":
+            TOTAL_PLAYS += current_plays
         progress_diff = current_plays - expected_plays
         game_progress.append((game_name, current_plays, expected_plays, progress_diff))
     game_progress = sorted(game_progress, key=lambda x:x[3])
