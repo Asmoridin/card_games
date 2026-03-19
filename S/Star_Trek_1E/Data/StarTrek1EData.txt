@@ -531,6 +531,7 @@ Dimensional Shifting;Interrupt;;All Good Things;957,8412,8453;;4;0
 Diplomacy Mission;Mission;Planet;Premiere/Trouble with Tribbles Starter Decks;958,6083,6446,6809,7131,7731;;2;1
 Diplomatic Conference;Mission;Planet;Alternate Universe;959;;2;0
 Discommendation;Event;;Q Continuum;960;;4;0
+Disengage Safety Protocols;Event;;First Contact;961;;4;0
 Disrupt Alliance;Mission;Planet;Mirror, Mirror;443,4820;;2;0
 Disruptor Overload;Interrupt;;Premiere;444,6031,6394,6757,7679,8043;;4;0
 Distortion Field;Event;;Premiere;445,6032,6395,6758,7680;;4;1
@@ -552,12 +553,22 @@ Dolak;Personnel;Cardassian;Blaze of Glory;461,7517;;2;0
 Dominion Battleship;Ship;Dominion;The Trouble with Tribbles;119;;4;0
 Dominion PADD;Equipment;;The Dominion;462;;4;0
 Dominion War Efforts;Event;;Holodeck Adventures/Virtual Promos;463,5813;;4;0
+Don't Call Me Ahab;Dilemma;Dual;First Contact;964;;4;0
+Donald Varley;Personnel;Federation;Blaze of Glory/Virtual Promos;962,8344;;2;0
+Donik;Personnel;Hirogen;The Borg;963;;2;0
+Door-Net;Q Event;;Q Continuum;965;;4;0
+Doppelganger;Event;;Q Continuum;966,4808;;4;0
 Doran;Personnel;Cardassian;Holodeck Adventures;121;122;4;0
 Doran;Personnel;Hirogen;Holodeck Adventures;122;121;4;0
 Dorza;Personnel;Cardassian;Mirror, Mirror;123,4834;;4;0
+Dr. Arridor;Personnel;Ferengi;Voyager;967;;2;0
 Dr. Borts;Personnel;Ferengi;Rules of Acquisition;124;;4;0
+Dr. Chapel;Personnel;Federation;The Motion Pictures;968,7234;;2;0
+Dr. Farallon;Personnel;Federation;Mirror, Mirror;969;;2;0
 Dr. Farek;Personnel;Non-Aligned;Premiere;125,5985,6348,6711,7633;;4;0
 Dr. Fitzgerald;Personnel;Federation;Voyager;126;;4;0
+Dr. Gillian Taylor;Personnel;Federation;The Motion Pictures/Virtual Promos;971,5179,7236;970;2;0
+Dr. Gillian Taylor;Personnel;Non-Aligned;The Motion Pictures/Virtual Promos;970,4965,7235;971;2;0
 Dr. Leah Brahms;Personnel;Federation;Premiere;127,5986,6349,6712,7634,7998;;4;1
 Dr. Nydom;Personnel;Non-Aligned;Deep Space 9;128;;4;0
 Dr. Reyga;Personnel;Non-Aligned;Premiere;980,6085,6448,6811,7733;;2;1
@@ -1114,7 +1125,8 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 960
+# Done through card 970
+#971
 #980
 #989
 #1005
@@ -1379,6 +1391,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4798
 #4801-4802
 #4806
+#4808
 #4812-4813
 #4820
 #4824
@@ -1398,11 +1411,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4892
 #4948
 #4954
-#4964
+#4964-4965
 #5146
 #5170-5171
 #5173
 #5175-5176
+#5179
 #5248-5255
 #5257
 #5259-5260
@@ -1649,7 +1663,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173
 #7179-7180
-#7183-7233
+#7183-7236
 #7251
 #7277
 #7318
@@ -1788,6 +1802,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8334-8335
 #8337
 #8341
+#8344
 #8363
 #8407-8412
 #8448-8453
