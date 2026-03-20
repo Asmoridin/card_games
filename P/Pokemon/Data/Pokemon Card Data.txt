@@ -26,7 +26,7 @@ Blitzle;Pokemon;Lightning;60;;Smash Kick|Zap Kick;WHT 31 (Common)/WHT 114 (Illus
 Blowtorch;Trainer;Item;;;;PFL 86 (Uncommon)/PFL 117 (Ultra Rare);I;4;3
 Boldore;Pokemon;Fighting;110;;Smack Down|Power Gem;WHT 47 (Common)/WHT 128 (Illustration Rare);I;4;0
 Boltund;Pokemon;Lightning;130;;Electric Run;PFL 31 (Common);I;4;4
-Boss's Orders;Trainer;Supporter;;;;Rebel Clash 154 (Rare Holo)/Rebel Clash 189 (Rare Ultra)/Rebel Clash 200 (Rare Rainbow)/Shining Fates 58 (Rare)/Lost Origin 24 (TGU)/Brilliant Stars 132 (Rare Holo)/SWSH Black Star Promos 251 (Promo)/PAL 172 (Rare)/PAL 248 (Ultra Rare)/PAL 265 (Special Illustration Rare)/MEG 114 (Uncommon)/ASC 183 (Uncommon);D/F/G/I;8;2
+Boss's Orders;Trainer;Supporter;;;;Rebel Clash 154 (Rare Holo)/Rebel Clash 189 (Rare Ultra)/Rebel Clash 200 (Rare Rainbow)/Shining Fates 58 (Rare)/Lost Origin 24 (TGU)/Brilliant Stars 132 (Rare Holo)/SWSH Black Star Promos 251 (Promo)/PAL 172 (Rare)/PAL 248 (Ultra Rare)/PAL 265 (Special Illustration Rare)/MEG 114 (Uncommon)/ASC 183 (Uncommon)/ASC 256 (Ultra Rare);D/F/G/I;8;2
 Bouffalant ex;Pokemon;Colorless;220;Bouffer;Gold Breaker;WHT 77 (Double Rare)/WHT 162 (Ultra Rare)/WHT 170 (Special Illustration Rare);I;4;0
 Brambleghast;Pokemon;Psychic;100;Prison Panic;Psychic Sphere;PFL 47 (Uncommon);I;4;2
 Bramblin;Pokemon;Psychic;50;;Sneaky Placement;PFL 46 (Common);I;4;3
@@ -125,12 +125,12 @@ Fennel;Trainer;Supporter;;;;BLK 82 (Uncommon)/BLK 162 (Ultra Rare);I;4;0
 Ferroseed;Pokemon;Metal;70;;Zzzt|Metal Claw;WHT 68 (Common)/WHT 148 (Illustration Rare);I;4;0
 Ferrothorn;Pokemon;Metal;140;;Power Whip|Metal Claw;WHT 69 (Uncommon)/WHT 149 (Illustration Rare);I;4;0
 Fighting Energy;Energy;Basic;;;;Base Set 97 (Common)/Gym Heroes 127 (Common)/Base Set 2 125 (Common)/Gym Challenge 127 (Common)/Neo Genesis 106 (Common)/Expedition Base Set 160 (Common)/EX Ruby & Sapphire 105 (Common)/EX Emerald 106 (Rare Holo)/EX Holon Phantoms 110 (Rare Holo)/EX Power Keepers 108 (Rare Holo)/Diamond & Pearl 128 (Common)/HeartGold & SoulSilver 120 (Common)/Call of Legends 93 (Common)/Black & White 110 (Common)/XY 137 (Common)/Generations 80 (Common)/Evolutions 96 (Common)/Guardians Rising 169 (Rare Secret)/Chilling Reign 233 (Rare Secret)/SVI 258 (Hyper Rare)/SVE 6 (Common)/MEE 6 (Common);All;15;10
-Fighting Gong;Trainer;Item;;;;MEG 116 (Uncommon)/MEG 168 (Ultra Rare);I;4;1
+Fighting Gong;Trainer;Item;;;;MEG 116 (Uncommon)/MEG 168 (Ultra Rare)/ASC 187 (Uncommon);I;4;1
 Fire Energy;Energy;Basic;;;;SVE 2 (Common)/SVE 10 (Common)/SVE 18 (Common)/MEE 2 (Common);All;15;15
 Firebreather;Trainer;Supporter;;;;PFL 89 (Uncommon)/PFL 119 (Ultra Rare);I;4;0
 Flygon;Pokemon;Fighting;150;Sandy Flapping;Cutting Wind;PFL 53 (Rare)/PFL 101 (Illustration Rare)/MEP 16 (Promo);I;4;1
 Foongus;Pokemon;Grass;50;;Toxic Spore;BLK 10 (Common)/BLK 95 (Illustration Rare);I;4;0
-Forest of Vitality;Trainer;Stadium;;;;MEG 117 (Uncommon);I;4;1
+Forest of Vitality;Trainer;Stadium;;;;MEG 117 (Uncommon)/ASC 188 (Uncommon)/POR 109 (Ultra Rare);I;4;1
 Fraxure;Pokemon;Dragon;100;;Bite|Boundless Power;BLK 69 (Common)/BLK 146 (Illustration Rare);I;4;0
 Friends in Hisui;Trainer;Supporter;;;;Crown Zenith 130 (Uncommon)/Crown Zenith 148 (Rare Ultra);F;4;1
 Frillish;Pokemon;Psychic;80;;Oceanic Gloom;WHT 44 (Common)/WHT 126 (Illustration Rare);I;4;0
@@ -518,6 +518,7 @@ Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
 
 # Paradox Rift (PAR)
+Toedscool;Pokemon;Grass;60;;Kick|Absorb;PAR 16 (Common);G;4;0
 Toedscruel;Pokemon;Grass;120;Slime Mold Colony;Mushroom Drain;PAR 17 (Uncommon)/PAR 185 (Illustration Rare);G;4;0
 Charcadet;Pokemon;Fire;80;;Fiery Fighting Spirit|Knuckle Punch;PAR 26 (Common);G;4;0
 Chi-Yu;Pokemon;Fire;110;;Flare Bringer|Megafire of Envy;PAR 29 (Rare)/SVP 57 (Promo);G;4;0
@@ -568,7 +569,7 @@ Mawile;Pokemon;Metal;90;;Invite and Strike|Sharp Fang;TEF 112 (Common);H;4;1
 Hoothoot;Pokemon;Colorless;70;;Silent Wing;TEF 126 (Common);H;4;1
 Dunsparce;Pokemon;Colorless;60;;Gnaw|Dig;TEF 128 (Common)/PRE 79 (Common);H;4;0
 Dudunsparce;Pokemon;Colorless;140;Run Away Draw;Land Crush;TEF 129 (Rare)/PRE 80 (Rare);H;4;0
-Buddy-Buddy Poffin;Trainer;Item;;;;TEF 144 (Uncommon)/TWM 223 (Hyper Rare)/PRE 101 (Uncommon)/MEG 167 (Ultra Rare);H;8;2
+Buddy-Buddy Poffin;Trainer;Item;;;;TEF 144 (Uncommon)/TWM 223 (Hyper Rare)/PRE 101 (Uncommon)/MEG 167 (Ultra Rare)/ASC 184 (Common);H;8;2
 Ciphermaniac's Codebreaking;Trainer;Supporter;;;;TEF 145 (Uncommon)/TEF 198 (Ultra Rare)/PRE 104 (Uncommon);H;4;0
 Hand Trimmer;Trainer;Item;;;;TEF 150 (Uncommon);H;4;1
 Hero's Cape;Trainer;Pokemon Tool;;;;TEF 152 (ACE SPEC Rare);H;2;0
@@ -623,10 +624,13 @@ Raboot;Pokemon;Fire;90;;Low Sweep|Combustion;SCR 27 (Common)/SCR 147 (Illustrati
 Cinderace ex;Pokemon;Fire;320;;Flare Strike|Garnet Volley;SCR 28 (Double Rare)/SCR 157 (Ultra Rare)/SVP 163 (Promo)/ASC 38 (Double Rare);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
+Hoothoot;Pokemon;Colorless;70;;Triple Stab;SCR 114 (Common);H;4;0
+Noctowl;Pokemon;Colorless;100;Jewel Seeker;Speed Wing;SCR 115 (Rare)/SVP 141 (Promo)/PRE 78 (Rare);H;4;0
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common)/ASC 171 (Common)/ASC 250 (Illustration Rare);H;4;0
 Terapagos ex;Pokemon;Colorless;230;;Unified Beatdown|Crown Opal;SCR 128 (Double Rare)/SCR 170 (Special Illustration Rare)/SCR 173 (Hyper Rare)/SVP 165 (Promo)/PRE 92 (Double Rare)/PRE 169 (Special Illustration Rare)/PRE 180 (Hyper Rare)/ASC 179 (Double Rare);H;4;0
 Antique Cover Fossil;Trainer;Item;;;;SCR 129 (Common)/BLK 80 (Common);H;4;0
 Area Zero Underdepths;Trainer;Stadium;;;;SCR 131 (Uncommon)/SCR 174 (Hyper Rare)/PRE 94 (Uncommon);H;4;0
+Glass Trumpet;Trainer;Item;;;;SCR 135 (Uncommon)/PRE 110 (Uncommon)/ASC 189 (Common)/ASC 260 (Ultra Rare);H;4;0
 Grand Tree;Trainer;Stadium;;;;SCR 136 (ACE SPEC Rare);H;2;0
 Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
 Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Uncommon)/PRE 171 (Special Illustration Rare);H;4;0
@@ -644,6 +648,7 @@ Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
 Terapagos;Pokemon;Colorless;120;;Prism Charge|Hard Tackle;SSP 161 (Rare)/ASC 178 (Rare);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
+Counter Gain;Trainer;Pokemon Tool;Lost Thunder 170 (Uncommon)/Lost Thunder 230 (Rare Secret)/SSP 169 (Uncommon)/SSP 249 (Hyper Rare)/ASC 186 (Common)/ASC 259 (Ultra Rare);H;4;0
 Cyrano;Trainer;Supporter;;;;SSP 170 (Uncommon)/SSP 230 (Ultra Rare);H;4;0
 Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;2;0
 Gravity Mountain;Trainer;Stadium;;;;SSP 177 (Uncommon)/SSP 250 (Hyper Rare);H;4;0
@@ -672,6 +677,7 @@ N's Zoroark ex;Pokemon;Darkness;280;Trade;Night Joker;JTG 98 (Double Rare)/JTG 1
 N's Reshiram;Pokemon;Dragon;130;;Powerful Rage|Virtuous Flame;JTG 116 (Rare)/JTG 167 (Illustration Rare)/ASC 154 (Rare);I;4;0
 Hop's Cramorant;Pokemon;Colorless;110;;Fickle Spitting;JTG 138 (Uncommon)/ASC 177 (Uncommon);I;4;0
 Brock's Scouting;Trainer;Supporter;;;;JTG 146 (Uncommon)/JTG 179 (Ultra Rare);I;4;0
+Iris's Fighting Spirit;Trainer;Supporter;;;;JTG 149 (Uncommon)/JTG 180 (Ultra Rare)/ASC 190 (Uncommon)/ASC 292 (Special Illustration Rare);I;4;0
 Levincia;Trainer;Stadium;;;;JTG 150 (Uncommon)/DRI 244 (Hyper Rare);I;4;0
 
 # Destined Rivals (DRI)
@@ -739,8 +745,13 @@ Arrokuda;Pokemon;Water;70;;Reckless Charge;DRI 62 (Common);I;4;0
 Barraskewda;Pokemon;Water;130;;Sharp Fin|Dive;DRI 63 (Uncommon);I;4;0
 Cetoddle;Pokemon;Water;100;;Gentle Slap|Frost Smash;DRI 64 (Common);I;4;1
 Cetitan ex;Pokemon;Water;300;Snow Camouflage;Crushing Press;DRI 65 (Double Rare)/DRI 210 (Ultra Rare);I;4;0
-
+Dondozo ex;Pokemon;Water;260;;Avenging Billow|Dynamic Dive;DRI 66 (Double Rare)/DRI 211 (Ultra Rare);I;4;0
+Wellspring Mask Ogerpon;Pokemon;Water;110;;Water Kagura|Bubble Drain;DRI 67 (Uncommon);I;4;0
+Electabuzz;Pokemon;Lightning;90;;Electroslug;DRI 68 (Common);I;4;0
+Electivire ex;Pokemon;Lightning;280;;Dual Bolt|High-Voltage Press;DRI 69 (Double Rare)/DRI 212 (Ultra Rare);I;4;0
 Team Rocket's Zapdos;Pokemon;Lightning;120;;Jamming Wing|Wicked Thunder;DRI 70 (Rare);I;4;1
+Ethan's Pichu;Pokemon;Lightning;30;;Zapping Draw;DRI 71 (Common);I;4;0
+
 Team Rocket's Ampharos;Pokemon;Lightning;140;Darkest Impulse;Head Bolt;DRI 74 (Uncommon);I;4;1
 Team Rocket's Mewtwo ex;Pokemon;Psychic;280;Power Saver;Erasure Ball;DRI 81 (Double Rare)/DRI 213 (Ultra Rare)/DRI 231 (Special Illustration Rare)/DRI 240 (Hyper Rare)/SVP 205 (Promo)/SVP 216 (Promo)/ASC 79 (Double Rare)/ASC 281 (Special Illustration Rare);I;4;1
 Team Rocket's Chingling;Pokemon;Psychic;30;;Chiming Commotion;DRI 85 (Common);I;4;1
@@ -792,8 +803,7 @@ Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncomm
 # DRI 182-195 done - last orig card
 # DRI 200 done
 # DRI 202-203 done
-# DRI 206-210 done
-# DRI 213 done
+# DRI 206-213 done
 # DRI 215 done
 # DRI 217 done
 # DRI 220 done
@@ -913,18 +923,18 @@ Larry's Rufflet;Pokemon;Colorless;70;;Peck the Wound;ASC 173 (Common);J;4;0
 Larry's Braviary;Pokemon;Colorless;130;;Clutch|Brave Bird;ASC 174 (Uncommon);J;4;0
 Larry's Komala;Pokemon;Colorless;90;Lethargic Charge;Dozing Draw;ASC 175 (Common);J;4;0
 Drampa;Pokemon;Colorless;130;;Gentle Slap|Dragon Strike;ASC 176 (Uncommon);J;4;0
-# ASC 180 done
+Anthea & Concordia;Trainer;Supporter;;;;ASC 182 (Uncommon)/ASC 254 (Ultra Rare);I;4;0
+Canari;Trainer;Supporter;;;;ASC 183 (Uncommon)/ASC 257 (Ultra Rare)/ASC 291 (Special Illustration Rare);I;4;0
+# ASC 190 done
 
-# ASC 181 done
-# ASC 183 done
 # ASC 196 done
 # ASC 216-250 done- last of cards
-# ASC 252-253 done
-# ASC 255 done
+# ASC 252-257 done
+# ASC 259-260 done
 # ASC 265-266 done
 # ASC 268-275
 # ASC 277-281 done
 # ASC 283-286 done
 # ASC 288 done
-# ASC 290 done
+# ASC 290-292 done
 # ASC 294-295 done (end of list)
