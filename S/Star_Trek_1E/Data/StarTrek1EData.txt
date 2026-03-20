@@ -569,8 +569,16 @@ Dr. Farek;Personnel;Non-Aligned;Premiere;125,5985,6348,6711,7633;;4;0
 Dr. Fitzgerald;Personnel;Federation;Voyager;126;;4;0
 Dr. Gillian Taylor;Personnel;Federation;The Motion Pictures/Virtual Promos;971,5179,7236;970;2;0
 Dr. Gillian Taylor;Personnel;Non-Aligned;The Motion Pictures/Virtual Promos;970,4965,7235;971;2;0
+Dr. Koramar;Personnel;Romulan;Blaze of Glory;972;;2;0
+Dr. La Forge;Personnel;Federation;Premiere;973,6084,6447,6810,7732,8096;;2;0
 Dr. Leah Brahms;Personnel;Federation;Premiere;127,5986,6349,6712,7634,7998;;4;1
+Dr. Ma'Bor Jetrel;Personnel;Non-Aligned;Voyager;974;;2;0
+Dr. McCoy (The Motion Pictures);Personnel;The Motion Pictures;976,7237;;2;0
+Dr. McCoy;Personnel;Federaion;The Trouble with Tribbles/Virtual Promos;975,3693;;2;0
+Dr. Neria;Personnel;Non-Aligned;Voyager;977;;2;0
+Dr. Noah;Personnel;Non-Aligned;Holodeck Adventures;978;;2;0
 Dr. Nydom;Personnel;Non-Aligned;Deep Space 9;128;;4;0
+Dr. Q, Medicine Entity;Q Interrupt;;Q Continuum;979;;4;0
 Dr. Reyga;Personnel;Non-Aligned;Premiere;980,6085,6448,6811,7733;;2;1
 Dr. Royse;Personnel;Federation;First Contact;129;;4;0
 Dr. Selar;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;1062,6095,6458,6821,7132,7522,7743,8107;;2;1
@@ -1125,9 +1133,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 970
-#971
-#980
+# Done through card 980
 #989
 #1005
 #1029
@@ -1297,6 +1303,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3625-3628
 #3632
 #3689
+#3693
 #3698-3699
 #3703-3710
 #3727
@@ -1462,8 +1469,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6083
-#6085-6087
+#5966-6087
 #6091
 #6093-6095
 #6097
@@ -1526,8 +1532,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6319
 #6322-6323
 #6325
-#6328-6446
-#6448-6450
+#6328-6450
 #6454
 #6456-6458
 #6460
@@ -1590,8 +1595,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6685-6686
 #6691-6787
 #6688
-#6788-6809
-#6811-6813
+#6788-6813
 #6817
 #6819-6821
 #6823
@@ -1663,7 +1667,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173
 #7179-7180
-#7183-7236
+#7183-7237
 #7251
 #7277
 #7318
@@ -1683,8 +1687,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7613
 #7615-7720
 #7722-7723
-#7725-7731
-#7733-7735
+#7725-7735
 #7741
 #7743
 #7745
@@ -1761,6 +1764,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8079-8084
 #8086-8087
 #8089-8094
+#8096
 #8105
 #8107
 #8109
