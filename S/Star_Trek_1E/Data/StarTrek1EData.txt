@@ -580,6 +580,7 @@ Dr. Noah;Personnel;Non-Aligned;Holodeck Adventures;978;;2;0
 Dr. Nydom;Personnel;Non-Aligned;Deep Space 9;128;;4;0
 Dr. Q, Medicine Entity;Q Interrupt;;Q Continuum;979;;4;0
 Dr. Reyga;Personnel;Non-Aligned;Premiere;980,6085,6448,6811,7733;;2;1
+Dr. Roger Korby;Personnel;Non-Aligned;Mirror, Mirror;981;;2;0
 Dr. Royse;Personnel;Federation;First Contact;129;;4;0
 Dr. Selar;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;1062,6095,6458,6821,7132,7522,7743,8107;;2;1
 Drenol;Personnel;Vidiian;Voyager;130;;4;0
@@ -638,10 +639,19 @@ Fractured Time;Dilemma;Dual;Homefront II;3854;;4;4
 Frame of Mind;Dilemma;Dual;Alternate Universe/Homefront VI;1234,4680;;4;4
 Friendly Fire;Dilemma;Dual;The Dominion/Homefront/Virtual Promos;1237,3492,7318;;5;4 # Need 1 VP
 Frool;Personnel;Ferengi;Rules of Acquisition;160;;4;0
+Furel;Personnel;Bajoran;Blaze of Glory;982;;2;0
+Future Enterprise;Ship;Federation;Alternate Universe/Reflections/Virtual Promos;983,3531,3695;;2;0
+Gaila;Personnel;Ferengi;Rules of Acquisition/Virtual Promos;984,7428;;2;0
+Gal Gath'thong;Ship;Romulan;The Trouble with Tribbles/Borderless Promos;985,5598;;2;0
 Galathon;Personnel;Romulan;Premiere;161,5990,6353,6716,7638;;4;1
+Galen;Personnel;Non-Aligned;Q Continuum/Reflections;986,3574;;2;0
+Gallatin;Personnel;Non-Aligned;The Motion Pictures/Virtual Promos;987,4885,7238;;2;0
 Galor;Ship;Cardassian;Deep Space 9;162,4449;;4;0
+Gann;Personnel;Hirogen;The Borg;988;;2;0
 Gantt;Personnel;Bajoran;Mirror, Mirror;163;;4;0
 Gaps in Normal Space;Event;;Premiere;989,6086,6449,6812,7511,7734;;4;0 # Needs errata
+Garak;Personnel;Cardassian;The Dominion/First Anthology/Reflections;990,3079,3611;992;2;0
+Garak;Personnel;Non-Aligned;Identity Crisis;992;990;2;0
 Garren;Personnel;Hirogen;Holodeck Adventures;165;164;4;0
 Garren;Personnel;Romulan;Holodeck Adventures;164;165;4;0
 General Hazar;Personnel;Bajoran;The Dominion;166;;4;0
@@ -1133,8 +1143,8 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 980
-#989
+# Done through card 990
+#992
 #1005
 #1029
 #1042
@@ -1270,6 +1280,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3045
 #3047-3048
 #3067-3068
+#3079
 #3083
 #3086-3088
 #3117
@@ -1285,25 +1296,26 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3513-3516
 #3518
 #3522
-#3529-3530
+#3529-3531
 #3533-3541
 #3543-3544
 #3556-3561
 #3564-3566
 #3568
-#3572-3573
+#3572-3574
 #3578
 #3580-3584
 #3587-3589
 #3592
 #3600
 #3607
-#3609-3610
+#3609-3611
 #3616-3617
 #3625-3628
 #3632
 #3689
 #3693
+#3695
 #3698-3699
 #3703-3710
 #3727
@@ -1415,6 +1427,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4873-4874
 #4876
 #4879-4880
+#4885
 #4892
 #4948
 #4954
@@ -1442,8 +1455,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5576
 #5591
 #5595
-#5597
-#5599
+#5597-5599
 #5604-5605
 #5619
 #5636-5637
@@ -1667,12 +1679,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173
 #7179-7180
-#7183-7237
+#7183-7238
 #7251
 #7277
 #7318
 #7327
 #7371
+#7428
 #7432
 #7438
 #7441
