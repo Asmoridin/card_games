@@ -8,7 +8,7 @@
 A-20;USSR;Light Tank;1;1;2;2;;First Strike;73;Common;0
 Achilles;UK;Tank Destroyer;3;2;2;2;Explosive Ammo;First Strike;163;C;0
 Adaptive Tactics;Japan;Base;First Strike;41;Common;0
-Adaptive Warfare;Italy;Base;First Strike;36;Standard;0
+Adaptive Warfare;Italy;Base;First Strike;38;Standard;0
 All-in-One Solution;Poland;Base;First Strike;33;R;0
 Ammunition Resupply;Germany;Base;First Strike;5;Uncommon;0
 AMX 13 75;France;Light Tank;1;2;2;3;Triple Shot;First Strike;122;Uncommon;0
@@ -67,7 +67,7 @@ Full Firepower;Germany;Base;First Strike;3;Standard;0
 FV215b;UK;Heavy Tank;2;3;5;2;;First Strike;159;Rare;0
 FV4005 Stage II;UK;Tank Destroyer;7;2;3;0;;First Strike;165;Rare;0
 Grille;Germany;SPG;1;1;1;3;Blitz;First Strike;67;Rare;0
-Großtraktor - Krupp;Germany;Medium Tank;3;0;1;3;;First Strike;113;Uncommon;0
+Großtraktor - Krupp;Germany;Medium Tank;3;0;1;3;;First Strike;52;Uncommon;0
 Hellfire Reply;Germany;Base;First Strike;2;Standard;0
 Ho-Ri 2;Japan;Tank Destroyer;3;0;1;1;;First Strike;198;C;0
 Hotchkiss H35;France;Light Tank;1;1;1;2;;First Strike;119;Uncommon;0
@@ -78,12 +78,12 @@ Inferno Strike;Czechoslovakia;Base;First Strike;28;Rare;0
 Infiltration Experts;Poland;Base;First Strike;34;Uncommon;0
 Intelligence Gathering;USSR;Base;First Strike;10;Standard;0
 Iron Rebirth;USSR;Base;First Strike;8;Standard;0
-IS;USSR;Heavy Tank;3;0;3;3;First Strike;85;Rare;0
+IS;USSR;Heavy Tank;3;0;3;3;;First Strike;85;Rare;0
 IS-2;China;Heavy Tank;2;2;4;1;Explosive Ammo;First Strike;185;U;0
 IS-2-11;USSR;Heavy Tank;3;3;4;1;Explosive Ammo/Thick Armor;First Strike;86;Uncommon;0
 Jagdpanther;Germany;Tank Destroyer;4;2;3;1;;First Strike;65;Common;0
 Jagdtiger;Germany;Tank Destroyer;5;3;3;1;;First Strike;66;Common;0
-Junkyard Resurgence;USSR;Base;First Strike;5;Rare;0
+Junkyard Resurgence;USSR;Base;First Strike;6;Rare;0
 Kolohousenka;Czechoslovakia;Light Tank;1;0;1;3;;First Strike;219;C;0
 Konštrukta T-34/100;Czechoslovakia;Medium Tank;2;2;3;1;;First Strike;223;Common;0
 Kranvagn;Sweden;Heavy Tank;2;2;5;1;;First Strike;215;Rare;0
@@ -93,7 +93,6 @@ L6/40;Italy;Light Tank;0;0;1;4;;First Strike;199;Common;0
 Lago;Sweden;Medium Tank;1;1;2;1;;First Strike;211;C;0
 Last Defenders;USA;Base;First Strike;13;Standard;0
 Leichttraktor;Germany;Light Tank;0;0;1;2;Blitz;First Strike;50;Common;0
-Leo;Sweden;Medium Tank;3;2;3;2;;First Strike;213;Common;0
 Leo;Sweden;Medium Tank;3;2;3;2;;First Strike;213;Common;0
 Leopard 120 Verbessert;Germany;Medium Tank;2;2;3;1;;First Strike;55;Uncommon;0
 Lorraine 39L AM;France;SPG;1;2;1;3;Thick Armor;First Strike;139;Common;0
@@ -121,7 +120,7 @@ Malfunctioning Modules;Italy;Base;First Strike;40;Uncommon;0
 Manticore;UK;Light Tank;2;1;1;1;;First Strike;147;C;0
 Mass Reposition;Poland;Base;First Strike;32;Standard;0
 Matilda;UK;Medium Tank;2;3;2;1;;First Strike;148;Rare;0
-Maus;Heavy Tank;Germany;2;3;6;0;;First Strike;56;Rare;0
+Maus;Germany;Heavy Tank;2;3;6;0;;First Strike;56;Rare;0
 Mäuschen;Germany;Heavy Tank;3;3;5;0;;First Strike;62;Common;0
 Medals of Honor;USA;Base;First Strike;11;Rare;0
 Mitsu 108;Japan;Heavy Tank;2;3;4;2;;First Strike;196;Legendary;0
@@ -134,16 +133,15 @@ O-Ho;Japan;Heavy Tank;3;2;5;0;;First Strike;197;Uncommon;0
 O-Ni;Japan;Heavy Tank;3;2;5;1;;First Strike;196;Rare;0
 P.44 Pantera;Italy;Medium Tank;0;2;3;1;;First Strike;202;Uncommon;0
 P26/40;Italy;Medium Tank;2;2;1;2;;First Strike;201;Rare;0
-Panther II;Germany;Medium Tank;2;2;3;2;Blitz;First Strike;53;P;0
 Panther II;Germany;Medium Tank;2;2;3;2;Blitz;First Strike;53;Rare;0
-Panzerjäger I;Germany;Tank Destroyer;2;0;1;1;Explosive Ammo;First Strike;53;Common;0
+Panzerjäger I;Germany;Tank Destroyer;2;0;1;1;Explosive Ammo;First Strike;63;Common;0
 Pawlack Tank;USA;Heavy Tank;2;2;4;1;Explosive Ammo;First Strike;110;Common;0
 Penetrating Stike;Czechoslovakia;Base;First Strike;26;Uncommon;0
 Pressure Decision;USA;Base;First Strike;14;Common;0
 Progetto M40 mod. 65;Italy;Medium Tank;2;1;3;1;Blitz/Explosive Ammo;First Strike;203;U;0
 Pudel;Poland;Medium Tank;2;2;3;2;;First Strike;172;Uncommon;0
 Pvlvv fm/42;Sweden;Tank Destroyer;2;0;2;1;Explosive Ammo;First Strike;216;Uncommon;0
-Pz.Kpfw. B2 740 (f);Germany;Heavy Tank;2;2;4;0;First Strike;59;Common;0
+Pz.Kpfw. B2 740 (f);Germany;Heavy Tank;2;2;4;0;;First Strike;59;Common;0
 Pz.Kpfw. I;Germany;Light Tank;0;0;1;2;Blitz;First Strike;49;Common;0
 Pz.Kpfw. II;Germany;Light Tank;2;2;1;1;;First Strike;44;Common;0
 Pz.Kpfw.II Luchs;Germany;Light Tank;1;1;1;3;;First Strike;48;C;0
@@ -151,7 +149,7 @@ Rapid Repair Protocol;UK;Base;First Strike;24;Standard;0
 Reclamation Advantage;USSR;Base;First Strike;9;Common;0
 Reliable Flexibility;USA;Base;First Strike;12;Uncommon;0
 Rinoceronte;Italy;Heavy Tank;3;3;5;0;;First Strike;205;Common;0
-Risy Firestorm;China;Base;First Strike;36;Standard;0
+Risky Firestorm;China;Base;First Strike;36;Standard;0
 S35 CA;France;Tank Destroyer;3;1;2;1;;First Strike;136;U;0
 S-51;USSR;SPG;1;1;2;1;;First Strike;93;Uncommon;0
 SARL 42;France;Medium Tank;2;2;2;2;;First Strike;125;Rare;0
