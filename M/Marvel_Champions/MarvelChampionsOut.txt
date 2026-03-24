@@ -1,10 +1,10 @@
 Generating a game
 There are 330 different Hero/Aspect combinations, and 43835 different game pairings
-Currently have played 37.9 percent of Hero/Aspects
+Currently have played 38.5 percent of Hero/Aspects
 There are 65 heroes, 59 different encounters, and 133 different modular encounter sets
 
 Most played hero: Rocket Racoon (18 times). Least: Black Panther (Shuri) (0)
-Most played aspect: Justice (56 times). Least: 'Pool (2)
+Most played aspect: Protection (56 times). Least: 'Pool (2)
 Most played scenario: Rhino (8 times). Least: Apocalypse (0)
 Most played modular encounter: Ship Command (14 times). Least: A.I.M. Abduction (0)
 
@@ -42,12 +42,12 @@ Iron Man                      6 - 3
 Ironheart                     2 - 0
 Jubilee                       0 - 1
 Magik                         0 - 1
-Magneto                       0 - 0
+Magneto                       0 - 1
 Maria Hill                    0 - 0
 Ms. Marvel                    4 - 0
 Nebula                        5 - 2
 Nick Fury                     0 - 0
-Nightcrawler                  0 - 0
+Nightcrawler                  0 - 1
 Nova                          2 - 0
 Phoenix                       1 - 1
 Psylocke                      1 - 0
@@ -93,7 +93,7 @@ Ebony Maw                     2 - 1
 En Sabah Nur                  0 - 0
 Enchantress                   0 - 0
 Escape the Museum             1 - 2
-Four Horsemen                 0 - 0
+Four Horsemen                 0 - 1
 God of Lies                   0 - 0
 Hela                          3 - 1
 Infiltrate the Museum         2 - 5
@@ -140,6 +140,6 @@ Vision                        0 - 0
 Zola                          2 - 2
 
 Total W-L by aspect:
-{'Leadership': [27, 20], 'Justice': [35, 21], 'Protection': [35, 20], 'Aggression': [35, 19], "'Pool": [1, 1]}
+{'Leadership': [27, 21], 'Justice': [35, 21], 'Protection': [35, 21], 'Aggression': [35, 19], "'Pool": [1, 1]}
 
-Win Loss Records, Overall: 71 - 47, 0.602
+Win Loss Records, Overall: 71 - 48, 0.597

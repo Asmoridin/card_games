@@ -12,7 +12,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 GAME_NAME = "Dragon Ball Super Card Game: Fusion World"
 
 ALL_COLORS = ['Green', 'Red', 'Blue', 'Yellow', 'Black',]
-DECK_ERA = 'Set 8'
+DECK_ERA = 'Set 9'
 
 class Deck:
     """
@@ -41,7 +41,7 @@ def read_decks(in_deck_lists, all_cards):
     Take in a list of deck list tuples, and return a list of deck objects
     """
     ret_list = []
-    if DECK_ERA in ['Set 8']:
+    if DECK_ERA in ['Set 8', 'Set 9']:
         for deck_data in in_deck_lists:
             this_deck_name = deck_data[0].replace('.txt', '')
             this_deck_list = deck_data[1]
@@ -125,7 +125,7 @@ lines = [line.strip() for line in lines]
 
 deck_lists = []
 
-if DECK_ERA in ['Set 8']:
+if DECK_ERA in ['Set 8', 'Set 9']:
     for leader_color in os.listdir(DECK_DIR):
         DECK_COLOR_DIR = DECK_DIR + "/" + leader_color
         for file_name in os.listdir(DECK_COLOR_DIR):
