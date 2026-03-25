@@ -532,6 +532,7 @@ Counter Catcher;Trainer;Item;;;;Crimson Invasion 91 (Uncommon)/Crimson Invasion 
 Earthen Vessel;Trainer;Item;;;;PAR 163 (Uncommon)/SFA 96 (Hyper Rare)/PRE 106 (Uncommon);G;4;0
 Future Booster Energy Capsule;Trainer;Pokemon Tool;;;;PAR 164 (Uncommon)/TEF 149 (Uncommon);G;4;0
 Luxurious Cape;Trainer;Pokemon Tool;;;;PAR 166 (Uncommon)/PAR 265 (Hyper Rare);G;4;0
+Professor Sada's Vitality;Pokemon;Supporter;;;;PAR 170 (Uncommon)/PAR 239 (Ultra Rare)/PAR 256 (Special Illustration Rare)/PRE 120 (Uncommon);G;4;0
 Professor Turo's Scenario;Trainer;Supporter;;;;PAR 171 (Uncommon)/PAR 240 (Ultra Rare)/PAR 257 (Special Illustration Rare)/PRE 121 (Uncommon);G;4;0
 Rika;Trainer;Supporter;;;;PAR 172 (Uncommon)/PAR 241 (Ultra Rare)/PAR 258 (Special Illustration Rare);G;8;2
 Technical Machine: Devolution;Trainer;Pokemon Tool;;;;PAR 177 (Uncommon);G;4;0
@@ -761,8 +762,13 @@ Team Rocket's Ampharos;Pokemon;Lightning;140;Darkest Impulse;Head Bolt;DRI 74 (U
 Electrike;Pokemon;Lightning;60;;Rear Kick|Tiny Bolt;DRI 75 (Common)/DRI 196 (Illustration Rare);I;4;0
 Manectric;Pokemon;Lightning;120;;Zap Kick|Flash Impact;DRI 76 (Uncommon);I;4;0
 Rotom;Pokemon;Lightning;60;;Astonish|Gadget Show;DRI 77 (Common)/DRI 197 (Illustration Rare);I;4;0
-
+Zeraora;Pokemon;Lightning;100;;Scratch|Thunder Raid;DRI 78 (Rare);I;4;0
+Team Rocket's Drowzee;Pokemon;Pyschic;80;;Hypnotic Ray;DRI 79 (Common);I;4;0
+Team Rocket's Hypno;Pokemon;Psychic;130;;Psychot|Bench Manipulation;DRI 80 (Uncommon);I;4;0
 Team Rocket's Mewtwo ex;Pokemon;Psychic;280;Power Saver;Erasure Ball;DRI 81 (Double Rare)/DRI 213 (Ultra Rare)/DRI 231 (Special Illustration Rare)/DRI 240 (Hyper Rare)/SVP 205 (Promo)/SVP 216 (Promo)/ASC 79 (Double Rare)/ASC 281 (Special Illustration Rare);I;4;1
+Team Rocket's Wobbuffet;Pokemon;Psychic;110;Rocket Mirror|Headbutt Bounce;DRI 82 (Rare)/SVP 203 (Promo);I;4;0
+Steven's Baltoy;Pokemon;Psychic;60;;Summoning Sign|Psychic Sphere;DRI 83 (Common);I;4;0
+
 Team Rocket's Chingling;Pokemon;Psychic;30;;Chiming Commotion;DRI 85 (Common);I;4;1
 Team Rocket's Mimikyu;Pokemon;Psychic;60;;Gemstone Mimicry;DRI 87 (Uncommon)/ASC 97 (Uncommon)/ASC 238 (Illustration Rare);I;4;0
 Team Rocket's Dottler;Pokemon;Psychic;80;;Disruptive Radar|Super Psy Bolt;DRI 88 (Common);I;4;1 # 1 reverse foil
@@ -803,10 +809,16 @@ Arven's Sandwich;Trainer;Item;;;;DRI 161 (Uncommon);I;4;2
 Emcee's Hype;Trainer;Supporter;;;;DRI 163 (Common)/DRI 220 (Ultra Rare);I;4;2 # 1 reverse foil
 Sacred Ash;Trainer;Item;;;;Flashfire 96 (Uncommon)/DRI 168 (Uncommon);I;4;1
 Spikemuth Gym;Trainer;Stadium;;;;DRI 169 (Uncommon);I;4;1 # 1 reverse foil
-Team Rocket's Archer;Trainer;Supporter;;;;DRI 170 (Uncommon)/DRI 223 (Ultra Rare);I;4;1
+Team Rocket's Archer;Trainer;Supporter;;;;DRI 170 (Uncommon)/DRI 223 (Ultra Rare)/ASC 201 (Uncommon);I;4;1
+Team Rocket's Ariana;Trainer;Supporter;;;;DRI 171 (Uncommon)/DRI 224 (Ultra Rare)/DRI 237 (Special Illustration Rare)/ASC 202 (Uncommon);I;4;0
 Team Rocket's Bother-Bot;Trainer;Item;;;;DRI 172 (Uncommon);I;4;4
-Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon);I;4;1
-Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon);I;4;1
+Team Rocket's Factory;Trainer;Stadium;;;;DRI 173 (Uncommon)/ASC 203 (Uncommon);I;4;0
+Team Rocket's Giovanni;Trainer;Supporter;;;;DRI 174 (Uncommon)/DRI 225 (Ultra Rare)/DRI 238 (Special Illustration Rare)/ASC 204 (Uncommon);I;4;0
+Team Rocket's Great Ball;Trainer;Item;;;;DRI 175 (Uncommon)/ASC 205 (Uncommon);I;4;0
+Team Rocket's Petrel;Trainer;Supporter;;;;DRI 176 (Uncommon)/DRI 226 (Ultra Rare)/ASC 207 (Uncommon);I;4;0
+Team Rocket's Proton;Trainer;Supporter;;;;DRI 177 (Uncommon)/DRI 227 (Ultra Rare)/ASC 208 (Uncommon);I;4;0
+Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon)/ASC 209 (Uncommon)/ASC 263 (Ultra Rare);I;4;1
+Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon)/ASC 210 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
 # DRI 182-197 done - last orig card
@@ -816,9 +828,9 @@ Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncomm
 # DRI 215 done
 # DRI 217 done
 # DRI 220 done
-# DRI 223 done
-# DRI 228-232 done
+# DRI 223-232 done
 # DRI 234 done
+# DRI 237-238 done
 # DRI 240-244 done - last card
 
 # Ascended Heroes
@@ -937,12 +949,13 @@ Canari;Trainer;Supporter;;;;ASC 183 (Uncommon)/ASC 257 (Ultra Rare)/ASC 291 (Spe
 Light Ball;Trainer;Pokemon Tool;;;;ASC 191 (Uncommon);I;4;0
 Nighttime Mine;Trainer;Stadium;;;;ASC 197 (Uncommon);I;4;0
 Poké Pad;Trainer;Item;;;;ASC 198 (Common)/POR 81 (Uncommon)/POR 113 (Ultra Rare);J;4;0
-# ASC 200 done
+Team Rocket's Hypnotizer;Trainer;Pokemon Tool;;;;ASC 206 (Uncommon);I;4;0
+# ASC 210 done
 
 # ASC 216-250 done- last of cards
 # ASC 252-257 done
 # ASC 259-260 done
-# ASC 262 done
+# ASC 262-263 done
 # ASC 265-266 done
 # ASC 268-275
 # ASC 277-281 done

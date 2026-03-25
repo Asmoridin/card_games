@@ -129,17 +129,17 @@ Baze Malbus, Temple Guardian;SOR-065-U;Ground Unit;Fringe;4;2;5;U;3
 Bazine Netal, Spy for the First Order;SHD-184-R;Ground Unit;Underworld;2;1;3;Y/B;3
 BB-8, Happy Beeps;JTL-145-U;Ground Unit;Resistance/Droid/Pilot;1;1;4;R/W;1
 BD-1, Beep Boo Boo Bweep;LOF-191-U;Ground Unit;Fringe/Droid;1;1;3;Y/W;1
+Beguile;SEC-233-C;Event;Trick;3;Y;3 # 1 foil
+Beloved Orator;SEC-097-C;Ground Unit;New Republic/Official;3;2;3;G/W;3 # 1 hyperfoil
+Bendu, Do You Fear the Storm?;LOF-170-L;Ground Unit;Force/Creature;8;10;10;R;0
+Bendu, The One In The Middle;SOR-056-R;Ground Unit;Force/Creature;6;4;7;U/U;2 # 1 foil
+Benthic "Two Tubes", Partisan Lieutenant;SOR-156-U;Ground Unit;Rebel/Trooper;1;2;2;R;2
+Bib Fortuna, Jabba's Majordomo;SOR-177-U;Ground Unit;Underworld/Twi'lek;2;1;3;B/Y;3
+Biggs Darklighter, They'll Never Stop Us;JTL-150-U;Ground Unit;Rebel/Pilot;3;3;4;R/W;1
+Black One, Scourge of Starkiller Base;SOR-147-L;Space Unit;Resistance/Vehicle/Fighter;6;4;4;R/W;1
+Black One, Straight At Them;JTL-147-R;Space Unit;Resistance/Vehicle/Fighter;2;2;3;R/W;1
+Black Squadron Scout Wing;JTL-202-C;Space Unit;Resistance/Vehicle/Fighter;5;4;6;Y/W;3 # 1 hyperspace
 # Done through here
-Beguile;SEC-233-C;Event;Y;3 # 1 foil
-Beloved Orator;SEC-097-C;Ground Unit;G/W;3 # 1 hyperfoil
-Bendu, Do You Fear the Storm?;LOF-170-L;Ground Unit;R;0
-Bendu, The One In The Middle;SOR-056-R;Ground Unit;U;2 # 1 foil
-Benthic "Two Tubes", Partisan Lieutenant;SOR-156-U;Ground Unit;R;2
-Bib Fortuna, Jabba's Majordomo;SOR-177-U;Ground Unit;B/Y;3
-Biggs Darklighter, They'll Never Stop Us;JTL-150-U;Ground Unit;R/W;1
-Black One, Scourge of Starkiller Base;SOR-147-L;Space Unit;R/W;1
-Black One, Straight At Them;JTL-147-R;Space Unit;R/W;1
-Black Squadron Scout Wing;JTL-202-C;Space Unit;Y/W;3 # 1 hyperspace
 Black Sun Starfighter;SHD-237-C;Space Unit;B;3 # 1 hyperspace
 Blade Squadron B-Wing;JTL-199-C;Space Unit;Y/W;2
 Blizzard Assault AT-AT;SOR-088-U;Ground Unit;G/B;3 # 1 foil
@@ -1732,3 +1732,13 @@ Target Tagger;LAW-157-C;Ground Unit;Bounty Hunter;3;3;3;G;0
 Khetanna, Upon The Dune Sea;LAW-158-U;Ground Unit;Underworld/Vehicle/Speeder;3;2;4;G;0
 Expendable Mercenary;LAW-159-C;Ground Unit;Underworld/Bounty Hunter;4;3;3;G;0
 Hidden Hunters;LAW-160-C;Ground Unit;Bounty Hunter;4;4;5;G;0
+Partisan U-Wing;LAW-161-C;Space Unit;Rebel/Vehicle/Transport;5;3;5;G;0
+Beach Patrol AT-ACT;LAW-162-C;Ground Unit;Imperial/Vehicle/Walker;8;8;9;G;0
+The Sarlacc of Carkoon, Horror of the Dune Sea;LAW-163-S;Creature;8;8;9;G;0
+Mercenary Fleet;LAW-164-C;Space Unit;Underworld/Vehicle/Fighter/Transport;9;10;10;G;0
+Combat Exercise;LAW-165-C;Event;Learned;1;G;0
+Putting a Team Together;LAW-166-C;Event;Plan;1;G;0
+Common Cause;LAW-167-C;Event;Innate;2;G;0
+Haymaker;LAW-168-C;Event;Tactic;4;G;0
+Payroll Heist;LAW-169-U;Event;Plan;4;G;0
+Double-Cross;LAW-170-R;Event;Trick;6;G;0
