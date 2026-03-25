@@ -26,7 +26,7 @@ valid_colors = ['Fire', 'Water', 'Grass', 'Psychic', 'Darkness', 'Metal', 'Light
 trainer_subtypes = ['Supporter', 'Item', 'Stadium', 'Pokemon Tool']
 
 color_mapping = {
-    'Darkness Energy': 'Darkness',
+    'Darkness ': 'Darkness',
     'Fighting Energy': 'Fighting',
     'Fire Energy': 'Fire',
     'Grass Energy': 'Grass',
@@ -196,7 +196,7 @@ for deck_file in os.listdir(DECK_PREFIX):
         deck_card_id = card_num_mapping.get(deck_card_id, deck_card_id)
         if PROCESS_ENERGY:
             COLORLESS_ENERGY = ['Enriching Energy', 'Jet Energy', 'Legacy Energy',
-                'Luminous Energy', 'Mist Energy']
+                'Luminous Energy', 'Mist Energy', 'Prism Energy']
             if DECK_CARD_NAME in color_mapping:
                 mapped_color = color_mapping.get(DECK_CARD_NAME, DECK_CARD_NAME)
                 this_deck_colors.add(mapped_color)
