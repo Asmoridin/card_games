@@ -70,7 +70,7 @@ def convert_colors(in_color):
         if color_code in card_colors_map:
             ret_list.append(card_colors_map[color_code])
         else:
-            print(f"Unknown color {color_code}")
+            print(f"Unknown color {color_code} for card {card_name}")
             return []
     return ret_list
 
@@ -150,6 +150,7 @@ FILE_PREFIX = "card_games/S/Star_Wars_Unlimited"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "S/Star_Wars_Unlimited"
 
+#CURRENT_FORMAT = "07 - A Lawless Time"
 CURRENT_FORMAT = "06 - Secrets of Power"
 DECK_DIR = FILE_PREFIX + '/Decks/' + CURRENT_FORMAT
 with open(FILE_PREFIX + '/Data/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8") as sw_data_file:
@@ -241,7 +242,7 @@ for line in lines:
         card_id_dict[CARD_ID] = card_name
 
     if card_type not in valid_types:
-        print(f"Invalid card type {card_type}")
+        print(f"Invalid card type {card_type} for card {card_name}")
         continue
     card_colors = convert_colors(card_colors)
     if not card_colors:
@@ -291,7 +292,7 @@ for letter_start in os.listdir(DECK_DIR):
         deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
         this_deck_lines = deck_file_h.readlines()
         deck_file_h.close()
-        if CURRENT_FORMAT != "06 - Secrets of Power":
+        if CURRENT_FORMAT not in ["06 - Secrets of Power", "07 - A Lawless Time"]:
             this_deck_dict = parse_deck_json(this_deck_lines, collection_dict, card_id_dict)
         else:
             this_deck_dict = parse_deck(this_deck_lines, collection_dict, correction_dict)

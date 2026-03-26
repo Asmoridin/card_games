@@ -26,7 +26,7 @@ valid_colors = ['Fire', 'Water', 'Grass', 'Psychic', 'Darkness', 'Metal', 'Light
 trainer_subtypes = ['Supporter', 'Item', 'Stadium', 'Pokemon Tool']
 
 color_mapping = {
-    'Darkness ': 'Darkness',
+    'Darkness Energy': 'Darkness',
     'Fighting Energy': 'Fighting',
     'Fire Energy': 'Fire',
     'Grass Energy': 'Grass',
