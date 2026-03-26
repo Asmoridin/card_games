@@ -1088,7 +1088,7 @@ Profundity, We Fight!;JTL-154-L;Space Unit;R/W;1
 Protect the Pod;LOF-128-C;Event;G;3
 Protector of the Throne;SHD-247-C;Ground Unit;W;3 # 1 hyperspace
 Protector;SOR-057-U;Upgrade;U;2
-Prototype TIE Advanced;JTL-136-C;Space Unit;R/B;2
+Prototype TIE Advanced;JTL-136-C/LAW-175-C;Space Unit;R/B;2
 Providence Destroyer;TWI-038-U;Space Unit;B/U;2
 Psychometry;LOF-219-R;Event;Y;0
 Public Enemy;SHD-068-C;Upgrade;U;3
@@ -1741,9 +1741,15 @@ Common Cause;LAW-167-C;Event;Innate;2;G;0
 Haymaker;LAW-168-C;Event;Tactic;4;G;0
 Payroll Heist;LAW-169-U;Event;Plan;4;G;0
 Double-Cross;LAW-170-R;Event;Trick;6;G;0
-
+Stockpile;LAW-171-U;Event;Supply;6;G;0
+Storm Raider;LAW-172-C;Ground Unit;Underworld/Nihil;1;2;2;R/B;0
 BT-1, Blastomech;LAW-173-U;Ground Unit;Underworld/Droid;2;2;4;R/B;0
 0-0-0, Translation and Torture;LAW-174-U;Ground Unit;Underworld/Droid;3;4;4;R/B;0
+Sebulba's Podracer, Taking the Lead;LAW-176-R;Ground Unit;Vehicle/Speeder;3;3;3;R/B;0
+Son-tuul Berserkers;LAW-177-C;Ground Unit;Underworld/Trooper;6;8;5;R/B;0
+Persecutor, Fire Over Scarif;LAW-178-L;Space Unit;Imperial/Vehicle/Capital Ship;9;9;7;R/B;0
+Fear and Dead Men;LAW-179-R;Event;Tactic;7;R/B;0
+Inspired Recruit;LAW-180-C;Ground Unit;Rebel/Trooper;1;3;1;R/W;0
 
 Arvel Skeen, Win and Walk Away;LAW-191-U;Ground Unit;Rebel;3;4;3;R;0
 
