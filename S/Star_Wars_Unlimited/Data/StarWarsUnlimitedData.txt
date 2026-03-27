@@ -182,17 +182,17 @@ Bright Hope, Narrow Escape;IBH-014-S/IBH-026-S;Space Unit;Rebel/Vehicle/Transpor
 Brutal Traditions;SHD-038-U;Upgrade;Learned;2;1;2;U/B;3 # 1 foil
 Budget Scheming;SEC-124-C;Event;Law;2;G;3 # 1 hyperspace
 Bunker Defender;JTL-107-C;Ground Unit;Imperial/Trooper;1;2;1;G;3 # 1 foil
+C-3PO, Anything I Might Do?;SEC-093-U;Ground Unit;Republic/Droid;1;1;3;G/W;3
+C-3PO, Human Cyborg Relations;SEC-015-C;Leader;Rebel/Droid;4;1;6;Y/W;1 # 1 hyperspace
+C-3PO, Oh Dear, Oh Dear;IBH-019-S/IBH-041-S;Ground Unit;Rebel/Droid;3;1;4;G/W;0
+C-3PO, Protocol Droid;SOR-238-S;Ground Unit;Rebel/Droid;2;1;4;W;3
+Cad Bane, He Who Needs No Introduction;SHD-014-C;Leader;Underworld/Bounty Hunter;6;2;8;Y/B;1
+Cad Bane, Hostage Taker;TWI-187-L;Ground Unit;Underworld/Bounty Hunter;7;7;7;B/Y;0
+Cad Bane, Impressed Now?;SEC-034-S;Ground Unit;Underworld/Bounty Hunter;5;4;5;U/B;3 # 1 hyperspace
+Cal Kestis, I Can't Keep Hiding;LOF-015-C;Leader;Force/Fringe;4;3;4;Y/W;1 # 1 hyperspace
+Calculated Lethality;SHD-039-S;Event;Tactic;4;U/B;3
+Calculating MagnaGuard;TWI-033-U;Ground Unit;Separatist/Droid;3;3;4;B/U;1
 # Done through here
-C-3PO, Anything I Might Do?;SEC-093-U;Ground Unit;G/W;3
-C-3PO, Human Cyborg Relations;SEC-015-C;Leader;Y/W;1 # 1 hyperspace
-C-3PO, Oh Dear, Oh Dear;IBH-019-S/IBH-041-S;Ground Unit;G/W;0
-C-3PO, Protocol Droid;SOR-238-S;Ground Unit;W;3
-Cad Bane, He Who Needs No Introduction;SHD-014-C;Leader;Y/B;1
-Cad Bane, Hostage Taker;TWI-187-L;Ground Unit;B/Y;0
-Cad Bane, Impressed Now?;SEC-034-S;Ground Unit;U/B;3 # 1 hyperspace
-Cal Kestis, I Can't Keep Hiding;LOF-015-C;Leader;Y/W;1 # 1 hyperspace
-Calculated Lethality;SHD-039-S;Event;U/B;3
-Calculating MagnaGuard;TWI-033-U;Ground Unit;B/U;1
 Calm in the Storm;LOF-054-U;Event;U/W;1
 Cantina Bouncer;SOR-202-U;Ground Unit;Y;3 # 1 foil
 Cantina Braggart;SOR-157-C;Ground Unit;R;3 # 1 hyperfoil
@@ -1780,7 +1780,16 @@ Attack From All Sides;LAW-207-C;Event;Tactic;3;R;0
 Collateral Damage;LAW-208-C;Event;Disaster;3;R;0
 Nihil Stormsower;LAW-209-C;Ground Unit;Underworld/Nihil;1;2;2;Y/B;0
 Salacious Crumb, Cackling Companion;LAW-210-S;Ground Unit;Underworld/Creature;1;0;2;Y/B;0
-
+Black Sun Patroller;LAW-211-C;Space Unit;Underworld/Vehicle/Fighter;2;2;2;Y/B;0
+Malakili, Keeper of the Menagerie;LAW-212-S;Ground Unit;Underworld;2;2;4;Y/B;0
+Cutthroat Podracer;LAW-213-C;Ground Unit;Vehicle/Speeder;4;4;4;Y/B;0
+Boba Fett, For a Price;LAW-214-R;Ground Unit;Underworld/Bounty Hunter;5;6;5;Y/B;0
+Vermillion, Qi'ra's Auction House;LAW-215-R;Space Unit;Underworld/Vehicle/Capital Ship;6;5;7;Y/B;0
+Jabba's Rancor, Snack Time!;LAW-216-U;Ground Unit;Underworld/Creature;7;7;7;Y/B;0
+Hold For Questioning;LAW-217-U;Event;Law;3;Y/B;0
+Artful Pickpocket;LAW-218-C;Ground Unit;Underworld;2;3;2;Y/W;0
+Anakin's Podracer, So Wizard!;LAW-219-L;Ground Unit;Vehicle/Speeder;3;3;2;Y/W;0
+Wookiee Guerilla;LAW-220-C;Ground Unit;Wookiee/Trooper;3;2;4;Y/W;0
 Lieutenant Gorn, I Deserve Worse;LAW-221-R;Ground Unit;Rebel/Imperial;3;4;4;Y/W;0
 
 Liberty, Draw Their Fire!;LAW-224-L;Space Unit;Rebel/Vehicle/Capital Ship;8;9;7;Y/W;0
