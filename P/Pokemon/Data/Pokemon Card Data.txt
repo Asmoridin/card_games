@@ -647,6 +647,7 @@ Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)
 Iron Hands ex;Pokemon;Lightning;230;;Arm Press|Amp You Very Much;PAR 70 (Double Rare)/PAR 223 (Ultra Rare)/PAR 248 (Special Illustration Rare)/PRE 31 (Double Rare)/PRE 154 (Special Illustration Rare);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
+Roaring Moon ex;Pokemon;Darkness;230;;Frenzied Gouging|Calamity Storm;PAR 124 (Double Rare)/PAR 229 (Ultra Rare)/PAR 251 (Special Illustration Rare)/PAR 262 (Hyper Rare)/SVP 67 (Promo)/PRE 162 (Special Illustration Rare);G;4;0
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
 Ancient Booster Energy Capsule;Trainer;Pokemon Tool;;;;PAR 159 (Uncommon)/TEF 140 (Uncommon);G;4;0
 Counter Catcher;Trainer;Item;;;;Crimson Invasion 91 (Uncommon)/Crimson Invasion 120 (Rare Secret)/PAR 160 (Uncommon)/PAR 264 (Hyper Rare);G;4;0
@@ -720,6 +721,7 @@ Bug Catching Set;Trainer;Item;;;;TWM 143 (Uncommon)/PRE 102 (Uncommon);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 Jamming Tower;Trainer;Stadium;;;;TWM 153 (Uncommon)/DRI 243 (Hyper Rare)/ASC 261 (Ultra Rare);H;4;0
+Kieran;Trainer;Supporter;;;;TWM 154 (Uncommon)/TWM 206 (Ultra Rare)/TWM 218 (Special Illustration Rare)/PRE 113 (Uncommon)/PRE 174 (Special Illustration Rare);H;4;0
 Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
 Secret Box;Trainer;Item;;;;TWM 163 (ACE SPEC Rare);H;2;0
 Unfair Stamp;Trainer;Item;;;;TWM 165 (ACE SPEC Rare);H;2;0
@@ -783,6 +785,7 @@ Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # Prismatic Evolutions
 Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Illustration Rare);H;4;0
+Regigigas;Pokemon;Colorless;160;;Jewel Breaker;PRE 86 (Uncommon);H;4;0
 Black Belt's Training;Trainer;Supporter;;;;PRE 96 (Common)/PRE 97 (Common)/PRE 98 (Common)/PRE 99 (Common)/JTG 143 (Common)/JTG 144 (Common)/JTG 145 (Common)/SVP 220 (Promo)/ASC 255 (Ultra Rare);H;4;0
 
 # Journey Together (JTG)
@@ -898,10 +901,13 @@ Team Rocket's Dottler;Pokemon;Psychic;80;;Disruptive Radar|Super Psy Bolt;DRI 88
 Team Rocket's Orbeetle;Pokemon;Psychic;130;Rocket Brain;Psychic;DRI 89 (Uncommon)/DRI 198 (Illustration Rare);I;4;0
 Mankey;Pokemon;Fighting;70;;Wild Kick;DRI 90 (Common);I;4;0
 Primeape;Pokemon;Fighting;110;;Drag Off;DRI 91 (Common);I;4;0
-
+Annihilape;Pokemon;Fighting;150;Lose Cool;Impact Blow;DRI 92 (Rare);I;4;0
 Ethan's Sudowoodo;Pokemon;Fighting;110;;Impound|Try to Imitate;DRI 93 (Common);I;4;1
 Team Rocket's Larvitar;Pokemon;Fighting;70;;Mountain Munch;DRI 94 (Common);I;4;1
+Team Rocket's Pupitar;Pokemon;Fighting;100;;Explosive Ascension;DRI 95 (Uncommon);I;4;0
+Team Rocket's Tyranitar;Pokemon;Fighting;180;Sand Stream;Demolition Tackle;DRI 96 (Rare);I;4;0
 Nosepass;Pokemon;Fighting;80;;Headbutt|Rock Throw;DRI 97 (Common);I;4;1
+Probopass;Pokemon;Fighting;140;;Power Gem|Mountain Drop;DRI 98 (Uncommon);I;4;0
 Meditite;Pokemon;Fighting;70;;Steady Punch;DRI 99 (Common);I;4;1
 Medicham;Pokemon;Fighting;120;;Harmonious Spirit Palm;DRI 100 (Uncommon);I;4;2
 Regirock ex;Pokemon;Fighting;230;;Regi Charge|Giant Rock;DRI 101 (Double Rare)/DRI 214 (Ultra Rare)/ASC 107 (Double Rare);I;4;0
@@ -909,6 +915,8 @@ Cynthia's Gible;Pokemon;Fighting;70;;Rock Hurl;DRI 102 (Common)/ASC 109 (Common)
 Cynthia's Gabite;Pokemon;Fighting;100;Champion's Call;Dragonslice;DRI 103 (Common)/ASC 110 (Uncommon);I;4;0
 Cynthia's Garchomp ex;Pokemon;Fighting;330;;Corkscrew Dive|Draconic Buster;DRI 104 (Double Rare)/DRI 215 (Ultra Rare)/DRI 232 (Special Illustration Rare)/DRI 241 (Hyper Rare)/SVP 204 (Promo)/ASC 111 (Double Rare);I;4;1
 Hippopotas;Pokemon;Fighting;90;;Push Down;DRI 105 (Common);I;4;1
+Hippowdon;Pokemon;Fighting;150;;Ram|Super Sandstorm;DRI 106 (Uncommon);I;4;0
+
 Mudsdale;Pokemon;Fighting;150;Mud Coat;Heavy Impact;DRI 108 (Uncommon);I;4;1
 Arven's Toedscool;Pokemon;Fighting;70;;Slight Intrusion;DRI 109 (Common);I;4;2
 Arven's Toedscruel;Pokemon;Fighting;140;;Pull|Reckless Charge;DRI 110 (Uncommon);I;4;1
@@ -964,7 +972,19 @@ Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncomm
 # DRI 240-244 done - last card
 
 # Perfect Order (POR)
+Spinarak;Pokemon;Grass;60;;Gooey Thread;POR 1 (Common);J;4;0
+Ariados;Pokemon;Grass;110;;Poison Ring;POR 2 (Common);J;4;0
+Shaymin;Pokemon;Grass;70;;Send Flowers|Leaf Step;POR 3 (Uncommon);J;4;0
+Snivy;Pokemon;Grass;70;;Reckless Charge;POR 4 (Common);J;4;0
+Servine;Pokemon;Grass;100;;Solar Cutter;POR 5 (Common);J;4;0
+Serperior;Pokemon;Grass;160;;Regal Command|Solar Coiling;POR 6 (Rare)/MEP 64 (Promo);J;4;0
+Scatterbug;Pokemon;Grass;40;;Gnaw;POR 7 (Common);J;4;0
+Spewpa;Pokemon;Grass;80;;Hide;POR 8 (Common)/POR 89 (Illustration Rare);J;4;0
+Vivillon;Pokemon;Grass;120;Grand Wing;Blow Through;POR 9 (Uncommon);J;4;0
+Rowlet;Pokemon;Grass;80;;Find a Friend|Tackle;POR 10 (Common)/POR 90 (Illustration Rare);J;4;0
+
 # POR 76 done
 # POR 81 done
+# POR 89-90 done
 # POR 109 done
 # POR 113 done
