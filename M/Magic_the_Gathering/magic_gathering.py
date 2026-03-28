@@ -413,7 +413,7 @@ def validate_types(card_type_string):
         ret_subtype.append('Time Lord')
     return(ret_type, ret_subtype)
 
-def process_formats(format_name, correction_dict):
+def process_formats(format_name, correction_dict, find_unused=False):
     """
     Given a format_name, process everything we need- find the suggested card, give stats on 
     the format, and parse, and sort the various decks.
@@ -447,6 +447,16 @@ def process_formats(format_name, correction_dict):
         for this_deck in format_decks:
             if this_deck.deck_date < oldest_deck[0]:
                 oldest_deck = (this_deck.deck_date, this_deck.deck_name)
+    if find_unused:
+        used_cards = set()
+        for check_deck in format_decks:
+            for check_card_name in check_deck.deck_cards:
+                used_cards.add(check_card_name)
+        unused_cards = []
+        for card_row in format_card_list:
+            if card_row[0] not in used_cards:
+                unused_cards.append((card_row[0], card_row[5]))
+        return_dict['UNUSED'] = unused_cards
 
     format_decks_minus_own = check_decks(format_decks, format_card_list)
     format_most_needed = aggregate_most_needed(format_decks_minus_own)
@@ -459,6 +469,14 @@ def process_formats(format_name, correction_dict):
     return_dict['NEEDED'] = format_most_needed
     return_dict['OLDEST'] = oldest_deck
     return return_dict
+
+def get_max_rarity(rarity_list):
+    """
+    Given a list of rarities, return the max rarity, where 
+    Mythic Rare > Rare > Uncommon > Common > Land
+    """
+    rarity_order = ['Land', 'Special', 'Bonus', 'Common', 'Uncommon', 'Rare', 'Mythic Rare']
+    return max(rarity_list, key=lambda x: rarity_order.index(x))
 
 def handle_output(format_name, format_dict, dest_fh):
     """
@@ -482,6 +500,16 @@ def handle_output(format_name, format_dict, dest_fh):
         double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
             f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
         double_print(str(format_dict['DECKS'][0][2]), dest_fh)
+    
+    if 'UNUSED' in format_dict:
+        rarity_sort_order = ['Land', 'Special', 'Bonus', 'Common', 'Uncommon', 'Rare',
+            'Mythic Rare']
+        # Sort unused dict by rarity (Mythic Rare > Rare > Uncommon > Common > Land)
+        format_dict['UNUSED'] = sorted(format_dict['UNUSED'],
+                key=lambda x: rarity_sort_order.index(get_max_rarity(x[1])), reverse=True)
+        rarity_string = f"\nUnused card with highest rarity is: {format_dict['UNUSED'][0][0]} " + \
+            f"({format_dict['UNUSED'][0][1]})"
+        double_print(rarity_string , dest_fh)
 
     double_print("\nMost needed cards are:", dest_fh)
     for pr_card_tuple in format_dict['NEEDED'][:10]:
@@ -630,7 +658,7 @@ if __name__ == "__main__":
     handle_output("Legacy", legacy_dict, out_file_h)
 
     # Premodern
-    prem_dict = process_formats("Premodern", card_corrections)
+    prem_dict = process_formats("Premodern", card_corrections, True)
     handle_output("Premodern", prem_dict, out_file_h)
 
     # Modern
@@ -654,71 +682,71 @@ if __name__ == "__main__":
     handle_output("Oathbreaker", oath_dict, out_file_h)
 
     # Ice Age Block
-    ia_dict = process_formats("Ice Age Block", card_corrections)
+    ia_dict = process_formats("Ice Age Block", card_corrections, True)
     handle_output("Ice Age Block", ia_dict, out_file_h)
 
     # Mirage Block
-    mir_dict = process_formats("Mirage Block", card_corrections)
+    mir_dict = process_formats("Mirage Block", card_corrections, True)
     handle_output("Mirage Block", mir_dict, out_file_h)
 
     # Tempest Block
-    tem_dict = process_formats("Tempest Block", card_corrections)
+    tem_dict = process_formats("Tempest Block", card_corrections, True)
     handle_output("Tempest Block", tem_dict, out_file_h)
 
     # Urza's Block
-    urz_dict = process_formats("Urza's Block", card_corrections)
+    urz_dict = process_formats("Urza's Block", card_corrections, True)
     handle_output("Urza's Block", urz_dict, out_file_h)
 
     # Masques Block
-    masques_dict = process_formats("Masques Block", card_corrections)
+    masques_dict = process_formats("Masques Block", card_corrections, True)
     handle_output("Masques Block", masques_dict, out_file_h)
 
     # Invasion Block
-    invasion_dict = process_formats("Invasion Block", card_corrections)
+    invasion_dict = process_formats("Invasion Block", card_corrections, True)
     handle_output("Invasion Block", invasion_dict, out_file_h)
 
     # Odyssey Block
-    odys_dict = process_formats("Odyssey Block", card_corrections)
+    odys_dict = process_formats("Odyssey Block", card_corrections, True)
     handle_output("Odyssey Block", odys_dict, out_file_h)
 
     # Onslaught Block
-    ons_dict = process_formats("Onslaught Block", card_corrections)
+    ons_dict = process_formats("Onslaught Block", card_corrections, True)
     handle_output("Onslaught Block", ons_dict, out_file_h)
 
     # Mirrodin Block
-    mir_dict = process_formats("Mirrodin Block", card_corrections)
+    mir_dict = process_formats("Mirrodin Block", card_corrections, True)
     handle_output("Mirrodin Block", mir_dict, out_file_h)
 
     # Kamigawa Block
-    kam_dict = process_formats("Kamigawa Block", card_corrections)
+    kam_dict = process_formats("Kamigawa Block", card_corrections, True)
     handle_output("Kamigawa Block", kam_dict, out_file_h)
 
     # Ravnica Block
-    rav_dict = process_formats("Ravnica Block", card_corrections)
+    rav_dict = process_formats("Ravnica Block", card_corrections, True)
     handle_output("Ravnica Block", rav_dict, out_file_h)
 
     # Time Spiral Block
-    ts_dict = process_formats("Time Spiral Block", card_corrections)
+    ts_dict = process_formats("Time Spiral Block", card_corrections, True)
     handle_output("Time Spiral Block", ts_dict, out_file_h)
 
     # Lorwyn-Shadowmoor Block
-    lorsha_dict = process_formats("Lorwyn-Shadowmoor Block", card_corrections)
+    lorsha_dict = process_formats("Lorwyn-Shadowmoor Block", card_corrections, True)
     handle_output("Lorwyn-Shadowmoor Block", lorsha_dict, out_file_h)
 
 	# Alara Block
-    alara_dict = process_formats("Alara Block", card_corrections)
+    alara_dict = process_formats("Alara Block", card_corrections, True)
     handle_output("Alara Block", alara_dict, out_file_h)
 
     # Zendikar Block
-    alara_dict = process_formats("Zendikar Block", card_corrections)
-    handle_output("Zendikar Block", alara_dict, out_file_h)
+    zendikar_dict = process_formats("Zendikar Block", card_corrections, True)
+    handle_output("Zendikar Block", zendikar_dict, out_file_h)
 
     # Scars of Mirrodin Block
-    alara_dict = process_formats("Scars of Mirrodin Block", card_corrections)
-    handle_output("Scars of Mirrodin Block", alara_dict, out_file_h)
+    scars_dict = process_formats("Scars of Mirrodin Block", card_corrections, True)
+    handle_output("Scars of Mirrodin Block", scars_dict, out_file_h)
 
     # Innistrad Block
-    innistrad_dict = process_formats("Innistrad Block", card_corrections)
+    innistrad_dict = process_formats("Innistrad Block", card_corrections, True)
     handle_output("Innistrad Block", innistrad_dict, out_file_h)
 
     # Pauper Commander
