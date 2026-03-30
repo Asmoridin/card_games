@@ -621,6 +621,7 @@ Luminous Energy;Energy;Special Energy;;;;PAL 191 (Uncommon)/TWM 226 (Hyper Rare)
 Reversal Energy;Energy;Special Energy;;;;PAL 192 (Uncommon)/PAR 266 (Hyper Rare);G;4;0
 
 # Obsidian Flames (OBF)
+Toedscruel ex;Pokmeon;Grass;270;Protective Mycelium;Colony Rush;OBF 22 (Double Rare)/PAF 5 (Double Rare)/PAF 213 (Shiny Ultra Rare);G;4;0
 Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (Promo);G;4;1
 Cleffa;Pokemon;Psychic;30;;Grasping Draw;OBF 80 (Common)/OBF 202 (Illustration Rare)/SVP 37 (Promo)/PAF 150 (Shiny Rare);G;4;0
 Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
@@ -761,6 +762,7 @@ Glass Trumpet;Trainer;Item;;;;SCR 135 (Uncommon)/PRE 110 (Uncommon)/ASC 189 (Com
 Grand Tree;Trainer;Stadium;;;;SCR 136 (ACE SPEC Rare);H;2;0
 Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
 Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Uncommon)/PRE 171 (Special Illustration Rare);H;4;0
+Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE SPEC Rare);H;2;0
 
 # Surging Sparks
 Rellor;Pokemon;Grass;40;;Collect|Rollout;SSP 13 (Common)/DRI 24 (Common);H;4;0
@@ -916,14 +918,19 @@ Cynthia's Gabite;Pokemon;Fighting;100;Champion's Call;Dragonslice;DRI 103 (Commo
 Cynthia's Garchomp ex;Pokemon;Fighting;330;;Corkscrew Dive|Draconic Buster;DRI 104 (Double Rare)/DRI 215 (Ultra Rare)/DRI 232 (Special Illustration Rare)/DRI 241 (Hyper Rare)/SVP 204 (Promo)/ASC 111 (Double Rare);I;4;1
 Hippopotas;Pokemon;Fighting;90;;Push Down;DRI 105 (Common);I;4;1
 Hippowdon;Pokemon;Fighting;150;;Ram|Super Sandstorm;DRI 106 (Uncommon);I;4;0
-
+Mudbray;Pokemon;Fighting;90;;Running Charge;DRI 107 (Common);I;4;0
 Mudsdale;Pokemon;Fighting;150;Mud Coat;Heavy Impact;DRI 108 (Uncommon);I;4;1
 Arven's Toedscool;Pokemon;Fighting;70;;Slight Intrusion;DRI 109 (Common);I;4;2
 Arven's Toedscruel;Pokemon;Fighting;140;;Pull|Reckless Charge;DRI 110 (Uncommon);I;4;1
+Cornerstone Mask Ogerpon;Pokemon;Fighting;110;;Rock Kagura|Mountain Ramming;DRI 111 (Uncommon);I;4;0
 Team Rocket's Ekans;Pokemon;Darkness;70;;Drag Down|Gnaw;DRI 112 (Common);I;4;1
 Team Rocket's Arbok;Pokemon;Darkness;130;Potent Glare;Spinning Tail;DRI 113 (Uncommon);I;4;2
 Team Rocket's Nidoran♀;Pokemon;Darkness;70;;Surprise Attack;DRI 114 (Common);I;4;2
+Team Rocket's Nidorina;Pokemon;Darkness;90;;Dark Awakening|Scratch;DRI 115 (Common);I;4;0
 Team Rocket's Nidoqueen;Pokemon;Darkness;170;;Love Impact|Mega Kick;DRI 116 (Uncommon);I;4;1
+Team Rocket's Nidoran♂;Pokemon;Darkness;70;;Pierce|Hammer In;DRI 117 (Common);I;4;0
+Team Rocket's Nidorino;Pokemon;Darkness;100;;Hammer In|Horn Rend;DRI 118 (Common);I;4;0
+
 Team Rocket's Zubat;Pokemon;Darkness;50;;Poison Spray;DRI 120 (Common);I;4;1
 Team Rocket's Crobat ex;Pokemon;Darkness;310;Biting Spree;Assassin's Return;DRI 122 (Double Rare)/DRI 217 (Ultra Rare)/DRI 234 (Special Illustration Rare)/DRI 242 (Hyper Rare);I;4;1
 Team Rocket's Koffing;Pokemon;Darkness;70;Smog Signals;Leaking Gas;DRI 125 (Common);I;4;1
@@ -982,9 +989,20 @@ Scatterbug;Pokemon;Grass;40;;Gnaw;POR 7 (Common);J;4;0
 Spewpa;Pokemon;Grass;80;;Hide;POR 8 (Common)/POR 89 (Illustration Rare);J;4;0
 Vivillon;Pokemon;Grass;120;Grand Wing;Blow Through;POR 9 (Uncommon);J;4;0
 Rowlet;Pokemon;Grass;80;;Find a Friend|Tackle;POR 10 (Common)/POR 90 (Illustration Rare);J;4;0
+Dartrix;Pokemon;Grass;100;;Leafage|Feather Shot;POR 11 (Common);J;4;0
+Decidueye ex;Pokemon;Grass;320;Sniper's Eye;Crushing Arrow;POR 12 (Double Rare)/POR 100 (Ultra Rare);J;4;0
+Fletchinder;Pokemon;Fire;90;;Flare;POR 13 (Common);J;4;0
+Talonflame;Pokemon;Fire;150;Sky Hunt;Fire Wing;POR 14 (Uncommon)/POR 91 (Illustration Rare);J;4;0
+Salandit;Pokemon;Fire;70;;Fire Claws;POR 15 (Common);J;4;0
+Salazzle ex;Pokemon;Fire;260;;Nasty Plot|Dire Nails;POR 16 (Double Rare)/POR 101 (Ultra Rare);J;4;0
+Turtonator;Pokemon;Fire;120;Shell Spikes;Heat Breath;POR 17 (Uncommon);J;4;0
+Seel;Pokemon;Water;80;;Rain Splash|Wave Splash;POR 18 (Common);J;4;0
+Dewgong;Pokemon;Water;130;Wash Out;Wave Splash;POR 19 (Rare);J;4;0
+Staryu;Pokemon;Water;70;;Water Gun;POR 20 (Common);J;4;0
 
 # POR 76 done
 # POR 81 done
-# POR 89-90 done
+# POR 89-91 done
+# POR 101 done
 # POR 109 done
 # POR 113 done
