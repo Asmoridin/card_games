@@ -192,18 +192,18 @@ Cad Bane, Impressed Now?;SEC-034-S;Ground Unit;Underworld/Bounty Hunter;5;4;5;U/
 Cal Kestis, I Can't Keep Hiding;LOF-015-C;Leader;Force/Fringe;4;3;4;Y/W;1 # 1 hyperspace
 Calculated Lethality;SHD-039-S;Event;Tactic;4;U/B;3
 Calculating MagnaGuard;TWI-033-U;Ground Unit;Separatist/Droid;3;3;4;B/U;1
+Calm in the Storm;LOF-054-U;Event;Force;2;U/W;1
+Cantina Bouncer;SOR-202-U;Ground Unit;Fringe;5;3;5;Y/Y;3 # 1 foil
+Cantina Braggart;SOR-157-C;Ground Unit;Underworld;1;0;3;R;3 # 1 hyperfoil
+Cantwell Arrestor Cruiser;SEC-037-U;Space Unit;Imperial/Vehicle/Capital Ship;U/B;3
+Capital City;SOR-020-C;Base;Lothal;30;U;1 # 1 hyperspace
+Captain Enoch, Captain of the Guard;LOF-083-R;Ground Unit;Imperial/Trooper;3;1;5;G/B;0
+Captain Phasma, Chrome Dome;JTL-010-R;Leader;First Order/Trooper;5;4;6;R/B;1
+Captain Phasma, On My Command;JTL-088-U;Ground Unit;First Order/Trooper;5;5;6;G/B;3 # 1 foil
+Captain Rex, Fighting For His Brothers;TWI-007-R;Leader;Republic/Clone/Trooper;5;2;6;G/W;1
+Captain Rex, Into the Firefight;SEC-048-R;Ground Unit;Republic/Clone/Trooper;6;7;7;U/W;1
+Captain Rex, Lead by Example;TWI-097-S;Ground Unit;Republic/Clone/Trooper;6;4;4;G/W;3
 # Done through here
-Calm in the Storm;LOF-054-U;Event;U/W;1
-Cantina Bouncer;SOR-202-U;Ground Unit;Y;3 # 1 foil
-Cantina Braggart;SOR-157-C;Ground Unit;R;3 # 1 hyperfoil
-Cantwell Arrestor Cruiser;SEC-037-U;Space Unit;U/B;3
-Capital City;SOR-020-C;Base;U;1 # 1 hyperspace
-Captain Enoch, Captain of the Guard;LOF-083-R;Ground Unit;G/B;0
-Captain Phasma, Chrome Dome;JTL-010-R;Leader;R/B;1
-Captain Phasma, On My Command;JTL-088-U;Ground Unit;G/B;3 # 1 foil
-Captain Rex, Fighting For His Brothers;TWI-007-R;Leader;G/W;1
-Captain Rex, Into the Firefight;SEC-048-R;Ground Unit;U/W;1
-Captain Rex, Lead by Example;TWI-097-S;Ground Unit;G/W;3
 Captain Tarkin, Full Forward Assault;JTL-161-U;Ground Unit;R;2
 Captain Typho, All Necessary Precautions;SEC-098-S;Ground Unit;G/W;3 # 1 foil
 Captain Typho, Protecting the Senator;TWI-046-U;Ground Unit;U/W;2 # 1 hyperspace
@@ -1791,8 +1791,20 @@ Artful Pickpocket;LAW-218-C;Ground Unit;Underworld;2;3;2;Y/W;0
 Anakin's Podracer, So Wizard!;LAW-219-L;Ground Unit;Vehicle/Speeder;3;3;2;Y/W;0
 Wookiee Guerilla;LAW-220-C;Ground Unit;Wookiee/Trooper;3;2;4;Y/W;0
 Lieutenant Gorn, I Deserve Worse;LAW-221-R;Ground Unit;Rebel/Imperial;3;4;4;Y/W;0
-
+Rebel Blockade Runner;LAW-222-C;Space Unit;Rebel/Vehicle/Transport;4;4;5;Y/W;0
+Rose Tico, Now It's Worth It;LAW-223-R;Ground Unit;Resistance;5;5;5;Y/W;0
 Liberty, Draw Their Fire!;LAW-224-L;Space Unit;Rebel/Vehicle/Capital Ship;8;9;7;Y/W;0
+Han's Golden Dice;LAW-225-U;Upgrade;Item;1;0;0;Y/W;0
+Secret Battle of Pretend;LAW-226-U;Event;Trick;2;Y/W;0
+Rookie Rocket-Jumper;LAW-227-C;Ground Unit;Underworld/Twi'lek;1;2;1;Y;0
+Canyon Frontrunner;LAW-228-C;Ground Unit;Vehicle/Speeder;2;3;2;Y;0
+The Master Codebreaker, High Stakes;LAW-229-R;Ground Unit;Underworld;2;1;4;Y;0
+Ohnaka Gang Starhopper;LAW-230-C;Space Unit;Underworld/Vehicle/Fighter;2;2;2;Y;0
+Weequay Pirate;LAW-231-C;Ground Unit;Underworld;2;2;3;Y;0
+Champion's KT9 Podracer;LAW-232-C;Ground Unit;Vehicle/Speeder;3;2;3;Y;0
+Galen Erso, Destroying His Creation;LAW-233-R;Ground Unit;Imperial;3;0;5;Y;0
+Kage Elite;LAW-234-C;Ground Unit;Fringe;3;2;3;Y;0
+Lady Proxima, Where's the Money?;LAW-235-U;Ground Unit;Underworld;3;1;5;Y;0
 
 Fett's Firespray, In Pursuit;LAW-252-R;Space Unit;Underworld/Vehicle/Transport;6;4;6;B;0
 
