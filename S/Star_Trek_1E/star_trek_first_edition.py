@@ -26,13 +26,15 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',
     'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation',
-    'The Next Generation: Supplemental', 'BaH!', 'Crossover', 'Straight and Steady', ]
+    'The Next Generation: Supplemental', 'BaH!', 'Crossover', 'Straight and Steady',
+    'Dramatis Personae']
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',
     'Trouble', 'Tribble', 'Q Event', 'Q Interrupt', 'Q Dilemma', 'Tactic', ]
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
-    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian', 'Starfleet', 'Neutral']
+    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian', 'Starfleet', 'Neutral', 'Xindi',
+    'Vulcan']
 
 class Card:
     """

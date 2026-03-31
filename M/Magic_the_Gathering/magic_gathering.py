@@ -476,7 +476,7 @@ def get_max_rarity(rarity_list):
     Mythic Rare > Rare > Uncommon > Common > Land
     """
     rarity_order = ['Land', 'Special', 'Bonus', 'Common', 'Uncommon', 'Rare', 'Mythic Rare']
-    return max(rarity_list, key=lambda x: rarity_order.index(x))
+    return max(rarity_list, key=rarity_order.index)
 
 def handle_output(format_name, format_dict, dest_fh):
     """
@@ -500,7 +500,7 @@ def handle_output(format_name, format_dict, dest_fh):
         double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
             f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
         double_print(str(format_dict['DECKS'][0][2]), dest_fh)
-    
+
     if 'UNUSED' in format_dict:
         rarity_sort_order = ['Land', 'Special', 'Bonus', 'Common', 'Uncommon', 'Rare',
             'Mythic Rare']
@@ -508,7 +508,7 @@ def handle_output(format_name, format_dict, dest_fh):
         format_dict['UNUSED'] = sorted(format_dict['UNUSED'],
                 key=lambda x: rarity_sort_order.index(get_max_rarity(x[1])), reverse=True)
         rarity_string = f"\nUnused card with highest rarity is: {format_dict['UNUSED'][0][0]} " + \
-            f"({format_dict['UNUSED'][0][1]})"
+            f"({sorted(format_dict['UNUSED'][0][1])})"
         double_print(rarity_string , dest_fh)
 
     double_print("\nMost needed cards are:", dest_fh)

@@ -70,7 +70,7 @@ Ando Commission;SEC-262-C;Ground Unit;Separatist/Official;4;4;3;N;3
 Annihilator, Tagge's Flagship;JTL-041-L;Space Unit;Imperial/Vehicle/Capital Ship;11;12;12;U/B;0
 Apology Accepted;JTL-091-U;Event;Tactic;1;G/B;1
 Ardent Sympathizer;SOR-161-C;Ground Unit;Trooper;3;3;3;R;3
-Arihnda Pryce, On The Road To Power;SEC-136-R;Ground Unit;Imperial;4;4;4;R/B;2
+Arihnda Pryce, On the Road to Power;SEC-136-R;Ground Unit;Imperial;4;4;4;R/B;2
 Armed to the Teeth;SHD-175-U;Upgrade;Supply/Weapon;2;2;0;R;3
 Armor of Fortune;SEC-070-C;Upgrade;Item/Armor;2;0;3;U;3 # 1 hyperspace, 1 hyperfoil
 Armored Saber Tank;TWI-245-C;Ground Unit;Republic/Vehicle/Tank;6;5;5;W;2
@@ -195,7 +195,7 @@ Calculating MagnaGuard;TWI-033-U;Ground Unit;Separatist/Droid;3;3;4;B/U;1
 Calm in the Storm;LOF-054-U;Event;Force;2;U/W;1
 Cantina Bouncer;SOR-202-U;Ground Unit;Fringe;5;3;5;Y/Y;3 # 1 foil
 Cantina Braggart;SOR-157-C;Ground Unit;Underworld;1;0;3;R;3 # 1 hyperfoil
-Cantwell Arrestor Cruiser;SEC-037-U;Space Unit;Imperial/Vehicle/Capital Ship;U/B;3
+Cantwell Arrestor Cruiser;SEC-037-U;Space Unit;Imperial/Vehicle/Capital Ship;7;6;7;U/B;3
 Capital City;SOR-020-C;Base;Lothal;30;U;1 # 1 hyperspace
 Captain Enoch, Captain of the Guard;LOF-083-R;Ground Unit;Imperial/Trooper;3;1;5;G/B;0
 Captain Phasma, Chrome Dome;JTL-010-R;Leader;First Order/Trooper;5;4;6;R/B;1
@@ -534,7 +534,7 @@ FN Trooper Corps;SEC-243-C;Ground Unit;B;3
 Focus Determines Reality;LOF-152-U;Event;R/W;2
 Focus Fire;JTL-129-C;Event;G;2
 Follower of The Way;SHD-056-C;Ground Unit;U;3
-Following The Path;LOF-103-C;Event;G/W;3
+Following the Path;LOF-103-C;Event;G/W;3
 For a Cause I Believe In;SOR-152-R;Event;R/W;3
 For The Republic;TWI-051-R;Upgrade;U/W;0
 Force Choke;SOR-139-U;Event;R/B;3
@@ -936,7 +936,7 @@ Moff Gideon, I Know Everything;JTL-188-R;Ground Unit;Y/B;0
 Moisture Farmer;SHD-055-C;Ground Unit;U;3 # 2 foil
 Moment of Glory;SHD-130-C;Event;G;3 # 1 foil
 Moment of Peace;SOR-073-C;Event;U;3 # 1 hyperspace
-Mon Mothma, Clinging To Hope;SEC-103-R;Ground Unit;G/W;1
+Mon Mothma, Clinging to Hope;SEC-103-R;Ground Unit;G/W;1
 Mon Mothma, Forming a Coalition;SEC-009-C;Leader;G/W;1 # 1 hyperspace
 Mon Mothma, Voice Of The Rebellion;SOR-096-U;Ground Unit;G/W;3
 Moral Authority;SEC-256-R;Upgrade;W;2
@@ -1442,7 +1442,7 @@ TIE/ln Fighter;SOR-225-C;Space Unit;B;3 # 1 hyperspace
 Time of Crisis;LOF-177-R;Event;R;1
 Timely Intervention;SHD-129-C;Event;G;3 # 1 foil
 Timely Reinforcements;JTL-130-U;Event;G;1
-Tip The Scale;LOF-226-C;Event;Y;3
+Tip the Scale;LOF-226-C;Event;Y;3
 Tipoca City;TWI-024-C;Base;G;1 # 1 hyperspace
 Tobias Beckett, I Trust No One;SHD-217-R;Ground Unit;Y;0
 Tomb of Eilram;LOF-028-R;Base;Y;1
@@ -1572,7 +1572,7 @@ Zorii Bliss, Valiant Smuggler;SHD-203-R;Ground Unit;Y/W;3 # 1 foil
 Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;3
 Zuckuss, The Findsman;LOF-204-L;Ground Unit;Y;0
 Zygerrian Starhopper;JTL-183-C;Space Unit;Y/B;3 # 1 foil
-Saw Gerrera, Bring Down The Empire;LAW-001-R;Leader;Rebel;6;4;7;G/R;0
+Saw Gerrera, Bring Down the Empire;LAW-001-R;Leader;Rebel;6;4;7;G/R;0
 Tobias Beckett, People Are Predictable;LAW-002-R;Leader;Underworld;5;4;6;Y/U;0
 Agent Kallus, Reconsider Your Allegiance;LAW-003-R;Leader;Imperial/Trooper;5;3;6;U/B;0
 Aurra Sing, Assassin;LAW-004-C;Leader;Underworld/Bounty Hunter;7;3;7;U/B;0
@@ -1621,7 +1621,7 @@ Chirrut Îmwe, I Don't Need Luck;LAW-046-R;Ground Unit;Force/Rebel;6;8;6;U/R/W;0
 Baze Malbus, Good Luck;LAW-047-R;Ground Unit;Rebel;7;6;8;U/R/W;0
 Chio Fain, Four-Armed Slicer;LAW-048-U;Ground Unit;Underworld/Bounty Hunter;2;2;4;U/R;0
 Bith Brute;LAW-049-C;Ground Unit;Underworld;3;4;3;U/R;0
-Honnah, Oink! Squee!;LAW-050-U;Ground Unit;Underworld/Bounty Hunter;4;3;5;U/R;0
+Honnah, OINK! SQUEE!;LAW-050-U;Ground Unit;Underworld/Bounty Hunter;4;3;5;U/R;0
 Beilert Valance, Target: Vader;LAW-051-R;Ground Unit;Underworld/Bounty Hunter;5;3;6;U/R;0
 The Mandalorian, Let's See the Puck;LAW-052-L;Ground Unit;Mandalorian/Bounty Hunter;6;6;5;U/R;0
 Dengar, Take Your Shot;LAW-053-U;Ground Unit;Underworld/Bounty Hunter;3;4;3;G/R/B;0
@@ -1638,7 +1638,7 @@ L3-37, Radical Instigator;LAW-063-L;Ground Unit;Underworld/Droid;6;3;2;G/R;0
 Zuckuss, Dangerous;LAW-064-R;Ground Unit;Underworld/Bounty Hunter;4;3;5;G/Y/B;0
 4-LOM, Devious;LAW-065-U;Ground Unit;Underworld/Droid/Bounty Hunter;5;4;5;G/Y/B;0
 Tear This Ship Apart;LAW-066-L;Event;Tactic;7;G/Y/B;0
-Jyn Erso, Take The Next Chance;LAW-067-R;Ground Unit;Rebel;2;2;2;G/Y/W;0
+Jyn Erso, Take the Next Chance;LAW-067-R;Ground Unit;Rebel;2;2;2;G/Y/W;0
 Millennium Falcon, Dodging Patrols;LAW-068-U;Space Unit;Rebel/Vehicle/Transport;3;2;5;G/Y/W;0
 The Ghost, Home of the Spectres;LAW-069-R;Space Unit;Rebel/Vehicle/Transport/Spectre;6;4;4;G/Y/W;0
 Devaronian Doorbuster;LAW-070-C;Ground Unit;Underworld;2;3;2;G/Y;0
@@ -1715,7 +1715,7 @@ Targeted For Removal;LAW-141-U;Upgrade;Condition;3;0;0;G/B;0
 Scarif Lieutenant;LAW-142-U;Ground Unit;Rebel/Trooper;1;2;1;G/W;0
 Liberated Wookiee;LAW-143-C;Ground Unit;Wookiee;2;2;4;G/W;0
 Phantom, Spectre Shuttle;LAW-144-R;Space Unit;Rebel/Vehicle/Transport/Spectre;2;2;2;G/W;0
-R2-D2, Part of the plan;LAW-145-S;Ground Unit;Rebel/Droid;2;1;3;G/W;0
+R2-D2, Part of the Plan;LAW-145-S;Ground Unit;Rebel/Droid;2;1;3;G/W;0
 Massassi Group Marines;LAW-146-C;Ground Unit;Rebel/Trooper;3;4;4;G/W;0
 Jaunty Light Freighter;LAW-147-C;Space Unit;Vehicle/Transport;4;1;1;G/W;0
 Smuggler's YT-2400;LAW-148-U;Space Unit;Underworld/Vehicle/Transport;5;4;5;G/W;0
@@ -1763,7 +1763,7 @@ Haxion Aggressor;LAW-190-C;Ground Unit;Underworld/Bounty Hunter;2;2;2;R;0
 Arvel Skeen, Win and Walk Away;LAW-191-U;Ground Unit;Rebel;3;4;3;R;0
 Bracca Shipbreaker;LAW-192-C;Ground Unit;Fringe;3;4;3;R;0
 Mid Rim Sharpshooter;LAW-193-U;Ground Unit;Underworld;3;3;3;R;0
-Doctor Aphra, Digging for answers;LAW-194-R;Ground Unit;Underworld;4;4;5;R;0
+Doctor Aphra, Digging For Answers;LAW-194-R;Ground Unit;Underworld;4;4;5;R;0
 Overcharged Transport;LAW-195-C;Space Unit;Vehicle/Transport;4;4;3;R;0
 Relentless Hunters;LAW-196-C;Ground Unit;Bounty Hunter;4;5;4;R;0
 Shifty Suspects;LAW-197-U;Ground Unit;Underworld/Bounty Hunter;4;4;5;R;0
@@ -1805,7 +1805,16 @@ Champion's KT9 Podracer;LAW-232-C;Ground Unit;Vehicle/Speeder;3;2;3;Y;0
 Galen Erso, Destroying His Creation;LAW-233-R;Ground Unit;Imperial;3;0;5;Y;0
 Kage Elite;LAW-234-C;Ground Unit;Fringe;3;2;3;Y;0
 Lady Proxima, Where's the Money?;LAW-235-U;Ground Unit;Underworld;3;1;5;Y;0
+Bix Caleen, Selling Scrap;LAW-236-U;Ground Unit;Fringe;4;4;5;Y;0
+Qui-Gon Jinn, Influencing Chance;LAW-237-R;Ground Unit;Force/Jedi/Republic;4;3;5;Y;0
 
+The Blade Wing, The Secret of Shantipole;LAW-241-U;Space Unit;Rebel/Vehicle/Fighter;6;3;3;Y;0
+
+Transmission Jamming;LAW-243-U;Event;Tactic;1;Y;0
+
+The Axe Forgets;LAW-246-C;Event;Gambit;2;Y;0
+
+Night Wind Assailants;LAW-251-C;Ground Unit;Underworld;5;5;5;B;0
 Fett's Firespray, In Pursuit;LAW-252-R;Space Unit;Underworld/Vehicle/Transport;6;4;6;B;0
 
 ** END **

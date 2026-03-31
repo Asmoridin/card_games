@@ -150,8 +150,8 @@ FILE_PREFIX = "card_games/S/Star_Wars_Unlimited"
 if os.getcwd().endswith('card_games'):
     FILE_PREFIX = "S/Star_Wars_Unlimited"
 
-#CURRENT_FORMAT = "07 - A Lawless Time"
-CURRENT_FORMAT = "06 - Secrets of Power"
+CURRENT_FORMAT = "07 - A Lawless Time"
+#CURRENT_FORMAT = "06 - Secrets of Power"
 DECK_DIR = FILE_PREFIX + '/Decks/' + CURRENT_FORMAT
 with open(FILE_PREFIX + '/Data/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8") as sw_data_file:
     lines = sw_data_file.readlines()
