@@ -713,6 +713,7 @@ Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (U
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare)/ASC 99 (Rare);H;4;0
 Greninja ex;Pokemon;Fighting;310;;Shinobi Blade|Mirage Barrage;TWM 106 (Double Rare)/TWM 198 (Ultra Rare)/TWM 214 (Special Illustration Rare);H;4;0
 Cornerstone Mask Ogerpon ex;Pokemon;Fighting;210;Cornerstone Stance;Demolish;TWM 112 (Double Rare)/TWM 199 (Ultra Rare)/TWM 215 (Special Illustration Rare)/PRE 58 (Double Rare)/PRE 160 (Special Illustration Rare);H;4;0
+Applin;Pokemon;Dragon;40;;Find a Friend|Rolling Tackle;TWM 126 (Common)/TWM 185 (Illustration Rare);H;4;0
 Dreepy;Pokemon;Dragon;70;;Petty Grudge|Bite;TWM 128 (Common)/PRE 71 (Common)/ASC 158 (Common)/ASC 247 (Illustration Rare);H;4;0
 Drakloak;Pokemon;Dragon;90;Recon Directive;Dragon Headbutt;TWM 129 (Common)/PRE 72 (Common)/ASC 159 (Common)/ASC 248 (Illustration Rare);H;4;0
 Dragapult ex;Pokemon;Dragon;320;;Jet Headbutt|Phantom Dive;TWM 130 (Double Rare)/TWM 200 (Ultra Rare)/PRE 73 (Double Rare)/PRE 165 (Special Illustration Rare)/ASC 160 (Double Rare);H;4;0
@@ -791,6 +792,7 @@ Regigigas;Pokemon;Colorless;160;;Jewel Breaker;PRE 86 (Uncommon);H;4;0
 Black Belt's Training;Trainer;Supporter;;;;PRE 96 (Common)/PRE 97 (Common)/PRE 98 (Common)/PRE 99 (Common)/JTG 143 (Common)/JTG 144 (Common)/JTG 145 (Common)/SVP 220 (Promo)/ASC 255 (Ultra Rare);H;4;0
 
 # Journey Together (JTG)
+Blaziken ex;Pokemon;Fire;320;Seething Spirit;Smolder-sault;JTG 24 (Double Rare);H;4;0
 N's Darumaka;Pokemon;Fire;80;;Rolling Tackle|Flare;JTG 26 (Common)/ASC 32 (Common);I;4;0
 N's Darmanitan;Pokemon;Fire;140;;Back Draft|Flamebody Cannon;JTG 27 (Uncommon)/SVP 181 (Promo)/ASC 33 (Uncommon);I;4;0
 Iono's Tadbulb;Pokemon;Lightning;60;;Tiny Charge;JTG 52 (Common)/ASC 69 (Common);I;4;0
@@ -930,11 +932,16 @@ Team Rocket's Nidorina;Pokemon;Darkness;90;;Dark Awakening|Scratch;DRI 115 (Comm
 Team Rocket's Nidoqueen;Pokemon;Darkness;170;;Love Impact|Mega Kick;DRI 116 (Uncommon);I;4;1
 Team Rocket's Nidoran♂;Pokemon;Darkness;70;;Pierce|Hammer In;DRI 117 (Common);I;4;0
 Team Rocket's Nidorino;Pokemon;Darkness;100;;Hammer In|Horn Rend;DRI 118 (Common);I;4;0
-
+Team Rocket's Nidoking ex;Pokemon;Darkness;330;;Tainted Horn|Kingly Impact;DRI 119 (Double Rare)/DRI 216 (Ultra Rare)/DRI 233 (Special Illustration Rare)/SVP 217 (Promo);I;4;0
 Team Rocket's Zubat;Pokemon;Darkness;50;;Poison Spray;DRI 120 (Common);I;4;1
+Team Rocket's Golbat;Pokemon;Darkness;80;Sneaky Bite;Confuse Ray;DRI 121 (Uncommon);I;4;0
 Team Rocket's Crobat ex;Pokemon;Darkness;310;Biting Spree;Assassin's Return;DRI 122 (Double Rare)/DRI 217 (Ultra Rare)/DRI 234 (Special Illustration Rare)/DRI 242 (Hyper Rare);I;4;1
+Team Rocket's Grimer;Pokemon;Darkness;80;;Corrosive Sludge;DRI 123 (Common);I;4;0
+Team Rocket's Muk;Pokemon;Darkness;150;;Gooped Up|Hazardous Venom;DRI 124 (Uncommon);I;4;0
 Team Rocket's Koffing;Pokemon;Darkness;70;Smog Signals;Leaking Gas;DRI 125 (Common);I;4;1
+Team Rocket's Weezing;Pokemon;Darkness;130;;Explode Together Now;DRI 126 (Uncommon)/DRI 199 (Illustration Rare);I;4;0
 Team Rocket's Murkrow;Pokemon;Darkness;80;;Deceit|Torment;DRI 127 (Uncommon)/DRI 200 (Illustration Rare)/ASC 126 (Common);I;4;0
+
 Cynthia's Spiritomb;Pokemon;Darkness;70;;Raging Curse;DRI 129 (Uncommon)/ASC 133 (Uncommon)/ASC 244 (Illustration Rare);I;4;0
 Marnie's Impidimp;Pokemon;Darkness;70;;Filch|Corkscrew Punch;DRI 134 (Common);I;4;1
 Marnie's Morgrem;Pokemon;Darkness;100;;Corkscrew Punch;DRI 135 (Uncommon);I;4;1
@@ -966,15 +973,12 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon)/ASC 209 (Uncommon)/
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon)/ASC 210 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182-198 done - last orig card
-# DRI 200 done
+# DRI 182-200 done - last orig card
 # DRI 202-203 done
 # DRI 206-213 done
-# DRI 215 done
-# DRI 217 done
+# DRI 215-217 done
 # DRI 220 done
-# DRI 222-232 done
-# DRI 234 done
+# DRI 222-234 done
 # DRI 237-238 done
 # DRI 240-244 done - last card
 
@@ -999,10 +1003,21 @@ Turtonator;Pokemon;Fire;120;Shell Spikes;Heat Breath;POR 17 (Uncommon);J;4;0
 Seel;Pokemon;Water;80;;Rain Splash|Wave Splash;POR 18 (Common);J;4;0
 Dewgong;Pokemon;Water;130;Wash Out;Wave Splash;POR 19 (Rare);J;4;0
 Staryu;Pokemon;Water;70;;Water Gun;POR 20 (Common);J;4;0
+Mega Starmie ex;Pokemon;Water;330;;Jetting Blow|Nebula Beam;POR 21 (Double Rare)/POR 102 (Ultra Rare)/POR 118 (Special Illustration Rare);J;4;0
+Lapras ex;Pokemon;Water;210;;Hydro Turn|Surf;POR 22 (Double Rare);I;4;0
+Amaura;Pokemon;Water;100;;Icy Wind;POR 23 (Common);J;4;0
+Aurorus;Pokemon;Water;170;Tundra Wall;Freezing Chill;POR 24 (Rare)/POR 92 (Illustration Rare);J;4;0
+Volcanion;Pokemon;Water;130;;Strength|Powerful Steam;POR 25 (Uncommon);J;4;0
+Shinx;Pokemon;Lightning;70;;Double Scratch;POR 26 (Common);J;4;0
+Luxio;Pokemon;Lightning;90;Fighting Roar;Static Shock;POR 27 (Uncommon);J;4;0
+Luxray;Pokemon;Lightning;150;;Incessant Onslaught|Strong Volt;POR 28 (Rare);J;4;0
+Dedenne;Pokemon;Lightning;70;;Tail Generator|Thunder Shock;POR 29 (Common)/POR 93 (Illustration Rare);J;4;0
+Clefairy;Pokemon;Psychic;70;;Follow Me|Flop;POR 30 (Common)/POR 94 (Illustration Rare);J;4;0
 
 # POR 76 done
 # POR 81 done
-# POR 89-91 done
-# POR 101 done
+# POR 89-94 done
+# POR 101-102 done
 # POR 109 done
 # POR 113 done
+# POR 118 done
