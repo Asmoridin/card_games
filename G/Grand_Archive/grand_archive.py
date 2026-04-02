@@ -35,6 +35,8 @@ item_list = []
 champions = set()
 for line in lines:
     line = line.split('#')[0].strip()
+    if line == "":
+        continue
     TEMP_MAX = 0
     if line.count(';') == 5:
         card_name, card_sets, card_subtype, card_class, card_element, card_own = line.split(';')
