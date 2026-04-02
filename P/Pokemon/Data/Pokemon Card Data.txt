@@ -614,6 +614,7 @@ Dunsparce;Pokemon;Colorless;70;;Find a Friend|Bite;PAL 156 (Common);G;4;0
 Squawkabilly ex;Pokemon;Colorless;160;Squawk and Seize;Motivate;PAL 169 (Double Rare)/PAL 247 (Ultra Rare)/PAL 264 (Special Illustration Rare)/PAF 75 (Double Rare)/PAF 223 (Shiny Ultra Rare)/SVP 160 (Promo);G;4;0
 Artazon;Trainer;Stadium;;;;PAL 171 (Uncommon)/OBF 229 (Hyper Rare)/PAF 76 (Uncommon);G;4;0
 Bravery Charm;Trainer;Pokemon Tool;;;;PAL 173 (Uncommon)/SCR 175 (Hyper Rare);G;4;0
+Calamitous Snowy Mountain;Trainer;Stadium;;;;PAL 174 (Uncommon);G;4;0
 Super Rod;Trainer;Item;;;;Neo Genesis 103 (Common)/Noble Victories 95 (Uncommon)/Dragon Vault 20 (Other)/BREAKthrough 149 (Uncommon)/PAL 188 (Common)/PAL 276 (Hyper Rare);G;4;0
 Superior Energy Retrieval;Trainer;Item;;;;Plasma Freeze 103 (Uncommon)/PAL 189 (Uncommon)/PAL 277 (Hyper Rare);G;4;0
 Jet Energy;Energy;Special Energy;;;;PAL 190 (Uncommon)/SSP 252 (Hyper Rare);G;8;0
@@ -648,6 +649,7 @@ Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)
 Iron Hands ex;Pokemon;Lightning;230;;Arm Press|Amp You Very Much;PAR 70 (Double Rare)/PAR 223 (Ultra Rare)/PAR 248 (Special Illustration Rare)/PRE 31 (Double Rare)/PRE 154 (Special Illustration Rare);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
+Brute Bonnet;Pokemon;Darkness;120;Toxic Powder;Rampaging Hammer;PAR 123 (Rare)/PAR 207 (Illustration Rare);G;4;0
 Roaring Moon ex;Pokemon;Darkness;230;;Frenzied Gouging|Calamity Storm;PAR 124 (Double Rare)/PAR 229 (Ultra Rare)/PAR 251 (Special Illustration Rare)/PAR 262 (Hyper Rare)/SVP 67 (Promo)/PRE 162 (Special Illustration Rare);G;4;0
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
 Ancient Booster Energy Capsule;Trainer;Pokemon Tool;;;;PAR 159 (Uncommon)/TEF 140 (Uncommon);G;4;0
@@ -756,6 +758,7 @@ Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/AS
 Hoothoot;Pokemon;Colorless;70;;Triple Stab;SCR 114 (Common);H;4;0
 Noctowl;Pokemon;Colorless;100;Jewel Seeker;Speed Wing;SCR 115 (Rare)/SVP 141 (Promo)/PRE 78 (Rare);H;4;0
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common)/ASC 171 (Common)/ASC 250 (Illustration Rare);H;4;0
+Bouffalant;Pokemon;Colorless;100;Curly Wall;Boundless Power;SCR 119 (Rare)/SVP 136 (Promo);H;4;0
 Terapagos ex;Pokemon;Colorless;230;;Unified Beatdown|Crown Opal;SCR 128 (Double Rare)/SCR 170 (Special Illustration Rare)/SCR 173 (Hyper Rare)/SVP 165 (Promo)/PRE 92 (Double Rare)/PRE 169 (Special Illustration Rare)/PRE 180 (Hyper Rare)/ASC 179 (Double Rare);H;4;0
 Antique Cover Fossil;Trainer;Item;;;;SCR 129 (Common)/BLK 80 (Common);H;4;0
 Area Zero Underdepths;Trainer;Stadium;;;;SCR 131 (Uncommon)/SCR 174 (Hyper Rare)/PRE 94 (Uncommon);H;4;0
@@ -941,12 +944,17 @@ Team Rocket's Muk;Pokemon;Darkness;150;;Gooped Up|Hazardous Venom;DRI 124 (Uncom
 Team Rocket's Koffing;Pokemon;Darkness;70;Smog Signals;Leaking Gas;DRI 125 (Common);I;4;1
 Team Rocket's Weezing;Pokemon;Darkness;130;;Explode Together Now;DRI 126 (Uncommon)/DRI 199 (Illustration Rare);I;4;0
 Team Rocket's Murkrow;Pokemon;Darkness;80;;Deceit|Torment;DRI 127 (Uncommon)/DRI 200 (Illustration Rare)/ASC 126 (Common);I;4;0
-
+Team Rocket's Sneasel;Pokemon;Darkness;80;;Scratch|Strike the Sleeper;DRI 128 (Rare);I;4;0
 Cynthia's Spiritomb;Pokemon;Darkness;70;;Raging Curse;DRI 129 (Uncommon)/ASC 133 (Uncommon)/ASC 244 (Illustration Rare);I;4;0
+Marnie's Purrloin;Pokemon;Darkness;60;;Pointy Nails;DRI 130 (Common);I;4;0
+Marnie's Liepard;Pokemon;Darkness;100;;Pointy Claws;DRI 131 (Uncommon);I;4;0
+Marnie's Scraggy;Pokemon;Darkness;70;;Crunch;DRI 132 (Common);I;4;0
+Marnie's Scrafty;Pokemon;Darkness;120;;Rear Kick|Wild Tackle;DRI 133 (Uncommon);I;4;0
 Marnie's Impidimp;Pokemon;Darkness;70;;Filch|Corkscrew Punch;DRI 134 (Common);I;4;1
 Marnie's Morgrem;Pokemon;Darkness;100;;Corkscrew Punch;DRI 135 (Uncommon);I;4;1
 Marnie's Grimmsnarl ex;Pokemon;Darkness;320;Punk Up;Shadow Bullet;DRI 136 (Double Rare)/ASC 287 (Special Illustration Rare);I;4;0
 Marnie's Morpeko;Pokemon;Darkness;70;;Spiky Wheel;DRI 137 (Common)/SVP 206 (Promo);I;4;1
+
 Steven's Skarmory;Pokemon;Metal;120;;Razor Wing|Sonic Double;DRI 142 (Common);I;4;1
 Steven's Metagross ex;Pokemon;Metal;340;X-Boot;Metal Stomp;DRI 145 (Double Rare)/ASC 289 (Special Illustration Rare);I;4;0
 Team Rocket's Raticate;Pokemon;Colorless;90;;Reckless Abandon;DRI 148 (Common)/DRI 202 (Illustration Rare);I;4;1
@@ -1013,11 +1021,21 @@ Luxio;Pokemon;Lightning;90;Fighting Roar;Static Shock;POR 27 (Uncommon);J;4;0
 Luxray;Pokemon;Lightning;150;;Incessant Onslaught|Strong Volt;POR 28 (Rare);J;4;0
 Dedenne;Pokemon;Lightning;70;;Tail Generator|Thunder Shock;POR 29 (Common)/POR 93 (Illustration Rare);J;4;0
 Clefairy;Pokemon;Psychic;70;;Follow Me|Flop;POR 30 (Common)/POR 94 (Illustration Rare);J;4;0
+Mega Clefable ex;Pokemon;Psychic;320;Luminous Wing;Shooting Moons;POR 31 (Double Rare)/POR 103 (Ultra Rare)/POR 119 (Special Illustration Rare);J;4;0
+Mawile;Pokemon;Psychic;110;;Double Eater;POR 32 (Common);J;4;0
+Espurr;Pokemon;Psychic;60;;Nap|Stampede;POR 33 (Common)/POR 95 (Illustration Rare);J;4;0
+Meowstic;Pokemon;Psychic;100;;Perplex|Psychic;POR 34 (Uncommon);J;4;0
+Spritzee;Pokemon;Psychic;70;;Sweet Scent|Ram;POR 35 (Common);J;4;0
+Aromatisse;Pokemon;Psychic;120;Scent Collection;Draining Kiss;POR 36 (Uncommon);J;4;0
+Nosepass;Pokemon;Fighting;90;;Rolling Rocks;POR 37 (Common);J;4;0
+Probopass;Pokemon;Fighting;140;;Rolling Rocks|Obliterating Nose;POR 38 (Common)/POR 96 (Illustration Rare);J;4;0
+Hippopotas;Pokemon;Fighting;100;;Sand Attack|Bite;POR 39 (Common);J;4;0
+Hippowdon;Pokemon;Fighting;150;;Twister Spewing|Heavy Impact;POR 40 (Uncommon);J;4;0
 
 # POR 76 done
 # POR 81 done
-# POR 89-94 done
-# POR 101-102 done
+# POR 89-96 done
+# POR 101-103 done
 # POR 109 done
 # POR 113 done
-# POR 118 done
+# POR 118-119 done
