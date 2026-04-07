@@ -639,6 +639,7 @@ Pidgeotto;Pokemon;Colorless;80;;Flap;MEW 17 (Common)/PAF 197 (Shiny Rare);G;4;0
 Ditto;Pokemon;Colorless;60;Transformative Start;Splup;MEW 132 (Rare)/PAF 201 (Shiny Rare);G;4;0
 Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 (Ultra Rare)/MEW 205 (Hyper Rare)/SVP 53 (Promo)/PAF 216 (Shiny Ultra Rare)/PAF 232 (Special Illustration Rare);G;4;0
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
+Erika's Invitation;Trainer;Supporter;;;;MEW 160 (Uncommon)/MEW 196 (Ultra Rare)/MEW 203 (Special Illustration Rare);G;4;0
 
 # Paradox Rift (PAR)
 Toedscool;Pokemon;Grass;60;;Kick|Absorb;PAR 16 (Common);G;4;0
@@ -705,6 +706,7 @@ Rescue Board;Trainer;Pokemon Tool;;;;TEF 159 (Uncommon)/TWM 225 (Hyper Rare)/PRE
 Mist Energy;Energy;Special Energy;;;;TEF 161 (Uncommon);H;4;0
 
 # Twilight Masquerade TWM
+Dipplin;Pokemon;Grass;80;Festival Lead;Do the Wave;TWM 18 (Uncommon)/TWM 170 (Illustration Rare)/PRE 10 (Uncommon);H;4;0
 Teal Mask Ogerpon ex;Pokemon;Grass;210;Teal Dance;Myriad Leaf Shower;TWM 25 (Double Rare)/TWM 190 (Ultra Rare)/TWM 211 (Special Illustration Rare)/TWM 221 (Hyper Rare)/SVP 166 (Promo)/PRE 12 (Double Rare)/PRE 145 (Special Illustration Rare)/PRE 177 (Hyper Rare);H;4;0
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
 Froslass;Pokemon;Water;90;Freezing Shroud;Frost Smash;TWM 53 (Rare)/TWM 174 (Illustration Rare)/SVP 117 (Promo);H;4;0
@@ -954,8 +956,13 @@ Marnie's Impidimp;Pokemon;Darkness;70;;Filch|Corkscrew Punch;DRI 134 (Common);I;
 Marnie's Morgrem;Pokemon;Darkness;100;;Corkscrew Punch;DRI 135 (Uncommon);I;4;1
 Marnie's Grimmsnarl ex;Pokemon;Darkness;320;Punk Up;Shadow Bullet;DRI 136 (Double Rare)/ASC 287 (Special Illustration Rare);I;4;0
 Marnie's Morpeko;Pokemon;Darkness;70;;Spiky Wheel;DRI 137 (Common)/SVP 206 (Promo);I;4;1
-
+Arven's Maschiff;Pokemon;Darkness;70;;Stampede|Confront;DRI 138 (Common);I;4;0
+Arven's Mabosstiff ex;Pokemon;Darkness;270;;Vigorous Tackle|Boss Headbutt;DRI 139 (Double Rare)/DRI 218 (Ultra Rare)/DRI 235 (Special Illustration Rare);I;4;0
+Forretress;Pokemon;Metal;130;;Iron Shake-Up|Hurricane of Needles;DRI 140 (Uncommon);I;4;0
+Skarmory;Pokemon;Metal;110;;Roost|Metal Claw;DRI 141 (Common);I;4;0
 Steven's Skarmory;Pokemon;Metal;120;;Razor Wing|Sonic Double;DRI 142 (Common);I;4;1
+Steven's Beldum;Pokemon;Metal;70;;Ram;DRI 143 (Common)/SVP 207 (Promo);I;4;0
+
 Steven's Metagross ex;Pokemon;Metal;340;X-Boot;Metal Stomp;DRI 145 (Double Rare)/ASC 289 (Special Illustration Rare);I;4;0
 Team Rocket's Raticate;Pokemon;Colorless;90;;Reckless Abandon;DRI 148 (Common)/DRI 202 (Illustration Rare);I;4;1
 Team Rocket's Meowth;Pokemon;Colorless;70;;Paw-cket Pilfer|Fury Swipes;DRI 149 (Common)/DRI 203 (Illustration Rare)/ASC 161 (Common);I;4;0
@@ -966,6 +973,7 @@ Arven's Skwovet;Pokemon;Colorless;60;;Gnaw Through;DRI 158 (Common);I;4;2
 Squawkabilly;Pokemon;Colorless;70;;Push Down;DRI 160 (Common);I;4;1
 Arven's Sandwich;Trainer;Item;;;;DRI 161 (Uncommon);I;4;2
 Emcee's Hype;Trainer;Supporter;;;;DRI 163 (Common)/DRI 220 (Ultra Rare);I;4;2 # 1 reverse foil
+Ethan's Adventure;Trainer;Supporter;;;;DRI 165 (Uncommon)/DRI 221 (Ultra Rare)/DRI 236 (Special Illustration Rare);I;4;0
 Judge;Trainer;Supporter;;;;Unleashed 78 (Uncommon)/BREAKthrough 143 (Uncommon)/Forbidden Light 108 (Uncommon)/Lost Thunder 209 (Rare Ultra)/Fusion Strike 235 (Uncommon)/Silver Tempest 25 (TGU)/SVI 176 (Uncommon)/PAF 228 (Ultra Rare)/DRI 167 (Uncommon)/DRI 222 (Ultra Rare)/POR 76 (Uncommon);E/G/J;4;0
 Sacred Ash;Trainer;Item;;;;Flashfire 96 (Uncommon)/DRI 168 (Uncommon);I;4;1
 Spikemuth Gym;Trainer;Stadium;;;;DRI 169 (Uncommon);I;4;1 # 1 reverse foil
@@ -984,10 +992,8 @@ Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncomm
 # DRI 182-200 done - last orig card
 # DRI 202-203 done
 # DRI 206-213 done
-# DRI 215-217 done
-# DRI 220 done
-# DRI 222-234 done
-# DRI 237-238 done
+# DRI 215-218 done
+# DRI 220-238 done
 # DRI 240-244 done - last card
 
 # Perfect Order (POR)
@@ -1031,11 +1037,22 @@ Nosepass;Pokemon;Fighting;90;;Rolling Rocks;POR 37 (Common);J;4;0
 Probopass;Pokemon;Fighting;140;;Rolling Rocks|Obliterating Nose;POR 38 (Common)/POR 96 (Illustration Rare);J;4;0
 Hippopotas;Pokemon;Fighting;100;;Sand Attack|Bite;POR 39 (Common);J;4;0
 Hippowdon;Pokemon;Fighting;150;;Twister Spewing|Heavy Impact;POR 40 (Uncommon);J;4;0
+Landorus;Pokemon;Fighting;120;;Rock Tumble|Screw Knuckle;POR 41 (Rare);J;4;0
+Binacle;Pokemon;Fighting;80;;Double Draw|Scratch;POR 42 (Common);J;4;0
+Barbaracle;Pokemon;Fighting;130;Stone Arms;Hammer In;POR 43 (Uncommon)/MEP 65 (Promo);J;4;0
+Tyrunt;Pokemon;Fighting;100;;Get Angry;POR 44 (Common)/MEP 70 (Promo);J;4;0
+Tyrantrum;Pokemon;Fighting;180;Tyrannically Gutsy;Wreak Havoc;POR 45 (Rare)/MEP 66 (Promo);J;4;0
+Hawlucha;Pokemon;Fighting;70;;Vengeful Kick;POR 46 (Common);J;4;0
+Mega Zygarde ex;Pokemon;Fighting;310;;Gaia Wave|Nullifying Zero;POR 47 (Double Rare)/POR 104 (Ultra Rare)/POR 120 (Special Illustration Rare)/POR 124 (Mega Hyper Rare)/MEP 71 (Promo);J;4;0
+Gastly;Pokemon;Darkness;70;;Surprise Attack;POR 48 (Common);J;4;0
+Haunter;Pokemon;Darkness;100;;Haunt;POR 49 (Common);J;4;0
+Gengar;Pokemon;Darkness;130;Infinite Shadow;Mind Jack;POR 50 (Rare);J;4;0
 
 # POR 76 done
 # POR 81 done
 # POR 89-96 done
-# POR 101-103 done
+# POR 101-104 done
 # POR 109 done
 # POR 113 done
-# POR 118-119 done
+# POR 118-120 done
+# POR 124 done
