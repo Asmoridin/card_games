@@ -185,7 +185,7 @@ def parse_restrictions(restr_lines):
                         'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
                         'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
                         'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block', 'Innistrad Block',
-                        'Scars of Mirrodin Block',]:
+                        'Scars of Mirrodin Block', 'Return to Ravnica']:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -202,7 +202,6 @@ def parse_restrictions(restr_lines):
     # Battle for Zendikar block (Battle for Zendikar, Oath of the Gatewatch)
     # Khans of Tarkir block (Khans of Tarkir, Fate Reforged, Dragons of Tarkir)
     # Theros block (Theros, Born of the Gods, Journey into Nyx)
-    # Return to Ravnica block (Return to Ravnica, Gatecrash, Dragon's Maze)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -289,7 +288,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Lorwyn-Shadowmoor block (Lorwyn, Morningtide, Shadowmoor, Eventide)
             if this_set in ['Lorwyn', 'Morningtide', 'Shadowmoor', 'Eventide']:
                 ret_formats['Lorwyn-Shadowmoor Block'] = 4
-			# Alara block (Shards of Alara, Conflux, Alara Reborn)
+            # Alara block (Shards of Alara, Conflux, Alara Reborn)
             if this_set in ['Shards of Alara', 'Conflux', 'Alara Reborn']:
                 ret_formats['Alara Block'] = 4
             # Zendikar block (Zendikar, Worldwake, Rise of the Eldrazi)
@@ -301,6 +300,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Innistrad block (Innistrad, Dark Ascension, Avacyn Restored)
             if this_set in ['Innistrad', 'Dark Ascension', 'Avacyn Restored']:
                 ret_formats['Innistrad Block'] = 4
+            # Return to Ravnica block (Return to Ravnica, Gatecrash, Dragon's Maze)
+            if this_set in ['Return to Ravnica', 'Gatecrash', 'Dragon's Maze']:
+                ret_formats['Return to Ravnica Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -733,7 +735,7 @@ if __name__ == "__main__":
     lorsha_dict = process_formats("Lorwyn-Shadowmoor Block", card_corrections, True)
     handle_output("Lorwyn-Shadowmoor Block", lorsha_dict, out_file_h)
 
-	# Alara Block
+    # Alara Block
     alara_dict = process_formats("Alara Block", card_corrections, True)
     handle_output("Alara Block", alara_dict, out_file_h)
 
@@ -748,6 +750,10 @@ if __name__ == "__main__":
     # Innistrad Block
     innistrad_dict = process_formats("Innistrad Block", card_corrections, True)
     handle_output("Innistrad Block", innistrad_dict, out_file_h)
+
+    # Return to Ravnica Block
+    rtravnica_dict = process_formats("Return to Ravnica Block", card_corrections, True)
+    handle_output("Return to Ravnica Block", rtravnica_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
