@@ -596,6 +596,7 @@ Hawlucha;Pokemon;Fighting;70;Flying Entry;Wing Attack;SVI 118 (Rare)/SVP 7 (Prom
 Cyclizar;Pokemon;Colorless;110;;Touring|Speed Attack;SVI 164 (Rare)/M23 14 (Promo);G;4;2
 Defiance Band;Trainer;Pokemon Tool;;;;SVI 169 (Uncommon);G;4;0
 Electric Generator;Trainer;Item;;;;SVI 170 (Uncommon)/PAF 79 (Uncommon);G;4;0
+Exp. Share;Trainer;Item;;;;Neo Destiny 93 (Rare)/EX FireRed & LeafGreen 91 (Uncommon)/Next Destinies 87 (Uncommon)/Dragon Vault 18 (Other)/Primal Clash 128 (Uncommon)/Sun & Moon 118 (Uncommon)/Battle Styles 126 (Uncommon)/Battle Styles 180 (Rare Secret)/SVI 174 (Uncommon);E/G;4;0
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
 Nemona;Trainer;Supporter;;;;SVI 180 (Common)/PAF 82 (Common)/PAF 229 (Ultra Rare)/PAF 238 (Special Illustration Rare);G;8;4
 Pal Pad;Trainer;Item;;;;Flashfire 92 (Uncommon)/Ultra Prism 132 (Uncommon)/Sword & Shield 172 (Uncommon)/SVI 182 (Common);D/G;4;0
@@ -624,6 +625,7 @@ Reversal Energy;Energy;Special Energy;;;;PAL 192 (Uncommon)/PAR 266 (Hyper Rare)
 # Obsidian Flames (OBF)
 Toedscruel ex;Pokemon;Grass;270;Protective Mycelium;Colony Rush;OBF 22 (Double Rare)/PAF 5 (Double Rare)/PAF 213 (Shiny Ultra Rare);G;4;0
 Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (Promo);G;4;1
+Froakie;Pokemon;Water;70;;Try Bouncing;OBF 56 (Common);G;4;0
 Cleffa;Pokemon;Psychic;30;;Grasping Draw;OBF 80 (Common)/OBF 202 (Illustration Rare)/SVP 37 (Promo)/PAF 150 (Shiny Rare);G;4;0
 Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
 Pidgey;Pokemon;Colorless;60;;Gust;OBF 162 (Common)/OBF 207 (Illustration Rare);G;4;0
@@ -726,6 +728,7 @@ Bloodmoon Ursaluna ex;Pokemon;Colorless;260;Seasoned Skill;Blood Moon;TWM 141 (D
 Bug Catching Set;Trainer;Item;;;;TWM 143 (Uncommon)/PRE 102 (Uncommon);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
+Festival Grounds;Trainer;Stadium;;;;TWM 149 (Uncommon)/PRE 108 (Uncommon);H;4;0
 Jamming Tower;Trainer;Stadium;;;;TWM 153 (Uncommon)/DRI 243 (Hyper Rare)/ASC 261 (Ultra Rare);H;4;0
 Kieran;Trainer;Supporter;;;;TWM 154 (Uncommon)/TWM 206 (Ultra Rare)/TWM 218 (Special Illustration Rare)/PRE 113 (Uncommon)/PRE 174 (Special Illustration Rare);H;4;0
 Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
@@ -962,10 +965,15 @@ Forretress;Pokemon;Metal;130;;Iron Shake-Up|Hurricane of Needles;DRI 140 (Uncomm
 Skarmory;Pokemon;Metal;110;;Roost|Metal Claw;DRI 141 (Common);I;4;0
 Steven's Skarmory;Pokemon;Metal;120;;Razor Wing|Sonic Double;DRI 142 (Common);I;4;1
 Steven's Beldum;Pokemon;Metal;70;;Ram;DRI 143 (Common)/SVP 207 (Promo);I;4;0
-
+Steven's Metang;Pokemon;Metal;100;;Metal Slash;DRI 144 (Uncommon);I;4;0
 Steven's Metagross ex;Pokemon;Metal;340;X-Boot;Metal Stomp;DRI 145 (Double Rare)/ASC 289 (Special Illustration Rare);I;4;0
+Zamazenta;Pokemon;Metal;130;;Strong Bash;DRI 146 (Rare)/DRI 201 (Illustration Rare);I;4;0
+Team Rocket's Rattata;Pokemon;Colorless;50;;Dangerous Incisors;DRI 147 (Common);I;4;0
 Team Rocket's Raticate;Pokemon;Colorless;90;;Reckless Abandon;DRI 148 (Common)/DRI 202 (Illustration Rare);I;4;1
 Team Rocket's Meowth;Pokemon;Colorless;70;;Paw-cket Pilfer|Fury Swipes;DRI 149 (Common)/DRI 203 (Illustration Rare)/ASC 161 (Common);I;4;0
+Team Rocket's Persian ex;Pokemon;Colorless;260;;Haughty Order|Cruel Slash;DRI 150 (Double Rare)/DRI 219 (Ultra Rare)/SVP 218 (Promo);I;4;0
+Kangaskhan;Pokemon;Colorless;120;;Gentle Slap|Dizzy Punch;DRI 151 (Common)/DRI 204 (Illustration Rare);I;4;0
+
 Team Rocket's Porygon;Pokemon;Colorless;60;;Hacking;DRI 153 (Common);I;4;1
 Team Rocket's Porygon-Z;Pokemon;Colorless;140;Reconstitute;R Command;DRI 155 (Uncommon);I;4;1
 Swellow;Pokemon;Colorless;100;;Add On|Speed Wing;DRI 157 (Common);I;4;1 # 1 reverse foil
@@ -989,11 +997,9 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon)/ASC 209 (Uncommon)/
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon)/ASC 210 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182-200 done - last orig card
-# DRI 202-203 done
+# DRI 182-204 done - last orig card
 # DRI 206-213 done
-# DRI 215-218 done
-# DRI 220-238 done
+# DRI 215-238 done
 # DRI 240-244 done - last card
 
 # Perfect Order (POR)
@@ -1047,11 +1053,21 @@ Mega Zygarde ex;Pokemon;Fighting;310;;Gaia Wave|Nullifying Zero;POR 47 (Double R
 Gastly;Pokemon;Darkness;70;;Surprise Attack;POR 48 (Common);J;4;0
 Haunter;Pokemon;Darkness;100;;Haunt;POR 49 (Common);J;4;0
 Gengar;Pokemon;Darkness;130;Infinite Shadow;Mind Jack;POR 50 (Rare);J;4;0
+Skorupi;Pokemon;Darkness;80;;Poison Jab;POR 51 (Common);J;4;0
+Drapion;Pokemon;Darkness;140;;Wrack Down|Hazardous Tail;POR 52 (Uncommon)/POR 97 (Illustration Rare);J;4;0
+Yveltal ex;Pokemon;Darkness;210;;Soul Destroyer|Dark Strike;POR 53 (Double Rare)/POR 105 (Ultra Rare);J;4;0
+Chien-Pao;Pokemon;Darkness;120;;Strafe|Rising Blade;POR 54 (Rare);J;4;0
+Mega Skarmory ex;Pokemon;Metal;260;;Sonic Ripper;POR 55 (Double Rare)/POR 106 (Ultra Rare);J;4;0
+Honedge;Pokemon;Metal;70;;Cut;POR 56 (Common);J;4;0
+Doublade;Pokemon;Metal;100;;Weaponized Swords;POR 57 (Common)/POR 98 (Illustration Rare);J;4;0
+Aegislash;Pokemon;Metal;150;;Slash|Metal Slash;POR 58 (Uncommon);J;4;0
+Klefki;Pokemon;Metal;70;;Memory Lock;POR 59 (Common);J;4;0
+Rattata;Pokemon;Colorless;40;;Take Down;POR 60 (Common);J;4;0
 
 # POR 76 done
 # POR 81 done
-# POR 89-96 done
-# POR 101-104 done
+# POR 89-98 done
+# POR 101-106 done
 # POR 109 done
 # POR 113 done
 # POR 118-120 done
