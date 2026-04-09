@@ -301,7 +301,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             if this_set in ['Innistrad', 'Dark Ascension', 'Avacyn Restored']:
                 ret_formats['Innistrad Block'] = 4
             # Return to Ravnica block (Return to Ravnica, Gatecrash, Dragon's Maze)
-            if this_set in ['Return to Ravnica', 'Gatecrash', 'Dragon's Maze']:
+            if this_set in ['Return to Ravnica', 'Gatecrash', "Dragon's Maze"]:
                 ret_formats['Return to Ravnica Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)

@@ -275,7 +275,7 @@ if __name__ == "__main__":
     PRINTED_STARTER = False
     for print_card in most_missing_cards:
         if (' (FP' in print_card[0]) and (not PRINTED_PROMO):
-            double_print(f"\nMost needed promo: {print_card[0]}", out_file_h)
+            double_print(f"Most needed promo: {print_card[0]}", out_file_h)
             PRINTED_PROMO = True
         if (' (FS' in print_card[0]) and (not PRINTED_STARTER):
             double_print(f"Most needed starter card: {print_card[0]}", out_file_h)

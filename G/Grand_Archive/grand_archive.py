@@ -12,7 +12,8 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 GAME_NAME = "Grand Archive TCG"
 
 valid_subtypes = ['Ally', 'Action', 'Champion', 'Regalia Weapon', 'Regalia Item', 'Attack',
-    'Domain', 'Item', 'Regalia Ally', 'Phantasia', 'Weapon', 'Mastery', 'Phantasia Ally']
+    'Domain', 'Item', 'Regalia Ally', 'Phantasia', 'Weapon', 'Mastery', 'Phantasia Ally',
+    'Boon', 'Status',]
 valid_classes = ['Cleric', 'Warrior', 'Ranger', 'Mage', 'Assassin', 'Guardian', 'Tamer',
     'Warrior', 'Spirit', 'Anomaly',]
 valid_elements = ['Norm', 'Fire', 'Water', 'Wind', 'Luxem', 'Arcane', 'Tera', 'Umbra',
