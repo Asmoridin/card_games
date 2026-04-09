@@ -711,6 +711,7 @@ Mist Energy;Energy;Special Energy;;;;TEF 161 (Uncommon);H;4;0
 Dipplin;Pokemon;Grass;80;Festival Lead;Do the Wave;TWM 18 (Uncommon)/TWM 170 (Illustration Rare)/PRE 10 (Uncommon);H;4;0
 Teal Mask Ogerpon ex;Pokemon;Grass;210;Teal Dance;Myriad Leaf Shower;TWM 25 (Double Rare)/TWM 190 (Ultra Rare)/TWM 211 (Special Illustration Rare)/TWM 221 (Hyper Rare)/SVP 166 (Promo)/PRE 12 (Double Rare)/PRE 145 (Special Illustration Rare)/PRE 177 (Hyper Rare);H;4;0
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
+Goldeen;Pokemon;Water;50;Festival Lead;Whirlpool;TWM 44 (Common)/PRE 20 (Common);H;4;0
 Froslass;Pokemon;Water;90;Freezing Shroud;Frost Smash;TWM 53 (Rare)/TWM 174 (Illustration Rare)/SVP 117 (Promo);H;4;0
 Frogadier;Pokemon;Water;90;;Numbing Water;TWM 57 (Common);H;4;0
 Wellspring Mask Ogerpon ex;Pokemon;Water;210;;Sob|Torrential Pump;TWM 64 (Double Rare)/TWM 194 (Ultra Rare)/TWM 213 (Special Illustration Rare)/PRE 27 (Double Rare)/PRE 152 (Special Illustration Rare);H;4;0
@@ -745,6 +746,7 @@ Dusclops;Pokemon;Psychic;90;Cursed Blast;Will-O-Wisp;SFA 19 (Common)/SFA 69 (Ill
 Dusknoir;Pokemon;Psychic;160;Curse Blast;Shadow Bind;SFA 20 (Rare)/SFA 70 (Illustration Rare)/PRE 37 (Rare);H;4;0
 Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare)/ASC 142 (Double Rare)/ASC 288 (Special Illustration Rare);H;4;0
 Pecharunt ex;Pokemon;Darkness;190;Subjugating Chains;Irritated Outburst;SFA 39 (Double Rare)/SFA 85 (Ultra Rare)/SFA 93 (Special Illustration Rare)/SFA 95 (Hyper Rare)/PRE 163 (Special Illustration Rare);H;4;0
+Genesect;Pokemon;Metal;110;ACE Nullifier;Magnetic Blast;SFA 40 (Uncommon);H;4;0
 Academy at Night;Trainer;Stadium;;;;SFA 54 (Uncommon);H;4;0
 Binding Mochi;Trainer;Pokemon Tool;;;;SFA 55 (Uncommon)/PRE 95 (Uncommon);H;4;0
 Colress's Tenacity;Trainer;Supporter;;;;SFA 57 (Uncommon)/SFA 87 (Ultra Rare);H;4;0
@@ -759,6 +761,7 @@ Scorbunny;Pokemon;Fire;70;;Quick Attack;SCR 26 (Common)/ASC 36 (Common)/ASC 225 
 Raboot;Pokemon;Fire;90;;Low Sweep|Combustion;SCR 27 (Common)/SCR 147 (Illustration Rare)/ASC 37 (Common);H;4;0
 Cinderace ex;Pokemon;Fire;320;;Flare Strike|Garnet Volley;SCR 28 (Double Rare)/SCR 157 (Ultra Rare)/SVP 163 (Promo)/ASC 38 (Double Rare);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
+Galvantula ex;Pokemon;Lightning;260;;Charged Web|Fulgurite;SCR 51 (Double Rare)/SCR 159 (Ultra Rare)/SCR 168 (Special Illustration Rare);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
 Hoothoot;Pokemon;Colorless;70;;Triple Stab;SCR 114 (Common);H;4;0
 Noctowl;Pokemon;Colorless;100;Jewel Seeker;Speed Wing;SCR 115 (Rare)/SVP 141 (Promo)/PRE 78 (Rare);H;4;0
@@ -973,14 +976,19 @@ Team Rocket's Raticate;Pokemon;Colorless;90;;Reckless Abandon;DRI 148 (Common)/D
 Team Rocket's Meowth;Pokemon;Colorless;70;;Paw-cket Pilfer|Fury Swipes;DRI 149 (Common)/DRI 203 (Illustration Rare)/ASC 161 (Common);I;4;0
 Team Rocket's Persian ex;Pokemon;Colorless;260;;Haughty Order|Cruel Slash;DRI 150 (Double Rare)/DRI 219 (Ultra Rare)/SVP 218 (Promo);I;4;0
 Kangaskhan;Pokemon;Colorless;120;;Gentle Slap|Dizzy Punch;DRI 151 (Common)/DRI 204 (Illustration Rare);I;4;0
-
+Tauros;Pokemon;Colorless;130;;Horn Attack|Clean Hit;DRI 152 (Common);I;4;0
 Team Rocket's Porygon;Pokemon;Colorless;60;;Hacking;DRI 153 (Common);I;4;1
+Team Rocket's Porygon2;Pokemon;Colorless;90;;R Command;DRI 154 (Common);I;4;0
 Team Rocket's Porygon-Z;Pokemon;Colorless;140;Reconstitute;R Command;DRI 155 (Uncommon);I;4;1
+Taillow;Pokemon;Colorless;60;;Wing Attack;DRI 156 (Common);I;4;0
 Swellow;Pokemon;Colorless;100;;Add On|Speed Wing;DRI 157 (Common);I;4;1 # 1 reverse foil
 Arven's Skwovet;Pokemon;Colorless;60;;Gnaw Through;DRI 158 (Common);I;4;2
+Arven's Greedent;Pokemon;Colorless;120;Greedy Order;Rolling Tackle;DRI 159 (Rare)/DRI 205 (Illustration Rare);I;4;0
 Squawkabilly;Pokemon;Colorless;70;;Push Down;DRI 160 (Common);I;4;1
 Arven's Sandwich;Trainer;Item;;;;DRI 161 (Uncommon);I;4;2
+Cynthia's Power Weight;Trainer;Pokemon Tool;;;;DRI 162 (Uncommon);I;4;0
 Emcee's Hype;Trainer;Supporter;;;;DRI 163 (Common)/DRI 220 (Ultra Rare);I;4;2 # 1 reverse foil
+
 Ethan's Adventure;Trainer;Supporter;;;;DRI 165 (Uncommon)/DRI 221 (Ultra Rare)/DRI 236 (Special Illustration Rare);I;4;0
 Judge;Trainer;Supporter;;;;Unleashed 78 (Uncommon)/BREAKthrough 143 (Uncommon)/Forbidden Light 108 (Uncommon)/Lost Thunder 209 (Rare Ultra)/Fusion Strike 235 (Uncommon)/Silver Tempest 25 (TGU)/SVI 176 (Uncommon)/PAF 228 (Ultra Rare)/DRI 167 (Uncommon)/DRI 222 (Ultra Rare)/POR 76 (Uncommon);E/G/J;4;0
 Sacred Ash;Trainer;Item;;;;Flashfire 96 (Uncommon)/DRI 168 (Uncommon);I;4;1
@@ -997,8 +1005,7 @@ Team Rocket's Transceiver;Trainer;Item;;;;DRI 178 (Uncommon)/ASC 209 (Uncommon)/
 Team Rocket's Watchtower;Trainer;Stadium;;;;DRI 180 (Uncommon)/ASC 210 (Uncommon);I;4;1
 Team Rocket's Energy;Energy;Special Energy;;;;DRI 182 (Uncommon)/ASC 217 (Uncommon);I;4;0
 
-# DRI 182-204 done - last orig card
-# DRI 206-213 done
+# DRI 182-213 done - last orig card
 # DRI 215-238 done
 # DRI 240-244 done - last card
 
@@ -1063,12 +1070,22 @@ Doublade;Pokemon;Metal;100;;Weaponized Swords;POR 57 (Common)/POR 98 (Illustrati
 Aegislash;Pokemon;Metal;150;;Slash|Metal Slash;POR 58 (Uncommon);J;4;0
 Klefki;Pokemon;Metal;70;;Memory Lock;POR 59 (Common);J;4;0
 Rattata;Pokemon;Colorless;40;;Take Down;POR 60 (Common);J;4;0
+Raticate;Pokemon;Colorless;90;;Scrape Off|Retaliatory Incisors;POR 61 (Uncommon)/POR 99 (Illustration Rare);J;4;0
+Meowth ex;Pokemon;Colorless;170;Last-Ditch Catch;Tuck Tail;POR 62 (Double Rare)/POR 107 (Ultra Rare)/POR 121 (Special Illustration Rare);J;4;0
+Snorlax;Pokemon;Colorless;160;;Gormandizer|Collapse;POR 63 (Common);J;4;0
+Bunnelby;Pokemon;Colorless;70;;Smash Kick;POR 64 (Common);J;4;0
+Diggersby;Pokemon;Colorless;150;;Earthquake|Whap Down;POR 65 (Uncommon);J;4;0
+Fletchling;Pokemon;Colorless;60;;Chirp|Peck;POR 66 (Common);J;4;0
+Furfrou;Pokemon;Colorless;90;;Hand Trim|Headbutt;POR 67 (Common);J;4;0
+Antique Jaw Fossil;Trainer;Item;;;;POR 68 (Common);J;4;0
+Antique Sail Fossil;Trainer;Item;;;;POR 69 (Common);J;4;0
+Core Memory;Trainer;Pokemon Tool;;;;POR 70 (Uncommon);J;4;0
 
 # POR 76 done
 # POR 81 done
-# POR 89-98 done
-# POR 101-106 done
+# POR 89-99 done
+# POR 101-107 done
 # POR 109 done
 # POR 113 done
-# POR 118-120 done
+# POR 118-121 done
 # POR 124 done
