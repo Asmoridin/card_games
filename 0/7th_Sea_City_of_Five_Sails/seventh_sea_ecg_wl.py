@@ -155,8 +155,8 @@ with open(file_prefix + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8") as out_file
         for ldr_name in faction_ids:
             if ldr_name in ldr_wl:
                 ldr_play_tuples.append((ldr_name, sum(ldr_wl[ldr_name])))
-                OUT_STR = f" - {ldr_name}: {ldr_wl[ldr_name][0]}-{ldr_wl[ldr_name][1]}"
-                double_print(OUT_STR, out_file_h)
+                out_str = f" - {ldr_name}: {ldr_wl[ldr_name][0]}-{ldr_wl[ldr_name][1]}"
+                double_print(out_str, out_file_h)
 
     ldr_play_tuples = sorted(ldr_play_tuples, key=lambda x: (-1 * x[1], x[0]))
     double_print(f"\nMy H-Index is {get_h_index(ldr_play_tuples)}", out_file_h)
@@ -164,8 +164,8 @@ with open(file_prefix + "/7thSeaCo5SOut.txt", 'w', encoding="UTF-8") as out_file
     double_print("\nMy record against opponents:", out_file_h)
 
     for opponent, this_opp_wl in sorted(opp_wl.items()):
-        OPP_WL_STR = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
-        double_print(OPP_WL_STR, out_file_h)
+        opp_wl_str = f"- {opponent}: {this_opp_wl[0]}-{this_opp_wl[1]}"
+        double_print(opp_wl_str, out_file_h)
 
     double_print("\nMy record against opposing factions:", out_file_h)
     for opp_faction, faction_wl in sorted(opp_faction_wl.items()):

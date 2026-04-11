@@ -152,7 +152,7 @@ if os.getcwd().endswith('card_games'):
 
 CURRENT_FORMAT = "07 - A Lawless Time"
 #CURRENT_FORMAT = "06 - Secrets of Power"
-DECK_DIR = FILE_PREFIX + '/Decks/' + CURRENT_FORMAT
+DECK_DIR = FILE_PREFIX + '/Decks/Premier/' + CURRENT_FORMAT
 with open(FILE_PREFIX + '/Data/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8") as sw_data_file:
     lines = sw_data_file.readlines()
 

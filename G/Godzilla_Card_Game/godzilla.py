@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Collection manager/purchase suggester for a Babylon 5. Reads in card data and deck lists, tracks
+Collection manager/purchase suggester for Godzilla. Reads in card data and deck lists, tracks
 collection ownership, and suggests cards to acquire based on missing cards in decks and overall
 collection needs. Also tracks win-loss records by various categories for strategic insights.
 """
@@ -12,20 +12,18 @@ from card_games.General.Libraries.deck import Deck
 from card_games.General.Libraries.output_utils import double_print
 from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
-GAME_NAME = "Babylon 5"
-FILE_PREFIX = os.path.join("card_games", "B", "Babylon_5")
+GAME_NAME = "Godzilla"
+FILE_PREFIX = os.path.join("card_games", "G", "Godzilla_Card_Game")
 
 # Define valid values for card attributes
-valid_types = ['Character', 'Event', 'Location', 'Aftermath', 'Conflict', 'Enhancement', 'Agenda',
-    'Fleet', 'Contingency', 'Group', 'Starting Ambassador']
-valid_rarities = ['C', 'U', 'R', 'F', 'P', ]
-valid_races = ['Minbari', 'Neutral', 'Human', 'Narn', 'Vorlon', 'Non-Aligned', 'Drakh', 'Centauri',
-    'Shadow', 'Babylon 5', 'United']
+valid_colors = ['Red', 'Blue', 'Green', 'White']
+valid_rarities = ['C', 'UC', 'R', 'SR', 'SD', 'PRP']
+valid_card_types = ['Monster', 'Battle', 'Strategy']
 item_list = [] # Where all the cards will end up getting stored
 
 # Set up directory paths
 if os.getcwd().endswith('card_games'):
-    FILE_PREFIX = os.path.join("B", "Babylon 5")
+    FILE_PREFIX = os.path.join("G", "Godzilla_Card_Game")
 DECK_PREFIX = os.path.join(FILE_PREFIX, "Decks")
 DATA_PREFIX = os.path.join(FILE_PREFIX, "Data")
 
@@ -97,14 +95,11 @@ def aggregate_most_needed(deck_lists):
 #     return_dict = {}
 #     return return_dict
 
-def in_format(in_card, format_name):
+def in_format(_in_card, _format_name):
     """
     Given a card and a format, determine if the card is legal in that format
     """
-    for check_card_set in game_sets[0:game_sets.index(format_name) + 1]:
-        if check_card_set in in_card[1]:
-            return True
-    return False
+    return True
 
 def process_formats(format_name, _=None, find_unused=False):
     """
@@ -113,12 +108,7 @@ def process_formats(format_name, _=None, find_unused=False):
     """
     # Dictionary of formats to corresponding directory
     format_dict = {
-        'Deluxe':'01 - Deluxe',
-        'The Shadows':'02 - The Shadows',
-        'The Great War':'03 - The Great War',
-        'Psi Corps':'04 - Psi Corps',
-        'Severed Dreams':'05 - Severed Dreams',
-        'Wheel of Fire':'06 - Wheel of Fire'
+        'Standard': 'Standard',
     }
 
     return_dict = {}
@@ -129,16 +119,15 @@ def process_formats(format_name, _=None, find_unused=False):
     for in_card in item_list:
         if in_format(in_card, format_name):
             format_card_list.append(in_card)
-            format_total += in_card[6]
-            format_own += in_card[5]
+            format_total += in_card[-1]
+            format_own += in_card[-2]
     format_cards = len(format_card_list)
     FORMAT_LIST.append((format_name, format_own, format_total))
 
     return_dict['FILTERED']['set'], ft_filtered_list = \
-        sort_and_filter(format_card_list, 1, by_len = True)
-    return_dict['FILTERED']['type'], ft_filtered_list = sort_and_filter(ft_filtered_list, 2)
-    if return_dict['FILTERED']['type'] in ['Fleet', 'Character']:
-        _, ft_filtered_list = sort_and_filter(ft_filtered_list, 3)
+        sort_and_filter(format_card_list, 8, by_len = True)
+    return_dict['FILTERED']['color'], ft_filtered_list = sort_and_filter(ft_filtered_list, 2)
+    return_dict['FILTERED']['type'], ft_filtered_list = sort_and_filter(ft_filtered_list, 3)
     return_dict['FILTERED']['name'], ft_filtered_list = sort_and_filter(ft_filtered_list, 0)
     return_dict['ITEM'] = ft_filtered_list[0]
 
@@ -193,7 +182,7 @@ def handle_output(format_name, format_dict, dest_fh):
 
     purch_str = f"Chosen card is a(n) {format_dict['FILTERED']['type']} from " + \
         f"{format_dict['FILTERED']['set']} - {format_dict['FILTERED']['name']}. I own " + \
-        f"{format_dict['ITEM'][5]} of {format_dict['ITEM'][6]}"
+        f"{format_dict['ITEM'][-2]} of {format_dict['ITEM'][-1]}"
     double_print(purch_str, dest_fh)
 
     if 'UNUSED' in format_dict:
@@ -216,16 +205,16 @@ def handle_output(format_name, format_dict, dest_fh):
             double_print(f" - {pr_card_tuple[0]}: {pr_card_tuple[1]}", dest_fh)
 
 # Pull in card data
-with open(os.path.join(DATA_PREFIX, "Babylon 5 Data.txt"), 'r', encoding="UTF-8") as file_h:
+with open(os.path.join(DATA_PREFIX, "Godzilla Card List.txt"), 'r', encoding="UTF-8") as file_h:
     lines = file_h.readlines()
 lines = [line.strip() for line in lines]
 
 # Pull in additional data files, and set up data structures
-with open(os.path.join(DATA_PREFIX, "Babylon 5 Sets.txt"), 'r', encoding="UTF-8") as in_sets:
+with open(os.path.join(DATA_PREFIX, "Godzilla Sets.txt"), 'r', encoding="UTF-8") as in_sets:
     game_sets = in_sets.readlines()
 game_sets = [line.strip() for line in game_sets if line.strip() != '']
 
-with open(os.path.join(DATA_PREFIX, "Babylon 5 WL Data.txt"), 'r', encoding="UTF-8") as in_wl:
+with open(os.path.join(DATA_PREFIX, "Godzilla WL Data.txt"), 'r', encoding="UTF-8") as in_wl:
     game_wl = in_wl.readlines()
 game_wl = [line.strip() for line in game_wl if line.strip() != '']
 
@@ -235,42 +224,47 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 card_inv_dict = {}
 most_needed_cards = {}
-card_names = set()
+card_ids = set()
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
-    line = line.split('#')[0].strip()
 
-    CARD_MAX = 3
+    CARD_MAX = 4
+    temp_max = 0
     line_vals = line.split(';')
 
-    if len(line_vals) == 6:
-        card_name, card_sets, card_type, card_race, card_rarities, card_own = line_vals
+    if len(line_vals) == 10:
+        card_name, card_id, card_colors, card_type, card_rarities, card_traits, card_level, \
+            card_invasion, card_sets, card_own = line_vals
+    elif len(line_vals) == 11:
+        card_name, card_id, card_colors, card_type, card_rarities, card_traits, card_level, \
+            card_invasion, card_sets, card_own, temp_max = line_vals
     else:
         print("Invalid line:")
         print(line)
         continue
 
     # Validate card data
-    if card_name in card_names:
-        print(f"Duplicate card name: {card_name}")
-    card_names.add(card_name)
+    if card_id in card_ids:
+        print(f"Duplicate card ID: {card_id}")
+    card_ids.add(card_id)
     card_sets = card_sets.split('/')
     for card_set in card_sets:
         if card_set not in game_sets:
-            print(f"Unknown set {card_set} for {card_name}")
-    if card_type not in valid_types:
+            print(f"Unknown set {card_set} for {card_name} ({card_id})")
+    if card_type not in valid_card_types:
         print(f"Invalid card type {card_type} for {card_name}")
-    if card_type == 'Starting Ambassador':
-        CARD_MAX = 1
-    if card_race not in valid_races and card_race != '':
-        print(f"Invalid card race {card_race} for {card_name}")
+    for card_color in card_colors.split('/'):
+        if card_color not in valid_colors:
+            print(f"Invalid card color {card_color} for {card_name} ({card_id})")
     card_rarities = card_rarities.split('/')
     for card_rarity in card_rarities:
         if card_rarity not in valid_rarities:
-            print(f"Invalid card rarity {card_rarity} for {card_name}")
+            print(f"Invalid card rarity {card_rarity} for {card_name} ({card_id})")
 
     card_own = int(card_own)
+    if temp_max != 0:
+        CARD_MAX = int(temp_max)
 
     # With card data now validated, populate our structures
     TOTAL_OWN += card_own
@@ -278,8 +272,8 @@ for line in lines:
     if card_own < CARD_MAX:
         most_needed_cards[card_name] = CARD_MAX - card_own
     card_inv_dict[card_name] = card_own
-    item_list.append((card_name, card_sets, card_type, card_race, card_rarities, card_own, \
-        CARD_MAX))
+    item_list.append((card_name, card_id, card_colors, card_type, card_rarities, card_traits, \
+            card_level, card_invasion, card_sets, card_own, CARD_MAX))
 
 # Get W-L structures working
 opp_wl_dict = {} # opp -> race -> ambassador -> [wins, total_games]
@@ -341,36 +335,16 @@ for game_line in game_wl:
 FORMAT_LIST = []
 
 if __name__ == "__main__":
-    out_file_h = open(FILE_PREFIX + "/Babylon 5 Out.txt", 'w', encoding="UTF-8")
+    out_file_h = open(FILE_PREFIX + "/Godzilla Out.txt", 'w', encoding="UTF-8")
 
-    double_print("Babylon 5 Inventory Tracker Tool\n", out_file_h)
+    double_print("Godzilla Inventory Tracker Tool\n", out_file_h)
 
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
 
-    # Deluxe
-    deluxe_dict = process_formats("Deluxe")
-    handle_output("Deluxe", deluxe_dict, out_file_h)
-
-    # The Shadows
-    shadows_dict = process_formats("The Shadows")
-    handle_output("The Shadows", shadows_dict, out_file_h)
-
-    # The Great War
-    great_war_dict = process_formats("The Great War")
-    handle_output("The Great War", great_war_dict, out_file_h)
-
-    # Psi Corps
-    psi_corps_dict = process_formats("Psi Corps")
-    handle_output("Psi Corps", psi_corps_dict, out_file_h)
-
-    # Severed Dreams
-    severed_dreams_dict = process_formats("Severed Dreams")
-    handle_output("Severed Dreams", severed_dreams_dict, out_file_h)
-
-    # Wheel of Fire
-    wheel_of_fire_dict = process_formats("Wheel of Fire")
-    handle_output("Wheel of Fire", wheel_of_fire_dict, out_file_h)
+    # Standard
+    standard_dict = process_formats("Standard")
+    handle_output("Standard", standard_dict, out_file_h)
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)

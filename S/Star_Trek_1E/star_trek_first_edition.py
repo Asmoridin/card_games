@@ -27,7 +27,7 @@ VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', '
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',
     'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation',
     'The Next Generation: Supplemental', 'BaH!', 'Crossover', 'Straight and Steady',
-    'Dramatis Personae']
+    'Dramatis Personae', 'To the Journey']
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',
