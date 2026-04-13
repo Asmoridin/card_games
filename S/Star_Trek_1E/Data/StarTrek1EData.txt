@@ -645,8 +645,15 @@ Emblem of the Empire;Incident;;Mirror, Mirror;1097,4815;;4;0
 Emergency Conversion;Dilemma;Space;Mirror, Mirror;1098,4799;;4;0
 Emergency Evacuation;Incident;;Rules of Acquisition;1099;;4;0
 Emergency Transporter Armbands;Interrupt;;Premiere;1100,6098,6461,6824,7746,8110;;4;0
+Emergent Life-form;Dilemma;Space;Holodeck Adventures/Virtual Promos;1101,7439;;4;0
+Emory Erickson;Personnel;Starfleet;Enterprise Collection;1102,5458;;2;0
 Empathic Echo;Dilemma;Dual;Alternate Universe;1103;;4;4
+Empathic Touch;Interrupt;;All Good Things/Virtual Promos;1104,5729,8413,8454;;4;0
+Empok Nor;Facility;Neutral;The Dominion;1105,1106;;2;0
+Enabran Tain;Personnel;Cardassian;Deep Space 9;1107;;2;0
+End Transmission;Interrupt;Q Continuum;1108;;4;0
 Energy Vortex;Interrupt;;Premiere;1109,6099,6462,6825,7747;;4;1
+Engage Cloak;Objective;;The Dominion/Homefront III;1110,4108;;4;0
 Engineering Kit;Equipment;;Premiere/Voyager;1114,1115,6100,6463,6826,7748;;4;2 # Have 2 PREM
 Enhanced Attack Ship;Ship;Dominion;Mirror, Mirror;146;;4;0
 Ensign Davis;Personnel;Federation;Mirror, Mirror;147,4844;;4;0
@@ -1303,9 +1310,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1100
-#1103
-#1109
+# Done through card 1110
 #1114-1115
 #1128-1130
 #1144-1145
@@ -1511,6 +1516,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4092
 #4096-4097
 #4105
+#4108
 #4112
 #4118
 #4120
@@ -1609,7 +1615,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5429
 #5435-5438
 #5449
-#5456-5457
+#5456-5458
 #5493
 #5496
 #5500
@@ -1629,7 +1635,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5719
 #5722
 #5724-5725
-#5727-5728
+#5727-5729
 #5731-5732
 #5736
 #5748
@@ -1840,7 +1846,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7428
 #7432
 #7436
-#7438
+#7438-7439
 #7441
 #7503-7505
 #7508-7511
@@ -1974,6 +1980,6 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8360
 #8363
 #8373-8396
-#8407-8412
-#8448-8453
+#8407-8413
+#8448-8454
 #8482-8522
