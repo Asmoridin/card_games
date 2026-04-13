@@ -28,11 +28,14 @@ trainer_subtypes = ['Supporter', 'Item', 'Stadium', 'Pokemon Tool']
 color_mapping = {
     'Darkness Energy': 'Darkness',
     'Fighting Energy': 'Fighting',
+    'Rocky Fighting Energy': 'Fighting',
     'Fire Energy': 'Fire',
     'Grass Energy': 'Grass',
+    'Growing Grass Energy': 'Grass',
     'Lightning Energy': 'Lightning',
     'Metal Energy': 'Metal',
     'Psychic Energy': 'Psychic',
+    'Telepathic Psychic Energy': 'Psychic',
     'Water Energy': 'Water',
 }
 
@@ -260,3 +263,4 @@ if __name__ == "__main__":
             double_print(CARD_STR, out_file_h)
 
     out_file_h.close()
+    
