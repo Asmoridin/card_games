@@ -894,6 +894,7 @@ Froakie;Pokemon;Water;70;;Try Bouncing;OBF 56 (Common);G;4;0
 Cleffa;Pokemon;Psychic;30;;Grasping Draw;OBF 80 (Common)/OBF 202 (Illustration Rare)/SVP 37 (Promo)/PAF 150 (Shiny Rare);G;4;0
 Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
 Pidgey;Pokemon;Colorless;60;;Gust;OBF 162 (Common)/OBF 207 (Illustration Rare);G;4;0
+Pidgeotto;Pokemon;Colorless;90;;Wing Attack;OBF 163 (Uncommon)/OBF 208 (Illustration Rare);G;4;0
 Pidgeot ex;Pokemon;Colorless;280;Quick Search;Blustery Wind;OBF 164 (Double Rare)/OBF 217 (Ultra Rare)/OBF 225 (Special Illustration Rare)/PAF 221 (Shiny Ultra Rare);G;4;0
 Arven;Trainer;Supporter;;;;SVI 166 (Uncommon)/SVI 235 (Ultra Rare)/SVI 249 (Special Illustration Rare)/OBF 186 (Uncommon)/PAF 235 (Special Illustration Rare);G;8;2
 Town Store;Trainer;Stadium;;;;OBF 196 (Common);G;4;0
@@ -972,6 +973,7 @@ Maximum Belt;Trainer;Pokemon Tool;;;;TEF 154 (ACE SPEC Rare)/PRE 117 (ACE SPEC R
 Prime Catcher;Trainer;Item;;;;TEF 157 (ACE SPEC Rare)/PRE 119 (ACE SPEC Rare);H;2;0
 Rescue Board;Trainer;Pokemon Tool;;;;TEF 159 (Uncommon)/TWM 225 (Hyper Rare)/PRE 126 (Uncommon);H;4;0
 Mist Energy;Energy;Special Energy;;;;TEF 161 (Uncommon);H;4;0
+Neo Upper Energy;Energy;Special Energy;;;;TEF 162 (ACE SPEC Rare);H;2;0
 
 # Twilight Masquerade TWM
 Grookey;Pokemon;Grass;70;;Smash Kick|Branch Poke;TWM 14 (Common);H;4;0
@@ -1019,6 +1021,7 @@ Academy at Night;Trainer;Stadium;;;;SFA 54 (Uncommon);H;4;0
 Binding Mochi;Trainer;Pokemon Tool;;;;SFA 55 (Uncommon)/PRE 95 (Uncommon);H;4;0
 Colress's Tenacity;Trainer;Supporter;;;;SFA 57 (Uncommon)/SFA 87 (Ultra Rare);H;4;0
 Night Stretcher;Trainer;Item;;;;SFA 61 (Uncommon)/SSP 251 (Hyper Rare)/MEG 173 (Ultra Rare)/ASC 196 (Common);H;8;2
+Poké Vital A;Trainer;Item;;;;SFA 62 (ACE SPEC Rare);H;2;0
 Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
 
 # Stellar Crown
@@ -1078,6 +1081,11 @@ Metapod;Pokemon;Grass;90;;Harden;JTG 2 (Common);I;4;0
 Butterfree;Pokemon;Grass;120;;Scale Hurricane;JTG 3 (Rare);I;4;0
 Paras;Pokemon;Grass;70;;Leech Life;JTG 4 (Common);I;4;0
 Parasect;Pokemon;Grass;120;;Spore|Scissor Swing;JTG 5 (Common);I;4;0
+Petilil;Pokemon;Grass;50;;Leaf Step;JTG 6 (Common);H;4;0
+Lilligant;Pokemon;Grass;110;Sunny Day;Spinning Attack;JTG 7 (Common);H;4;0
+Maractus;Pokemon;Grass;110;Exploding Needles;Corner;JTG 8 (Uncommon)/JTG 160 (Illustration Rare);I;4;0
+Karrablast;Pokemon;Grass;60;;Push Down;JTG 9 (Common);I;4;0
+Foongus;Pokemon;Grass;50;;Spore Ball;JTG 10 (Common);H;4;0
 
 Blaziken ex;Pokemon;Fire;320;Seething Spirit;Smolder-sault;JTG 24 (Double Rare);H;4;0
 N's Darumaka;Pokemon;Fire;80;;Rolling Tackle|Flare;JTG 26 (Common)/ASC 32 (Common);I;4;0
@@ -1107,6 +1115,7 @@ N's PP Up;Trainer;Item;;;;JTG 153 (Uncommon)/ASC 195 (Uncommon)/ASC 262 (Ultra R
 
 # 155 done
 # 159 - last new card (not done)
+# 160 done
 # 163 done
 # 167 done
 # 172-173 done
