@@ -654,8 +654,15 @@ Enabran Tain;Personnel;Cardassian;Deep Space 9;1107;;2;0
 End Transmission;Interrupt;;Q Continuum;1108;;4;0
 Energy Vortex;Interrupt;;Premiere;1109,6099,6462,6825,7747;;4;1
 Engage Cloak;Objective;;The Dominion/Homefront III;1110,4108;;4;0
+Engage Shuttle Operations: Dominion;Event;;Blaze of Glory;1112;;4;0
+Engage Shuttle Operations;Event;;Alternate Universe/Virtual Promos;1111,5829;;4;0
+Engine Imbalance;Dilemma;Space;The Motion Pictures;1113,7246;;4;0
 Engineering Kit;Equipment;;Premiere/Voyager;1114,1115,6100,6463,6826,7748;;4;2 # Have 2 PREM
+Engineering PADD;Equipment;;Premiere;1116,6101,6464,6827,7749,8113;;4;0
+Engineering Tricorder;Equipment;;Deep Space 9/Voyager;1117,1118;;4;0
 Enhanced Attack Ship;Ship;Dominion;Mirror, Mirror;146;;4;0
+Enrique Muniz;Personnel;Federation;Blaze of Glory;1119,4428;;2;0
+Ensign Chekov;Personnel;Federation;The Trouble with Tribbles;1120;;2;0
 Ensign Davis;Personnel;Federation;Mirror, Mirror;147,4844;;4;0
 Ensign Gaffney;Personnel;Federation;Mirror, Mirror;148,4845;;4;0
 Ensure Their Silence;Dilemma;Dual;Crossover;4721;;4;4
@@ -1310,8 +1317,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1110
-#1114-1115
+# Done through card 1120
 #1128-1130
 #1144-1145
 #1159
@@ -1540,7 +1546,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4416
 #4418
 #4420-4425
-#4427
+#4427-4428
 #4431
 #4434
 #4438
@@ -1645,13 +1651,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5822
 #5824-5825
 #5827
-#5830
+#5829-5830
 #5894
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6100
-#6102-6103
+#5966-6103
 #6106-6107
 #6110
 #6115-6120
@@ -1710,7 +1715,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6465-6466
+#6464-6466
 #6469-6470
 #6473
 #6478-6483
@@ -1769,8 +1774,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6826
-#6828-6829
+#6823-6829
 #6832-6833
 #6836
 #6841-6846
@@ -1837,7 +1841,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173
 #7179-7180
-#7183-7245
+#7183-7246
 #7251
 #7277
 #7317-7318
@@ -1861,8 +1865,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7722-7723
 #7725-7738
 #7740-7741
-#7743-7748
-#7750-7751
+#7743-7751
 #7754-7755
 #7758
 #7766-7768
@@ -1938,7 +1941,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8100-8102
 #8104-8105
 #8107-8110
-#8114-8115
+#8113-8115
 #8130-8132
 #8134
 #8136
