@@ -323,18 +323,18 @@ Clone Deserter;SHD-095-C;Ground Unit;Fringe/Clone;1;2;3;G/W;3
 Clone Dive Trooper;TWI-205-C;Ground Unit;Republic/Clone/Trooper;1;2;1;Y;2
 Clone Heavy Gunner;TWI-158-C;Ground Unit;Republic/Clone/Trooper;2;1;3;R;3
 Clone Pilot;JTL-108-C;Ground Unit;Republic/Clone/Pilot;2;2;2;G;3
-# done through here
-Clone;TWI-116-L;Ground Unit;G;1
-Close the Shieldgate;JTL-074-R;Event;U;0
-Cloud City Wing Guard;SOR-063-C;Ground Unit;U;3
+Clone;TWI-116-L;Ground Unit;Clone;7;0;0;G;1
+Close the Shield Gate;JTL-074-R;Event;Tactic;1;U;0
+Cloud City Wing Guard;SOR-063-C;Ground Unit;Fringe/Trooper;3;2;4;U;3
 Cloud-Rider Veteran;LAW-181-C;Ground Unit;Underworld;2;1;4;R/W;0
-Cloud-Rider;SHD-210-C;Ground Unit;Y;3
+Cloud-Rider;SHD-210-C;Ground Unit;Underworld;2;3;1;Y;3
 Coaxium Mine;LAW-021-C;Base;Kessel;27;U;0
-Cobb Vanth, The Marshal;SHD-115-R;Ground Unit;G;1
+Cobb Vanth, The Marshal;SHD-115-R;Ground Unit;Fringe/Official;3;3;2;G;1
 Collateral Damage;LAW-208-C;Event;Disaster;3;R;0
-Collections Starhopper;SHD-111-C;Space Unit;G;3
-Colonel Yularen, ISB Director;SOR-109-U;Ground Unit;G;3
-Colonel Yularen, This Is Why We Plan;SEC-006-C;Leader;G/B;1 # 1 hyperspace
+Collections Starhopper;SHD-111-C;Space Unit;Underworld/Vehicle/Fighter;2;2;2;G;3
+Colonel Yularen, ISB Director;SOR-109-U;Ground Unit;Imperial/Official;2;2;3;G;3
+Colonel Yularen, This Is Why We Plan;SEC-006-C;Leader;Imperial/Official;5;4;6;G/B;1 # 1 hyperspace
+# done through here
 Colossus;JTL-021-R;Base;U;0
 Combat Exercise;LAW-165-C;Event;Learned;1;G;0
 Command Center;SOR-023-C;Base;G;1 # 1 hyperspace
@@ -1852,3 +1852,8 @@ King Katuunko, Great King of Toydaria;TS26-16-R;Ground Unit;Official;2;2;4;U/G;0
 Rush Clovis, Trapped by Authority;TS26-17-U;Ground Unit;Separatist/Official;2;2;3;U/G;0
 Jendirian Valley, Refugee Freighter;TS26-18-R;Space Unit;Republic/Vehicle/Transport;4;1;5;U/G;0
 Coleman Trebor, Jedi Rescuer;TS26-19-R;Ground Unit;Force/Jedi/Republic;1;2;2;U/R/W;0
+501st Veteran;TS26-20-U;Ground Unit;Republic/Clone/Trooper;2;0;4;U/R;0
+Gar Saxon, Sundari Pillagern;TS26-21-R;Ground Unit;Mandalorian/Trooper;3;1;5;G/R/B;0
+The Darksaber, Only the Strongest Shall Rule;TS26-22-R;Upgrade;Mandalorian/Item/Weapon;4;2;2;G/R/B;0
+Assault Lander LAAT;TS26-23-R;Ground Unit;Republic/Vehicle/Transport;4;3;5;G/R;0
+Sundari Gauntlet;TS26-24-U;Space Unit;Mandalorian/Vehicle/Transport;5;6;5;G/R;0
