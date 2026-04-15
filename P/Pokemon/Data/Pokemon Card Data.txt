@@ -962,6 +962,7 @@ Poochyena;Pokemon;Darkness;70;;Gnaw Off;TEF 105 (Common)/ASC 128 (Common);H;4;0
 Mightyena;Pokemon;Darkness;120;;Kick Away|Sharp Fang;TEF 106 (Common)/ASC 129 (Uncommon)/ASC 243 (Illustration Rare);H;4;0
 Roaring Moon;Pokemon;Darkness;140;;Vengeance Fletching|Speed Wing;TEF 109 (Rare)/PRE 65 (Rare);H;4;1
 Mawile;Pokemon;Metal;90;;Invite and Strike|Sharp Fang;TEF 112 (Common);H;4;1
+Raging Bolt ex;Pokemon;Dragon;240;;Burst Roar|Bellowing Thunder;TEF 123 (Double Rare)/TEF 196 (Ultra Rare)/TEF 208 (Special Illustration Rare)/TEF 218 (Hyper Rare)/SVP 145 (Promo)/PRE 166 (Special Illustration Rare);H;4;0
 Hoothoot;Pokemon;Colorless;70;;Silent Wing;TEF 126 (Common);H;4;1
 Dunsparce;Pokemon;Colorless;60;;Gnaw|Dig;TEF 128 (Common)/PRE 79 (Common);H;4;0
 Dudunsparce;Pokemon;Colorless;140;Run Away Draw;Land Crush;TEF 129 (Rare)/PRE 80 (Rare);H;4;0
@@ -1033,6 +1034,7 @@ Raboot;Pokemon;Fire;90;;Low Sweep|Combustion;SCR 27 (Common)/SCR 147 (Illustrati
 Cinderace ex;Pokemon;Fire;320;;Flare Strike|Garnet Volley;SCR 28 (Double Rare)/SCR 157 (Ultra Rare)/SVP 163 (Promo)/ASC 38 (Double Rare);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
 Galvantula ex;Pokemon;Lightning;260;;Charged Web|Fulgurite;SCR 51 (Double Rare)/SCR 159 (Ultra Rare)/SCR 168 (Special Illustration Rare);H;4;0
+Raging Bolt;Pokemon;Dragon;130;;Thunderburst Storm|Dragon Headbutt;SCR 111 (Rare);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
 Hoothoot;Pokemon;Colorless;70;;Triple Stab;SCR 114 (Common);H;4;0
 Noctowl;Pokemon;Colorless;100;Jewel Seeker;Speed Wing;SCR 115 (Rare)/SVP 141 (Promo)/PRE 78 (Rare);H;4;0
@@ -1086,6 +1088,16 @@ Lilligant;Pokemon;Grass;110;Sunny Day;Spinning Attack;JTG 7 (Common);H;4;0
 Maractus;Pokemon;Grass;110;Exploding Needles;Corner;JTG 8 (Uncommon)/JTG 160 (Illustration Rare);I;4;0
 Karrablast;Pokemon;Grass;60;;Push Down;JTG 9 (Common);I;4;0
 Foongus;Pokemon;Grass;50;;Spore Ball;JTG 10 (Common);H;4;0
+Amoonguss ex;Pokemon;Grass;260;;Spore Ball|Champignon's Swing;JTG 11 (Double Rare);H;4;0
+Shelmet;Pokemon;Grass;70;;Shell Smack;JTG 12 (Common);I;4;0
+Accelgor;Pokemon;Grass;100;;Poisonous Ploy;JTG 13 (Uncommon);I;4;0
+Durant;Pokemon;Grass;90;;Crunch;JTG 14 (Common);H;4;0
+Virizion;Pokemon;Grass;120;;Leaf Drain|Slicing Blade;JTG 15 (Uncommon);H;4;0
+Sprigatito;Pokemon;Grass;60;;Tons of Treading;JTG 16 (Common);I;4;0
+Floragato;Pokemon;Grass;90;;Magical Leaf;JTG 17 (Common);I;4;0
+Meowscarada;Pokemon;Grass;160;Showtime;Rising Bloom;JTG 18 (Rare);I;4;0
+Nymble;Pokemon;Grass;50;;Reak Kick;JTG 19 (Common);H;4;0
+Magmar;Pokemon;Fire;80;;Searing Flame;JTG 20 (Common);I;4;0
 
 Blaziken ex;Pokemon;Fire;320;Seething Spirit;Smolder-sault;JTG 24 (Double Rare);H;4;0
 N's Darumaka;Pokemon;Fire;80;;Rolling Tackle|Flare;JTG 26 (Common)/ASC 32 (Common);I;4;0
@@ -1112,8 +1124,9 @@ Brock's Scouting;Trainer;Supporter;;;;JTG 146 (Uncommon)/JTG 179 (Ultra Rare);I;
 Iris's Fighting Spirit;Trainer;Supporter;;;;JTG 149 (Uncommon)/JTG 180 (Ultra Rare)/ASC 190 (Uncommon)/ASC 292 (Special Illustration Rare);I;4;0
 Levincia;Trainer;Stadium;;;;JTG 150 (Uncommon)/DRI 244 (Hyper Rare);I;4;0
 N's PP Up;Trainer;Item;;;;JTG 153 (Uncommon)/ASC 195 (Uncommon)/ASC 262 (Ultra Rare);I;4;0
+Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
-# 155 done
+# 155-156 done
 # 159 - last new card (not done)
 # 160 done
 # 163 done
