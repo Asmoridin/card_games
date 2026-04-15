@@ -677,6 +677,16 @@ Equinox Doctor;Personnel;Non-Aligned;The Borg;1127;1126;2;0
 Erik Pressman;Personnel;Federation;Premiere;1128,6102,6465,6828,7750,8114;;2;0 # Needs errata
 Eris;Personnel;Dominion;The Dominion;149,4421;;4;0
 Escape Pod;Interrupt;;Premiere/Voyager/Homefront VI;1129,1130,4711,6103,6466,6829,7751,8115;;4;1 # Have 1 PREM
+Espionage Mission;Mission;Planet;First Contact/Homefront/Reflections;1131,3517,3549;;2;0
+Espionage: Bajoran on Cardassian;Event;;Deep Space 9;1132;;4;0
+Espionage: Bajoran on Dominion;Event;;All Good Things/Virtual Promos;1133,3690,8415,8456;;4;0
+Espionage: Cardassian on Bajoran;Event;;Deep Space 9;1134;;4;0
+Espionage: Cardassian on Federation;Event;;Deep Space 9;1135;;4;0
+Espionage: Cardassian on Klingon;Event;;Deep Space 9;1136;;4;0
+Espionage: Dominion on Federation;Event;;The Dominion;1137;;4;0
+Espionage: Dominion on Klingon;Event;;The Dominion;1138;;4;0
+Espionage: Dominion on Romulan;Event;;The Dominion;1139;;4;0
+Espionage: Federation on Klingon;Event;;Premiere;1140,6104,6467,6830,7752,8116;;4;0
 Espionage: Romulan on Federation;Event;;Premiere;1144,6106,6469,6832,7754;;4;1
 Espionage: Romulan on Klingon;Event;;Premiere;1145,6107,6470,6833,7755;;4;1
 Establish Relations;Mission;Planet;Official Tournament Sealed Deck;150,5900;;4;0
@@ -1324,7 +1334,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1130
+# Done through card 1140
 #1144-1145
 #1159
 #1172
@@ -1462,15 +1472,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3495
 #3501
 #3503-3508
-#3513-3516
-#3518
+#3513-3518
 #3522
 #3527
 #3529-3531
 #3533-3541
 #3543-3544
 #3546
-#3548
+#3548-3549
 #3551-3553
 #3556-3561
 #3564-3566
@@ -1489,7 +1498,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3616-3617
 #3625-3628
 #3632
-#3689
+#3689-3690
 #3693
 #3695-3696
 #3698-3700
@@ -1665,7 +1674,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6103
+#5966-6104
 #6106-6107
 #6110
 #6115-6120
@@ -1724,7 +1733,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6466
+#6464-6467
 #6469-6470
 #6473
 #6478-6483
@@ -1783,7 +1792,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6829
+#6823-6830
 #6832-6833
 #6836
 #6841-6846
@@ -1874,7 +1883,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7722-7723
 #7725-7738
 #7740-7741
-#7743-7751
+#7743-7752
 #7754-7755
 #7758
 #7766-7768
@@ -1950,7 +1959,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8100-8102
 #8104-8105
 #8107-8110
-#8113-8115
+#8113-8116
 #8130-8132
 #8134
 #8136
@@ -1992,6 +2001,6 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8360
 #8363
 #8373-8396
-#8407-8414
-#8448-8455
+#8407-8415
+#8448-8456
 #8482-8522
