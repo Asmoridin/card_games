@@ -66,7 +66,8 @@ for line in lines:
     if card_subtype in ['Champion', 'Regalia Weapon', 'Regalia Item', 'Regalia Ally']:
         CARD_MAX = 1
     if 'Champion' in card_subtype and not card_name.startswith('Spirit of') and not \
-        card_name.startswith('Fragmented Spirit of') and card_name != "Prismatic Spirit":
+        card_name.startswith('Fragmented Spirit of') and card_name != "Prismatic Spirit" \
+        and card_name != "Flawless Spirit of Mordred":
         champions.add(card_name.split(',')[0])
     if TEMP_MAX != 0:
         CARD_MAX = TEMP_MAX
