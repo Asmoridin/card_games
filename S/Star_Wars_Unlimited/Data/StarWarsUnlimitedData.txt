@@ -334,17 +334,17 @@ Collateral Damage;LAW-208-C;Event;Disaster;3;R;0
 Collections Starhopper;SHD-111-C;Space Unit;Underworld/Vehicle/Fighter;2;2;2;G;3
 Colonel Yularen, ISB Director;SOR-109-U;Ground Unit;Imperial/Official;2;2;3;G;3
 Colonel Yularen, This Is Why We Plan;SEC-006-C;Leader;Imperial/Official;5;4;6;G/B;1 # 1 hyperspace
-# done through here
-Colossus;JTL-021-R;Base;U;0
+Colossus;JTL-021-R;Base;Castilon;35;U;0
 Combat Exercise;LAW-165-C;Event;Learned;1;G;0
-Command Center;SOR-023-C;Base;G;1 # 1 hyperspace
-Command;SOR-107-L;Event;G;1
-Commandeer;JTL-235-R;Event;Y;2
-Commence Patrol;JTL-205-U;Event;Y/W;2
+Command Center;SOR-023-C;Base;Death Star;30;G;1 # 1 hyperspace
+Command;SOR-107-L;Event;Innate;4;G/G;1
+Commandeer;JTL-235-R;Event;Trick;5;Y;2
+Commence Patrol;JTL-205-U;Event;Tactic;1;Y/W;2
 Commence the Festivities;LAW-202-C;Event;Plan;1;R;0
-Commission;SHD-127-U;Event;G;2
+Commission;SHD-127-U;Event;Supply;1;G;2
 Common Cause;LAW-167-C;Event;Innate;2;G;0
-Compassionate Senator;TWI-056-U;Ground Unit;U;1
+Compassionate Senator;TWI-056-U;Ground Unit;Republic/Official;1;U;1
+# done through here
 Concord Dawn Interceptors;SHD-042-U;Space Unit;U/W;3 # 1 hyperspace
 Condemn;SEC-038-R;Upgrade;U/B;2
 Confederate Courier;TWI-079-C;Space Unit;B/G;3
@@ -1857,3 +1857,7 @@ Gar Saxon, Sundari Pillagern;TS26-21-R;Ground Unit;Mandalorian/Trooper;3;1;5;G/R
 The Darksaber, Only the Strongest Shall Rule;TS26-22-R;Upgrade;Mandalorian/Item/Weapon;4;2;2;G/R/B;0
 Assault Lander LAAT;TS26-23-R;Ground Unit;Republic/Vehicle/Transport;4;3;5;G/R;0
 Sundari Gauntlet;TS26-24-U;Space Unit;Mandalorian/Vehicle/Transport;5;6;5;G/R;0
+Fiery Alliance;TS26-25-U;Upgrade;Innate;2;2;2;G/R;0
+Mother Talzin, Stealing the Spirit;TS26-26-R;Ground Unit;Force/Night;5;5;4;G/Y/B;0
+Fortune and Glory, Hondo's Luxury Yacht;TS26-27-U;Space Unit;Underworld/Vehicle/Transport;4;3;5;G/Y;0
+Prime Minister Almec, Scheming Populist;TS26-28-R;Ground Unit;Mandalorian/Official;4;2;4;G/Y;0
