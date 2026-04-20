@@ -110,7 +110,7 @@ Attack From All Sides;LAW-207-C;Event;Tactic;3;R;0
 Attack Pattern Delta;SOR-106-U;Event;Tactic;3;G/G;3 # 1 foil, 1 hyperfoil
 Attack Run;JTL-261-C;Event;Tactic;1;N;3 # 1 foil
 Attuned Fyrnock;LOF-143-C;Ground Unit;Creature;2;4;1;R/W;3
-Aurra Sing, Assassin;LAW-004-C;Leader;Underworld/Bounty Hunter;7;3;7;U/B;0
+Aurra Sing, Assassin;LAW-004-C;Leader;Underworld/Bounty Hunter;7;3;7;U/B;1
 Aurra Sing, Crackshot Sniper;TWI-166-U;Ground Unit;Underworld/Bounty Hunter;7;7;6;R;2 # 1 foil
 Aurra Sing, Patient and Deadly;LOF-179-U;Ground Unit;Underworld/Bounty Hunter;2;1;4;Y/B;1
 Auzituck Liberator Gunship;SOR-195-C;Space Unit;Vehicle/Fighter;4;3;4;W/Y;3 # 1 hyperfoil, 1 hyperspace
@@ -131,7 +131,7 @@ Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;Rebel/Official;1;1;2;G/W;2
 Bail Organa, Responding to Catastrophe;SEC-198-U;Ground Unit;Republic/Official;2;2;4;Y/W;3
 Baktoid Spider Droid;TWI-117-C;Ground Unit;Separatist/Droid/Walker;8;5;6;G;2
 Bamboozle;SOR-199-U;Event;Trick;2;W/Y;2 # 1 foil
-Bank Job Fugitives;LAW-262-C;Ground Unit;Underworld;6;4;6;N;0
+Bank Job Fugitives;LAW-262-C;Ground Unit;Underworld;6;4;6;N;1 # 1 hyperspace
 Banking Clan Shuttle;LOF-181-C;Space Unit;Separatist/Vehicle/Transport;3;3;3;Y/B;3
 Banshee, Crippling Command;JTL-037-U;Space Unit;Separatist/Vehicle/Fighter;5;4;5;U/B;1
 Bardottan Ornithopter;SEC-062-C;Space Unit;Fringe/Vehicle/Transport;4;3;4;U;3
@@ -236,10 +236,10 @@ Callous Bounty Hunter;LAW-250-C;Ground Unit;Underworld/Bounty Hunter;3;3;4;B;0
 Calm in the Storm;LOF-054-U;Event;Force;2;U/W;1
 Cantina Bouncer;SOR-202-U;Ground Unit;Fringe;5;3;5;Y/Y;3 # 1 foil
 Cantina Braggart;SOR-157-C;Ground Unit;Underworld;1;0;3;R;3 # 1 hyperfoil
-Canto Bight Security;LAW-121-U;Ground Unit;Fringe;5;3;5;U;0
-Canto Bight;LAW-028-C;Base;Cantonica;27;Y;0
+Canto Bight Security;LAW-121-U;Ground Unit;Fringe;5;3;5;U;1
+Canto Bight;LAW-028-C;Base;Cantonica;27;Y;1
 Cantwell Arrestor Cruiser;SEC-037-U;Space Unit;Imperial/Vehicle/Capital Ship;7;6;7;U/B;3
-Canyon Frontrunner;LAW-228-C;Ground Unit;Vehicle/Speeder;2;3;2;Y;0
+Canyon Frontrunner;LAW-228-C;Ground Unit;Vehicle/Speeder;2;3;2;Y;1
 Capital City;SOR-020-C;Base;Lothal;30;U;1 # 1 hyperspace
 Captain Enoch, Captain of the Guard;LOF-083-R;Ground Unit;Imperial/Trooper;3;1;5;G/B;0
 Captain Phasma, Chrome Dome;JTL-010-R;Leader;First Order/Trooper;5;4;6;R/B;1
@@ -301,7 +301,7 @@ Choke on Aspirations;LAW-102-U;Event;Force;1;U/B;0
 Choose Sides;SHD-132-R;Event;Plan;7;G;3
 Chopper Base;SOR-030-C/JTL-029-C;Base;Atollon;30;Y;1 # 1 hyperspace
 Chopper, Metal Menace;SOR-188-R;Ground Unit;Rebel/Droid/Spectre;1;1;3;W/Y;1
-Chopper, Spectre Three;LAW-055-U;Ground Unit;Rebel/Droid/Spectre;2;1;2;G/R/W;0
+Chopper, Spectre Three;LAW-055-U;Ground Unit;Rebel/Droid/Spectre;2;1;2;G/R/W;1
 Chopper, War Hero;SEC-147-L;Ground Unit;Rebel/Droid/Spectre;2;4;1;R/W;1
 Cikatro Vizago, Business is What Matters;SEC-218-U;Ground Unit;Underworld;3;3;4;Y;2
 Cin Drallig, Esteemed Blademaster;LOF-150-L;Ground Unit;Force/Jedi/Republic;8;5;6;R/W;0
@@ -326,7 +326,7 @@ Clone Pilot;JTL-108-C;Ground Unit;Republic/Clone/Pilot;2;2;2;G;3
 Clone;TWI-116-L;Ground Unit;Clone;7;0;0;G;1
 Close the Shield Gate;JTL-074-R;Event;Tactic;1;U;0
 Cloud City Wing Guard;SOR-063-C;Ground Unit;Fringe/Trooper;3;2;4;U;3
-Cloud-Rider Veteran;LAW-181-C;Ground Unit;Underworld;2;1;4;R/W;0
+Cloud-Rider Veteran;LAW-181-C;Ground Unit;Underworld;2;1;4;R/W;1
 Cloud-Rider;SHD-210-C;Ground Unit;Underworld;2;3;1;Y;3
 Coaxium Mine;LAW-021-C;Base;Kessel;27;U;0
 Cobb Vanth, The Marshal;SHD-115-R;Ground Unit;Fringe/Official;3;3;2;G;1
@@ -623,7 +623,7 @@ Fly Casual;JTL-206-U;Event;Y/W;2
 FN Trooper Corps;SEC-243-C;Ground Unit;B;3
 Focus Determines Reality;LOF-152-U;Event;R/W;2
 Focus Fire;JTL-129-C;Event;G;2
-Follower of the Code;LAW-153-C;Ground Unit;Droid/Bounty Hunter;2;2;3;G;0
+Follower of the Code;LAW-153-C;Ground Unit;Droid/Bounty Hunter;2;2;3;G;1
 Follower of The Way;SHD-056-C;Ground Unit;U;3
 Following the Path;LOF-103-C;Event;G/W;3
 For a Cause I Believe In;SOR-152-R;Event;R/W;3
@@ -721,14 +721,14 @@ Guavian Antagonizer;SHD-134-C;Ground Unit;R/B;3
 Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;3
 Guerilla Insurgency;TWI-177-R;Event;R;0
 Guerilla Soldier;JTL-218-C;Ground Unit;Y;2
-Guild Ambush Team;LAW-239-C;Ground Unit;Bounty Hunter;5;5;4;Y;0
+Guild Ambush Team;LAW-239-C;Ground Unit;Bounty Hunter;5;5;4;Y;1
 Guild Target;SHD-173-U;Upgrade;R;3
 Gungan Warrior;LOF-247-C;Ground Unit;W;2
 Gungi, Finding Himself;LOF-093-U;Ground Unit;G/W;1
 Hailfire Tank;TWI-233-C;Ground Unit;B;3
 Han Solo, Audacious Smuggler;SOR-017-R;Leader;Y/W;1 # 1 hyperspace
 Han Solo, Has His Moments;JTL-203-L;Ground Unit;Y/W;0
-Han Solo, Hibernation Sick;LAW-037-S;Ground Unit;Rebel;1;1;1;U/G;0
+Han Solo, Hibernation Sick;LAW-037-S;Ground Unit;Rebel;1;1;1;U/G;1 # 1 hyperfoil
 Han Solo, I Got a Really Good Feeling;LAW-017-C;Leader;Underworld;5;3;5;Y/W;1
 Han Solo, Never Tell Me the Odds;JTL-017-S;Leader;Y/W;1
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;3 # 1 hyperspace
@@ -814,7 +814,7 @@ IG-2000, Assassin's Aggressor;JTL-140-R;Space Unit;R/B;0
 IG-88, Murderous Phlutdroid;JTL-141-R;Ground Unit;R/B;1
 IG-88, Programmed to Kill;LAW-042-R;Ground Unit;Underworld/Droid/Bounty Hunter;5;6;3;U/R/B;0
 IG-88, Ruthless Bounty Hunter;SOR-012-C;Leader;R/B;1
-IGV-55 Listener;LAW-100-C;Space Unit;Imperial/Vehicle/Capital Ship;6;5;6;U/B;0
+IGV-55 Listener;LAW-100-C;Space Unit;Imperial/Vehicle/Capital Ship;6;5;6;U/B;1
 Imperial Command Complex;LAW-024-C;Base;Lothal;27;G;0
 Imperial Dark Trooper;SEC-080-C;Ground Unit;G/B;3
 Imperial Deck Officer;IBH-062-S/IBH-100-S;Ground Unit;U;0
@@ -847,7 +847,7 @@ Infused Brawler;LOF-156-U;Ground Unit;R;3
 Inner Rim Coalition;SEC-154-C;Ground Unit;R/W;3
 Inquisitor's Lightsaber;LOF-090-C;Upgrade;G/B;3
 Inspector's Shuttle;SEC-260-C;Space Unit;N;3 # 1 hyperspace
-Inspired Recruit;LAW-180-C;Ground Unit;Rebel/Trooper;1;3;1;R/W;0
+Inspired Recruit;LAW-180-C;Ground Unit;Rebel/Trooper;1;3;1;R/W;1
 Inspiring Mentor;SHD-104-R;Upgrade;G/W;0
 Inspiring Senator;SEC-261-C;Ground Unit;N;3 # 1 hyperspace
 Insurgent Saboteurs;JTL-168-C;Ground Unit;R;2
@@ -1070,7 +1070,7 @@ MC30 Assault Frigate;JTL-118-C;Space Unit;G;3 # 1 hyperfoil, 1 hyperspace
 Medal Ceremony;SOR-245-C;Event;W;3
 Medical Frigate;LOF-250-C;Space Unit;W;3
 Mercenary Company;SOR-117-C/SHD-121-C;Ground Unit;G;3
-Mercenary Fleet;LAW-164-C;Space Unit;Underworld/Vehicle/Fighter/Transport;9;10;10;G;1
+Mercenary Fleet;LAW-164-C;Space Unit;Underworld/Vehicle/Fighter/Transport;9;10;10;G;2
 Mercenary Gunship;SHD-256-U;Space Unit;N;3 # 1 foil
 Merciless Contest;TWI-238-C;Event;B;3
 Merrin, Alone with the Dead;LOF-160-U;Ground Unit;R;3
@@ -1472,7 +1472,7 @@ Shadowed Hover Tank;JTL-224-C;Ground Unit;Y;3
 Shadowed Intentions;TWI-220-R;Upgrade;Y;1
 Shadowed Undercity;LOF-021-C;Base;U;1 # 1 hyperspace
 Shatterpoint;LOF-079-U;Event;U;3 # 1 hyperspace
-Shield Drive Outfitter;LAW-113-C;Ground Unit;Underworld;1;1;3;U;0
+Shield Drive Outfitter;LAW-113-C;Ground Unit;Underworld;1;1;3;U;1
 Shield Generator Complex;JTL-020-C;Base;U;1 # 1 hyperspace
 Shielded Hauler;LAW-122-C;Space Unit;Underworld/Vehicle/Transport;5;4;5;U;0
 Shien Flurry;LOF-220-U;Event;Y;2
@@ -1785,7 +1785,7 @@ Watchful;LAW-125-C;Upgrade;Learned;1;0;2;U;0
 Watto, No Money, No Parts, No Deal;LOF-065-U;Ground Unit;U;1
 Waylay;SOR-222-C/TWI-226-S;Event;Y;3 # 1 foil
 We're In Trouble;IBH-061-S/IBH-086-S;Event;R;0
-Weazel, Fighting Back;LAW-182-U;Ground Unit;Underworld;2;2;3;R/W;0
+Weazel, Fighting Back;LAW-182-U;Ground Unit;Underworld;2;2;3;R/W;1
 Wedge Antilles, Leader of Red Squadron;JTL-008-C;Leader;G/W;1
 Wedge Antilles, Star of the Rebellion;SOR-100-R;Ground Unit;G/W;2
 Weequay Pirate Gang;SHD-119-C;Ground Unit;G;3 # 1 hyperspace
@@ -1828,7 +1828,7 @@ Ziro the Hutt, Colorful Schemer;TWI-185-U;Ground Unit;Y/B;1
 Ziton Moj, Black Sun Bully;SEC-168-R;Ground Unit;R;3
 Zorii Bliss, Valiant Smuggler;SHD-203-R;Ground Unit;Y/W;3 # 1 foil
 Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;3
-Zuckuss, Dangerous;LAW-064-R;Ground Unit;Underworld/Bounty Hunter;4;3;5;G/Y/B;0
+Zuckuss, Dangerous;LAW-064-R;Ground Unit;Underworld/Bounty Hunter;4;3;5;G/Y/B;1
 Zuckuss, The Findsman;LOF-204-L;Ground Unit;Y;0
 Zygerrian Starhopper;JTL-183-C;Space Unit;Y/B;3 # 1 foil
 “Staccato Lightning” Repeater;LAW-187-U;Upgrade;Item/Weapon;3;3;1;R/W;0
