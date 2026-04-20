@@ -1,4 +1,4 @@
-0-0-0, Translation and Torture;LAW-174-U;Ground Unit;Underworld/Droid;3;4;4;R/B;0
+0-0-0, Translation and Torture;LAW-174-U;Ground Unit;Underworld/Droid;3;4;4;R/B;1
 2-1B Surgical Droid;SOR-059-C;Ground Unit;Droid;1;1;3;U;3 # 1 foil
 332nd Stalwart;TWI-240-S;Ground Unit;Republic/Clone/Trooper;1;1;2;W;3
 4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Underworld/Droid/Bounty Hunter;4;4;4;Y/B;3
@@ -55,7 +55,7 @@ Ahsoka's Padawan Lightsaber;TWI-248-S;Upgrade;Item/Weapon/Lightsaber;1;2;0;W;3
 Aid from the Innocent;TWI-201-R;Event;Gambit;5;Y/W;0
 Air Superiority;JTL-125-C;Event;Tactic;2;G;3
 Alderaanian Envoys;SEC-066-C;Ground Unit;Republic/Official;6;3;7;U;3
-Aldhani Garrison;LAW-022-C;Base;Aldhani;27;G;0
+Aldhani Garrison;LAW-022-C;Base;Aldhani;27;G;1
 Alexsandr Kallus, With New Purpose;SEC-155-R;Ground Unit;Rebel/Spectre;7;6;6;R/W;1 # 1 foil
 Alkenzi Patroller;LAW-114-C;Space Unit;Imperial/Vehicle/Fighter;2;2;1;U;0
 All Wings Report In;JTL-122-C;Event;Plan;1;G;3
@@ -94,7 +94,7 @@ As I Have Foreseen;LOF-188-R;Event;Force;1;Y/B;2 # 1 hyperspace
 Asajj Ventress, Count Dooku's Assassin;TWI-134-U;Ground Unit;Force/Separatist/Sith;4;2;4;B/R;1
 Asajj Ventress, Harden Your Heart;LOF-165-U;Ground Unit;Force/Night/Bounty Hunter;5;5;6;R;1
 Asajj Ventress, I Work Alone;JTL-001-R;Leader;Force/Night/Bounty Hunter/Pilot;6;4;6;U/B;1
-Asajj Ventress, Reluctant Hunter;LAW-061-R;Ground Unit;Force/Underworld/Bounty Hunter;5;3;3;G/R;0
+Asajj Ventress, Reluctant Hunter;LAW-061-R;Ground Unit;Force/Underworld/Bounty Hunter;5;3;3;G/R;1
 Asajj Ventress, Unparalleled Adversary;TWI-014-R;Leader;Force/Separatist/Sith;4;3;4;Y/B;0
 Ascension Cable;LOF-215-C;Upgrade;Item;2;1;3;Y;2
 ASP Laborer;SEC-259-C;Ground Unit;Droid;2;1;4;N;3
@@ -125,7 +125,7 @@ B1 Security Team;TWI-207-C;Ground Unit;Separatist/Droid/Trooper;2;3;1;Y;3
 B2 Legionnaires;TWI-113-C;Ground Unit;Separatist/Droid/Trooper;5;5;4;G;3 # 1 foil
 B2EMO, That's Two Lies;SEC-248-U;Ground Unit;Fringe/Droid;1;0;4;W;2
 Babu Frik, Heyyy!;LOF-206-R;Ground Unit;Underworld;1;1;4;Y;2 # 1 hyperspace
-Backed by the Hutts;LAW-247-C;Event;Supply;3;Y;0
+Backed by the Hutts;LAW-247-C;Event;Supply;3;Y;1
 Bail Organa, Doing Everything He Can;SEC-008-R;Leader;Republic/Official;4;3;3;G/W;1 # 1 hyperspace
 Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;Rebel/Official;1;1;2;G/W;2
 Bail Organa, Responding to Catastrophe;SEC-198-U;Ground Unit;Republic/Official;2;2;4;Y/W;3
@@ -168,7 +168,7 @@ Black One, Scourge of Starkiller Base;SOR-147-L;Space Unit;Resistance/Vehicle/Fi
 Black One, Straight At Them;JTL-147-R;Space Unit;Resistance/Vehicle/Fighter;2;2;3;R/W;1
 Black Squadron Scout Wing;JTL-202-C;Space Unit;Resistance/Vehicle/Fighter;5;4;6;Y/W;3 # 1 hyperspace
 Black Sun Cabalist;LAW-249-C;Ground Unit;Underworld;2;1;3;B;0
-Black Sun Patroller;LAW-211-C;Space Unit;Underworld/Vehicle/Fighter;2;2;2;Y/B;0
+Black Sun Patroller;LAW-211-C;Space Unit;Underworld/Vehicle/Fighter;2;2;2;Y/B;1 # 1 hyperfoil
 Black Sun Starfighter;SHD-237-C;Space Unit;Underworld/Vehicle/Fighter;3;3;2;B;3 # 1 hyperspace
 Blade Squadron B-Wing;JTL-199-C;Space Unit;Rebel/Vehicle/Fighter;3;3;3;Y/W;2
 Blizzard Assault AT-AT;SOR-088-U;Ground Unit;Imperial/Vehicle/Walker;8;9;9;G/B;3 # 1 foil
@@ -252,7 +252,7 @@ Captain Typho, All Necessary Precautions;SEC-098-S;Ground Unit;Naboo/Republic/Tr
 Captain Typho, Protecting the Senator;TWI-046-U;Ground Unit;Naboo/Republic/Trooper;3;2;4;U/W;2 # 1 hyperspace
 Caretaker Matron;LOF-243-U;Ground Unit;Fringe;2;0;4;W;2
 Cargo Juggernaut;SOR-068-C/SHD-066-C;Ground Unit;Vehicle/Tank;6;4;6;U;3
-Cartel Heavy Fighter;LAW-259-C;Space Unit;Underworld/Vehicle/Fighter;3;3;2;N;0
+Cartel Heavy Fighter;LAW-259-C;Space Unit;Underworld/Vehicle/Fighter;3;3;2;N;1
 Cartel Interceptor;LOF-157-C;Space Unit;Underworld/Vehicle/Fighter;3;2;3;R;3 # 1 hyperfoil
 Cartel Spacer;SOR-178-U;Space Unit;Underworld/Vehicle/Fighter;2;2;3;B/Y;3 # 1 hyperspace
 Cartel Turncoat;SHD-195-C;Space Unit;Underworld/Vehicle/Fighter;1;2;3;Y/W;3
@@ -307,7 +307,7 @@ Cikatro Vizago, Business is What Matters;SEC-218-U;Ground Unit;Underworld;3;3;4;
 Cin Drallig, Esteemed Blademaster;LOF-150-L;Ground Unit;Force/Jedi/Republic;8;5;6;R/W;0
 Cinta Kaz, Stone Cold and Fearless;LAW-105-U;Ground Unit;Rebel;3;3;5;U/W;0
 Cinta Kaz, The Struggle Comes First;SEC-172-U;Ground Unit;Rebel;6;5;5;R;2
-Circuit Challenger;LAW-255-C;Ground Unit;Vehicle/Speeder;5;4;5;W;0
+Circuit Challenger;LAW-255-C;Ground Unit;Vehicle/Speeder;5;4;5;W;1
 Citadel Research Center;LAW-029-R;Base;Scarif;26;Y;0
 City in the Clouds;JTL-019-C;Base;Cloud City;30;U;1
 Clan Challengers;SHD-169-C;Ground Unit;Mandalorian/Trooper;5;3;6;R;3
@@ -576,11 +576,11 @@ Execute Order 66;TWI-239-R;Event;B;0
 Executor, Might of the Empire;JTL-090-L;Space Unit;G/B;0
 Exegol Patroller;LOF-080-C;Space Unit;G/B;3 # 1 foil
 Exiled from the Force;SEC-054-R;Event;U;1
-Expendable Mercenary;LAW-159-C;Ground Unit;Underworld/Bounty Hunter;4;3;3;G;0
+Expendable Mercenary;LAW-159-C;Ground Unit;Underworld/Bounty Hunter;4;3;3;G;1 # 1 hyperspace
 Eye of Sion, To Peridea;LOF-088-R;Space Unit;G/B;1
 Ezra Bridger, Attuned With Life;LOF-046-U;Ground Unit;U/W;2
 Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;3
-Ezra Bridger, Spectre Six;LAW-035-U;Ground Unit;Force/Rebel/Spectre;4;4;5;U/G/W;0
+Ezra Bridger, Spectre Six;LAW-035-U;Ground Unit;Force/Rebel/Spectre;4;4;5;U/G/W;1
 Face Off;JTL-178-U;Event;R;2
 Faith in Your Friends;SEC-211-U;Event;Y/W;3
 Falchion Ion Tank;TWI-065-C;Ground Unit;U;3 # 1 foil
@@ -729,7 +729,7 @@ Hailfire Tank;TWI-233-C;Ground Unit;B;3
 Han Solo, Audacious Smuggler;SOR-017-R;Leader;Y/W;1 # 1 hyperspace
 Han Solo, Has His Moments;JTL-203-L;Ground Unit;Y/W;0
 Han Solo, Hibernation Sick;LAW-037-S;Ground Unit;Rebel;1;1;1;U/G;0
-Han Solo, I Got a Really Good Feeling;LAW-017-C;Leader;Underworld;5;3;5;Y/W;0
+Han Solo, I Got a Really Good Feeling;LAW-017-C;Leader;Underworld;5;3;5;Y/W;1
 Han Solo, Never Tell Me the Odds;JTL-017-S;Leader;Y/W;1
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;3 # 1 hyperspace
 Han Solo, Scruffy-Looking Nerf Herder;IBH-010-S/IBH-042-S;Ground Unit;Y/W;0
@@ -737,7 +737,7 @@ Han Solo, Worth the Risk;SHD-013-C;Leader;R/W;1 # 1 hyperspace
 Han's Golden Dice;LAW-225-U;Upgrade;Item;1;0;0;Y/W;0
 Hardpoint Heavy Blaster;SOR-121-U;Upgrade;G;3
 Haxion Aggressor;LAW-190-C;Ground Unit;Underworld/Bounty Hunter;2;2;2;R;0
-Haymaker;LAW-168-C;Event;Tactic;4;G;0
+Haymaker;LAW-168-C;Event;Tactic;4;G;1
 Headhunter Squadron;TWI-253-C;Space Unit;N;2
 Headhunting;SHD-145-U;Event;R/B;3
 Heartless Tactics;JTL-194-U;Event;Y/B;3 # 1 foil
@@ -838,7 +838,7 @@ Incinerator Trooper;SHD-234-S;Ground Unit;B;3
 Independent Senator;TWI-206-U;Ground Unit;Y;3
 Independent Smuggler;JTL-211-C;Ground Unit;Y;3
 Indoctrinated Conscript;JTL-236-C;Ground Unit;B;2
-Industrious Team;LAW-124-C;Ground Unit;Underworld/Bounty Hunter;8;4;7;U;0
+Industrious Team;LAW-124-C;Ground Unit;Underworld/Bounty Hunter;8;4;7;U;1
 Infantry of the 212th;TWI-061-C;Ground Unit;U;2
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;3
 Infiltrating Demolisher;TWI-182-C;Ground Unit;B/Y;2
@@ -1011,7 +1011,7 @@ Lom Pyke, Dealer in Truths;SHD-032-R;Ground Unit;U/B;1 # 1 hyperspace
 Longbeam Cruiser;LOF-253-C;Space Unit;W;3 # 1 foil
 Look the Other Way;SHD-227-C;Event;Y;3
 Lor San Tekka, Secret Keeper;LOF-095-U;Ground Unit;G/W;2
-Lost and Forgotten;LAW-133-C;Event;Innate;6;U;0
+Lost and Forgotten;LAW-133-C;Event;Innate;6;U;1
 Lost Jedi;SEC-058-C;Ground Unit;U;3 # 1 foil, 1 hyperspace
 Loth-Cat;LOF-207-C;Ground Unit;Y;3
 Loth-Wolf;LOF-044-C;Ground Unit;U/W;3
@@ -1070,7 +1070,7 @@ MC30 Assault Frigate;JTL-118-C;Space Unit;G;3 # 1 hyperfoil, 1 hyperspace
 Medal Ceremony;SOR-245-C;Event;W;3
 Medical Frigate;LOF-250-C;Space Unit;W;3
 Mercenary Company;SOR-117-C/SHD-121-C;Ground Unit;G;3
-Mercenary Fleet;LAW-164-C;Space Unit;Underworld/Vehicle/Fighter/Transport;9;10;10;G;0
+Mercenary Fleet;LAW-164-C;Space Unit;Underworld/Vehicle/Fighter/Transport;9;10;10;G;1
 Mercenary Gunship;SHD-256-U;Space Unit;N;3 # 1 foil
 Merciless Contest;TWI-238-C;Event;B;3
 Merrin, Alone with the Dead;LOF-160-U;Ground Unit;R;3
@@ -1201,7 +1201,7 @@ Partisan Hideout;LAW-030-C;Base;Segra Milo;27;Y;0
 Partisan Infantry;LAW-154-C;Ground Unit;Rebel/Trooper;2;2;3;G;0
 Partisan Insurgent;SOR-159-C;Ground Unit;R;3
 Partisan U-Wing;LAW-161-C;Space Unit;Rebel/Vehicle/Transport;5;3;5;G;0
-Patient Hunter;LAW-073-U;Ground Unit;Bounty Hunter;4;3;3;G/Y;0
+Patient Hunter;LAW-073-U;Ground Unit;Bounty Hunter;4;3;3;G/Y;1
 Patrolling AAT;TWI-232-C;Ground Unit;B;3
 Patrolling V-Wing;SOR-111-C/TWI-107-S;Space Unit;G;3
 Pau City;TWI-019-R;Base;U;0
@@ -1332,7 +1332,7 @@ Regional Sympathizers;SOR-243-C;Ground Unit;W;3 # 1 hyperfoil
 Regulations Bureaucrat;SEC-216-C;Ground Unit;Y;3 # 1 hyperspace, 1 foil
 Reinforcement Walker;SOR-119-U;Ground Unit;G;3
 Relentless Firespray;JTL-157-R;Space Unit;R;1
-Relentless Hunters;LAW-196-C;Ground Unit;Bounty Hunter;4;5;4;R;0
+Relentless Hunters;LAW-196-C;Ground Unit;Bounty Hunter;4;5;4;R;1
 Relentless Pursuit;SHD-232-C;Event;Y;3 # 1 hyperfoil, 1 hyperspace
 Relentless Rocket Droid;TWI-163-C;Ground Unit;R;3 # 1 hyperspace
 Relentless, Konstantine's Folly;SOR-089-R;Space Unit;G/B;1
