@@ -65,6 +65,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     'Mystery Booster 2: Convention Edition Eternal', "The Brothers' War Transformers Cards",
     "Magic: The Gathering Universes Beyond - FINAL FANTASY", 'Lorwyn Eclipsed Commander',
     'DCI Promos', 'Secrets of Strixhaven Commander',
+    'PRM - Magic: The Gathering | Teenage Mutant Ninja Turtles',
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
