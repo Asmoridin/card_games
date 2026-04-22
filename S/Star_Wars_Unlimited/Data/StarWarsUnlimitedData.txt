@@ -344,17 +344,17 @@ Commence the Festivities;LAW-202-C;Event;Plan;1;R;0
 Commission;SHD-127-U;Event;Supply;1;G;2
 Common Cause;LAW-167-C;Event;Innate;2;G;0
 Compassionate Senator;TWI-056-U;Ground Unit;Republic/Official;1;U;1
+Concord Dawn Interceptors;SHD-042-U;Space Unit;Mandalorian/Vehicle/Fighter;3;1;4;U/W;3 # 1 hyperspace
+Condemn;SEC-038-R;Upgrade;Condition;3;0;0;U/B;2
+Confederate Courier;TWI-079-C;Space Unit;Separatist/Vehicle/Fighter;2;2;1;B/G;3
+Confederate Tri-Fighter;TWI-132-U;Space Unit;Separatist/Droid/Vehicle/Fighter;3;3;3;R/B;1
+Confidence in Victory;SEC-145-L;Event;Gambit;10;R/B;1
+Confiscate;SOR-251-C/SHD-262-S;Event;Law;1;N;3 # 1 hyperspace, 1 foil
+Congress of Malastare;SEC-064-C;Ground Unit;Republic/Official;5;5;5;U;3
+Consolidation of Power;TWI-089-R;Event;Plan;6;G/B;0
+Consortium StarViper;SOR-112-C;Space Unit;Fringe/Vehicle/Fighter;3;3;3;G;3
+Constructed Lightsaber;LOF-261-L;Upgrade;Item/Weapon/Lightsaber;3;2;3;N;1
 # done through here
-Concord Dawn Interceptors;SHD-042-U;Space Unit;U/W;3 # 1 hyperspace
-Condemn;SEC-038-R;Upgrade;U/B;2
-Confederate Courier;TWI-079-C;Space Unit;B/G;3
-Confederate Tri-Fighter;TWI-132-U;Space Unit;R/B;1
-Confidence in Victory;SEC-145-L;Event;R/B;1
-Confiscate;SOR-251-C/SHD-262-S;Event;N;3 # 1 hyperspace, 1 foil
-Congress of Malastare;SEC-064-C;Ground Unit;U;3
-Consolidation of Power;TWI-089-R;Event;G/B;0
-Consortium StarViper;SOR-112-C;Space Unit;G;3
-Constructed Lightsaber;LOF-261-L;Upgrade;N;1
 Consular Security Force;SOR-046-C;Ground Unit;U/W;3
 Consular's Cruiser;SEC-117-C;Space Unit;G;3 # 1 foil
 Consumed by the Dark Side;LOF-239-C;Event;B;1
@@ -1861,3 +1861,8 @@ Fiery Alliance;TS26-25-U;Upgrade;Innate;2;2;2;G/R;0
 Mother Talzin, Stealing the Spirit;TS26-26-R;Ground Unit;Force/Night;5;5;4;G/Y/B;0
 Fortune and Glory, Hondo's Luxury Yacht;TS26-27-U;Space Unit;Underworld/Vehicle/Transport;4;3;5;G/Y;0
 Prime Minister Almec, Scheming Populist;TS26-28-R;Ground Unit;Mandalorian/Official;4;2;4;G/Y;0
+Ziton Moj, Sowing Chaos;TS26-29-R;Ground Unit;Underworld;4;4;4;R/Y/B;0
+Maul, One Last Lesson;TS26-30-U;Ground Unit;Force/Underworld;4;5;4;R/Y;0
+Chaotic Diversion;TS26-31-R;Event;Tactic/Trick;1;R/Y;0
+Reckless Landing;TS26-32-R;Event;Gambit;2;R/Y;0
+Kouhun Assassination;TS26-33-R;Event;Gambit;3;Y/U/B;0
