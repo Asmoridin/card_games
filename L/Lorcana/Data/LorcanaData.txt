@@ -26,7 +26,7 @@ Aladdin - Research Assistant;Character;Steel;Storyborn/Hero;Archazia's Island (R
 Aladdin - Resolute Swordsman;Character;Steel;Storyborn/Hero;Ursula's Return (Common);3
 Aladdin - Street Rat;Character;Ruby;Storyborn/Hero;The First Chapter (Common);4
 Aladdin - Vigilant Guard;Character;Sapphire/Steel;Dreamborn/Hero/Prince;Reign of Jafar (Rare);0
-Alan-a-Dale - Rockin' Rooster;Character;Amber;Storyborn/Ally;Shimmering Skies (Uncommon);1
+Alan-a-Dale - Rockin' Rooster;Character;Amber;Storyborn/Ally;Shimmering Skies (Uncommon);2
 Alice - Accidentally Adrift;Character;Sapphire;Storyborn/Hero;Fabled (Rare);1
 Alice - Clumsy as Can Be;Character;Emerald/Ruby;Floodborn/Hero;Reign of Jafar (Rare);0
 Alice - Courageous Keyholder;Character;Ruby;Storyborn/Hero;Reign of Jafar (Common);0
@@ -131,7 +131,7 @@ Basil - Practiced Detective;Character;Sapphire;Storyborn/Hero/Detective;Shimmeri
 Basil - Secret Informer;Character;Emerald;Dreamborn/Hero/Detective;Archazia's Island (Rare);0
 Basil - Tenacious Mouse;Character;Steel;Dreamborn/Hero/Detective;Whispers in the Well (Common);0
 Basil - Undercover Detective;Character;Emerald;Dreamborn/Hero/Detective;Reign of Jafar (Rare);1
-Basil's Magnifying Glass;Item;Sapphire;;Shimmering Skies (Rare);0
+Basil's Magnifying Glass;Item;Sapphire;;Shimmering Skies (Rare);1
 Battering Ram;Item;Emerald;;Winterspell (Rare);0
 Baymax - Armored Companion;Character;Sapphire;Storyborn/Hero/Robot;Azurite Sea (Legendary);0
 Baymax - Giant Robot;Character;Emerald/Sapphire;Floodborn/Hero/Robot;Archazia's Island (Uncommon);0
@@ -384,17 +384,17 @@ Develop Your Brain;Action;Sapphire;;The First Chapter (Common)/Fabled (Common);4
 Devil's Eye Diamond;Item;Ruby;;Archazia's Island (Rare);2
 Dewey - Lovable Showoff;Character;Amber;Storyborn/Ally;Reign of Jafar (Common);1
 Dewey - Showy Nephew;Character;Sapphire;Dreamborn/Ally;Into the Inklands (Uncommon)/Fabled (Uncommon);2
-# Traits done through here
-Diablo - Devoted Herald;Character;Emerald;;Ursula's Return (Legendary);0
-Diablo - Faithful Pet;Character;Amethyst;;Into the Inklands (Common);0
-Diablo - Maleficent's Spy;Character;Emerald;;Ursula's Return (Common);0
-Diablo - Obedient Raven;Character;Amethyst;;Azurite Sea (Uncommon);1
-Diablo - Spiteful Raven;Character;Amethyst/Emerald;;Archazia's Island (Uncommon);0
-Diablo - Watchful Raven;Character;Ruby;;Whispers in the Well (Rare);0
-Dig a Little Deeper;Action;Sapphire;;Ursula's Return (Uncommon)/Fabled (Uncommon);4
+Diablo - Devoted Herald;Character;Emerald;Floodborn/Ally;Ursula's Return (Legendary);0
+Diablo - Faithful Pet;Character;Amethyst;Dreamborn/Ally;Into the Inklands (Common);0
+Diablo - Maleficent's Spy;Character;Emerald;Storyborn/Ally;Ursula's Return (Common);0
+Diablo - Obedient Raven;Character;Amethyst;Storyborn/Ally;Azurite Sea (Uncommon);1
+Diablo - Spiteful Raven;Character;Amethyst/Emerald;Storyborn/Ally;Archazia's Island (Uncommon);0
+Diablo - Watchful Raven;Character;Ruby;Storyborn/Ally;Whispers in the Well (Rare);0
+Dig a Little Deeper;Action;Sapphire;Song;Ursula's Return (Uncommon)/Fabled (Uncommon);4
 Dinglehopper;Item;Amber;;The First Chapter (Common);3
 Dinky - Has the Brains;Character;Emerald;Storyborn/Ally;Winterspell (Common);0
 Dinner Bell;Item;Ruby;;Rise of the Floodborn (Rare)/Fabled (Rare);0
+# Traits done through here
 Distract;Action;Sapphire;;Into the Inklands (Common)/Winterspell (Common);0
 Divebomb;Action;Ruby;;Into the Inklands (Uncommon);1
 Do It Again!;Action;Emerald;;The First Chapter (Rare);0
@@ -429,7 +429,7 @@ Donald Duck - Ruby Champion;Character;Ruby;;Whispers in the Well (Rare);0
 Donald Duck - Sleepwalker;Character;Emerald;;Rise of the Floodborn (Common)/Fabled (Common);3
 Donald Duck - Strutting His Stuff;Character;Sapphire;;The First Chapter (Common);1
 Dopey - Always Playful;Character;Amber;;Rise of the Floodborn (Uncommon);0
-Dopey - Knight Apprentice;Character;Steel;;Shimmering Skies (Common);0
+Dopey - Knight Apprentice;Character;Steel;;Shimmering Skies (Common);1
 Dormouse - Easily Agitated;Character;Emerald/Ruby;;Reign of Jafar (Uncommon);2
 Double Trouble;Action;Steel;;Archazia's Island (Uncommon);0
 Down in New Orleans;Action;Sapphire;;Reign of Jafar (Super Rare);0
@@ -457,7 +457,7 @@ Dumbo - Ninth Wonder of the Universe;Character;Amethyst;;Fabled (Legendary);0
 Dumbo - The Flying Elephant;Character;Amethyst;;Fabled (Uncommon);1
 Dumptruck - Karnage's Second Mate;Character;Steel;;Reign of Jafar (Common);0
 Earth Giant - Living Mountain;Character;Amethyst;;Shimmering Skies (Common);1
-Ed - Hysterical Partygoer;Character;Emerald;;Shimmering Skies (Uncommon);0
+Ed - Hysterical Partygoer;Character;Emerald;;Shimmering Skies (Uncommon);1
 Ed - Laughing Hyena;Character;Emerald;;Shimmering Skies (Common);0
 Edgar Balthazar - Ambitious Butler;Character;Ruby;;Archazia's Island (Common);2
 Education or Elimination;Action;Emerald;Song;Winterspell (Rare);0
@@ -1078,7 +1078,7 @@ Maleficent - Monstrous Dragon;Character;Ruby;;The First Chapter (Legendary)/Fabl
 Maleficent - Sinister Visitor;Character;Sapphire;;The First Chapter (Common);4
 Maleficent - Sorceress;Character;Amethyst;;The First Chapter (Common);3
 Maleficent - Uninvited;Character;Sapphire;;The First Chapter (Rare);1
-Maleficent - Vengeful Sorceress;Character;Amethyst;;Shimmering Skies (Common);0
+Maleficent - Vengeful Sorceress;Character;Amethyst;;Shimmering Skies (Common);1
 Maleficent - Vexed Partygoer;Character;Amethyst;;Shimmering Skies (Uncommon);0
 Maleficent's Staff;Item;Amethyst;;Azurite Sea (Rare);0
 Malicious, Mean, and Scary;Action;Emerald;Song;Whispers in the Well (Uncommon);1
@@ -1119,7 +1119,7 @@ Maximux - Palace Horse;Character;Amber;;The First Chapter (Super Rare);0
 Mayor Winddancer - Actor-Turned-Politician;Character;Steel;;Whispers in the Well (Rare);0
 McDuck Manor - Scrooge's Mansion;Location;Sapphire;;Into the Inklands (Common);0
 McHorn - Ice‐Cold Officer;Character;Steel;Dreamborn/Ally/Detective;Winterspell (Common);1
-Medal of Heroes;Item;Sapphire;;Shimmering Skies (Common);3
+Medal of Heroes;Item;Sapphire;;Shimmering Skies (Common);4
 Medallion Weights;Item;Ruby;;Ursula's Return (Uncommon)/Fabled (Uncommon);2
 Meeko - Skittish Scrounger;Character;Amethyst;Storyborn/Ally;Winterspell (Uncommon);0
 Megabot;Item;Emerald;;Azurite Sea (Uncommon);0
@@ -1482,7 +1482,7 @@ Prince Naveen - Vigilant First Mate;Character;Amber;;Azurite Sea (Uncommon);1
 Prince Phillip - Dragonslayer;Character;Amber;;The First Chapter (Uncommon);0
 Prince Phillip - Gallant Defender;Character;Sapphire;;Ursula's Return (Uncommon);1
 Prince Phillip - Royal Explorer;Character;Emerald;;Azurite Sea (Uncommon);0
-Prince Phillip - Swordsman of the Realm;Character;Emerald;;Shimmering Skies (Super Rare);0
+Prince Phillip - Swordsman of the Realm;Character;Emerald;;Shimmering Skies (Super Rare);1
 Prince Phillip - Vanquisher of Foes;Character;Emerald;;Ursula's Return (Super Rare)/Fabled (Super Rare);0
 Prince Phillip - Warden of the Woods;Character;Emerald;;Ursula's Return (Rare)/Fabled (Rare);0
 Promising Lead;Action;Sapphire;;Whispers in the Well (Common);0
@@ -1556,7 +1556,7 @@ Razoul - Palace Guard;Character;Steel;;Into the Inklands (Common);0
 Record Player;Item;Amber;;Ursula's Return (Common);0
 Recovered Page;Item;Amber;;Whispers in the Well (Uncommon);0
 Reflection;Action;Amethyst;;The First Chapter (Uncommon);1
-Remember Who You Are;Action;Emerald;;Shimmering Skies (Rare);0
+Remember Who You Are;Action;Emerald;;Shimmering Skies (Rare);1
 Repair;Action;Sapphire;;Into the Inklands (Common);0
 Rescue Rangers Away!;Action;Amber;;Azurite Sea (Uncommon);1
 Rescue Rangers Submarine;Location;Sapphire;;Azurite Sea (Rare);2
@@ -1574,7 +1574,7 @@ Ring the Bell;Action;Emerald;;Rise of the Floodborn (Uncommon);1
 Rise of the Titans;Action;Steel;;Into the Inklands (Uncommon);1
 RLS Legacy - Solar Galleron;Location;Ruby;;Into the Inklands (Rare);0
 RLS Legacy's Cannon;Item;Steel;;Ursula's Return (Uncommon);0
-Robin Hood - Archery Contestant;Character;Emerald;;Shimmering Skies (Common);0
+Robin Hood - Archery Contestant;Character;Emerald;;Shimmering Skies (Common);1
 Robin Hood - Beloved Outlaw;Character;Steel;;Into the Inklands (Common);4
 Robin Hood - Capable Fighter;Character;Steel;;Rise of the Floodborn (Uncommon)/Fabled (Uncommon);0
 Robin Hood - Champion of Sherwood;Character;Steel;;Into the Inklands (Legendary)/Fabled (Legendary);0
@@ -1646,7 +1646,7 @@ Second Star to the Right;Action;Amethyst;;Ursula's Return (Rare)/Fabled (Rare);1
 Seeking the Half Crown;Action;Amethyst;;Azurite Sea (Rare);0
 Seldom All They Seem;Action;Sapphire;;Ursula's Return (Common);2
 Sergeant Tibbs - Courageous Cat;Character;Ruby;;The First Chapter (Common)/Fabled (Common);4
-Seven Dwarfs' Mine - Secure Fortress;Location;Steel;;Shimmering Skies (Uncommon);0
+Seven Dwarfs' Mine - Secure Fortress;Location;Steel;;Shimmering Skies (Uncommon);1
 Shanti - Village Girl;Character;Amber;Storyborn/Ally;Whispers in the Well (Common);2
 She's Your Person;Action;Amber/Steel;;Reign of Jafar (Uncommon);0
 Shenzi - Head Hyena;Character;Emerald;;Shimmering Skies (Rare);0
@@ -1768,7 +1768,7 @@ Sword of Truth;Item;Ruby;;The First Chapter (Rare);0
 Swordplay;Action;Amethyst;;Winterspell (Common);0
 Tadashi Hamada - Baymax Inventor;Character;Sapphire;;Azurite Sea (Super Rare);0
 Tadashi Hamada - Gifted Roboticist;Character;Sapphire;;Azurite Sea (Rare);0
-Taffyta Muttonfudge - Crowd Favorite;Character;Ruby;;Shimmering Skies (Common);0
+Taffyta Muttonfudge - Crowd Favorite;Character;Ruby;;Shimmering Skies (Common);1
 Taffyta Muttonfudge - Ruthless Rival;Character;Ruby;;Shimmering Skies (Uncommon);0
 Taffyta Muttonfudge - Sour Speedster;Character;Ruby;;Shimmering Skies (Uncommon);0
 Tamatoa - Drab Little Crab;Character;Emerald;;The First Chapter (Uncommon);0
@@ -1943,7 +1943,7 @@ Tuk Tuk - Big Buddy;Character;Steel;;Azurite Sea (Uncommon);0
 Tuk Tuk - Disarmingly Cute;Character;Steel;;Archazia's Island (Common);0
 Tuk Tuk - Lively Partner;Character;Ruby;;Ursula's Return (Uncommon)/Fabled (Uncommon);0
 Tuk Tuk - Wrecking Ball;Character;Ruby;;Rise of the Floodborn (Rare);0
-Tuke - Northern Moose;Character;Amber;;Shimmering Skies (Common);0
+Tuke - Northern Moose;Character;Amber;;Shimmering Skies (Common);1
 Turbo - Royal Hack;Character;Ruby;;Shimmering Skies (Uncommon);1
 Tweedle Dee & Tweedle Dum - Strange Storytellers;Character;Emerald/Ruby;;Archazia's Island (Uncommon);0
 Twin Fire;Action;Steel;;Azurite Sea (Common);0

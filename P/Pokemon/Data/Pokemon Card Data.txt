@@ -918,6 +918,7 @@ Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)
 Iron Hands ex;Pokemon;Lightning;230;;Arm Press|Amp You Very Much;PAR 70 (Double Rare)/PAR 223 (Ultra Rare)/PAR 248 (Special Illustration Rare)/PRE 31 (Double Rare)/PRE 154 (Special Illustration Rare);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
+Slither Wing;Pokemon;Fighting;140;;Stomp Off|Burning Turbulence;PAR 41 (Uncommon)/PAR 203 (Illustration Rare);G;4;0
 Brute Bonnet;Pokemon;Darkness;120;Toxic Powder;Rampaging Hammer;PAR 123 (Rare)/PAR 207 (Illustration Rare);G;4;0
 Roaring Moon ex;Pokemon;Darkness;230;;Frenzied Gouging|Calamity Storm;PAR 124 (Double Rare)/PAR 229 (Ultra Rare)/PAR 251 (Special Illustration Rare)/PAR 262 (Hyper Rare)/SVP 67 (Promo)/PRE 162 (Special Illustration Rare);G;4;0
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
@@ -978,6 +979,7 @@ Neo Upper Energy;Energy;Special Energy;;;;TEF 162 (ACE SPEC Rare);H;2;0
 
 # Twilight Masquerade TWM
 Grookey;Pokemon;Grass;70;;Smash Kick|Branch Poke;TWM 14 (Common);H;4;0
+Thwackey;Pokemon;Grass;100;Boom Boom Groove;Beat;TWM 15 (Common)/SVP 115 (Promo);H;4;0
 Dipplin;Pokemon;Grass;80;Festival Lead;Do the Wave;TWM 18 (Uncommon)/TWM 170 (Illustration Rare)/PRE 10 (Uncommon);H;4;0
 Teal Mask Ogerpon ex;Pokemon;Grass;210;Teal Dance;Myriad Leaf Shower;TWM 25 (Double Rare)/TWM 190 (Ultra Rare)/TWM 211 (Special Illustration Rare)/TWM 221 (Hyper Rare)/SVP 166 (Promo)/PRE 12 (Double Rare)/PRE 145 (Special Illustration Rare)/PRE 177 (Hyper Rare);H;4;0
 Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
@@ -1072,6 +1074,7 @@ Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # Prismatic Evolutions
 Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Illustration Rare);H;4;0
+Seaking;Pokemon;Water;110;Festival Lead;Rapid Draw;PRE 21 (Uncommon);H;4;0
 Hoothoot;Pokemon;Colorless;80;Insomnia;Tackle;PRE 77 (Common);H;4;0
 Regigigas;Pokemon;Colorless;160;;Jewel Breaker;PRE 86 (Uncommon);H;4;0
 Black Belt's Training;Trainer;Supporter;;;;PRE 96 (Common)/PRE 97 (Common)/PRE 98 (Common)/PRE 99 (Common)/JTG 143 (Common)/JTG 144 (Common)/JTG 145 (Common)/SVP 220 (Promo)/ASC 255 (Ultra Rare);H;4;0
@@ -1098,10 +1101,17 @@ Floragato;Pokemon;Grass;90;;Magical Leaf;JTG 17 (Common);I;4;0
 Meowscarada;Pokemon;Grass;160;Showtime;Rising Bloom;JTG 18 (Rare);I;4;0
 Nymble;Pokemon;Grass;50;;Reak Kick;JTG 19 (Common);H;4;0
 Magmar;Pokemon;Fire;80;;Searing Flame;JTG 20 (Common);I;4;0
-
+Magmortar;Pokemon;Fire;130;Magma Surge;Searing Flame;JTG 21 (Rare);I;4;0
+Torchic;Pokemon;Fire;60;;Scratch;JTG 22 (Common);H;4;0
+Combusken;Pokemon;Fire;90;;Slash;JTG 23 (Uncommon);H;4;0
 Blaziken ex;Pokemon;Fire;320;Seething Spirit;Smolder-sault;JTG 24 (Double Rare);H;4;0
+Torkoal;Pokemon;Fire;130;;Live Coal|Heat Blast;JTG 25 (Common);H;4;0
 N's Darumaka;Pokemon;Fire;80;;Rolling Tackle|Flare;JTG 26 (Common)/ASC 32 (Common);I;4;0
 N's Darmanitan;Pokemon;Fire;140;;Back Draft|Flamebody Cannon;JTG 27 (Uncommon)/SVP 181 (Promo)/ASC 33 (Uncommon);I;4;0
+Larvesta;Pokemon;Fire;80;;Will-O-Wisp;JTG 28 (Common);H;4;0
+Volcarona;Pokemon;Fire;140;;Smoldering Scales;JTG 29 (Uncommon);H;4;0
+Reshiram ex;Pokemon;Fire;220;;Fire Wing|Scorching Fire;JTG 30 (Double Rare);H;4;0
+
 Iono's Tadbulb;Pokemon;Lightning;60;;Tiny Charge;JTG 52 (Common)/ASC 69 (Common);I;4;0
 Iono's Bellibolt ex;Pokemon;Lightning;280;Electric Streamer;Thunderous Bolt;JTG 53 (Double Rare)/JTG 172 (Ultra Rare)/JTG 183 (Special Illustration Rare)/JTG 188 (Hyper Rare)/SVP 194 (Promo)/ASC 70 (Double Rare)/ASC 279 (Special Illustration Rare);I;4;0
 Iono's Wattrel;Pokemon;Lightning;60;;Quick Attack;JTG 54 (Common)/ASC 71 (Common)/ASC 231 (Illustration Rare);I;4;0
