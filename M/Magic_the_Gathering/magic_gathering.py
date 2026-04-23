@@ -530,9 +530,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Archenemy'
-CHECK_AMOUNT = 196
-SET_CHECK += 9 # Extra basic lands
+CHECK_SET = 'Magic 2011'
+CHECK_AMOUNT = 249
+SET_CHECK += 15 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0

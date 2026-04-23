@@ -64,7 +64,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     'Magic: The Gathering | Avatar: The Last Airbender Jumpstart', 'Gift Pack', 'Promo Cards 2025',
     'Mystery Booster 2: Convention Edition Eternal', "The Brothers' War Transformers Cards",
     "Magic: The Gathering Universes Beyond - FINAL FANTASY", 'Lorwyn Eclipsed Commander',
-    'DCI Promos', 'Secrets of Strixhaven Commander',
+    'DCI Promos', 'Secrets of Strixhaven Commander', 'Secrets of Strixhaven Mystical Archive',
     'PRM - Magic: The Gathering | Teenage Mutant Ninja Turtles',
     ]
 
@@ -95,7 +95,7 @@ STANDARD_SETS = ["Wilds of Eldraine", "The Lost Caverns of Ixalan", "Murders at 
     "Tarkir: Dragonstorm", "Magic: The Gathering—FINAL FANTASY", "Edge of Eternities",
     "Magic: The Gathering | Marvel's Spider-Man",
     "Magic: The Gathering | Avatar: The Last Airbender", 'Lorwyn Eclipsed',
-    'Magic: The Gathering | Teenage Mutant Ninja Turtles']
+    'Magic: The Gathering | Teenage Mutant Ninja Turtles', 'Secrets of Strixhaven']
 
 # These sets are legal in Pioneer, Modern, and older formats
 PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 Core Set", "Theros",
