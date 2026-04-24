@@ -7,7 +7,7 @@ Abu - Illusory Pachyderm;Character;Amethyst/Steel;Dreamborn/Ally/Illusion;Reign 
 Abu - Mischievous Monkey;Character;Ruby;Storyborn/Ally;The First Chapter (Common);0
 Adelaide Bonfamille - Patron of the Arts;Character;Sapphire;Storyborn/Ally;Reign of Jafar (Common);0
 Adorabeezle Winterpop - Ice Rocket Racer;Character;Ruby;Storyborn/Hero/Racer;Azurite Sea (Common);1
-Agnarr - King of Arendelle;Character;Ruby;Storyborn/Mentor/King;Winterspell (Common);0
+Agnarr - King of Arendelle;Character;Ruby;Storyborn/Mentor/King;Winterspell (Common);1
 Agrabah - Marketplace;Location;Ruby;;Into the Inklands (Common)/Fabled (Common);4
 Agustin Madrigal - Clumsy Dad;Character;Amber;Storyborn/Mentor/Madrigal;Ursula's Return (Common);4
 Airfoil;Item;Emerald;;Into the Inklands (Common);0
@@ -44,7 +44,7 @@ Amber Coil;Item;Amber;;Archazia's Island (Uncommon);0
 Ambush!;Action;Steel;;Azurite Sea (Rare);0
 Amethyst Chromicon;Item;Amethyst;;Shimmering Skies (Uncommon);0
 Amethyst Coil;Item;Amethyst;;Archazia's Island (Uncommon);0
-Amos Slade - Tenacious Tracker;Character;Steel;Storyborn;Winterspell (Common);0
+Amos Slade - Tenacious Tracker;Character;Steel;Storyborn;Winterspell (Common);1
 Anastasia - Bossy Stepsister;Character;Emerald;Storyborn/Ally;Archazia's Island (Uncommon);0
 And Then Along Came Zeus;Action;Steel;Song;Into the Inklands (Rare);0
 Angel - Experiment 624;Character;Steel;Storyborn/Ally/Alien;Winterspell (Legendary);0
@@ -156,7 +156,7 @@ Beast - Thick-Skinned;Character;Steel;Storyborn/Hero/Prince;Ursula's Return (Com
 Beast - Tragic Hero;Character;Steel;Floodborn/Hero/Prince;Rise of the Floodborn (Legendary);0
 Beast - Wolfsbane;Character;Emerald;Dreamborn/Hero/Prince;The First Chapter (Legendary);0
 Beast - Wounded;Character;Ruby;Storyborn/Hero/Prince;Ursula's Return (Uncommon);0
-Beast's Castle - Winter Gardens;Location;Ruby;;Winterspell (Common);0
+Beast's Castle - Winter Gardens;Location;Ruby;;Winterspell (Common);1
 Beast's Mirror;Item;Steel;;The First Chapter (Common)/Fabled (Common);1
 Befuddle;Action;Amethyst;;The First Chapter (Uncommon);0
 Begone!;Action;Amethyst;;Whispers in the Well (Common);0
@@ -260,7 +260,7 @@ Chef Louis - In Over His Head;Character;Sapphire;Storyborn;Whispers in the Well 
 Chem Purse;Item;Emerald;;Reign of Jafar (Common);0
 Chernabog - Creature of the Night;Character;Amethyst;Storyborn/Villain;Archazia's Island (Rare);0
 Chernabog - Evildoer;Character;Amber;Storyborn/Villain;Into the Inklands (Super Rare);1
-Chernabog - Unnatural Force;Character;Emerald;Storyborn/Villain;Winterspell (Super Rare);0
+Chernabog - Unnatural Force;Character;Emerald;Storyborn/Villain;Winterspell (Super Rare);1
 Chernabog's Followers - Creatures of Evil;Character;Amethyst;Storyborn/Ally;Into the Inklands (Uncommon);0
 Cheshire Cat - Always Grinning;Character;Emerald;Storyborn;Rise of the Floodborn (Uncommon);0
 Cheshire Cat - From the Shadows;Character;Emerald;Floodborn;Rise of the Floodborn (Super Rare);2
@@ -318,7 +318,7 @@ Come Out and Fight!;Action;Amethyst;;Winterspell (Common);1
 Containment Unit;Item;Steel;;Winterspell (Rare);0
 Control Your Temper!;Action;Amber;;The First Chapter (Common);3
 Copper - Champion of the Forest;Character;Emerald;Floodborn/Hero;Winterspell (Rare);0
-Copper - Hound Pup;Character;Emerald;Storyborn/Hero/Puppy;Winterspell (Common);0
+Copper - Hound Pup;Character;Emerald;Storyborn/Hero/Puppy;Winterspell (Common);1
 Copper - On the Scent;Character;Ruby;Storyborn/Hero;Winterspell (Uncommon);0
 Creeper - Loyal Lackey;Character;Amethyst;Storyborn/Ally;Whispers in the Well (Rare);1
 Cri-Kee - Good Luck Charm;Character;Sapphire;Storyborn/Ally;Whispers in the Well (Common);1
@@ -365,7 +365,7 @@ Darkwing's Chair Set;Item;Sapphire;;Winterspell (Rare);0
 Darkwing's Gas Device;Item;Sapphire;;Winterspell (Uncommon);1
 Darling Dear - Beloved Wife;Character;Amber;Storyborn/Ally;Reign of Jafar (Common);0
 David - Impressive Surfer;Character;Amber;Storyborn/Ally;Azurite Sea (Uncommon);0
-David - Protective Snowboarder;Character;Amber;Storyborn/Ally;Winterspell (Common);0
+David - Protective Snowboarder;Character;Amber;Storyborn/Ally;Winterspell (Common);1
 David Xanatos - Charismatic Leader;Character;Ruby;Storyborn/Villain;Whispers in the Well (Super Rare);0
 David Xanatos - Steel Clan Leader;Character;Steel;Storyborn/Villain;Whispers in the Well (Uncommon);2
 Dawson - Basil's Assistant;Character;Emerald;Storyborn/Ally;Azurite Sea (Common);1
@@ -394,19 +394,19 @@ Dig a Little Deeper;Action;Sapphire;Song;Ursula's Return (Uncommon)/Fabled (Unco
 Dinglehopper;Item;Amber;;The First Chapter (Common);3
 Dinky - Has the Brains;Character;Emerald;Storyborn/Ally;Winterspell (Common);0
 Dinner Bell;Item;Ruby;;Rise of the Floodborn (Rare)/Fabled (Rare);0
-# Traits done through here
-Distract;Action;Sapphire;;Into the Inklands (Common)/Winterspell (Common);0
+Distract;Action;Sapphire;;Into the Inklands (Common)/Winterspell (Common);2
 Divebomb;Action;Ruby;;Into the Inklands (Uncommon);1
 Do It Again!;Action;Emerald;;The First Chapter (Rare);0
 Do You Want to Build a Snowman?;Action;Amethyst;Song;Winterspell (Rare);0
-Doc - Bold Knight;Character;Steel;;Shimmering Skies (Rare);0
-Doc - Leader of the Seven Dwarfs;Character;Amber;;Rise of the Floodborn (Uncommon);0
+Doc - Bold Knight;Character;Steel;Dreamborn/Ally/Knight/Seven Dwarfs;Shimmering Skies (Rare);0
+Doc - Leader of the Seven Dwarfs;Character;Amber;Storyborn/Ally/Seven Dwarfs;Rise of the Floodborn (Uncommon);0
 Dodge!;Action;Emerald;;Ursula's Return (Common);0
-Dolores Madrigal - Easy Listener;Character;Amethyst;;Ursula's Return (Common)/Fabled (Common);3
-Dolores Madrigal - Within Earshot;Character;Amethyst;;Archazia's Island (Common);0
-Don Karnage - Air Pirate Leader ;Character;Emerald/Steel;;Reign of Jafar (Uncommon);0
-Don Karnage - Prince of Pirates;Character;Emerald;;Into the Inklands (Common);0
-Don't Let The Frostbite Bite;Action;Ruby;;Shimmering Skies (Rare);0
+Dolores Madrigal - Easy Listener;Character;Amethyst;Storyborn/Ally/Madrigal;Ursula's Return (Common)/Fabled (Common);3
+Dolores Madrigal - Within Earshot;Character;Amethyst;Storyborn/Ally/Madrigal;Archazia's Island (Common);0
+Don Karnage - Air Pirate Leader;Character;Emerald/Steel;Storyborn/Villain/Prince/Pirate;Reign of Jafar (Uncommon);0
+Don Karnage - Prince of Pirates;Character;Emerald;Dreamborn/Villain/Prince/Pirate;Into the Inklands (Common);0
+Don't Let The Frostbite Bite;Action;Ruby;Song;Shimmering Skies (Rare);0
+# Traits done through here
 Donald Duck - Along for the Ride;Character;Steel;Storyborn/Hero;Winterspell (Common);0
 Donald Duck - Boisterous Fowl;Character;Ruby;;The First Chapter (Uncommon);2
 Donald Duck - Buccaneer;Character;Steel;;Ursula's Return (Legendary);0
@@ -441,7 +441,7 @@ Dr. Facilier - Fortune Teller;Character;Emerald;;Rise of the Floodborn (Super Ra
 Dr. Facilier - Remarkable Gentleman;Character;Amethyst;;The First Chapter (Rare);1
 Dr. Facilier - Savvy Opportunist;Character;Amethyst;;Rise of the Floodborn (Common);0
 Dr. Facilier's Cards;Item;Emerald;;The First Chapter (Uncommon);0
-Dr. Hamsterviel - Infamous Scientist;Character;Steel;Storyborn/Villain/Alien/Inventor;Winterspell (Rare);0
+Dr. Hamsterviel - Infamous Scientist;Character;Steel;Storyborn/Villain/Alien/Inventor;Winterspell (Rare);1
 Dragon Fire;Action;Ruby;;The First Chapter (Uncommon)/Whispers in the Well (Common);4
 Dragon Gem;Item;Amber;;Rise of the Floodborn (Rare);0
 Drizella - Spoiled Stepsister;Character;Emerald;;Archazia's Island (Common);1
@@ -794,7 +794,7 @@ Illuminary Tunnels - Linked Caverns;Location;Steel;;Whispers in the Well (Super 
 Imperial Bow;Item;Steel;;Ursula's Return (Uncommon);4
 Imperial Proclamation;Item;Ruby;;Ursula's Return (Uncommon);0
 Improvise;Action;Emerald;;Rise of the Floodborn (Common)/Fabled (Common);4
-Infra‐Pink Ultra Scan Specs;Item;Steel;;Winterspell (Common);0
+Infra‐Pink Ultra Scan Specs;Item;Steel;;Winterspell (Common);1
 Ingenious Device;Item;Steel;;Whispers in the Well (Rare);0
 Ink Amplifier;Item;Sapphire;;Whispers in the Well (Rare);0
 Ink Geyser;Action;Emerald/Sapphire;;Archazia's Island (Rare);0
@@ -956,7 +956,7 @@ Last Stand;Action;Amber;;Rise of the Floodborn (Uncommon);1
 Last-Ditch Effort;Action;Amethyst;;Into the Inklands (Uncommon)/Fabled (Uncommon);0
 Launch;Action;Sapphire;;Rise of the Floodborn (Uncommon);0
 Launchpad - Exceptional Pilot;Character;Emerald;;Whispers in the Well (Common);0
-Launchpad - Hideout Defender;Character;Steel;Dreamborn/Ally;Winterspell (Uncommon);1
+Launchpad - Hideout Defender;Character;Steel;Dreamborn/Ally;Winterspell (Uncommon);2
 Launchpad - Trusty Sidekick;Character;Steel;Storyborn/Ally;Winterspell (Common);0
 Lawrence - Jealous Manservant;Character;Steel;;Rise of the Floodborn (Uncommon)/Fabled (Uncommon);0
 Lead the Way;Action;Ruby;;Azurite Sea (Common);0
@@ -1396,7 +1396,7 @@ Pete - Bad Guy;Character;Emerald;;Rise of the Floodborn (Rare);0
 Pete - Born to Cheat;Character;Emerald;;Ursula's Return (Super Rare);0
 Pete - Freebooter;Character;Ruby;;Azurite Sea (Rare);1
 Pete - Game Referee;Character;Steel;;Shimmering Skies (Uncommon);1
-Pete - Ghost of Christmas Future;Character;Sapphire;Storyborn/Ally/Ghost;Winterspell (Rare);0
+Pete - Ghost of Christmas Future;Character;Sapphire;Storyborn/Ally/Ghost;Winterspell (Rare);1
 Pete - Pastry Chomper;Character;Ruby;;Shimmering Skies (Common);1
 Pete - Pirate Scoundrel;Character;Emerald;;Archazia's Island (Common);0
 Pete - Rotten Guy;Character;Emerald;;Ursula's Return (Uncommon);1
@@ -1506,7 +1506,7 @@ Queen of Hearts - Wonderland Empress;Character;Amber;;Into the Inklands (Uncommo
 Queen's Sensor Core;Item;Amber;;Shimmering Skies (Rare);0
 Quick Patch;Action;Amber;;Into the Inklands (Common);0
 Quick Shot;Action;Steel;;Reign of Jafar (Uncommon);0
-Rabbit - Fed Up;Character;Amethyst;Storyborn/Ally;Winterspell (Uncommon);0
+Rabbit - Fed Up;Character;Amethyst;Storyborn/Ally;Winterspell (Uncommon);2
 Rabbit - Indignant Pirate;Character;Amber;;Azurite Sea (Common);4
 Rabbit - Reluctant Host;Character;Sapphire;;Rise of the Floodborn (Common);0
 Rafiki - Ethereal Guide;Character;Amethyst;;Azurite Sea (Rare);0
@@ -1525,7 +1525,7 @@ Rancis Fluggerbutter - Chocolate Charger;Character;Ruby;;Shimmering Skies (Commo
 Ransack;Action;Steel;;The First Chapter (Uncommon);3
 Rapunzel - Appreciative Artist;Character;Sapphire;;Ursula's Return (Uncommon);1
 Rapunzel - Creative Captor;Character;Sapphire;Storyborn/Hero/Princess;Whispers in the Well (Common);1
-Rapunzel - Ethereal Protector;Character;Steel;Storyborn/Hero/Princess/Whisper;Winterspell (Rare);0
+Rapunzel - Ethereal Protector;Character;Steel;Storyborn/Hero/Princess/Whisper;Winterspell (Rare);1
 Rapunzel - Gifted Artist;Character;Amber;;Rise of the Floodborn (Uncommon);1
 Rapunzel - Gifted with Healing;Character;Amber;;The First Chapter (Legendary);0
 Rapunzel - High Climber;Character;Emerald;;Reign of Jafar (Legendary);0
@@ -1607,7 +1607,7 @@ Safe and Sound;Action;Amber;;Azurite Sea (Rare);0
 Sail The Azurite Sea;Action;Sapphire;;Azurite Sea (Common);1
 Sapphire Chromicon;Item;Sapphire;;Shimmering Skies (Uncommon);2
 Sapphire Coil;Item;Sapphire;;Archazia's Island (Uncommon);1
-Sarabi - Protecting the Pride;Character;Amber;Storyborn/Mentor/Queen;Winterspell (Common);0
+Sarabi - Protecting the Pride;Character;Amber;Storyborn/Mentor/Queen;Winterspell (Common);1
 Sardine Can;Item;Sapphire;;Rise of the Floodborn (Uncommon);0
 Scar - Betrayer;Character;Ruby;;Shimmering Skies (Uncommon);0
 Scar - Eerily Prepared;Character;Sapphire;;Whispers in the Well (Super Rare);0
@@ -1632,7 +1632,7 @@ Scrooge McDuck - Resourceful Miser;Character;Sapphire;;Archazia's Island (Legend
 Scrooge McDuck - Richest Duck in the World;Character;Sapphire;;Into the Inklands (Super Rare);1
 Scrooge McDuck - S.H.U.S.H. Agent;Character;Emerald;;Whispers in the Well (Super Rare);0
 Scrooge McDuck - Uncle Moneybags;Character;Sapphire;;Into the Inklands (Uncommon);2
-Scrooge's Counting House - Ebenezer's Office;Location;Ruby;;Winterspell (Uncommon);0
+Scrooge's Counting House - Ebenezer's Office;Location;Ruby;;Winterspell (Uncommon);2
 Scrooge's Top Hat;Item;Sapphire;;Into the Inklands (Uncommon);1
 Scroop - Backstabber;Character;Ruby;;Into the Inklands (Uncommon);0
 Scroop - Odious Mutineer;Character;Emerald;;Shimmering Skies (Super Rare);0
@@ -1714,9 +1714,9 @@ Snuggly Duckling - Disreputable Pub;Location;Ruby;;Ursula's Return (Uncommon);0
 So Be It!;Action;Emerald;;Whispers in the Well (Common);1
 So Much to Give;Action;Amber;;Archazia's Island (Common);0
 Sour Bill - Surly Henchman;Character;Sapphire;;Azurite Sea (Common);1
-Space Cows - Unexpected Allies;Character;Amethyst;Storyborn/Ally/Alien;Winterspell (Common);0
+Space Cows - Unexpected Allies;Character;Amethyst;Storyborn/Ally/Alien;Winterspell (Common);2
 Spaghetti Dinner;Item;Amber;;Archazia's Island (Common);0
-Splatter Phoenix - Rejected Artist;Character;Sapphire;Storyborn/Super/Villain;Winterspell (Uncommon);0
+Splatter Phoenix - Rejected Artist;Character;Sapphire;Storyborn/Super/Villain;Winterspell (Uncommon);1
 Spooky Sight;Action;Sapphire;;Whispers in the Well (Rare);0
 Squeaks - Cozy Caterpillar;Character;Emerald;Storyborn;Winterspell (Common);0
 Stabbington Brother - With a Patch;Character;Ruby;;Archazia's Island (Common);0
@@ -1908,7 +1908,7 @@ Toby - Dogged Companion;Character;Ruby;;Archazia's Island (Common);3
 Toby Turtle - Wary Friend;Character;Steel;;Reign of Jafar (Common);2
 Tod - All Alone;Character;Emerald;Storyborn/Hero;Winterspell (Common);0
 Tod - Knows All the Tricks;Character;Emerald;Floodborn/Hero;Winterspell (Legendary);0
-Tod - Playful Kit;Character;Emerald;Storyborn/Hero;Winterspell (Rare);0
+Tod - Playful Kit;Character;Emerald;Storyborn/Hero;Winterspell (Rare);1
 Tong - Survivor;Character;Ruby;;Ursula's Return (Common);0
 Tootles - Lost Boy;Character;Emerald;;Azurite Sea (Common);1
 Tor - Florist;Character;Emerald;;Ursula's Return (Common);0
@@ -2021,7 +2021,7 @@ Wildcat's Wrench;Item;Amber;;Into the Inklands (Uncommon);1
 Wilhelmina Packard - The Radio Operator;Character;Emerald;;Reign of Jafar (Common);2
 Willie the Giant - Ghost of Christmas Present;Character;Ruby;Storyborn/Ally/Ghost/Giant;Winterspell (Rare);1
 Winnie the Pooh - Having a Think;Character;Sapphire;;Rise of the Floodborn (Rare)/Fabled (Rare);1
-Winnie the Pooh - Hungry Bear;Character;Sapphire;Storyborn/Hero;Winterspell (Common);0
+Winnie the Pooh - Hungry Bear;Character;Sapphire;Storyborn/Hero;Winterspell (Common);1
 Winnie the Pooh - Hunny Pirate;Character;Amber;;Azurite Sea (Rare);1
 Winnie the Pooh - Hunny Wizard;Character;Amethyst;;Rise of the Floodborn (Common)/Fabled (Common);0
 Winter Camp - Medical Tent;Location;Sapphire;;Ursula's Return (Common);0
@@ -2040,7 +2040,7 @@ Wreck‐It Ralph - Hero's Duty;Character;Amber;;Archazia's Island (Rare);0
 Wreck‐It Ralph - Raging Wrecker;Character;Ruby;Storyborn/Hero/Whisper;Winterspell (Legendary);0
 Wrong Lever!;Action;Emerald;;Reign of Jafar (Rare);0
 Yao - Imperial Soldier;Character;Steel;;Ursula's Return (Common);0
-Yao - Snow Warrior;Character;Emerald;Storyborn/Ally;Winterspell (Common);0
+Yao - Snow Warrior;Character;Emerald;Storyborn/Ally;Winterspell (Common);1
 Yelana - Northuldra Leader;Character;Amethyst;;Reign of Jafar (Common);1
 Yen Sid - Powerful Sorcerer;Character;Amethyst;;Ursula's Return (Legendary);0
 Yokai - Enigmatic Inventor;Character;Sapphire;;Azurite Sea (Uncommon);1
