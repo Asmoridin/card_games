@@ -354,17 +354,17 @@ Congress of Malastare;SEC-064-C;Ground Unit;Republic/Official;5;5;5;U;3
 Consolidation of Power;TWI-089-R;Event;Plan;6;G/B;0
 Consortium StarViper;SOR-112-C;Space Unit;Fringe/Vehicle/Fighter;3;3;3;G;3
 Constructed Lightsaber;LOF-261-L;Upgrade;Item/Weapon/Lightsaber;3;2;3;N;1
-# done through here
-Consular Security Force;SOR-046-C;Ground Unit;U/W;3
-Consular's Cruiser;SEC-117-C;Space Unit;G;3 # 1 foil
-Consumed by the Dark Side;LOF-239-C;Event;B;1
-Contempt for Culture;SEC-246-C;Event;B;3
+Consular Security Force;SOR-046-C;Ground Unit;Rebel/Trooper;4;3;7;U/W;3
+Consular's Cruiser;SEC-117-C;Space Unit;Republic/Vehicle/Transport;5;4;5;G;3 # 1 foil
+Consumed by the Dark Side;LOF-239-C;Event;Force;2;B;1
+Contempt for Culture;SEC-246-C;Event;Innate;2;B;3
 Contested Caverns;LAW-025-C;Base;Quarzite;27;R;0
-Contraband Starhopper;SEC-161-C;Space Unit;R;3 # 1 foil
-Contracted Hunter;JTL-216-U;Ground Unit;Y;1
-Contracted Jumpmaster;JTL-184-C;Space Unit;Y/B;3 # 1 hyperfoil
-Convene the Senate;SEC-128-U;Event;G;2
+Contraband Starhopper;SEC-161-C;Space Unit;Underworld/Vehicle/Fighter;2;2;3;R;3 # 1 foil
+Contracted Hunter;JTL-216-U;Ground Unit;Underworld/Bounty Hunter;3;4;4;Y;1
+Contracted Jumpmaster;JTL-184-C;Space Unit;Underworld/Vehicle/Transport;3;2;4;Y/B;3 # 1 hyperfoil
+Convene the Senate;SEC-128-U;Event;Law;3;G;2
 Conveyex Security Captain;LAW-117-R;Ground Unit;Imperial/Trooper;3;2;4;U;0
+# done through here
 Coordinated Front;JTL-253-C;Event;W;3 # 1 hyperspace
 Corellian Freighter;SOR-250-C/JTL-258-C;Space Unit;N;3
 Corellian Hounds;SEC-170-C;Ground Unit;R;3
@@ -1866,3 +1866,8 @@ Maul, One Last Lesson;TS26-30-U;Ground Unit;Force/Underworld;4;5;4;R/Y;0
 Chaotic Diversion;TS26-31-R;Event;Tactic/Trick;1;R/Y;0
 Reckless Landing;TS26-32-R;Event;Gambit;2;R/Y;0
 Kouhun Assassination;TS26-33-R;Event;Gambit;3;Y/U/B;0
+Fives, I Have Proof!;TS26-34-R;Ground Unit;Republic/Clone/Trooper;6;6;6;Y/U/W;0
+Ahsoka's Lightsabers, Don't Hurt Them;TS26-35-R;Upgrade;Item/Weapon/Lightsaber;4;2;3;Y/U/W;0
+Tribunal, Grave of the 332nd;TS26-36-R;Space Unit;Republic/Vehicle/Capital Ship;10;6;8;Y/U;0
+Abandoned the Order;TS26-37-U;Upgrade;Learned;4;1;1;Y/U;0
+Dooku's Solar Sailer, Beautiful and Expensive;TS26-38-R;Space Unit;Separatist/Vehicle/Transport;3;2;4;U/B;0

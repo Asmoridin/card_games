@@ -12,7 +12,7 @@ AEU Enact Demonstration Color;GD03-081;C;1;2;1;White;Unit;Superpower Bloc;Steel 
 AEU Hellion;GD03-083;C;1;1;1;White;Unit;Superpower Bloc;Steel Requiem [GD03];0
 AGE Device;GD02-103;R;1;4;2;Green;Command;;Dual Impact [GD02];2
 Aile Strike Gundam;GD03-072;R;1;4;3;White;Unit;Triple Ship Alliance;Steel Requiem [GD03];0
-Aile Strike Gundam;ST04-001;LR;1;5;4;White;Unit;Earth Alliance;SEED Strike [ST04];2
+Aile Strike Gundam;ST04-001;LR;1;5;4;White;Unit;Earth Alliance;SEED Strike [ST04]/Phantom Aria [GD04];2
 Akihiro Altland;ST05-011;C;1;3;1;Purple;Pilot;Tekkadan/Alaya-Vijnana;Iron Bloom [ST05];3
 Alexandria;GD02-122;C;1;3;2;Blue;Base;Titans/Warship;Dual Impact [GD02];4
 Allelujah Haptism;ST07-012;C;1;3;1;Green;Pilot;CB/Super Soldier;Celestial Drive [ST07];3
@@ -220,12 +220,12 @@ Gundam Barbatos 3rd Form;GD02-068;C;1;4;2;Purple;Unit;Tekkadan/Gundam Frame;Dual
 Gundam Barbatos 4th Form;ST05-001;LR;1;6;4;Purple;Unit;Tekkadan/Gundam Frame;Iron Bloom [ST05];2
 Gundam Barbatos 5th Form (Ground Type);GD03-066;C;1;5;3;Purple;Unit;Tekkadan/Gundam Frame;Steel Requiem [GD03];0
 Gundam Barbatos 6th Form;GD03-061;U;1;6;5;Purple;Unit;Tekkadan/Gundam Frame;Steel Requiem [GD03];0
-Gundam Barbatos Adapt;GD03-056;R;1;4;2;Purple;Unit;Tekkadan/Gundam Frame;Steel Requiem [GD03];0
+Gundam Barbatos Adapt;GD03-056;R;1;4;2;Purple;Unit;Tekkadan/Gundam Frame;Steel Requiem [GD03]/Phantom Aria [GD04];0
 Gundam Barbatos Lupus;GD03-050;LR;1;7;6;Purple;Unit;Tekkadan/Gundam Frame;Steel Requiem [GD03];0
 Gundam Deathscythe Hell;GD03-021;R;1;8;7;Green;Unit;G Team;Steel Requiem [GD03];0
 Gundam Deathscythe;GD01-025;LR;1;6;4;Green;Unit;Operation Meteor;Newtype Rising [GD01];1
 Gundam Deathscythe;GD01-033;U;1;4;2;Green;Unit;Operation Meteor;Newtype Rising [GD01];1
-Gundam Dynames;GD03-026;U;1;5;3;Green;Unit;CB/GN Drive;Steel Requiem [GD03];1
+Gundam Dynames;GD03-026;U;1;5;3;Green;Unit;CB/GN Drive;Steel Requiem [GD03]/Phantom Aria [GD04];1
 Gundam Dynames;ST07-005;LR;1;4;3;Green;Unit;CB/GN Drive;Celestial Drive [ST07];2
 Gundam Dynames;ST07-006;C;1;3;2;Green;Unit;CB/GN Drive;Celestial Drive [ST07];4
 Gundam Epyon;GD02-002;LR;1;8;7;Blue;Unit;White Fang;Dual Impact [GD02];1
@@ -399,7 +399,7 @@ Rasid's Orders;GD01-110;C;1;3;1;Green;Command;Maganac Corps;Newtype Rising [GD01
 Rau Le Creuset;GD03-091;R;1;4;1;Red;Pilot;ZAFT;Steel Requiem [GD03];0
 Reccoa's Shadow;GD03-104;U;1;3;1;Blue;Command;Titans/Jupitris;Steel Requiem [GD03];0
 Red Gundam;GD02-024;R;1;5;3;Green;Unit;Clan;Dual Impact [GD02];1
-Red Gundam;GD03-039;R;1;4;2;Red;Unit;Clan;Steel Requiem [GD03];0
+Red Gundam;GD03-039;R;1;4;2;Red;Unit;Clan;Steel Requiem [GD03]/Phantom Aria [GD04];0
 Red Gundam;ST06-005;LR;1;4;3;Green;Unit;Clan;Clan Unity [ST06];2
 Red Gundam;ST06-006;C;1;4;2;Green;Unit;Clan;Clan Unity [ST06];4
 Rewloola;ST03-015;C;1;3;2;Red;Base;Neo Zeon/Warship;Zeon's Rush [ST03];0
@@ -474,7 +474,7 @@ Underground Desert Base;GD01-126;C;1;2;1;Green;Base;Maganac Corps/Stronghold;New
 Undying Persistence;GD02-109;C;1;4;1;Red;Command;Clan/Newtype;Dual Impact [GD02];3
 Unforeseen Incident;ST01-014;C;1;3;1;White;Command;;Heroic Beginnings [ST01]/Iron Bloom [ST05]/Destiny Ignition [ST09];2
 Unheralded Attack;GD03-121;C;1;1;1;White;Command;AEUG/Newtype;Steel Requiem [GD03];1
-Unicorn Gundam (Destroy Mode);GD01-002;LR;1;7;6;Blue;Unit;Civilian;Newtype Rising [GD01];0
+Unicorn Gundam (Destroy Mode);GD01-002;LR;1;7;6;Blue;Unit;Civilian;Newtype Rising [GD01]/Phantom Aria [GD04];0
 Unicorn Gundam (Unicorn Mode);GD01-005;R;1;5;4;Blue;Unit;Civilian;Newtype Rising [GD01];0
 Unicorn Gundam 02 Banshee (Destroy Mode);GD01-003;LR;1;6;4;Blue;Unit;Earth Federation;Newtype Rising [GD01];0
 Unicorn Gundam 02 Banshee (Unicorn Mode);GD01-010;R;1;4;3;Blue;Unit;Earth Federation;Newtype Rising [GD01];0
@@ -534,3 +534,13 @@ Victory Gundam Hexa;GD04-007;R;1;5;4;Blue;Unit;League Militaire/Victory Type;Pha
 Gundam;GD04-008;R;1;5;3;Blue;Unit;Earth Federation/White Base Team;Phantom Aria [GD04];0
 Guncannon (108) & Guncannon (109);GD04-009;R;1;5;4;Blue;Unit;Earth Federation/White Base Team;Phantom Aria [GD04];0
 Gaplant;GD04-010;U;1;4;2;Blue;Unit;Titans;Phantom Aria [GD04];0
+Victory Gundam;GD04-011;U;1;3;2;Blue;Unit;League Militaire/Victory Type;Phantom Aria [GD04];0
+Core Booster (005) & Core Booster (006);GD04-012;C;1;3;2;Blue;Unit;Earth Federation/White Base Team;Phantom Aria [GD04];0
+Core Fighter;GD04-013;C;1;4;2;Blue;Unit;League Militaire/Victory Type;Phantom Aria [GD04];0
+Shokew;GD04-014;C;1;2;2;Blue;Unit;League Militaire/Zanscare;Phantom Aria [GD04];0
+Gun EZ;GD04-015;C;1;3;2;Blue;Unit;League Militaire/Shrike Team;Phantom Aria [GD04];0
+Zoloat (League Militaire);GD04-016;C;1;2;2;Blue;Unit;League Militaire;Phantom Aria [GD04];0
+Zeong;GD04-017;LR;1;6;5;Green;Unit;Zeon;Phantom Aria [GD04];0
+Gundam Pharact;GD04-018;LR;1;6;4;Green;Unit;Academy;Phantom Aria [GD04];0
+GN Armor Type-D (Trans-Am);GD04-019;R;1;6;5;Green;Unit;CB/GN Drive;Phantom Aria [GD04];0
+Gundam Lfrith Ur;GD04-020;R;1;4;3;Green;Unit;Dawn of Fold/Academy;Phantom Aria [GD04];0

@@ -1029,6 +1029,7 @@ Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
 
 # Stellar Crown
 Grubbin;Pokemon;Grass;70;;Ambush;SCR 9 (Common)/ASC 17 (Common);H;4;0
+Toedscool;Pokemon;Grass;60;;Ram|Gentle Slap;SCR 17 (Common);H;4;0
 Salandit;Pokemon;Fire;70;;Ember;SCR 23 (Common)/ASC 34 (Common);H;4;0
 Salazzle;Pokemon;Fire;120;;Sudden Scorching|Flamethrower;SCR 24 (Uncommon)/ASC 35 (Uncommon)/ASC 224 (Illustration Rare);H;4;0
 Scorbunny;Pokemon;Fire;70;;Quick Attack;SCR 26 (Common)/ASC 36 (Common)/ASC 225 (Illustration Rare);H;4;0
@@ -1036,8 +1037,9 @@ Raboot;Pokemon;Fire;90;;Low Sweep|Combustion;SCR 27 (Common)/SCR 147 (Illustrati
 Cinderace ex;Pokemon;Fire;320;;Flare Strike|Garnet Volley;SCR 28 (Double Rare)/SCR 157 (Ultra Rare)/SVP 163 (Promo)/ASC 38 (Double Rare);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
 Galvantula ex;Pokemon;Lightning;260;;Charged Web|Fulgurite;SCR 51 (Double Rare)/SCR 159 (Ultra Rare)/SCR 168 (Special Illustration Rare);H;4;0
-Raging Bolt;Pokemon;Dragon;130;;Thunderburst Storm|Dragon Headbutt;SCR 111 (Rare);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
+Duraludon;Pokmeon;Metal;130;;Hammer In|Raging Hammer;SCR 106 (Common)/PRE 69 (Common);H;4;;0
+Raging Bolt;Pokemon;Dragon;130;;Thunderburst Storm|Dragon Headbutt;SCR 111 (Rare);H;4;0
 Hoothoot;Pokemon;Colorless;70;;Triple Stab;SCR 114 (Common);H;4;0
 Noctowl;Pokemon;Colorless;100;Jewel Seeker;Speed Wing;SCR 115 (Rare)/SVP 141 (Promo)/PRE 78 (Rare);H;4;0
 Fan Rotom;Pokemon;Colorless;70;Fan Call;Assault Landing;SCR 118 (Common)/PRE 85 (Common)/ASC 171 (Common)/ASC 250 (Illustration Rare);H;4;0
@@ -1111,6 +1113,16 @@ N's Darmanitan;Pokemon;Fire;140;;Back Draft|Flamebody Cannon;JTG 27 (Uncommon)/S
 Larvesta;Pokemon;Fire;80;;Will-O-Wisp;JTG 28 (Common);H;4;0
 Volcarona;Pokemon;Fire;140;;Smoldering Scales;JTG 29 (Uncommon);H;4;0
 Reshiram ex;Pokemon;Fire;220;;Fire Wing|Scorching Fire;JTG 30 (Double Rare);H;4;0
+Volcanion ex;Pokemon;Fire;220;Scalding Steam;Scorching Cyclone;JTG 31 (Double Rare)/JTG 171 (Ultra Rare)/JTG 182 (Special Illustration Rare);I;4;0
+Articuno;Pokemon;Water;110;;Frigid Fluttering|Ice Blast;JTG 32 (Uncommon)/JTG 161 (Illustration Rare);I;4;0
+Remoraid;Pokemon;Water;60;;Flail|Rain Splash;JTG 33 (Common);I;4;0
+Octillery;Pokemon;Water;110;;Aqua Wash|Octo Beatdown;JTG 34 (Uncommon);I;4;0
+Lotad;Pokemon;Water;60;;Water Gun;JTG 35 (Common);I;4;0
+Lombre;Pokemon;Water;90;;Aqua Slash;JTG 36 (Common);I;4;0
+Ludicolo;Pokemon;Water;140;Vibrant Dance;Hydro Splash;JTG 37 (Rare);I;4;0
+Wingull;Pokemon;Water;60;;Flap;JTG 38 (Common);H;4;0
+Pelipper;Pokemon;Water;120;;Spit Up|Speed Dive;JTG 39 (Uncommon);H;4;0
+Wailmer;Pokemon;Water;130;;Surf;JTG 40 (Common);I;4;0
 
 Iono's Tadbulb;Pokemon;Lightning;60;;Tiny Charge;JTG 52 (Common)/ASC 69 (Common);I;4;0
 Iono's Bellibolt ex;Pokemon;Lightning;280;Electric Streamer;Thunderous Bolt;JTG 53 (Double Rare)/JTG 172 (Ultra Rare)/JTG 183 (Special Illustration Rare)/JTG 188 (Hyper Rare)/SVP 194 (Promo)/ASC 70 (Double Rare)/ASC 279 (Special Illustration Rare);I;4;0
@@ -1121,6 +1133,7 @@ Shuppet;Pokemon;Psychic;60;;Spooky Shot;JTG 59 (Common)/ASC 90 (Common);I;4;0
 Banette;Pokemon;Psychic;90;;Cursed Words|Spooky Shot;JTG 60 (Uncommon)/ASC 91 (Uncommon)/ASC 234 (Illustration Rare);I;4;0
 Larvitar;Pokemon;Fighting;70;;Crunch;JTG 80 (Common);I;4;1
 Pupitar;Pokemon;Fighting;90;;Take Down;JTG 81 (Common);I;4;1
+Toedscool;Pokemon;Fighting;60;;Spray Fluid;JTG 88 (Common);H;4;0
 # JTG 93 done
 Tyranitar;Pokemon;Darkness;190;Daunting Gaze;Cracking Stomp;JTG 95 (Rare);I;4;1
 N's Zorua;Pokemon;Darkness;70;;Scratch;JTG 97 (Common)/SVP 189 (Promo)/ASC 136 (Common);I;4;0
@@ -1138,12 +1151,12 @@ Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
 # 155-156 done
 # 159 - last new card (not done)
-# 160 done
+# 160-161 done
 # 163 done
 # 167 done
-# 172-173 done
+# 171-173 done
 # 175 done
 # 179-180 done
-# 183-185 done
+# 182-185 done
 # 188-189 done
 # 190 - last card (not done)

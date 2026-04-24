@@ -1,4 +1,4 @@
-"Crimson Forcefield";Tactic;;Blaze of Glory/BaH!;892,3710;;1;0
+"Crimson Forcefield";Tactic;;Blaze of Glory/BaH!;892,3710;;10;0
 '45 Dom Perignon;Equipment;;Holodeck Adventures;504;;4;0
 ... in the Engine Room;Trouble;;The Trouble with Tribbles;475;;4;0
 ... in the Transporters;Trouble;;The Trouble with Tribbles;476;;4;0
@@ -614,6 +614,7 @@ Duranja;Event;;Deep Space 9;1078;;4;0
 Duras (Dramatis Personae);Personnel;Klingon;Dramatis Personae;8394;8386;2;0
 Duras (Dramatis Personae);Personnel;Romulan;Dramatis Personae;8386;8394;2;0
 Duras;Personnel;Klingon;Premiere/Virtual Promos;1079,6096,6459,7744,8108,8360;;2;0
+E'Tyshra;Personnel;Non-Aligned;Deep Space 9;1157,4443;;2;0
 E-Band Emissions;Event;;Blaze of Glory;1080;;4;0
 E.M.H. Program;Personnel;Federation;First Contact;135;;4;0
 E.M.H.-Mark II;Personnel;Federation;Holodeck Adventures;136;;4;0
@@ -697,11 +698,19 @@ Establish Gateway;Objective;;First Contact/The Borg;1147,1148;;4;0
 Establish Home Planet;Mission;Planet;Holodeck Adventures;1149;;2;0
 Establish Landing Protocols;Event;;Deep Space 9;1150,4385;;4;0
 Establish Relations;Mission;Planet;Official Tournament Sealed Deck;150,5900;;4;0
+Establish Settlement;Mission;Planet;The Borg;1151;;2;0
+Establish Station;Mission;Planet;Deep Space 9;1152;;2;0
+Establish Tractor Lock;Objective;;Deep Space 9;1153;;4;0
+Establish Trade Route;Objective;;Rules of Acquisition;1154;;4;0
+Etana Jol;Personnel;Non-Aligned;Premiere;1155,6108,6471,6834,7756,8120;;2;0
+Ethan Novakovich;Personnel;Starfleet;Enterprise Collection;1156,5459;;2;0
+Evacuation;Mission;Planet;Premiere;1158,6109,6472,6835,7757,8121;;2;0
 Evade Assailants;Mission;Planet;To the Journey;8492;;2;0
 Evade Detection II;Mission;Space;To the Journey;8517,8518;;2;0
 Evade Detection;Mission;Space;To the Journey;8493;;2;0
 Evade Neural Harvest;Mission;Space;To the Journey;8494;;2;0
 Evaluate Terraforming;Mission;Planet;Premiere;1159,6110,6473,6836,7758;;2;1
+Evasive Maneuvers;Tactic;;Blaze of Glory/BaH!;1160,3711;;10;0
 Exile Enemies;Mission;Planet;To the Journey;8495;;2;0
 Exocomp;Personnel;Federation;Premiere;151,5988,6351,6714,7636,8000;;4;0
 Explore Interstellar Matter;Mission;Space;Official Tournament Sealed Deck;152,5909;;4;0
@@ -1341,8 +1350,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1150
-#1159
+# Done through card 1160
 #1172
 #1175
 #1177
@@ -1508,7 +1516,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3693
 #3695-3696
 #3698-3700
-#3703-3710
+#3703-3711
 #3727
 #3730-3733
 #3839-3840
@@ -1571,8 +1579,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4431
 #4434
 #4438
-#4442
-#4444
+#4442-4444
 #4447-4452
 #4461-4468
 #4470
@@ -1643,7 +1650,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5429
 #5435-5438
 #5449
-#5456-5458
+#5456-5459
 #5468
 #5493
 #5496
@@ -1680,8 +1687,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6107
-#6110
+#5966-6110
 #6115-6120
 #6122
 #6124
@@ -1738,8 +1744,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6470
-#6473
+#6464-6473
 #6478-6483
 #6485
 #6487
@@ -1796,8 +1801,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6833
-#6836
+#6823-6836
 #6841-6846
 #6848
 #6850
@@ -1886,8 +1890,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7722-7723
 #7725-7738
 #7740-7741
-#7743-7755
-#7758
+#7743-7758
 #7766-7768
 #7770
 #7772
@@ -1962,6 +1965,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8104-8105
 #8107-8110
 #8113-8117
+#8120-8121
 #8130-8132
 #8134
 #8136
