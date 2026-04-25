@@ -263,4 +263,3 @@ if __name__ == "__main__":
             double_print(CARD_STR, out_file_h)
 
     out_file_h.close()
-    
