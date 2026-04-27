@@ -200,12 +200,15 @@ for deck_file in os.listdir(DECK_PREFIX):
         if PROCESS_ENERGY:
             COLORLESS_ENERGY = ['Enriching Energy', 'Jet Energy', 'Legacy Energy',
                 'Luminous Energy', 'Mist Energy', 'Prism Energy', 'Reversal Energy',
-                'Spiky Energy', 'Neo Upper Energy', ]
+                'Spiky Energy', 'Neo Upper Energy', 'Ignition Energy', ]
             if DECK_CARD_NAME in color_mapping:
                 mapped_color = color_mapping.get(DECK_CARD_NAME, DECK_CARD_NAME)
                 this_deck_colors.add(mapped_color)
             elif DECK_CARD_NAME in COLORLESS_ENERGY:
                 pass
+            elif DECK_CARD_NAME in ["Team Rocket's Energy"]:
+                this_deck_colors.add('Psychic')
+                this_deck_colors.add('Darkness')
             else:
                 print(f"Unknown energy card {DECK_CARD_NAME} in deck {deck_path}")
         if deck_card_id not in deck_dict:
