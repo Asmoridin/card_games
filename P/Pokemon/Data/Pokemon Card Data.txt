@@ -999,6 +999,7 @@ Drakloak;Pokemon;Dragon;90;Recon Directive;Dragon Headbutt;TWM 129 (Common)/PRE 
 Dragapult ex;Pokemon;Dragon;320;;Jet Headbutt|Phantom Dive;TWM 130 (Double Rare)/TWM 200 (Ultra Rare)/PRE 73 (Double Rare)/PRE 165 (Special Illustration Rare)/ASC 160 (Double Rare);H;4;0
 Tatsugiri;Pokemon;Dragon;70;Attract Customers;Surf;TWM 131 (Uncommon)/TWM 186 (Illustration Rare)/SVP 118 (Promo);H;4;0
 Bloodmoon Ursaluna ex;Pokemon;Colorless;260;Seasoned Skill;Blood Moon;TWM 141 (Double Rare)/TWM 202 (Ultra Rare)/TWM 216 (Special Illustration Rare)/TWM 222 (Hyper Rare)/SVP 177 (Promo)/PRE 168 (Special Illustration Rare);H;4;0
+Accompanying Flute;Trainer;Item;;;;TWM 142 (Uncommon);H;4;0
 Bug Catching Set;Trainer;Item;;;;TWM 143 (Uncommon)/PRE 102 (Uncommon);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
@@ -1064,6 +1065,8 @@ Togetic;Pokemon;Psychic;90;;Draining Kiss;SSP 71 (Common)/ASC 81 (Common);H;4;0
 Togekiss;Pokemon;Psychic;140;Wonder Kiss;Speed Wing;SSP 72 (Rare)/ASC 82 (Rare)/ASC 235 (Illustration Rare);H;4;0
 Latias ex;Pokemon;Psychic;210;Skyliner;Eon Blade;SSP 76 (Double Rare)/SSP 220 (Ultra Rare)/SSP 239 (Special Illustration Rare);H;4;0
 Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
+Annihilape;Pokemon;Fighting;140;;Tantrum|Destined Fight;SSP 100 (Uncommon);H;4;0
+Archaludon ex;Pokemon;Metal;300;Assemble Alloy;Metal Defender;SSP 130 (Double Rare)/SSP 224 (Ultra Rare)/SSP 241 (Special Illustration Rare);H;4;0
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
 Terapagos;Pokemon;Colorless;120;;Prism Charge|Hard Tackle;SSP 161 (Rare)/ASC 178 (Rare);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
@@ -1134,14 +1137,17 @@ Iono's Voltorb;Pokemon;Lightning;70;;Voltaic Chain;JTG 47 (Common);I;4;0
 Iono's Electrode;Pokemon;Lightning;100;;Thump-Thump Boom|Electric Ball;JTG 48 (Uncommon);I;4;0
 N's Joltik;Pokemon;Lightning;40;;Zapping Short;JTG 49 (Common);I;4;0
 Togedemaru;Pokemon;Lightning;80;;Toge Spark;JTG 50 (Common);H;4;0
-
+Tapu Koko ex;Pokemon;Lightning;200;;Linked Lightning;JTG 51 (Double Rare);H;4;0
 Iono's Tadbulb;Pokemon;Lightning;60;;Tiny Charge;JTG 52 (Common)/ASC 69 (Common);I;4;0
 Iono's Bellibolt ex;Pokemon;Lightning;280;Electric Streamer;Thunderous Bolt;JTG 53 (Double Rare)/JTG 172 (Ultra Rare)/JTG 183 (Special Illustration Rare)/JTG 188 (Hyper Rare)/SVP 194 (Promo)/ASC 70 (Double Rare)/ASC 279 (Special Illustration Rare);I;4;0
 Iono's Wattrel;Pokemon;Lightning;60;;Quick Attack;JTG 54 (Common)/ASC 71 (Common)/ASC 231 (Illustration Rare);I;4;0
 Iono's Kilowattrel;Pokemon;Lightning;120;Flashing Draw;Mach Bolt;JTG 55 (Rare)/JTG 163 (Illustration Rare)/SVP 182 (Promo)/ASC 72 (Rare);I;4;0
 Lillie's Clefairy ex;Pokemon;Psychic;190;Fairy Zone;Full Moon Rondo;JTG 56 (Double Rare)/JTG 173 (Ultra Rare)/JTG 184 (Special Illustration Rare)/SVP 195 (Promo)/ASC 76 (Double Rare)/ASC 280 (Special Illustration Rare);I;4;0
+Alolan Marowak;Pokemon;Psychic;120;;Retaliate|Will-O-Wisp;JTG 57 (Uncommon);H;4;0
+Mr. Mime;Pokemon;Psychic;90;;Mimic|Psy Bolt;JTG 58 (Common);I;4;0
 Shuppet;Pokemon;Psychic;60;;Spooky Shot;JTG 59 (Common)/ASC 90 (Common);I;4;0
 Banette;Pokemon;Psychic;90;;Cursed Words|Spooky Shot;JTG 60 (Uncommon)/ASC 91 (Uncommon)/ASC 234 (Illustration Rare);I;4;0
+
 Larvitar;Pokemon;Fighting;70;;Crunch;JTG 80 (Common);I;4;1
 Pupitar;Pokemon;Fighting;90;;Take Down;JTG 81 (Common);I;4;1
 Toedscool;Pokemon;Fighting;60;;Spray Fluid;JTG 88 (Common);H;4;0
