@@ -364,17 +364,17 @@ Contracted Hunter;JTL-216-U;Ground Unit;Underworld/Bounty Hunter;3;4;4;Y;1
 Contracted Jumpmaster;JTL-184-C;Space Unit;Underworld/Vehicle/Transport;3;2;4;Y/B;3 # 1 hyperfoil
 Convene the Senate;SEC-128-U;Event;Law;3;G;2
 Conveyex Security Captain;LAW-117-R;Ground Unit;Imperial/Trooper;3;2;4;U;0
+Coordinated Front;JTL-253-C;Event;Plan;2;W;3 # 1 hyperspace
+Corellian Freighter;SOR-250-C/JTL-258-C;Space Unit;Vehicle/Transport;5;4;4;N;3
+Corellian Hounds;SEC-170-C;Ground Unit;Creature;5;5;5;R;3
+Corner the Prey;TWI-139-R;Event;Tactic;1;B/R;1
+Coronet City;SHD-025-C;Base;Corellia;30;Y;1 # 1 hyperspace
+Coronet, Stately Vessel;SEC-047-U;Space Unit;Mandalorian/Vehicle/Transport;5;4;6;U/W;3
+Corporate Defense Shuttle;JTL-059-R;Space Unit;Separatist/Vehicle/Transport;2;3;5;U;1
+Corporate Light Cruiser;JTL-225-C;Space Unit;Fringe/Vehicle/Capital Ship;6;4;6;Y;3
+Corporate Warmongering;SEC-091-U;Event;Plan;4;G/B;2
+Corrupt Politician;SEC-079-S;Ground Unit;Republic/Official;1;2;2;G/B;3
 # done through here
-Coordinated Front;JTL-253-C;Event;W;3 # 1 hyperspace
-Corellian Freighter;SOR-250-C/JTL-258-C;Space Unit;N;3
-Corellian Hounds;SEC-170-C;Ground Unit;R;3
-Corner the Prey;TWI-139-R;Event;B/R;1
-Coronet City;SHD-025-C;Base;Y;1 # 1 hyperspace
-Coronet, Stately Vessel;SEC-047-U;Space Unit;U/W;3
-Corporate Defense Shuttle;JTL-059-R;Space Unit;U;1
-Corporate Light Cruiser;JTL-225-C;Space Unit;Y;3
-Corporate Warmongering;SEC-091-U;Event;G/B;2
-Corrupt Politician;SEC-079-S;Ground Unit;G/B;3
 Corrupted Saber;LOF-187-C;Upgrade;Y/B;3 # 1 hyperspace
 Coruscant Dissident;SHD-199-U;Ground Unit;Y/W;3 # 1 foil
 Coruscant Guard;TWI-106-C;Ground Unit;G;3
@@ -1871,3 +1871,8 @@ Ahsoka's Lightsabers, Don't Hurt Them;TS26-35-R;Upgrade;Item/Weapon/Lightsaber;4
 Tribunal, Grave of the 332nd;TS26-36-R;Space Unit;Republic/Vehicle/Capital Ship;10;6;8;Y/U;0
 Abandoned the Order;TS26-37-U;Upgrade;Learned;4;1;1;Y/U;0
 Dooku's Solar Sailer, Beautiful and Expensive;TS26-38-R;Space Unit;Separatist/Vehicle/Transport;3;2;4;U/B;0
+Captain Vaughn, Search the Tunnels;TS26-39-R;Ground Unit;Republic/Clone/Trooper;3;2;5;U/W;0
+Obi-Wan Kenobi, Steadfast Knight;TS26-40-R;Ground Unit;Force/Jedi/Republic;3;4;4;U/W;0
+Twilight, Escaping Malevolence;TS26-41-U;Space Unit;Republic/Vehicle/Transport;3;3;4;U/W;0
+Relief Frigate;TS26-42-C;Space Unit;Republic/Vehicle/Capital Ship;5;3;7;U;0
+Wartime Refugee;TS26-43-C;Ground Unit;Twi'lek;1;2;3;U;0
