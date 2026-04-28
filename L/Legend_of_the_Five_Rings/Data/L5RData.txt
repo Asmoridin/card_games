@@ -84,7 +84,7 @@ A Life for a Life;Spell;;Path of Hope (Rare);Age of Enlightenment (Lotus);3;0
 A Life for a Soul;Event;;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);1;0
 A Light Extinguished;Event;;Chaos Reigns II (Fixed);Shattered Empire;1;0
 A Lion's Roar;Strategy;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;0
-A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
 A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
 A Long Journey;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
 A Lord's Compassion;Strategy;;Honor's Veil (Common);Race for the Throne (Samurai);3;0
@@ -433,6 +433,8 @@ Akodo Ieshige;Personality;Lion;Reign of Blood (Uncommon);Rain of Blood (Diamond)
 Akodo Ijiasu;Personality;Lion;Gold Edition (Uncommon)/The War of Spirits (Uncommon);Four Winds (Gold);3;0
 Akodo Ijiasu;Personality;Lion;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;3
 Akodo Ikawa;Personality;Lion;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;1
+Akodo Iketsu;Personality;Lion;The Coming Storm (Rare);A Brother's Destiny (Ivory Edition);3;0
+Akodo Iketsu;Personality;Lion;The Coming Storm (Rare);A Brother's Destiny (Twenty Festivals);3;1
 Akodo Iori;Personality;Lion;Chaos Reigns II (Fixed);Shattered Empire;3;0
 Akodo Itoku;Personality;Lion;Words and Deeds (Rare);Race for the Throne (Samurai);3;0
 Akodo Jusho;Personality;Lion;Dark Allies (Uncommon);Four Winds (Gold);3;1
@@ -455,8 +457,10 @@ Akodo Kano, Master Tactician • Experienced 3;Personality;Lion;Rise of Otosan U
 Akodo Kano, Master Tactician • Experienced 3;Personality;Lion;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
 Akodo Kano;Personality;Lion;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
 Akodo Katsumoto;Personality;Lion;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;0
+Akodo Kenaro • Experienced;Personality;Lion;Twenty Festivals (Fixed);A Brother's Destiny (Twenty Festivals);1;1
+Akodo Kenaro • Experienced;Personality;Lion;Twenty Festivals (Fixed);War of the Seals (Onyx Edition);1;0
 Akodo Kenaro;Personality;Lion;Ivory Edition (Uncommon)/A Matter of Honor (Fixed);A Brother's Destiny (Ivory Edition);3;0
-Akodo Kenaro;Personality;Lion;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Akodo Kenaro;Personality;Lion;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;3
 Akodo Ketsu, Soul of Akodo Uehara;Personality;Lion;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Akodo Ketsu, Soul of Akodo Uehara;Personality;Lion;Shattered Empire (Fixed);Shattered Empire;3;0
 Akodo Kin;Personality;Lion;The Harbinger (Common);Destroyer War (Celestial);3;0
@@ -508,7 +512,7 @@ Akodo Osamu;Personality;Lion;Rise of the Shogun (Rare);Age of Enlightenment (Lot
 Akodo Quehao;Personality;Lion/Spirit;The War of Spirits (Rare);Hidden Emperor (Jade);3;1
 Akodo Raemon;Personality;Lion;The Dead of Winter (Rare);Destroyer War (Celestial);3;0
 Akodo Raikitsu;Personality;Lion;The New Order (Rare);A Brother's Destiny (Ivory Edition);3;0
-Akodo Raikitsu;Personality;Lion;The New Order (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Akodo Raikitsu;Personality;Lion;The New Order (Rare);A Brother's Destiny (Twenty Festivals);3;1
 Akodo Regulars;Follower;;War of Honor (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
 Akodo Regulars;Follower;;War of Honor (Fixed);Destroyer War (Celestial);3;0
 Akodo Rokku;Personality;Lion;Web of Lies (Uncommon);Age of Enlightenment (Lotus);3;0
@@ -896,6 +900,8 @@ Armory;Holding;;Gold Edition (Uncommon)/L5R Experience (Fixed);Four Winds (Gold)
 Arms Merchant;Holding;;Heaven & Earth (Common);Four Winds (Gold);3;0
 Arms Merchant;Holding;;Heaven & Earth (Common);Rain of Blood (Diamond);3;0
 Arms Smugglers;Holding;;Drums of War (Uncommon)/Tomorrow (Fixed);Age of Enlightenment (Lotus);3;0
+Army Like a Tide;Strategy;;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
+Army Like a Tide;Strategy;;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;2
 Army of Jigoku;Strategy;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
 Arranged Guilt;Strategy;;The Harbinger (Rare);Destroyer War (Celestial);3;0
 Arranged Marriage;Strategy;;Honor's Veil (Common);Race for the Throne (Samurai);3;0
@@ -1142,7 +1148,7 @@ Ashigaru Archers;Follower;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Ashigaru Archers;Follower;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
 Ashigaru Archers;Follower;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Ashigaru Archers;Follower;;The Dark Journey Home (Common);Hidden Emperor (Jade);3;0
-Ashigaru Archers;Follower;;Twenty Festivals (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Ashigaru Archers;Follower;;Twenty Festivals (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;2
 Ashigaru Archers;Follower;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Ashigaru Armor;Item;;Wrath of the Emperor (Common);Rain of Blood (Diamond);3;0
 Ashigaru Barracks;Holding;;An Oni's Fury (Uncommon);Four Winds (Gold);3;0
@@ -1247,7 +1253,7 @@ Back Banner;Item;;The War of Spirits (Common);Hidden Emperor (Jade);3;3
 Back to Back;Strategy;;Drums of War (Uncommon);Age of Enlightenment (Lotus);3;0
 Back to the Front;Strategy;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
 Back to the Front;Strategy;;Ivory Edition (Common)/A Matter of Honor (Fixed)/Promotional–Ivory (Promo)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
-Back to the Front;Strategy;;Ivory Edition (Common)/Promotional–Ivory (Promo)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Back to the Front;Strategy;;Ivory Edition (Common)/Promotional–Ivory (Promo)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;3
 Back to the Front;Strategy;;The Imperial Gift 2 (Fixed);Destroyer War (Celestial);3;0
 Bad Kharma;Strategy;;Crimson and Jade (Rare);Clan Wars (Imperial);3;0
 Bad Kharma;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
@@ -1803,6 +1809,8 @@ Beset from All Sides;Strategy;;A Line in the Sand (Rare);A Brother's Destiny (Tw
 Beset from All Sides;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Beset from All Sides;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
 Besieged Borderland;Region;;Path of the Destroyer (Common)/Celestial Edition 15th Anniversary (Common);Destroyer War (Celestial);3;0
+Besieged Fortifications;Strategy;;The New Order (Uncommon);A Brother's Destiny (Ivory Edition);3;0
+Besieged Fortifications;Strategy;;The New Order (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
 Besieged;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
 Besieged;Strategy;;Words and Deeds (Rare);Race for the Throne (Samurai);1;0
 Bestial Rage;Strategy;;The Dead of Winter (Uncommon);Destroyer War (Celestial);3;0
@@ -2971,7 +2979,7 @@ Counterposition;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edi
 Counterspell;Spell;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;1
 Counting House;Holding;;Celestial Edition (Common)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
 Counting House;Holding;;Ivory Edition (Uncommon)/A Matter of Honor (Fixed)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
-Counting House;Holding;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
+Counting House;Holding;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;3
 Counting the Lost;Strategy;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
 Courage Beyond Question;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Courage Beyond Question;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
@@ -3326,6 +3334,8 @@ Disciples of Ganesh;Follower;;Onyx Edition (Fixed);War of the Seals (Onyx Editio
 Disciples of Ganesh;Follower;;Shattered Empire (Fixed);Shattered Empire;3;0
 Disciplined Advance;Strategy;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;3
 Disciplined Advance;Strategy;;Evil Portents (Common);War of the Seals (Onyx Edition);3;3
+Discovering the Daisho of Water;Strategy;;The Coming Storm (Uncommon);A Brother's Destiny (Ivory Edition);3;0
+Discovering the Daisho of Water;Strategy;;The Coming Storm (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Discretionary Valor;Strategy;;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
 Discretionary Valor;Strategy;;Ivory Edition (Common)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Discretionary Valor;Strategy;;Ivory Edition (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;3
@@ -3652,6 +3662,8 @@ Fearless Devotion;Strategy;;A Line in the Sand (Common);A Brother's Destiny (Ivo
 Fearless Devotion;Strategy;;A Line in the Sand (Common);A Brother's Destiny (Twenty Festivals);3;3
 Fearless Light Cavalry;Follower;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;1
 Fearless Light Cavalry;Follower;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
+Fearless Light Infantry;Follower;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
+Fearless Light Infantry;Follower;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Fearless Medium Cavalry;Follower;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;1
 Fearless Medium Cavalry;Follower;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Fearsome Visage;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -4290,6 +4302,8 @@ Ikoma Haru, Soul of Ikoma Hagio;Personality;Lion;Onyx Edition (Fixed);War of the
 Ikoma Haru, Soul of Ikoma Hagio;Personality;Lion;Shattered Empire (Fixed);Shattered Empire;3;0
 Ikoma Hitoro;Personality;Lion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Ikoma Hitoro;Personality;Lion;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Ikoma Ichimoko;Personality;Lion;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
+Ikoma Ichimoko;Personality;Lion;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;3
 Ikoma Kohuri;Personality;Lion;Chaos Reigns I (Fixed);Shattered Empire;3;0
 Ikoma Kunisada • Experienced;Personality;Lion;Chaos Reigns III (Fixed);Shattered Empire;1;0
 Ikoma Kunisada;Personality;Lion;Gathering Storms (Fixed);Shattered Empire;3;0
@@ -4300,6 +4314,8 @@ Ikoma Morita;Personality;Lion;Evil Portents (Common);A Brother's Destiny (Twenty
 Ikoma Morita;Personality;Lion;Evil Portents (Common);War of the Seals (Onyx Edition);3;2
 Ikoma Natsu • Experienced;Personality;Lion;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
 Ikoma Natsu • Experienced;Personality;Lion;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
+Ikoma Sairei;Personality;Lion;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
+Ikoma Sairei;Personality;Lion;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Ikoma Satoru, Shogun • Experienced 2;Personality;Lion;Chaos Reigns II (Fixed);Shattered Empire;1;0
 Ikoma Shika;Personality;Lion;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Ikoma Shika;Personality;Lion;Ivory Edition (Common)/A Matter of Honor (Fixed);A Brother's Destiny (Ivory Edition);3;0
@@ -4992,7 +5008,7 @@ Lonely Battlefield;Strategy;;Aftermath (Common);Age of Conquest (Emperor);3;0
 Lonely Battlefield;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Lonely Battlefield;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
 Lonely Dojo;Holding;;A Line in the Sand (Uncommon);A Brother's Destiny (Ivory Edition);3;0
-Lonely Dojo;Holding;;A Line in the Sand (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
+Lonely Dojo;Holding;;A Line in the Sand (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
 Look into the Void;Spell;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Look into the Void;Spell;;Gold Edition (Common);Four Winds (Gold);3;0
 Look into the Void;Spell;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;3
@@ -5085,7 +5101,7 @@ Mastering the Elements;Spell;;Second City (Rare);Destroyer War (Celestial);1;0
 Masters of Court;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Masume Wakizashi;Item;;An Oni's Fury (Common);Four Winds (Gold);3;1
 Mat'tck;Personality;Ratling;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
-Matsu Agai, Soul of Matsu Agoro;Personality;Lion;Ivory Edition (Common)/A Matter of Honor (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Matsu Agai, Soul of Matsu Agoro;Personality;Lion;Ivory Edition (Common)/A Matter of Honor (Fixed);A Brother's Destiny (Twenty Festivals);3;3
 Matsu Agai, Soul of Matsu Agoro;Personality;Lion;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Matsu Agai, Soul of Matsu Agoro;Personality;Lion;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Matsu Agetoki • Experienced 2;Personality;Lion/Spirit;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
@@ -5097,6 +5113,8 @@ Matsu Aoiko;Personality;Lion;Diamond Edition (Common)/Training Grounds (Fixed);R
 Matsu Budoken;Personality;Lion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Matsu Budoken;Personality;Lion;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Matsu Chizuki • Experienced;Personality;Lion;Gates of Tengoku (Fixed);Shattered Empire;1;0
+Matsu Chizuki;Personality;Lion;Twenty Festivals (Fixed);A Brother's Destiny (Twenty Festivals);1;1
+Matsu Chizuki;Personality;Lion;Twenty Festivals (Fixed);War of the Seals (Onyx Edition);1;0
 Matsu Chokoku;Personality;Lion;Shadowlands (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Matsu Domotai;Personality;Lion;Gold Edition (Common);Four Winds (Gold);3;0
 Matsu Domotai;Personality;Lion;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
@@ -5112,11 +5130,13 @@ Matsu Hanshiro;Personality;Lion;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Matsu Hyun • Experienced;Personality;Lion;Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Matsu Iairimi • Experienced;Personality;Lion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Matsu Iairimi • Experienced;Personality;Lion;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
-Matsu Iairimi;Personality;Lion;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;1
+Matsu Iairimi;Personality;Lion;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;3
 Matsu Iairimi;Personality;Lion;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Matsu Imura;Personality;Lion;Obsidian Edition (Uncommon)/Imperial Edition (Uncommon)/Emerald Edition (Uncommon);Clan Wars (Imperial);3;1
 Matsu Jun-Kei;Personality;Lion;Road to Ruin (Fixed);Shattered Empire;3;0
 Matsu Jun-Kei;Personality;Lion;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
+Matsu Karoko;Personality;Lion;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;1
+Matsu Karoko;Personality;Lion;Twenty Festivals (Rare);War of the Seals (Onyx Edition);3;0
 Matsu Kenji;Personality;Lion;A Perfect Cut (Rare);Four Winds (Gold);1;0
 Matsu Kenji;Personality;Lion;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Matsu Ki-Ai;Strategy;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;3
@@ -5663,6 +5683,8 @@ Otomo Suikihime, Second City Governor • Experienced 2;Personality;Unaligned;Ro
 Otomo Terumoto • Experienced;Personality;Unaligned;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
 Otomo Terumoto • Experienced;Personality;Unaligned;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
 Otomo Towers;Region;;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
+Ouma-Jirushi;Item;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
+Ouma-Jirushi;Item;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
 Out of My Sight!;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
 Outflank;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
 Outflank;Strategy;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
@@ -5783,7 +5805,7 @@ Prasthana;Personality;Naga;Hidden Forest War (Fixed);War of the Seals (Onyx Edit
 Prepare for the Future;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Prepare for the Future;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Preserving Forces;Strategy;;Embers of War (Common);Age of Conquest (Emperor);3;0
-Preserving Forces;Strategy;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;1
+Preserving Forces;Strategy;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
 Preserving Forces;Strategy;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Prickly Glen;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
 Priestly Feud;Strategy;;The New Order (Rare);A Brother's Destiny (Ivory Edition);3;0
@@ -5820,7 +5842,7 @@ Public Shame;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition
 Pull from the Void;Spell;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Pull from the Void;Spell;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Pure Intent;Strategy;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);3;0
-Pure Intent;Strategy;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;0
+Pure Intent;Strategy;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
 Pure Intent;Strategy;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Purging Touch of Tamon;Spell;;Road to Ruin (Fixed);Shattered Empire;3;0
 Purging Touch of Tamon;Spell;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
@@ -5841,8 +5863,8 @@ Qamar's Legion;Follower;;Shattered Empire (Fixed);Shattered Empire;3;0
 Qamar, Lord of the Naga • Experienced 2;Personality;Naga;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Quarry;Holding;;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;1
 Questionable Market;Holding;;Gathering Storms (Fixed);Shattered Empire;3;0
-Questionable Market;Holding;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
-Questionable Market;Holding;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
+Questionable Market;Holding;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;3
+Questionable Market;Holding;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;1
 Questionable Merchant;Holding;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;3
 Questionable Merchant;Holding;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
 Questionable Supplies;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
@@ -5993,7 +6015,7 @@ Return to Greatness;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx 
 Return to Serve;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Revered Blade;Item;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;3
 Revered Blade;Item;;Evil Portents (Common);War of the Seals (Onyx Edition);3;3
-Rewards of Experience;Strategy;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Rewards of Experience;Strategy;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;1
 Rewards of Experience;Strategy;;Twenty Festivals (Rare);War of the Seals (Onyx Edition);3;0
 Rewards of Experience;Strategy;;Words and Deeds (Rare);Race for the Throne (Samurai);3;0
 Rhetorician;Holding;;Thunderous Acclaim (Common);A Brother's Destiny (Twenty Festivals);3;3
@@ -6063,7 +6085,7 @@ Ring of Water;Ring;;Diamond Edition (Uncommon)/Training Grounds (Fixed)/Promotio
 Ring of Water;Ring;;Emperor Edition (Uncommon)/Emperor Edition Demo Decks (Fixed)/Promotional–Emperor (Promo);Age of Conquest (Emperor);2;0
 Ring of Water;Ring;;Gold Edition (Uncommon);Four Winds (Gold);2;0
 Ring of Water;Ring;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Uncommon);Clan Wars (Imperial);2;1
-Ring of Water;Ring;;Ivory Edition (Uncommon)/Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);2;1
+Ring of Water;Ring;;Ivory Edition (Uncommon)/Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);2;2
 Ring of Water;Ring;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);2;0
 Ring of Water;Ring;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);2;0
 Ring of Water;Ring;;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);2;0
@@ -6179,6 +6201,8 @@ Scholar's Facade;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twent
 Scholar's Facade;Follower;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Scholarship;Strategy;;The War of Spirits (Common);Four Winds (Gold);3;0
 Scholarship;Strategy;;The War of Spirits (Common);Hidden Emperor (Jade);3;3
+Scour the Unworthy;Strategy;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
+Scour the Unworthy;Strategy;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Scout;Follower;;Gold Edition (Common);Four Winds (Gold);3;0
 Scout;Follower;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Scout;Follower;;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
@@ -6822,7 +6846,7 @@ Striking Tactics;Strategy;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);
 Struggle On;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
 Suana Dojo;Holding;;Aftermath (Rare);A Brother's Destiny (Ivory Edition);3;0
 Suana Dojo;Holding;;Aftermath (Rare);Age of Conquest (Emperor);3;0
-Suana Dojo;Holding;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;1
+Suana Dojo;Holding;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;2
 Suana Dojo;Holding;;Twenty Festivals (Rare);War of the Seals (Onyx Edition);3;0
 Sublime Peacock Stance;Strategy;;The Heaven's Will (Common);Race for the Throne (Samurai);3;3
 Subtle Reminder;Strategy;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;3
@@ -7108,6 +7132,10 @@ The Essence of Honor;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edi
 The Esteemed House of the Crane;Stronghold;Crane;Imperial Edition (Fixed)/Emerald Edition (Fixed)/Obsidian Edition (Fixed)/Time of the Void (Uncommon)/Promotional–Imperial (Promo);Clan Wars (Imperial);1;1
 The Esteemed House of the Crane;Stronghold;Crane;Pearl Edition (Fixed)/Jade Edition (Fixed)/Promotional–Jade (Promo);Hidden Emperor (Jade);1;0
 The Esteemed Palace of the Crane;Stronghold;Crane;Twenty Festivals (Fixed)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);1;1
+The Eternal Rainbows;Strategy;;Gates of Chaos (Common);A Brother's Destiny (Ivory Edition);3;0
+The Eternal Rainbows;Strategy;;Gates of Chaos (Common);Age of Conquest (Emperor);3;0
+The Eternal Rainbows;Strategy;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
+The Eternal Rainbows;Strategy;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 The Eternal Well of the Akasha;Stronghold;Naga;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 The Eternal Well of the Akasha;Stronghold;Naga;Shattered Empire (Fixed);Shattered Empire;1;0
 The Exalted Ugu;Personality;Unaligned;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;2
@@ -7157,7 +7185,7 @@ The Future Looks Bleak;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
 The Game Begins;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 The Game Begins;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 The Golden Plains of the Unicorn;Stronghold;Unicorn;Ivory Edition (Fixed)/Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);1;0
-The Grand Halls of the Lion;Stronghold;Lion;Twenty Festivals (Fixed);A Brother's Destiny (Twenty Festivals);1;0
+The Grand Halls of the Lion;Stronghold;Lion;Twenty Festivals (Fixed);A Brother's Destiny (Twenty Festivals);1;1
 The Gusai Estates;Holding;;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
 The Gusai Estates;Holding;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
 The Head of My Enemy • Experienced;Strategy;;Chaos Reigns II (Fixed);Shattered Empire;3;0
@@ -8106,6 +8134,8 @@ Yosuchi;Personality;Unaligned;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
 Yosuchi;Personality;Unaligned;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Yotsu Seiki;Personality;Unaligned;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Yotsu Shoku;Personality;Unaligned;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Young Battlecat;Follower;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
+Young Battlecat;Follower;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Young Kohai;Holding;;Road to Ruin (Fixed);Shattered Empire;3;0
 Young Kohai;Holding;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Your Heart's Enemy;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -8118,10 +8148,16 @@ Your True Nature;Strategy;;A Line in the Sand (Uncommon);A Brother's Destiny (Iv
 Your True Nature;Strategy;;A Line in the Sand (Uncommon);A Brother's Destiny (Twenty Festivals);3;3
 Your True Nature;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Your True Nature;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
+Yukihime's Hot Springs;Holding;;Aftermath (Common);A Brother's Destiny (Ivory Edition);3;0
+Yukihime's Hot Springs;Holding;;Aftermath (Common);Age of Conquest (Emperor);3;0
+Yukihime's Hot Springs;Holding;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
+Yukihime's Hot Springs;Holding;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
 Yumi of the Void;Item/Spell;;Chaos Reigns II (Fixed);Shattered Empire;3;0
 Z'orr'tek;Personality;Ratling;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Zaiberu's Trinket;Item;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zaiberu's Trinket;Item;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
+Zaiko;Follower;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
+Zaiko;Follower;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
 Zansatsu;Item;;Rise of Jigoku (Fixed);Shattered Empire;1;0
 Zansatsu;Item;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);1;0
 Zanshin;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -9041,9 +9077,11 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #10724
 #10733
 #10735
+#10741
 #10749
 #10820
 #10827-10828
+#10830
 #10872
 #10887
 #10891-10892
@@ -9064,7 +9102,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11160-11161
 #11164
 #11167-11169
-#11178-11179
+#11178-11180
 #11182
 #11187
 #11198-11199
@@ -9080,6 +9118,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11264
 #11270
 #11278
+#11280
 #11282
 #11286
 #11289
@@ -9118,7 +9157,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11722-11723
 #11725
 #11736-11738
-#11745
+#11745-11746
 #11755
 #11767
 #11779-11780
@@ -9127,6 +9166,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11801
 #11808
 #11820-11821
+#11831
 #11834
 #11843
 #11851
@@ -9153,6 +9193,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11993
 #11995-11996
 #11998
+#12007
 #12010
 #12015
 #12019
@@ -9165,7 +9206,9 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #12097
 #12100-12102
 #12113
-#12124
+#12116
+#12121
+#12123-12125
 #12130-12131
 #12136
 #12138
@@ -9173,13 +9216,15 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #12162
 #12183-12185
 #12193
-#12196
-#12198
+#12196-12198
+#12203-12204
+#12207
 #12209
 #12211
 #12220
 #12222
 #12225-12226
+#12237
 #12240
 #12244
 #12256
