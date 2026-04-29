@@ -852,6 +852,7 @@ Pikachu ex;Pokemon;Lightning;200;;Thunderbolt;SVP 106 (Promo)/ASC 276 (Special I
 
 # Scarlet & Violet (SVI)
 Skeledirge;Pokemon;Fire;180;;Passionate Singing|Blazing Shout;SVI 38 (Rare);G;4;2
+Armarouge;Pokemon;Fire;130;Fire Off;Flame Cannon;SVI 41 (Rare)/SVI 203 (Illustration Rare)/PAF 15 (Rare)/PAF 115 (Shiny Rare);G;4;0
 Miraidon ex;Pokemon;Lightning;220;Tandem Unit;Photon Blaster;SVI 81 (Double Rare)/SVI 227 (Ultra Rare)/SVI 244 (Special Illustration Rare)/SVI 254 (Hyper Rare)/SVP 28 (Promo)/PAF 243 (Hyper Rare);G;4;0
 Gardevoir ex;Pokemon;Psychic;310;Psychic Embrace;Miracle Force;SVI 86 (Double Rare)/SVI 228 (Ultra Rare)/SVI 245 (Special Illustration Rare)/PAF 29 (Double Rare)/PAF 217 (Shiny Ultra Rare)/PAF 233 (Special Illustration Rare);G;4;0
 Drifloon;Pokemon;Psychic;70;;Gust|Balloon Blast;SVI 89 (Common)/PAF 155 (Shiny Rare);G;4;0
@@ -875,6 +876,8 @@ Youngster;Trainer;Supporter;;;;SVI 198 (Uncommon);G;8;3
 Paldean Tauros;Pokemon;Fire;130;;Raging Horns|Blaze Dash;PAL 28 (Uncommon)/PAF 111 (Shiny Rare);G;4;2
 Fuecoco;Pokemon;Fire;80;;Tackle;PAL 34 (Common)/SVP  79 (Promo);G;4;4
 Crocalor;Pokemon;Fire;110;;Steady Firebreathing|Hyper Voice;PAL 36 (Uncommon)/PAL 202 (Illustration Rare)/SVP 80 (Promo);G;4;3
+Arctibax;Pokemon;Water;90;;Sharp Fin|Frost Smash;PAL 59 (Uncommon)/PAL 209 (Illustration Rare)/SVP 64 (Promo)/PAF 129 (Shiny Rare);G;4;0
+Baxcalibur;Pokemon;Water;160;Super Cold;Buster Tail;PAL 60 (Rare)/PAL 210 (Illustration Rare)/SVP 19 (Promo)/PAF 130 (Shiny Rare);G;4;0
 Mimikyu;Pokemon;Psychic;70;Safeguard;Ghost Eye;PAL 97 (Rare)/PAF 37 (Rare)/PAF 160 (Shiny Rare)/SVP 75 (Promo);G;4;1
 Dunsparce;Pokemon;Colorless;70;;Find a Friend|Bite;PAL 156 (Common);G;4;0
 Squawkabilly ex;Pokemon;Colorless;160;Squawk and Seize;Motivate;PAL 169 (Double Rare)/PAL 247 (Ultra Rare)/PAL 264 (Special Illustration Rare)/PAF 75 (Double Rare)/PAF 223 (Shiny Ultra Rare)/SVP 160 (Promo);G;4;0
@@ -1147,6 +1150,16 @@ Alolan Marowak;Pokemon;Psychic;120;;Retaliate|Will-O-Wisp;JTG 57 (Uncommon);H;4;
 Mr. Mime;Pokemon;Psychic;90;;Mimic|Psy Bolt;JTG 58 (Common);I;4;0
 Shuppet;Pokemon;Psychic;60;;Spooky Shot;JTG 59 (Common)/ASC 90 (Common);I;4;0
 Banette;Pokemon;Psychic;90;;Cursed Words|Spooky Shot;JTG 60 (Uncommon)/ASC 91 (Uncommon)/ASC 234 (Illustration Rare);I;4;0
+Beldum;Pokemon;Psychic;60;;Spinning Attack|Beam;JTG 61 (Common);I;4;0
+Metang;Pokemon;Psychic;100;;Psypunch|Zen Headbutt;JTG 62 (Common);I;4;0
+Metagross;Pokemon;Psychic;170;;Wrack Down|Conjoined Beams;JTG 63 (Rare);I;4;0
+N's Sigilyph;Pokemon;Psychic;110;;Psychic Sphere|Victory Symbol;JTG 64 (Common);I;4;0
+Oricorio;Pokemon;Psychic;80;;Call for Family|Spooky Shot;JTG 65 (Common);H;4;0
+Lillie's Cutiefly;Pokemon;Psychic;30;;Hold Still;JTG 66 (Common);I;4;0
+Lillie's Ribombee;Pokemon;Psychic;70;Inviting Wink;Magical Shot;JTG 67 (Uncommon)/JTG 164 (Illustration Rare)/SVP 183 (Promo);I;4;0
+Lillie's Comfey;Pokemon;Psychic;70;;Inviting Flowers;Fade Out;JTG 68 (Common);I;4;0
+Mimikyu ex;Pokemon;Psychic;190;;Mischievous Hands|Ghostly Trip;JTG 69 (Double Rare);H;4;0
+Dhelmise;Pokemon;Psychic;130;;Bind Down|Anchor Smash;JTG 70 (Common);H;4;0
 
 Larvitar;Pokemon;Fighting;70;;Crunch;JTG 80 (Common);I;4;1
 Pupitar;Pokemon;Fighting;90;;Take Down;JTG 81 (Common);I;4;1
@@ -1168,7 +1181,7 @@ Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
 # 155-156 done
 # 159 - last new card (not done)
-# 160-163 done
+# 160-164 done
 # 167 done
 # 171-173 done
 # 175 done
