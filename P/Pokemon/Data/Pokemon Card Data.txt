@@ -860,6 +860,7 @@ Drifblim;Pokemon;Psychic;110;;Gust|Curse Spreading;SVI 90 (Uncommon)/PAF 156 (Sh
 Klefki;Pokemon;Psychic;70;Mischievous Lock;Joust;SVI 96 (Rare)/PAF 159 (Shiny Rare);G;4;0
 Hawlucha;Pokemon;Fighting;70;Flying Entry;Wing Attack;SVI 118 (Rare)/SVP 7 (Promo)/PAF 175 (Shiny Rare);G;4;0
 Cyclizar;Pokemon;Colorless;110;;Touring|Speed Attack;SVI 164 (Rare)/M23 14 (Promo);G;4;2
+Beach Court;Trainer;Stadium;;;;SVI 167 (Uncommon)/PAR 263 (Hyper Rare);G;4;0
 Defiance Band;Trainer;Pokemon Tool;;;;SVI 169 (Uncommon);G;4;0
 Electric Generator;Trainer;Item;;;;SVI 170 (Uncommon)/PAF 79 (Uncommon);G;4;0
 Exp. Share;Trainer;Item;;;;Neo Destiny 93 (Rare)/EX FireRed & LeafGreen 91 (Uncommon)/Next Destinies 87 (Uncommon)/Dragon Vault 18 (Other)/Primal Clash 128 (Uncommon)/Sun & Moon 118 (Uncommon)/Battle Styles 126 (Uncommon)/Battle Styles 180 (Rare Secret)/SVI 174 (Uncommon);E/G;4;0
@@ -1012,6 +1013,7 @@ Kieran;Trainer;Supporter;;;;TWM 154 (Uncommon)/TWM 206 (Ultra Rare)/TWM 218 (Spe
 Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
 Secret Box;Trainer;Item;;;;TWM 163 (ACE SPEC Rare);H;2;0
 Unfair Stamp;Trainer;Item;;;;TWM 165 (ACE SPEC Rare);H;2;0
+Boomerang Energy;Energy;Special Energy;;;;TWM 166 (Uncommon);H;4;0
 Legacy Energy;Energy;Special Energy;;;;TWM 167 (ACE SPEC Rare);H;2;0
 
 # Shrouded Fable (SFA)
@@ -1021,6 +1023,7 @@ Weavile;Pokemon;Water;100;;Slash|Hail Claw;SFA 14 (Uncommon)/ASC 45 (Uncommon)/A
 Duskull;Pokemon;Psychic;60;;Come and Get You|Mumble;SFA 18 (Common)/SFA 68 (Illustration Rare)/PRE 35 (Common);H;4;0
 Dusclops;Pokemon;Psychic;90;Cursed Blast;Will-O-Wisp;SFA 19 (Common)/SFA 69 (Illustration Rare)/PRE 36 (Common);H;4;0
 Dusknoir;Pokemon;Psychic;160;Curse Blast;Shadow Bind;SFA 20 (Rare)/SFA 70 (Illustration Rare)/PRE 37 (Rare);H;4;0
+Bloodmoon Ursaluna;Pokemon;Fighting;150;Battle-Hardened;Mad Bite;SFA 25 (Rare)/PRE 54 (Rare);H;4;0
 Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare)/ASC 142 (Double Rare)/ASC 288 (Special Illustration Rare);H;4;0
 Pecharunt ex;Pokemon;Darkness;190;Subjugating Chains;Irritated Outburst;SFA 39 (Double Rare)/SFA 85 (Ultra Rare)/SFA 93 (Special Illustration Rare)/SFA 95 (Hyper Rare)/PRE 163 (Special Illustration Rare);H;4;0
 Genesect;Pokemon;Metal;110;ACE Nullifier;Magnetic Blast;SFA 40 (Uncommon);H;4;0
@@ -1160,6 +1163,15 @@ Lillie's Ribombee;Pokemon;Psychic;70;Inviting Wink;Magical Shot;JTG 67 (Uncommon
 Lillie's Comfey;Pokemon;Psychic;70;Inviting Flowers;Fade Out;JTG 68 (Common);I;4;0
 Mimikyu ex;Pokemon;Psychic;190;;Mischievous Hands|Ghostly Trip;JTG 69 (Double Rare);H;4;0
 Dhelmise;Pokemon;Psychic;130;;Bind Down|Anchor Smash;JTG 70 (Common);H;4;0
+Impidimp;Pokemon;Psychic;70;;Gentle Slap;JTG 71 (Common);H;4;0
+Morgrem;Pokemon;Psychic;90;;Light Punch|Smash Kick;JTG 72 (Uncommon);H;4;0
+Grimmsnarl;Pokemon;Psychic;170;;Shadowy Knot|Mega Punch;JTG 73 (Uncommon);H;4;0
+Milcery;Pokemon;Psychic;50;;Tackle;JTG 74 (Common);H;4;0
+Alcremie ex;Pokemon;Psychic;250;Confectionary Gift;Whipped Shot;JTG 75 (Double Rare);H;4;0
+Cubone;Pokemon;Fighting;70;;Stampede|Light Punch;JTG 76 (Common);H;4;0
+Swinub;Pokemon;Fighting;70;;Call for Family|Lunge Out;JTG 77 (Common)/JTG 165 (Illustration Rare);I;4;0
+Piloswine;Pokemon;Fighting;100;;Strength|Impaling Tusk;JTG 78 (Common);I;4;0
+Mamoswine ex;Pokemon;Fighting;340;Mammoth Hauler;Rumbling March;JTG 79 (Double Rare)/JTG 174 (Ultra Rare);I;4;0
 
 Larvitar;Pokemon;Fighting;70;;Crunch;JTG 80 (Common);I;4;1
 Pupitar;Pokemon;Fighting;90;;Take Down;JTG 81 (Common);I;4;1
@@ -1181,10 +1193,9 @@ Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
 # 155-156 done
 # 159 - last new card (not done)
-# 160-164 done
+# 160-165 done
 # 167 done
-# 171-173 done
-# 175 done
+# 171-175 done
 # 179-180 done
 # 182-185 done
 # 188-189 done
