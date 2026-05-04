@@ -940,6 +940,7 @@ Technical Machine: Turbo Energize;Trainer;Pokemon Tool;;;;PAR 179 (Uncommon);G;4
 Tulip;Trainer;Supporter;;;;PAR 181 (Uncommon)/PAR 244 (Ultra Rare)/PAR 259 (Special Illustration Rare);G;4;0
 
 # Paldean Fates (PAF)
+Charmeleon;Pokemon;Fire;90;Flare Veil;Combustion;PAF 8 (Uncommon)/PAF 110 (Shiny Rare);G;4;0
 Magmar;Pokemon;Fire;80;;Collect|Steady Firebreathing;PAF 9 (Common);G;4;3
 Magmortar;Pokemon;Fire;140;;Flare|Volcanic Heat;PAF 10 (Rare);G;4;3
 Iono;Trainer;Supporter;;;;PAL 185 (Uncommon)/PAL 254 (Ultra Rare)/PAL 269 (Special Illustration Rare)/PAF 80 (Uncommon)/PAF 237 (Special Illustration Rare)/SVP 124 (Promo);G;8;1
@@ -997,6 +998,7 @@ Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (U
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare)/ASC 99 (Rare);H;4;0
 Greninja ex;Pokemon;Fighting;310;;Shinobi Blade|Mirage Barrage;TWM 106 (Double Rare)/TWM 198 (Ultra Rare)/TWM 214 (Special Illustration Rare);H;4;0
 Cornerstone Mask Ogerpon ex;Pokemon;Fighting;210;Cornerstone Stance;Demolish;TWM 112 (Double Rare)/TWM 199 (Ultra Rare)/TWM 215 (Special Illustration Rare)/PRE 58 (Double Rare)/PRE 160 (Special Illustration Rare);H;4;0
+Brute Bonnet;Pokemon;Darkness;120;;Poison Spray|Relentless Punches;TWM 118 (Uncommon);H;4;0
 Applin;Pokemon;Dragon;40;;Find a Friend|Rolling Tackle;TWM 126 (Common)/TWM 185 (Illustration Rare);H;4;0
 Dreepy;Pokemon;Dragon;70;;Petty Grudge|Bite;TWM 128 (Common)/PRE 71 (Common)/ASC 158 (Common)/ASC 247 (Illustration Rare);H;4;0
 Drakloak;Pokemon;Dragon;90;Recon Directive;Dragon Headbutt;TWM 129 (Common)/PRE 72 (Common)/ASC 159 (Common)/ASC 248 (Illustration Rare);H;4;0
@@ -1064,6 +1066,7 @@ Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE S
 Rellor;Pokemon;Grass;40;;Collect|Rollout;SSP 13 (Common)/DRI 24 (Common);H;4;0
 Victini;Pokemon;Fire;70;Victory Cheer;Flare;SSP 21 (Uncommon);H;4;0
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
+Charcadet;Pokemon;Fire;80;;Light Punch|Flamethrower;SSP 33 (Common);H;4;0
 Ceruledge ex;Pokemon;Fire;270;;Abyssal Flames|Raging Amethyst;SSP 36 (Double Rare)/PRE 147 (Special Illustration Rare);H;4;0
 Pikachu ex;Pokemon;Lightning;200;Resolute Heart;Topaz Bolt;SSP 57 (Double Rare)/SSP 219 (Ultra Rare)/SSP 238 (Special Illustration Rare)/SSP 247 (Hyper Rare)/PRE 179 (Hyper Rare)/ASC 57 (Double Rare)/ASC 277 (Special Illustration Rare);H;4;0
 Togepi;Pokemon;Psychic;50;;Pound;SSP 70 (Common)/ASC 80 (Common);H;4;0
@@ -1172,10 +1175,18 @@ Cubone;Pokemon;Fighting;70;;Stampede|Light Punch;JTG 76 (Common);H;4;0
 Swinub;Pokemon;Fighting;70;;Call for Family|Lunge Out;JTG 77 (Common)/JTG 165 (Illustration Rare);I;4;0
 Piloswine;Pokemon;Fighting;100;;Strength|Impaling Tusk;JTG 78 (Common);I;4;0
 Mamoswine ex;Pokemon;Fighting;340;Mammoth Hauler;Rumbling March;JTG 79 (Double Rare)/JTG 174 (Ultra Rare);I;4;0
-
 Larvitar;Pokemon;Fighting;70;;Crunch;JTG 80 (Common);I;4;1
 Pupitar;Pokemon;Fighting;90;;Take Down;JTG 81 (Common);I;4;1
+Regirock;Pokemon;Fighting;130;Rock Armor;Breaching Lariat;JTG 82 (Rare);I;4;0
+Pancham;Pokemon;Fighting;60;;Corkscrew Punch|Focus Fist;JTG 83 (Common);I;4;0
+Rockruff;Pokemon;Fighting;70;;Dig It Up|Stampede;JTG 84 (Common);I;4;0
+Lycanroc;Pokemon;Fighting;120;Spike-Clad;Clamping Fangs;JTG 85 (Rare)/JTG 166 (Illustration Rare);I;4;0
+Hop's Silicobra;Fighting;80;;Turf Maker|Gnaw;JTG 86 (Common);I;4;0
+Hop's Sandaconda;Pokemon;Fighting;140;;Rumble|Break Ground;JTG 87 (Uncommon);I;4;0
 Toedscool;Pokemon;Fighting;60;;Spray Fluid;JTG 88 (Common);H;4;0
+Toedscruel;Pokemon;Fighting;130;Secret Forest Path;Mud Shot;JTG 89 (Uncommon);H;4;0
+Klawf;Pokemon;Fighting;120;;Snipping Pinchers|Hammer In;JTG 90 (Uncommon);I;4;0
+
 # JTG 93 done
 Tyranitar;Pokemon;Darkness;190;Daunting Gaze;Cracking Stomp;JTG 95 (Rare);I;4;1
 N's Zorua;Pokemon;Darkness;70;;Scratch;JTG 97 (Common)/SVP 189 (Promo)/ASC 136 (Common);I;4;0
