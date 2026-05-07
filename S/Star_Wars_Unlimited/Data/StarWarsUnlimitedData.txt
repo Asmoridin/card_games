@@ -374,17 +374,17 @@ Corporate Defense Shuttle;JTL-059-R;Space Unit;Separatist/Vehicle/Transport;2;3;
 Corporate Light Cruiser;JTL-225-C;Space Unit;Fringe/Vehicle/Capital Ship;6;4;6;Y;3
 Corporate Warmongering;SEC-091-U;Event;Plan;4;G/B;2
 Corrupt Politician;SEC-079-S;Ground Unit;Republic/Official;1;2;2;G/B;3
+Corrupted Saber;LOF-187-C;Upgrade;Item/Weapon/Lightsaber;2;2;1;Y/B;3 # 1 hyperspace
+Coruscant Dissident;SHD-199-U;Ground Unit;Underworld/Twi'lek;3;3;4;Y/W;3 # 1 foil
+Coruscant Guard;TWI-106-C;Ground Unit;Republic/Clone/Trooper;2;3;2;G;3
+Coruscant Undercity Police;SEC-167-C;Ground Unit;Republic/Trooper;4;5;4;R;3 # 1 hyperspace
+Corvus, Inferno Squadron Raider;JTL-038-R;Space Unit;Imperial/Vehicle/Capital Ship;5;4;5;U/B;1
+Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;Force/Separatist/Sith;7;5;4;U/B;3
+Count Dooku, Face of the Confederacy;TWI-005-C;Leader;Force/Separatist/Sith;7;5;9;B/G;1 # 1 showcase
+Count Dooku, Fallen Jedi;TWI-138-R;Ground Unit;Force/Separatist/Sith;8;6;6;B/R;1
+Covering the Wing;JTL-076-C;Event;Tactic;2;U;2
+Covert Operative;SEC-253-C;Ground Unit;Rebel;4;2;4;W;3 # 1 foil
 # done through here
-Corrupted Saber;LOF-187-C;Upgrade;Y/B;3 # 1 hyperspace
-Coruscant Dissident;SHD-199-U;Ground Unit;Y/W;3 # 1 foil
-Coruscant Guard;TWI-106-C;Ground Unit;G;3
-Coruscant Undercity Police;SEC-167-C;Ground Unit;R;3 # 1 hyperspace
-Corvus, Inferno Squadron Raider;JTL-038-R;Space Unit;U/B;1
-Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;U/B;3
-Count Dooku, Face of the Confederacy;TWI-005-C;Leader;B/G;1 # 1 showcase
-Count Dooku, Fallen Jedi;TWI-138-R;Ground Unit;B/R;1
-Covering the Wing;JTL-076-C;Event;U;2
-Covert Operative;SEC-253-C;Ground Unit;W;3 # 1 foil
 Covert Strength;SHD-075-C;Event;U;3
 Covetous Rivals;SHD-171-C;Ground Unit;R;3
 CR90 Relief Runner;JTL-071-C;Space Unit;U;2
@@ -1876,3 +1876,13 @@ Obi-Wan Kenobi, Steadfast Knight;TS26-40-R;Ground Unit;Force/Jedi/Republic;3;4;4
 Twilight, Escaping Malevolence;TS26-41-U;Space Unit;Republic/Vehicle/Transport;3;3;4;U/W;0
 Relief Frigate;TS26-42-C;Space Unit;Republic/Vehicle/Capital Ship;5;3;7;U;0
 Wartime Refugee;TS26-43-C;Ground Unit;Twi'lek;1;2;3;U;0
+Arena Reek, Lumbering Beast;TS26-44-U;Ground Unit;Creature;4;4;5;U;0
+Champion;TS26-45-C;Upgrade;Innate;5;4;4;U;0
+Secret Marriage;TS26-46-R;Event;Plan;2;U;0
+Take Cover;TS26-47-C;Event;Tactic;3;U;0
+Vanquish the Legion;TS26-48-U;Event;Tactic;4;U;0
+Separatist Council, Quarrelsome Holdouts;TS26-49-R;Ground Unit;Separatist/Official;4;2;6;G/B;0
+General Grievous, Crush Them!;TS26-50-R;Ground Unit;Separatist/Official;5;0;0;G/B;0
+Lom Pyke, Making a Withdrawal;TS26-51-U;Ground Unit;Underworld;5;5;5;G/B;0
+Sith Traditions;TS26-52-U;Upgrade;Sith/Learned;2;1;1;G/B;0
+Coruscanti Spy;TS26-53-C;Ground Unit;Official;1;0;2;G;0
