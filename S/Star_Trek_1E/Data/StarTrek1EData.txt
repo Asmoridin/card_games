@@ -754,7 +754,17 @@ Fennim;Personnel;Non-Aligned;The Borg;1197;;2;0
 Ferengi Attack;Dilemma;Planet;Alternate Universe/Introductory 2-Player Game;1198,7174;;4;0
 Ferengi Bug;Dilemma;Dual;Rules of Acquisition;1199;;4;0
 Ferengi Conference;Objective;;Rules of Acquisition/Virtual Promos;1200,7429;;4;0
+Ferengi Disruptor Rifle;Equipment;;Rules of Acquisition;1202;;4;0
+Ferengi Disruptor;Equipment;;Rules of Acquisition;1201;;4;0
+Ferengi Energy Weapon;Tactic;;Rules of Acquisition/BaH!;1203,3712;;10;0
+Ferengi Financial Data Net;Event;;Holodeck Adventures;1204;;4;0
+Ferengi Infestation;Dilemma;Dual;The Trouble with Tribbles/Virtual Promos;1205,4195;;4;0
+Ferengi Ingenuity;Dilemma;Dual;Blaze of Glory;1206;;4;0
+Ferengi Outpost;Facility;Ferengi;Rules of Acquisition/Homefront VI;1207,4701;;4;0
+Ferengi PADD;Equipment;;Rules of Acquisition;1208;;4;0
 Ferengi Shuttle;Ship;Ferengi;Rules of Acquisition;154;;4;0
+Ferengi Trading Post;Facility;Ferengi;Starter Deck II;1209,4050,7060;;2;0
+Ferengi Whip;Equipment;;Rules of Acquisition;1210;;4;0
 Fifteen of Seventeen;Personnel;Borg;First Contact;155;;4;0
 Firestorm;Dilemma;Planet;Premiere;1218,6122,6485,6848,7770,8134;;4;1
 Five of Eleven;Personnel;Borg;First Contact;156;;4;0
@@ -1378,7 +1388,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1200
+# Done through card 1210
 #1218
 #1226
 #1234
@@ -1540,7 +1550,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3693
 #3695-3696
 #3698-3700
-#3703-3711
+#3703-3712
 #3727
 #3730-3733
 #3839-3840
@@ -1563,7 +1573,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3937
 #4039-4041
 #4047
-#4049
+#4049-4050
 #4052-4056
 #4059-4060
 #4062-4063
@@ -1583,6 +1593,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4120
 #4129
 #4186
+#4195
 #4255
 #4259
 #4265-4266
@@ -1625,8 +1636,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4677-4680
 #4689
 #4691-4692
-#4695-4700
-#4702-4704
+#4695-4704
 #4706-4707
 #4711
 #4713
@@ -1882,6 +1892,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7048-7049
 #7051
 #7054-7058
+#7060
 #7063-7066
 #7098-7134
 #7145-7149
