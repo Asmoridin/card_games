@@ -879,6 +879,7 @@ Fuecoco;Pokemon;Fire;80;;Tackle;PAL 34 (Common)/SVP  79 (Promo);G;4;4
 Crocalor;Pokemon;Fire;110;;Steady Firebreathing|Hyper Voice;PAL 36 (Uncommon)/PAL 202 (Illustration Rare)/SVP 80 (Promo);G;4;3
 Arctibax;Pokemon;Water;90;;Sharp Fin|Frost Smash;PAL 59 (Uncommon)/PAL 209 (Illustration Rare)/SVP 64 (Promo)/PAF 129 (Shiny Rare);G;4;0
 Baxcalibur;Pokemon;Water;160;Super Cold;Buster Tail;PAL 60 (Rare)/PAL 210 (Illustration Rare)/SVP 19 (Promo)/PAF 130 (Shiny Rare);G;4;0
+Chien-Pao ex;Pokemon;Water;220;Shivery Chill;Hail Blade;PAL 61 (Double Rare)/PAL 236 (Ultra Rare)/PAL 261 (Special Illustration Rare)/PAL 274 (Hyper Rare)/SVP 30 (Promo)/PAF 242 (Hyper Rare);G;4;0
 Mimikyu;Pokemon;Psychic;70;Safeguard;Ghost Eye;PAL 97 (Rare)/PAF 37 (Rare)/PAF 160 (Shiny Rare)/SVP 75 (Promo);G;4;1
 Dunsparce;Pokemon;Colorless;70;;Find a Friend|Bite;PAL 156 (Common);G;4;0
 Squawkabilly ex;Pokemon;Colorless;160;Squawk and Seize;Motivate;PAL 169 (Double Rare)/PAL 247 (Ultra Rare)/PAL 264 (Special Illustration Rare)/PAF 75 (Double Rare)/PAF 223 (Shiny Ultra Rare)/SVP 160 (Promo);G;4;0
@@ -996,6 +997,7 @@ Iron Thorns ex;Pokemon;Lightning;230;Initialization;Volt Cyclone;TWM 77 (Double 
 Clefairy;Pokemon;Psychic;60;;Moon Kick;TWM 78 (Common)/ASC 74 (Common);H;4;0
 Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (Uncommon);H;4;0
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare)/ASC 99 (Rare);H;4;0
+Conkeldurr;Pokemon;Fighting;180;;Tantrum|Gutsy Swing;TWM 105 (Uncommon);H;4;0
 Greninja ex;Pokemon;Fighting;310;;Shinobi Blade|Mirage Barrage;TWM 106 (Double Rare)/TWM 198 (Ultra Rare)/TWM 214 (Special Illustration Rare);H;4;0
 Cornerstone Mask Ogerpon ex;Pokemon;Fighting;210;Cornerstone Stance;Demolish;TWM 112 (Double Rare)/TWM 199 (Ultra Rare)/TWM 215 (Special Illustration Rare)/PRE 58 (Double Rare)/PRE 160 (Special Illustration Rare);H;4;0
 Brute Bonnet;Pokemon;Darkness;120;;Poison Spray|Relentless Punches;TWM 118 (Uncommon);H;4;0
@@ -1073,6 +1075,7 @@ Togepi;Pokemon;Psychic;50;;Pound;SSP 70 (Common)/ASC 80 (Common);H;4;0
 Togetic;Pokemon;Psychic;90;;Draining Kiss;SSP 71 (Common)/ASC 81 (Common);H;4;0
 Togekiss;Pokemon;Psychic;140;Wonder Kiss;Speed Wing;SSP 72 (Rare)/ASC 82 (Rare)/ASC 235 (Illustration Rare);H;4;0
 Latias ex;Pokemon;Psychic;210;Skyliner;Eon Blade;SSP 76 (Double Rare)/SSP 220 (Ultra Rare)/SSP 239 (Special Illustration Rare);H;4;0
+Dedenne;Pokemon;Psychic;70;;Electromagnetic Sonar|Gnaw;SSP 87 (Common);H;4;0
 Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
 Annihilape;Pokemon;Fighting;140;;Tantrum|Destined Fight;SSP 100 (Uncommon);H;4;0
 Archaludon ex;Pokemon;Metal;300;Assemble Alloy;Metal Defender;SSP 130 (Double Rare)/SSP 224 (Ultra Rare)/SSP 241 (Special Illustration Rare);H;4;0
@@ -1186,11 +1189,16 @@ Hop's Sandaconda;Pokemon;Fighting;140;;Rumble|Break Ground;JTG 87 (Uncommon);I;4
 Toedscool;Pokemon;Fighting;60;;Spray Fluid;JTG 88 (Common);H;4;0
 Toedscruel;Pokemon;Fighting;130;Secret Forest Path;Mud Shot;JTG 89 (Uncommon);H;4;0
 Klawf;Pokemon;Fighting;120;;Snipping Pinchers|Hammer In;JTG 90 (Uncommon);I;4;0
-
-# JTG 93 done
+Koffing;Pokemon;Darkness;60;;Tackle|Suffocating Gas;JTG 91 (Common);I;4;0
+Weezing;Pokemon;Darkness;130;;Pervasive Gas|Crazy Blast;JTG 92 (Uncommon);I;4;0
+Paldean Clodsire ex;Pokemon;Darkness;280;;Poison Ring|Giga Impact;JTG 94 (Double Rare);H;4;0
 Tyranitar;Pokemon;Darkness;190;Daunting Gaze;Cracking Stomp;JTG 95 (Rare);I;4;1
+N's Purrloin;Pokemon;Darkness;70;;Thieving Swipe;JTG 96 (Common);I;4;0
 N's Zorua;Pokemon;Darkness;70;;Scratch;JTG 97 (Common)/SVP 189 (Promo)/ASC 136 (Common);I;4;0
 N's Zoroark ex;Pokemon;Darkness;280;Trade;Night Joker;JTG 98 (Double Rare)/JTG 175 (Ultra Rare)/JTG 185 (Special Illustration Rare)/JTG 189 (Hyper Rare)/ASC 137 (Double Rare)/ASC 286 (Special Illustration Rare);I;4;0
+Pangoro;Pokemon;Darkness;140;;Torment|Power Tackle;JTG 99 (Uncommon);I;4;0
+Lokix;Pokemon;Darkness;120;;Low Sweep;JTG 100 (Uncommon);H;4;0
+
 N's Reshiram;Pokemon;Dragon;130;;Powerful Rage|Virtuous Flame;JTG 116 (Rare)/JTG 167 (Illustration Rare)/ASC 154 (Rare);I;4;0
 Hop's Cramorant;Pokemon;Colorless;110;;Fickle Spitting;JTG 138 (Uncommon)/ASC 177 (Uncommon);I;4;0
 # 143 done
