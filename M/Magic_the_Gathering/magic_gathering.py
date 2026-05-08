@@ -201,7 +201,6 @@ def parse_restrictions(restr_lines):
     # Shadows over Innistrad block (Shadows over Innistrad, Eldritch Moon)
     # Battle for Zendikar block (Battle for Zendikar, Oath of the Gatewatch)
     # Khans of Tarkir block (Khans of Tarkir, Fate Reforged, Dragons of Tarkir)
-    # Theros block (Theros, Born of the Gods, Journey into Nyx)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -303,6 +302,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Return to Ravnica block (Return to Ravnica, Gatecrash, Dragon's Maze)
             if this_set in ['Return to Ravnica', 'Gatecrash', "Dragon's Maze"]:
                 ret_formats['Return to Ravnica Block'] = 4
+            # Theros block (Theros, Born of the Gods, Journey into Nyx)
+            if this_set in ['Theros', 'Born of the Gods', 'Journey into Nyx']:
+                ret_formats['Theros Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -754,6 +756,10 @@ if __name__ == "__main__":
     # Return to Ravnica Block
     rtravnica_dict = process_formats("Return to Ravnica Block", card_corrections, True)
     handle_output("Return to Ravnica Block", rtravnica_dict, out_file_h)
+
+    # Theros Block
+    theros_dict = process_formats("Theros Block", card_corrections, True)
+    handle_output("Theros Block", theros_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
