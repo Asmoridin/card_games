@@ -765,8 +765,17 @@ Ferengi PADD;Equipment;;Rules of Acquisition;1208;;4;0
 Ferengi Shuttle;Ship;Ferengi;Rules of Acquisition;154;;4;0
 Ferengi Trading Post;Facility;Ferengi;Starter Deck II;1209,4050,7060;;2;0
 Ferengi Whip;Equipment;;Rules of Acquisition;1210;;4;0
+Fesarius;Ship;Non-Aligned;Mirror, Mirror/Borderless Promos;1211,5609;;2;0
+Fever Emergency;Mission;Planet;Premiere/Trouble with Tribbles Starter Decks;1212,6121,6484,6847,7135,7769,8133;;2;0
+FGC-47 Research;Mission;Space;Alternate Universe/Virtual Promos;1213,8528;;2;0
 Fifteen of Seventeen;Personnel;Borg;First Contact;155;;4;0
+Fifth;Personnel;Borg;The Borg;1214;;2;0
+Fightin' Words;Q Dilemma;;Deep Space 9;1215;;4;0
+File Mission Report;Objective;;Deep Space 9;1216,4401;;4;0
+Fire Sculptor;Interrupt;;Alternate Universe;1217;;4;0
 Firestorm;Dilemma;Planet;Premiere;1218,6122,6485,6848,7770,8134;;4;1
+First Contact;Mission;Planet;Premiere;1220,6123,6486,6849,7771,8135;;2;0
+First;Personnel;Borg;The Borg;1219;;2;0
 Five of Eleven;Personnel;Borg;First Contact;156;;4;0
 Flaxian Scout Vessel;Ship;Non-Aligned;Deep Space 9;157;;4;0
 Fleet Admiral Shanthi;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;1226,5255,6124,6487,6850,7772,8136;;2;1
@@ -1388,8 +1397,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1210
-#1218
+# Done through card 1220
 #1226
 #1234
 #1237
@@ -1606,7 +1614,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4384-4385
 #4388-4389
 #4391
-#4399-4400
+#4399-4401
 #4406-4408
 #4411-4414
 #4416
@@ -1700,7 +1708,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5595
 #5597-5599
 #5604-5605
-#5610
+#5609-5610
 #5619
 #5636-5637
 #5639-5644
@@ -1725,9 +1733,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6120
-#6122
-#6124
+#5966-6124
 #6127-6128
 #6130
 #6132
@@ -1781,9 +1787,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6483
-#6485
-#6487
+#6464-6487
 #6490-6491
 #6493
 #6495
@@ -1837,9 +1841,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6846
-#6848
-#6850
+#6823-6850
 #6853-6854
 #6856
 #6858
@@ -1894,7 +1896,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7054-7058
 #7060
 #7063-7066
-#7098-7134
+#7098-7135
 #7145-7149
 #7152
 #7159
@@ -1927,9 +1929,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7725-7738
 #7740-7741
 #7743-7762
-#7766-7768
-#7770
-#7772
+#7766-7772
 #7775-7776
 #7778
 #7780
@@ -2003,9 +2003,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8113-8117
 #8120-8121
 #8123-8126
-#8130-8132
-#8134
-#8136
+#8130-8136
 #8139
 #8142
 #8144
@@ -2047,3 +2045,4 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8407-8415
 #8448-8456
 #8482-8522
+#8528
