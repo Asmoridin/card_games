@@ -384,17 +384,17 @@ Count Dooku, Face of the Confederacy;TWI-005-C;Leader;Force/Separatist/Sith;7;5;
 Count Dooku, Fallen Jedi;TWI-138-R;Ground Unit;Force/Separatist/Sith;8;6;6;B/R;1
 Covering the Wing;JTL-076-C;Event;Tactic;2;U;2
 Covert Operative;SEC-253-C;Ground Unit;Rebel;4;2;4;W;3 # 1 foil
-# done through here
-Covert Strength;SHD-075-C;Event;U;3
-Covetous Rivals;SHD-171-C;Ground Unit;R;3
-CR90 Relief Runner;JTL-071-C;Space Unit;U;2
-Crackshot V-Wing;JTL-158-C;Space Unit;R;2
-Crafty Smuggler;SOR-207-C;Ground Unit;Y;3
-Crait Veteran;SEC-251-C;Ground Unit;W;3
-Craving Power;LOF-091-R;Upgrade;G/B;0
-Creative Thinking;TWI-200-C;Event;Y/W;2
-Creditor's Claim;SEC-039-U;Upgrade;U/B;2
+Covert Strength;SHD-075-C;Event;Tactic;1;U;3
+Covetous Rivals;SHD-171-C;Ground Unit;Bounty Hunter;6;5;5;R;3
+CR90 Relief Runner;JTL-071-C;Space Unit;Rebel/Vehicle/Capital Ship;6;4;6;U;2
+Crackshot V-Wing;JTL-158-C;Space Unit;Republic/Vehicle/Fighter;1;2;2;R;2
+Crafty Smuggler;SOR-207-C;Ground Unit;Underworld;2;2;2;Y;3
+Crait Veteran;SEC-251-C;Ground Unit;Resistance/Trooper;3;4;3;W;3
+Craving Power;LOF-091-R;Upgrade;Innate;5;2;2;G/B;0
+Creative Thinking;TWI-200-C;Event;Trick;2;Y/W;2
+Creditor's Claim;SEC-039-U;Upgrade;Supply;3;2;2;U/B;2
 Criminal Contact;LAW-258-C;Ground Unit;Underworld;2;1;4;N;0
+# done through here
 Criminal Muscle;SHD-209-C;Ground Unit;Y;3 # 2 foil
 Cripple Authority;SHD-156-U;Event;R/W;3
 Crosshair, Filled With Doubt;SEC-162-U;Ground Unit;R;3 # 1 hyperfoil
@@ -1886,3 +1886,13 @@ General Grievous, Crush Them!;TS26-50-R;Ground Unit;Separatist/Official;5;0;0;G/
 Lom Pyke, Making a Withdrawal;TS26-51-U;Ground Unit;Underworld;5;5;5;G/B;0
 Sith Traditions;TS26-52-U;Upgrade;Sith/Learned;2;1;1;G/B;0
 Coruscanti Spy;TS26-53-C;Ground Unit;Official;1;0;2;G;0
+Wartime Mercenaries;TS26-54-C;Ground Unit;Trooper;4;5;5;G;0
+Jedi General;TS26-55-R;Ground Unit;Force/Republic/Jedi;5;2;3;G;0
+Galactic Escalation;TS26-56-C;Event;Supply;2;G;0
+Mechanize;TS26-57-U;Event;Supply;2;G;0
+Backed by the Pykes;TS26-58-R;Event;Supply;3;G;0
+Brothers;TS26-59-R;Event;Innate;3;G;0
+Take Charge;TS26-60-C;Event;Tactic;3;G;0
+Encircle;TS26-61-U;Event;Tactic;5;G;0
+R2-D2, Getting His Chance;TS26-62-U;Ground Unit;Republic/Droid;2;1;3;R/W;0
+Rex's DC-17s, This Ship is Going Down;TS26-63-R;Upgrade;Item/Weapon;3;3;2;R/W;0
