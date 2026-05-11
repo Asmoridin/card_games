@@ -829,11 +829,20 @@ Gem;Personnel;Non-Aligned;The Trouble with Tribbles;998;;2;0
 General Chang;Personnel;Klingon;The Motion Pictures;999,7239;;2;0
 General Hazar;Personnel;Bajoran;The Dominion;166;;4;0
 General Korrd;Personnel;Klingon;The Motion Pictures;1000,7240;;2;0
+General Krim;Personnel;Bajoran;Deep Space 9/Virtual Promos;1241,4409,5821;;2;0
+Genetronic Replicator;Event;;Premiere;1242,5659,6126,6489,6852,7774,8138;;4;0
 Geological Instability;Dilemma;Planet;To the Journey;8483;;4;0
 Geological Survey;Mission;Planet;Starter Deck II;167,7056;;4;0
+Geordi La Forge (First Contact);Personnel;Federation;First Contact/Virtual Promos;1244,3932;;2;0
 Geordi La Forge;Personnel;Federation;Premiere;1243,3561,6127,6490,6853,7523,7775,8139;;2;1
+George and Gracie;Personnel;Neutral;The Motion Pictures/Virtual Promos;1245,3484,7249;;2;0
+George Primmin;Personnel;Federation;Rules of Acquisition;1246;;2;0
 Ghoren;Personnel;Cardassian;Deep Space 9;168;;4;0
+Gi'ral;Personnel;Klingon;Introductory 2-Player Game;1250;;2;0
 Gibson;Personnel;Federation;Q Continuum/Trouble with Tribbles Starter Decks;169,7107;;4;0
+Gideon Seyetik;Personnel;Federation;All Good Things;1247,4429,8416,8457;;2;0
+Gift of the Tormentor;Q Interrupt;;Q Continuum;1248;;4;0
+Gilora Rejal;Personnel;Cardassian;Deep Space 9;1249,4415;;2;0
 Giusti;Personnel;Federation;Premiere;170,5991,6354,6717,7639;;4;0
 Goddess of Empathy;Event;;Premiere;1253,6128,6491,6854,7776;;4;1
 Gorath;Personnel;Klingon;Premiere;171,5992,6355,6718,7640;;4;0
@@ -1414,8 +1423,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1240
-#1243
+# Done through card 1250
 #1253
 #1270
 #1278
@@ -1537,6 +1545,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3407
 #3476
 #3479
+#3484
 #3486-3490
 #3492
 #3495
@@ -1590,7 +1599,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3900
 #3902
 #3927
-#3931
+#3931-3932
 #3934-3935
 #3937
 #4039-4041
@@ -1629,12 +1638,11 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4388-4389
 #4391
 #4399-4402
-#4406-4408
-#4411-4414
-#4416
+#4406-4409
+#4411-4416
 #4418
 #4420-4425
-#4427-4428
+#4427-4429
 #4431
 #4434
 #4438
@@ -1729,7 +1737,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5639-5644
 #5646
 #5648-5656
-#5658
+#5658-5659
 #5719
 #5722
 #5724-5725
@@ -1740,7 +1748,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5809
 #5811-5815
 #5817
-#5822
+#5821-5822
 #5824-5825
 #5827
 #5829-5830
@@ -1748,8 +1756,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5917-5918
-#5966-6125
-#6127-6128
+#5966-6128
 #6130
 #6132
 #6134
@@ -1802,8 +1809,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6488
-#6490-6491
+#6464-6491
 #6493
 #6495
 #6497
@@ -1856,8 +1862,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6851
-#6853-6854
+#6823-6854
 #6856
 #6858
 #6860
@@ -1919,7 +1924,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173-7174
 #7179-7180
-#7183-7248
+#7183-7249
 #7251
 #7277
 #7317-7318
@@ -1944,8 +1949,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7725-7738
 #7740-7741
 #7743-7762
-#7766-7773
-#7775-7776
+#7766-7776
 #7778
 #7780
 #7782
@@ -2018,8 +2022,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8113-8117
 #8120-8121
 #8123-8126
-#8130-8137
-#8139
+#8130-8139
 #8142
 #8144
 #8146
@@ -2057,7 +2060,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8360
 #8363
 #8373-8396
-#8407-8415
-#8448-8456
+#8407-8416
+#8448-8457
 #8482-8522
 #8528
