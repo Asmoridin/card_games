@@ -929,6 +929,7 @@ Roaring Moon ex;Pokemon;Darkness;230;;Frenzied Gouging|Calamity Storm;PAR 124 (D
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
 Ancient Booster Energy Capsule;Trainer;Pokemon Tool;;;;PAR 159 (Uncommon)/TEF 140 (Uncommon);G;4;0
 Counter Catcher;Trainer;Item;;;;Crimson Invasion 91 (Uncommon)/Crimson Invasion 120 (Rare Secret)/PAR 160 (Uncommon)/PAR 264 (Hyper Rare);G;4;0
+Defiance Vest;Trainer;Pokemon Tool;;;;PAR 162 (Uncommon);G;3;0
 Earthen Vessel;Trainer;Item;;;;PAR 163 (Uncommon)/SFA 96 (Hyper Rare)/PRE 106 (Uncommon);G;4;0
 Future Booster Energy Capsule;Trainer;Pokemon Tool;;;;PAR 164 (Uncommon)/TEF 149 (Uncommon);G;4;0
 Luxurious Cape;Trainer;Pokemon Tool;;;;PAR 166 (Uncommon)/PAR 265 (Hyper Rare);G;4;0
@@ -1065,6 +1066,7 @@ Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Un
 Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE SPEC Rare);H;2;0
 
 # Surging Sparks
+Durant ex;Pokemon;Grass;190;Sudden Shearing;Vengeful Crush;SSP 4 (Double Rare)/SSP 215 (Ultra Rare)/SSP 236 (Special Illustration Rare);H;4;0
 Rellor;Pokemon;Grass;40;;Collect|Rollout;SSP 13 (Common)/DRI 24 (Common);H;4;0
 Victini;Pokemon;Fire;70;Victory Cheer;Flare;SSP 21 (Uncommon);H;4;0
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
@@ -1198,8 +1200,19 @@ N's Zorua;Pokemon;Darkness;70;;Scratch;JTG 97 (Common)/SVP 189 (Promo)/ASC 136 (
 N's Zoroark ex;Pokemon;Darkness;280;Trade;Night Joker;JTG 98 (Double Rare)/JTG 175 (Ultra Rare)/JTG 185 (Special Illustration Rare)/JTG 189 (Hyper Rare)/ASC 137 (Double Rare)/ASC 286 (Special Illustration Rare);I;4;0
 Pangoro;Pokemon;Darkness;140;;Torment|Power Tackle;JTG 99 (Uncommon);I;4;0
 Lokix;Pokemon;Darkness;120;;Low Sweep;JTG 100 (Uncommon);H;4;0
+Bombirdier;Pokemon;Darkness;120;;Glide|Drop Shot;JTG 101 (Common);H;4;0
+Escavalier;Pokemon;Metal;120;;Pierce|Iron Buster;JTG 102 (Uncommon);I;4;0
+N's Klink;Pokemon;Metal;60;;Double Spin;JTG 103 (Common);I;4;0
+N's Klang;Pokemon;Metal;90;;Spinning Gears|Confront;JTG 104 (Common);I;4;0
+N's Klinklang;Pokemon;Metal;160;;Magnetic Blast|Triple Smash;JTG 105 (Uncommon);I;4;0
+Galarian Stunfisk;Pokemon;Metal;100;;Mud-Slap|Bounding Bite;JTG 106 (Common);H;4;0
+Magearna;Pokemon;Metal;90;Auto Heal;Spike Draw;JTG 107 (Rare);I;4;0
+Hop's Corviknight;Pokemon;Metal;170;;Shoot Through|Steel Wing;JTG 108 (Uncommon);I;4;0
+Cufant;Pokemon;Metal;100;;Rollout;JTG 109 (Common);H;4;0
+Copperajah;Pokemon;Metal;190;;Ram|Mega Impact;110 (Uncommon);H;4;0
 
 N's Reshiram;Pokemon;Dragon;130;;Powerful Rage|Virtuous Flame;JTG 116 (Rare)/JTG 167 (Illustration Rare)/ASC 154 (Rare);I;4;0
+Dudunsparce ex;Pokemon;Colorless;270;;Tenacious Tail|Destructive Drill;JTG 121 (Double Rare)/JTG 178 (Ultra Rare);I;4;0
 Hop's Cramorant;Pokemon;Colorless;110;;Fickle Spitting;JTG 138 (Uncommon)/ASC 177 (Uncommon);I;4;0
 # 143 done
 # 144 done
@@ -1212,10 +1225,9 @@ Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
 # 155-156 done
 # 159 - last new card (not done)
-# 160-165 done
-# 167 done
+# 160-167 done
 # 171-175 done
-# 179-180 done
+# 178-180 done
 # 182-185 done
 # 188-189 done
 # 190 - last card (not done)
