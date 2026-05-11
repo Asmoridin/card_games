@@ -394,17 +394,17 @@ Craving Power;LOF-091-R;Upgrade;Innate;5;2;2;G/B;0
 Creative Thinking;TWI-200-C;Event;Trick;2;Y/W;2
 Creditor's Claim;SEC-039-U;Upgrade;Supply;3;2;2;U/B;2
 Criminal Contact;LAW-258-C;Ground Unit;Underworld;2;1;4;N;0
+Criminal Muscle;SHD-209-C;Ground Unit;Underworld;1;2;1;Y;3 # 2 foil
+Cripple Authority;SHD-156-U;Event;Trick;2;R/W;3
+Crosshair, Filled With Doubt;SEC-162-U;Ground Unit;Imperial/Clone/Trooper;2;2;3;R;3 # 1 hyperfoil
+Crosshair, Following Orders;SHD-087-U;Ground Unit;Imperial/Clone/Trooper;4;2;6;G/B;3 # 1 foil, 1 hyperfoil
+Crucible, Centuries of Wisdom;SEC-119-U;Space Unit;Jedi/Vehicle/Transport;6;5;5;G;3 # 1 foil
+Cruel Commandos;SEC-086-C;Ground Unit;Republic/Clone/Trooper;5;5;5;G/B;3
+Crushing Blow;LOF-077-C;Event;Tactic;3;U;3
+Crystal Caves;LOF-029-C;Base;Ilum;28;Y;1 # 1 hyperspace
+Cunning;SOR-203-L;Event;Innate;4;Y/Y;1
+Cure Wounds;LOF-075-C;Event;Force;1;U;3 # 1 hyperspace
 # done through here
-Criminal Muscle;SHD-209-C;Ground Unit;Y;3 # 2 foil
-Cripple Authority;SHD-156-U;Event;R/W;3
-Crosshair, Filled With Doubt;SEC-162-U;Ground Unit;R;3 # 1 hyperfoil
-Crosshair, Following Orders;SHD-087-U;Ground Unit;G/B;3 # 1 foil, 1 hyperfoil
-Crucible, Centuries of Wisdom;SEC-119-U;Space Unit;G;3 # 1 foil
-Cruel Commandos;SEC-086-C;Ground Unit;G/B;3
-Crushing Blow;LOF-077-C;Event;U;3
-Crystal Caves;LOF-029-C;Base;Y;1 # 1 hyperspace
-Cunning;SOR-203-L;Event;Y;1
-Cure Wounds;LOF-075-C;Event;U;3 # 1 hyperspace
 Curious Flock;LOF-255-C;Ground Unit;N;3
 Cutthroat Podracer;LAW-213-C;Ground Unit;Vehicle/Speeder;4;4;4;Y/B;0
 D'Qar Cargo Frigate;JTL-052-C;Space Unit;U/W;2
@@ -1896,3 +1896,13 @@ Take Charge;TS26-60-C;Event;Tactic;3;G;0
 Encircle;TS26-61-U;Event;Tactic;5;G;0
 R2-D2, Getting His Chance;TS26-62-U;Ground Unit;Republic/Droid;2;1;3;R/W;0
 Rex's DC-17s, This Ship is Going Down;TS26-63-R;Upgrade;Item/Weapon;3;3;2;R/W;0
+Urgent Mission;TS26-64-R;Event;Plan;2;R/W;0
+Bo-Katan Kryze, The Lawless;TS26-65-U;Ground Unit;Mandalorian/Trooper;2;1;4;R;0
+Wartime Pirate;TS26-66-C;Space Unit;Underworld/Vehicle/Capital Ship;3;4;4;R;0
+Ruping Rider;TS26-67-C;Ground Unit;Creature/Trooper;4;3;4;R;0
+Arms Deal;TS26-68-C;Event;Supply;2;R;0
+Remove the Chip;TS26-69-R;Event;Modification;2;R;0
+Backed by Black Sun;TS26-70-R;Event;Supply;3;R;0
+Take Action;TS26-71-C;Event;Tactic;3;R;0
+Fervor;TS26-72-U;Event;Innate;5;R;0
+Moralo Eval, Infamous Murderer;TS26-73-R;Ground Unit;Underworld;5;3;2;Y/B;0
