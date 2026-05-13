@@ -8,12 +8,30 @@ collection needs. Also tracks win-loss records by various categories for strateg
 
 import os
 
+from dataclasses import dataclass
+
+from card_games.General.Libraries.card import Card
 from card_games.General.Libraries.deck import Deck
 from card_games.General.Libraries.output_utils import double_print
 from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Babylon 5"
 FILE_PREFIX = os.path.join("card_games", "B", "Babylon_5")
+
+@dataclass
+class Babylon5Card(Card):
+    """
+    Object representation of a Babylon 5 card, with game-specific attributes.
+ 
+    Attributes:
+        card_type:  The card's type (e.g. 'Character', 'Event', 'Location').
+        faction:    The faction or race this card belongs to. Empty string if not applicable.
+        rarities:   List of rarity codes for this card. A list because some
+                    cards were printed at different rarities across sets.
+    """
+    rarities: list[str]
+    card_type: str = ""
+    faction: str = ""
 
 # Define valid values for card attributes
 valid_types = ['Character', 'Event', 'Location', 'Aftermath', 'Conflict', 'Enhancement', 'Agenda',
@@ -22,6 +40,7 @@ valid_rarities = ['C', 'U', 'R', 'F', 'P', ]
 valid_races = ['Minbari', 'Neutral', 'Human', 'Narn', 'Vorlon', 'Non-Aligned', 'Drakh', 'Centauri',
     'Shadow', 'Babylon 5', 'United']
 item_list = [] # Where all the cards will end up getting stored
+card_list = [] # List of card objects, as I transition this over
 
 # Set up directory paths
 if os.getcwd().endswith('card_games'):
@@ -137,7 +156,11 @@ def process_formats(format_name, _=None):
 
     return_dict['FILTERED']['set'], ft_filtered_list = \
         sort_and_filter(format_card_list, 1, by_len = True)
+    #return_dict['FILTERED']['set'], ft_filtered_list = \
+    #    sort_and_filter2(card_list, lambda c: c.sets, by_len=True)
     return_dict['FILTERED']['type'], ft_filtered_list = sort_and_filter(ft_filtered_list, 2)
+    #return_dict['FILTERED']['set'], ft_filtered_list = \
+    #    sort_and_filter2(card_list, lambda c: c.card_type)
     if return_dict['FILTERED']['type'] in ['Fleet', 'Character']:
         _, ft_filtered_list = sort_and_filter(ft_filtered_list, 3)
     return_dict['FILTERED']['name'], ft_filtered_list = sort_and_filter(ft_filtered_list, 0)
@@ -253,6 +276,8 @@ for line in lines:
     card_inv_dict[card_name] = card_own
     item_list.append((card_name, card_sets, card_type, card_race, card_rarities, card_own, \
         CARD_MAX))
+    card_list.append(Babylon5Card(name=card_name, sets=card_sets, owned=card_own,
+        max_copies=CARD_MAX, rarities=card_rarities, card_type=card_type, faction=card_race))
 
 # Get W-L structures working
 opp_wl_dict = {} # opp -> race -> ambassador -> [wins, total_games]
