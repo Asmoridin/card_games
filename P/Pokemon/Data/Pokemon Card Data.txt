@@ -1082,10 +1082,12 @@ Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
 Annihilape;Pokemon;Fighting;140;;Tantrum|Destined Fight;SSP 100 (Uncommon);H;4;0
 Archaludon ex;Pokemon;Metal;300;Assemble Alloy;Metal Defender;SSP 130 (Double Rare)/SSP 224 (Ultra Rare)/SSP 241 (Special Illustration Rare);H;4;0
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
+Eevee;Pokemon;Colorless;50;Boosted Evolution;Reckless Charge;SSP 143 (Common)/PRE 74 (Common)/SVP 173 (Promo);H;4;0
 Terapagos;Pokemon;Colorless;120;;Prism Charge|Hard Tackle;SSP 161 (Rare)/ASC 178 (Rare);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
 Counter Gain;Trainer;Pokemon Tool;;;;Lost Thunder 170 (Uncommon)/Lost Thunder 230 (Rare Secret)/SSP 169 (Uncommon)/SSP 249 (Hyper Rare)/ASC 186 (Common)/ASC 259 (Ultra Rare);H;4;0
 Cyrano;Trainer;Supporter;;;;SSP 170 (Uncommon)/SSP 230 (Ultra Rare);H;4;0
+Dusk Ball;Trainer;Item;;;;Mysterious Treasures 110 (Uncommon)/Majestic Dawn 80 (Uncommon)/SSP 175 (Uncommon);H;4;0
 Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;2;0
 Gravity Mountain;Trainer;Stadium;;;;SSP 177 (Uncommon)/SSP 250 (Hyper Rare);H;4;0
 Precious Trolley;Trainer;Item;;;;SSP 185 (ACE SPEC Rare);H;1;0
@@ -1095,6 +1097,7 @@ Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 # Prismatic Evolutions
 Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Illustration Rare);H;4;0
 Seaking;Pokemon;Water;110;Festival Lead;Rapid Draw;PRE 21 (Uncommon);H;4;0
+Eevee ex;Pokemon;Colorless;200;Rainbow DNA;Coruscating Quartz;PRE 75 (Double Rare)/PRE 167 (Special Illustration Rare)/SVP 174 (Promo);H;4;0
 Hoothoot;Pokemon;Colorless;80;Insomnia;Tackle;PRE 77 (Common);H;4;0
 Regigigas;Pokemon;Colorless;160;;Jewel Breaker;PRE 86 (Uncommon);H;4;0
 Black Belt's Training;Trainer;Supporter;;;;PRE 96 (Common)/PRE 97 (Common)/PRE 98 (Common)/PRE 99 (Common)/JTG 143 (Common)/JTG 144 (Common)/JTG 145 (Common)/SVP 220 (Promo)/ASC 255 (Ultra Rare);H;4;0
@@ -1210,9 +1213,18 @@ Magearna;Pokemon;Metal;90;Auto Heal;Spike Draw;JTG 107 (Rare);I;4;0
 Hop's Corviknight;Pokemon;Metal;170;;Shoot Through|Steel Wing;JTG 108 (Uncommon);I;4;0
 Cufant;Pokemon;Metal;100;;Rollout;JTG 109 (Common);H;4;0
 Copperajah;Pokemon;Metal;190;;Ram|Mega Impact;JTG 110 (Uncommon);H;4;0
-
+Hop's Zacian ex;Pokemon;Metal;230;;Insta-Strike|Brave Slash;JTG 111 (Double Rare)/JTG 176 (Ultra Rare)/JTG 186 (Special Illustration Rare)/SVP 193 (Promo);I;4;0
+Bagon;Pokemon;Dragon;70;;Bite|Reckless Charge;JTG 112 (Common);I;4;0
+Shelgon;Pokemon;Dragon;100;;Guard Press|Heavy Impact;JTG 113 (Common);I;4;0
+Salamence ex;Pokemon;Dragon;320;;Wide Blast|Dragon Impact;JTG 114 (Double Rare)/JTG 177 (Ultra Rare)/JTG 187 (Special Illustration Rare);I;4;0
+Druddigon;Pokemon;Dragon;120;;Dragon's Fury|Slashing Claw;JTG 115 (Common);I;4;0
 N's Reshiram;Pokemon;Dragon;130;;Powerful Rage|Virtuous Flame;JTG 116 (Rare)/JTG 167 (Illustration Rare)/ASC 154 (Rare);I;4;0
+Hop's Snorlax;Pokemon;Colorless;150;Extra Helpings;Dynamic Press;JTG 117 (Rare)/SVP 184 (Promo);I;4;0
+Sentret;Pokemon;Colorless;60;;Smack;JTG 118 (Common);I;4;0
+Furret;Pokemon;Colorless;120;;Scratch|Jet Headbutt;JTG 119 (Common)/JTG 168 (Illustration Rare);I;4;0
+Dunsparce;Pokemon;Colorless;70;;Trading Places|Ram;JTG 120 (Common);I;4;0
 Dudunsparce ex;Pokemon;Colorless;270;;Tenacious Tail|Destructive Drill;JTG 121 (Double Rare)/JTG 178 (Ultra Rare);I;4;0
+
 Hop's Cramorant;Pokemon;Colorless;110;;Fickle Spitting;JTG 138 (Uncommon)/ASC 177 (Uncommon);I;4;0
 # 143 done
 # 144 done
@@ -1225,9 +1237,7 @@ Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
 # 155-156 done
 # 159 - last new card (not done)
-# 160-167 done
-# 171-175 done
-# 178-180 done
-# 182-185 done
-# 188-189 done
+# 160-168 done
+# 171-180 done
+# 182-189 done
 # 190 - last card (not done)
