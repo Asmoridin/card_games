@@ -12,7 +12,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Gundam Card Game"
 
-CURRENT_DECK_ERA = "GD03"
+CURRENT_DECK_ERA = "GD04"
 
 valid_rarities = ['C', 'U', 'R', 'LR']
 valid_types = ['Unit', 'Command', 'Base', 'Pilot', ]
