@@ -919,6 +919,7 @@ Toedscool;Pokemon;Grass;60;;Kick|Absorb;PAR 16 (Common);G;4;0
 Toedscruel;Pokemon;Grass;120;Slime Mold Colony;Mushroom Drain;PAR 17 (Uncommon)/PAR 185 (Illustration Rare);G;4;0
 Charcadet;Pokemon;Fire;80;;Fiery Fighting Spirit|Knuckle Punch;PAR 26 (Common);G;4;0
 Chi-Yu;Pokemon;Fire;110;;Flare Bringer|Megafire of Envy;PAR 29 (Rare)/SVP 57 (Promo);G;4;0
+Feebas;Pokemon;Water;30;;Drawup Power;PAR 35 (Common);G;4;0
 Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)/SVP 58 (Promo)/SVP 66 (Promo);G;4;0
 Iron Hands ex;Pokemon;Lightning;230;;Arm Press|Amp You Very Much;PAR 70 (Double Rare)/PAR 223 (Ultra Rare)/PAR 248 (Special Illustration Rare)/PRE 31 (Double Rare)/PRE 154 (Special Illustration Rare);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
@@ -942,6 +943,7 @@ Technical Machine: Turbo Energize;Trainer;Pokemon Tool;;;;PAR 179 (Uncommon);G;4
 Tulip;Trainer;Supporter;;;;PAR 181 (Uncommon)/PAR 244 (Ultra Rare)/PAR 259 (Special Illustration Rare);G;4;0
 
 # Paldean Fates (PAF)
+Espathra ex;Pokemon;Grass;260;Dazzling Gaze;Psy Ball;PAF 6 (Double Rare)/PAF 214 (Shiny Ultra Rare);G;4;0
 Charmeleon;Pokemon;Fire;90;Flare Veil;Combustion;PAF 8 (Uncommon)/PAF 110 (Shiny Rare);G;4;0
 Magmar;Pokemon;Fire;80;;Collect|Steady Firebreathing;PAF 9 (Common);G;4;3
 Magmortar;Pokemon;Fire;140;;Flare|Volcanic Heat;PAF 10 (Rare);G;4;3
@@ -976,6 +978,7 @@ Dunsparce;Pokemon;Colorless;60;;Gnaw|Dig;TEF 128 (Common)/PRE 79 (Common);H;4;0
 Dudunsparce;Pokemon;Colorless;140;Run Away Draw;Land Crush;TEF 129 (Rare)/PRE 80 (Rare);H;4;0
 Buddy-Buddy Poffin;Trainer;Item;;;;TEF 144 (Uncommon)/TWM 223 (Hyper Rare)/PRE 101 (Uncommon)/MEG 167 (Ultra Rare)/ASC 184 (Common);H;8;2
 Ciphermaniac's Codebreaking;Trainer;Supporter;;;;TEF 145 (Uncommon)/TEF 198 (Ultra Rare)/PRE 104 (Uncommon);H;4;0
+Explorer's Guidance;Trainer;Supporter;;;;TEF 147 (Uncommon)/TEF 200 (Ultra Rare)/PRE 107 (Uncommon);H;4;0
 Hand Trimmer;Trainer;Item;;;;TEF 150 (Uncommon);H;4;1
 Hero's Cape;Trainer;Pokemon Tool;;;;TEF 152 (ACE SPEC Rare);H;2;0
 Maximum Belt;Trainer;Pokemon Tool;;;;TEF 154 (ACE SPEC Rare)/PRE 117 (ACE SPEC Rare);H;2;0
@@ -1224,6 +1227,15 @@ Sentret;Pokemon;Colorless;60;;Smack;JTG 118 (Common);I;4;0
 Furret;Pokemon;Colorless;120;;Scratch|Jet Headbutt;JTG 119 (Common)/JTG 168 (Illustration Rare);I;4;0
 Dunsparce;Pokemon;Colorless;70;;Trading Places|Ram;JTG 120 (Common);I;4;0
 Dudunsparce ex;Pokemon;Colorless;270;;Tenacious Tail|Destructive Drill;JTG 121 (Double Rare)/JTG 178 (Ultra Rare);I;4;0
+Kecleon;Pokemon;Colorless;80;;Stealth Attack;JTG 122 (Common);H;4;0
+Tropius;Pokemon;Colorless;110;;Fruit Bearing|Gust;JTG 123 (Common);H;4;0
+Audino;Pokemon;Colorless;110;;Beckon|Zen Headbutt;JTG 124 (Common);H;4;0
+Minccino;Pokemon;Colorless;70;;Slap;JTG 125 (Common);H;4;0
+Cinccino;Pokemon;Colorless;100;;Tail Smack;JTG 126 (Uncommon);H;4;0
+Noibat;Pokemon;Colorless;60;;Rapid Draw;JTG 127 (Common)/JTG 169 (Illustration Rare);I;4;0
+Noivern;Pokemon;Colorless;110;Tuning Echo;Frightening Howl;JTG 128 (Rare);I;4;0
+Komala;Pokemon;Colorless;100;;Slumbering Smack;JTG 129 (Common);I;4;0
+Drampa;Pokemon;Colorless;120;;Ram|Dragon Claw;JTG 130 (Common);H;4;0
 
 Hop's Cramorant;Pokemon;Colorless;110;;Fickle Spitting;JTG 138 (Uncommon)/ASC 177 (Uncommon);I;4;0
 # 143 done
@@ -1237,7 +1249,7 @@ Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
 # 155-156 done
 # 159 - last new card (not done)
-# 160-168 done
+# 160-169 done
 # 171-180 done
 # 182-189 done
 # 190 - last card (not done)
