@@ -12,7 +12,7 @@ from card_games.General.Libraries.output_utils import double_print
 from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Riftbound"
-DECK_ERA = "02 - Spiritforged"
+DECK_ERA = "03 - Unleashed"
 
 def parse_sets(set_string, this_card_name=""):
     """
@@ -136,7 +136,7 @@ for color_dir in os.listdir(PROCESS_DECK_DIR):
         deck_dict = {}
         for deck_line in deck_lines:
             if deck_line in ['Legend:', 'Runes:', 'Battlefields:', 'Sideboard:', 'Champion:',
-                    'MainDeck:']:
+                    'MainDeck:', 'Main Deck:', 'Rune Pool:']:
                 continue
             try:
                 deck_card_qty = int(deck_line.split(' ')[0])
