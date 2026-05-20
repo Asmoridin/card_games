@@ -954,6 +954,7 @@ Nest Ball;Trainer;Item;;;;Sun & Moon 123 (Uncommon)/Sun & Moon 158 (Rare Secret)
 Rabsca;Pokemon;Grass;70;Spherical Shield;Psychic;TEF 24 (Uncommon);H;4;1
 Iron Leaves ex;Pokemon;Grass;220;Rapid Vernier;Prism Edge;TEF 25 (Double Rare)/TEF 186 (Ultra Rare)/TEF 203 (Special Illustration Rare)/TEF 213 (Hyper Rare)/SVP 128 (Promo)/PRE 176 (Hyper Rare);H;4;0
 Turtonator;Pokemon;Fire;120;;Spit-Out Shot|Steam Artillery;TEF 35 (Common);H;4;1
+Feraligatr;Pokemon;Water;180;Torrential Heart;Giant Wave;TEF 41 (Rare)/SVP 89 (Promo);H;4;0
 Snom;Pokemon;Water;50;;Powder Snow;TEF 45 (Common)/TEF 168 (Illustration Rare);H;4;1
 Finizen;Pokemon;Water;80;;Rain Splash|Sharp Fin;TEF 48 (Common);H;4;1
 Palafin;Pokemon;Water;150;;Vanguard Punch|Double Hit;TEF 49 (Uncommon);H;4;1 # have 1 reverse foil
@@ -1053,6 +1054,7 @@ Cinderace ex;Pokemon;Fire;320;;Flare Strike|Garnet Volley;SCR 28 (Double Rare)/S
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
 Galvantula ex;Pokemon;Lightning;260;;Charged Web|Fulgurite;SCR 51 (Double Rare)/SCR 159 (Ultra Rare)/SCR 168 (Special Illustration Rare);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
+Flittle;Pokemon;Psychic;50;;Peck;SCR 68 (Common);H;4;0
 Duraludon;Pokemon;Metal;130;;Hammer In|Raging Hammer;SCR 106 (Common)/PRE 69 (Common);H;4;0
 Raging Bolt;Pokemon;Dragon;130;;Thunderburst Storm|Dragon Headbutt;SCR 111 (Rare);H;4;0
 Hoothoot;Pokemon;Colorless;70;;Triple Stab;SCR 114 (Common);H;4;0
@@ -1099,6 +1101,7 @@ Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # Prismatic Evolutions
 Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Illustration Rare);H;4;0
+Flareon ex;Pokemon;Fire;270;;Burning Charge|Carnelian;PRE 14 (Double Rare)/PRE 146 (Special Illustration Rare);H;4;0
 Seaking;Pokemon;Water;110;Festival Lead;Rapid Draw;PRE 21 (Uncommon);H;4;0
 Eevee ex;Pokemon;Colorless;200;Rainbow DNA;Coruscating Quartz;PRE 75 (Double Rare)/PRE 167 (Special Illustration Rare)/SVP 174 (Promo);H;4;0
 Hoothoot;Pokemon;Colorless;80;Insomnia;Tackle;PRE 77 (Common);H;4;0
@@ -1236,8 +1239,17 @@ Noibat;Pokemon;Colorless;60;;Rapid Draw;JTG 127 (Common)/JTG 169 (Illustration R
 Noivern;Pokemon;Colorless;110;Tuning Echo;Frightening Howl;JTG 128 (Rare);I;4;0
 Komala;Pokemon;Colorless;100;;Slumbering Smack;JTG 129 (Common);I;4;0
 Drampa;Pokemon;Colorless;120;;Ram|Dragon Claw;JTG 130 (Common);H;4;0
-
+Skwovet;Pokemon;Colorless;60;;Collect|Gnaw;JTG 131 (Common);H;4;0
+Greedent;Pokemon;Colorless;120;;Gluttonous Tail;JTG 132 (Uncommon);H;4;0
+Hop's Rookidee;Pokemon;Colorless;60;;Intimidating Stare|Peck;JTG 133 (Common);I;4;0
+Hop's Corvisquire;Pokemon;Colorless;90;;Speed Dive|Razor Wing;JTG 134 (Common);I;4;0
+Hop's Wooloo;Pokemon;Colorless;70;;Smash Kick;JTG 135 (Common)/JTG 170 (Illustration Rare);I;4;0
+Hop's Dubwool;Pokemon;Colorless;120;Defiant Horn;Headbutt;JTG 136 (Rare);I;4;0
+Cramorant;Pokemon;Colorless;110;;Ceaseless Spitting;JTG 137 (Common);H;4;0
 Hop's Cramorant;Pokemon;Colorless;110;;Fickle Spitting;JTG 138 (Uncommon)/ASC 177 (Uncommon);I;4;0
+Lechonk;Pokemon;Colorless;70;;Ram;JTG 139 (Common);H;4;0
+Oinkologne;Pokemon;Colorless;120;;Aromatic Stomps|Headbutt Bounce;JTG 140 (Uncommon);H;4;0
+
 # 143 done
 # 144 done
 # 145 done
@@ -1249,7 +1261,6 @@ Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
 # 155-156 done
 # 159 - last new card (not done)
-# 160-169 done
-# 171-180 done
+# 160-180 done
 # 182-189 done
 # 190 - last card (not done)

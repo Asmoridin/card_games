@@ -24,8 +24,8 @@
 "He Fights Well...";Action;Dagger/Punch,Thrust;Unique;Scarlet Seas (Rare);0
 "Heave To!";Action;Dagger/Punch,Thrust;;Fate's Debt (Common)/Fate's Debt (Uncommon);0
 "I'll Be Taking That…";Action;Slash/Dagger,Punch;;Strange Vistas (Uncommon);0
-"I'm Not Left-Handed";Action;Dagger/Punch,Thrust;Unique/Swordsman 2/Knack;Scarlet Seas (Rare);0
-"I've Seen Worse";Attachment;;Club/Dagger,Slash;Adventuring 3/Knack;Fate's Debt (Uncommon);0
+"I'm Not Left-Handed";Action;Dagger/Punch,Thrust;Unique/Swordsman 2 Knack;Scarlet Seas (Rare);0
+"I've Seen Worse";Attachment;;Club/Dagger,Slash;Adventuring 3 Knack;Fate's Debt (Uncommon);0
 "It's A Trap.";Action;Dagger/Punch,Thrust;;Scarlet Seas (Uncommon)/Iron Shadow (Fixed);0
 "Listen!";Action;Dagger/Punch,Thrust;;Shifting Tides (Uncommon);0
 "Long Tall" Harry;Crew;Sea Dogs;Punch/Club,Thrust;6 Influence;0 Can/3 Sail/1 Adv/1 Inf/1 Swash;Unique/Loyal/Topman;Shifting Tides (Rare);0
@@ -73,5 +73,10 @@
 "X" Almost Marks the Spot;Action;Dagger/Punch,Thrust;;Iron Shadow (Uncommon)/Strange Vistas (Rare);0
 "You Won't be Needin' This!";Action;Slash/Dagger,Punch;;Broadsides (Rare)/No Quarter (Rare);0
 12-Pound Cannon Volley;Action;Slash/Dagger,Punch;;Iron Shadow (Common)/Broadsides (Common)/No Quarter (Common);0
+16-Pound Cannon Volley;Action;Slash/Dagger,Punch;;Iron Shadow (Common)/Broadsides (Uncommon)/No Quarter (Common);0
+20-Pound Cannon Volley;Action;Slash/Dagger,Punch;;No Quarter (Rare)/Broadsides (Rare)/Iron Shadow (Uncommon);0
+7th Sea Eddy;Action;Dagger/Punch,Thrust;;Scarlet Seas (Rare);0
+A Better Offer;Action;Dagger/Punch,Thrust;;No Quarter (Common)/Broadsides (Common)/Iron Shadow (Common)/Syrneth Secrets (Fixed);0
+A Blooded Coin;Attachment;;Club/Dagger,Slash;Item/Porté 1 Knack;Horizon's Edge (Uncommon)/Iron Shadow (Fixed);0
 
-# Done through card 75
+# Done through card 80
