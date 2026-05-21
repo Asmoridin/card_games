@@ -874,6 +874,7 @@ Vitality Band;Trainer;Pokemon Tool;;;;Sword & Shield 185 (Uncommon)/SVI 197 (Unc
 Youngster;Trainer;Supporter;;;;SVI 198 (Uncommon);G;8;3
 
 # Paldea Evolved (PAL)
+Forretress ex;Pokemon;Grass;270;Exploding Energy;Guard Press;PAL 5 (Double Rare)/PAL 230 (Ultra Rare)/PAF 2 (Double Rare)/PAF 212 (Shiny Ultra Rare);G;4;0
 Paldean Tauros;Pokemon;Fire;130;;Raging Horns|Blaze Dash;PAL 28 (Uncommon)/PAF 111 (Shiny Rare);G;4;2
 Fuecoco;Pokemon;Fire;80;;Tackle;PAL 34 (Common)/SVP  79 (Promo);G;4;4
 Crocalor;Pokemon;Fire;110;;Steady Firebreathing|Hyper Voice;PAL 36 (Uncommon)/PAL 202 (Illustration Rare)/SVP 80 (Promo);G;4;3
@@ -920,11 +921,12 @@ Toedscruel;Pokemon;Grass;120;Slime Mold Colony;Mushroom Drain;PAR 17 (Uncommon)/
 Charcadet;Pokemon;Fire;80;;Fiery Fighting Spirit|Knuckle Punch;PAR 26 (Common);G;4;0
 Chi-Yu;Pokemon;Fire;110;;Flare Bringer|Megafire of Envy;PAR 29 (Rare)/SVP 57 (Promo);G;4;0
 Feebas;Pokemon;Water;30;;Drawup Power;PAR 35 (Common);G;4;0
+Slither Wing;Pokemon;Fighting;140;;Stomp Off|Burning Turbulence;PAR 41 (Uncommon)/PAR 203 (Illustration Rare);G;4;0
 Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)/SVP 58 (Promo)/SVP 66 (Promo);G;4;0
 Iron Hands ex;Pokemon;Lightning;230;;Arm Press|Amp You Very Much;PAR 70 (Double Rare)/PAR 223 (Ultra Rare)/PAR 248 (Special Illustration Rare)/PRE 31 (Double Rare)/PRE 154 (Special Illustration Rare);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
-Slither Wing;Pokemon;Fighting;140;;Stomp Off|Burning Turbulence;PAR 41 (Uncommon)/PAR 203 (Illustration Rare);G;4;0
+Gimmighoul;Pokemon;Psychic;50;;Call for Family|Corkscrew Punch;PAR 87 (Common);G;4;0
 Brute Bonnet;Pokemon;Darkness;120;Toxic Powder;Rampaging Hammer;PAR 123 (Rare)/PAR 207 (Illustration Rare);G;4;0
 Roaring Moon ex;Pokemon;Darkness;230;;Frenzied Gouging|Calamity Storm;PAR 124 (Double Rare)/PAR 229 (Ultra Rare)/PAR 251 (Special Illustration Rare)/PAR 262 (Hyper Rare)/SVP 67 (Promo)/PRE 162 (Special Illustration Rare);G;4;0
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
@@ -947,6 +949,7 @@ Espathra ex;Pokemon;Grass;260;Dazzling Gaze;Psy Ball;PAF 6 (Double Rare)/PAF 214
 Charmeleon;Pokemon;Fire;90;Flare Veil;Combustion;PAF 8 (Uncommon)/PAF 110 (Shiny Rare);G;4;0
 Magmar;Pokemon;Fire;80;;Collect|Steady Firebreathing;PAF 9 (Common);G;4;3
 Magmortar;Pokemon;Fire;140;;Flare|Volcanic Heat;PAF 10 (Rare);G;4;3
+Frigibax;Pokemon;Water;70;;Collect|Beat;PAF 17 (Common)/PAF 128 (Shiny Rare);G;4;0
 Iono;Trainer;Supporter;;;;PAL 185 (Uncommon)/PAL 254 (Ultra Rare)/PAL 269 (Special Illustration Rare)/PAF 80 (Uncommon)/PAF 237 (Special Illustration Rare)/SVP 124 (Promo);G;8;1
 Nest Ball;Trainer;Item;;;;Sun & Moon 123 (Uncommon)/Sun & Moon 158 (Rare Secret)/SVI 181 (Uncommon)/SVI 255 (Hyper Rare)/PAF 84 (Uncommon);G;8;6
 
@@ -1249,13 +1252,14 @@ Cramorant;Pokemon;Colorless;110;;Ceaseless Spitting;JTG 137 (Common);H;4;0
 Hop's Cramorant;Pokemon;Colorless;110;;Fickle Spitting;JTG 138 (Uncommon)/ASC 177 (Uncommon);I;4;0
 Lechonk;Pokemon;Colorless;70;;Ram;JTG 139 (Common);H;4;0
 Oinkologne;Pokemon;Colorless;120;;Aromatic Stomps|Headbutt Bounce;JTG 140 (Uncommon);H;4;0
-
-# 143 done
-# 144 done
-# 145 done
+Squawkabilly;Pokemon;Colorless;70;;Add On|Hyper Voice;JTG 141 (Common);H;4;0
+Billy & O'Nare;Trainer;Supporter;;;;JTG 142 (Common);H;4;0
 Brock's Scouting;Trainer;Supporter;;;;JTG 146 (Uncommon)/JTG 179 (Ultra Rare);I;4;0
+Hop's Bag;Trainer;Item;;;;JTG 147 (Uncommon);I;4;0
+Hop's Choice Band;Trainer;Pokemon Tool;;;;JTG 148 (Uncommon);I;4;0
 Iris's Fighting Spirit;Trainer;Supporter;;;;JTG 149 (Uncommon)/JTG 180 (Ultra Rare)/ASC 190 (Uncommon)/ASC 292 (Special Illustration Rare);I;4;0
 Levincia;Trainer;Stadium;;;;JTG 150 (Uncommon)/DRI 244 (Hyper Rare);I;4;0
+
 N's PP Up;Trainer;Item;;;;JTG 153 (Uncommon)/ASC 195 (Uncommon)/ASC 262 (Ultra Rare);I;4;0
 Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
