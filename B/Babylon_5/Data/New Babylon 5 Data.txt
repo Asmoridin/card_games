@@ -32,7 +32,7 @@ Acolyte;The Great War;Character;Minbari;Religious Caste;;U;1
 Act of War;The Shadows;Event;;;;C;3
 Additional Force;The Shadows;Event;;;;R;0
 Adira Tyree;Deluxe;Character;Centauri;;;F;2
-Administrator Drake;Psi Corps;Character;Human;Psi Corps Character/Psi Cop/Conspiracy Mark;Psi Corps Character;F;3
+Administrator Drake;Psi Corps;Character;Human;Psi Corps Character/Psi Cop/Conspiracy Marks;Psi Corps Character;F;3
 Advance Fleet;The Great War;Fleet;Narn;;;U;2
 Advanced Training;The Great War;Enhancement;;;Ranger;C;2
 Affirm Alliance;Premier;Event;;;;F;3
@@ -48,17 +48,17 @@ Agents Durkani & Lyssa;Crusade;Character;Neutral;Explorer;Conspiracy Marks;R;0
 Aggressive Action;The Great War;Conflict;;;;R;1
 Agitation;Wheel of Fire;Conflict;;;;U;0
 Aiding the Shadows;The Shadows;Event;;;Shadow Marks;C;3
-
-Aiding the Vorlons;The Shadows;Event;;C;2
-Ain't I a Stinker?;Crusade;Event;;R;0
-Airlock Mishap;Wheel of Fire;Event;;C;0
-Alexander;Severed Dreams;Enhancement;;R;1
-Alfred Bester;Psi Corps;Character;Human;R;0
-Alien Scum;Severed Dreams;Event;;C;2
-Alien Takeover;Crusade;Conflict;;U;0
-Alisa Beldon;Psi Corps;Character;Neutral;C;0
-All Alone in the Night;Wheel of Fire;Aftermath;;C;0
-All In the Cards;Crusade;Event;;R;0
+Aiding the Vorlons;The Shadows;Event;;;Vorlon Marks;C;2
+Ain't I a Stinker?;Crusade;Event;;;;R;0
+Airlock Mishap;Wheel of Fire;Event;;;;C;0
+Alexander;Severed Dreams;Enhancement;;Flagship;Flagship;R;1
+Alfred Bester;Psi Corps;Character;Human;Psi Corps Character/Psi Cop/Conspiracy Marks/Destiny Marks;Conspiracy Marks;R;0
+Alien Scum;Severed Dreams;Event;;Nightwatch;Nightwatch;C;2
+Alien Takeover;Crusade;Conflict;;Explorer;;U;0
+Alisa Beldon;Psi Corps;Character;Neutral;;;C;0
+All Alone in the Night;Wheel of Fire;Aftermath;;;Unrest;C;0
+All In the Cards;Crusade;Event;;;;R;0
+# Done through here
 All or Nothing;The Great War;Event;;C;2
 Alliance Fleet;Wheel of Fire;Fleet;Babylon 5;R;0
 Alliance of Races;Premier;Agenda;;F;1
