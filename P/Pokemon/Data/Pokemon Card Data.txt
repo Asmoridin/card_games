@@ -882,6 +882,7 @@ Arctibax;Pokemon;Water;90;;Sharp Fin|Frost Smash;PAL 59 (Uncommon)/PAL 209 (Illu
 Baxcalibur;Pokemon;Water;160;Super Cold;Buster Tail;PAL 60 (Rare)/PAL 210 (Illustration Rare)/SVP 19 (Promo)/PAF 130 (Shiny Rare);G;4;0
 Chien-Pao ex;Pokemon;Water;220;Shivery Chill;Hail Blade;PAL 61 (Double Rare)/PAL 236 (Ultra Rare)/PAL 261 (Special Illustration Rare)/PAL 274 (Hyper Rare)/SVP 30 (Promo)/PAF 242 (Hyper Rare);G;4;0
 Mimikyu;Pokemon;Psychic;70;Safeguard;Ghost Eye;PAL 97 (Rare)/PAF 37 (Rare)/PAF 160 (Shiny Rare)/SVP 75 (Promo);G;4;1
+Grafaiai;Pokemon;Darkness;90;;Spit Poison;Colorful Graffiti;PAL 146 (Uncommon)/PAL 223 (Illustration Rare)/PAF 190 (Shiny Rare);G;4;0
 Dunsparce;Pokemon;Colorless;70;;Find a Friend|Bite;PAL 156 (Common);G;4;0
 Squawkabilly ex;Pokemon;Colorless;160;Squawk and Seize;Motivate;PAL 169 (Double Rare)/PAL 247 (Ultra Rare)/PAL 264 (Special Illustration Rare)/PAF 75 (Double Rare)/PAF 223 (Shiny Ultra Rare)/SVP 160 (Promo);G;4;0
 Artazon;Trainer;Stadium;;;;PAL 171 (Uncommon)/OBF 229 (Hyper Rare)/PAF 76 (Uncommon);G;4;0
@@ -1020,6 +1021,7 @@ Bug Catching Set;Trainer;Item;;;;TWM 143 (Uncommon)/PRE 102 (Uncommon);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 Festival Grounds;Trainer;Stadium;;;;TWM 149 (Uncommon)/PRE 108 (Uncommon);H;4;0
+Handheld Fan;Trainer;Pokemon Tool;;;;TWM 150 (Uncommon);H;4;0
 Jamming Tower;Trainer;Stadium;;;;TWM 153 (Uncommon)/DRI 243 (Hyper Rare)/ASC 261 (Ultra Rare);H;4;0
 Kieran;Trainer;Supporter;;;;TWM 154 (Uncommon)/TWM 206 (Ultra Rare)/TWM 218 (Special Illustration Rare)/PRE 113 (Uncommon)/PRE 174 (Special Illustration Rare);H;4;0
 Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
@@ -1067,10 +1069,11 @@ Bouffalant;Pokemon;Colorless;100;Curly Wall;Boundless Power;SCR 119 (Rare)/SVP 1
 Terapagos ex;Pokemon;Colorless;230;;Unified Beatdown|Crown Opal;SCR 128 (Double Rare)/SCR 170 (Special Illustration Rare)/SCR 173 (Hyper Rare)/SVP 165 (Promo)/PRE 92 (Double Rare)/PRE 169 (Special Illustration Rare)/PRE 180 (Hyper Rare)/ASC 179 (Double Rare);H;4;0
 Antique Cover Fossil;Trainer;Item;;;;SCR 129 (Common)/BLK 80 (Common);H;4;0
 Area Zero Underdepths;Trainer;Stadium;;;;SCR 131 (Uncommon)/SCR 174 (Hyper Rare)/PRE 94 (Uncommon);H;4;0
-Glass Trumpet;Trainer;Item;;;;SCR 135 (Uncommon)/PRE 110 (Uncommon)/ASC 189 (Common)/ASC 260 (Ultra Rare);H;4;0
-Grand Tree;Trainer;Stadium;;;;SCR 136 (ACE SPEC Rare);H;2;0
 Briar;Trainer;Supporter;;;;SCR 132 (Uncommon)/SCR 163 (Ultra Rare)/SCR 171 (Special Illustration Rare)/PRE 100 (Uncommon);H;4;0
 Crispin;Trainer;Supporter;;;;SCR 133 (Uncommon)/SCR 164 (Ultra Rare)/PRE 105 (Uncommon)/PRE 171 (Special Illustration Rare);H;4;0
+Glass Trumpet;Trainer;Item;;;;SCR 135 (Uncommon)/PRE 110 (Uncommon)/ASC 189 (Common)/ASC 260 (Ultra Rare);H;4;0
+Grand Tree;Trainer;Stadium;;;;SCR 136 (ACE SPEC Rare);H;2;0
+Gravity Gemstone;Trainer;Pokemon Tool;;;;SCR 137 (Uncommon);H;4;0
 Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE SPEC Rare);H;2;0
 
 # Surging Sparks
@@ -1259,12 +1262,30 @@ Hop's Bag;Trainer;Item;;;;JTG 147 (Uncommon);I;4;0
 Hop's Choice Band;Trainer;Pokemon Tool;;;;JTG 148 (Uncommon);I;4;0
 Iris's Fighting Spirit;Trainer;Supporter;;;;JTG 149 (Uncommon)/JTG 180 (Ultra Rare)/ASC 190 (Uncommon)/ASC 292 (Special Illustration Rare);I;4;0
 Levincia;Trainer;Stadium;;;;JTG 150 (Uncommon)/DRI 244 (Hyper Rare);I;4;0
-
+Lillie's Pearl;Trainer;Pokemon Tool;;;;JTG 151 (Uncommon);I;4;0
+N's Castle;Trainer;Stadium;;;;JTG 152 (Uncommon);I;4;0
 N's PP Up;Trainer;Item;;;;JTG 153 (Uncommon)/ASC 195 (Uncommon)/ASC 262 (Ultra Rare);I;4;0
+Postwick;Trainer;Stadium;;;;JTG 154 (Uncommon);I;4;0
 Redeemable Ticket;Trainer;Item;;;;JTG 156 (Uncommon);I;4;0
 
-# 155-156 done
 # 159 - last new card (not done)
 # 160-180 done
 # 182-189 done
 # 190 - last card (not done)
+
+# Chaos Rising
+Weedle;Pokemon;Grass;50;;Surprise Attack;CRI 1 (Common);J;4;0
+Kakuna;Pokemon;Grass;80;Exoskeleton;Hang Down;CRI 2 (Common);J;4;0
+Beedrill ex;Pokemon;Grass;310;;Rumbling Bees;CRI 3 (Double Rare)/CRI 98 (Ultra Rare);J;4;0
+Carnivine;Pokemon;Grass;110;;Chomp Whole;CRI 4 (Common);J;4;0
+Chespin;Pokemon;Grass;70;;Beat|Spike Sting;CRI 5 (Common)/CRI 87 (Illustration Rare);J;4;0
+Quilladin;Pokemon;Grass;100;;Leafy Charge|Vine Whip;CRI 6 (Common);J;4;0
+Chesnaught;Pokemon;Grass;180;Needly Armor;Impound;CRI 7 (Rare);J;4;0
+Vulpix;Pokemon;Fire;70;;Singe;CRI 8 (Common);J;4;0
+Ninetales;Pokemon;Fire;120;;Nine-Tailed Transfer|Will-O-Wisp;CRI 9 (Uncommon);J;4;0
+Ho-Oh;Pokemon;Fire;130;;Flames of Revival|Bright Wing;CRI 10 (Rare);J;4;0
+
+# 86 last new card (not done)
+# 87 done
+# 98 done
+# 122 last card (not done)
