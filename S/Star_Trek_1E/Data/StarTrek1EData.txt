@@ -916,10 +916,20 @@ Hirogen Disruptor Rifle;Equipment;;The Borg;1288;;4;0
 Hirogen Hunt;Incident;;The Borg;1289;;4;0
 Hirogen Outpost;Facility;Hirogen;The Borg/Homefront VI;182,4702;;4;0
 Hirogen Talon;Equipment;;The Borg;1290;;4;0
+His Honor, The High Sheriff of Nottingham;Q Dilemma;;Q Continuum;1291;;4;0
+Historical Research;Mission;Planet;Mirror, Mirror;1292,4821;;2;0
 Hogan;Personnel;Federation;The Borg;183;184;4;0
 Hogan;Personnel;Non-Aligned;The Borg;184;183;4;0
 Hogue;Personnel;Cardassian;Deep Space 9;185,4416;;4;0
+Holding Cell Door;Doorway;;Blaze of Glory/Homefront VI;1293,4669;;4;0
 Holo-Projectors;Event;;Premiere/Holodeck Adventures/Homefront VI;1301,1302,4692,6132,6495,6858,7780,8144;;4;1
+Holodeck Door;Doorway;;Holodeck Adventures;1294;;4;0
+Hologram Ruse;Dilemma;Planet;Premiere/Virtual Promos;1295,5826,6131,6494,6857,7779,8143;;4;0
+Holoprogram: 221B Baker Street;Incident;;Holodeck Adventures;1296;;4;0
+Holoprogram: Deadwood;Incident;;Holodeck Adventures;1297;;4;0
+Holoprogram: Fortress of Doom;Incident;;Holodeck Adventures;1299;;4;0
+Holoprogram: Noah's Mountain Retreat;Incident;;Holodeck Adventures;1298;;4;0
+Holoprogram: The Office of Dixon Hill;Incident;;Holodeck Adventures;1300;;4;0
 Holosuite;Site;;Holodeck Adventures/Homefront V;186,4468,7180;;2;0
 Hophalin;Personnel;Vidiian;Voyager;187;;4;0
 Horga'hn;Artifact;;Premiere;1308,3534,6134,6497,6860,7782,8146;;2;0 # Needs errata
@@ -1458,7 +1468,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1290
+# Done through card 1300
 #1301-1302
 #1308
 #1328
@@ -1694,7 +1704,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4658
 #4660-4662
 #4665
-#4667-4668
+#4667-4669
 #4677-4680
 #4689
 #4691-4692
@@ -1712,7 +1722,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4806
 #4808
 #4812-4815
-#4820
+#4820-4821
 #4824
 #4826
 #4828-4829
@@ -1783,15 +1793,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5811-5815
 #5817
 #5821-5822
-#5824-5825
+#5824-5826
 #5827
 #5829-5830
 #5894
 #5900-5905
 #5909-5913
 #5916-5918
-#5966-6130
-#6132
+#5966-6132
 #6134
 #6137
 #6145-6148
@@ -1842,8 +1851,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6493
-#6495
+#6464-6495
 #6497
 #6500
 #6508-6511
@@ -1894,8 +1902,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6856
-#6858
+#6823-6858
 #6860
 #6863
 #6871-6874
@@ -1979,8 +1986,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7725-7738
 #7740-7741
 #7743-7762
-#7766-7778
-#7780
+#7766-7780
 #7782
 #7785
 #7793
@@ -2052,8 +2058,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8120-8121
 #8123-8126
 #8130-8139
-#8141-8142
-#8144
+#8141-8144
 #8146
 #8149
 #8157
