@@ -3390,12 +3390,24 @@ Daigotsu Ishibashi;Personality;Spider;Emperor Edition (Uncommon)/Emperor Edition
 Daigotsu Isoroku • Experienced;Personality;Spider;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Daigotsu Isoroku;Personality;Spider;Path of the Destroyer (Uncommon);Destroyer War (Celestial);3;0
 Daigotsu Junichi;Personality;Spider;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;0
+Daigotsu Kaikou;Personality;Spider;Drums of War (Uncommon);Age of Enlightenment (Lotus);3;0
+Daigotsu Kaikou;Personality;Spider;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
 Daigotsu Kanpeki • Experienced 5;Personality;Spider;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Daigotsu Kanpeki • Experienced;Personality;Spider;Emperor Edition (Fixed);Age of Conquest (Emperor);1;0
+Daigotsu Kanpeki;Holding;;Test of the Emerald and Jade Championships (Fixed);Race for the Throne (Samurai);1;0
+Daigotsu Kazuko;Personality;Spider;Embers of War (Uncommon);Age of Conquest (Emperor);3;0
+Daigotsu Keigo;Personality;Spider;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
+Daigotsu Kendo;Personality;Spider;Emperor Edition (Common);Age of Conquest (Emperor);3;0
+Daigotsu Kendo;Personality;Spider;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;0
+Daigotsu Kendo;Personality;Spider;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
+Daigotsu Koneru;Personality;Spider;The Harbinger (Common);Destroyer War (Celestial);3;0
 Daigotsu Konishi;Personality;Spider;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Daigotsu Konishi;Personality;Spider;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Daigotsu Konishi;Personality;Spider;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Daigotsu Konishi;Personality;Spider;Shattered Empire (Fixed);Shattered Empire;3;0
+Daigotsu Koshiro;Personality;Unaligned;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Daigotsu Kurai;Personality;Spider;The Heaven's Will (Common);Race for the Throne (Samurai);3;0
+Daigotsu Makishi;Personality;Unaligned;Rise of the Shogun (Common);Age of Enlightenment (Lotus);3;0
 Daigotsu Rai;Personality;Spider;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Daigotsu Rin;Personality;Spider;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Daigotsu Rin;Personality;Spider;Shattered Empire (Fixed);Shattered Empire;3;0
@@ -4033,6 +4045,7 @@ Forgotten Legacy;Holding;;Twenty Festivals (Uncommon);A Brother's Destiny (Twent
 Forgotten Legacy;Holding;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;1
 Forgotten Mine;Holding;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Forgotten Mine;Holding;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
+Forgotten Outpost;Holding;;Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Forgotten Storage;Holding;;Road to Ruin (Fixed);Shattered Empire;3;0
@@ -4844,6 +4857,8 @@ Jade Legion;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Jade Legion;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Jade No-Dachi;Item;;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
 Jade No-Dachi;Item;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);1;0
+Jade Pearl Inn;Holding;;Aftermath (Rare);A Brother's Destiny (Ivory Edition);3;0
+Jade Pearl Inn;Holding;;Aftermath (Rare);Age of Conquest (Emperor);3;0
 Jade Strike • Experienced;Spell;;Chaos Reigns II (Fixed);Shattered Empire;3;0
 Jade Works;Holding;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
 Jade Works;Holding;;Imperial Edition (Common)/Emerald Edition (Common)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Common);Clan Wars (Imperial);3;3
@@ -5311,6 +5326,8 @@ Lsinyuan;Personality;Spirit;The War of Spirits (Common);Hidden Emperor (Jade);3;
 Luring Tactics;Strategy;;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Luring Tactics;Strategy;;The War of Spirits (Uncommon);Four Winds (Gold);3;0
 Luring Tactics;Strategy;;The War of Spirits (Uncommon);Hidden Emperor (Jade);3;3
+Luxurious Silk;Holding;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Luxurious Silk;Holding;;Promotional–Lotus (Promo);Age of Enlightenment (Lotus);3;0
 M'rika • Experienced 2;Personality;Spider;Chaos Reigns I (Fixed);Shattered Empire;1;0
 Machinations;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
 Maemikake Shiro;Holding;;Chaos Reigns II (Fixed);Shattered Empire;1;0
@@ -8525,8 +8542,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1730
-#1733
+# Done through card #1740
 #1791-1792
 #1797-1798
 #1837
@@ -8609,6 +8625,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2619
 #2633-2634
 #2639
+#2658
 #2666
 #2687
 #2694
@@ -8788,6 +8805,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4762
 #4771
 #4784-4785
+#4787
 #4791
 #4794
 #4799
@@ -9419,7 +9437,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #10741
 #10749
 #10820
-#10827-10828
+#10826-10828
 #10830
 #10832
 #10869
