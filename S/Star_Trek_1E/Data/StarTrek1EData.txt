@@ -710,7 +710,7 @@ Evade Assailants;Mission;Planet;To the Journey;8492;;2;0
 Evade Detection II;Mission;Space;To the Journey;8517,8518;;2;0
 Evade Detection;Mission;Space;To the Journey;8493;;2;0
 Evade Neural Harvest;Mission;Space;To the Journey;8494;;2;0
-Evaluate Terraforming;Mission;Planet;Premiere;1159,6110,6473,6836,7758;;2;1
+Evaluate Terraforming;Mission;Planet;Premiere;1159,6110,6473,6836,7758,8122;;2;1
 Evasive Maneuvers;Tactic;;Blaze of Glory/BaH!;1160,3711;;10;0
 Evek;Personnel;Non-Aligned;Premiere;1161,6111,6474,6837,7759,8123;;2;0
 Examine Singularity;Objective;;Blaze of Glory;1162;;4;0
@@ -846,7 +846,7 @@ Gift of the Tormentor;Q Interrupt;;Q Continuum;1248;;4;0
 Gilora Rejal;Personnel;Cardassian;Deep Space 9;1249,4415;;2;0
 Giusti;Personnel;Federation;Premiere;170,5991,6354,6717,7639;;4;0
 Go Back Whence Thou Camest;Q Dilemma;;Q Continuum;1251;;4;0
-Goddess of Empathy;Event;;Premiere;1253,6128,6491,6854,7776;;4;1
+Goddess of Empathy;Event;;Premiere;1253,6128,6491,6854,7776,8140;;4;1
 Going to the Top;Interrupt;;Deep Space 9/Virtual Promos;1254,5351;;4;0
 Gold-Pressed Latinum;Equipment;;Rules of Acquisition/Homefront II;1255,3860,5660;;4;0
 Gomtuu;Ship;Non-Aligned;Alternate Universe/Reflections;1256,3624;;2;0
@@ -931,8 +931,25 @@ Holoprogram: Fortress of Doom;Incident;;Holodeck Adventures;1299;;4;0
 Holoprogram: Noah's Mountain Retreat;Incident;;Holodeck Adventures;1298;;4;0
 Holoprogram: The Office of Dixon Hill;Incident;;Holodeck Adventures;1300;;4;0
 Holosuite;Site;;Holodeck Adventures/Homefront V;186,4468,7180;;2;0
+Home Away From Home;Incident;;Voyager;1303;;4;0
+Homefront;Incident;;The Trouble with Tribbles;1304;;4;0
+Homeward;Mission;Planet;Introductory 2-Player Game;1305;;2;0
+Hon'Tihl;Personnel;Klingon;Blaze of Glory/Trouble with Tribbles Starter Decks;1307,7137;;2;0
+Honor Challenge;Interrupt;;Premiere;1306,6133,6496,6859,7781,8145;;4;0
 Hophalin;Personnel;Vidiian;Voyager;187;;4;0
 Horga'hn;Artifact;;Premiere;1308,3534,6134,6497,6860,7782,8146;;2;0 # Needs errata
+Horta;Dilemma;Planet;Mirror, Mirror/Virtual Promos;1309,4488;;4;0
+Hoshi Sato;Personnel;Starfleet;Enterprise Collection;1310,5460;;2;0
+Hostage Situation;Mission;Planet;Introductory 2-Player Game;1311;;2;0
+Hostage Trade;Incident;;Mirror, Mirror;1312;;2;0
+Howard Heirloom Candle;Interrupt;;Alternate Universe;1313;;4;0
+HQ: Defensive Measures;Objective;;Deep Space 9/Homefront III;1314,4109;;4;0
+HQ: Ferengi Credit Exchange;Incident;;Rules of Acquisition;1315;;4;0
+HQ: Orbital Weapons Platform;Incident;;The Trouble with Tribbles/Referee Reprints;1316,3097;;4;0
+HQ: Return Orb to Bajor;Objective;;Deep Space 9/Virtual Promos;1317,5819;;4;0
+HQ: Secure Homeworld;Objective;;Deep Space 9/Virtual Promos;1318,3481,4403;;4;0
+HQ: War Room;Event;;Deep Space 9/Homefront II;1319,3862;;4;0
+Hugh;Interrupt;;Premiere;1320,6135,6498,6861,7783,8147;;4;0
 Hunting Vessel;Ship;Hirogen;The Borg/Borderless Promos;188,5595;;4;0
 Husnock Ship;Ship;Non-Aligned;Premiere/Borderless Promos;189,5597,5994,6357,6720,7642;;4;0
 Hyper-Aging;Dilemma;Planet;Premiere;1328,6137,6500,6863,7785,8149;;4;1
@@ -1468,9 +1485,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1300
-#1301-1302
-#1308
+# Done through card 1320
 #1328
 #1365-1366
 #1378
@@ -1580,12 +1595,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3082-3083
 #3085-3090
 #3092
+#3097
 #3099
 #3117
 #3404-3405
 #3407
 #3476
 #3479
+#3481
 #3484
 #3486-3490
 #3492-3493
@@ -1629,6 +1646,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3851-3854
 #3856
 #3858-3860
+#3862
 #3866-3867
 #3874
 #3878
@@ -1658,7 +1676,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4096-4097
 #4103
 #4105
-#4108
+#4108-4109
 #4112
 #4114
 #4118
@@ -1679,7 +1697,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4388-4389
 #4391
 #4393
-#4399-4402
+#4399-4403
 #4406-4409
 #4411-4416
 #4418
@@ -1694,7 +1712,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4470
 #4477
 #4485
-#4489
+#4488-4489
 #4491-4492
 #4496
 #4565-4566
@@ -1762,7 +1780,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5435-5438
 #5449
 #5351
-#5456-5459
+#5456-5460
 #5468
 #5493
 #5496
@@ -1792,6 +1810,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5809
 #5811-5815
 #5817
+#5819
 #5821-5822
 #5824-5826
 #5827
@@ -1800,8 +1819,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5909-5913
 #5916-5918
-#5966-6132
-#6134
+#5966-6135
 #6137
 #6145-6148
 #6150
@@ -1851,8 +1869,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6495
-#6497
+#6464-6498
 #6500
 #6508-6511
 #6513
@@ -1902,8 +1919,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6858
-#6860
+#6823-6861
 #6863
 #6871-6874
 #6876
@@ -1954,7 +1970,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7054-7058
 #7060
 #7063-7067
-#7098-7136
+#7098-7137
 #7145-7149
 #7152
 #7159
@@ -1986,8 +2002,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7725-7738
 #7740-7741
 #7743-7762
-#7766-7780
-#7782
+#7766-7783
 #7785
 #7793
 #7795-7796
@@ -2055,11 +2070,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8104-8105
 #8107-8110
 #8113-8117
-#8120-8121
-#8123-8126
-#8130-8139
-#8141-8144
-#8146
+#8120-8126
+#8130-8147
 #8149
 #8157
 #8162
