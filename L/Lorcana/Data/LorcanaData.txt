@@ -559,17 +559,17 @@ Fred - Giant‐Sized;Character;Emerald;Floodborn/Hero;Reign of Jafar (Rare);0
 Fred - Major Science Enthusiast;Character;Emerald;Storyborn/Hero;Reign of Jafar (Common);0
 Fred - Mascot by Day;Character;Emerald;Storyborn/Hero;Azurite Sea (Common);1
 Freeze the Vine;Action;Emerald;;Winterspell (Rare);0
-# Traits done through here
 Freeze;Action;Amethyst;;The First Chapter (Common);0
-Friar Tuck - Priest of Nottingham;Character;Emerald;;Into the Inklands (Uncommon);0
-Friend Like Me;Action;Sapphire;;Into the Inklands (Rare);0
-Friend Owl - Cantankerous Neighbor;Character;Ruby;;Reign of Jafar (Common);1
-Friends on the Other Side;Action;Amethyst;;The First Chapter (Common);3
+Friar Tuck - Priest of Nottingham;Character;Emerald;Storyborn/Ally;Into the Inklands (Uncommon);0
+Friend Like Me;Action;Sapphire;Song;Into the Inklands (Rare);0
+Friend Owl - Cantankerous Neighbor;Character;Ruby;Storyborn/Ally;Reign of Jafar (Common);1
+Friends on the Other Side;Action;Amethyst;Song;The First Chapter (Common);3
 Frying Pan;Item;Steel;;The First Chapter (Uncommon);2
-Gadget Hackwrench - Brilliant Bosun;Character;Sapphire;;Azurite Sea (Super Rare);0
-Gadget Hackwrench - Creative Thinker;Character;Sapphire;;Azurite Sea (Common);2
-Gadget Hackwrench - Perceptive Mouse;Character;Sapphire;;Azurite Sea (Common);1
-Gadget Hackwrench - Quirky Scientist;Character;Emerald;;Reign of Jafar (Rare);0
+Gadget Hackwrench - Brilliant Bosun;Character;Sapphire;Floodborn/Ally/Inventor;Azurite Sea (Super Rare);0
+Gadget Hackwrench - Creative Thinker;Character;Sapphire;Storyborn/Ally/Inventor;Azurite Sea (Common);2
+Gadget Hackwrench - Perceptive Mouse;Character;Sapphire;Storyborn/Ally/Inventor;Azurite Sea (Common);1
+Gadget Hackwrench - Quirky Scientist;Character;Emerald;Storyborn/Ally/Inventor;Reign of Jafar (Rare);0
+# Traits done through here
 Gaetan Moliere - The Mole;Character;Sapphire;;Archazia's Island (Uncommon);2
 Galactic Communicator;Item;Emerald;;Azurite Sea (Common);0
 Galactic Council Chamber;Location;Steel;;Azurite Sea (Common);0
@@ -2109,8 +2109,26 @@ Snow White - Merry as the Morning;Character;Amethyst;Dreamborn/Hero/Princess;Wil
 Dopey - Drawn to Music;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;Wilds Unknown (Uncommon);1
 Bashful - Riding the Rails;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;Wilds Unknown (Common);0
 Doc - Taking Notes;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;Wilds Unknown (Uncommon);0
-
+Grumpy - Soreheaded Miner;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;Wilds Unknown (Common);0
+Sneezy - Startlingly Loud;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;Wilds Unknown (Common);0
+Happy - Joyful Adventurer;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;Wilds Unknown (Common);0
+Sleepy - Deep Sleeper;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;Wilds Unknown (Common);0
+Alma Madrigal - Heart of the Family;Character;Amethyst;Storyborn/Mentor/Madrigal;Wilds Unknown (Common);0
+Frozone - Super Slick;Character;Amethyst;Storyborn/Super/Hero;Wilds Unknown (Common);0
+Will O' the Wisp - Forest Spirit;Character;Amethyst;Storyborn;Wilds Unknown (Common);0
+Violet Parr - Learning New Powers;Character;Amethyst;Storyborn/Super/Hero;Wilds Unknown (Uncommon);0
+Mrs. Incredible - Super Stretchy;Character;Amethyst;Storyborn/Super/Hero;Wilds Unknown (Rare);0
 Mirage - Super Recruiter;Character;Amethyst;Storyborn/Ally;Wilds Unknown (Common);2
+Hamish, Hubert & Harris - Making Mischief;Character;Amethyst;Storyborn/Ally/Prince;Wilds Unknown (Uncommon);0
+Elinor - Bespelled Queen;Character;Amethyst;Storyborn/Queen;Wilds Unknown (Uncommon);0
+Mickey Mouse - Experienced Traveler;Character;Amethyst;Dreamborn/Hero/Sorcerer;Wilds Unknown (Uncommon);0
+Edna Mode - Fashion Designer;Character;Amethyst;Storyborn/Ally/Inventor;Wilds Unknown (Rare);0
+Maleficent - Imperious Traveler;Character;Amethyst;Dreamborn/Villain/Sorcerer;Wilds Unknown (Rare);0
+Pepa Madrigal - Calm Before the Storm;Character;Amethyst;Dreamborn/Ally/Madrigal;Wilds Unknown (Super Rare);0
+Mor'du - Savage Cursed Prince;Character;Amethyst;Storyborn/Villain/Prince;Wilds Unknown (Super Rare);0
+Alma Madrigal - Keeper of the Flame;Character;Amethyst;Floodborn/Mentor/Madrigal;Wilds Unknown (Rare);0
+Frozone - Super Cool;Character;Amethyst;Storyborn/Super/Hero;Wilds Unknown (Rare);0
+Luisa Madrigal - Confident Climber;Character;Amethyst;Floodborn/Ally/Madrigal;Wilds Unknown (Legendary);0
 
 Super Suit;Item;Amethyst;;Wilds Unknown (Uncommon);1
 
