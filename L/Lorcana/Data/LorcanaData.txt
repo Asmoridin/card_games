@@ -569,16 +569,16 @@ Gadget Hackwrench - Brilliant Bosun;Character;Sapphire;Floodborn/Ally/Inventor;A
 Gadget Hackwrench - Creative Thinker;Character;Sapphire;Storyborn/Ally/Inventor;Azurite Sea (Common);2
 Gadget Hackwrench - Perceptive Mouse;Character;Sapphire;Storyborn/Ally/Inventor;Azurite Sea (Common);1
 Gadget Hackwrench - Quirky Scientist;Character;Emerald;Storyborn/Ally/Inventor;Reign of Jafar (Rare);0
-# Traits done through here
-Gaetan Moliere - The Mole;Character;Sapphire;;Archazia's Island (Uncommon);2
+Gaetan Moliere - The Mole;Character;Sapphire;Storyborn/Ally;Archazia's Island (Uncommon);2
 Galactic Communicator;Item;Emerald;;Azurite Sea (Common);0
-Galactic Council Chamber;Location;Steel;;Azurite Sea (Common);0
-Gale - Wind Spirit;Character;Amethyst;;Shimmering Skies (Common);0
+Galactic Council Chamber - Courtroom;Location;Steel;;Azurite Sea (Common);0
+Gale - Wind Spirit;Character;Amethyst;Storyborn/Ally;Shimmering Skies (Common);0
 Game Preserve - Protected Land;Location;Emerald;;Winterspell (Common);0
-Gantu - Captain Crankyhead;Character;Steel;;Azurite Sea (Rare);0
-Gantu - Experienced Enforcer;Character;Steel;;Archazia's Island (Super Rare);0
-Gantu - Galactic Federation Captain;Character;Steel;;The First Chapter (Legendary);0
+Gantu - Captain Crankyhead;Character;Steel;Dreamborn/Alien/Captain;Azurite Sea (Rare);0
+Gantu - Experienced Enforcer;Character;Steel;Storyborn/Alien/Captain;Archazia's Island (Super Rare);0
+Gantu - Galactic Federation Captain;Character;Steel;Storyborn/Alien/Captain;The First Chapter (Legendary);0
 Gantu - Hamsterviel's Accomplice;Character;Steel;Storyborn/Alien/Captain;Winterspell (Uncommon);1
+# Traits done through here
 Gaston - Arrogant Hunter;Character;Ruby;;The First Chapter (Common)/Fabled (Common);3
 Gaston - Arrogant Showoff;Character;Ruby;;Reign of Jafar (Common);0
 Gaston - Baritone Bully;Character;Amber;;Rise of the Floodborn (Uncommon);0
@@ -2129,10 +2129,16 @@ Mor'du - Savage Cursed Prince;Character;Amethyst;Storyborn/Villain/Prince;Wilds 
 Alma Madrigal - Keeper of the Flame;Character;Amethyst;Floodborn/Mentor/Madrigal;Wilds Unknown (Rare);0
 Frozone - Super Cool;Character;Amethyst;Storyborn/Super/Hero;Wilds Unknown (Rare);0
 Luisa Madrigal - Confident Climber;Character;Amethyst;Floodborn/Ally/Madrigal;Wilds Unknown (Legendary);0
-
 Super Suit;Item;Amethyst;;Wilds Unknown (Uncommon);1
-
 Hamish, Hubert & Harris - Troublemaking Triplets;Character;Emerald;Storyborn/Ally/Prince;Wilds Unknown (Common);1
+Dash Parr - Lava Runner;Character;Amethyst;Storyborn/Super/Hero;Wilds Unknown (Super Rare);0
+Luisa Madrigal - Pushing Through;Character;Amethyst;Storyborn/Ally/Madrigal;Wilds Unknown (Common);0
+Super Relocation Program;Action;Amethyst;;Wilds Unknown (Common);0
+Right Behind You;Action;Amethyst;;Wilds Unknown (Uncommon);0
+Don't Be Nervous;Action;Amethyst;;Wilds Unknown (Rare);0
+Dunbroch Family Tapestry;Item;Amethyst;;Wilds Unknown (Rare);0
+Ring of Stones - Place of Legends;Location;Amethyst;;Wilds Unknown (Rare);0
+Merida - Defiant Daughter;Character;Emerald;Storyborn/Hero/Princess;Wilds Unknown (Common);0
 Young MacGuffin - Soft‐Spoken Son;Character;Emerald;Storyborn/Ally;Wilds Unknown (Common);1
 
 Cruella De Vil - Judgmental Traveler;Character;Emerald;Dreamborn/Villain;Wilds Unknown (Rare);1
