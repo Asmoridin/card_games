@@ -135,7 +135,7 @@ B2 Legionnaires;TWI-113-C;Ground Unit;Separatist/Droid/Trooper;5;5;4;G;3 # 1 foi
 B2EMO, That's Two Lies;SEC-248-U;Ground Unit;Fringe/Droid;1;0;4;W;2
 Babu Frik, Heyyy!;LOF-206-R;Ground Unit;Underworld;1;1;4;Y;2 # 1 hyperspace
 Backed by Black Sun;TS26-70-R;Event;Supply;3;R;0
-Backed by the Hutts;LAW-247-C;Event;Supply;3;Y;1
+Backed by the Hutts;LAW-247-C;Event;Supply;3;Y;2
 Backed by the Pykes;TS26-58-R;Event;Supply;3;G;0
 Bail Organa, Doing Everything He Can;SEC-008-R;Leader;Republic/Official;4;3;3;G/W;1 # 1 hyperspace
 Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;Rebel/Official;1;1;2;G/W;2
@@ -161,7 +161,7 @@ Baze Malbus, Temple Guardian;SOR-065-U;Ground Unit;Fringe;4;2;5;U;3
 Bazine Netal, Spy for the First Order;SHD-184-R;Ground Unit;Underworld;2;1;3;Y/B;3
 BB-8, Happy Beeps;JTL-145-U;Ground Unit;Resistance/Droid/Pilot;1;1;4;R/W;1
 BD-1, Beep Boo Boo Bweep;LOF-191-U;Ground Unit;Fringe/Droid;1;1;3;Y/W;1
-Beach Patrol AT-ACT;LAW-162-C;Ground Unit;Imperial/Vehicle/Walker;8;8;9;G;0
+Beach Patrol AT-ACT;LAW-162-C;Ground Unit;Imperial/Vehicle/Walker;8;8;9;G;1
 Beguile;SEC-233-C;Event;Trick;3;Y;3 # 1 foil
 Beilert Valance, Target: Vader;LAW-051-R;Ground Unit;Underworld/Bounty Hunter;5;3;6;U/R;0
 Beloved Orator;SEC-097-C;Ground Unit;New Republic/Official;3;2;3;G/W;3 # 1 hyperfoil
@@ -203,7 +203,7 @@ Boba Fett, Daimyo;SHD-008-C;Leader;Underworld;6;4;7;G/W;1
 Boba Fett, Disintegrator;SOR-179-L;Ground Unit;Underworld/Bounty Hunter;3;3;5;B/Y;2
 Boba Fett, Feared Bounty Hunter;JTL-189-R;Ground Unit;Underworld/Bounty Hunter/Pilot;5;5;4;Y/B;1
 Boba Fett, For a Price;LAW-214-R;Ground Unit;Underworld/Bounty Hunter;5;6;5;Y/B;0
-Boba Fett, Krayt's Claw Commander;LAW-007-C;Leader;Underworld/Bounty Hunter;5;3;6;G/B;0
+Boba Fett, Krayt's Claw Commander;LAW-007-C;Leader;Underworld/Bounty Hunter;5;3;6;G/B;1
 Bodhi Rook, Creating a Diversion;LAW-104-R;Ground Unit;Rebel;2;2;4;U/W;0
 Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Imperial/Rebel;3;3;3;Y/Y;3 # 1 hyperspace
 Bog Down in Procedure;SEC-234-C;Event;Law;3;Y;3
@@ -325,7 +325,7 @@ Cikatro Vizago, Business is What Matters;SEC-218-U;Ground Unit;Underworld;3;3;4;
 Cin Drallig, Esteemed Blademaster;LOF-150-L;Ground Unit;Force/Jedi/Republic;8;5;6;R/W;0
 Cinta Kaz, Stone Cold and Fearless;LAW-105-U;Ground Unit;Rebel;3;3;5;U/W;0
 Cinta Kaz, The Struggle Comes First;SEC-172-U;Ground Unit;Rebel;6;5;5;R;2
-Circuit Challenger;LAW-255-C;Ground Unit;Vehicle/Speeder;5;4;5;W;1
+Circuit Challenger;LAW-255-C;Ground Unit;Vehicle/Speeder;5;4;5;W;2
 Citadel Research Center;LAW-029-R;Base;Scarif;26;Y;0
 City in the Clouds;JTL-019-C;Base;Cloud City;30;U;1
 Clan Challengers;SHD-169-C;Ground Unit;Mandalorian/Trooper;5;3;6;R;3
@@ -426,7 +426,7 @@ Crystal Caves;LOF-029-C;Base;Ilum;28;Y;1 # 1 hyperspace
 Cunning;SOR-203-L;Event;Innate;4;Y/Y;1
 Cure Wounds;LOF-075-C;Event;Force;1;U;3 # 1 hyperspace
 Curious Flock;LOF-255-C;Ground Unit;Creature;1;1;1;N;3
-Cutthroat Podracer;LAW-213-C;Ground Unit;Vehicle/Speeder;4;4;4;Y/B;0
+Cutthroat Podracer;LAW-213-C;Ground Unit;Vehicle/Speeder;4;4;4;Y/B;1
 D'Qar Cargo Frigate;JTL-052-C;Space Unit;Resistance/Vehicle/Capital Ship;5;6;7;U/W;2
 Dagger Squadron Pilot;JTL-196-C;Ground Unit;Rebel/Pilot;1;2;1;Y/W;3
 Dagobah Swamp;SOR-021-C;Base;Dagobah;30;U;1 # 1 hyperspace
@@ -875,7 +875,7 @@ Incinerator Trooper;SHD-234-S;Ground Unit;B;3
 Independent Senator;TWI-206-U;Ground Unit;Y;3
 Independent Smuggler;JTL-211-C;Ground Unit;Y;3
 Indoctrinated Conscript;JTL-236-C;Ground Unit;B;2
-Industrious Team;LAW-124-C;Ground Unit;Underworld/Bounty Hunter;8;4;7;U;1
+Industrious Team;LAW-124-C;Ground Unit;Underworld/Bounty Hunter;8;4;7;U;2
 Infantry of the 212th;TWI-061-C;Ground Unit;U;2
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;3
 Infiltrating Demolisher;TWI-182-C;Ground Unit;B/Y;2
@@ -890,7 +890,7 @@ Inspiring Senator;SEC-261-C;Ground Unit;N;3 # 1 hyperspace
 Insurgent Saboteurs;JTL-168-C;Ground Unit;R;2
 Interceptor Ace;JTL-034-C;Space Unit;U/B;3 # 1 foil
 Interrogation Droid;LAW-075-U;Ground Unit;Imperial/Droid;2;3;1;R/Y/B;0
-Intimidator, Citadel Overwatch;LAW-140-L;Space Unit;Imperial/Vehicle/Capital Ship;11;11;11;G/B;0
+Intimidator, Citadel Overwatch;LAW-140-L;Space Unit;Imperial/Vehicle/Capital Ship;11;11;11;G/B;1
 Invasion Control Ship;LOF-169-R;Space Unit;R;0
 Invincible, Naval Adversary;JTL-191-L;Space Unit;Y/B;0
 Ion Cannon;IBH-016-S/IBH-027-S;Ground Unit;Y;0
@@ -908,7 +908,7 @@ Jabba the Hutt, His High Exaltedness;SHD-006-R;Leader;G/B;1
 Jabba the Hutt, Wonderful Human Being;SEC-002-C;Leader;U/B;1 # 1 hyperspace
 Jabba's Palace;SHD-026-C;Base;Y;1 # 1 hyperspace
 Jabba's Rancor, Pateesa;SHD-091-U;Ground Unit;G/B;3 # 1 foil
-Jabba's Rancor, Snack Time!;LAW-216-U;Ground Unit;Underworld/Creature;7;7;7;Y/B;0
+Jabba's Rancor, Snack Time!;LAW-216-U;Ground Unit;Underworld/Creature;7;7;7;Y/B;1
 Jade Squadron Patrol;SEC-049-C;Space Unit;U/W;3
 Jam Communications;JTL-207-R;Event;Y/W;1 # 1 foil
 Jango Fett, Concealing the Conspiracy;TWI-016-C;Leader;B/Y;1 # 1 hyperspace
@@ -1096,7 +1096,7 @@ Manufactured Soldiers;TWI-102-U;Event;G;0
 Marchion Ro, Eye of the Nihil;LOF-186-L;Ground Unit;Y/B;1
 Mas Amedda, Accomplice to Power;SEC-084-U;Ground Unit;G/B;3
 Mas Amedda, Vice Chair;TWI-101-R;Ground Unit;G;1
-Massassi Group Marines;LAW-146-C;Ground Unit;Rebel/Trooper;3;4;4;G/W;0
+Massassi Group Marines;LAW-146-C;Ground Unit;Rebel/Trooper;3;4;4;G/W;1 # 1 hyperspace
 Massassi Tactical Officer;JTL-146-C;Ground Unit;R/W;2
 Massassi Temple;JTL-026-C;Base;R;1 # 1 hyperspace
 Mastery;LAW-129-C;Upgrade;Learned;4;3;3;U;0
@@ -1333,7 +1333,7 @@ Pyke Sentinel;SHD-029-C;Ground Unit;U/B;3
 Pyrrhic Assault;TWI-103-L;Event;G;0
 Qi'ra, I Alone Survived;SHD-002-R;Leader;U/B;1
 Qi'ra, Playing Her Part;SHD-202-R;Ground Unit;Y/W;1
-Quarren Contractor;LAW-060-C;Ground Unit;Underworld;4;3;4;G/R;0
+Quarren Contractor;LAW-060-C;Ground Unit;Underworld;4;3;4;G/R;1
 Quasar TIE Carrier;JTL-243-C;Space Unit;B;2
 Queen Amidala, Championing Her People;SEC-101-L;Ground Unit;G/W;1
 Qui-Gon Jinn's Aethersprite, Guided By The Force;LOF-197-S;Space Unit;Y/W;3
@@ -1387,7 +1387,7 @@ Regional Sympathizers;SOR-243-C;Ground Unit;W;3 # 1 hyperfoil
 Regulations Bureaucrat;SEC-216-C;Ground Unit;Y;3 # 1 hyperspace, 1 foil
 Reinforcement Walker;SOR-119-U;Ground Unit;G;3
 Relentless Firespray;JTL-157-R;Space Unit;R;1
-Relentless Hunters;LAW-196-C;Ground Unit;Bounty Hunter;4;5;4;R;1
+Relentless Hunters;LAW-196-C;Ground Unit;Bounty Hunter;4;5;4;R;2
 Relentless Pursuit;SHD-232-C;Event;Y;3 # 1 hyperfoil, 1 hyperspace
 Relentless Rocket Droid;TWI-163-C;Ground Unit;R;3 # 1 hyperspace
 Relentless, Konstantine's Folly;SOR-089-R;Space Unit;G/B;1
@@ -1578,7 +1578,7 @@ Snowtrooper Lieutenant;SOR-227-C/SHD-236-S;Ground Unit;B;3 # 1 hyperspace
 Snowtrooper Vanguard;IBH-057-S/IBH-080-S/IBH-096-S;Ground Unit;U/B;0
 Snowtrooper;IBH-063-S/IBH-077-S/IBH-087-S;Ground Unit;R/B;0
 Soldier of the 501st;TWI-141-C;Ground Unit;R/W;3
-Son-tuul Berserkers;LAW-177-C;Ground Unit;Underworld/Trooper;6;8;5;R/B;0
+Son-tuul Berserkers;LAW-177-C;Ground Unit;Underworld/Trooper;6;8;5;R/B;1
 Sorcerers of Tund;LOF-214-C;Ground Unit;Y;3 # 1 hyperspace
 Sorcerous Blast;LOF-172-C;Event;R;2
 Soresu Stance;LOF-076-U;Event;U;3 # 1 foil
@@ -1614,7 +1614,7 @@ Street Gang Recruiter;SHD-260-C/LAW-261-C;Ground Unit;Underworld;5;4;4;N;3 # 3 f
 Strike Force X-Wing;SEC-152-C;Space Unit;R/W;3
 Strike True;SOR-127-C;Event;G;3 # 1 hyperspace
 Strikeship;LOF-131-C;Space Unit;R/B;3 # 1 foil
-Stygeon Spire;LAW-027-C;Base;Stygeon Prime;27;R;0
+Stygeon Spire;LAW-027-C;Base;Stygeon Prime;27;R;1
 Subjugating Starfighter;TWI-112-C;Space Unit;G;3
 Sudden Ferocity;SEC-176-C;Upgrade;R;3 # 1 hyperspace
 Sugi, Hired Guardian;SHD-052-R;Ground Unit;U;2 # 1 foil
@@ -1649,7 +1649,7 @@ Synara San, Loyal to Kragan;SHD-033-U;Ground Unit;U/B;3
 Synchronized Strike;TWI-099-U;Event;G/W;3 # 1 foil
 Syndicate Lackeys;SOR-213-C;Ground Unit;Y;3 # 1 hyperfoil
 Syndicate Security;LAW-123-C;Ground Unit;Underworld/Trooper;5;4;6;U;0
-Syndicate Spice Runner;LAW-136-U;Ground Unit;Underworld;2;2;2;G/B;0
+Syndicate Spice Runner;LAW-136-U;Ground Unit;Underworld;2;2;2;G/B;1
 Syril Karn, Where Is He?;SEC-133-R;Ground Unit;R/B;2
 System Patrol Craft;SOR-066-C/SHD-063-S;Space Unit;U;3 # 1 foil
 System Shock;JTL-175-C;Event;R;2
@@ -1669,7 +1669,7 @@ Tam Ryvora, Searching for Purpose;JTL-035-R;Ground Unit;U/B;0
 Tandem Assault;JTL-124-C;Event;G;3 # 1 hyperspace
 Tantive IV, Carrying Hope;LAW-109-U;Space Unit;Rebel/Vehicle/Capital Ship;7;5;8;U/W;0
 Tantive IV, Fleeing the Empire;JTL-252-U;Space Unit;W;3 # 1 foil
-Taramyn Barcona, Eyes Front!;LAW-040-U;Ground Unit;Rebel/Trooper;5;4;6;U/G;0
+Taramyn Barcona, Eyes Front!;LAW-040-U;Ground Unit;Rebel/Trooper;5;4;6;U/G;1
 Tarfful, Kashyyyk Chieftain;SHD-250-R;Ground Unit;W;1
 Target Tagger;LAW-157-C;Ground Unit;Bounty Hunter;3;3;3;G;0
 Target the Main Generator;IBH-059-S/IBH-071-S;Event;R;0
@@ -1791,7 +1791,7 @@ U-Wing Lander;JTL-070-U;Space Unit;U;2 # 1 hyperfoil
 U-Wing Reinforcement;SOR-104-R;Event;G/W;2
 Umbaran Mobile Cannon;SEC-067-U;Ground Unit;U;3
 Unauthorized Investigation;SEC-181-C;Event;R;3
-Undercity Hunting Team;LAW-138-C;Ground Unit;Underworld/Bounty Hunter;5;5;5;G/B;0
+Undercity Hunting Team;LAW-138-C;Ground Unit;Underworld/Bounty Hunter;5;5;5;G/B;1 # 1 hyperfoil
 Undercover Operation;SEC-236-U;Event;Y;3 # 1 foil
 Underestimated;TS26-79-U;Upgrade;Innate;1;2;1;Y;0
 Underworld Thug;SOR-247-C/SHD-257-C;Ground Unit;N;3 # 1 hyperspace
@@ -1916,4 +1916,6 @@ Zuckuss, Dangerous;LAW-064-R;Ground Unit;Underworld/Bounty Hunter;4;3;5;G/Y/B;1
 Zuckuss, The Findsman;LOF-204-L;Ground Unit;Y;0
 Zygerrian Starhopper;JTL-183-C;Space Unit;Y/B;3 # 1 foil
 "Staccato Lightning" Repeater;LAW-187-U;Upgrade;Item/Weapon;3;3;1;R/W;0
+Grogu, Charming Companion;ASH-018-R/MV26-1-R;Leader;Force;4;0;3;Y/W;1
+Razor Crest, Outfitted Armament;MV26-2-U;Space Unit;Mandalorian/Vehicle/Transport;4;3;5;R;1
 ** END **

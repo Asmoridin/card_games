@@ -962,8 +962,18 @@ Husnock Ship;Ship;Non-Aligned;Premiere/Borderless Promos;189,5597,5994,6357,6720
 Hyper-Aging;Dilemma;Planet;Premiere;1328,6137,6500,6863,7785,8149;;4;1
 Hypospray;Equipment;;Deep Space 9;1329;;4;0
 I Am Not a Merry Man!;Event;;Q Continuum;1330;;4;0
+I Do Not Take Orders From You!;Interrupt;;The Motion Pictures;1331,7253;;4;0
+I Hate You;Dilemma;Planet;The Motion Pictures;1332,7254;;4;0
+I Just Love Scanning for Life-forms;Event;;The Motion Pictures;1333,7255;;4;0
+I Tried to Warn You;Q Dilemma;;Deep Space 9;1334;;4;0
+I.K.C. Fek'lhr;Ship;Klingon;Alternate Universe/Reflections;1340,3621;;2;0
 I.K.C. K'Vort;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;191,4081,5995,6358,6721,7109,7643;;4;0
 I.K.C. Vor'Cha;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;192,5996,6359,6722,7110,7644;;4;0
+I.K.S. Amar;Ship;Klingon;The Motion Pictures;1335,7256;;2;0
+I.K.S. Bortas;Ship;Klingon;Premiere/Reflections/Virtual Promos;1336,3620,4080,5049,6138,6501,6864,7786,8150;;2;0
+I.K.S. Buruk;Ship;Klingon;Premiere;1337,6139,6502,6865,7787,8151;;2;0
+I.K.S. Chang;Ship;Klingon;Fajo Collection/Virtual Promos;1338,7440;;2;0
+I.K.S. Chontay;Ship;Klingon;The Motion Pictures;1339,7257;;2;0
 I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 I.S.S. Constitution;Ship;Federation;Mirror, Mirror;193,4871;;4;0
 Iconian Computer Weapon;Dilemma;Space;Premiere;1365,6145,6508,6871,7793,8157;;4;1
@@ -1494,7 +1504,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1330
+# Done through card 1340
 #1365-1366
 #1378
 #1380-1381
@@ -1640,6 +1650,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3609-3611
 #3613
 #3616-3617
+#3620-3621
 #3624-3628
 #3632
 #3689-3690
@@ -1677,8 +1688,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4070-4071
 #4073
 #4074
-#4078-4079
-#4081-4083
+#4078-4083
 #4089
 #4092
 #4096-4097
@@ -1770,7 +1780,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4954
 #4960
 #4964-4965
-#5050
+#5049-5050
 #5054
 #5146
 #5170-5171
@@ -1827,7 +1837,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5908-5913
 #5916-5918
-#5966-6137
+#5966-6139
 #6145-6148
 #6150
 #6156
@@ -1876,7 +1886,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6500
+#6464-6502
 #6508-6511
 #6513
 #6519
@@ -1925,7 +1935,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6863
+#6823-6865
 #6871-6874
 #6876
 #6882
@@ -1983,7 +1993,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173-7176
 #7179-7180
-#7183-7252
+#7183-7257
 #7277
 #7317-7318
 #7327-7330
@@ -1991,8 +2001,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7428-7429
 #7432
 #7436
-#7438-7439
-#7441
+#7438-7441
 #7503-7505
 #7508-7511
 #7513-7514
@@ -2007,7 +2016,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7725-7738
 #7740-7741
 #7743-7762
-#7766-7785
+#7766-7787
 #7793
 #7795-7796
 #7798
@@ -2075,7 +2084,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8107-8110
 #8113-8117
 #8120-8126
-#8130-8149
+#8130-8151
 #8157
 #8162
 #8175
