@@ -578,19 +578,19 @@ Gantu - Captain Crankyhead;Character;Steel;Dreamborn/Alien/Captain;Azurite Sea (
 Gantu - Experienced Enforcer;Character;Steel;Storyborn/Alien/Captain;Archazia's Island (Super Rare);0
 Gantu - Galactic Federation Captain;Character;Steel;Storyborn/Alien/Captain;The First Chapter (Legendary);0
 Gantu - Hamsterviel's Accomplice;Character;Steel;Storyborn/Alien/Captain;Winterspell (Uncommon);1
-# Traits done through here
-Gaston - Arrogant Hunter;Character;Ruby;;The First Chapter (Common)/Fabled (Common);3
-Gaston - Arrogant Showoff;Character;Ruby;;Reign of Jafar (Common);0
-Gaston - Baritone Bully;Character;Amber;;Rise of the Floodborn (Uncommon);0
-Gaston - Despicable Dealer;Character;Amber;;Ursula's Return (Super Rare);0
+Gaston - Arrogant Hunter;Character;Ruby;Storyborn/Villain;The First Chapter (Common)/Fabled (Common);3
+Gaston - Arrogant Showoff;Character;Ruby;Storyborn/Villain;Reign of Jafar (Common);0
+Gaston - Baritone Bully;Character;Amber;Dreamborn/Villain;Rise of the Floodborn (Uncommon);0
+Gaston - Despicable Dealer;Character;Amber;Storyborn/Villain;Ursula's Return (Super Rare);0
 Gaston - Frightful Bully;Character;Amber;Storyborn/Villain/Whisper;Whispers in the Well (Uncommon);2
-Gaston - Intellectual Powerhouse;Character;Sapphire;;Rise of the Floodborn (Rare);1
-Gaston - Pure Paragon;Character;Ruby;;Shimmering Skies (Rare);0
-Gaston - Scheming Suitor;Character;Emerald;;Rise of the Floodborn (Common);1
+Gaston - Intellectual Powerhouse;Character;Sapphire;Floodborn/Villain;Rise of the Floodborn (Rare);1
+Gaston - Pure Paragon;Character;Ruby;Dreamborn/Villain;Shimmering Skies (Rare);0
+Gaston - Scheming Suitor;Character;Emerald;Storyborn/Villain;Rise of the Floodborn (Common);1
 Gathering Knowledge and Wisdom;Action;Amethyst;;Shimmering Skies (Common);1
-Gazelle - Angel with Horns;Character;Emerald;;Azurite Sea (Common);1
+Gazelle - Angel with Horns;Character;Emerald;Dreamborn/Ally;Azurite Sea (Common);1
 Gazelle - Ballad Singer;Character;Amber;Dreamborn/Ally;Whispers in the Well (Rare);0
-Gazelle - Pop Star;Character;Amber;;Shimmering Skies (Common);2
+Gazelle - Pop Star;Character;Amber;Storyborn/Ally;Shimmering Skies (Common);2
+# Traits done through here
 Gene - Niceland Resident;Character;Amber;;Reign of Jafar (Common);1
 General Li - Head of the Imperial Army;Character;Steel;;Reign of Jafar (Common);0
 Genie - Cramped in the Lamp;Character;Sapphire;;Into the Inklands (Uncommon);0
@@ -2140,6 +2140,15 @@ Dunbroch Family Tapestry;Item;Amethyst;;Wilds Unknown (Rare);0
 Ring of Stones - Place of Legends;Location;Amethyst;;Wilds Unknown (Rare);0
 Merida - Defiant Daughter;Character;Emerald;Storyborn/Hero/Princess;Wilds Unknown (Common);0
 Young MacGuffin - Soft‐Spoken Son;Character;Emerald;Storyborn/Ally;Wilds Unknown (Common);1
+Tod - Nimble Fox;Character;Emerald;Storyborn/Hero;Wilds Unknown (Common);0
+Helga Sinclair - No Backup Needed;Character;Emerald;Storyborn/Villain;Wilds Unknown (Common);0
+The Witch - Wily Woodcarver;Character;Emerald;Storyborn/Sorcerer;Wilds Unknown (Common);0
+The Queen - Evil Ruler;Character;Emerald;Storyborn/Villain/Queen/Sorcerer;Wilds Unknown (Common);0
+Buzz Lightyear - Space Ranger;Character;Emerald;Storyborn/Hero/Toy/Captain;Wilds Unknown (Common);0
+RC - Remote‐Controlled Car;Character;Emerald;Storyborn/Ally/Toy/Racer;Wilds Unknown (Common);0
+Lord MacGuffin - Clever Swordsman;Character;Emerald;Storyborn/Ally;Wilds Unknown (Uncommon);0
+Lenny - Toy Binoculars;Character;Emerald;Storyborn/Ally/Toy;Wilds Unknown (Rare);0
+Gaetan Moliere - Clever Burrower;Character;Emerald;Storyborn/Ally;Wilds Unknown (Uncommon);0
 
 Cruella De Vil - Judgmental Traveler;Character;Emerald;Dreamborn/Villain;Wilds Unknown (Rare);1
 
