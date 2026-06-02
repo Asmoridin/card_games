@@ -532,9 +532,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Scars of Mirrodin'
-CHECK_AMOUNT = 249
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = 'Mirrodin Besieged'
+CHECK_AMOUNT = 155
+SET_CHECK += 5 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0
