@@ -1070,6 +1070,7 @@ Charmeleon;Pokemon;Fire;100;;Combustion|Fire Blast;MEW 5 (Uncommon)/MEW 169 (Ill
 Pidgey;Pokemon;Colorless;50;;Call for Family|Tackle;MEW 16 (Common)/PAF 196 (Shiny Rare);G;4;0
 Pidgeotto;Pokemon;Colorless;80;;Flap;MEW 17 (Common)/PAF 197 (Shiny Rare);G;4;0
 Ditto;Pokemon;Colorless;60;Transformative Start;Splup;MEW 132 (Rare)/PAF 201 (Shiny Rare);G;4;0
+Flareon;Pokemon;Fire;130;;Destructive Flame|Fighting Blaze;MEW 136 (Rare)/SVP 167 (Promo)/PRE 13 (Rare);G;4;0
 Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 (Ultra Rare)/MEW 205 (Hyper Rare)/SVP 53 (Promo)/PAF 216 (Shiny Ultra Rare)/PAF 232 (Special Illustration Rare);G;4;0
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
 Erika's Invitation;Trainer;Supporter;;;;MEW 160 (Uncommon)/MEW 196 (Ultra Rare)/MEW 203 (Special Illustration Rare);G;4;0
@@ -1214,6 +1215,7 @@ Powerglass;Trainer;Pokemon Tool;;;;SFA 63 (Uncommon)/SFA 97 (Hyper Rare);H;4;0
 # Stellar Crown
 Grubbin;Pokemon;Grass;70;;Ambush;SCR 9 (Common)/ASC 17 (Common);H;4;0
 Applin;Pokemon;Grass;40;;Spray Fluid;SCR 12 (Common)/PRE 9 (Common);H;4;0
+Hydrapple ex;Pokemon;Grass;330;Ripening Charge;Syrup Storm;SCR 14 (Double Rare)/SCR 156 (Ultra Rare)/SCR 167 (Special Illustration Rare)/PRE 11 (Double Rare);H;4;0
 Toedscool;Pokemon;Grass;60;;Ram|Gentle Slap;SCR 17 (Common);H;4;0
 Salandit;Pokemon;Fire;70;;Ember;SCR 23 (Common)/ASC 34 (Common);H;4;0
 Salazzle;Pokemon;Fire;120;;Sudden Scorching|Flamethrower;SCR 24 (Uncommon)/ASC 35 (Uncommon)/ASC 224 (Illustration Rare);H;4;0
@@ -1277,11 +1279,8 @@ Exeggutor;Pokemon;Grass;140;;Mega Drain|Solar Beam;PRE 2 (Uncommon);H;4;0
 Pinsir;Pokemon;Grass;120;;Slash;PRE 3 (Common);H;4;0
 Budew;Pokemon;Grass;30;;Itchy Pollen;PRE 4 (Common)/ASC 16 (Common)/ASC 221 (Illustration Rare);H;4;0
 Leafeon ex;Pokemon;Grass;270;;Verdant Storm|Moss Agate;PRE 6 (Double Rare)/PRE 144 (Special Illustration Rare);H;4;0
-# PRE 10 done
-
-# PRE 12 done
-
 Flareon ex;Pokemon;Fire;270;;Burning Charge|Carnelian;PRE 14 (Double Rare)/PRE 146 (Special Illustration Rare);H;4;0
+Litleo;Pokemon;Fire;70;;Combustion|Headbutt;PRE 15 (Common);H;4;0
 
 # PRE 20 done
 Seaking;Pokemon;Water;110;Festival Lead;Rapid Draw;PRE 21 (Uncommon);H;4;0
@@ -1390,9 +1389,19 @@ Claydol;Pokemon;Fighting;120;;Devolution Ray;CRI 47 (Uncommon)/CRI 92 (Illustrat
 Mega Gallade ex;Pokemon;Fighting;350;;Gale Slash|Marvelous Edge;CRI 48 (Double Rare);J;4;0
 Zubat;Pokemon;Darkness;40;;Supersonic;CRI 49 (Common);J;4;0
 Golbat;Pokemon;Darkness;80;;Covert Flight;CRI 50 (Common);J;4;0
+Crobat;Pokemon;Darkness;130;Nighttime Maneuvers;Poison Sound Wave;CRI 51 (Rare)/CRI 93 (Illustration Rare);J;4;0
+Qwilfish;Pokemon;Darkness;90;Poison Point;Venoshock;CRI 52 (Common);J;4;0
+Stunky;Pokemon;Darkness;70;;Scratch;CRI 53 (Common);J;4;0
+Skuntank;Pokemon;Darkness;110;;Rear Kick|Smash Turn;CRI 54 (Uncommon);J;4;0
+Krookodile ex;Pokemon;Darkness;320;;Corner|Strong Bite;CRI 55 (Double Rare);I;4;0
+Trubbish;Pokemon;Darkness;70;;Acid Spray;CRI 56 (Common);J;4;0
+Garbodor;Pokemon;Darkness;140;Gloomy Garbage;Sludge Bomb;CRI 57 (Uncommon);J;4;0
+Skrelp;Pokemon;Darkness;70;;Hook;CRI 58 (Common);J;4;0
+Beldum;Pokemon;Metal;70;;Headbutt|Beam;CRI 59 (Common);J;4;0
+Metang;Pokemon;Metal;100;;Metal Claw|Guard Press;CRI 60 (Common)/CRI 94 (Illustration Rare);J;4;0
 
 # 86 last new card (not done)
-# 87-92 done
+# 87-94 done
 # 98-102 done
 # 116-117 done
 # 122 last card (done)
