@@ -605,17 +605,17 @@ Genie - Supportive Friend;Character;Amethyst;Storyborn/Ally;Into the Inklands (S
 Genie - The Ever Impressive;Character;Emerald;Dreamborn/Ally;The First Chapter (Common);0
 Genie - Wish Fulfilled;Character;Amethyst;Storyborn/Ally;Azurite Sea (Rare);0
 Genie - Wonderful Trickster;Character;Amethyst;Flooborn/Ally;Azurite Sea (Legendary);0
-# Traits done through here
-Geppetto - Skilled Craftsman;Character;Sapphire;;Reign of Jafar (Rare);0
+Geppetto - Skilled Craftsman;Character;Sapphire;Storyborn/Ally/Inventor;Reign of Jafar (Rare);0
 Get Out!;Action;Ruby/Sapphire;;Reign of Jafar (Uncommon);0
 Get to Safety!;Action;Ruby;;Whispers in the Well (Rare);0
 Ghostly Tale;Action;Ruby;;Whispers in the Well (Common);1
-Giant Cobra - Ghostly Serpent;Character;Amethyst/Steel;;Archazia's Island (Uncommon);0
+Giant Cobra - Ghostly Serpent;Character;Amethyst/Steel;Dreamborn/Ally/Illusion;Archazia's Island (Uncommon);0
 Gigi - Best in Snow;Character;Steel;Storyborn/Alien;Winterspell (Uncommon);0
-Gizmoduck - Suited Up;Character;Emerald/Steel;;Archazia's Island (Uncommon);0
+Gizmoduck - Suited Up;Character;Emerald/Steel;Storyborn/Inventor;Archazia's Island (Uncommon);0
 Gizmosuit;Item;Steel;;Into the Inklands (Common);1
 Glean;Action;Sapphire;;Ursula's Return (Common);0
 Glimmer vs Glimmer;Action;Ruby;;Shimmering Skies (Uncommon);0
+# Traits done through here
 Gloyd Orangeboar - Fierce Competitor;Character;Ruby;;Reign of Jafar (Common);0
 Go Go Tomago - Cutting Edge;Character;Emerald/Sapphire;;Reign of Jafar (Super Rare);0
 Go Go Tomago - Darting Dynamo;Character;Emerald;;Azurite Sea (Rare);0
@@ -2158,9 +2158,17 @@ Elinor - Renowned Diplomat;Character;Emerald;Storyborn/Mentor/Queen;Wilds Unknow
 Lyle Tiberius Rourke - Adventurer for Hire;Character;Emerald;Storyborn/Villain;Wilds Unknown (Uncommon);0
 Joshua Sweet - Field Surgeon;Character;Emerald;Storyborn/Ally;Wilds Unknown (Common);0
 Merida - Gifted Archer;Character;Emerald;Floodborn/Hero/Princess;Wilds Unknown (Rare);0
-The Queen - Devious Disguise;Character;Emerald;Storyborn/Villain/Queen/Sorcerer;Wilds Unknown (Legendary);0
-
 Cruella De Vil - Judgmental Traveler;Character;Emerald;Dreamborn/Villain;Wilds Unknown (Rare);1
+The Queen - Devious Disguise;Character;Emerald;Storyborn/Villain/Queen/Sorcerer;Wilds Unknown (Legendary);0
+Buzz Lightyear - Jungle Ranger;Character;Emerald;Floodborn/Hero/Toy/Captain;Wilds Unknown (Legendary);0
+Helga Sinclair - Prepared for Anything;Character;Emerald;Dreamborn/Villain;Wilds Unknown (Rare);0
+The Huntsman - On the Queen's Orders;Character;Emerald;Storyborn/Ally;Wilds Unknown (Uncommon);0
+Strange Things;Action;Emerald;Song;Wilds Unknown (Uncommon);0
+Sabotage;Action;Emerald;;Wilds Unknown (Common);0
+The Family Scattered;Action;Emerald;;Wilds Unknown (Super Rare);0
+Buzz's Arm;Item;Emerald;;Wilds Unknown (Uncommon);0
+The Claw;Item;Emerald;;Wilds Unknown (Rare);0
+Gyro‐Evac;Item;Emerald;;Wilds Unknown (Uncommon);0
 
 Pizza Planet - Spaceport;Location;Emerald;;Wilds Unknown (Rare);1
 
