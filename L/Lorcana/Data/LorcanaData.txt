@@ -615,17 +615,17 @@ Gizmoduck - Suited Up;Character;Emerald/Steel;Storyborn/Inventor;Archazia's Isla
 Gizmosuit;Item;Steel;;Into the Inklands (Common);1
 Glean;Action;Sapphire;;Ursula's Return (Common);0
 Glimmer vs Glimmer;Action;Ruby;;Shimmering Skies (Uncommon);0
-# Traits done through here
-Gloyd Orangeboar - Fierce Competitor;Character;Ruby;;Reign of Jafar (Common);0
-Go Go Tomago - Cutting Edge;Character;Emerald/Sapphire;;Reign of Jafar (Super Rare);0
-Go Go Tomago - Darting Dynamo;Character;Emerald;;Azurite Sea (Rare);0
-Go Go Tomago - Mechanical Engineer;Character;Sapphire;;Reign of Jafar (Common);0
-Go the Distance;Action;Ruby;;Rise of the Floodborn (Common);0
+Gloyd Orangeboar - Fierce Competitor;Character;Ruby;Storyborn/Ally/Racer;Reign of Jafar (Common);0
+Go Go Tomago - Cutting Edge;Character;Emerald/Sapphire;Floodborn/Hero/Inventor;Reign of Jafar (Super Rare);0
+Go Go Tomago - Darting Dynamo;Character;Emerald;Storyborn/Hero/Inventor;Azurite Sea (Rare);0
+Go Go Tomago - Mechanical Engineer;Character;Sapphire;Storyborn/Hero/Inventor;Reign of Jafar (Common);0
+Go the Distance;Action;Ruby;Song;Rise of the Floodborn (Common);0
 Gold Coin;Item;Ruby;;Azurite Sea (Common);2
-Golden Harp - Enchanter of the Land;Character;Amber;;Ursula's Return (Uncommon);0
-Goldie O'Gilt - Cunning Prospector;Character;Emerald;;Whispers in the Well (Rare);0
-Goliath - Clan Leader;Character;Steel;;Whispers in the Well (Legendary);0
-Goliath - Guardian of Castle Wyvern;Character;Ruby;;Whispers in the Well (Uncommon);0
+Golden Harp - Enchanter of the Land;Character;Amber;Storyborn/Ally;Ursula's Return (Uncommon);0
+Goldie O'Gilt - Cunning Prospector;Character;Emerald;Storyborn;Whispers in the Well (Rare);0
+Goliath - Clan Leader;Character;Steel;Dreamborn/Hero/Gargoyle;Whispers in the Well (Legendary);0
+Goliath - Guardian of Castle Wyvern;Character;Ruby;Storyborn/Hero/Gargoyle;Whispers in the Well (Uncommon);0
+# Traits done through here
 Good Job!;Action;Amber;;Azurite Sea (Common);0
 Goofy - Daredevil;Character;Ruby;;The First Chapter (Common);0
 Goofy - Emerald Champion;Character;Emerald;Dreamborn/Hero;Whispers in the Well (Rare);1
@@ -2169,10 +2169,16 @@ The Family Scattered;Action;Emerald;;Wilds Unknown (Super Rare);0
 Buzz's Arm;Item;Emerald;;Wilds Unknown (Uncommon);0
 The Claw;Item;Emerald;;Wilds Unknown (Rare);0
 Gyro‐Evac;Item;Emerald;;Wilds Unknown (Uncommon);0
-
 Pizza Planet - Spaceport;Location;Emerald;;Wilds Unknown (Rare);1
-
 Audrey Ramirez - Gutsy Mechanic;Character;Ruby;Storyborn/Ally;Wilds Unknown (Common);1
+Merida's Bow;Item;Emerald;;Wilds Unknown (Common);0
+Lyle Tiberius Rourke - Crystallized Commander;Character;Ruby;Floodborn/Villain;Wilds Unknown (Rare);0
+Mr. Incredible - Bob Parr;Character;Ruby;Storyborn/Super/Hero;Wilds Unknown (Common);0
+Lyle Tiberius Rourke - Looking for His Moment;Character;Ruby;Storyborn/Villain;Wilds Unknown (Common);0
+Pegasus - Searching High and Low;Character;Ruby;Dreamborn/Ally;Wilds Unknown (Common);0
+Milo Thatch - Courageous Explorer;Character;Ruby;Dreamborn/Hero;Wilds Unknown (Common);0
+Zeus - Defiant God;Character;Ruby;Storyborn/King/Deity;Wilds Unknown (Uncommon);0
+Preston Whitmore - Expedition Financier;Character;Ruby;Storyborn/Ally;Wilds Unknown (Common);0
 
 Jingle Joe - Sid's Toy;Character;Ruby;Storyborn/Ally/Toy;Wilds Unknown (Common);1
 
