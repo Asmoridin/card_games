@@ -3545,7 +3545,21 @@ Damning Ceremony;Spell;;Embers of War (Uncommon);Age of Conquest (Emperor);3;0
 Damning Evidence;Item;;Winds of Change (Rare);Four Winds (Gold);3;0
 Damning Evidence;Item;;Winds of Change (Rare);Rain of Blood (Diamond);3;0
 Dance of Blades;Strategy;;The Harbinger (Rare);Destroyer War (Celestial);3;0
+Dance of Flames;Strategy;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
+Dance of Flames;Strategy;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
+Dance of the Elements;Strategy;;Crimson and Jade (Uncommon);Clan Wars (Imperial);3;0
+Dance of the Kami;Spell;;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
+Dance of the Kami;Spell;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;0
+Dance of the Void;Strategy;;The Plague War (Uncommon)/War of Honor (Fixed);Destroyer War (Celestial);3;0
+Dance of the Winds;Strategy;;The Imperial Gift 1 (Fixed);Destroyer War (Celestial);3;0
+Dance of the Winds;Strategy;;The Imperial Gift 1 (Fixed);Race for the Throne (Samurai);3;0
+Dance Troupe;Holding;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;0
 Dangai Sensei, Tanuki Clan Tattoo Master;Sensei;;Gates of Tengoku (Fixed);Shattered Empire;1;0
+Dangai;Personality;Brotherhood of Shinsei;The Dark Journey Home (Common);Hidden Emperor (Jade);3;0
+Dangerous Choices;Strategy;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;0
+Dangerous Extremes;Event;;Broken Blades (Rare);Four Winds (Gold);1;0
+Dangerous Indulgence;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Dangerous Indulgence;Strategy;;Empire at War (Rare);Destroyer War (Celestial);3;0
 Danna-sama;Item;;Road to Ruin (Fixed);Shattered Empire;1;0
 Danna-sama;Item;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);1;0
 Dark Audience;Event;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;1
@@ -3608,6 +3622,7 @@ Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);
 Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
 Deep Harbor;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Deep Harbor;Holding;;Shattered Empire (Fixed);Shattered Empire;3;0
+Deep Roots;Strategy;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);3;0
 Defeat the Reserves;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
 Defeated;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Defenders of the Wall • Experienced;Follower;;Chaos Reigns II (Fixed);Shattered Empire;3;0
@@ -4214,6 +4229,16 @@ Garrison;Holding;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Garrison;Holding;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
 Garrison;Holding;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;3
 Gashadokuro;Follower;;Chaos Reigns III (Fixed);Shattered Empire;3;0
+Geisha House;Holding;;Celestial Edition (Fixed)/War of Honor (Fixed);Destroyer War (Celestial);3;0
+Geisha House;Holding;;Diamond Edition (Fixed);Rain of Blood (Diamond);3;0
+Geisha House;Holding;;Emperor Edition (Fixed)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
+Geisha House;Holding;;Gold Edition (Fixed)/L5R Experience (Fixed);Four Winds (Gold);3;0
+Geisha House;Holding;;Ivory Edition (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Geisha House;Holding;;Ivory Edition (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Geisha House;Holding;;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
+Geisha House;Holding;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);3;0
+Geisha House;Holding;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
+Geisha House;Holding;;Shadowlands (Common);Clan Wars (Imperial);3;0
 Gekido no Oni;Personality;Unaligned;Hidden Emperor 4 (Uncommon);Hidden Emperor (Jade);3;0
 Gekido no Oni;Personality;Unaligned;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Gekido no Oni;Personality;Unaligned;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
@@ -8675,7 +8700,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1810
+# Done through card #1820
 #1837
 #1849
 #1855
@@ -8769,6 +8794,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2759
 #2768
 #2777
+#2784
 #2786
 #2807
 #2809-2810
@@ -9467,6 +9493,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9866
 #9893
 #9895
+#9901
 #9908
 #9922
 #9926
