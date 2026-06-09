@@ -1070,6 +1070,7 @@ Charmeleon;Pokemon;Fire;100;;Combustion|Fire Blast;MEW 5 (Uncommon)/MEW 169 (Ill
 Pidgey;Pokemon;Colorless;50;;Call for Family|Tackle;MEW 16 (Common)/PAF 196 (Shiny Rare);G;4;0
 Pidgeotto;Pokemon;Colorless;80;;Flap;MEW 17 (Common)/PAF 197 (Shiny Rare);G;4;0
 Ditto;Pokemon;Colorless;60;Transformative Start;Splup;MEW 132 (Rare)/PAF 201 (Shiny Rare);G;4;0
+Vaporeon;Pokemon;Water;130;;Spiral Drain|Fighting Whirlpool;MEW 134 (Rare)/SVP 168 (Promo)/PRE 22 (Rare);G;4;0
 Flareon;Pokemon;Fire;130;;Destructive Flame|Fighting Blaze;MEW 136 (Rare)/SVP 167 (Promo)/PRE 13 (Rare);G;4;0
 Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 (Ultra Rare)/MEW 205 (Hyper Rare)/SVP 53 (Promo)/PAF 216 (Shiny Ultra Rare)/PAF 232 (Special Illustration Rare);G;4;0
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
@@ -1164,6 +1165,7 @@ Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
 Hearthflame Mask Ogerpon ex;Pokemon;Fire;210;Wrathful Hearth|Dynamic Blaze;TWM 40 (Double Rare)/TWM 192 (Ultra Rare)/TWM 212 (Special Illustration Rare)/PRE 17 (Double Rare)/PRE 148 (Special Illustration Rare);H;4;0
 Goldeen;Pokemon;Water;50;Festival Lead;Whirlpool;TWM 44 (Common)/PRE 20 (Common);H;4;0
 Froslass;Pokemon;Water;90;Freezing Shroud;Frost Smash;TWM 53 (Rare)/TWM 174 (Illustration Rare)/SVP 117 (Promo);H;4;0
+Glaceon;Pokemon;Water;120;;Permeating Chill|Icicle Missile;TWM 54 (Uncommon)/SVP 171 (Promo)/PRE 25 (Rare);H;4;0
 Frogadier;Pokemon;Water;90;;Numbing Water;TWM 57 (Common);H;4;0
 Wellspring Mask Ogerpon ex;Pokemon;Water;210;;Sob|Torrential Pump;TWM 64 (Double Rare)/TWM 194 (Ultra Rare)/TWM 213 (Special Illustration Rare)/PRE 27 (Double Rare)/PRE 152 (Special Illustration Rare);H;4;0
 Iron Thorns ex;Pokemon;Lightning;230;Initialization;Volt Cyclone;TWM 77 (Double Rare)/TWM 196 (Ultra Rare)/PRE 32 (Double Rare);H;4;0
@@ -1286,6 +1288,9 @@ Pyroar;Pokemon;Fire;120;;Fire Mane|Flame Tackle;PRE 16 (Uncommon);H;4;0
 Slowpoke;Pokemon;Water;70;;Water Gun|Tail Shap;PRE 18 (Common);H;4;0
 Slowking;Pokemon;Water;130;;Wash the Slate Clean;PRE 19 (Uncommon);H;4;0
 Seaking;Pokemon;Water;110;Festival Lead;Rapid Draw;PRE 21 (Uncommon);H;4;0
+Vaporeon ex;Pokemon;Water;280;;Severe Squall|Aquamarine;PRE 23 (Double Rare)/PRE 149 (Special Illustration Rare);H;4;0
+Suicune;Pokemon;Water;120;;Overrun|Aurora Beam;PRE 24 (Uncommon);H;4;0
+#PRE 25 done
 
 # PRE 27 done
 
@@ -1330,7 +1335,7 @@ Max Rod;Trainer;Item;;;;PRE 116 (ACE SPEC Rare);H;2;0
 # PRE 119-126 done
 # PRE 129 done
 # PRE 131 last new card (not done)
-# PRE 144-148 done
+# PRE 144-149 done
 # PRE 152 done
 # PRE 154 done
 # PRE 160 done
@@ -1411,9 +1416,19 @@ Sliggoo;Pokemon;Dragon;90;;Gentle Slap;CRI 67 (Common)/CRI 95 (Illustration Rare
 Goodra;Pokemon;Dragon;160;Slimy Sliding;Dragon Pulse;CRI 68 (Rare)/MEP 77 (Promo);J;4;0
 Tauros;Pokemon;Colorless;130;;Target Together;CRI 69 (Uncommon)/CRI 96 (Illustration Rare);J;4;0
 Patrat;Pokemon;Colorless;70;Watchful Eye;Bite;CRI 70 (Common);J;4;0
+Watchog;Pokemon;Colorless;100;;Snap Inspection|Low Kick;CRI 71 (Common)/CRI 97 (Illustration Rare);J;4;0
+Minccino;Pokemon;Colorless;70;;Take Down;CRI 72 (Common);J;4;0
+Cinccino ex;Pokemon;Colorless;240;Smooth Coat;Energized Slap;CRI 73 (Double Rare)/CRI 105 (Ultra Rare)/CRI 119 (Special Illustration Rare);J;4;0
+Adversity Policy;Trainer;Pokemon Tool;;;;CRI 74 (Uncommon);I;4;0
+Ange Floette;Trainer;Stadium;;;;CRI 75 (Uncommon);J;4;0
+AZ's Tranquility;Trainer;Supporter;;;;CRI 76 (Uncommon)/CRI 106 (Ultra Rare)/CRI 120 (Special Illustration Rare);J;4;0
+Emma;Trainer;Supporter;;;;CRI 77 (Uncommon)/CRI 107 (Ultra Rare);J;4;0
+Great Haul Net;Trainer;Item;;;;CRI 78 (Uncommon);J;4;0
+Philippe;Trainer;Supporter;;;;CRI 79 (Uncommon)/CRI 110 (Ultra Rare);J;4;0
+Prism Tower;Trainer;Stadium;;;;CRI 80 (Uncommon)/CRI 111 (Ultra Rare);J;4;0
 
 # 86 last new card (not done)
-# 87-96 done
-# 98-104 done
-# 116-118 done
+# 87-107 done
+# 111 done
+# 116-120 done
 # 122 last card (done)
