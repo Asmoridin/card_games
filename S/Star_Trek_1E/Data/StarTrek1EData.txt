@@ -966,6 +966,9 @@ I Do Not Take Orders From You!;Interrupt;;The Motion Pictures;1331,7253;;4;0
 I Hate You;Dilemma;Planet;The Motion Pictures;1332,7254;;4;0
 I Just Love Scanning for Life-forms;Event;;The Motion Pictures;1333,7255;;4;0
 I Tried to Warn You;Q Dilemma;;Deep Space 9;1334;;4;0
+I'm a Doctor, Not a Bartender;Interrupt;;Holodeck Adventures;1374;;4;0
+I'm a Doctor, Not a Bricklayer;Interrupt;;Mirror, Mirror;1375;;4;0
+I'm a Doctor, Not a Doorstop;Interrupt;;First Contact;1376;;4;0
 I.K.C. Fek'lhr;Ship;Klingon;Alternate Universe/Reflections;1340,3621;;2;0
 I.K.C. Gr'oth;Ship;Klingon;The Trouble with Tribbles;1341;;2;0
 I.K.C. K'Ratak;Ship;Klingon;Alternate Universe/Introductory 2-Player Game;1347,7182;;2;0
@@ -1006,8 +1009,13 @@ Iden;Personnel;Bajoran;Holodeck Adventures;1367;1368;2;0
 Iden;Personnel;Hirogen;Holodeck Adventures;1368;1367;2;0
 Idrin;Personnel;Hirogen;The Borg;1369;;2;0
 Ikat'ika;Personnel;Dominion;Rules of Acquisition;1370;;2;0
+Ilia;Personnel;Federation;The Motion Pictures;1371,7260;;2;0
 Iliana Ghemor;Personnel;Cardassian;Dramatis Personae;8378;;2;0
+Ilon Tandro;Personnel;Cardassian;Identity Crisis;1373;1372;2;0
+Ilon Tandro;Personnel;Federation;Blaze of Glory;1372,4430;1373;2;0
+Immortal Again;Event;;Q Continuum;1377;;4;0
 Impassable Door;Dilemma;Planet;Premiere;1378,6146,6509,6872;;4;1
+Impersonate Captive;Objective;;Blaze of Glory;1379;;4;0
 Impersonate Sages;Mission;Planet;To the Journey;8499;;2;0
 Implication;Dilemma;Dual;Voyager/Virtual Promos;1380,5722;;4;2 # Have 2 VOY
 Impose Order;Mission;Planet;Official Tournament Sealed Deck;194,4054,5910;;4;0
@@ -1532,9 +1540,8 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1370
-#1378
-#1380-1381
+# Done through card 1380
+#1381
 #1384
 #1390
 #1392
@@ -1746,8 +1753,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4411-4416
 #4418
 #4420-4425
-#4427-4429
-#4431
+#4427-4431
 #4434-4436
 #4438
 #4442-4444
@@ -2016,7 +2022,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173-7176
 #7179-7180
-#7182-7259
+#7182-7260
 #7277
 #7317-7318
 #7327-7330
