@@ -225,6 +225,19 @@ Action Point Card(SAKAMOTO DAYS);;SMD-1-AP09;R;Action Point;;;;Sakamoto Days [UE
 Action Point Card(SAKAMOTO DAYS);;SMD-1-AP10;R;Action Point;;;;Sakamoto Days [UE19BT];;0
 Action Point Card(SAKAMOTO DAYS);;SMD-1-AP11;R;Action Point;;;;Sakamoto Days [UE19BT];;0
 Action Point Card(SAKAMOTO DAYS);;SMD-1-AP12;R;Action Point;;;;Sakamoto Days [UE19BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP01;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP02;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP03;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP04;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP05;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP06;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP07;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP08;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP09;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP10;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP11;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP12;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Action Point Card(That Time I Got Reincarnated as a Slime);;TSK-1-AP13;R;Action Point;;;;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Action Point Card(Tokyo Ghoul Booster);;TKG-1-AP01;R;Action Point;;;;Tokyo Ghoul series [UE18BT];;0
 Action Point Card(Tokyo Ghoul);;TKG-1-AP01;C;Action Point;;;;Tokyo Ghoul [UE18ST];;0
 Action Point Card(Tokyo Ghoul);;TKG-1-AP02;R;Action Point;;;;Tokyo Ghoul series [UE18BT];;0
@@ -293,6 +306,7 @@ Annie Leonhart;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-0
 Annie Leonhart;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-051;U;Character;Green;1;1;Attack on Titan [UE10BT];;0
 Annie Leonhart;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-052;U;Character;Green;2;1;Attack on Titan [UE10BT];;0
 Annie Leonhart;104th Cadet Corps;AOT-1-101;C;Character;Red;0;1;Attack on Titan [UE10ST];Draw;4
+Answer;;TSK-2-057;C;Event;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Anteiku;;TKG-1-107;U;Site;Purple;2;1;Tokyo Ghoul [UE18ST];Get;0
 Anya Alstreim;Ashford Academy;CGH-2-062;C;Character;Red;2;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
 Anya Alstreim;Ashford Academy;CGH-2-063;U;Character;Red;4;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Active;0
@@ -316,6 +330,7 @@ Aoshi Shinomori;Oniwaban Group;RNK-1-015;C;Character;Blue;1;1;Rurouni Kenshin [U
 Aoshi Shinomori;Oniwaban Group;RNK-1-016;U;Character;Blue;2;1;Rurouni Kenshin [UE11BT];Color;0
 Aoshi Shinomori;Oniwaban Group;RNK-1-017;R;Character;Blue;4;1;Rurouni Kenshin [UE11BT];Draw;0
 Aoshi Shinomori;Oniwaban Group;RNK-1-018;SR;Character;Blue;4;1;Rurouni Kenshin [UE11BT];Raid;0
+Arcane Thread Fetters;;TSK-1-066;C;Event;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Are We Doing It?! Now...?! Here?!;;AOT-1-067;C;Event;Green;3;1;Attack on Titan [UE10BT];Get;0
 Arena;;NIK-1-096;C;Site;Green;3;1;Goddess of Victory: Nikke [UE14BT];Get;4
 Argo;Progressive;SAO-2-043;U;Character;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
@@ -418,10 +433,19 @@ Be Proud. You Were Strong;;JJK-3-024;U;Event;Blue;8;2;Jujutsu Kaisen Vol.2 [UEX0
 Beast Breathing Fifth Fang: Crazy Cutting;;KMY-1-098;U;Event;Red;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Beautiful Suzuki;;YYH-1-001;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Beautiful Suzuki;;YYH-1-002;R;Character;Purple;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;1
+Benimaru;Kijin;TSK-1-024;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Benimaru;Kijin;TSK-1-025;U;Character;Yellow;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Benimaru;Kijin;TSK-1-026;R;Character;Yellow;3;2;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Benimaru;Kijin;TSK-1-027;SR;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Benimaru;Kijin;TSK-1-104;R;Character;Blue;5;2;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Benimaru;Kijin;TSK-2-010;U;Character;Yellow;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Benimaru;Kijin;TSK-2-011;R;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Benimaru;Kijin;TSK-2-022;U;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Bento;;KMY-1-094;U;Site;Red;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
 Bercouli Synthesis One;Integrity Knights;SAO-1-017;U;Character;Yellow;5;1;Sword Art Online [UE07BT];Active;0
 Bercouli Synthesis One;Integrity Knights;SAO-2-006;C;Character;Yellow;2;1;Sword Art Online Vol.2 [UEX06BT];;0
 Berenice Gabrielli;Stern Ritters;BLC-1-016;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
+Beretta;;TSK-1-072;U;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Bertholdt Hoover (Colossal Titan);104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-057;SR;Character;Green;10;1;Attack on Titan [UE10BT];Raid;0
 Bertholdt Hoover;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-054;C;Character;Green;0;1;Attack on Titan [UE10BT];;0
 Bertholdt Hoover;104th Cadet Corps/Marleyan Warrior/Inheritor of the Titan;AOT-1-055;U;Character;Green;3;1;Attack on Titan [UE10BT];Active;0
@@ -447,6 +471,7 @@ Black Bulls;;BCV-1-031;R;Event;Purple;4;1;Black Clover [UE08BT];Special;0
 Black Flash;;JJK-3-069;R;Event;Red;4;2;Jujutsu Kaisen Vol.2 [UEX02BT];Special;0
 Black Goreinu;Razor Attack Team;HTR-2-025;C;Character;Yellow;2;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;1
 Black Hayate;;FMA-1-044;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];Active;4
+Black Progenitor;;TSK-1-032;R;Event;Yellow;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Blanc;Tetra Line/777;NIK-1-074;U;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];;4
 Blood Crane;;KGR-1-036;U;Event;Purple;5;1;Kagurabachi [UE16BT];Special;0
 Blue Planet;Specified Slot;HTR-2-049;U;Site;Blue;2;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;1
@@ -505,6 +530,8 @@ Captain of the Ship;;HTR-1-103;C;Character;Green;0;1;Hunter × Hunter [UE02ST];;
 Captain's Coat;;BLC-1-097;C;Event;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Carla Jaeger;;AOT-1-068;C;Character;Red;0;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];;4 # have 4 starter, 1 booster
 Carnage Kabuto;House of Evolution;OPM-1-092;U;Character;Red;4;1;One-Punch Man [UE06BT];Active;0
+Carrion;Demon Lord;TSK-1-075;C;Character;Green;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Carrion;Demon Lord;TSK-2-063;C;Character;Green;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Cart Titan;Inheritor of the Titan;AOT-1-039;U;Character;Green;1;1;Attack on Titan [UE10BT];;0
 CCG Headquarters;;TKG-1-027;C;Site;Yellow;4;1;Tokyo Ghoul series [UE18BT];Get;0
 CCG's Reaper;;TKG-1-029;U;Event;Yellow;5;2;Tokyo Ghoul series [UE18BT];Special;0
@@ -559,6 +586,8 @@ Chrollo;Phantom Troupe;HTR-2-050;SR;Character;Purple;4;1;Hunter × Hunter Vol.2 
 Chu;;YYH-1-019;SR;Character;Purple;4;2;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
 Chuntaro;;KMY-1-075;C;Character;Red;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Cirucci Sanderwicci;Arrancars/Kurotsuchi Corpse Unit;BLC-2-040;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Clayman;Demon Lord;TSK-1-077;C;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Clayman;Demon Lord;TSK-1-078;R;Character;Green;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Cleanup;;AOT-1-031;C;Event;Blue;3;1;Attack on Titan [UE10BT];Active;1
 Clone;;HTR-2-047;U;Event;Blue;3;1;Hunter × Hunter Vol.2 [UEX04BT];Active;0
 Cloud Gouger Mei;Enchanted Blade/Cloud Gouger;KGR-1-040;U;Event;Purple;4;1;Kagurabachi [UE16BT];Special;0
@@ -581,6 +610,7 @@ Crystallite Ingot;;SAO-2-025;C;Event;Blue;3;1;Sword Art Online Vol.2 [UEX06BT];D
 Cupid's Day;;CGH-2-073;U;Event;Red;2;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Color;1
 Cursed Technique Lapse: Blue;;JJK-3-012;C;Event;Yellow;4;1;Jujutsu Kaisen Vol.2 [UEX02BT];Draw;0
 Cursed Technique Reversal: Red;;JJK-1-030;C;Event;Yellow;3;1;Jujutsu Kaisen [UE03BT];Active;0
+Daggrull;Demon Lord;TSK-1-079;U;Character;Green;6;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Dagon;Cursed Spirit;JJK-1-088;C;Character;Purple;1;1;Jujutsu Kaisen [UE03BT];;0
 Dagon;Cursed Spirit;JJK-3-032;C;Character;Purple;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Active;0
 Dagon;Cursed Spirit;JJK-3-033;U;Character;Purple;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];Get;0
@@ -603,14 +633,23 @@ Dark Triad;;BCV-1-032;U;Event;Purple;3;1;Black Clover [UE08BT];Final;0
 Datenseki;;KGR-1-035;C;Event;Purple;3;1;Kagurabachi [UE16BT];Active;0
 Death Gatling;Hero;OPM-1-037;C;Character;Green;1;1;One-Punch Man [UE06BT];;1
 Dedicate Your Heart!!;;AOT-1-097;U;Event;Red;3;1;Attack on Titan [UE10BT]/Attack on Titan [UE10ST];Final;4 # have 2 starter
+Deeno;Demon Lord;TSK-1-080;C;Character;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Deep Sea King;;OPM-1-078;C;Character;Red;2;1;One-Punch Man [UE06BT];Draw;1
 Defense Force's Tachikawa Base;;KJ8-1-033;U;Site;Yellow;2;1;Kaiju No. 8 [UE12BT];Draw;0
 Delivery Pizza;;CGH-1-100;C;Event;Red;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
+Demon Lords' Banquet ~Walpurgis~;;TSK-1-095;U;Site;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
 Demon Power;;KMY-1-062;C;Event;Purple;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Demon's Castle;;SLG-1-034;C;Site;Purple;3;1;Solo Leveling [UE17BT];Get;4
 Demon-Slayer Sword;;BCV-1-100;R;Event;Red;4;1;Black Clover [UE08ST]/Black Clover [UE08BT];Special;0
 Department of Research & Development;;BLC-1-063;C;Event;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Deusolbert Synthesis Seven;Integrity Knights;SAO-1-015;C;Character;Yellow;3;1;Sword Art Online [UE07BT];;0
+Diablo;;TSK-1-003;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Diablo;;TSK-1-004;U;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Diablo;;TSK-1-005;R;Character;Yellow;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Diablo;;TSK-1-006;SR;Character;Yellow;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Diablo;;TSK-2-001;C;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Diablo;;TSK-2-002;U;Character;Yellow;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Diablo;;TSK-2-030;SR;Character;Purple;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Diavel;Progressive;SAO-2-050;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];;0
 Diesel;Elysion/Infinity Rail;NIK-1-003;C;Character;Yellow;3;1;Goddess of Victory: Nikke [UE14BT];;4
 Diethard Ried;Order of the Black Knights;CGH-1-011;U;Character;Purple;0;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
@@ -638,6 +677,7 @@ Dr. Ichigaki;;YYH-1-021;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13B
 Dragon Head: Long-Tou Xi-Hua!;;HTR-1-066;U;Event;Purple;4;1;Hunter × Hunter [UE02BT];Special;0
 Dragon of the Darkness Flame;;YYH-1-097;R;Event;Red;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Special;0
 Dragon Pummelin';;OPM-1-066;U;Event;Green;4;1;One-Punch Man [UE06BT];Special;2
+Drago-Nova;;TSK-1-097;R;Event;Green;5;1;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Drake;Missilis/Matis;NIK-1-086;C;Character;Green;0;1;Goddess of Victory: Nikke [UE14BT];;4
 Drake;Missilis/Matis;NIK-1-087;R;Character;Green;4;1;Goddess of Victory: Nikke [UE14BT];Active;2
 Driscoll Berci;Stern Ritters;BLC-1-009;U;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
@@ -679,6 +719,7 @@ Envy;Homunculus;FMA-1-076;R;Character;Purple;2;1;Fullmetal Alchemist [UE09BT];;4
 Envy;Homunculus;FMA-1-077;SR;Character;Purple;4;1;Fullmetal Alchemist [UE09BT];Raid;3
 Epinel;Missilis/Nepenthe;NIK-1-093;U;Character;Green;1;1;Goddess of Victory: Nikke [UE14BT];;4
 Equivalent Exchange;;FMA-1-031;U;Event;Yellow;3;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Final;4
+Eren & Gido & Kaval;;TSK-1-036;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Eren Jaeger (Attack Titan);104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-093;U;Character;Red;6;1;Attack on Titan [UE10BT];Get;0
 Eren Jaeger (Attack Titan);104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-094;SR;Character;Red;8;1;Attack on Titan [UE10BT];Raid;0
 Eren Jaeger;104th Cadet Corps/Levi Squad/Inheritor of the Titan;AOT-1-026;U;Character;Blue;2;1;Attack on Titan [UE10BT];;0
@@ -731,6 +772,10 @@ Father;Homunculus;FMA-1-078;U;Character;Purple;1;1;Fullmetal Alchemist [UE09BT];
 Father;Homunculus;FMA-1-079;SR;Character;Purple;4;2;Fullmetal Alchemist [UE09BT];Get;1
 Father;Homunculus;FMA-1-112;R;Character;Purple;4;2;Fullmetal Alchemist [UE09ST];Active;3
 Fear My Jagan Eye!;;YYH-1-098;U;Event;Red;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;1
+Feast;;TSK-1-030;U;Event;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Final;0
+Feast;;TSK-1-062;U;Event;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Final;0
+Feast;;TSK-1-096;U;Event;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Final;0
+Feast;;TSK-2-056;U;Event;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Final;0
 Feitan;Phantom Troupe;HTR-1-045;R;Character;Purple;4;2;Hunter × Hunter [UE02BT];;1
 Finral Roulacase;Black Bulls;BCV-1-013;U;Character;Purple;1;1;Black Clover [UE08BT];;0
 Finral Roulacase;Black Bulls;BCV-1-085;C;Character;Red;3;1;Black Clover [UE08ST]/Black Clover [UE08BT];;0
@@ -748,11 +793,15 @@ Fort Briggs;;FMA-1-063;C;Site;Blue;3;2;Fullmetal Alchemist [UE09BT];Get;4
 Fortitude 9.8;;KJ8-1-078;C;Event;Green;3;1;Kaiju No. 8 [UE12BT];Active;0
 Found You;;KJ8-1-080;C;Event;Green;1;1;Kaiju No. 8 [UE12BT];Draw;1
 Franklin;Phantom Troupe;HTR-1-046;C;Character;Purple;3;1;Hunter × Hunter [UE02BT];Active;0
+Frey;Demon Lord;TSK-1-081;U;Character;Green;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Freyja;ALO;SAO-2-067;C;Character;Green;0;1;Sword Art Online Vol.2 [UEX06BT];Active;0
 Fuegoleon Vermillion;Crimson Lion Kings;BCV-1-039;R;Character;Green;4;1;Black Clover [UE08BT];Active;0
 Fujishima Tatsumi;Japanese Hunters/Fourth Jeju Island Raid;SLG-1-070;C;Character;Green;0;1;Solo Leveling [UE17BT];Active;4
 Full Recovery;;SLG-1-078;U;Event;Green;3;1;Solo Leveling [UE17BT];Final;3
 Fullmetal Alchemist;;FMA-1-033;U;Event;Yellow;4;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];Special;4 # have 4 starter, 4 booster
+Gabiru;;TSK-1-038;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Gabiru;;TSK-2-013;C;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Gabiru;;TSK-2-014;C;Character;Blue;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Ganju Shiba;;BLC-2-022;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Ganymede;Ashford Academy/KMF;CGH-1-093;U;Character;Red;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Garou;;OPM-1-073;C;Character;Red;0;1;One-Punch Man [UE06BT];Active;0
@@ -768,6 +817,8 @@ Gawain;Order of the Black Knights/KMF;CGH-1-022;SR;Character;Purple;4;1;Code Gea
 Geass of Absolute Suspension;;CGH-2-034;U;Event;Blue;4;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Special;0
 Gekka (Four Holy Swords Fighter);Order of the Black Knights/KMF/Four Holy Swords;CGH-1-025;U;Character;Purple;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Gekka (Tohdoh Fighter);Order of the Black Knights/KMF;CGH-1-024;R;Character;Purple;4;1;Code Geass Lelouch of the Rebellion [UE04BT];Raid;0
+Geld;;TSK-1-001;C;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Geld;;TSK-1-039;C;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Genbu;;YYH-1-010;C;Character;Purple;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Gendoh Ikari & Kohzo Fuyutsuki;;EVA-1-072;C;Character;Red;2;1;Evangelion: New Theatrical Edition [UE15ST]/Evangelion: New Theatrical Edition [UE15BT];;0
 Gendoh Ikari;;EVA-1-032;C;Character;Purple;2;2;Evangelion: New Theatrical Edition [UE15BT];Get;0
@@ -812,6 +863,7 @@ Giselle Gewelle;Stern Ritters/Bambies;BLC-2-008;C;Character;Yellow;0;1;BLEACH: T
 Giselle Gewelle;Stern Ritters/Bambies;BLC-2-009;SR;Character;Yellow;4;2;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
 Gittarackur;Zoldyck Family;HTR-1-053;C;Character;Purple;0;1;Hunter × Hunter [UE02BT];Get;2
 Give Me... Courage;;TKG-1-032;U;Event;Yellow;4;1;Tokyo Ghoul series [UE18BT];Special;0
+Giving a Name;;TSK-2-012;C;Event;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Giyu Tomioka;;KMY-1-107;SR;Character;Yellow;5;2;Demon Slayer: Kimetsu no Yaiba [UE05ST];Get;4
 Giyu Tomioka;Hashira;KMY-1-025;R;Character;Yellow;5;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Giyu Tomioka;Hashira;KMY-2-008;SR;Character;Yellow;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
@@ -821,6 +873,12 @@ Gloucester (Royal Guards Fighter);Holy Britannian Empire/KMF;CGH-1-056;U;Charact
 Gluttony;Homunculus;FMA-1-080;C;Character;Purple;1;1;Fullmetal Alchemist [UE09BT];;4
 Gluttony;Homunculus;FMA-1-081;R;Character;Purple;4;1;Fullmetal Alchemist [UE09BT];;4
 Go Gunhee;;SLG-1-012;U;Character;Purple;3;1;Solo Leveling [UE17BT];;3
+Gobta (Transformed);;TSK-2-027;R;Character;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Gobta;;TSK-1-002;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Gobta;;TSK-1-040;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Gobta;;TSK-1-101;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Gobta;;TSK-2-026;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Gobzo;Team Reborn;TSK-2-049;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Goketsu;Monster Association;OPM-1-085;C;Character;Red;3;1;One-Punch Man [UE06BT];;0
 Goki;;YYH-1-077;C;Character;Red;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Goki;;YYH-1-078;U;Character;Red;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
@@ -849,6 +907,8 @@ Goreinu;Razor Attack Team;HTR-2-012;U;Character;Yellow;1;1;Hunter × Hunter Vol.
 Goreinu;Razor Attack Team;HTR-2-013;R;Character;Yellow;4;2;Hunter × Hunter Vol.2 [UEX04BT];Get;0
 Goto Ryuji;Japanese Hunters/Fourth Jeju Island Raid;SLG-1-073;R;Character;Green;4;2;Solo Leveling [UE17BT];Get;2
 Gotoh;Zoldyck Family;HTR-1-054;C;Character;Purple;3;1;Hunter × Hunter [UE02BT];;1
+Great Forest of Jura;;TSK-1-061;U;Site;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Great Sage;;TSK-1-109;R;Event;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Great Serpent;Shikigami;JJK-1-023;C;Character;Yellow;2;1;Jujutsu Kaisen [UE03BT];Draw;0
 Greed;Homunculus;FMA-1-082;U;Character;Purple;4;1;Fullmetal Alchemist [UE09BT];Active;4
 Greed;Xing/Homunculus;FMA-1-027;SR;Character;Yellow;6;1;Fullmetal Alchemist [UE09BT];Raid;4
@@ -860,6 +920,7 @@ Gun-Ru;Chinese Federation/KMF;CGH-2-029;U;Character;Blue;3;1;Code Geass Lelouch 
 Guren Flight-Enabled Version;Order of the Black Knights/KMF;CGH-2-046;R;Character;Purple;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
 Guren Mk-II;Order of the Black Knights/KMF;CGH-1-023;R;Character;Purple;5;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Guren Mk-II;Order of the Black Knights/KMF;CGH-1-107;SR;Character;Purple;5;1;Code Geass Lelouch of the Rebellion [UE04BT];Raid;0
+Guy;Demon Lord;TSK-1-076;U;Character;Green;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Gyokko;Upper Rank Demon;KMY-3-051;C;Character;Purple;0;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Draw;0
 Gyokko;Upper Rank Demon;KMY-3-052;R;Character;Purple;4;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Raid;0
 Gyomei Himejima;Hashira;KMY-1-026;U;Character;Yellow;6;1;Demon Slayer: Kimetsu no Yaiba [UE05BT]/Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
@@ -893,6 +954,9 @@ Hakuri Sazanami;;KGR-1-044;C;Character;Red;0;1;Kagurabachi [UE16BT];Get;0
 Hakuri Sazanami;;KGR-1-045;U;Character;Red;1;1;Kagurabachi [UE16BT];Draw;0
 Hakuri Sazanami;;KGR-1-046;R;Character;Red;2;1;Kagurabachi [UE16BT];Active;0
 Hakuri Sazanami;;KGR-1-047;SR;Character;Red;4;1;Kagurabachi [UE16BT];Raid;0
+Hakuro;Kijin;TSK-1-022;U;Character;Yellow;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Hakuro;Kijin;TSK-1-023;R;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Hakuro;Kijin;TSK-2-009;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Half-Kakuja;;TKG-1-099;U;Event;Red;5;2;Tokyo Ghoul series [UE18BT];Special;0
 Han Song-yi;;SLG-1-001;C;Character;Purple;1;1;Solo Leveling [UE17BT];;3
 Han Song-yi;;SLG-1-002;R;Character;Purple;0;1;Solo Leveling [UE17BT];Draw;2
@@ -919,6 +983,7 @@ Haruichi Izumo;;KJ8-1-007;C;Character;Yellow;2;1;Kaiju No. 8 [UE12BT];;1
 Haruichi Izumo;;KJ8-1-008;U;Character;Yellow;3;1;Kaiju No. 8 [UE12BT];Draw;1
 Haruichi Izumo;;KJ8-1-046;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];;0
 Haruichi Izumo;;KJ8-1-047;U;Character;Green;1;1;Kaiju No. 8 [UE12BT];;0
+Harvest Festival;;TSK-1-033;C;Event;Yellow;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Hashira Meeting;;KMY-1-030;C;Event;Yellow;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Hashira Trial;;KMY-1-031;U;Event;Yellow;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Special;0
 He Belongs to Me!;;TKG-1-066;U;Event;Purple;6;1;Tokyo Ghoul series [UE18BT];Special;0
@@ -929,6 +994,7 @@ Heisuke Mashimo;;SMD-1-005;C;Character;Yellow;2;1;Sakamoto Days [UE19BT];;0
 Heisuke Mashimo;;SMD-1-006;U;Character;Yellow;3;1;Sakamoto Days [UE19BT];Active;0
 Heisuke Mashimo;;SMD-1-007;R;Character;Yellow;4;2;Sakamoto Days [UE19BT];Draw;0
 Heisuke Mashimo;;SMD-1-008;SR;Character;Yellow;5;1;Sakamoto Days [UE19BT];Raid;0
+Hell Flare;;TSK-1-034;U;Event;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Hellfire Flame;Monster Association;OPM-1-084;U;Character;Red;2;1;One-Punch Man [UE06BT];;0
 Hellish Blizzard;Hero;OPM-1-019;C;Character;Yellow;0;1;One-Punch Man [UE06BT];Draw;0
 Hellish Blizzard;Hero;OPM-1-020;U;Character;Yellow;1;1;One-Punch Man [UE06BT];;2
@@ -960,6 +1026,10 @@ Hinami Fueguchi;;TKG-1-054;C;Character;Purple;1;1;Tokyo Ghoul [UE18ST]/Tokyo Gho
 Hinami Fueguchi;;TKG-1-055;R;Character;Purple;0;1;Tokyo Ghoul series [UE18BT];Draw;0
 Hinao;;KGR-1-051;C;Character;Red;1;1;Kagurabachi [UE16BT];;0
 Hinao;;KGR-1-052;R;Character;Red;3;1;Kagurabachi [UE16BT];Draw;0
+Hinata;;TSK-2-031;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Hinata;;TSK-2-032;U;Character;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Hinata;;TSK-2-033;R;Character;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Hinata;;TSK-2-034;SR;Character;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
 Hinatsuru;Tengen's Wife;KMY-1-083;U;Character;Red;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Hiruhiko;Hishaku;KGR-1-028;U;Character;Purple;1;1;Kagurabachi [UE16BT];Draw;0
 Hiruhiko;Hishaku;KGR-1-029;R;Character;Purple;4;1;Kagurabachi [UE16BT];Get;0
@@ -1052,6 +1122,7 @@ Inosuke Hashibira;;KMY-1-106;C;Character;Yellow;3;1;Demon Slayer: Kimetsu no Yai
 Inosuke Hashibira;;KMY-3-065;U;Character;Red;2;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
 Intruder Elimination System;LABO;SMD-1-064;C;Character;Purple;2;1;Sakamoto Days [UE19BT];;0
 Invisibility Suit;LABO;SMD-1-071;U;Character;Purple;4;1;Sakamoto Days [UE19BT];Color;0
+Invitation from the Demon Lord;;TSK-1-099;C;Event;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Iori Samura;;KGR-1-003;C;Character;Purple;0;1;Kagurabachi [UE16BT];Active;0
 Iori Samura;;KGR-1-004;U;Character;Purple;1;1;Kagurabachi [UE16BT];Draw;0
 Iori Samura;;KGR-1-005;R;Character;Purple;3;1;Kagurabachi [UE16BT];;0
@@ -1107,6 +1178,7 @@ Junpei Yoshino & Moon Dregs;Shikigami;JJK-1-085;U;Character;Purple;1;1;Jujutsu K
 Junpei Yoshino: Abomination;Transfigured Human;JJK-1-073;C;Character;Purple;1;1;Jujutsu Kaisen [UE03BT];Draw;0
 Junpei Yoshino;;JJK-1-059;C;Character;Blue;0;1;Jujutsu Kaisen [UE03BT];;0
 Junpei Yoshino;;JJK-1-071;C;Character;Purple;0;1;Jujutsu Kaisen [UE03BT];;0
+Jura Tempest Federation;;TSK-1-028;U;Site;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
 Juri;;YYH-1-052;C;Character;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
 Jushiro Ukitake;Thirteen Court Guard Squads/The Soul King's Right Arm;BLC-3-011;SP;Character;Green;3;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Draw;0
 Jushiro Ukitake;Thirteen Court Guard Squads;BLC-1-069;U;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
@@ -1130,6 +1202,7 @@ Kagaya Ubuyashiki;;KMY-1-002;U;Character;Yellow;1;1;Demon Slayer: Kimetsu no Yai
 Kagaya Ubuyashiki;;KMY-3-001;C;Character;Yellow;0;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
 Kaguya Sumeragi;Order of the Black Knights;CGH-1-008;U;Character;Purple;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Kaguya Sumeragi;Order of the Black Knights;CGH-2-007;U;Character;Blue;1;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;1
+Kaijin;;TSK-1-037;U;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Kaiju No. 8;;KJ8-1-053;U;Character;Green;4;1;Kaiju No. 8 [UE12BT];Active;0
 Kaiju No. 8;;KJ8-1-054;SR;Character;Green;6;1;Kaiju No. 8 [UE12BT];Raid;0
 Kaiju No. 8;;KJ8-1-055;SR;Character;Green;8;2;Kaiju No. 8 [UE12BT];Get;0
@@ -1365,6 +1438,8 @@ Kurapika;;HTR-2-064;C;Character;Green;1;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;
 Kurapika;;HTR-2-065;R;Character;Green;4;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;1
 Kurapika;;HTR-2-077;R;Character;Green;4;1;Hunter × Hunter Vol.2 [UEX04BT];Active;0
 Kurapika;;HTR-P-003;R;Character;Green;2;1;Hunter × Hunter [UE02BT];Active;1
+Kurobei;Kijin;TSK-1-014;U;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Kurobei;Kijin;TSK-2-004;C;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Kuromomotaro;;YYH-1-009;C;Character;Purple;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Kurotsuchi Corpse Unit;Kurotsuchi Corpse Unit;BLC-2-044;U;Site;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
 Kuzuryuusen;;RNK-1-030;U;Event;Blue;5;1;Rurouni Kenshin [UE11BT];Special;0
@@ -1419,6 +1494,7 @@ Lelouch Lamperouge;Order of the Black Knights;CGH-2-012;C;Character;Blue;0;1;Cod
 Lelouch Lamperouge;Order of the Black Knights;CGH-2-013;R;Character;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;1
 Lelouch Lamperouge;Order of the Black Knights;CGH-2-041;C;Character;Purple;1;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
 Lelouch Lamperouge;Order of the Black Knights;CGH-2-042;SR;Character;Purple;5;2;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Color;0
+Leon;Demon Lord;TSK-1-094;U;Character;Green;5;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Leopold Vermillion;Crimson Lion Kings;BCV-1-043;C;Character;Green;1;1;Black Clover [UE08BT];Active;0
 Leorio;;HTR-1-090;U;Character;Green;1;1;Hunter × Hunter [UE02ST]/Hunter × Hunter [UE02BT];;4 # have 4 starter, 1 booster
 Leorio;;HTR-1-091;R;Character;Green;3;2;Hunter × Hunter [UE02BT];Active;0
@@ -1464,9 +1540,12 @@ Lloyd Asplund;Holy Britannian Empire;CGH-1-048;U;Character;Green;1;1;Code Geass 
 Locket;;CGH-2-037;C;Event;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Active;1
 longing;Song;SAO-2-062;U;Event;Purple;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
 Longinus, the Spear of Despair;;EVA-1-065;U;Event;Purple;4;2;Evangelion: New Theatrical Edition [UE15BT];Special;0
+Lord of Gluttony;;TSK-1-098;U;Event;Green;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
+Lord of Wisdom;;TSK-1-100;C;Event;Green;5;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Loropechika;;BCV-1-069;C;Character;Red;0;1;Black Clover [UE08BT];Draw;0
 Loropechika;;BCV-1-070;U;Character;Red;3;1;Black Clover [UE08BT];Active;0
 Loropechika;;BCV-1-071;R;Character;Red;4;1;Black Clover [UE08BT];Draw;0
+Louis;;TSK-2-040;U;Character;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Love Breathing First Form: Shivers of First Love;;KMY-3-048;U;Event;Blue;4;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Special;0
 Lower Four;Lower Rank Demon;KMY-1-047;C;Character;Purple;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Lower Six;Lower Rank Demon;KMY-1-049;C;Character;Purple;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
@@ -1484,6 +1563,12 @@ Luck Voltia;Black Bulls;BCV-1-016;R;Character;Purple;4;1;Black Clover [UE08BT];D
 Luck Voltia;Black Bulls;BCV-1-089;C;Character;Red;0;1;Black Clover [UE08ST]/Black Clover [UE08BT];Active;0
 Ludmilla;Tetra Line/Unlimited;NIK-1-083;R;Character;Green;3;1;Goddess of Victory: Nikke [UE14BT];Color;2
 Lumiere Silvamillion Clover;;BCV-1-036;U;Character;Green;1;1;Black Clover [UE08BT];;0
+Luminus;Demon Lord;TSK-1-093;U;Character;Green;5;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Luminus;Demon Lord;TSK-2-045;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Luminus;Demon Lord;TSK-2-046;U;Character;Purple;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Luminus;Demon Lord;TSK-2-047;R;Character;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Luminus;Demon Lord;TSK-2-048;SR;Character;Purple;5;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Luminus;Demon Lord;TSK-2-071;U;Character;Green;6;2;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
 Luppi Antenor;Arrancars/Kurotsuchi Corpse Unit;BLC-2-042;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Lust;Homunculus;FMA-1-088;C;Character;Purple;0;1;Fullmetal Alchemist [UE09BT];Draw;4
 Lust;Homunculus;FMA-1-089;R;Character;Purple;3;1;Fullmetal Alchemist [UE09BT];Color;4
@@ -1495,6 +1580,7 @@ Maes Hughes;;FMA-1-045;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];;4
 Maes Hughes;;FMA-1-046;R;Character;Blue;3;1;Fullmetal Alchemist [UE09BT];Color;4
 Maes Hughes;;FMA-1-105;C;Character;Yellow;2;1;Fullmetal Alchemist [UE09ST];Draw;4
 Magatsumi Centipede;Enchanted Blade/Magatsumi;KGR-1-041;U;Event;Purple;5;1;Kagurabachi [UE16BT];Special;0
+Magic-Suppressing Mask;;TSK-1-063;C;Event;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Magna Swing;Black Bulls;BCV-1-014;U;Character;Purple;0;1;Black Clover [UE08BT];;0
 Magna Swing;Black Bulls;BCV-1-106;C;Character;Red;0;1;Black Clover [UE08ST];;0
 Mahito;Cursed Spirit;JJK-1-091;C;Character;Purple;0;1;Jujutsu Kaisen [UE03BT];Get;0
@@ -1534,7 +1620,9 @@ Marian;Elysion/Counters;NIK-1-104;SR;Character;Yellow;4;1;Goddess of Victory: Ni
 Marian;Elysion/Counters;NIK-P-001;R;Character;Yellow;2;1;Goddess of Victory: Nikke [UE14BT];Draw;2
 Marleyan Warriors;;AOT-1-065;U;Event;Green;3;1;Attack on Titan [UE10BT];Final;0
 Masamichi Yaga;;JJK-1-058;U;Character;Blue;2;1;Jujutsu Kaisen [UE03ST]/Jujutsu Kaisen [UE03BT];;4 # 4 starter
+Masayuki;;TSK-2-035;R;Character;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Mask De Masculine;Stern Ritters;BLC-1-017;U;Character;Yellow;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+Master Chef;;TSK-2-058;U;Event;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Master of Disguise;;SMD-1-079;U;Event;Purple;4;1;Sakamoto Days [UE19BT];Special;0
 Mastery of Two Layers;;RNK-1-099;U;Event;Red;4;1;Rurouni Kenshin [UE11BT];Special;0
 Max Elephant;Shikigami;JJK-3-009;U;Character;Yellow;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];Draw;0
@@ -1550,6 +1638,7 @@ Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-037;R;Character;Blue;4;1;BLE
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-038;SR;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-3-003;SP;Character;Blue;1;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Active;0
 Medalize;;BLC-1-033;R;Event;Yellow;1;1;BLEACH: Thousand-Year Blood War [UE01BT];Special;0
+Meeting;;TSK-2-072;C;Site;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
 Megicula;Devil;BCV-1-001;U;Character;Purple;2;1;Black Clover [UE08BT];;0
 Megumi Fushiguro;;JJK-1-019;C;Character;Yellow;0;1;Jujutsu Kaisen [UE03BT];Get;0
 Megumi Fushiguro;;JJK-1-020;U;Character;Yellow;3;1;Jujutsu Kaisen [UE03BT];;0
@@ -1571,6 +1660,7 @@ Megumi Takani;;RNK-1-081;U;Character;Red;2;1;Rurouni Kenshin [UE11ST]/Rurouni Ke
 Megumi Takani;;RNK-1-082;R;Character;Red;3;1;Rurouni Kenshin [UE11BT];Active;0
 Mei Mei;Jujutsu Sorcerer;JJK-3-057;R;Character;Red;5;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Melody;;HTR-1-082;U;Character;Green;1;1;Hunter × Hunter [UE02BT];Active;1
+Melt Slash;;TSK-2-059;U;Event;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Memories of the Three Children;;SAO-1-031;C;Event;Yellow;3;1;Sword Art Online [UE07BT];Draw;0
 Memory Release Skill;;SAO-2-013;U;Event;Yellow;4;1;Sword Art Online Vol.2 [UEX06BT];Special;0
 Memory;;AOT-1-029;C;Event;Blue;2;1;Attack on Titan [UE10BT];Draw;0
@@ -1598,6 +1688,15 @@ Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-089;SR;Character;Red;4;1;Att
 Mikasa Ackermann;104th Cadet Corps/Levi Squad;AOT-1-105;SR;Character;Red;4;2;Attack on Titan [UE10ST];Draw;4
 Mike;Zoldyck Family;HTR-1-059;C;Character;Purple;0;1;Hunter × Hunter [UE02BT];;0
 Miles;Briggs;FMA-1-062;U;Character;Blue;2;1;Fullmetal Alchemist [UE09BT];;4
+Milim;;TSK-P-003;R;Character;Green;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Milim;Demon Lord;TSK-1-082;C;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Milim;Demon Lord;TSK-1-083;U;Character;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Milim;Demon Lord;TSK-1-084;R;Character;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Milim;Demon Lord;TSK-1-085;SR;Character;Green;8;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Milim;Demon Lord;TSK-2-064;C;Character;Green;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Milim;Demon Lord;TSK-2-065;U;Character;Green;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Milim;Demon Lord;TSK-2-066;SR;Character;Green;9;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Milim;Demon Lord;TSK-P-006;R;Character;Green;5;2;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Military Buildup;;CGH-1-067;U;Event;Green;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Special;0
 Milluki;Zoldyck Family;HTR-1-060;C;Character;Purple;2;1;Hunter × Hunter [UE02BT];Draw;2
 Milly Ashford;Ashford Academy;CGH-1-086;C;Character;Red;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
@@ -1647,11 +1746,14 @@ Mitsuri Kanroji;Hashira;KMY-3-031;C;Character;Blue;1;1;Demon Slayer: Kimetsu no 
 Mitsuri Kanroji;Hashira;KMY-3-032;U;Character;Blue;4;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Draw;0
 Mitsuri Kanroji;Hashira;KMY-3-033;R;Character;Blue;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Color;0
 Mitsuri Kanroji;Hashira;KMY-3-034;SR;Character;Blue;5;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Raid;0
+Mjöllmile;;TSK-2-036;U;Character;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Mjurran;;TSK-1-007;C;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Modernia;Pilgrim/Heretic;NIK-1-019;SR;Character;Yellow;5;1;Goddess of Victory: Nikke [UE14BT];Raid;0
 Modernia;Pilgrim/Heretic;NIK-1-059;C;Character;Purple;0;1;Goddess of Victory: Nikke [UE14BT];Draw;4
 Modernia;Pilgrim/Heretic;NIK-1-060;U;Character;Purple;2;1;Goddess of Victory: Nikke [UE14BT];Active;4
 Modernia;Pilgrim/Heretic;NIK-1-061;R;Character;Purple;4;1;Goddess of Victory: Nikke [UE14BT];Get;3
 Moku;Masumi;KGR-1-032;C;Character;Purple;1;1;Kagurabachi [UE16BT];;0
+Momiji;;TSK-2-037;U;Character;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Momo Hinamori;Thirteen Court Guard Squads;BLC-1-086;U;Character;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Momo Nishimiya;Kyoto Jujutsu High;JJK-1-082;U;Character;Purple;3;1;Jujutsu Kaisen [UE03BT];;0
 Monarch's Domain;Shadow Army;SLG-1-035;C;Site;Purple;3;1;Solo Leveling [UE17BT];Get;3
@@ -1689,6 +1791,7 @@ Muzan Kibutsuji;;KMY-3-049;SR;Character;Purple;5;1;Demon Slayer: Kimetsu no Yaib
 Muzan's Blood;;KMY-1-067;U;Event;Purple;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Final;0
 Muzan's Research;;KMY-3-061;U;Event;Purple;4;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Special;0
 My Magic Is Never Giving Up!;;BCV-1-096;U;Event;Red;3;1;Black Clover [UE08ST]/Black Clover [UE08BT];Final;0
+Mystic Thread Strike;;TSK-1-065;U;Event;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 N102;Missilis/Recall & Release;NIK-1-095;C;Character;Green;0;1;Goddess of Victory: Nikke [UE14BT];;4
 Nacht Faust;Black Bulls;BCV-1-078;U;Character;Red;0;1;Black Clover [UE08BT];;0
 Nacht Faust;Black Bulls;BCV-1-079;SR;Character;Red;4;2;Black Clover [UE08BT];Get;0
@@ -1802,6 +1905,7 @@ Omni-Directional Mobility Gear;;AOT-1-099;R;Event;Red;4;1;Attack on Titan [UE10B
 One Million Miracles;;CGH-2-036;U;Event;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Final;0
 ONE PUNCH;;OPM-1-109;R;Event;Yellow;4;1;One-Punch Man [UE06ST];Draw;4
 Onji;;YYH-1-005;C;Character;Purple;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;1
+Opening Festival;;TSK-2-055;C;Site;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
 Operations Room (Operation Yashima);;EVA-1-093;C;Site;Red;4;1;Evangelion: New Theatrical Edition [UE15BT];Get;0
 Order of the Black Knights;;CGH-1-109;R;Event;Purple;1;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
 Orihime Inoue;;BLC-1-035;U;Character;Purple;1;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];;0
@@ -1817,6 +1921,7 @@ Osaragi;The Order;SMD-1-045;R;Character;Purple;4;1;Sakamoto Days [UE19BT];Color;
 Osaragi;The Order;SMD-1-046;SR;Character;Purple;5;1;Sakamoto Days [UE19BT];Raid;0
 Our Sounds Work Well Together;;EVA-1-059;U;Event;Purple;3;1;Evangelion: New Theatrical Edition [UE15BT];Final;0
 Out!;;HTR-2-046;U;Event;Blue;4;1;Hunter × Hunter Vol.2 [UEX04BT];;1
+Overdrive;;TSK-1-031;C;Event;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Owl Extermination Operation;;TKG-1-100;U;Event;Red;4;1;Tokyo Ghoul series [UE18BT];Special;0
 Pakunoda;Phantom Troupe;HTR-1-041;C;Character;Purple;0;1;Hunter × Hunter [UE02BT];;1
 Paladin's Necklace;Specified Slot;HTR-1-028;C;Event;Blue;2;1;Hunter × Hunter [UE02BT];Active;3
@@ -1852,6 +1957,7 @@ Poli;Elysion/A.C.P.U.;NIK-1-004;U;Character;Yellow;1;1;Goddess of Victory: Nikke
 Ponzu;;HTR-1-089;C;Character;Green;0;1;Hunter × Hunter [UE02BT];;0
 Potion;;SLG-1-079;U;Event;Green;3;1;Solo Leveling [UE17BT];Final;2
 Power of Absolute Obedience;;CGH-1-030;R;Event;Purple;4;2;Code Geass Lelouch of the Rebellion [UE04BT];Special;0
+Predator;;TSK-1-067;R;Event;Blue;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Special;0
 Presence of the Demon King;;BCV-1-033;U;Event;Purple;4;1;Black Clover [UE08BT];Special;0
 President's Orders;;CGH-1-095;U;Event;Red;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Final;0
 Pride;Homunculus;FMA-1-085;U;Character;Purple;1;1;Fullmetal Alchemist [UE09BT];;4
@@ -1883,6 +1989,18 @@ Rakshata Chawla;Order of the Black Knights;CGH-1-014;U;Character;Purple;0;1;Code
 Rakshata Chawla;Order of the Black Knights;CGH-1-105;C;Character;Purple;1;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Rakshata Chawla;Order of the Black Knights;CGH-2-011;U;Character;Blue;0;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;1
 Rakuzaichi;;KGR-1-034;C;Site;Purple;3;1;Kagurabachi [UE16BT];Get;0
+Ramen;;TSK-2-060;C;Event;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Ramiris;Demon Lord;TSK-1-086;C;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Ramiris;Demon Lord;TSK-1-087;U;Character;Green;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Ramiris;Demon Lord;TSK-1-088;SR;Character;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Ramiris;Demon Lord;TSK-2-067;C;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Ramiris;Demon Lord;TSK-2-068;R;Character;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Ranga;;TSK-1-009;U;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Ranga;;TSK-1-047;R;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Ranga;;TSK-1-073;C;Character;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Ranga;;TSK-1-105;C;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Ranga;;TSK-2-016;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Ranga;;TSK-2-039;U;Character;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Rangiku Matsumoto;Thirteen Court Guard Squads;BLC-1-089;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Rangiku Matsumoto;Thirteen Court Guard Squads;BLC-2-072;C;Character;Green;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Rapi;Elysion/Counters;NIK-1-009;C;Character;Yellow;0;1;Goddess of Victory: Nikke [UE14BT];Get;4
@@ -1945,15 +2063,44 @@ Reno Ichikawa;;KJ8-1-048;C;Character;Green;3;1;Kaiju No. 8 [UE12BT];Active;0
 Reno Ichikawa;;KJ8-1-049;U;Character;Green;1;1;Kaiju No. 8 [UE12BT];;0
 Reno Ichikawa;;KJ8-1-050;R;Character;Green;2;1;Kaiju No. 8 [UE12BT];Active;0
 Renri Synthesis Twenty-Seven;Integrity Knights;SAO-2-008;U;Character;Yellow;0;1;Sword Art Online Vol.2 [UEX06BT];Active;0
+Report;;TSK-2-024;U;Event;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Requiem;;HTR-2-061;C;Event;Purple;3;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;0
+Resurrection;;TSK-2-061;C;Event;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Retsu Unohana;Thirteen Court Guard Squads;BLC-1-071;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;1
 Retsu Unohana;Thirteen Court Guard Squads;BLC-1-072;U;Character;Green;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Return;;HTR-2-048;C;Event;Blue;2;1;Hunter × Hunter Vol.2 [UEX04BT];Active;1
 Revived Memories;;CGH-2-049;U;Event;Purple;2;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;1
 Revolution Life or Death Free Formation;;CGH-1-031;U;Event;Purple;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Special;0
 Reward;;NIK-1-032;C;Event;Yellow;4;1;Goddess of Victory: Nikke [UE14BT];Draw;4
+Rigur;;TSK-1-048;C;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Rigurd;;TSK-1-049;U;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Riko Amanai;;JJK-3-001;U;Character;Yellow;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Rill Boismortier;Aqua Deer;BCV-1-062;U;Character;Green;2;1;Black Clover [UE08BT];Draw;0
+Rimuru (Lord of Wisdom);Demon Lord;TSK-1-092;U;Character;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Rimuru;;TSK-1-010;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Rimuru;;TSK-1-011;U;Character;Yellow;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Rimuru;;TSK-1-012;R;Character;Yellow;5;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Rimuru;;TSK-1-013;SR;Character;Yellow;3;2;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Rimuru;;TSK-1-050;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Rimuru;;TSK-1-051;U;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Rimuru;;TSK-1-052;R;Character;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Rimuru;;TSK-1-053;SR;Character;Blue;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Rimuru;;TSK-1-106;U;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Rimuru;;TSK-1-107;SR;Character;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Rimuru;;TSK-2-003;R;Character;Yellow;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Rimuru;;TSK-2-017;C;Character;Blue;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Rimuru;;TSK-2-018;SR;Character;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Rimuru;;TSK-P-001;R;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Rimuru;;TSK-P-004;R;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Rimuru;Demon Lord;TSK-1-089;C;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Rimuru;Demon Lord;TSK-1-090;R;Character;Green;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Rimuru;Demon Lord;TSK-1-091;SR;Character;Green;5;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Rimuru;Demon Lord;TSK-2-041;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Rimuru;Demon Lord;TSK-2-042;C;Character;Purple;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Rimuru;Demon Lord;TSK-2-043;U;Character;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Rimuru;Demon Lord;TSK-2-044;SR;Character;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Rimuru;Demon Lord;TSK-2-069;U;Character;Green;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Rimuru;Demon Lord;TSK-2-070;R;Character;Green;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
 Rinku;;YYH-1-028;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Risky Dice;Specified Slot;HTR-1-027;U;Site;Blue;3;1;Hunter × Hunter [UE02BT];Get;0
 Ritsuko Akagi;;EVA-1-068;U;Character;Red;2;1;Evangelion: New Theatrical Edition [UE15ST]/Evangelion: New Theatrical Edition [UE15BT];;0
@@ -2071,6 +2218,7 @@ Schneizel el Britannia;Holy Britannian Empire;CGH-2-051;C;Character;Green;2;1;Co
 School Festival;;CGH-1-096;C;Event;Red;2;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Screening Exam;;KJ8-1-038;U;Event;Yellow;3;1;Kaiju No. 8 [UE12BT];Draw;0
 Sea Dragon's Lair;;BCV-1-098;C;Event;Red;2;1;Black Clover [UE08BT];Draw;0
+Sealed Cave;;TSK-1-108;C;Site;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
 Secré Swallowtail;Black Bulls;BCV-1-047;R;Character;Green;3;1;Black Clover [UE08BT];Get;0
 Seed of the Death Plant;;YYH-1-095;C;Event;Red;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;1
 Seichi Samura;Iai White Purity Style;KGR-1-019;U;Character;Purple;2;1;Kagurabachi [UE16BT];;0
@@ -2092,6 +2240,7 @@ Senjumaru Shutara;Squad Zero;BLC-2-056;C;Character;Purple;0;1;BLEACH: Thousand-Y
 Senjumaru Shutara;Squad Zero;BLC-2-057;R;Character;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
 Senjuro Rengoku;;KMY-1-081;C;Character;Red;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Serious Punch;;OPM-1-067;R;Event;Green;12;1;One-Punch Man [UE06BT];;0
+Seven Days Clergy;;TSK-2-028;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Shadow Beasts;;HTR-1-068;C;Character;Green;2;1;Hunter × Hunter [UE02BT];;1
 Shadow Monarch;;SLG-1-039;U;Event;Purple;5;1;Solo Leveling [UE17BT];Special;3
 Shadow Soldiers;Shadow Army;SLG-1-030;C;Character;Purple;0;1;Solo Leveling [UE17BT];Draw;5;12 # 1 release event
@@ -2134,6 +2283,20 @@ Shinobu Kocho;Hashira;KMY-1-021;R;Character;Yellow;3;1;Demon Slayer: Kimetsu no 
 Shinobu Kocho;Hashira;KMY-2-005;U;Character;Yellow;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Shinobu Kocho;Hashira;KMY-3-008;SR;Character;Yellow;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Get;0
 Shinta;;RNK-1-002;C;Character;Blue;0;1;Rurouni Kenshin [UE11BT];Active;0
+Shion;Kijin;TSK-1-015;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shion;Kijin;TSK-1-016;R;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Shion;Kijin;TSK-1-054;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Shion;Kijin;TSK-1-055;R;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Shion;Kijin;TSK-1-056;SR;Character;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Shion;Kijin;TSK-1-074;R;Character;Green;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shion;Kijin;TSK-2-005;U;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Shion;Kijin;TSK-2-019;R;Character;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Shion;Team Reborn;TSK-2-050;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Shion;Team Reborn;TSK-2-051;U;Character;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shion;Team Reborn;TSK-2-052;R;Character;Purple;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Shion;Team Reborn;TSK-2-053;SR;Character;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Shion;Team Reborn;TSK-P-005;R;Character;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Shion's Cooking;;TSK-1-064;C;Event;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Shiori Minamino;;YYH-1-086;C;Character;Red;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;1
 Shirley Fenette;Ashford Academy;CGH-1-079;C;Character;Red;0;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Shirley Fenette;Ashford Academy;CGH-1-080;U;Character;Red;2;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
@@ -2145,6 +2308,12 @@ Shishiba;The Order;SMD-1-054;R;Character;Purple;3;1;Sakamoto Days [UE19BT];Activ
 Shishiba;The Order;SMD-1-055;SR;Character;Purple;5;1;Sakamoto Days [UE19BT];Raid;0
 Shishiwakamaru;;YYH-1-012;R;Character;Purple;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Shiyumi Harima;Kamunabi/Anti-Cloud Gouger Special Forces;KGR-1-074;C;Character;Red;0;1;Kagurabachi [UE16BT];Active;0
+Shizu;;TSK-1-041;C;Character;Blue;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Shizu;;TSK-1-042;U;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shizu;;TSK-1-043;SR;Character;Blue;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Shizu;;TSK-1-102;SR;Character;Blue;4;2;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Shizu;;TSK-2-015;U;Character;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Shizu;;TSK-P-002;R;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Shizuku;Phantom Troupe;HTR-1-038;U;Character;Purple;2;1;Hunter × Hunter [UE02BT];;0
 Shizuku;Phantom Troupe;HTR-1-111;U;Character;Purple;4;1;Hunter × Hunter [UE02BT];Get;2
 Shizuru Kuwabara;;YYH-1-106;C;Character;Green;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
@@ -2162,6 +2331,14 @@ Shu Tsukiyama;;TKG-1-052;SR;Character;Purple;5;1;Tokyo Ghoul series [UE18BT];Rai
 Shuhei Hisagi;Thirteen Court Guard Squads;BLC-1-082;C;Character;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Shuhei Hisagi;Thirteen Court Guard Squads;BLC-2-068;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Shuichi Minamino;;YYH-1-087;C;Character;Red;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
+Shuna;Kijin;TSK-1-017;C;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shuna;Kijin;TSK-1-018;U;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shuna;Kijin;TSK-1-019;SR;Character;Yellow;2;2;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Shuna;Kijin;TSK-1-057;U;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shuna;Kijin;TSK-1-103;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Shuna;Kijin;TSK-2-006;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Shuna;Kijin;TSK-2-007;SR;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Shuna;Kijin;TSK-2-020;U;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-1-074;R;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;1
 Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-2-063;U;Character;Green;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-3-007;SP;Character;Green;2;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Draw;0
@@ -2209,12 +2386,22 @@ Snow White;Pilgrim/Pioneer;NIK-1-055;SR;Character;Purple;4;1;Goddess of Victory:
 Snow White;Pilgrim/Pioneer;NIK-1-111;R;Character;Purple;0;1;Goddess of Victory: Nikke [UE14BT];;4
 So What's Your Name?;;TKG-1-097;U;Event;Red;3;1;Tokyo Ghoul series [UE18BT];Final;0
 Soda;Tetra Line/Maid For You;NIK-1-081;U;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];;3
+Soei;Kijin;TSK-1-020;C;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Soei;Kijin;TSK-1-021;U;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Soei;Kijin;TSK-1-058;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Soei;Kijin;TSK-1-059;R;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Soei;Kijin;TSK-1-060;SR;Character;Blue;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Soei;Kijin;TSK-2-008;U;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Soei;Kijin;TSK-2-021;R;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Soi Fon;Thirteen Court Guard Squads;BLC-1-055;R;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Sojiro Seta;Ten Swords;RNK-1-055;C;Character;Purple;0;1;Rurouni Kenshin [UE11BT];Get;0
 Sojiro Seta;Ten Swords;RNK-1-056;C;Character;Purple;1;1;Rurouni Kenshin [UE11BT];;0
 Sojiro Seta;Ten Swords;RNK-1-057;U;Character;Purple;3;1;Rurouni Kenshin [UE11BT];Active;0
 Sojiro Seta;Ten Swords;RNK-1-058;R;Character;Purple;4;1;Rurouni Kenshin [UE11BT];Color;0
 Sojiro Seta;Ten Swords;RNK-1-059;SR;Character;Purple;4;1;Rurouni Kenshin [UE11BT];Raid;0
+Soka;;TSK-1-044;U;Character;Blue;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Soka;;TSK-1-045;R;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Soka;;TSK-2-029;U;Character;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Sometimes You Gotta Risk It All... to Win That Special... Something!;;EVA-1-099;C;Event;Red;2;1;Evangelion: New Theatrical Edition [UE15BT];Active;0
 Song Chiyul;;SLG-1-042;U;Character;Green;0;1;Solo Leveling [UE17BT];;4
 Soshiro Azami;Kamunabi;KGR-1-061;U;Character;Red;2;1;Kagurabachi [UE16BT];;0
@@ -2247,6 +2434,7 @@ Spirit Detective;;YYH-1-109;R;Event;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT
 Spirit Gun;;YYH-1-065;R;Event;Green;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Special;0
 Spirit Reflection Blast;;YYH-1-067;C;Event;Green;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;0
 Spirit Sword;;YYH-1-066;U;Event;Green;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Special;0
+Spy;;TSK-2-023;C;Event;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Squad Funeral;;BLC-1-098;C;Event;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Squadron-Style Axe Technique Number One - Falling Thunder;;KJ8-1-040;R;Event;Yellow;3;1;Kaiju No. 8 [UE12BT];Special;0
 Squala;;HTR-2-067;C;Character;Green;3;1;Hunter × Hunter Vol.2 [UEX04BT];;0
@@ -2281,6 +2469,7 @@ Suma & Makio & Hinatsuru;Tengen's Wife;KMY-3-068;C;Character;Red;3;1;Demon Slaye
 Suma;Tengen's Wife;KMY-1-082;C;Character;Red;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Sumi;Masumi;KGR-1-031;C;Character;Purple;0;1;Kagurabachi [UE16BT];;0
 Sumiko;Disguised;KMY-1-092;C;Character;Red;0;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
+Summon Demon;;TSK-1-029;C;Event;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Sung Il-hwan;;SLG-1-023;U;Character;Purple;4;1;Solo Leveling [UE17BT];Active;3
 Sung Jinah;;SLG-1-013;U;Character;Purple;0;1;Solo Leveling [UE17BT];;4
 Sung Jinah;;SLG-1-043;C;Character;Green;0;1;Solo Leveling [UE17BT];Active;3
@@ -2369,6 +2558,7 @@ Tasty!;;KMY-1-095;C;Event;Red;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Draw;0
 Tatara;;TKG-1-077;U;Character;Red;5;2;Tokyo Ghoul series [UE18BT];Draw;0
 Tawata Kanae;Japanese Hunters/Fourth Jeju Island Raid;SLG-1-067;R;Character;Green;4;1;Solo Leveling [UE17BT];Color;3
 Team Genthru;The Bomber;HTR-2-044;R;Character;Blue;4;1;Hunter × Hunter Vol.2 [UEX04BT];Color;0
+Team Reborn;Team Reborn;TSK-2-054;C;Character;Purple;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Tecchin Tecchikawahara;Swordsmith Village;KMY-3-028;U;Character;Blue;0;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
 Tempest Wind;Monster Association;OPM-1-086;U;Character;Red;1;1;One-Punch Man [UE06BT];;2
 Ten Shadows Technique;;JJK-1-033;U;Event;Yellow;3;1;Jujutsu Kaisen [UE03BT];Special;0
@@ -2417,6 +2607,7 @@ The Weak and the Strong;;NIK-1-033;U;Event;Yellow;3;1;Goddess of Victory: Nikke 
 The Win Must Be Flawless, Right?;;HTR-2-032;R;Event;Yellow;5;1;Hunter × Hunter Vol.2 [UEX04BT];Special;0
 There Are a Few Things Even More Important Than Friendship;;TKG-1-031;U;Event;Yellow;3;1;Tokyo Ghoul series [UE18BT];Final;0
 Thirteen Court Guard Squads;;BLC-1-095;C;Event;Green;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+This Is So Good!;;TSK-2-073;U;Event;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
 This Is Who I Am Right Now;;KJ8-1-036;U;Event;Yellow;3;1;Kaiju No. 8 [UE12BT];Final;0
 Three Grand Treasures of Darkness;;YYH-1-099;C;Event;Red;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;0
 Thunder Breathing First Form: Thunderclap and Flash;;KMY-1-097;R;Event;Red;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Special;0
@@ -2471,6 +2662,7 @@ Training;;RNK-1-026;C;Site;Blue;3;1;Rurouni Kenshin [UE11BT];Get;0
 Transfigured Person;Transfigured Human;JJK-1-072;C;Character;Purple;0;1;Jujutsu Kaisen [UE03BT];;0
 Traveler from Xing;;FMA-1-030;U;Event;Yellow;4;1;Fullmetal Alchemist [UE09BT];Special;4
 Tree of Qliphoth;;BCV-1-028;C;Site;Purple;3;1;Black Clover [UE08BT];Get;0
+Treyni;;TSK-1-046;U;Character;Blue;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Trisha Elric;;FMA-1-015;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09ST]/Fullmetal Alchemist [UE09BT];;4
 Tristan;Holy Britannian Empire/Knights of the Round/KMF;CGH-2-058;C;Character;Green;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];;0
 Tsezguerra;;HTR-1-008;C;Character;Blue;3;1;Hunter × Hunter [UE02BT];;1
@@ -2514,6 +2706,13 @@ Vanica Zogratis;Dark Triad;BCV-1-017;C;Character;Purple;0;1;Black Clover [UE08BT
 Vanica Zogratis;Dark Triad;BCV-1-018;U;Character;Purple;2;1;Black Clover [UE08BT];;0
 Vanica Zogratis;Dark Triad;BCV-1-019;R;Character;Purple;3;2;Black Clover [UE08BT];Color;0
 Vato Falman;Briggs;FMA-1-056;C;Character;Blue;0;1;Fullmetal Alchemist [UE09BT];Draw;4
+Veldora;;TSK-1-035;U;Character;Blue;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
+Veldora;;TSK-1-069;C;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
+Veldora;;TSK-1-070;R;Character;Green;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Color;0
+Veldora;;TSK-1-071;SR;Character;Green;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
+Veldora;;TSK-2-025;R;Character;Purple;4;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Veldora;;TSK-2-062;C;Character;Green;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
+Velzard;;TSK-1-068;C;Character;Green;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Vertical Jump;;HTR-2-033;C;Event;Yellow;2;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;0
 Villetta Nu;Ashford Academy;CGH-2-064;R;Character;Red;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;0
 Villetta Nu;Holy Britannian Empire/Pureblood Faction;CGH-1-049;C;Character;Green;3;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
@@ -2594,6 +2793,7 @@ You Won't Die. I Will Protect You;;EVA-1-109;C;Event;Red;2;1;Evangelion: New The
 Youko Kurama;;YYH-1-091;R;Character;Red;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;1
 Youko Kurama;;YYH-1-092;SR;Character;Red;6;1;Yu Yu Hakusho: Ghost Files [UE13BT];Raid;0
 You'll Get What's Coming to You When I Eat You Instead;;TKG-1-065;U;Event;Purple;6;1;Tokyo Ghoul series [UE18BT];Special;0
+Youm;;TSK-1-008;U;Character;Yellow;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Younger Toguro;;YYH-1-023;C;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Get;0
 Younger Toguro;;YYH-1-024;U;Character;Purple;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Younger Toguro;;YYH-1-025;SR;Character;Purple;8;1;Yu Yu Hakusho: Ghost Files [UE13BT];Raid;0
@@ -2664,6 +2864,7 @@ Yusuke Urameshi;;YYH-1-102;C;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE1
 Yusuke Urameshi;;YYH-1-103;SR;Character;Green;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Raid;0
 Yusuke Urameshi;;YYH-P-002;R;Character;Green;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
 Yutaro Tsukayama;;RNK-1-083;C;Character;Red;0;1;Rurouni Kenshin [UE11BT];;0
+Yuuki;;TSK-2-038;U;Character;Purple;1;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Yuuki;ALO;SAO-1-078;C;Character;Green;0;1;Sword Art Online [UE07BT];Draw;0
 Yuuki;ALO;SAO-1-079;U;Character;Green;2;1;Sword Art Online [UE07BT];;0
 Yuuki;ALO;SAO-1-080;R;Character;Green;4;1;Sword Art Online [UE07BT];Active;0

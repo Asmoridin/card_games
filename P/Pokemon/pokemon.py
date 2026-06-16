@@ -37,6 +37,9 @@ color_mapping = {
     'Psychic Energy': 'Psychic',
     'Telepathic Psychic Energy': 'Psychic',
     'Water Energy': 'Water',
+    'Bubbly W Energy': 'Water',
+    'Magnetic M Energy': 'Metal',
+    'Nitro R Energy': 'Fire',
 }
 
 FILE_PREFIX = os.path.join("card_games", "P", "Pokemon")
