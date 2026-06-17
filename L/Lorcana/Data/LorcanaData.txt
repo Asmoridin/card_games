@@ -668,22 +668,22 @@ Gumbo Pot;Item;Sapphire;;Rise of the Floodborn (Common);1
 Gunther - Interior Designer;Character;Emerald;Dreamborn/Ally;Ursula's Return (Common);1
 Gurgi - Apple Lover;Character;Amber;Storyborn/Ally;Whispers in the Well (Common);1
 Gus - Champion of Cheese;Character;Emerald;Storyborn/Ally;Ursula's Return (Common);0
+Gustav the Giant - Terror of the Kingdom;Character;Steel;Dreamborn/Villain;Into the Inklands (Rare);0
+Gwythaint - Savage Hunter;Character;Amethyst;Storyborn/Ally/Dragon;Whispers in the Well (Uncommon);0
+Gyro Gearloose - Eccentric Inventor;Character;Ruby/Sapphire;Storyborn/Ally/Inventor;Reign of Jafar (Rare);0
+Gyro Gearloose - Gadget Whiz;Character;Sapphire;Storyborn/Ally/Inventor;Into the Inklands (Rare);1
+Hades - Double Dealer;Character;Emerald;Storyborn/Villain/Deity;Ursula's Return (Legendary);1
+Hades - Fast Talker;Character;Amethyst/Ruby;Storyborn/Villain/Deity;Archazia's Island (Rare);0
+Hades - Hotheaded Ruler;Character;Steel;Storyborn/Villain/Deity;Into the Inklands (Rare);0
+Hades - Infernal Schemer;Character;Sapphire;Dreamborn/Villain/Deity;The First Chapter (Legendary)/Fabled (Legendary);0
+Hades - King of Olympus;Character;Amber;Floodborn/Villain/King/Deity;The First Chapter (Rare);0
+Hades - Looking for a Deal;Character;Amethyst;Storyborn/Villain/Deity;Whispers in the Well (Legendary);0
+Hades - Lord of the Dead;Character;Amethyst;Storyborn/Villain/Deity;Azurite Sea (Rare);0
+Hades - Lord of the Underworld;Character;Amber;Storyborn/Villain/Deity;The First Chapter (Rare);1
+Hades - Meticulous Plotter;Character;Sapphire;Storyborn/Villain/Deity;Ursula's Return (Uncommon);1
+Hades - Ruthless Tyrant;Character;Amethyst/Ruby;Dreamborn/Villain/Deity;Reign of Jafar (Super Rare);1
+Hades - Strong Arm;Character;Ruby;Storyborn/Villain/Deity;Azurite Sea (Legendary);0
 # Traits done through here
-Gustav the Giant - Terror of the Kingdom;Character;Steel;;Into the Inklands (Rare);0
-Gwythaint - Savage Hunter;Character;Amethyst;;Whispers in the Well (Uncommon);0
-Gyro Gearloose - Eccentric Inventor;Character;Ruby/Sapphire;;Reign of Jafar (Rare);0
-Gyro Gearloose - Gadget Whiz;Character;Sapphire;;Into the Inklands (Rare);1
-Hades - Double Dealer;Character;Emerald;;Ursula's Return (Legendary);1
-Hades - Fast Talker;Character;Amethyst/Ruby;;Archazia's Island (Rare);0
-Hades - Hotheaded Ruler;Character;Steel;;Into the Inklands (Rare);0
-Hades - Infernal Schemer;Character;Sapphire;;The First Chapter (Legendary)/Fabled (Legendary);0
-Hades - King of Olyumpus;Character;Amber;;The First Chapter (Rare);0
-Hades - Looking for a Deal;Character;Amethyst;;Whispers in the Well (Legendary);0
-Hades - Lord of the Dead;Character;Amethyst;;Azurite Sea (Rare);0
-Hades - Lord of the Underworld;Character;Amber;;The First Chapter (Rare);1
-Hades - Meticulous Plotter;Character;Sapphire;;Ursula's Return (Uncommon);1
-Hades - Ruthless Tyrant;Character;Amethyst/Ruby;;Reign of Jafar (Super Rare);1
-Hades - Strong Arm;Character;Ruby;;Azurite Sea (Legendary);0
 Hakuna Matata;Action;Amber;;The First Chapter (Common);3
 Half Hexwell Crown;Item;Amethyst;;Shimmering Skies (Rare);0
 Hamster Ball;Item;Steel;;Reign of Jafar (Common);2
@@ -2209,10 +2209,16 @@ Leviathan's Lair - Dangerous Ground;Location;Ruby;;Wilds Unknown (Rare);0
 Prince Charming - Searching for Answers;Character;Sapphire;Storyborn/Hero/Prince;Wilds Unknown (Common);0
 Merryweather - Feisty Fairy;Character;Sapphire;Storyborn/Ally/Fairy;Wilds Unknown (Uncommon);0
 Fauna - Good‐Natured Fairy;Character;Sapphire;Storyborn/Ally/Fairy;Wilds Unknown (Common);0
-
 Kida - Guardian of the Path;Character;Sapphire;Storyborn/Hero/Princess;Wilds Unknown (Common);1
-
 Zipper - Tiny Helper;Character;Sapphire;Storyborn/Ally;Wilds Unknown (Uncommon);1
+Flora - Strong‐Willed Fairy;Character;Sapphire;Storyborn/Ally/Fairy;Wilds Unknown (Rare);0
+Mirabel Madrigal - Resourceful Daughter;Character;Sapphire;Storyborn/Hero/Madrigal;Wilds Unknown (Common);0
+Syndrome - Evil Inventor;Character;Sapphire;Storyborn/Super/Villain/Inventor;Wilds Unknown (Common);0
+Gadget Hackwrench - Resourceful Mechanic;Character;Sapphire;Dreamborn/Ally/Inventor;Wilds Unknown (Super Rare);0
+Norton Nimnul - Misanthropic Genius;Character;Sapphire;Storyborn/Villain/Inventor;Wilds Unknown (Uncommon);0
+Gadget Hackwrench - Finder of Lost Parts;Character;Sapphire;Storyborn/Ally/Inventor;Wilds Unknown (Common);0
+Edna Mode - Super Suit Designer;Character;Sapphire;Dreamborn/Ally/Inventor;Wilds Unknown (Rare);0
+Zipper - Big Helper;Character;Sapphire;Floodborn/Ally;Wilds Unknown (Super Rare);0
 
 Luisa Madrigal - No Pressure;Character;Sapphire;Dreamborn/Ally/Madrigal;Wilds Unknown (Uncommon);1
 Dr. Sara Bellum - Head of Research;Character;Sapphire;Storyborn/Ally/Inventor;Wilds Unknown (Common);1

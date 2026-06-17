@@ -1,5 +1,5 @@
 Abnegation;Phantom Monarchs;Action;Cleric;Umbra;0
-Absolving Flames;Mortal Ambition;Action;Cleric;Fire;0
+Absolving Flames;Mortal Ambition;Action;Cleric;Fire;1
 Academy Attendant;Alchemical Revolution;Ally;Cleric;Norm;4
 Academy Guide;Alchemical Revolution;Ally;Cleric;Norm;0
 Accelerate;Radiant Origins;Action;Cleric;Norm;0
@@ -270,7 +270,7 @@ Captivating Opulence;Abyssal Heaven;Phantasia;Cleric;Water;0
 Cardinal of Divine Rite;Radiant Origins;Ally;Cleric/Warrior;Norm;0
 Careful Study;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Norm;0
 Caretaker Drone;Alchemical Revolution;Ally;Cleric;Norm;3
-Caretaker Horse;Abyssal Heaven;Ally;Guardian/Tamer;Norm;0
+Caretaker Horse;Abyssal Heaven;Ally;Guardian/Tamer;Norm;1
 Carnwennan, Shrouded Edge;Dawn of Ashes Alter Edition;Regalia Weapon;Assassin;Luxem;0
 Carpsong Coda;Abyssal Heaven;Action;Tamer;Water;0
 Carter, Synthetic Reaper;Alchemical Revolution/Alchemical Revolution Alter Edition;Ally;Guardian/Ranger;Umbra;0
@@ -283,7 +283,7 @@ Cavalier Rescue;Mortal Ambition;Action;Tamer;Norm;0
 Ceasing Edict;Abyssal Heaven;Action;Mage;Water;0
 Celestial Calling;Alchemical Revolution;Action;Cleric;Astra;0
 Celestial Navigation;Radiant Origins/Radiant Origins Pantheon Decks;Action;Cleric;Astra;0
-Cell Assembler;Mercurial Heart;Ally;Guardian;Norm;0
+Cell Assembler;Mercurial Heart/Supporter Pack 2;Ally;Guardian;Norm;1
 Cell Converter;Mercurial Heart;Ally;Cleric;Water;0
 Cell Forging;Mercurial Heart;Action;Guardian;Fire;0
 Cell Generator;Mercurial Heart;Ally;Guardian;Wind;1
@@ -299,7 +299,7 @@ Chalice of Blood;Dawn of Ashes Alter Edition;Regalia Item;Cleric;Norm;0
 Chamber of Reflections;Distorted Reflections;Domain;Mage;Astra;0
 Chamberlain Toad;Phantom Monarchs;Ally;Tamer;Water;0
 Chance, Seven of Spades;Phantom Monarchs First Edition/Phantom Monarchs;Ally;Warrior;Norm;0
-Changban, Heroic Impasse;Abyssal Heaven;Domain;Ranger;Norm;0
+Changban, Heroic Impasse;Abyssal Heaven;Domain;Ranger;Norm;1
 Channel Manifold Desire;Mortal Ambition;Action;Mage;Tera;0
 Channel the Wind;Dawn of Ashes Alter Edition;Action;Mage;Wind;0
 Channeling Stone;Dawn of Ashes Alter Edition;Regalia Item;Mage;Norm;0
@@ -387,7 +387,7 @@ Corhazi Outlook;Fractured Crown;Ally;Assassin;Wind;0;1 # Banned
 Corhazi Trapper;Fractured Crown;Ally;Assassin;Water;0
 Coriolis Ward;Mortal Ambition Starter Decks;Action;Mage;Water;4
 Coronal of Rejuvenation;Mortal Ambition Starter Decks/Radiant Origins Pantheon Decks;Regalia Item;Mage;Tera;1
-Coronation Ceremony;Abyssal Heaven;Action;Cleric;Norm;0
+Coronation Ceremony;Abyssal Heaven;Action;Cleric;Norm;1
 Corsair Captain;Distorted Reflections Starter Decks;Ally;Ranger;Water;0
 Cosmic Alignment;Distorted Reflections;Action;Cleric;Astra;0
 Cosmic Astroscope;Alchemical Revolution Starter Decks/Radiant Origins Pantheon Decks;Regalia Item;Cleric;Astra;1
@@ -461,7 +461,7 @@ Deploy Gunshield;Alchemical Revolution;Action;Ranger;Norm;0
 Deployment Beacon;Alchemical Revolution Starter Decks;Regalia Item;Guardian;Wind;1
 Desperate Cavalier;Mortal Ambition;Ally;Warrior;Exia;0
 Desperate Dive;Mercurial Heart;Action;Ranger;Water;0
-Determined Spearman;Mortal Ambition;Ally;Warrior;Norm;0
+Determined Spearman;Mortal Ambition;Ally;Warrior;Norm;1
 Devastating Blow;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Attack;Guardian/Warrior;Fire;0
 Develop Mana;Fractured Crown;Action;Mage;Norm;0
 Devious Welcome;Distorted Reflections;Action;Assassin;Norm;0
@@ -501,7 +501,7 @@ Disintegrate;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Sta
 Disorienting Winds;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Mortal Ambition/Radiant Origins Pantheon Decks;Action;Mage;Wind;0
 Displace;Fractured Crown/Phantom Monarchs Event Pack/Radiant Origins;Action;Cleric/Mage;Wind;0
 Dissipation;Radiant Origins;Action;Cleric;Wind;0
-Dissonant Fractal;Abyssal Heaven;Phantasia;Cleric;Water;0
+Dissonant Fractal;Abyssal Heaven;Phantasia;Cleric;Water;1
 Dissuading Aether;Distorted Reflections Starter Decks;Action;Ranger;Water;0
 Dissuading Halt;Re:Collection Idyll Corsage/Radiant Origins Event Pack;Action;Cleric;Water;0
 Distilled Atrophy;Alchemical Revolution/Radiant Origins Pantheon Decks;Item;Cleric;Norm;1
@@ -622,7 +622,7 @@ Exorcism;Distorted Reflections;Action;Mage;Norm;0
 Expeditious Opening;Distorted Reflections;Action;Assassin/Cleric;Wind;0
 Expel the Departed;Re:Collection Heaven's Favored/Radiant Origins Event Pack;Action;Tamer;Norm;0
 Exploit Vulnerability;Re: Collection Shadowdancer/Distorted Reflections/Radiant Origins Pantheon Decks;Action;Assassin;Norm;0
-Explosive Concoction;Abyssal Heaven;Item;Cleric;Fire;0
+Explosive Concoction;Abyssal Heaven;Item;Cleric;Fire;1
 Explosive Fractal;Alchemical Revolution;Phantasia;Cleric;Fire;1
 Explosive Rune;Fractured Crown;Regalia Item;Mage;Fire;0
 Expose Darkness;Distorted Reflections;Action;Guardian;Norm;0
@@ -717,7 +717,7 @@ Floodward Steed;Radiant Origins;Ally;Tamer;Water;0
 Floral Arrangement;Radiant Origins;Action;Cleric;Norm;0
 Flourishing Qi;Radiant Origins/Radiant Origins Pantheon Decks;Action;Mage;Tera;0
 Flourishing Restoration;Radiant Origins;Action;Cleric;Tera;0
-Flowerbud;Abyssal Heaven/Re:Collection Idyll Corsage/Radiant Origins;Phantasia;Cleric;Tera;0
+Flowerbud;Abyssal Heaven/Re:Collection Idyll Corsage/Radiant Origins;Phantasia;Cleric;Tera;1
 Flowing Oubli;Distorted Reflections;Action;Guardian;Water;0
 Fluffy Shopkeep;Distorted Reflections;Ally;Tamer;Norm;0
 Flute of Taming;Dawn of Ashes Prelude/Dawn of Ashes Starter Decks;Regalia Item;Tamer;Norm;0
@@ -886,7 +886,7 @@ Guo Jia, Heaven's Favored;Abyssal Heaven First Edition/Abyssal Heaven/Re:Collect
 Gustguard Bastion;Mortal Ambition Alter Edition;Ally;Guardian;Wind;0
 Gustmark Gauge;Phantom Monarchs;Regalia Item;Cleric;Wind;0
 Hailfinch;Mortal Ambition Alter Edition;Ally;Tamer;Water;0
-Hailstorm Guard;Mercurial Heart;Action;Guardian;Water;0
+Hailstorm Guard;Mercurial Heart;Action;Guardian;Water;1
 Hairpin of Transience;Re:Collection Idyll Corsage;Regalia Item;Cleric;Water;0
 Halcyon Animus;Radiant Origins/Radiant Origins Pantheon Decks;Action;Cleric;Crux;0
 Halocline Scout;Mortal Ambition;Ally;Assassin/Warrior;Water;0
@@ -928,7 +928,7 @@ Hone by Fire;Fractured Crown/Phantom Monarchs Event Pack;Action;Warrior;Fire;0
 Honorable Vanguard;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Mortal Ambition;Ally;Warrior;Norm;0
 Horn of Beastcalling;Dawn of Ashes Alter Edition/Radiant Origins: Armaments;Regalia Item;Tamer;Tera;0
 Horned Knight;Distorted Reflections;Ally;Warrior;Norm;0
-Horse Archer;Abyssal Heaven;Ally;Ranger;Norm;0
+Horse Archer;Abyssal Heaven/Supporter Pack 3;Ally;Ranger;Norm;1
 Horticounter;Alchemical Revolution Alter Edition;Action;Cleric;Astra;0;1 # Banned
 Hua Xiong, Insurgent’s Fang;Mortal Ambition Alter Edition;Ally;Warrior;Norm;0
 Huaji of Heaven's Rise;Abyssal Heaven First Edition;Regalia Weapon;Warrior;Norm;0
@@ -991,7 +991,7 @@ Infinite Scintillation;Phantom Monarchs;Action;Assassin;Norm;0
 Infusion of Crescent Jade;Mortal Ambition;Action;Warrior;Wind;0
 Ingredient Pouch;Alchemical Revolution Starter Decks/Radiant Origins Pantheon Decks;Regalia Item;Cleric;Norm;1
 Ingress of Sanguine Ire;Mortal Ambition;Action;Warrior;Exia;0
-Inner Court Schemer;Mortal Ambition;Ally;Assassin;Norm;0
+Inner Court Schemer;Mortal Ambition;Ally;Assassin;Norm;1
 Innervate Agility;Fractured Crown/Radiant Origins;Action;Mage;Wind;0
 Innervate Fury;Fractured Crown/Radiant Origins;Action;Mage;Fire;0
 Innervate Knowledge;Fractured Crown/Radiant Origins;Action;Mage;Water;0
@@ -1006,7 +1006,7 @@ Intervention;Mortal Ambition;Action;Warrior;Water;0
 Into the Fray;Alchemical Revolution;Action;Guardian;Norm;1
 Intrepid Highwayman;Dawn of Ashes Alter Edition;Ally;Assassin;Water;3
 Intrepid Spearman;Fractured Crown;Ally;Warrior;Wind;0
-Intricate Longbow;Mortal Ambition;Regalia Weapon;Ranger;Norm;0
+Intricate Longbow;Mortal Ambition;Regalia Weapon;Ranger;Norm;1
 Inundating Clash;Mortal Ambition;Attack;Warrior;Water;0
 Invective Instruction;Mortal Ambition;Action;Tamer;Norm;0
 Inverted Pyroslash;Phantom Monarchs;Attack;Guardian;Fire;0
@@ -1059,7 +1059,7 @@ Landscape Corsair;Mortal Ambition;Ally;Warrior;Wind;0
 Languid Toadtroll;Distorted Reflections;Ally;Tamer;Water;0
 Lavaheated Brew;Alchemical Revolution;Action;Cleric;Fire;0
 Lavaplume Fatestone;Re:Collection Heaven's Favored;Item;Tamer;Fire;0
-Lavasoul Tiger;Mortal Ambition;Ally;Tamer;Fire;0
+Lavasoul Tiger;Mortal Ambition;Ally;Tamer;Fire;1
 Lavastorm;Radiant Origins;Action;Mage;Fire;0
 Lawsur, the Carpenter;Distorted Reflections First Edition/Distorted Reflections;Ally;Cleric/Warrior;Norm;0
 Lead with Force;Mortal Ambition;Action;Tamer;Norm;0
@@ -1114,7 +1114,7 @@ Liminal Guide;Distorted Reflections;Ally;Cleric;Norm;0
 Limitless Defiance;Radiant Origins First Edition;Action;Warrior;Exia;0
 Limitless Slime;Re: Collection Slime Sovereign;Ally;Tamer;Norm;4
 Lingering Banshee;Distorted Reflections;Ally;Warrior;Norm;0
-Liquid Amnesia;Mercurial Heart;Item;Cleric;Wind;0
+Liquid Amnesia;Mercurial Heart;Item;Cleric;Wind;1
 Liquidation;Radiant Origins;Action;Mage;Water;0
 Liturgy of Corruption;Radiant Origins;Action;Guardian;Norm;0
 Liu Bei, Oathkeeper;Mortal Ambition First Edition/Mortal Ambition;Ally;Ranger;Wind;0
@@ -1290,7 +1290,7 @@ Nullifying Lantern;Dawn of Ashes Alter Edition/Phantom Monarchs;Regalia Item;Cle
 Nullifying Mirror;Abyssal Heaven;Regalia Item;Cleric;Norm;0
 Numinous Monk;Radiant Origins/Radiant Origins Pantheon Decks;Ally;Cleric/Warrior;Crux;0
 Nuriel, Seraphic Paladin;Radiant Origins First Edition/Radiant Origins;Ally;Warrior;Norm;0
-Nurture Crops;Mercurial Heart;Action;Cleric;Norm;0
+Nurture Crops;Mercurial Heart;Action;Cleric;Norm;1
 Oasis Trading Post;Alchemical Revolution;Domain;Warrior;Norm;0
 Oath of the Sakura;Mortal Ambition/Mortal Ambition Alter Edition;Action;Warrior;Wind;0
 Obelisk of Armaments;Alchemical Revolution;Domain;Guardian;Neos;1;1 # unique token
@@ -1414,7 +1414,7 @@ Priestess of Flame;Mercurial Heart;Ally;Cleric;Fire;0
 Prima Materia;Mercurial Heart/Mercurial Heart Alter Edition;Item;Cleric;Astra;0
 Primal Whip;Mortal Ambition;Regalia Weapon;Tamer;Norm;0
 Primeval Ritual;Abyssal Heaven;Action;Mage;Wind;0
-Primordial Ritual;Mercurial Heart/Phantom Monarchs Event Pack;Action;Cleric;Water;0
+Primordial Ritual;Mercurial Heart/Phantom Monarchs Event Pack;Action;Cleric;Water;1
 Prismatic Edge;Dawn of Ashes Prelude/Dawn of Ashes Starter Decks/Radiant Origins: Armaments/Radiant Origins Pantheon Decks;Regalia Weapon;Warrior;Crux;0
 Prismatic Sanctuary;Fractured Crown/Radiant Origins;Domain;Mage;Norm;0
 Prismatic Spirit;Fractured Crown Sealed Kit/Promo;Champion;Spirit;Norm;0;1
@@ -1442,7 +1442,7 @@ Pupil of Sacred Flames;Mortal Ambition;Ally;Mage;Fire;0
 Purge in Flames;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Radiant Origins Pantheon Decks;Action;Mage;Fire;0
 Purging Tempest;Distorted Reflections;Action;Cleric;Wind;0
 Purification;Mercurial Heart;Action;Cleric;Norm;0
-Purified Shot;Mercurial Heart;Item;Ranger;Water;1
+Purified Shot;Mercurial Heart;Item;Ranger;Water;2
 Purifying Thurible;Phantom Monarchs;Regalia Item;Cleric;Wind;0
 Purling Footman;Distorted Reflections;Ally;Tamer;Water;0
 Pyretic Prognosis;Radiant Origins/Radiant Origins Pantheon Decks;Action;Mage;Fire;0
@@ -1493,11 +1493,11 @@ Reactivate Drone;Radiant Origins;Action;Guardian;Neos;0
 Reaping Legacy;Radiant Origins/Radiant Origins Pantheon Decks;Attack;Warrior;Crux;0
 Rearing Rebound;Abyssal Heaven;Action;Cleric;Wind;0
 Rebellious Bull;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tamer;Norm;0
-Rebounding Gust;Abyssal Heaven;Action;Cleric;Wind;0
+Rebounding Gust;Abyssal Heaven;Action;Cleric;Wind;1
 Reciprocity, Dorumegia's Call;Proxia's Vault;Regalia Weapon;Guardian;Norm;0
 Reckless Conversion;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Mage;Arcane;0;1 # Banned in Standard
 Reckless Researcher;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Ally;Mage;Fire;0
-Reckless Slash;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Mortal Ambition;Attack;Warrior;Norm;0
+Reckless Slash;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Mortal Ambition;Attack;Warrior;Norm;1
 Reckoning's Wake;Distorted Reflections;Action;Guardian;Umbra;0
 Reclaim;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Mortal Ambition Starter Decks/Phantom Monarchs Event Pack/Radiant Origins/Radiant Origins Pantheon Decks;Action;Mage;Wind;2
 Reconnaissance Field;Alchemical Revolution;Phantasia;Ranger;Water;1
@@ -1511,7 +1511,7 @@ Red Hare, Unrivaled Stallion;Abyssal Heaven;Ally;Tamer/Warrior;Fire;0
 Red Slime;Fractured Crown;Ally;Tamer;Fire;4
 Redirect Flow;Re:Collection Idyll Corsage;Action;Cleric;Water;0
 Redirect Orbit;Radiant Origins/Radiant Origins Pantheon Decks;Action;Cleric;Astra;0
-Reduce to Ash;Mercurial Heart/Radiant Origins/Radiant Origins Event Pack;Action;Mage;Fire;0
+Reduce to Ash;Mercurial Heart/Radiant Origins/Radiant Origins Event Pack;Action;Mage;Fire;1
 Refabrication;Alchemical Revolution Alter Edition;Action;Cleric;Neos;0;1 # Banned
 Reflect the Skies;Mercurial Heart;Action;Cleric;Astra;0
 Reflected Blight;Phantom Monarchs;Action;Cleric;Umbra;0
@@ -1543,7 +1543,7 @@ Resonating Fugue;Abyssal Heaven;Action;Tamer;Water;0
 Resplendent Kite Shield;Alchemical Revolution;Regalia Item;Guardian;Norm;0
 Restorative Flame;Abyssal Heaven;Action;Cleric;Fire;0
 Restorative Slash;Dawn of Ashes Alter Edition;Attack;Warrior;Water;0
-Restoring Embers;Mortal Ambition Alter Edition;Action;Cleric;Fire;0
+Restoring Embers;Mortal Ambition Alter Edition;Action;Cleric;Fire;1
 Retold Fortune;Mercurial Heart/Radiant Origins Pantheon Decks;Action;Mage;Norm;1
 Return to the Archive;Re:Collection Brilliant Vestige;Action;Mage;Norm;0
 Return to the Depths;Phantom Monarchs;Action;Guardian;Water;0
@@ -1564,9 +1564,9 @@ Rimesoul Bishop;Alchemical Revolution;Ally;Cleric;Water;0
 Rippleback Terrapin;Mortal Ambition;Ally;Tamer;Water;0
 Ripples of Atrophy;Re:Collection Idyll Corsage;Action;Cleric;Tera;0
 Riptide Slash;Fractured Crown;Attack;Warrior;Water;0
-Rising Tides;Mortal Ambition Starter Decks/Mortal Ambition;Action;Mage;Water;3
+Rising Tides;Mortal Ambition Starter Decks/Mortal Ambition;Action;Mage;Water;4
 Ritai Berserker;Abyssal Heaven/Radiant Origins Pantheon Decks;Ally;Warrior;Fire;0
-Ritai Guard;Mortal Ambition;Ally;Guardian;Fire;0
+Ritai Guard;Mortal Ambition;Ally;Guardian;Fire;1
 Ritai Stablemaster;Abyssal Heaven;Ally;Tamer;Fire;0
 Rivulet Adjutant;Distorted Reflections;Ally;Guardian;Water;0
 Rocket Jump;Alchemical Revolution;Action;Ranger;Fire;2
@@ -1634,7 +1634,7 @@ Scry the Skies;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes S
 Scry the Stars;Alchemical Revolution/Alchemical Revolution Alter Edition;Action;Cleric;Astra;0
 Seafaring Mercenary;Dawn of Ashes Alter Edition;Ally;Warrior;Water;0
 Seafletched Serpent;Mortal Ambition;Ally;Ranger/Tamer;Water;0
-Seal the Past;Mortal Ambition;Action;Cleric;Norm;0
+Seal the Past;Mortal Ambition/2022 Promotional Cards;Action;Cleric;Norm;1
 Sealed Blade;Dawn of Ashes Alter Edition;Regalia Weapon;Warrior;Norm;0
 Searing Rebuke;Abyssal Heaven;Action;Cleric;Fire;0
 Searing Truth;Abyssal Heaven;Action;Tamer;Fire;0
@@ -1692,7 +1692,7 @@ Shifting Mirage;Re: Collection Shadowdancer;Action;Assassin;Umbra;0
 Shilowen, Peaceful Beginnings;Radiant Origins;Domain;Guardian;Norm;0
 Shimmercloak Assassin;Alchemical Revolution/Radiant Origins;Ally;Assassin;Wind;0
 Shimmering Refraction;Abyssal Heaven/Re:Collection Idyll Corsage;Action;Cleric;Norm;0
-Shining Marchador;Mortal Ambition;Ally;Tamer;Norm;0
+Shining Marchador;Mortal Ambition;Ally;Tamer;Norm;1
 Shizun of the Ash;Radiant Origins/Radiant Origins Pantheon Decks;Ally;Mage;Fire;0
 Shock Therapy;Fractured Crown/Radiant Origins;Action;Mage;Arcane;0
 Shout at Your Pets;Dawn of Ashes Alter Edition;Action;Tamer;Fire;0
@@ -1932,7 +1932,7 @@ Templar of the Eternal;Radiant Origins/Radiant Origins Pantheon Decks;Ally;Warri
 Temporal Spectrometer;Alchemical Revolution/Alchemical Revolution Alter Edition;Regalia Item;Cleric;Norm;0
 Temptation's Facade;Alchemical Revolution Alter Edition;Regalia Item;Guardian;Water;0;1 # Banned
 Tempus Stalker;Mortal Ambition;Ally;Tamer;Wind;0
-Tend the Land;Mercurial Heart Alter Edition;Action;Cleric;Norm;1
+Tend the Land;Mercurial Heart Alter Edition;Action;Cleric;Norm;2
 Tenderheart Guard;Pantheon Pack 1/Radiant Origins Pantheon Decks;Ally;Guardian;Fire;0
 Tera Sight;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Mortal Ambition Starter Decks/Mortal Ambition/Radiant Origins/Radiant Origins Pantheon Decks;Action;Mage;Tera;3
 Tether in Flames;Alchemical Revolution/Phantom Monarchs Event Pack;Action;Cleric;Fire;0
@@ -2145,7 +2145,7 @@ Windstream;Dawn of Ashes Alter Edition;Ally;Tamer;Wind;0
 Windwalker Boots;Fractured Crown/Radiant Origins: Armaments;Regalia Item;Assassin;Wind;0
 Windy Leap;Radiant Origins;Action;Ranger;Wind;0
 Wingpeak Patriarch;Abyssal Heaven;Ally;Tamer;Norm;0
-Wisdom's Reprise;Mortal Ambition Starter Decks/Mortal Ambition/Radiant Origins Pantheon Decks;Action;Cleric;Norm;3
+Wisdom's Reprise;Mortal Ambition Starter Decks/Mortal Ambition/Radiant Origins Pantheon Decks;Action;Cleric;Norm;4
 Wisp's Protection;Radiant Origins/Radiant Origins Pantheon Decks;Action;Cleric;Crux;0
 Withering Grasp;Abyssal Heaven;Action;Cleric;Norm;0
 Wonderland's Reign;Distorted Reflections;Phantasia;Cleric;Norm;0
