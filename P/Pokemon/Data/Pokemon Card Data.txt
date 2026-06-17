@@ -1157,6 +1157,7 @@ Pidgey;Pokemon;Colorless;50;;Call for Family|Tackle;MEW 16 (Common)/PAF 196 (Shi
 Pidgeotto;Pokemon;Colorless;80;;Flap;MEW 17 (Common)/PAF 197 (Shiny Rare);G;4;0
 Ditto;Pokemon;Colorless;60;Transformative Start;Splup;MEW 132 (Rare)/PAF 201 (Shiny Rare);G;4;0
 Vaporeon;Pokemon;Water;130;;Spiral Drain|Fighting Whirlpool;MEW 134 (Rare)/SVP 168 (Promo)/PRE 22 (Rare);G;4;0
+Jolteon;Pokemon;Lightning;110;;Linear Attack|Fighting Lightning;MEW 135 (Rare)/SVP 169 (Promo)/MEW 29 (Rare);G;4;0
 Flareon;Pokemon;Fire;130;;Destructive Flame|Fighting Blaze;MEW 136 (Rare)/SVP 167 (Promo)/PRE 13 (Rare);G;4;0
 Mew ex;Pokemon;Psychic;180;Restart;Genome Hacking;MEW 151 (Double Rare)/MEW 193 (Ultra Rare)/MEW 205 (Hyper Rare)/SVP 53 (Promo)/PAF 216 (Shiny Ultra Rare)/PAF 232 (Special Illustration Rare);G;4;0
 Energy Sticker;Trainer;Item;;;;MEW 159 (Uncommon);G;4;2
@@ -1376,9 +1377,9 @@ Slowking;Pokemon;Water;130;;Wash the Slate Clean;PRE 19 (Uncommon);H;4;0
 Seaking;Pokemon;Water;110;Festival Lead;Rapid Draw;PRE 21 (Uncommon);H;4;0
 Vaporeon ex;Pokemon;Water;280;;Severe Squall|Aquamarine;PRE 23 (Double Rare)/PRE 149 (Special Illustration Rare);H;4;0
 Suicune;Pokemon;Water;120;;Overrun|Aurora Beam;PRE 24 (Uncommon);H;4;0
-#PRE 25 done
-
-# PRE 27 done
+Glaceon ex;Pokemon;Water;270;;Frost Bullet|Euclase;PRE 26 (Double Rare)/PRE 150 (Special Illustration Rare);H;4;0
+Pikachu ex;Pokemon;Lightning;190;;Tail Whip|Thunder;PRE 28 (Double Rare);H;4;0
+Jolteon ex;Pokemon;Lightning;260;;Flashing Spear|Dravite;PRE 30 (Double Rare)/PRE 153 (Special Illustration Rare);H;4;0
 
 # PRE 31-32 done
 
@@ -1421,9 +1422,8 @@ Max Rod;Trainer;Item;;;;PRE 116 (ACE SPEC Rare);H;2;0
 # PRE 119-126 done
 # PRE 129 done
 # PRE 131 last new card (not done)
-# PRE 144-149 done
-# PRE 152 done
-# PRE 154 done
+# PRE 144-150 done
+# PRE 152-154 done
 # PRE 160 done
 # PRE 162-169 done
 # PRE 171 done
