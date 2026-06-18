@@ -1142,6 +1142,7 @@ Toedscruel ex;Pokemon;Grass;270;Protective Mycelium;Colony Rush;OBF 22 (Double R
 Victini ex;Pokemon;Fire;190;;Strafe|Victory Flame;OBF 33 (Double Rare)/SVP 142 (Promo);G;4;1
 Froakie;Pokemon;Water;70;;Try Bouncing;OBF 56 (Common);G;4;0
 Cleffa;Pokemon;Psychic;30;;Grasping Draw;OBF 80 (Common)/OBF 202 (Illustration Rare)/SVP 37 (Promo)/PAF 150 (Shiny Rare);G;4;0
+Espeon;Pokemon;Psychic;110;;Psychic Assault|Psy Bolt;OBF 86 (Uncommon)/PRE 33 (Rare);G;4;0
 Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
 Pidgey;Pokemon;Colorless;60;;Gust;OBF 162 (Common)/OBF 207 (Illustration Rare);G;4;0
 Pidgeotto;Pokemon;Colorless;90;;Wing Attack;OBF 163 (Uncommon)/OBF 208 (Illustration Rare);G;4;0
@@ -1380,9 +1381,7 @@ Suicune;Pokemon;Water;120;;Overrun|Aurora Beam;PRE 24 (Uncommon);H;4;0
 Glaceon ex;Pokemon;Water;270;;Frost Bullet|Euclase;PRE 26 (Double Rare)/PRE 150 (Special Illustration Rare);H;4;0
 Pikachu ex;Pokemon;Lightning;190;;Tail Whip|Thunder;PRE 28 (Double Rare);H;4;0
 Jolteon ex;Pokemon;Lightning;260;;Flashing Spear|Dravite;PRE 30 (Double Rare)/PRE 153 (Special Illustration Rare);H;4;0
-
-# PRE 31-32 done
-
+Espeon ex;Pokemon;Psychic;270;;Psych Out|Amazez;PRE 34 (Double Rare)/PRE 155 (Special Illustration Rare)/SVP 175 (Promo);H;4;0
 # PRE 35-37 done
 
 # PRE 42 done
@@ -1423,7 +1422,7 @@ Max Rod;Trainer;Item;;;;PRE 116 (ACE SPEC Rare);H;2;0
 # PRE 129 done
 # PRE 131 last new card (not done)
 # PRE 144-150 done
-# PRE 152-154 done
+# PRE 152-155 done
 # PRE 160 done
 # PRE 162-169 done
 # PRE 171 done
