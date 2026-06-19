@@ -1,0 +1,260 @@
+Card_ID;Card_Name;Regular;Foil;Playset;Full playset;Faction;Rarity;Class;Subtype;Cost
+GEN-001;HEX, CODEMANCER;;;0;0;Hacker;QR;Character;Iconic, Hacker;4
+GEN-002;ADMIN;;;0;0;Hacker;C;Character;Hacker;1
+GEN-003;CODER;;;0;0;Hacker;C;Character;Hacker;1
+GEN-004;Script KIDDIE;;;0;0;Hacker;U;Character;Hacker;2
+GEN-005;DEEP DIVER;;;0;0;Hacker;U;Character;Hacker;2
+GEN-006;DIGITAL SPECTRE;;;0;0;Hacker;C;Character;Hacker;2
+GEN-007;BLACK HAT;;;0;0;Hacker;U;Character;Hacker;3
+GEN-008;PHANTOM OS;;;0;0;AI, Hacker;C;Character;AI, Hacker;2
+GEN-009;ANIMA PROXY;;;0;0;Hacker;U;Character;Hacker;3
+GEN-010;TAGGER;;;0;0;Hacker, anarchist;C;Character;Hacker, anarchist;2
+GEN-011;SERIAL KILLER;;;0;0;Hacker;U;Character;Hacker;3
+GEN-012;THE PRODIGY;;;0;0;Hacker;R;Character;Hacker;2
+GEN-013;NOVA, THE WHITE RABBIT;;;0;0;wonderland, Hacker;R;Character;wonderland, Hacker;3
+GEN-014;BLUE SCREEN OF DEATH;;;0;0;Hacker;U;Program;Script;5
+GEN-015;OVERLOAD MK. I;;;0;0;Hacker;C;Program;Script;1
+GEN-016;OVERLOAD MK. II;;;0;0;Hacker;C;Program;Script;3
+GEN-017;SYSTEM ERROR;;;0;0;Hacker;R;Program;Protocol, Virus;4
+GEN-018;QUANTUM ENCRYPTION;;;0;0;Hacker;U;Program;Script;3
+GEN-019;THE NET;;;0;0;Hacker;QR;Program;Environment;4
+GEN-020;THE GRID;;;0;0;Hacker;C;Program;Environment;2
+GEN-021;HACKATHON;;;0;0;Hacker;C;Program;Script;2
+GEN-022;PHISHING;;;0;0;Hacker;C;Program;Script;2
+GEN-023;BINARY BLAST;;;0;0;Hacker;C;Program;Script, Drug;1
+GEN-024;HYPERCLOCK;;;0;0;Hacker;R;Program;Script;1
+GEN-025;FIREWALL;;;0;0;Hacker;U;Program;Protocol;2
+GEN-026;STATIC BLAST;;;0;0;Hacker;C;Program;Script;2
+GEN-027;CORTEX CRAB;;;0;0;Hacker;U;Gear;Cyberware;3
+GEN-028;FATAL ERROR 75;;;0;0;Hacker;R;Program;Protocol, Trojan;2
+GEN-029;RUBBER DUCKY;;;0;0;Hacker;U;Program;Protocol, Trojan;2
+GEN-030;MEMORY LEAK;;;0;0;Hacker;C;Program;Protocol, Trojan;2
+GEN-031;POWER SPIKE;;;0;0;Hacker;U;Program;Protocol, Trojan;2
+GEN-032;REDIRECT;;;0;0;Hacker;U;Program;Protocol, Trojan;2
+GEN-033;SCRAPPER;;;0;0;Cybernetic;C;Character;Cybernetic;1
+GEN-034;DUMPSTER DIVER;;;0;0;Cybernetic;C;Character;Cybernetic;1
+GEN-035;LUG NUT;;;0;0;Cybernetic, Animal;U;Character;Cybernetic, Animal;1
+GEN-036;VIRTUAL KID;;;0;0;Cybernetic;C;Character;Cybernetic;1
+GEN-037;BLACKOUT BOYS;;;0;0;Cybernetic;C;Character;Cybernetic;2
+GEN-038;CRYOBLADE ASSASSIN;;;0;0;Cybernetic;U;Character;Cybernetic;2
+GEN-039;THE PLUG;;;0;0;Cybernetic;C;Character;Cybernetic;2
+GEN-040;IRON MAIDEN;;;0;0;Cybernetic, Thrasher;U;Character;Cybernetic, Thrasher;3
+GEN-041;ROGUE VALKYRIE;;;0;0;Cybernetic, Mech;R;Character;Cybernetic, Mech;4
+GEN-042;BOONYEN, WARDRIVER;;;0;0;Cybernetic, Animal;R;Character;Cybernetic, Animal;6
+GEN-043;BACK ALLEY BRUISERS;;;0;0;Cybernetic;C;Character;Cybernetic;4
+GEN-044;FACELESS ONI;;;0;0;Cybernetic;U;Character;Cybernetic;4
+GEN-045;LASERSAW BERSERKER;;;0;0;Cybernetic;R;Character;Cybernetic;4
+GEN-046;METAL HEAD;;;0;0;Cybernetic, Thrasher;QR;Character;Iconic, Cybernetic, Thrasher;5
+GEN-047;ARC, CIRCUIT BREAKER;;;0;0;Cybernetic;QR;Character;Iconic, Cybernetic;5
+GEN-048;EXTERMINATOR;;;0;0;Cybernetic;U;Character;Cybernetic;3
+GEN-049;STIM PACK;;;0;0;Cybernetic;C;Program;Script, Drug;1
+GEN-050;TIME;;;0;0;Raver;R;Program;Script, Drug;3
+GEN-051;CLARITEX;;;0;0;Cybernetic;C;Program;Script, Drug;1
+GEN-052;MEGAROIDS, KIWI KRUSH;;;0;0;Cybernetic;U;Program;Script, Drug;2
+GEN-053;REDLINE;;;0;0;Cybernetic;R;Program;Script, Drug;2
+GEN-054;FLUX CANNON;;;0;0;Cybernetic;C;Gear;Cyberware;2
+GEN-055;SPINAL SPLITTER;;;0;0;Cybernetic;QR;Gear;Cyberware;3
+GEN-056;RAILGUN;;;0;0;Cybernetic;U;Gear;Weapon;3
+GEN-057;RIOT BLADE;;;0;0;Cybernetic;C;Gear;Cyberware;1
+GEN-058;DRIVE SAW;;;0;0;Cybernetic;U;Gear;Cyberware;1
+GEN-059;KNUX;;;0;0;Cybernetic;U;Gear;Cyberware;2
+GEN-060;SNATCHER;;;0;0;Cybernetic;U;Gear;Cyberware;3
+GEN-061;CLOAKING FIELD;;;0;0;Cybernetic;U;Gear;Cyberware;2
+GEN-062;CODEBREAKER;;;0;0;Cybernetic;U;Gear;Cyberware;1
+GEN-063;BLACK MARKET;;;0;0;Cybernetic;U;Program;Environment;2
+GEN-064;MAX GAINZ;;;0;0;Cybernetic;C;Program;Environment;2
+GEN-065;UNPAID INTERN;;;0;0;Corpo;U;Character;Corpo;0
+GEN-066;EXECUTIVE;;;0;0;Corpo;C;Character;Corpo;1
+GEN-067;TRUSTFUND BABY;;;0;0;Corpo;C;Character;Corpo;2
+GEN-068;SEEKER DRONES;;;0;0;Corpo, Robot;C;Character;Corpo, Robot;1
+GEN-069;ARMS DEALER;;;0;0;Corpo;C;Character;Corpo;1
+GEN-070;ACPD DRONES;;;0;0;Corpo;C;Character;Corpo, Robot;3
+GEN-071;RIOT POLICE;;;0;0;Corpo;C;Character;Corpo;2
+GEN-072;BOARDROOM SHARK;;;0;0;Corpo;U;Character;Corpo;3
+GEN-073;YES MAN;;;0;0;Corpo;U;Character;Corpo;2
+GEN-074;VENTURE CAPITALIST;;;0;0;Corpo;R;Character;Corpo;4
+GEN-075;GOKUDO SILENCER;;;0;0;Corpo;R;Character;Corpo;3
+GEN-076;DEBT COLLECTOR;;;0;0;Corpo;U;Character;Corpo;2
+GEN-077;ED, CARD COUNTER;;;0;0;Corpo, Gambler;R;Character;Iconic, Corpo, Gambler;2
+GEN-078;NEOSEC FIRESTORM;;;0;0;Corpo, Mech;R;Character;Corpo, Mech;6
+GEN-079;OMNIS DEATHBRINGER;;;0;0;Corpo;R;Character;Corpo, transport;5
+GEN-080;MAXIMILLION GOLD;;;0;0;Corpo;QR;Character;Iconic, Corpo;5
+GEN-081;DOWNLOAD MORE RAM;;;0;0;Corpo;U;Program;Script;3
+GEN-082;GENERATIONAL WEALTH;;;0;0;Corpo;U;Program;Protocol;2
+GEN-083;MARKET MANIPULATION;;;0;0;Corpo;QR;Program;Script;4
+GEN-084;GENOCIDE;;;0;0;Corpo;U;Program;Script;5
+GEN-085;TAX EVASION;;;0;0;Corpo;U;Program;Protocol;3
+GEN-086;ARTIFICIAL INFLATION;;;0;0;Corpo;U;Program;Protocol;6
+GEN-087;BAILOUT;;;0;0;Corpo;U;Program;Script;2
+GEN-088;INSURANCE POLICY;;;0;0;Corpo;U;Program;Protocol;3
+GEN-089;PROPAGANDA;;;0;0;Corpo, politician;U;Program;Script;4
+GEN-090;OIL SPILL;;;0;0;Corpo;R;Program;Script;5
+GEN-091;A-Z GLASS;;;0;0;Corpo;C;Gear;Cyberware;2
+GEN-092;A-Z OPTICS;;;0;0;Corpo;U;Gear;Cyberware;2
+GEN-093;SNEAKERHEAD;;;0;0;Corpo;U;Gear;Cyberware;3
+GEN-094;CHRONOS MAESTRO;;;0;0;Corpo;U;Gear;Cyberware;4
+GEN-095;YACHT PARTY;;;0;0;Corpo;C;Program;Environment;3
+GEN-096;BOARDROOM;;;0;0;Corpo;U;Program;Environment;4
+GEN-097;SCAVENGER;;;0;0;Dustrunner;C;Character;Dustrunner;1
+GEN-098;CARTOGRAPHER;;;0;0;Dustrunner;C;Character;Dustrunner;1
+GEN-099;CANYON STALKERS;;;0;0;Dustrunner, Animal;U;Character;Dustrunner, Animal;1
+GEN-100;SAND SCORPION;;;0;0;Dustrunner;U;Character;Dustrunner;2
+GEN-101;SEARCHER OF THE SKY;;;0;0;Dustrunner, Mystic;U;Character;Dustrunner, Mystic;2
+GEN-102;BADLANDS SNIPER;;;0;0;Dustrunner;C;Character;Dustrunner;2
+GEN-103;COYOTE RAIDERS;;;0;0;Dustrunner;C;Character;Dustrunner;2
+GEN-104;BADLANDS MARAUDER;;;0;0;Dustrunner;U;Character;Dustrunner;3
+GEN-105;DUST DEVIL VULTURES;;;0;0;Dustrunner;U;Character;Dustrunner, dust devil;3
+GEN-106;DUST DEVIL ELITES;;;0;0;Dustrunner;R;Character;Dustrunner, dust devil;4
+GEN-107;ECLIPSE DROPSHIP;;;0;0;Dustrunner;U;Character;Dustrunner, transport;3
+GEN-108;ASHARA, HIGH PRIESTESS;;;0;0;Dustrunner;QR;Character;Iconic, Dustrunner;4
+GEN-109;AEKANI PRIESTESS;;;0;0;Dustrunner;U;Character;Dustrunner, Mystic;3
+GEN-110;BADLANDS INFANTRY;;;0;0;Dustrunner;C;Character;Dustrunner;1
+GEN-111;DUST DEVIL INITIATE;;;0;0;Dustrunner;C;Character;Dustrunner, dust devil;2
+GEN-112;PRIEST OF MAHKAV;;;0;0;Dustrunner;U;Character;Dustrunner;3
+GEN-113;DUST TO DUST;;;0;0;Dustrunner;R;Program;Script;5
+GEN-114;SAVAGE DUSTSTORM;;;0;0;Dustrunner;R;Program;Script;3
+GEN-115;GROWING UNREST;;;0;0;Dustrunner;U;Program;Protocol, Virus;3
+GEN-116;COMB THE DESERT;;;0;0;Dustrunner;C;Program;Script;2
+GEN-117;MOON FLOWER CACTUS;;;0;0;Dustrunner;U;Program;Script, Drug;2
+GEN-118;MIRAGE;;;0;0;Dustrunner;U;Program;Script;1
+GEN-119;EMP GRENADE;;;0;0;Dustrunner;C;Program;Script;2
+GEN-120;ENHANCE;;;0;0;Dustrunner;C;Program;Script;1
+GEN-121;AEKANI BLOODLETTER;;;0;0;Dustrunner;U;Gear;Weapon;1
+GEN-122;DUST DEVIL GLAIVE;;;0;0;Dustrunner;R;Gear;Weapon;3
+GEN-123;THE AMRITA;;;0;0;Dustrunner;U;Program;Environment;3
+GEN-124;THE PULSE;;;0;0;Dustrunner;QR;Program;Environment;4
+GEN-125;SYNCHRONIZE;;;0;0;Dustrunner;U;Gear;tether;1
+GEN-126;CHAIN AMPLIFIER;;;0;0;Dustrunner;C;Gear;tether;1
+GEN-127;HOT WIRE;;;0;0;Dustrunner;U;Gear;tether;2
+GEN-128;PSYCHIC;;;0;0;Mystic;C;Character;Mystic;1
+GEN-129;SEER;;;0;0;Mystic;C;Character;Mystic;2
+GEN-130;CELESTIAL CHANNELER;;;0;0;Mystic;U;Character;Mystic;1
+GEN-131;ASTRAL PROJECTOR;;;0;0;Mystic;U;Character;Mystic;3
+GEN-132;SPIRIT GUIDE;;;0;0;Mystic;U;Character;Mystic;3
+GEN-133;REANIMATOR;;;0;0;Mystic;U;Character;Mystic;3
+GEN-134;ASTRA, COSMIC KITTY;;;0;0;Mystic;U;Character;Mystic, Animal;2
+GEN-135;THE ORACLE;;;0;0;Mystic;R;Character;Iconic, Mystic;4
+GEN-136;SEANCE SISTERS;;;0;0;Mystic;U;Character;Mystic;3
+GEN-137;TRIXIE, TECHNO QUEEN;;;0;0;Mystic, Raver;R;Character;Iconic, Mystic, Raver;3
+GEN-138;MIND DELVER;;;0;0;Mystic;U;Character;Mystic;4
+GEN-139;LUNA, THE SACRED MOON;;;0;0;Mystic;QR;Character;Iconic, Mystic;6
+GEN-140;LILITH, THE DARK MOON;;;0;0;Mystic;QR;Character;Iconic, Mystic;6
+GEN-141;AMETHYST DATASHARD;;;0;0;Mystic;U;Program;Protocol, datashard;2
+GEN-142;MOONSTONE DATASHARD;;;0;0;Mystic;C;Program;Protocol, datashard;3
+GEN-143;DARKSTONE DATASHARD;;;0;0;Mystic;C;Program;Protocol, datashard;3
+GEN-144;BUTTERFLY EFFECT;;;0;0;Mystic;QR;Program;Iconic, Protocol;3
+GEN-145;THE FOOL;;;0;0;Mystic;C;Program;Script, tarot;1
+GEN-146;THE MAGICIAN;;;0;0;Mystic;U;Program;Script, tarot;1
+GEN-147;THE HIGH PRIESTESS;;;0;0;Mystic;R;Program;Script, tarot;3
+GEN-148;THE EMPRESS;;;0;0;Mystic;U;Program;Script, tarot;3
+GEN-149;THE EMPEROR;;;0;0;Mystic;U;Program;Script, tarot;3
+GEN-150;THE HIEROPHANT;;;0;0;Mystic;C;Program;Script, tarot;1
+GEN-151;THE LOVERS;;;0;0;Mystic;U;Program;Script, tarot;3
+GEN-152;THE CHARIOT;;;0;0;Mystic;R;Program;Script, tarot;2
+GEN-153;STRENGTH;;;0;0;Mystic;C;Program;Script, tarot;1
+GEN-154;THE HERMIT;;;0;0;Mystic;C;Program;Script, tarot;2
+GEN-155;WHEEL OF FORTUNE;;;0;0;Mystic;U;Program;Script, tarot;2
+GEN-156;JUSTICE;;;0;0;Mystic;C;Program;Script, tarot;4
+GEN-157;THE HANGED MAN;;;0;0;Mystic;U;Program;Script, tarot;3
+GEN-158;DEATH;;;0;0;Mystic;C;Program;Script, tarot;4
+GEN-159;TEMPERANCE;;;0;0;Mystic;C;Program;Script, tarot;1
+GEN-160;THE DEVIL;;;0;0;Mystic;U;Program;Script, tarot;3
+GEN-161;THE TOWER;;;0;0;Mystic;R;Program;Script, tarot;3
+GEN-162;THE STAR;;;0;0;Mystic;C;Program;Script, tarot;2
+GEN-163;THE MOON;;;0;0;Mystic;C;Program;Script, tarot;2
+GEN-164;THE SUN;;;0;0;Mystic;U;Program;Script, tarot;2
+GEN-165;JUDGEMENT;;;0;0;Mystic;C;Program;Script, tarot;4
+GEN-166;THE WORLD;;;0;0;Mystic;U;Program;Script, tarot;3
+GEN-167;THIRD EYE;;;0;0;Mystic;U;Gear;Cyberware;2
+GEN-168;ZEN GARDEN;;;0;0;Mystic;U;Program;Environment;3
+GEN-169;SETU SIMULATION;;;0;0;Mystic;R;Program;Environment;2
+GEN-170;THE SPIRIT REALM;;;0;0;Mystic;R;Program;Environment;7
+GEN-171;ROADIE;;;0;0;Thrasher;C;Character;Thrasher;1
+GEN-172;SINISTER MANAGER;;;0;0;Corpo, Thrasher;U;Character;Corpo, Thrasher;3
+GEN-173;GROUPIE;;;0;0;Thrasher;C;Character;Thrasher;1
+GEN-174;STAGE DIVER;;;0;0;Thrasher;U;Character;Thrasher;2
+GEN-175;FRENZIED FAN;;;0;0;Thrasher;U;Character;Thrasher;2
+GEN-176;MOSHER;;;0;0;Thrasher;U;Character;Thrasher;3
+GEN-177;EDWARD 40 HANDS;;;0;0;Thrasher;R;Character;Thrasher;2
+GEN-178;SHREDDER;;;0;0;Thrasher;C;Character;Thrasher;2
+GEN-179;SKIN SMASHER;;;0;0;Thrasher;C;Character;Thrasher;2
+GEN-180;NAMELESS;;;0;0;Thrasher;U;Character;Thrasher;3
+GEN-181;VIC VIPER, AXE GOD;;;0;0;Thrasher;R;Character;Iconic, Thrasher;4
+GEN-182;XAX XANTHOS;;;0;0;Thrasher;R;Character;Iconic, Thrasher;4
+GEN-183;ROXY RIOT;;;0;0;Thrasher;QR;Character;Iconic, Thrasher;4
+GEN-184;JETT THORN;;;0;0;Thrasher;QR;Character;Iconic, Thrasher;5
+GEN-185;WALL OF DEATH;;;0;0;Thrasher;R;Program;Protocol;3
+GEN-186;DEATH METAL;;;0;0;Thrasher;C;Program;Script;2
+GEN-187;BEATDOWN;;;0;0;Thrasher;C;Program;Script;1
+GEN-188;TRAMPLE;;;0;0;Thrasher;C;Program;Script;1
+GEN-189;RUSH THE STAGE;;;0;0;Thrasher;QR;Program;et rush the stage;5
+GEN-190;PLASMA SHACKLE;;;0;0;Thrasher;U;Gear;Cyberware;2
+GEN-191;SIPHON GAUNTLET;;;0;0;Thrasher;U;Gear;Cyberware;3
+GEN-192;BATTLE AXE;;;0;0;Thrasher;U;Gear;Weapon;3
+GEN-193;GIGADYNE AMP;;;0;0;Thrasher;U;Gear;Cyberware;5
+GEN-194;DEMON SHARD;;;0;0;Thrasher;R;Gear;Weapon;4
+GEN-195;BRAINSHREDDER;;;0;0;Thrasher;R;Gear;Cyberware;3
+GEN-196;OVERDRIVER;;;0;0;Thrasher;U;Gear;Cyberware;2
+GEN-197;WHAMMY BAR;;;0;0;Thrasher;U;Gear;Weapon;1
+GEN-198;DEATH WISH;;;0;0;Thrasher;R;Program;Environment;4
+GEN-199;MOSH PIT;;;0;0;Thrasher;U;Program;Environment;2
+GEN-200;NANOBOT SWARM;;;0;0;nanobot;C;Character;nanobot;2
+GEN-201;NANOBOT HARVESTER;;;0;0;nanobot;C;Character;nanobot;1
+GEN-202;NANOBOT MESSENGER;;;0;0;nanobot;U;Character;nanobot;1
+GEN-203;XANDRA, HIVE QUEEN;;;0;0;nanobot;QR;Character;Iconic, nanobot;3
+GEN-204;MAD HONEY;;;0;0;nanobot;U;Program;Script, Drug;3
+GEN-205;THE HIVE;;;0;0;nanobot;R;Program;Environment;3
+GEN-206;ALICE, DREAMWALKER;;;0;0;wonderland;QR;Character;Iconic, wonderland;2
+GEN-207;QUEEN OF HEARTS;;;0;0;wonderland, Cybernetic;QR;Character;Iconic, wonderland, Cybernetic;5
+GEN-208;WHITE KNIGHT;;;0;0;wonderland, Robot;U;Character;wonderland, Robot;2
+GEN-209;RED KNIGHT;;;0;0;wonderland, Robot;U;Character;wonderland, Robot;2
+GEN-210;MAD HATTER;;;0;0;wonderland, Hacker;R;Character;wonderland, Hacker;4
+GEN-211;BIG KAT;;;0;0;wonderland, Corpo;C;Character;wonderland, Corpo;3
+GEN-212;WONDERLAND;;;0;0;wonderland;R;Program;Environment;3
+GEN-213;CHESHIRE.RAR;;;0;0;wonderland;U;Program;Protocol, Virus;2
+GEN-214;DRINK ME;;;0;0;wonderland;C;Program;Script, Drug;3
+GEN-215;EAT ME;;;0;0;wonderland;C;Program;Script, Drug;3
+GEN-216;THROUGH THE LOOKING GLASS;;;0;0;wonderland;U;Program;Script;3
+GEN-217;JABBERWOCKY;;;0;0;wonderland, Cybernetic;R;Character;Iconic, wonderland, Cybernetic;6
+GEN-218;B.O.B.;;;0;0;Robot;U;Character;Robot;2
+GEN-219;THE SINGULARITY;;;0;0;AI;QR;Character;Iconic, ai;7
+GEN-220;PROJECT ARCHANGEL;;;0;0;Mech;QR;Character;Iconic, Mech;7
+GEN-221;SHORT CIRCUIT;;;0;0;null;C;Program;Script;1
+GEN-222;DÉJA VU;;;0;0;null;QR;Program;Script;6
+GEN-223;NEURAL DISRUPTOR;;;0;0;null;R;Gear;Cyberware;3
+GEN-224;ANTIVirus;;;0;0;null;C;Program;Script;1
+GEN-225;TERMINATE;;;0;0;null;C;Program;Script;2
+GEN-226;DELETE;;;0;0;null;C;Program;Script;4
+GEN-227;SOLAR FLARE;;;0;0;null;R;Program;Script;6
+GEN-228;GARBAGE DAY;;;0;0;null;U;Program;Script;3
+GEN-229;SPECTRE 9MM;;;0;0;null;C;Gear;Weapon;1
+GEN-230;SIMULATED SOLACE;;;0;0;null;U;Program;Protocol, Virus;2
+GEN-231;CROSSFADE;;;0;0;null;U;Program;Environment;1
+GEN-232;SUPERSYMMETRY;;;0;0;null;R;Program;Environment;2
+GEN-233;MULTIVERSE;;;0;0;null;QR;Program;Environment;2
+GEN-234;ACID RAIN;;;0;0;null;U;Program;Environment;4
+GEN-235;FIRESTARTER;;;0;0;Hacker;C;Mainframe;Hacker;4
+GEN-236;DEEPNET;;;0;0;Hacker;C;Mainframe;Hacker;4
+GEN-237;SYNTHETIX;;;0;0;Cybernetic;C;Mainframe;Cybernetic;4
+GEN-238;GearHEAD;;;0;0;Cybernetic;C;Mainframe;Cybernetic;4
+GEN-239;A-Z LUXUREON;;;0;0;Corpo;C;Mainframe;Corpo;4
+GEN-240;OMNIS BLOOD DIAMOND;;;0;0;Corpo;C;Mainframe;Corpo;4
+GEN-241;COYOTE;;;0;0;Dustrunner;C;Mainframe;Dustrunner;4
+GEN-242;SIDEWINDER;;;0;0;Dustrunner;C;Mainframe;Dustrunner;4
+GEN-243;RADIANT;;;0;0;Mystic;U;Mainframe;Mystic;4
+GEN-244;ECLIPSE;;;0;0;Mystic;C;Mainframe;Mystic;4
+GEN-245;HEADBANGER;;;0;0;Thrasher;C;Mainframe;Thrasher;4
+GEN-246;BERSERKER;;;0;0;Thrasher;C;Mainframe;Thrasher;4
+GEN-247;MELTDOWN;;;0;0;Hacker, Dustrunner;U;Mainframe;Hacker, Dustrunner;4
+GEN-248;NEXUS;;;0;0;Cybernetic, Corpo;U;Mainframe;Cybernetic, Corpo;4
+GEN-249;AURORA;;;0;0;Mystic, Dustrunner;U;Mainframe;Mystic, Dustrunner;4
+GEN-250;SAVAGE;;;0;0;Thrasher, Cybernetic;U;Mainframe;Thrasher, Cybernetic;4
+GEN-251;SPOTLIGHT;;;0;0;Thrasher, Corpo;U;Mainframe;Thrasher, Corpo;4
+GEN-252;AETHERNET;;;0;0;Hacker;U;Mainframe;Hacker, Mystic;4
+GEN-253;HIVE DYNAMICS;;;0;0;nanobot;R;Mainframe;nanobot;4
+GEN-254;WNDRTECH;;;0;0;wonderland;R;Mainframe;wonderland;4
+GEN-255;BASIC RAM;;;0;0;null;B;RAM;null;4
+GEN-256;TERRY, THE ACCOUNTANT;;;0;0;Corpo;QR;Character;Iconic, Corpo;3
+GEN-257;NOVA, THE WHITE RABBIT;;;0;0;wonderland, Hacker;AR;Character;wonderland, Hacker;3
+GEN-258;LUG NUT;;;0;0;Cybernetic, Animal;AR;Character;Cybernetic, Animal;1
+GEN51-003;IRON MAIDEN;;;0;0;Cybernetic, Thrasher;AR;Character;Cybernetic, Thrasher;3
