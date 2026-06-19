@@ -430,17 +430,17 @@ Cutthroat Podracer;LAW-213-C;Ground Unit;Vehicle/Speeder;4;4;4;Y/B;1
 D'Qar Cargo Frigate;JTL-052-C;Space Unit;Resistance/Vehicle/Capital Ship;5;6;7;U/W;2
 Dagger Squadron Pilot;JTL-196-C;Ground Unit;Rebel/Pilot;1;2;1;Y/W;3
 Dagobah Swamp;SOR-021-C;Base;Dagobah;30;U;1 # 1 hyperspace
-# done through here
-Dagoyan Master;LOF-115-U;Ground Unit;G;3
+Dagoyan Master;LOF-115-U;Ground Unit;Force;5;5;5;G;3
 Daimyo's Palace;LAW-020-C;Base;Tatooine;27;U;0
 Daring Delve;LAW-203-C;Event;Gambit;1;R;0
-Daring Raid;SHD-178-C/TWI-170-C;Event;R;3
-Daro Commando;SEC-113-C;Ground Unit;G;3
-Darth Malak, Covetous Apprentice;LOF-234-L;Ground Unit;B;0
-Darth Maul's Lightsaber;LOF-140-S;Upgrade;R/B;3 # 1 hyperspace
-Darth Maul, Revenge At Last;TWI-135-L;Ground Unit;B/R;1
-Darth Maul, Sith Revealed;LOF-009-S;Leader;R/B;1
-Darth Nihilus, Lord of Hunger;SEC-244-L;Ground Unit;B;2 # 1 foil
+Daring Raid;SHD-178-C/TWI-170-C;Event;Tactic;1;R;3
+Daro Commando;SEC-113-C;Ground Unit;Imperial/Clone/Trooper;3;3;4;G;3
+Darth Malak, Covetous Apprentice;LOF-234-L;Ground Unit;Force/Sith;5;4;7;B;0
+Darth Maul's Lightsaber;LOF-140-S;Upgrade;Item/Weapon/Lightsaber;3;4;2;R/B;3 # 1 hyperspace
+Darth Maul, Revenge At Last;TWI-135-L;Ground Unit;Force/Sith;5;5;6;B/R;1
+Darth Maul, Sith Revealed;LOF-009-S;Leader;Force/Sith;6;5;6;R/B;1
+Darth Nihilus, Lord of Hunger;SEC-244-L;Ground Unit;Force/Sith;7;6;6;B;2 # 1 foil
+# done through here
 Darth Revan's Lightsabers;LOF-238-R;Upgrade;B;0
 Darth Revan, Scourge of the Old Republic;LOF-017-R;Leader;B;1 # 1 showcase
 Darth Sidious, The Phantom Menace;LOF-039-S;Ground Unit;U/B;3
@@ -1949,20 +1949,22 @@ Paz Vizsla, For a Brighter Future;ASH-028-R;Ground Unit;Mandalorian;5;4;7;U/G/W;
 Scorpenek Annihilator Droid;ASH-029-U;Ground Unit;Underworld/Droid;6;5;5;U/G;0
 Marrok, Mysterious Warrior;ASH-030-R;Ground Unit;Force/Inquisitor;3;2;6;U/R/B;0
 Hera Syndulla, Renegade General;ASH-031-R;Ground Unit;New Republic/Twi'lek/Spectre;3;3;4;U/R/W;0
-# ASH-032-X
-# ASH-033-X
-# ASH-034-X
-# ASH-035-X
+Rancor Keeper;ASH-032-U;Ground Unit;Underworld;2;2;4;U/R;0
+Grand Admiral Thrawn, Orchestrating His Return;ASH-033-R;Ground Unit;Imperial/Official;7;5;7;G/R/B;0
+Wicket, Yub Nub!;ASH-034-R;Ground Unit;Ewok;1;3;3;G/R/W;0
+Tatooine Repulsor Train;ASH-035-U;Ground Unit;Underworld/Vehicle/Speeder;7;8;7;G/R;0
 Rukh, From the Shadows;ASH-036-R;Ground Unit;Imperial;3;1;5;G/Y/B;0
-# ASH-037-X
-# ASH-038-X
+Red Leader, Strike the Reactor;ASH-037-R;Space Unit;Rebel/Vehicle/Figher;7;6;6;G/Y/W;0
+Purrgil Ultra;ASH-038-U;Space Unit;Creature;8;6;10;G/Y;0
 Baylan Skoll, Fallen Jedi;ASH-039-R;Gruond Unit;Force;6;6;6;R/Y/B;0
-# ASH-040-X
-# ASH-041-X
-# ASH-042-X
-# ASH-043-X
-# ASH-044-X
-# ASH-045-X
+Poe Dameron, I'll Come Back For You;ASH-040-R;Ground Unit;Resistance;2;3;3;R/Y/W;0
+Outcast, Mercenary Starship;ASH-041-U;Space Unit;Underworld/Vehicle/Transport;2;1;4;R/Y;0
+Jabba the Hutt, Eminence of Tatooine;ASH-042-R;Ground Unit;Underworld/Hutt;4;2;6;Y/U/B;0
+Corona Four, Justice for Alderaan;ASH-043-R;Space Unit;Rebel/Vehicle/Fighter;2;2;3;Y/U/W;0
+Barriss Offee, Redeeming Herself;ASH-044-U;Ground Unit;Force/Fringe;3;3;4;Y/U;0
+Reanimated Night Trooper;ASH-045-C;Ground Unit;Imperial/Night/Undead/Trooper;1;2;2;U/B;0
 Scion Shuttle, At Morgan's Bidding;ASH-046-U;Space Unit;Imperial/Vehicle/Transport;2;1;3;U/B;0
 Gar Saxon, Coveting Power;ASH-047-R;Ground Unit;Mandalorian/Trooper;3;3;4;U/B;0
 Imperial Armored Commando;ASH-048-C;Ground Unit;Imperial/Trooper;4;4;3;U/B;0
+Shin Hati, Going Somewhere?;ASH-049-U;Ground Unit;Force;5;6;6;U/B;0
+Morgan Elsbeth, Life Abandoned;ASH-050-U;Ground Unit;Force/Night;6;5;6;U/B;0
