@@ -703,19 +703,19 @@ Heal What Has Been Hurt;Action;Amber;Song;Into the Inklands (Common)/Fabled (Com
 Healing Decanter;Item;Amber;;Shimmering Skies (Common);0
 Healing Glow;Action;Amber;;The First Chapter (Common);2
 Healing Touch;Action;Amber;;Shimmering Skies (Common);0
-# Traits done through here
 Heart of Atlantis;Item;Amber;;Into the Inklands (Rare);0
 Heart of Te Fiti;Item;Sapphire;;Into the Inklands (Rare)/Fabled (Rare);0
-Heathcliff - Stoic Butler;Character;Emerald;;Azurite Sea (Common);1
-Heffalumps and Woozles;Action;Emerald;;Azurite Sea (Common);1
-Heihei - Accidental Explorer;Character;Ruby;;Into the Inklands (Uncommon);3
-Heihei - Boat Snack;Character;Amber;;The First Chapter (Common);2
-Heihei - Bumbling Rooster;Character;Emerald;;Ursula's Return (Uncommon)/Fabled (Uncommon);0
-Heihei - Expanded Consciousness;Character;Sapphire/Steel;;Archazia's Island (Uncommon);0
-Heihei - Not-so-Tricky Chicken;Character;Sapphire;;Azurite Sea (Uncommon);0
-Heihei - Persistent Presence;Character;Amethyst;Dreamborn/Ally;Rise of the Floodborn (Uncommon)/Winterspell (Common);4
-Heihei - Protective Rooster;Character;Steel;;Shimmering Skies (Common);1
-Heihei - Rambling Rooster;Character;Steel;;Archazia's Island (Common);0
+Heathcliff - Stoic Butler;Character;Emerald;Storyborn/Ally;Azurite Sea (Common);1
+Heffalumps and Woozles;Action;Emerald;Song;Azurite Sea (Common);1
+HeiHei - Accidental Explorer;Character;Ruby;Storyborn/Ally;Into the Inklands (Uncommon);3
+HeiHei - Boat Snack;Character;Amber;Storyborn/Ally;The First Chapter (Common);2
+HeiHei - Bumbling Rooster;Character;Emerald;Storyborn/Ally;Ursula's Return (Uncommon)/Fabled (Uncommon);0
+HeiHei - Expanded Consciousness;Character;Sapphire/Steel;Floodborn/Ally;Archazia's Island (Uncommon);0
+HeiHei - Not-so-Tricky Chicken;Character;Sapphire;Storyborn/Ally;Azurite Sea (Uncommon);0
+HeiHei - Persistent Presence;Character;Amethyst;Dreamborn/Ally;Rise of the Floodborn (Uncommon)/Winterspell (Common);4
+HeiHei - Protective Rooster;Character;Steel;Dreamborn/Ally;Shimmering Skies (Common);1
+HeiHei - Rambling Rooster;Character;Steel;Dreamborn/Ally;Archazia's Island (Common);0
+# Traits done through here
 Helga Sinclair - Femme Fatale;Character;Emerald;;Into the Inklands (Super Rare);0
 Helga Sinclair - Right-Hand Woman;Character;Steel;;Into the Inklands (Common);0
 Helga Sinclair - Tough as Nails;Character;Steel;;Archazia's Island (Uncommon);0
@@ -2239,8 +2239,16 @@ Ranger Plane;Item;Sapphire;;Wilds Unknown (Rare);0
 Gadget's Goggles;Item;Sapphire;;Wilds Unknown (Uncommon);0
 Shepherd's Journal;Item;Sapphire;;Wilds Unknown (Uncommon);0
 Casa Madrigal - Courtyard;Location;Sapphire;;Wilds Unknown (Common);0
-
 Mrs. Incredible - Helen Parr;Character;Steel;Storyborn/Super/Hero;Wilds Unknown (Common);1
+Pocahontas - Steadfast Traveler;Character;Steel;Dreamborn/Hero/Princess;Wilds Unknown (Rare);0
+Syndrome - Out for Revenge;Character;Steel;Dreamborn/Super/Villain/Inventor;Wilds Unknown (Super Rare);0
+Omnidroid - V.8;Character;Steel;Storyborn/Robot;Wilds Unknown (Common);0
+Angus - Mighty Horse;Character;Steel;Storyborn/Ally;Wilds Unknown (Common);0
+Fergus - King of DunBroch;Character;Steel;Storyborn/Mentor/King;Wilds Unknown (Common);0
+Wee Dingwall - Scrappy Lad;Character;Steel;Storyborn/Ally;Wilds Unknown (Common);0
+Incrediboy - Buddy Pine;Character;Steel;Storyborn/Inventor;Wilds Unknown (Common);0
+Violet Parr - At Wits' End;Character;Steel;Storyborn/Super/Hero;Wilds Unknown (Common);0
+Young Macintosh - Proud Son;Character;Steel;Storyborn/Ally;Wilds Unknown (Common);0
 
 Fat Cat - Felonious Feline;Character;Steel;Storyborn/Villain;Wilds Unknown (Common);1
 
