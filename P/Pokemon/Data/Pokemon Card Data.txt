@@ -1217,6 +1217,7 @@ Charjabug;Pokemon;Lightning;100;;Static Shock;TEF 55 (Common)/TEF 169 (Illustrat
 Latias;Pokemon;Psychic;110;;Allure|Lagoon Flight;TEF 67 (Uncommon);H;4;1
 Bronzor;Pokemon;Psychic;80;;Mirror Attack;TEF 68 (Common)/TEF 170 (Illustration Rare);H;4;1
 Reuniclus;Pokemon;Psychic;120;;Summoning Gate|Brain Shake;TEF 72 (Uncommon)/TEF 171 (Illustration Rare);H;4;1
+Flutter Mane;Pokemon;Psychic;90;Midnight Fluttering;Hex Hurl;TEF 78 (Rare)/SVP 97 (Promo)/PRE 43 (Rare);H;4;0
 Iron Valiant;Pokemon;Psychic;130;;Gemini Laser|Zen Blade;TEF 79 (Uncommon);H;4;1
 Meditite;Pokemon;Fighting;70;;Slap|Kick;TEF 82 (Common);H;4;1
 Drilbur;Pokemon;Fighting;70;Dig Dig Dig;Sand Spray;TEF 85 (Common);H;4;0
@@ -1260,6 +1261,7 @@ Iron Thorns ex;Pokemon;Lightning;230;Initialization;Volt Cyclone;TWM 77 (Double 
 Clefairy;Pokemon;Psychic;60;;Moon Kick;TWM 78 (Common)/ASC 74 (Common);H;4;0
 Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (Uncommon);H;4;0
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare)/ASC 99 (Rare);H;4;0
+Fezandipiti;Pokemon;Psychic;120;Adrena-Pheromone;Energy Feather;TWM 96 (Rare)/SFA 73 (Illustration Rare)/PRE 45 (Rare);H;4;0
 Conkeldurr;Pokemon;Fighting;180;;Tantrum|Gutsy Swing;TWM 105 (Uncommon);H;4;0
 Greninja ex;Pokemon;Fighting;310;;Shinobi Blade|Mirage Barrage;TWM 106 (Double Rare)/TWM 198 (Ultra Rare)/TWM 214 (Special Illustration Rare);H;4;0
 Cornerstone Mask Ogerpon ex;Pokemon;Fighting;210;Cornerstone Stance;Demolish;TWM 112 (Double Rare)/TWM 199 (Ultra Rare)/TWM 215 (Special Illustration Rare)/PRE 58 (Double Rare)/PRE 160 (Special Illustration Rare);H;4;0
@@ -1345,6 +1347,7 @@ Togepi;Pokemon;Psychic;50;;Pound;SSP 70 (Common)/ASC 80 (Common);H;4;0
 Togetic;Pokemon;Psychic;90;;Draining Kiss;SSP 71 (Common)/ASC 81 (Common);H;4;0
 Togekiss;Pokemon;Psychic;140;Wonder Kiss;Speed Wing;SSP 72 (Rare)/ASC 82 (Rare)/ASC 235 (Illustration Rare);H;4;0
 Latias ex;Pokemon;Psychic;210;Skyliner;Eon Blade;SSP 76 (Double Rare)/SSP 220 (Ultra Rare)/SSP 239 (Special Illustration Rare);H;4;0
+Sylveon ex;Pokemon;Psychic;270;;Magical Charm|Angelite;SSP 86 (Double Rare)/SSP 41 (Double Rare)/PRE 156 (Special Illustration Rare);H;4;0
 Dedenne;Pokemon;Psychic;70;;Electromagnetic Sonar|Gnaw;SSP 87 (Common);H;4;0
 Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
 Annihilape;Pokemon;Fighting;140;;Tantrum|Destined Fight;SSP 100 (Uncommon);H;4;0
@@ -1385,10 +1388,7 @@ Espeon ex;Pokemon;Psychic;270;;Psych Out|Amazez;PRE 34 (Double Rare)/PRE 155 (Sp
 Spritzee;Pokemon;Psychic;60;;Fairy Wind;PRE 38 (Common);H;4;0
 Aromatisse;Pokemon;Psychic;120;;Perfume Press;PRE 39 (Common);H;4;0
 Sylveon;Pokemon;Psychic;120;Safeguard;Magical Shot;PRE 40 (Rare);H;4;0
-
-# PRE 42 done
-
-# PRE 44 done
+# PRE 45 done
 
 # PRE 54 done
 
@@ -1424,7 +1424,7 @@ Max Rod;Trainer;Item;;;;PRE 116 (ACE SPEC Rare);H;2;0
 # PRE 129 done
 # PRE 131 last new card (not done)
 # PRE 144-150 done
-# PRE 152-155 done
+# PRE 152-156 done
 # PRE 160 done
 # PRE 162-169 done
 # PRE 171 done
