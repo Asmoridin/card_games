@@ -532,8 +532,8 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Mirrodin Besieged'
-CHECK_AMOUNT = 155
+CHECK_SET = 'New Phyrexia'
+CHECK_AMOUNT = 175
 SET_CHECK += 5 # Extra basic lands
 PRINT_SET = False
 
