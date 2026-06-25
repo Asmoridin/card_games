@@ -1065,8 +1065,15 @@ Investigate Holotechnology Malfunction II;Mission;Space;To the Journey;8521,8522
 Investigate Holotechnology Malfunction;Mission;Space;To the Journey;8501;;2;0
 Investigate Incursion;Mission;Space;Official Tournament Sealed Deck;197,5911;;4;0
 Investigate Legend;Mission;Planet;Q Continuum;1420;;2;0
-Investigate Massacre;Mission;Planet;Premiere;1421,6156,6519,6882,7804;;2;1
+Investigate Massacre;Mission;Planet;Premiere;1421,6156,6519,6882,7804,8168;;2;1
+Investigate Quantum Singularity;Mission;Space;Voyager;1422;;2;0
+Investigate Raid;Mission;Planet;Premiere;1423,6157,6520,6883,7805,8169;;2;0
+Investigate Rogue Comet;Mission;Space;Premiere;1424,6158,6521,6884,7806,8170;;2;0
+Investigate Rumors;Mission;Space;Deep Space 9/Reflections;1425,3603;;2;0
+Investigate Sighting II;Mission;Space;Enhanced Premiere;1427,1428;;2;0
 Investigate Sighting;Mission;Space;Premiere;1426,6159,6522,6885;;2;1
+Investigate Time Continuum;Mission;Planet;Premiere;1429,6160,6523,6886,7808,8172;;2;0
+Ira Graves;Personnel;Non-Aligned;Q Continuum;1430;;2;0
 J'Ddan;Personnel;Klingon;Premiere/Coming of Age;205,5438,5998,6361,6724,7646;;4;0
 Jabara;Personnel;Bajoran;Deep Space 9;198;;4;0
 Jace Michaels;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;199,4431,7111;;4;0
@@ -1573,9 +1580,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1420
-#1421
-#1426
+# Done through card 1430
 #1457
 #1488
 #1501
@@ -1707,7 +1712,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3587-3589
 #3592-3594
 #3600
-#3602
+#3602-3603
 #3607
 #3609-3611
 #3613
@@ -1896,8 +1901,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5908-5913
 #5916-5918
-#5966-6156
-#6159
+#5966-6160
 #6163
 #6167
 #6169
@@ -1942,8 +1946,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6519
-#6522
+#6464-6523
 #6526
 #6530
 #6532
@@ -1988,8 +1991,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6882
-#6885
+#6823-6886
 #6889
 #6893
 #6895
@@ -2068,7 +2070,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7740-7741
 #7743-7762
 #7766-7793
-#7795-7804
+#7795-7806
+#7808
 #7811
 #7815
 #7817
@@ -2133,7 +2136,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8113-8117
 #8120-8126
 #8130-8157
-#8161-8167
+#8161-8170
+#8172
 #8175
 #8179
 #8181
