@@ -715,25 +715,25 @@ HeiHei - Not-so-Tricky Chicken;Character;Sapphire;Storyborn/Ally;Azurite Sea (Un
 HeiHei - Persistent Presence;Character;Amethyst;Dreamborn/Ally;Rise of the Floodborn (Uncommon)/Winterspell (Common);4
 HeiHei - Protective Rooster;Character;Steel;Dreamborn/Ally;Shimmering Skies (Common);1
 HeiHei - Rambling Rooster;Character;Steel;Dreamborn/Ally;Archazia's Island (Common);0
-# Traits done through here
-Helga Sinclair - Femme Fatale;Character;Emerald;;Into the Inklands (Super Rare);0
-Helga Sinclair - Right-Hand Woman;Character;Steel;;Into the Inklands (Common);0
-Helga Sinclair - Tough as Nails;Character;Steel;;Archazia's Island (Uncommon);0
-Helga Sinclair - Vengeful Partner;Character;Emerald;;Into the Inklands (Rare);0
+Helga Sinclair - Femme Fatale;Character;Emerald;Floodborn/Villain;Into the Inklands (Super Rare);0
+Helga Sinclair - Right-Hand Woman;Character;Steel;Storyborn/Villain;Into the Inklands (Common);0
+Helga Sinclair - Tough as Nails;Character;Steel;Storyborn/Villain;Archazia's Island (Uncommon);0
+Helga Sinclair - Vengeful Partner;Character;Emerald;Storyborn/Villain;Into the Inklands (Rare);0
 Helping Hand;Action;Sapphire;;Azurite Sea (Common);3
 Hen Wen - Prophetic Pig;Character;Sapphire;Storyborn/Ally;Whispers in the Well (Common);2
 Hen Wen's Visions;Action;Sapphire;;Whispers in the Well (Common);1
-Hera - Queen of the Gods;Character;Emerald;;Ursula's Return (Uncommon);0
-Hercules - Baby Demigod;Character;Emerald;;Azurite Sea (Legendary);0
-Hercules - Beloved Hero;Character;Steel;;Ursula's Return (Uncommon)/Fabled (Uncommon);2
-Hercules - Clumsy Kid;Character;Ruby;;Ursula's Return (Common);2
-Hercules - Daring Demigod;Character;Ruby;;Ursula's Return (Uncommon);0
-Hercules - Divine Hero;Character;Steel;;Rise of the Floodborn (Rare);0
-Hercules - Hero in Training;Character;Steel;;Rise of the Floodborn (Common);1
-Hercules - Mighty Leader;Character;Ruby;;Whispers in the Well (Legendary);0
+Hera - Queen of the Gods;Character;Emerald;Storyborn/Queen/Deity;Ursula's Return (Uncommon);0
+Hercules - Baby Demigod;Character;Emerald;Storyborn/Hero/Prince;Azurite Sea (Legendary);0
+Hercules - Beloved Hero;Character;Steel;Storyborn/Hero/Prince;Ursula's Return (Uncommon)/Fabled (Uncommon);2
+Hercules - Clumsy Kid;Character;Ruby;Storyborn/Hero/Prince;Ursula's Return (Common);2
+Hercules - Daring Demigod;Character;Ruby;Dreamborn/Hero/Prince;Ursula's Return (Uncommon);0
+Hercules - Divine Hero;Character;Steel;Floodborn/Hero/Prince/Deity;Rise of the Floodborn (Rare);0
+Hercules - Hero in Training;Character;Steel;Storyborn/Hero/Prince;Rise of the Floodborn (Common);1
+Hercules - Mighty Leader;Character;Ruby;Storyborn/Hero/Prince/Deity;Whispers in the Well (Legendary);0
 Hercules - Spectral Demigod;Character;Ruby;Storyborn/Hero/Prince/Deity/Whisper;Winterspell (Common);1
-Hercules - True Hero;Character;Steel;;The First Chapter (Common)/Fabled (Common);4
-Hercules - Unwavering Demigod;Character;Steel;;Azurite Sea (Common);1
+Hercules - True Hero;Character;Steel;Dreamborn/Hero/Prince;The First Chapter (Common)/Fabled (Common);4
+Hercules - Unwavering Demigod;Character;Steel;Dreamborn/Hero/Prince;Azurite Sea (Common);1
+# Traits done through here
 Hermes - Harried Messenger;Character;Ruby;;Whispers in the Well (Common);0
 Hidden Cove - Tranquil Haven;Location;Emerald;;Ursula's Return (Common)/Fabled (Common);0
 Hidden Inkcaster;Item;Emerald;;Ursula's Return (Common);1
@@ -2249,9 +2249,15 @@ Wee Dingwall - Scrappy Lad;Character;Steel;Storyborn/Ally;Wilds Unknown (Common)
 Incrediboy - Buddy Pine;Character;Steel;Storyborn/Inventor;Wilds Unknown (Common);0
 Violet Parr - At Wits' End;Character;Steel;Storyborn/Super/Hero;Wilds Unknown (Common);0
 Young Macintosh - Proud Son;Character;Steel;Storyborn/Ally;Wilds Unknown (Common);0
-
 Fat Cat - Felonious Feline;Character;Steel;Storyborn/Villain;Wilds Unknown (Common);1
-
 Maudie - Exasperated Nursemaid;Character;Steel;Storyborn;Wilds Unknown (Uncommon);1
+Lord Macintosh - Wiry and High‐Strung;Character;Steel;Storyborn/Ally;Wilds Unknown (Uncommon);0
+Rat Capone - Rodent Gangster;Character;Steel;Storyborn/Villain;Wilds Unknown (Common);0
+Omnidroid - V.9;Character;Steel;Storyborn/Robot;Wilds Unknown (Uncommon);0
+Mr. Incredible - Taking Out the Trash;Character;Steel;Storyborn/Super/Hero;Wilds Unknown (Uncommon);0
+Lord Dingwall - Bullheaded;Character;Steel;Storyborn/Ally;Wilds Unknown (Uncommon);0
+Fat Cat - Criminal Businessman;Character;Steel;Dreamborn/Villain;Wilds Unknown (Rare);0
+Goofy - Determined Traveler;Character;Steel;Dreamborn/Hero;Wilds Unknown (Uncommon);0
+Omnidroid - V.10;Character;Steel;Storyborn/Robot;Wilds Unknown (Rare);0
 
 Club Door;Item;Steel;;Wilds Unknown (Uncommon);1
