@@ -3724,9 +3724,21 @@ Death's Caress;Spell;;Reign of Blood (Common);Rain of Blood (Diamond);3;1
 Death, Defeated;Spell;;Before the Dawn (Uncommon);Age of Conquest (Emperor);3;0
 Death, Defeated;Spell;;Before the Dawn (Uncommon);Destroyer War (Celestial);3;0
 Deathly Aura;Strategy;;The Plague War (Rare);Destroyer War (Celestial);3;0
+Deathseeker Technique;Strategy;;Gold Edition (Fixed);Four Winds (Gold);3;0
+Deathseeker Technique;Strategy;;Soul of the Empire (Uncommon);Hidden Emperor (Jade);3;0
+Deathseeker Troop;Follower;;Rise of the Shogun (Common);Age of Enlightenment (Lotus);3;0
+Deathseeker Troop;Follower;;War of Honor (Fixed);Legacy;3;0
 Deathseeker's Glory;Strategy;;Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Deathseeker's Oath;Strategy;;Hidden City (Uncommon);Rain of Blood (Diamond);3;0
+Debt Collector;Holding;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
+Debt of Honor;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;0
 Decayed Blade;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Decayed Blade;Item;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Deceit and Subterfuge;Strategy;;The Harbinger (Uncommon);Destroyer War (Celestial);3;0
+Deception Revealed;Strategy;;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
+Deception Revealed;Strategy;;The Plague War (Uncommon);Destroyer War (Celestial);3;0
+Deception's Veil Dojo;Stronghold;Scorpion;Samurai Edition (Fixed)/Promotional–Samurai (Promo);Race for the Throne (Samurai);1;0
+Decisive Strike;Strategy;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;0
 Decree of the Hantei;Event;;Gates of Tengoku (Fixed);Shattered Empire;1;0
 Deeds of Honor;Strategy;;Rise of the Shogun (Common);Age of Enlightenment (Lotus);3;0
 Deeds, Not Words;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
@@ -8349,6 +8361,8 @@ Usurpation;Strategy;;Twenty Festivals (Rare);War of the Seals (Onyx Edition);3;0
 Usurpation;Strategy;;Words and Deeds (Rare);Race for the Throne (Samurai);3;0
 Utaku Anzu, Soul of Utaku Tayoi;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Utaku Anzu, Soul of Utaku Tayoi;Personality;Unicorn;Shattered Empire (Fixed);Shattered Empire;3;0
+Utaku Eun-ju;Personality;Unicorn;Before the Dawn (Common);Age of Conquest (Emperor);3;0
+Utaku Eun-ju;Personality;Unicorn;Before the Dawn (Common);Destroyer War (Celestial);3;0
 Utaku Gorou, Colonial Stablemaster • Experienced;Personality;Unicorn;Gates of Tengoku (Fixed);Shattered Empire;3;0
 Utaku Gorou, Stablemaster;Personality;Unicorn;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Utaku Gorou, Stablemaster;Personality;Unicorn;Shattered Empire (Fixed);Shattered Empire;3;0
@@ -8415,6 +8429,10 @@ Varajita;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Vayla;Personality;Naga;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Vayla;Personality;Naga;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Veil of Shadows;Strategy;;Hidden Emperor 2 (Uncommon);Hidden Emperor (Jade);3;3
+Venerable Master;Holding;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Venerable Master;Holding;;Promotional–Diamond (Promo);Rain of Blood (Diamond);3;0
+Venerable Master;Holding;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
+Venerable Master;Holding;;Training Grounds 2 (Fixed)/Promotional–Diamond (Promo);Age of Enlightenment (Lotus);3;0
 Venerable Stature;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;3
 Vengeful Dismissal;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
 Verdant Wilds;Holding;;Road to Ruin (Fixed);Shattered Empire;3;0
@@ -8868,8 +8886,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1900
-#1903
+# Done through card #1910
 #1915
 #1917
 #1929
@@ -9594,6 +9611,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9035
 #9038
 #9050
+#9061
 #9071
 #9075
 #9077
@@ -9607,6 +9625,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9119
 #9126
 #9129
+#9131
 #9133
 #9143
 #9145
