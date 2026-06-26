@@ -969,6 +969,7 @@ I Tried to Warn You;Q Dilemma;;Deep Space 9;1334;;4;0
 I'm a Doctor, Not a Bartender;Interrupt;;Holodeck Adventures;1374;;4;0
 I'm a Doctor, Not a Bricklayer;Interrupt;;Mirror, Mirror;1375;;4;0
 I'm a Doctor, Not a Doorstop;Interrupt;;First Contact;1376;;4;0
+I've Been Waiting for You;Interrupt;;Holodeck Adventures;1439;;4;0
 I.K.C. Fek'lhr;Ship;Klingon;Alternate Universe/Reflections;1340,3621;;2;0
 I.K.C. Gr'oth;Ship;Klingon;The Trouble with Tribbles;1341;;2;0
 I.K.C. K'Ratak;Ship;Klingon;Alternate Universe/Introductory 2-Player Game;1347,7182;;2;0
@@ -1074,6 +1075,15 @@ Investigate Sighting II;Mission;Space;Enhanced Premiere;1427,1428;;2;0
 Investigate Sighting;Mission;Space;Premiere;1426,6159,6522,6885;;2;1
 Investigate Time Continuum;Mission;Planet;Premiere;1429,6160,6523,6886,7808,8172;;2;0
 Ira Graves;Personnel;Non-Aligned;Q Continuum;1430;;2;0
+Isabella;Interrupt;;Alternate Universe;1431;;4;0
+Ishara Yar;Personnel;Non-Aligned;Premiere;1432,6161,6524,6887,7809,8173;;2;0
+Ishka;Personnel;Ferengi;Rules of Acquisition/Virtual Promos;1433,4571;;2;0
+Isolinear Puzzle;Dilemma;Space;Deep Space 9;1434;;4;0
+Isolytic Burst;Tactic;;The Motion Pictures/BaH!;1435,3714,7263;;10;0
+Isomagnetic Disintegrator;Event;;The Motion Pictures/Homefront II;1436,3863,7264;;4;0
+Issue Secret Orders;Objective;;The Dominion;1437;;4;0
+It's Only a Game;Incident;;Rules of Acquisition/Referee Reprints;1438,3096;;4;0
+Ixtana'Rax;Personnel;Dominion;Blaze of Glory;1440;;2;0
 J'Ddan;Personnel;Klingon;Premiere/Coming of Age;205,5438,5998,6361,6724,7646;;4;0
 Jabara;Personnel;Bajoran;Deep Space 9;198;;4;0
 Jace Michaels;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;199,4431,7111;;4;0
@@ -1580,7 +1590,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1430
+# Done through card 1440
 #1457
 #1488
 #1501
@@ -1679,8 +1689,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3079-3080
 #3082-3083
 #3085-3090
-#3092-3095
-#3097
+#3092-3097
 #3099
 #3117
 #3404-3405
@@ -1722,7 +1731,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3689-3690
 #3693-3696
 #3698-3700
-#3703-3713
+#3703-3714
 #3727
 #3730-3733
 #3839-3840
@@ -1731,7 +1740,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3851-3854
 #3856
 #3858-3860
-#3862
+#3862-3863
 #3866-3867
 #3874
 #3878
@@ -1799,6 +1808,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4496
 #4565-4566
 #4568-4569
+#4571
 #4594-4595
 #4597
 #4658
@@ -1901,7 +1911,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5908-5913
 #5916-5918
-#5966-6160
+#5966-6161
 #6163
 #6167
 #6169
@@ -1946,7 +1956,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6523
+#6464-6524
 #6526
 #6530
 #6532
@@ -1991,7 +2001,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6886
+#6823-6887
 #6889
 #6893
 #6895
@@ -2045,7 +2055,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173-7176
 #7179-7180
-#7182-7262
+#7182-7264
 #7277
 #7317-7318
 #7327-7330
@@ -2071,7 +2081,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808
+#7808-7809
 #7811
 #7815
 #7817
@@ -2137,7 +2147,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8120-8126
 #8130-8157
 #8161-8170
-#8172
+#8172-8173
 #8175
 #8179
 #8181
