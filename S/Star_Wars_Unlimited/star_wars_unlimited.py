@@ -50,6 +50,8 @@ def process_card_set(card_set_in):
             check_card_set = 'Twin Suns 2026'
         elif check_card_set == 'MV26':
             check_card_set = 'Mandalorian Movie 2026'
+        elif check_card_set == 'ASH':
+            check_card_set = 'Ashes of the Empire'
         else:
             print(f"Unknown card set {check_card_set}")
             return [[], []]

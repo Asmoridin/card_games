@@ -440,21 +440,21 @@ Darth Maul's Lightsaber;LOF-140-S;Upgrade;Item/Weapon/Lightsaber;3;4;2;R/B;3 # 1
 Darth Maul, Revenge At Last;TWI-135-L;Ground Unit;Force/Sith;5;5;6;B/R;1
 Darth Maul, Sith Revealed;LOF-009-S;Leader;Force/Sith;6;5;6;R/B;1
 Darth Nihilus, Lord of Hunger;SEC-244-L;Ground Unit;Force/Sith;7;6;6;B;2 # 1 foil
-# done through here
-Darth Revan's Lightsabers;LOF-238-R;Upgrade;B;0
-Darth Revan, Scourge of the Old Republic;LOF-017-R;Leader;B;1 # 1 showcase
-Darth Sidious, The Phantom Menace;LOF-039-S;Ground Unit;U/B;3
+Darth Revan's Lightsabers;LOF-238-R;Upgrade;Item/Weapon/Lightsaber;2;2;2;B;0
+Darth Revan, Scourge of the Old Republic;LOF-017-R;Leader;Force/Sith;5;3;6;B;1 # 1 showcase
+Darth Sidious, The Phantom Menace;LOF-039-S;Ground Unit;Force/Separatist/Sith;8;6;8;U/B;3
 Darth Sidious, Under a Cloak of Darkness;TS26-13-R;Ground Unit;Force/Separatist/Sith;6;4;6;U/G/B;0
-Darth Sion, Lord of Pain;SEC-035-L;Ground Unit;U/B;0
-Darth Traya, Lord of Betrayal;SEC-188-L;Ground Unit;Y/B;0
-Darth Tyranus, Servant of Sidious;LOF-231-S;Ground Unit;B;3
-Darth Vader, Commanding the First Legion;SOR-087-L;Ground Unit;G/B;1
-Darth Vader, Dark Lord of the Sith;SOR-010-S;Leader;R/B;1
-Darth Vader, Don't Fail Me Again;IBH-053-S;Leader;R/B;0
-Darth Vader, Scourge of Squadrons;JTL-142-L;Ground Unit;R/B;0
-Darth Vader, Twilight of the Apprentice;LOF-037-L;Ground Unit;U/B;0
+Darth Sion, Lord of Pain;SEC-035-L;Ground Unit;Force/Sith;5;5;5;U/B;0
+Darth Traya, Lord of Betrayal;SEC-188-L;Ground Unit;Force/Sith;3;2;5;Y/B;0
+Darth Tyranus, Servant of Sidious;LOF-231-S;Ground Unit;Force/Separatist/Sith;4;4;3;B;3
+Darth Vader, Commanding the First Legion;SOR-087-L;Ground Unit;Force/Imperial/Sith;7;5;7;G/B;1
+Darth Vader, Dark Lord of the Sith;SOR-010-S;Leader;Force/Imperial/Sith;7;5;8;R/B;1
+Darth Vader, Don't Fail Me Again;IBH-053-S;Leader;Force/Imperial/Sith;6;3;8;R/B;0
+Darth Vader, Scourge of Squadrons;JTL-142-L;Ground Unit;Force/Imperial/Sith/Pilot;6;7;7;R/B;0
+Darth Vader, Twilight of the Apprentice;LOF-037-L;Ground Unit;Force/Imperial/Sith;6;5;6;U/B;0
 Darth Vader, Unstoppable;LAW-011-C;Leader;Force/Imperial/Sith;7;6;8;R/B;0
-Darth Vader, Victor Squadron Leader;JTL-006-C;Leader;G/B;1
+Darth Vader, Victor Squadron Leader;JTL-006-C;Leader;Force/Imperial/Sith/Pilot;6;5;6;G/B;1
+# done through here
 Data Vault;JTL-024-R;Base;G;0
 Daughter of Dathomir;TWI-062-C;Ground Unit;U;3 # 1 hyperspace
 Death by Droids;TWI-076-U;Event;U;1
@@ -1968,3 +1968,13 @@ Gar Saxon, Coveting Power;ASH-047-R;Ground Unit;Mandalorian/Trooper;3;3;4;U/B;0
 Imperial Armored Commando;ASH-048-C;Ground Unit;Imperial/Trooper;4;4;3;U/B;0
 Shin Hati, Going Somewhere?;ASH-049-U;Ground Unit;Force;5;6;6;U/B;0
 Morgan Elsbeth, Life Abandoned;ASH-050-U;Ground Unit;Force/Night;6;5;6;U/B;0
+Reinforcing Light Cruiser;ASH-051-C;Space Unit;Imperial/Vehicle/Capital Ship;6;5;5;U/B;0
+Chimaera, A Frightening Reality;ASH-052-L;Space Unit;Imperial/Vehicle/Capital Ship;7;6;6;U/B;0
+Pre Vizsla, Strong-Willed Ruler;ASH-053-L;Ground Unit;Mandalorian/Official;8;6;6;U/B;0
+Pointless to Resist;ASH-054-U;Upgrade;Condition;1;0;0;U/B;0
+Blade of Talzin, A Gift of Shadows;ASH-055-R;Upgrade;Night/Item/Weapon;2;2;1;U/B;0
+Huyang, Your Aptitude Falls Short;ASH-056-U;Ground Unit;Jedi/Droid;2;2;4;W/U;0
+Lothal E-Wing;ASH-057-C;Space Unit;New Republic/Vehicle/Fighter;2;2;3;W/U;0
+Duchess's Protector;ASH-058-C;Ground Unit;Mandalorian;3;2;3;W/U;0
+Leia Organa, Vigilant for Danger;ASH-059-S;Ground Unit;Rebel/Official;3;3;4;W/U;0
+Cobb Vanth, Let Me Handle This;ASH-060-R;Ground Unit;Official;4;2;6;W/U;0

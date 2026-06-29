@@ -1144,6 +1144,7 @@ Froakie;Pokemon;Water;70;;Try Bouncing;OBF 56 (Common);G;4;0
 Cleffa;Pokemon;Psychic;30;;Grasping Draw;OBF 80 (Common)/OBF 202 (Illustration Rare)/SVP 37 (Promo)/PAF 150 (Shiny Rare);G;4;0
 Espeon;Pokemon;Psychic;110;;Psychic Assault|Psy Bolt;OBF 86 (Uncommon)/PRE 33 (Rare);G;4;0
 Charizard ex;Pokemon;Darkness;330;Infernal Reign;Burning Darkness;OBF 125 (Double Rare)/OBF 215 (Ultra Rare)/OBF 223 (Special Illustration Rare)/OBF 228 (Hyper Rare)/SVP 56 (Promo)/PAR 54 (Double Rare)/SVP 74 (Promo)/PAR 234 (Special Illustration Rare)/SVP 196 (Promo);G;4;0
+Umbreon;Pokemon;Darkness;110;;Feint Attack|Pitch-Black Blade;OBF 130 (Uncommon)/PRE 59 (Rare);G;4;0
 Pidgey;Pokemon;Colorless;60;;Gust;OBF 162 (Common)/OBF 207 (Illustration Rare);G;4;0
 Pidgeotto;Pokemon;Colorless;90;;Wing Attack;OBF 163 (Uncommon)/OBF 208 (Illustration Rare);G;4;0
 Pidgeot ex;Pokemon;Colorless;280;Quick Search;Blustery Wind;OBF 164 (Double Rare)/OBF 217 (Ultra Rare)/OBF 225 (Special Illustration Rare)/PAF 221 (Shiny Ultra Rare);G;4;0
@@ -1178,6 +1179,7 @@ Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Pr
 Gimmighoul;Pokemon;Psychic;50;;Call for Family|Corkscrew Punch;PAR 87 (Common);G;4;0
 Groudon;Pokemon;Fighting;130;;Swelling Power|Magma Purge;PAR 93 (Rare)/PAR 199 (Illustration Rare)/PRE 49 (Rare);G;4;0
 Hoopa ex;Pokemon;Fighting;220;;Energy Crush|Bandit's Fist;PAR 98 (Double Rare)/PAR 226 (Ultra Rare);G;4;0
+Sandy Shocks ex;Pokemon;Fighting;220;Magnetic Absorption;Earthen Spike;PAR 108 (Double Rare)/PAR 228 (Ultra Rare)/PAR 250 (Special Illustration Rare)/PRE 56 (Double Rare)/PRE 159 (Special Illustration Rare);G;4;0
 Brute Bonnet;Pokemon;Darkness;120;Toxic Powder;Rampaging Hammer;PAR 123 (Rare)/PAR 207 (Illustration Rare);G;4;0
 Roaring Moon ex;Pokemon;Darkness;230;;Frenzied Gouging|Calamity Storm;PAR 124 (Double Rare)/PAR 229 (Ultra Rare)/PAR 251 (Special Illustration Rare)/PAR 262 (Hyper Rare)/SVP 67 (Promo)/PRE 162 (Special Illustration Rare);G;4;0
 Gholdengo ex;Pokemon;Metal;260;Coin Bonus;Make It Rain;PAR 139 (Double Rare)/PAR 231 (Ultra Rare)/PAR 252 (Special Illustration Rare)/PRE 164 (Special Illustration Rare);G;4;0
@@ -1266,6 +1268,7 @@ Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illus
 Fezandipiti;Pokemon;Psychic;120;Adrena-Pheromone;Energy Feather;TWM 96 (Rare)/SFA 73 (Illustration Rare)/PRE 45 (Rare);H;4;0
 Conkeldurr;Pokemon;Fighting;180;;Tantrum|Gutsy Swing;TWM 105 (Uncommon);H;4;0
 Greninja ex;Pokemon;Fighting;310;;Shinobi Blade|Mirage Barrage;TWM 106 (Double Rare)/TWM 198 (Ultra Rare)/TWM 214 (Special Illustration Rare);H;4;0
+Okidogi;Pokemon;Fighting;130;Adrena-Power;Good Punch;TWM 111 (Rare)/SFA 74 (Illustration Rare)/PRE 57 (Rare);H;4;0
 Cornerstone Mask Ogerpon ex;Pokemon;Fighting;210;Cornerstone Stance;Demolish;TWM 112 (Double Rare)/TWM 199 (Ultra Rare)/TWM 215 (Special Illustration Rare)/PRE 58 (Double Rare)/PRE 160 (Special Illustration Rare);H;4;0
 Brute Bonnet;Pokemon;Darkness;120;;Poison Spray|Relentless Punches;TWM 118 (Uncommon);H;4;0
 Applin;Pokemon;Dragon;40;;Find a Friend|Rolling Tackle;TWM 126 (Common)/TWM 185 (Illustration Rare);H;4;0
@@ -1397,9 +1400,7 @@ Riolu;Pokemon;Fighting;70;;Quick Attack;PRE 50 (Common);H;4;0
 Lucario ex;Pokemon;Fighting;260;;Aura Uppercut|Tornado Rush;PRE 51 (Double Rare);H;4;0
 Hippopotas;Pokemon;Fighting;90;;Tackle;PRE 52 (Common);H;4;0
 Hippowdon;Pokemon;Fighting;150;;Sand Spray|Land Crush;PRE 53 (Common);H;4;0
-# PRE 55 done
-
-# PRE 58 done
+Umbreon ex;Pokemon;Darkness;280;;Moon Mirage|Onyx;PRE 60 (Double Rare)/PRE 161 (Special Illustration Rare)/SVP 176 (Promo);H;4;0
 
 # PRE 65 done
 
@@ -1432,7 +1433,7 @@ Max Rod;Trainer;Item;;;;PRE 116 (ACE SPEC Rare);H;2;0
 # PRE 131 last new card (not done)
 # PRE 144-150 done
 # PRE 152-156 done
-# PRE 160 done
+# PRE 159-161 done
 # PRE 162-169 done
 # PRE 171 done
 # PRE 174 done
