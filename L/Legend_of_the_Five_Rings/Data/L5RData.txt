@@ -3739,15 +3739,30 @@ Deception Revealed;Strategy;;Emperor Edition (Uncommon);Age of Conquest (Emperor
 Deception Revealed;Strategy;;The Plague War (Uncommon);Destroyer War (Celestial);3;0
 Deception's Veil Dojo;Stronghold;Scorpion;Samurai Edition (Fixed)/Promotional–Samurai (Promo);Race for the Throne (Samurai);1;0
 Decisive Strike;Strategy;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;0
+Declaration of War;Event;;Ambition's Debt (Uncommon);Hidden Emperor (Jade);1;0
+Decoy;Follower;;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
+Decoy;Follower;;Fire & Shadow (Rare);Hidden Emperor (Jade);1;0
+Decree of Peace;Event;;Celestial Edition (Uncommon);Destroyer War (Celestial);1;0
+Decree of Peace;Event;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);1;0
 Decree of the Hantei;Event;;Gates of Tengoku (Fixed);Shattered Empire;1;0
+Deeds and Words;Holding;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
+Deeds and Words;Holding;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Deeds and Words;Holding;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Deeds and Words;Holding;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Deeds and Words;Holding;;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
 Deeds of Honor;Strategy;;Rise of the Shogun (Common);Age of Enlightenment (Lotus);3;0
+Deeds of My Ancestors;Strategy;;Dawn of the Empire (Fixed);Age of Enlightenment (Lotus);3;0
+Deeds of My Ancestors;Strategy;;Dawn of the Empire (Fixed);Rain of Blood (Diamond);3;0
 Deeds, Not Words;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Deeds, Not Words;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
 Deeds, Not Words;Strategy;;The Dark Journey Home (Uncommon);Hidden Emperor (Jade);3;0
+Deep Earth Sanctum;Holding;;Dark Allies (Rare);Four Winds (Gold);1;0
+Deep Forest;Holding;;Honor Bound (Uncommon);Hidden Emperor (Jade);3;0
 Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
 Deep Harbor;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Deep Harbor;Holding;;Shattered Empire (Fixed);Shattered Empire;3;0
+Deep in Meditation;Strategy;;Broken Blades (Rare);Four Winds (Gold);3;0
 Deep Roots;Strategy;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);3;0
 Defeat the Reserves;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
 Defeated;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
@@ -7759,6 +7774,7 @@ The Desiccated;Follower;;Shattered Empire (Fixed);Shattered Empire;3;0
 The Desiccated;Follower;;The Truest Test (Common);Age of Enlightenment (Lotus);3;0
 The Desiccated;Follower;;The Truest Test (Common);Race for the Throne (Samurai);3;0
 The Die is Cast;Event;;Chaos Reigns III (Fixed);Shattered Empire;1;0
+The Doji Plains;Region;;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);3;0
 The Dreamer's Journal;Item;;Gates of Tengoku (Fixed);Shattered Empire;1;0
 The Egg of P'an Ku • Experienced;Item;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);1;0
 The Egg of P'an Ku • Experienced;Item;;Coils of Madness (Fixed);Age of Conquest (Emperor);1;1
@@ -7831,6 +7847,7 @@ The Future is Unwritten;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (
 The Future Looks Bleak;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
 The Game Begins;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 The Game Begins;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
+The Gates of Hida Castle;Holding;;Forbidden Knowledge (Rare);Clan Wars (Imperial);3;0
 The Golden Plains of the Unicorn;Stronghold;Unicorn;Ivory Edition (Fixed)/Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);1;0
 The Grand Halls of the Lion;Stronghold;Lion;Twenty Festivals (Fixed);A Brother's Destiny (Twenty Festivals);1;1
 The Gusai Estates;Holding;;Rise of Otosan Uchi (Fixed);Shattered Empire;1;0
@@ -8712,6 +8729,8 @@ Yama-no-Kami's Pyre;Spell;;Road to Ruin (Fixed);Shattered Empire;3;0
 Yama-no-Kami's Pyre;Spell;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Yamauba;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Yamauba;Follower;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Yamazaki;Spider;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
+Yamazaki;Spider;;Forgotten Legacy (Fixed);Destroyer War (Celestial);3;0
 Yamigatai;Item;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Yamigatai;Item;;Shattered Empire (Fixed);Shattered Empire;3;0
 Yaro;Personality;Toturi's Army;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
@@ -8886,9 +8905,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1910
-#1915
-#1917
+# Done through card #1920
 #1929
 #1937
 #1945
@@ -9505,6 +9522,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7998
 #8012
 #8028
+#8031
 #8042
 #8065-8066
 #8068
@@ -9514,6 +9532,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #8090
 #8092-8096
 #8098
+#8101
 #8126-8127
 #8143
 #8149-8150
@@ -9663,6 +9682,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9378
 #9380
 #9412-9414
+#9430
 #9434
 #9449
 #9454-9455
