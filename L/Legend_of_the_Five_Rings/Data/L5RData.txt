@@ -603,6 +603,8 @@ Akodo Yanagi;Personality;Lion;Glory of the Empire (Common);Destroyer War (Celest
 Akodo Yanagi;Personality;Lion;Glory of the Empire (Common);Race for the Throne (Samurai);3;0
 Akodo Yobi;Personality;Lion;Broken Blades (Uncommon);Four Winds (Gold);3;0
 Akodo Yobi;Personality;Lion;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Akodo Yuyama;Personality;Lion;The New Order (Common);A Brother's Destiny (Ivory Edition);3;0
+Akodo Yuyama;Personality;Lion;The New Order (Common);A Brother's Destiny (Twenty Festivals);3;0
 Akodo's "Leadership";Holding;;Honor Bound (Rare);Hidden Emperor (Jade);1;0
 Akodo's Grave;Holding;;Celestial Edition (Common)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
 Akodo's Grave;Holding;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
@@ -2503,6 +2505,7 @@ Charge;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Charter of the Crab Clan;Holding;;Jade Edition (Fixed);Hidden Emperor (Jade);1;0
 Charter of the Crane Clan;Holding;;Jade Edition (Fixed);Hidden Emperor (Jade);1;0
 Charter of the Dragon Clan;Holding;;Jade Edition (Fixed);Hidden Emperor (Jade);1;0
+Charter of the Legion of Two Thousand;Holding;;Promotional–Emperor (Promo);Legacy;3;0
 Charter of the Lion Clan;Holding;;Jade Edition (Fixed);Hidden Emperor (Jade);1;0
 Charter of the Mantis Clan;Holding;;Jade Edition (Fixed);Hidden Emperor (Jade);1;0
 Charter of the Phoenix Clan;Holding;;Jade Edition (Fixed);Hidden Emperor (Jade);1;0
@@ -3764,10 +3767,26 @@ Deep Harbor;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Deep Harbor;Holding;;Shattered Empire (Fixed);Shattered Empire;3;0
 Deep in Meditation;Strategy;;Broken Blades (Rare);Four Winds (Gold);3;0
 Deep Roots;Strategy;;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);3;0
+Deep Snows;Strategy;;Embers of War (Common);Age of Conquest (Emperor);3;0
+Defeat the Reserves;Strategy;;Fire & Shadow (Common);Hidden Emperor (Jade);3;0
 Defeat the Reserves;Strategy;;Gathering Storms (Fixed);Shattered Empire;3;0
+Defeat the Reserves;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Defeated;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
+Defend Your Honor;Strategy;;Gold Edition (Uncommon)/Promotional–Gold (Promo);Four Winds (Gold);3;0
+Defend Your Honor;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Age of Enlightenment (Lotus);3;0
+Defend Your Honor;Strategy;;Shadowlands (Common);Clan Wars (Imperial);3;0
+Defend Your Honor;Strategy;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Defend Your Master;Strategy;;Winds of Change (Uncommon);Four Winds (Gold);3;0
+Defend Your Master;Strategy;;Winds of Change (Uncommon);Rain of Blood (Diamond);3;0
+Defend Yourself!;Strategy;;Dark Allies (Uncommon);Four Winds (Gold);3;0
+Defender From Beyond;Spell;;Anvil of Despair (Uncommon);Clan Wars (Imperial);3;0
+Defenders of Nanashi;Follower;;The Plague War (Common);Destroyer War (Celestial);3;0
+Defenders of the Realm;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
+Defenders of the Realm;Strategy;;Scorpion Clan Coup 2 (Common);Clan Wars (Imperial);3;0
 Defenders of the Wall • Experienced;Follower;;Chaos Reigns II (Fixed);Shattered Empire;3;0
 Defenders of the Wall;Follower;;Soul of the Empire (Rare);Hidden Emperor (Jade);3;1
+Defending Their Home;Strategy;;Before the Dawn (Common);Age of Conquest (Emperor);3;0
+Defending Their Home;Strategy;;Before the Dawn (Common);Destroyer War (Celestial);3;0
 Defensive Blockade;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;2
 Defensive Fortification;Holding;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;2
 Defensive Fortification;Holding;;Evil Portents (Common);War of the Seals (Onyx Edition);3;0
@@ -8905,8 +8924,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1920
-#1929
+# Done through card #1930
 #1937
 #1945
 #1956
@@ -9714,7 +9732,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9926
 #9933
 #9945
-#9950
+#9950-9951
 #9974
 #9977
 #9989
@@ -9924,8 +9942,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #11880-11881
 #11883
 #11902
-#11904
-#11906
+#11904-11906
 #11908
 #11911
 #11919
