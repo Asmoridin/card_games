@@ -68,6 +68,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     'PRM - Magic: The Gathering | Teenage Mutant Ninja Turtles',
     'Magic: The Gathering | Teenage Mutant Ninja Turtles Commander',
     'Magic: The Gathering | Marvel Super Heroes Commander',
+    'Magic: The Gathering | Marvel Super Heroes Jumpstart',
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
