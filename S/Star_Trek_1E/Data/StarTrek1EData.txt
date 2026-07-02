@@ -1085,6 +1085,7 @@ Issue Secret Orders;Objective;;The Dominion;1437;;4;0
 It's Only a Game;Incident;;Rules of Acquisition/Referee Reprints;1438,3096;;4;0
 Ixtana'Rax;Personnel;Dominion;Blaze of Glory;1440;;2;0
 J'Ddan;Personnel;Klingon;Premiere/Coming of Age;205,5438,5998,6361,6724,7646;;4;0
+J'Onn;Personnel;Non-Aligned;The Motion Pictures;1474,7269;;2;0
 J. T. Esteban;Personnel;Federation;The Motion Pictures;1441,7265;;2;0
 Ja'rod;Personnel;Klingon;Introductory 2-Player Game/Homefront III;1454,4119;;2;0
 Jabara;Personnel;Bajoran;Deep Space 9;198;;4;0
@@ -1129,14 +1130,23 @@ Jo'Bril;Personnel;Non-Aligned;Premiere;1468,4072,6165,6528,6891,7813,8177;;2;0
 Joachim;Personnel;Non-Aligned;The Motion Pictures;1467,7267;;2;0
 Jodmos;Personnel;Klingon;Second Anthology/Virtual Promos;1469,5499;;2;0
 John Doe;Personnel;Non-Aligned;Q Continuum;1470;;2;0
+John Harriman;Personnel;Federation;The Motion Pictures/Virtual Promos;1471,4090,7268;;2;0
+John Watson;Personnel;Non-Aligned;Holodeck Adventures;1472;;2;0
 Jonathan Archer (Dramatis Personae);Personnel;Starfleet;Dramatis Personae;8395;8390;2;0
 Jonathan Archer (Dramatis Personae);Personnel;Xindi;Dramatis Personae;8390;8395;2;0
+Jonathan Archer;Personnel;Starfleet;Enterprise Collection;1473,5462;;2;0
+Jorik;Personnel;Hirogen;The Borg;1475;;2;0
 Joseph Carey;Personnel;Federation;Voyager;212;;4;0
 Joseph Travis;Personnel;Federation;First Contact;213;;4;0
+Jovis;Personnel;Non-Aligned;Rules of Acquisition/Virtual Promos;1476,5345;;2;0
+Julian Bashir;Personnel;Federation;Deep Space 9/Reflections;1477,3563;;2;0
+Juliana Tainer;Personnel;Federation;Q Continuum;1478;;2;0
 Jural;Personnel;Cardassian;Deep Space 9;214;;4;0
 K'chiQ;Personnel;Klingon;Q Continuum;227;;4;0
 K'Ehleyr;Personnel;Federation;Premiere;1506,6169,6532,6895,7817,8181;;2;1
 K'Tesh;Personnel;Klingon;Premiere;243,6003,6366,6729,7651;;4;0
+Kahless;Personnel;Klingon;Premiere/Reflections;1479,3614,6166,6529,6892,7814,8178;;2;0
+Kahlest;Personnel;Klingon;Q Continuum;1480;;2;0
 Kalita;Personnel;Non-Aligned;Deep Space 9;215,4444;;4;0
 Kallis Ven;Personnel;Bajoran;Deep Space 9;216;;4;0
 Kamok;Personnel;Klingon;The Borg;217;;4;0
@@ -1620,7 +1630,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1470
+# Done through card 1480
 #1488
 #1501
 #1506
@@ -1742,7 +1752,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3548-3549
 #3551-3554
 #3556-3561
-#3564-3569
+#3563-3569
 #3572-3574
 #3576
 #3578
@@ -1753,7 +1763,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3602-3603
 #3607
 #3609-3611
-#3613
+#3613-3614
 #3616-3617
 #3620-3628
 #3632
@@ -1791,7 +1801,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4070-4073
 #4074
 #4078-4083
-#4089
+#4089-4090
 #4092
 #4096-4097
 #4103
@@ -1891,12 +1901,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5262-5264
 #5267-5268
 #5271-5273
+#5345
 #5347
 #5429
 #5435-5438
 #5449
 #5351
-#5456-5461
+#5456-5462
 #5468
 #5493
 #5496
@@ -1935,8 +1946,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5908-5913
 #5916-5918
-#5966-6165
-#6167
+#5966-6167
 #6169
 #6171-6172
 #6174
@@ -1979,8 +1989,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6528
-#6530
+#6464-6530
 #6532
 #6534-6535
 #6537
@@ -2023,8 +2032,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6891
-#6893
+#6823-6893
 #6895
 #6897-6898
 #6900
@@ -2076,7 +2084,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173-7176
 #7179-7180
-#7182-7267
+#7182-7269
 #7277
 #7317-7318
 #7327-7330
@@ -2102,8 +2110,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7813
-#7815
+#7808-7815
 #7817
 #7819-7820
 #7822
@@ -2167,8 +2174,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8120-8126
 #8130-8157
 #8161-8170
-#8172-8177
-#8179
+#8172-8179
 #8181
 #8183-8184
 #8199
