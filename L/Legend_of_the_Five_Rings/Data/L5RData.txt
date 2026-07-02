@@ -3813,22 +3813,34 @@ Deftly Wielded;Strategy;;The Heaven's Will (Uncommon);Race for the Throne (Samur
 Delayed Arrival;Event;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 Delayed Arrival;Event;;The Imperial Gift 2 (Fixed);Destroyer War (Celestial);3;0
 Delayed Conflict;Strategy;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
+Delayed March;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;0
+Delaying Column;Strategy;;Rise of the Shogun (Common);Age of Enlightenment (Lotus);3;0
 Deliberations;Strategy;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;2
 Deliberations;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;0
+Delicate Calculations;Strategy;;Forbidden Knowledge (Common);Clan Wars (Imperial);3;0
+Delicate Calculations;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Delicate Gamble;Strategy;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
 Delicate Gamble;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;0
+Delicate Negotiation;Strategy;;Heaven & Earth (Common);Four Winds (Gold);3;0
+Delicate Negotiation;Strategy;;Heaven & Earth (Common);Rain of Blood (Diamond);3;0
 Delving into History;Spell;;Embers of War (Rare);Age of Conquest (Emperor);3;0
 Delving into History;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Delving into History;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
+Demand Obedience;Strategy;;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);3;0
+Demanding Gunso;Follower;;Hidden City (Uncommon);Rain of Blood (Diamond);3;0
+Demented Craftsman;Holding;;Words and Deeds (Uncommon);Race for the Throne (Samurai);3;0
 Demolisher;Item;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Demolisher;Item;;Shattered Empire (Fixed);Shattered Empire;3;0
 Demolisher;Item;;The New Order (Rare);A Brother's Destiny (Ivory Edition);3;0
 Demolisher;Item;;The New Order (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Demonic Possession;Strategy;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
+Demonic Possession;Strategy;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
 Demonstrate Loyalty;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Demonstrate Loyalty;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Demonstration of Skill;Strategy;;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Demoralizing Mobility;Strategy;;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Demoralizing Mobility;Strategy;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
+Den of Iniquity;Holding;;Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
 Den of Needful Things;Holding;;Chaos Reigns I (Fixed);Shattered Empire;3;0
 Deny the Horde;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Deny the Horde;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
@@ -4326,6 +4338,7 @@ For the Fallen;Strategy;;The Truest Test (Rare);Race for the Throne (Samurai);3;
 Force of Will;Spell;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Force of Will;Spell;;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
 Force of Will;Spell;;Shadowlands (Common);Clan Wars (Imperial);3;0
+Forced March;Strategy;;Shadowlands (Uncommon);Clan Wars (Imperial);3;0
 Foreboding Path;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Foreboding Path;Holding;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Forest;Holding;;Gold Edition (Common);Four Winds (Gold);3;0
@@ -6288,6 +6301,8 @@ Oni Familiar;Follower;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Fest
 Oni Familiar;Follower;;Evil Portents (Uncommon);War of the Seals (Onyx Edition);3;0
 Oni Horde;Follower;;Dark Allies (Uncommon);Four Winds (Gold);3;0
 Oni Horde;Follower;;Diamond Edition (Uncommon)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Oni no Akuma;Personality;Unaligned;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
+Oni no Akuma;Personality;Unaligned;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);1;0
 Oni no Gorusei;Personality;Unaligned;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
 Oni no Okura • Experienced 2;Personality;Lion;Soul of the Empire (Uncommon);Hidden Emperor (Jade);1;1
 Oni Podling;Follower;;Soul of the Empire (Rare);Hidden Emperor (Jade);3;2
@@ -8940,8 +8955,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #1940
-#1945
+# Done through card #1950
 #1956
 #1976
 #1979
@@ -9012,7 +9026,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2619
 #2633-2634
 #2639
-#2642
+#2641-2642
 #2658
 #2666
 #2687
@@ -9303,6 +9317,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5698
 #5709-5710
 #5725
+#5729
 #5733
 #5743
 #5750-5751
