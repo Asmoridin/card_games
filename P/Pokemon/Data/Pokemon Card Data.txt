@@ -1195,6 +1195,7 @@ Rika;Trainer;Supporter;;;;PAR 172 (Uncommon)/PAR 241 (Ultra Rare)/PAR 258 (Speci
 Technical Machine: Devolution;Trainer;Pokemon Tool;;;;PAR 177 (Uncommon);G;4;0
 Technical Machine: Evolution;Trainer;Pokemon Tool;;;;PAR 178 (Uncommon);G;4;0
 Technical Machine: Turbo Energize;Trainer;Pokemon Tool;;;;PAR 179 (Uncommon);G;4;0
+Techno Radar;Trainer;Item;;;;PAR 180 (Uncommon)/PRE 130 (Uncommon);G;4;0
 Tulip;Trainer;Supporter;;;;PAR 181 (Uncommon)/PAR 244 (Ultra Rare)/PAR 259 (Special Illustration Rare);G;4;0
 
 # Paldean Fates (PAF)
@@ -1287,6 +1288,7 @@ Jamming Tower;Trainer;Stadium;;;;TWM 153 (Uncommon)/DRI 243 (Hyper Rare)/ASC 261
 Kieran;Trainer;Supporter;;;;TWM 154 (Uncommon)/TWM 206 (Ultra Rare)/TWM 218 (Special Illustration Rare)/PRE 113 (Uncommon)/PRE 174 (Special Illustration Rare);H;4;0
 Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
 Ogre's Mask;Trainer;Item;;;;TWM 159 (Uncommon)/PRE 118 (Uncommon);H;4;0
+Scoop Up Cyclone;Trainer;Item;;;;Plasma Blast 95 (Rare Ace)/TWM 162 (ACE SPEC Rare)/PRE 128 (ACE SPEC Rare);H;2;0
 Secret Box;Trainer;Item;;;;TWM 163 (ACE SPEC Rare);H;2;0
 Unfair Stamp;Trainer;Item;;;;TWM 165 (ACE SPEC Rare);H;2;0
 Boomerang Energy;Energy;Special Energy;;;;TWM 166 (Uncommon);H;4;0
@@ -1431,11 +1433,10 @@ Friends in Paldea;Trainer;Supporter;;;;PRE 109 (Common)/PRE 137 (Ultra Rare);H;4
 Haban Berry;Trainer;Supporter;;;;PRE 111 (Common);H;4;0
 Larry's Skill;Trainer;Supporter;;;;PRE 115 (Common)/PRE 139 (Ultra Rare);H;4;0
 Max Rod;Trainer;Item;;;;PRE 116 (ACE SPEC Rare);H;2;0
-# PRE 119-126 done
-
-# PRE 129 done
-# PRE 131 last new card (not done)
+Roto-Stick;Trainer;Item;;;;PRE 127 (Common);H;4;0
+Treasure Tracker;Trainer;Item;;;;PRE 131 (ACE SPEC Rare);H;2;0
 # PRE 132 done
+
 # PRE 137 done
 # PRE 139 done
 # PRE 144-150 done
