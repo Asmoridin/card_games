@@ -16,7 +16,7 @@ valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
 card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
     "Shimmering Skies", "Azurite Sea", "Archazia's Island", "Reign of Jafar", 'Fabled',
-    'Whispers in the Well', 'Winterspell', 'Wilds Unknown']
+    'Whispers in the Well', 'Winterspell', 'Wilds Unknown', 'Attack of the Vine!']
 valid_rarities = ['Common', 'Uncommon', 'Rare', 'Super Rare', 'Legendary']
 
 def parse_sets(this_card_name, card_set_string):

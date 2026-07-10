@@ -877,7 +877,7 @@ if __name__ == "__main__":
     for print_format in FORMAT_LIST:
         double_print(f"{print_format[0]}: {100 * print_format[1]/print_format[2]:.2f}", out_file_h)
 
-    print(f"\nShould be {CHECK_AMOUNT} for {CHECK_SET}: {SET_CHECK}")
+    double_print(f"\nShould be {CHECK_AMOUNT} for {CHECK_SET}: {SET_CHECK}", out_file_h)
 
     double_print(f"\nFirst card needing a mana value is {FIRST_MANA_NEEDED_CARD}", out_file_h)
     MANA_DONE = MANA_CARDS_DONE/len(raw_list) * 100
