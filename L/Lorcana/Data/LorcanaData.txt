@@ -901,21 +901,21 @@ Jafar - Royal Vizier;Character;Steel;Storyborn/Villain/Sorcerer;Rise of the Floo
 Jafar - Striking Illusionist;Character;Amethyst;Floodborn/Villain/Sorcerer;Into the Inklands (Legendary);0
 Jafar - Tyrannical Hypnotist;Character;Steel;Dreamborn/Villain/Sorcerer;Shimmering Skies (Legendary);0
 Jafar - Wicked Sorcerer;Character;Amethyst;Dreamborn/Villain/Sorcerer;The First Chapter (Common);2
-# Traits done through here
-James - Role Model;Character;Sapphire;;Rise of the Floodborn (Common);0
-Jaq - Connoisseur of Climbing;Character;Emerald;;Ursula's Return (Common);0
-Jasmine - Desert Warrior;Character;Emerald;;Ursula's Return (Uncommon);0
-Jasmine - Disguised;Character;Sapphire;;The First Chapter (Common);3
-Jasmine - Fearless Princess;Character;Steel;;Fabled (Rare);0
-Jasmine - Heir of Agrabah;Character;Sapphire;;Rise of the Floodborn (Common)/Fabled (Common);3
-Jasmine - Inspired Researcher;Character;Sapphire/Steel;;Archazia's Island (Rare);0
-Jasmine - Queen of Agrabah;Character;Sapphire;;The First Chapter (Rare);0
-Jasmine - Rebellious Princess;Character;Ruby;;Azurite Sea (Uncommon);0
-Jasmine - Resourceful Infiltrator;Character;Sapphire;;Reign of Jafar (Common);1
-Jasmine - Royal Commodore;Character;Emerald;;Azurite Sea (Legendary);0
-Jasmine - Royal Seafarer;Character;Emerald;;Azurite Sea (Rare);0
+James - Role Model;Character;Sapphire;Storyborn/Mentor;Rise of the Floodborn (Common);0
+Jaq - Connoisseur of Climbing;Character;Emerald;Storyborn/Ally;Ursula's Return (Common);0
+Jasmine - Desert Warrior;Character;Emerald;Dreamborn/Hero/Princess;Ursula's Return (Uncommon);0
+Jasmine - Disguised;Character;Sapphire;Storyborn/Princess;The First Chapter (Common);3
+Jasmine - Fearless Princess;Character;Steel;Storyborn/Hero/Princess;Fabled (Rare);0
+Jasmine - Heir of Agrabah;Character;Sapphire;Storyborn/Hero/Princess;Rise of the Floodborn (Common)/Fabled (Common);3
+Jasmine - Inspired Researcher;Character;Sapphire/Steel;Storyborn/Hero/Princess;Archazia's Island (Rare);0
+Jasmine - Queen of Agrabah;Character;Sapphire;Floodborn/Hero/Princess/Queen;The First Chapter (Rare);0
+Jasmine - Rebellious Princess;Character;Ruby;Storyborn/Hero/Princess;Azurite Sea (Uncommon);0
+Jasmine - Resourceful Infiltrator;Character;Sapphire;Storyborn/Hero/Princess;Reign of Jafar (Common);1
+Jasmine - Royal Commodore;Character;Emerald;Floodborn/Hero/Princess;Azurite Sea (Legendary);0
+Jasmine - Royal Seafarer;Character;Emerald;Storyborn/Hero/Princess;Azurite Sea (Rare);0
 Jasmine - Soothing Princess;Character;Sapphire;Storyborn/Hero/Princess/Whisper;Whispers in the Well (Uncommon);1
-Jasmine - Steady Strategist;Character;Sapphire/Steel;;Reign of Jafar (Super Rare);1
+Jasmine - Steady Strategist;Character;Sapphire/Steel;Floodborn/Hero/Princess;Reign of Jafar (Super Rare);1
+# Traits done through here
 Jasper - Common Crook;Character;Emerald;;The First Chapter (Uncommon);4
 Jebidiah Farnsworth - Cookie;Character;Ruby;Dreamborn/Ally;Wilds Unknown (Uncommon);0
 Jebidiah Farnsworth - Expedition Cook;Character;Sapphire;;Archazia's Island (Uncommon);4
@@ -2303,3 +2303,13 @@ Pocahontas & Meeko - Adventurous Friends;Character;Amber/Amethyst;Storyborn/Team
 Woody & Buzz Lightyear - Best Buddies;Character;Amber/Emerald;Storyborn/Team/Hero/Toy/Captain;Attack of the Vine! (Legendary);0
 Sulley & Boo - Scare Buddies;Character;Amber/Ruby;Storyborn/Team/Hero/Monster;Attack of the Vine! (Super Rare);0
 The Madrigal Family - Every Generation;Character;Amber/Sapphire;Storyborn/Team/Madrigal;Attack of the Vine! (Rare);0
+Lilo & Stitch - Fun‐Loving Friends;Character;Amber/Steel;Storyborn/Team/Hero/Alien;Attack of the Vine! (Super Rare);0
+If I Didn't Have You;Action;Amber;Song;Attack of the Vine! (Common);0
+I'm Never Not by Your Side;Action;Amber;Song;Attack of the Vine! (Uncommon);0
+Besties, Assemble!;Action;Amber;;Attack of the Vine! (Common);0
+Nobody Like U;Action;Amber;Song;Attack of the Vine! (Rare);0
+Powhatan's Staff;Item;Amber;;Attack of the Vine! (Uncommon);0
+Rapunzel's Tower - Taken by the Vine;Location;Amber;;Attack of the Vine! (Uncommon);0
+Fflewddur Fflam - Luckless Bard;Character;Amethyst;Storyborn/Ally;Attack of the Vine! (Common);0
+Maleficent - Exultant Spellcaster;Character;Amethyst;Storyborn/Villain/Sorcerer;Attack of the Vine! (Common);0
+Winnie the Pooh - Hunny Archmage;Character;Amethyst;Dreamborn/Hero/Sorcerer/Hunny;Attack of the Vine! (Common);0
