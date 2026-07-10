@@ -1193,9 +1193,17 @@ Keldon Advanced;Ship;Cardassian;The Dominion/Borderless Promos;230,3580,5604;;4;
 Keldon;Ship;Cardassian;Blaze of Glory;229;;4;0
 Kell;Personnel;Klingon;Premiere;1510,6170,6533,6896,7818,8182;;2;0
 Kelvan Show of Force;Dilemma;Dual;Mirror, Mirror;1511;;4;1
+Keogh;Personnel;Federation;The Dominion;1512,4432;;2;0
+Keras;Personnel;Romulan;The Trouble with Tribbles;1513;;2;0
 Kered;Personnel;Klingon;The Trouble with Tribbles;231;;4;0
 Kes (Dramatis Personae);Personnel;Vidiian;Dramatis Personae;8388;;2;0
+Kes (The Borg);Personnel;Non-Aligned;The Borg;1515;;2;0
+Kes;Personnel;Federation;Voyager;1516;1514;2;0
+Kes;Personnel;Non-Aligned;Voyager;1514;1516;2;0
+Ketracel-White;Equipment;;The Dominion/Virtual Promos;1517,4962;;4;0
+Kevin Uxbridge: Convergence;Interrupt;;Alternate Universe/Introductory 2-Player Game;1519,7177;;4;0
 Kevin Uxbridge;Interrupt;;Premiere;1518,5649,6171,6534,6897,7819,8183;;4;0
+Khan;Personnel;Non-Aligned;The Motion Pictures/Virtual Promos;1520,4252,7271;;2;0
 Khazara;Ship;Romulan;Premiere;1521,3627,6172,6535,6898,7820,8184;;2;1
 Kira Nerys (Dramatis Personae);Personnel;Bajoran;Dramatis Personae;8391;8379;2;0
 Kira Nerys (Dramatis Personae);Personnel;Dominion;Dramatis Personae;8379;8391;2;0
@@ -1658,9 +1666,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1510
-#1511
-#1518
+# Done through card 1520
 #1521
 #1530
 #1549
@@ -1840,6 +1846,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4129
 #4186
 #4195
+#4252
 #4255
 #4259
 #4265-4266
@@ -1857,7 +1864,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4406-4416
 #4418
 #4420-4425
-#4427-4431
+#4427-4432
 #4434-4436
 #4438
 #4442-4444
@@ -1914,6 +1921,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4948
 #4954
 #4960
+#4962
 #4964-4965
 #4967
 #5049-5050
@@ -2104,9 +2112,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7159
 #7164-7165
 #7168-7170
-#7173-7176
+#7173-7177
 #7179-7180
-#7182-7270
+#7182-7271
 #7277
 #7317-7319
 #7327-7330
