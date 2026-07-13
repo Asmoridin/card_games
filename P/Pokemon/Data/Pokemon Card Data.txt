@@ -1414,7 +1414,12 @@ Lacey;Trainer;Supporter;;;;SCR 139 (Uncommon)/SCR 166 (Ultra Rare)/SCR 172 (Spec
 Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE SPEC Rare);H;2;0
 
 # Surging Sparks
+Exeggcute;Pokemon;Grass;30;;Precocious Evolution;SSP 1 (Common)/SSP 192 (Illustration Rare);H;4;0
+Exeggcute;Pokemon;Grass;50;;Absorb;SSP 2 (Common);H;4;0
+Exeggutor;Pokemon;Grass;130;;Barrage O'Clock;SSP 3 (Uncommon);H;4;0
 Durant ex;Pokemon;Grass;190;Sudden Shearing;Vengeful Crush;SSP 4 (Double Rare)/SSP 215 (Ultra Rare)/SSP 236 (Special Illustration Rare);H;4;0
+Scatterbug;Pokemon;Grass;40;;Call for Family;SSP 5 (Common);H;4;0
+
 Rellor;Pokemon;Grass;40;;Collect|Rollout;SSP 13 (Common)/DRI 24 (Common);H;4;0
 Victini;Pokemon;Fire;70;Victory Cheer;Flare;SSP 21 (Uncommon);H;4;0
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
@@ -1425,7 +1430,7 @@ Togepi;Pokemon;Psychic;50;;Pound;SSP 70 (Common)/ASC 80 (Common);H;4;0
 Togetic;Pokemon;Psychic;90;;Draining Kiss;SSP 71 (Common)/ASC 81 (Common);H;4;0
 Togekiss;Pokemon;Psychic;140;Wonder Kiss;Speed Wing;SSP 72 (Rare)/ASC 82 (Rare)/ASC 235 (Illustration Rare);H;4;0
 Latias ex;Pokemon;Psychic;210;Skyliner;Eon Blade;SSP 76 (Double Rare)/SSP 220 (Ultra Rare)/SSP 239 (Special Illustration Rare);H;4;0
-Sylveon ex;Pokemon;Psychic;270;;Magical Charm|Angelite;SSP 86 (Double Rare)/SSP 41 (Double Rare)/PRE 156 (Special Illustration Rare);H;4;0
+Sylveon ex;Pokemon;Psychic;270;;Magical Charm|Angelite;SSP 86 (Double Rare)/PRE 41 (Double Rare)/PRE 156 (Special Illustration Rare);H;4;0
 Dedenne;Pokemon;Psychic;70;;Electromagnetic Sonar|Gnaw;SSP 87 (Common);H;4;0
 Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
 Annihilape;Pokemon;Fighting;140;;Tantrum|Destined Fight;SSP 100 (Uncommon);H;4;0
@@ -1446,3 +1451,24 @@ Precious Trolley;Trainer;Item;;;;SSP 185 (ACE SPEC Rare);H;1;0
 Surfer;Trainer;Supporter;;;;SSP 187 (Uncommon)/SSP 235 (Ultra Rare)/ASC 200 (Common)/ASC 293 (Special Illustration Rare);H;4;0
 Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
+
+# SSP 191 last new card (done)
+# SSP 192 done
+# SSP 252 last card (done)
+
+# Pitch Black (PBL)
+Tropius;Pokemon;Grass;110;;Fruity Aroma|Solar Beam;PBL 1 (Common);J;4;0
+Grubbin;Pokemon;Grass;70;;String Shot;PBL 2 (Common);J;4;0
+Fomantis;Pokemon;Grass;70;;Reckless Charge;PBL 3 (Common)/PBL 85 (Illustration Rare);J;4;0
+Lurantis ex;Pokemon;Grass;260;;Lively Cutter|Leaf Guard;PBL 4 (Double Rare)/PBL 96 (Ultra Rare);J;4;0
+Poltchageist;Pokemon;Grass;30;Hide 'n' Sneak;Furtive Drop;PBL 5 (Common);J;4;0
+Sinistcha;Pokemon;Grass;60;Hide 'n' Sneak;Matcha Spin;PBL 6 (Uncommon);J;4;0
+Heatran;Pokemon;Fire;140;;Singe|Lava Wall;PBL 7 (Uncommon);J;4;0
+Mega Delphox ex;Pokemon;Fire;350;;Trick Portal|Eerie Glow;PBL 8 (Double Rare);J;4;0
+Sizzlipede;Pokemon;Fire;80;;Controlled Burn|Bug Out;PBL 9 (Common);J;4;0
+Centiskorch;Pokemon;Fire;140;;Controlled Burn|Heat Tackle;PBL 10 (Common);J;4;0
+
+# PBL 84 last new card (not done)
+# PBL 85 done
+# PBL 96 done
+# PBL 120 last card (not done)
