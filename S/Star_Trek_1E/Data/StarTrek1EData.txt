@@ -1218,9 +1218,20 @@ Kira;Personnel;Federation;Identity Crisis;3064;1525,3052;2;0
 Kitrik;Personnel;Klingon;Q Continuum;1528;;2;0
 Kivas Fajo - Collector;Event;;Premiere/Virtual Promos;1530,4597,5639,6174,6537,6900,7822;;4;2 # Have 2 PREM
 Kivas Fajo;Personnel;Non-Aligned;Fajo Collection/Virtual Promos;1529,5346;;2;0
+Klaa;Personnel;Klingon;The Motion Pictures;1531,7272;;2;0
+Klaestron Outpost;Facility;Cardassian;Identity Crisis;3065;1532;4;0
+Klaestron Outpost;Facility;Federation;Deep Space 9;1532;3065;4;0
 Klag;Personnel;Klingon;Premiere;232,6000,6363,6726;;4;0
 Kle'eg;Personnel;Klingon;Premiere;233,6727,7649,6001,6364;;4;0
+Klim Dokachin;Event;;Alternate Universe;1533;;4;0
+Klingon Civil War;Event;;Q Continuum;1534;;4;0
+Klingon Death Yell;Interrupt;;Premiere/Reflections/Coming of Age;1535,3601,5423,6175,6538,6901,7823,8187;;4;0
+Klingon Disruptor Rifle;Equipment;;Blaze of Glory;1537;;4;0
+Klingon Disruptor;Equipment;;Premiere;1536,6176,6539,6902,7824,8188;;4;0
 Klingon Empire Outpost;Facility;Klingon;Mirror, Mirror/Homefront VI;234,4704;;4;0
+Klingon Outpost;Facility;Klingon;Premiere/Homefront VI/Trouble with Tribbles Starter Decks;1538,4051,4705,6177,6540,6903,7141,7825,8189;;4;0
+Klingon PADD;Equipment;;Premiere;1539,6178,6541,6904,7826,8190;;4;0
+Klingon Painstik;Interrupt;;Q Continuum;1540;;4;0
 Komal;Personnel;Klingon;The Motion Pictures;235,7190;;4;0
 Komar Possession;Dilemma;Dual;Voyager;1549;;4;1
 Konuric;Personnel;Hirogen;The Borg;236;;4;0
@@ -1676,7 +1687,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1530
+# Done through card 1540
 #1549
 #1574
 #1579
@@ -1763,7 +1774,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2611
 #3045
 #3047-3052
-#3064
+#3064-3065
 #3067-3068
 #3079-3080
 #3082-3083
@@ -1798,8 +1809,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3580-3584
 #3587-3589
 #3592-3594
-#3600
-#3602-3603
+#3600-3603
 #3607
 #3609-3614
 #3616-3617
@@ -1831,8 +1841,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3937
 #4039-4041
 #4047
-#4049-4050
-#4052-4056
+#4049-4056
 #4059-4060
 #4062-4063
 #4066
@@ -1895,8 +1904,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4677-4680
 #4689
 #4691-4692
-#4695-4704
-#4706-4707
+#4695-4707
 #4711
 #4713
 #4721
@@ -1945,6 +1953,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5267-5268
 #5271-5273
 #5345-5347
+#5423
 #5429
 #5435-5438
 #5449
@@ -1988,7 +1997,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5908-5913
 #5916-5918
-#5966-6174
+#5966-6178
 #6187
 #6189
 #6192
@@ -2028,7 +2037,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6323
 #6325
 #6328-6460
-#6464-6537
+#6464-6541
 #6550
 #6552
 #6555
@@ -2068,7 +2077,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6900
+#6823-6904
 #6913
 #6915
 #6918
@@ -2109,7 +2118,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7054-7058
 #7060
 #7063-7071
-#7098-7140
+#7098-7141
 #7145-7149
 #7152
 #7159
@@ -2117,7 +2126,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7168-7170
 #7173-7177
 #7179-7180
-#7182-7271
+#7182-7272
 #7277
 #7317-7319
 #7327-7330
@@ -2143,7 +2152,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7822
+#7808-7826
 #7835
 #7837
 #7840
@@ -2205,6 +2214,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8130-8157
 #8161-8170
 #8172-8185
+#8187-8190
 #8199
 #8201
 #8204
