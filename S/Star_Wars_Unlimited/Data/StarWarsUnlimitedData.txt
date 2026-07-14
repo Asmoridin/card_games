@@ -454,17 +454,17 @@ Darth Vader, Scourge of Squadrons;JTL-142-L;Ground Unit;Force/Imperial/Sith/Pilo
 Darth Vader, Twilight of the Apprentice;LOF-037-L;Ground Unit;Force/Imperial/Sith;U/B;0
 Darth Vader, Unstoppable;LAW-011-C;Leader;Force/Imperial/Sith;R/B;0
 Darth Vader, Victor Squadron Leader;JTL-006-C;Leader;Force/Imperial/Sith/Pilot;G/B;1
+Data Vault;JTL-024-R;Base;Scarif;G;0
+Daughter of Dathomir;TWI-062-C;Ground Unit;Force/Night;U;3 # 1 hyperspace
+Death by Droids;TWI-076-U;Event;Tactic;U;1
+Death Field;LOF-141-R;Event;Force;R/B;1
+Death Mark;SHD-176-C;Upgrade;Bounty/Condition;R;3
+Death Space Skirmisher;JTL-217-C;Space Unit;Underworld/Vehicle/Fighter;Y;3
+Death Squadron Star Destroyer;IBH-079-S/IBH-098-S;Space Unit;Imperial/Vehicle/Capital Ship;U/B;0
+Death Star Plans;JTL-260-L;Upgrade;Item;N;0
+Death Star Stormtrooper;SOR-128-C;Ground Unit;Imperial/Trooper;R/B;3 # 1 foil
+Death Trooper;SOR-033-C/SHD-030-S/SEC-030-C;Ground Unit;Imperial/Trooper;U/B;3 # 1 foil
 # done through here
-Data Vault;JTL-024-R;Base;G;0
-Daughter of Dathomir;TWI-062-C;Ground Unit;U;3 # 1 hyperspace
-Death by Droids;TWI-076-U;Event;U;1
-Death Field;LOF-141-R;Event;R/B;1
-Death Mark;SHD-176-C;Upgrade;R;3
-Death Space Skirmisher;JTL-217-C;Space Unit;Y;3
-Death Squadron Star Destroyer;IBH-079-S/IBH-098-S;Space Unit;U/B;0
-Death Star Plans;JTL-260-L;Upgrade;N;0
-Death Star Stormtrooper;SOR-128-C;Ground Unit;R/B;3 # 1 foil
-Death Trooper;SOR-033-C/SHD-030-S/SEC-030-C;Ground Unit;U/B;3 # 1 foil
 Death Watch Hideout;SHD-023-C;Base;R;1 # 1 hyperspace
 Death Watch Loyalist;SHD-136-C;Ground Unit;R/B;3 # 1 foil
 Deceptive Shade;LOF-180-R;Ground Unit;Y/B;1
@@ -1988,3 +1988,13 @@ Get Lost;ASH-067-U;Event;Tactic;W/U;0
 Domesticated Loth-Cat;ASH-068-U;Ground Unit;Creature;U;0
 Noti Nomad;ASH-069-C;Ground Unit;Fringe;U;0
 At Attin Safety Droid;ASH-070-R;Ground Unit;Republic/Droid;U;0
+Battered Haulcraft;ASH-071-C;Space Unit;Vehicle/Transport;U;0
+Doctor Pershing, Dedicated to Research;ASH-072-U;Ground Unit;New Republic;U;0
+Palace Chef Droid;ASH-073-C;Ground Unit;Underworld/Droid;U;0
+Mos Eisley Modifier;ASH-074-U;Ground Unit;Fringe;U;0
+Pit Droid Team;ASH-075-C;Ground Unit;Droid;U;0
+Remnant Official;ASH-076-C;Ground Unit;Imperial/Official;U;0
+Ryder Azadi, Restored Governor;ASH-077-R;Ground Unit;New Republic/Official;U;0
+B-Wing Rearguard;ASH-078-C;Space Unit;Rebel/Vehicle/Fighter;U;0
+Koska Reeves, Warrior of Mandalore;ASH-079-R;Ground Unit;Mandalorian;U;0
+Covert Believers;ASH-080-C;Ground Unit;Mandalorian;U;0
