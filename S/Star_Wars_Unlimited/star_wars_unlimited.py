@@ -221,17 +221,10 @@ for line in lines:
     if len(line_vals) == 5:
         card_name, card_set_info, card_type, card_colors, card_owned = line_vals
     elif len(line_vals) == 6:
-        card_name, card_set_info, card_type, card_colors, card_owned, temp_max = line_vals
-        CARD_MAX = int(temp_max)
+        card_name, card_set_info, card_type, card_traits, card_colors, card_owned = line_vals
     elif len(line_vals) == 7:
-        card_name, card_set_info, card_type, card_traits, card_cost, card_colors, \
-            card_owned = line_vals
-    elif len(line_vals) == 9:
-        card_name, card_set_info, card_type, card_traits, card_cost, card_atk, card_hp, \
-            card_colors, card_owned = line_vals
-    elif len(line_vals) == 10:
-        card_name, card_set_info, card_type, card_traits, card_cost, card_atk, card_hp, \
-            card_colors, card_owned, temp_max = line_vals
+        card_name, card_set_info, card_type, card_traits, card_colors, card_owned, \
+            temp_max = line_vals
         CARD_MAX = int(temp_max)
     else:
         print("Following line isn't formatted correctly:")
