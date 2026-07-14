@@ -346,7 +346,11 @@ def get_categories(in_lines):
     ret_dict = {}
     for cat_line in in_lines:
         cat_line = cat_line.strip()
-        cmdr, category = cat_line.split(';')
+        try:
+            cmdr, category = cat_line.split(';')
+        except ValueError:
+            print(f"Invalid line format: {cat_line}")
+            continue
         if category in ['Fallout', 'Sonic the Hedgehog', 'Street Fighter', 'The Walking Dead',]:
             category = 'Other'
         if category not in ret_dict:
