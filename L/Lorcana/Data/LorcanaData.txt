@@ -935,19 +935,19 @@ Jiminy Cricket - Ghost of Christmas Past;Character;Sapphire;Storyborn/Ally/Ghost
 Jiminy Cricket - Pinocchio's Conscience;Character;Amethyst;Storyborn/Mentor;Rise of the Floodborn (Common);0
 Jingle Joe - Sid's Toy;Character;Ruby;Storyborn/Ally/Toy;Wilds Unknown (Common);1
 Jock - Attentive Uncle;Character;Emerald;Storyborn/Ally;Reign of Jafar (Common);1
-# Traits done through here
-Joey - Blue Pigeon;Character;Amber;;Reign of Jafar (Common);2
-John Darling - Sophisticated Swordsman;Character;Ruby;;Azurite Sea (Uncommon);1
-John Silver - Alien Pirate;Character;Emerald;;The First Chapter (Legendary)/Fabled (Legendary);0
-John Silver - Ferocious Friend;Character;Ruby;;Azurite Sea (Uncommon);0
-John Silver - Greedy Treasure Seeker;Character;Steel;;Into the Inklands (Rare)/Fabled (Rare);0
-John Silver - Ship's Cook;Character;Steel;;Azurite Sea (Common);1
-John Silver - Stern Captain;Character;Steel;;Azurite Sea (Legendary);0
-John Silver - Terror of the Realm;Character;Sapphire;;Ursula's Return (Uncommon);0
-John Silver - Vengeful Pirate;Character;Emerald/Steel;;Archazia's Island (Rare);0
+Joey - Blue Pigeon;Character;Amber;Storyborn;Reign of Jafar (Common);2
+John Darling - Sophisticated Swordsman;Character;Ruby;Storyborn/Ally/Pirate;Azurite Sea (Uncommon);1
+John Silver - Alien Pirate;Character;Emerald;Storyborn/Villain/Alien/Pirate/Captain;The First Chapter (Legendary)/Fabled (Legendary);0
+John Silver - Ferocious Friend;Character;Ruby;Storyborn/Villain/Alien/Pirate/Captain;Azurite Sea (Uncommon);0
+John Silver - Greedy Treasure Seeker;Character;Steel;Dreamborn/Villain/Alien/Pirate/Captain;Into the Inklands (Rare)/Fabled (Rare);0
+John Silver - Ship's Cook;Character;Steel;Storyborn/Villain/Alien/Pirate/Captain;Azurite Sea (Common);1
+John Silver - Stern Captain;Character;Steel;Floodborn/Villain/Alien/Pirate/Captain;Azurite Sea (Legendary);0
+John Silver - Terror of the Realm;Character;Sapphire;Dreamborn/Villain/Alien/Pirate/Captain;Ursula's Return (Uncommon);0
+John Silver - Vengeful Pirate;Character;Emerald/Steel;Storyborn/Villain/Alien/Pirate/Captain;Archazia's Island (Rare);0
 John Smith - Skillful Explorer;Character;Steel;Storyborn/Hero;Wilds Unknown (Rare);0
 John Smith - Snow Tracker;Character;Amber;Storyborn/Hero;Winterspell (Uncommon);1
 John Smith - Undaunted Protector;Character;Steel;Dreamborn/Hero;Winterspell (Super Rare);1
+# Traits done through here
 John Smith's Compass;Item;Amber;;Winterspell (Rare);0
 Jolly Roger - Hook's Ship;Location;Ruby;;Into the Inklands (Uncommon);0
 Joshua Sweet - Field Surgeon;Character;Emerald;Storyborn/Ally;Wilds Unknown (Common);0
@@ -2333,3 +2333,13 @@ Morph - Little Imitator;Character;Amethyst;Storyborn/Ally/Alien;Attack of the Vi
 Peter Pan - Playful Prankster;Character;Amethyst;Storyborn/Hero;Attack of the Vine! (Common);0
 Aladdin & Genie - Mischievous Pals;Character;Amethyst/Emerald;Storyborn/Team/Hero;Attack of the Vine! (Super Rare);0
 Peter Pan & Tinker Bell - Fast Friends;Character;Amethyst/Ruby;Storyborn/Team/Hero/Fairy;Attack of the Vine! (Super Rare);0
+Christopher Robin - Hunny Sage;Character;Amethyst/Sapphire;Dreamborn/Hero/Hunny;Attack of the Vine! (Legendary);0
+Winnie the Pooh & Piglet - Hunny Mages;Character;Amethyst/Sapphire;Dreamborn/Team/Hero/Sorcerer/Hunny;Attack of the Vine! (Super Rare);0
+Maleficent & Diablo - Evil Incarnate;Character;Amethyst/Steel;Storyborn/Team/Villain/Sorcerer;Attack of the Vine! (Rare);0
+You've Got Some Punch;Action;Amethyst;Song;Attack of the Vine! (Common);0
+With a Few Good Friends;Action;Amethyst;Song;Attack of the Vine! (Rare);0
+Petrify;Action;Amethyst;;Attack of the Vine! (Common);0
+One and Only;Action;Amethyst;;Attack of the Vine! (Uncommon);0
+Protective Aura;Action;Amethyst;;Attack of the Vine! (Uncommon);0
+Narrow Escape;Action;Amethyst;;Attack of the Vine! (Common);0
+Broken Pod;Item;Amethyst;;Attack of the Vine! (Uncommon);0
