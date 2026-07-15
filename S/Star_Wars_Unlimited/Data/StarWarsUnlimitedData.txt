@@ -464,17 +464,17 @@ Death Squadron Star Destroyer;IBH-079-S/IBH-098-S;Space Unit;Imperial/Vehicle/Ca
 Death Star Plans;JTL-260-L;Upgrade;Item;N;0
 Death Star Stormtrooper;SOR-128-C;Ground Unit;Imperial/Trooper;R/B;3 # 1 foil
 Death Trooper;SOR-033-C/SHD-030-S/SEC-030-C;Ground Unit;Imperial/Trooper;U/B;3 # 1 foil
-# done through here
-Death Watch Hideout;SHD-023-C;Base;R;1 # 1 hyperspace
-Death Watch Loyalist;SHD-136-C;Ground Unit;R/B;3 # 1 foil
-Deceptive Shade;LOF-180-R;Ground Unit;Y/B;1
-Decimator of Dissidents;JTL-138-U;Space Unit;R/B;0
-Dedicated Wingmen;JTL-254-C;Event;W;2
-Dedra Meero, Not Wasting Time;SEC-010-C;Leader;R/B;1 # 1 hyperspace
-Dedra Meero, With Verifiable Data;SEC-087-U;Ground Unit;G/B;3
-Defense Fleet X-Wing;SEC-060-C;Space Unit;U;3
+Death Watch Hideout;SHD-023-C;Base;Concordia;R;1 # 1 hyperspace
+Death Watch Loyalist;SHD-136-C;Ground Unit;Mandalorian/Trooper;R/B;3 # 1 foil
+Deceptive Shade;LOF-180-R;Ground Unit;Sith/Undead;Y/B;1
+Decimator of Dissidents;JTL-138-U;Space Unit;Imperial/Vehicle/Transport;R/B;0
+Dedicated Wingmen;JTL-254-C;Event;Supply;W;2
+Dedra Meero, Not Wasting Time;SEC-010-C;Leader;Imperial/Official;R/B;1 # 1 hyperspace
+Dedra Meero, With Verifiable Data;SEC-087-U;Ground Unit;Imperial/Official;G/B;3
+Defense Fleet X-Wing;SEC-060-C;Space Unit;New Republic/Vehicle/Fighter;U;3
 Defiant Hammerhead;LAW-062-U;Space Unit;Rebel/Vehicle/Capital Ship;G/R;0
 Defiant Scrapper;LAW-106-C;Ground Unit;Fringe;U/W;0
+# done through here
 Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;3
 Dendup's Loyalist;TWI-159-C;Ground Unit;R;3
 Dengar, Crude and Slovenly;JTL-139-U;Ground Unit;R/B;3
@@ -1918,7 +1918,6 @@ Zygerrian Starhopper;JTL-183-C;Space Unit;Y/B;3 # 1 foil
 "Staccato Lightning" Repeater;LAW-187-U;Upgrade;Item/Weapon;R/W;0
 Grogu, Charming Companion;ASH-018-R/MV26-1-R;Leader;Force;Y/W;1
 Razor Crest, Outfitted Armament;MV26-2-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
-** END **
 The Armorer, Steel Shapes Us;ASH-001-R;Leader;Mandalorian;G/U;0
 Fennec Shand, Ready for War;ASH-002-R;Leader;Underworld;R/Y;0
 Baylan Skoll, Power Beyond Dream;ASH-003-C;Leader;Force;B/U;0
@@ -1998,3 +1997,14 @@ Ryder Azadi, Restored Governor;ASH-077-R;Ground Unit;New Republic/Official;U;0
 B-Wing Rearguard;ASH-078-C;Space Unit;Rebel/Vehicle/Fighter;U;0
 Koska Reeves, Warrior of Mandalore;ASH-079-R;Ground Unit;Mandalorian;U;0
 Covert Believers;ASH-080-C;Ground Unit;Mandalorian;U;0
+Nebulon-C Frigate;ASH-081-C;Space Unit;New Republic/Vehicle/Capital Ship;U;0
+Trexler Armored Marauder;ASH-082-C;Ground Unit;Imperial/Vehicle/Tank;U;0
+Summa-verminoth;ASH-083-L;Space Unit;Creature;U;0
+Arcana Star Map, Path to Peridea;ASH-084-L;Upgrade;Item;U;0
+Grav Charge;ASH-085;U;Upgrade;Condition/Item/Weapon;U;0
+Durasteel Plating;ASH-086-C;Upgrade;Armor;U;0
+Cybernetic Enhancements;ASH-087-C;Upgrade;Modification;U;0
+The Conflict Within;Upgrade;ASH-088-U;Upgrade;Condition;U;0
+Perseverance;ASH-089-C;Event;Innate;U;0
+Reforge;ASH-090-R;Event;Supply;U;0
+** END **
