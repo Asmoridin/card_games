@@ -947,17 +947,17 @@ John Silver - Vengeful Pirate;Character;Emerald/Steel;Storyborn/Villain/Alien/Pi
 John Smith - Skillful Explorer;Character;Steel;Storyborn/Hero;Wilds Unknown (Rare);0
 John Smith - Snow Tracker;Character;Amber;Storyborn/Hero;Winterspell (Uncommon);1
 John Smith - Undaunted Protector;Character;Steel;Dreamborn/Hero;Winterspell (Super Rare);1
-# Traits done through here
 John Smith's Compass;Item;Amber;;Winterspell (Rare);0
 Jolly Roger - Hook's Ship;Location;Ruby;;Into the Inklands (Uncommon);0
 Joshua Sweet - Field Surgeon;Character;Emerald;Storyborn/Ally;Wilds Unknown (Common);0
-Joshua Sweet - The Doctor;Character;Amber;;Into the Inklands (Common);0
+Joshua Sweet - The Doctor;Character;Amber;Storyborn/Ally;Into the Inklands (Common);0
 Judy Hopps - Lead Detective;Character;Sapphire;Floodborn/Hero/Detective;Whispers in the Well (Rare);1
-Judy Hopps - On the Case;Character;Sapphire;;Whispers in the Well (Uncommon);0
-Judy Hopps - Optimistic Officer;Character;Sapphire;;Rise of the Floodborn (Uncommon)/Fabled (Uncommon);1
-Judy Hopps - Resourceful Rabbit;Character;Amber;;Azurite Sea (Rare);0
+Judy Hopps - On the Case;Character;Sapphire;Storyborn/Hero/Detective;Whispers in the Well (Uncommon);0
+Judy Hopps - Optimistic Officer;Character;Sapphire;Storyborn/Hero;Rise of the Floodborn (Uncommon)/Fabled (Uncommon);1
+Judy Hopps - Resourceful Rabbit;Character;Amber;Storyborn/Hero;Azurite Sea (Rare);0
 Judy Hopps - Snowball Patrol;Character;Steel;Dreamborn/Hero/Detective;Winterspell (Uncommon);0
 Judy Hopps - Uncovering Clues;Character;Sapphire;Storyborn/Hero/Detective;Whispers in the Well (Super Rare);1
+# Traits done through here
 Juju - Mama Odie's Companion;Character;Amethyst;;Azurite Sea (Common);0
 Julieta Madrigal - Caring Baker;Character;Amber;Dreamborn/Mentor/Madrigal;Wilds Unknown (Common);0
 Julieta Madrigal - Excellent Cook;Character;Amber;;Ursula's Return (Uncommon)/Fabled (Uncommon);4
@@ -2343,3 +2343,13 @@ One and Only;Action;Amethyst;;Attack of the Vine! (Uncommon);0
 Protective Aura;Action;Amethyst;;Attack of the Vine! (Uncommon);0
 Narrow Escape;Action;Amethyst;;Attack of the Vine! (Common);0
 Broken Pod;Item;Amethyst;;Attack of the Vine! (Uncommon);0
+Magical Hunny Staff;Item;Amethyst;;Attack of the Vine! (Rare);0
+Source of the Vine;Item;Amethyst;;Attack of the Vine! (Super Rare);0
+Ring of Stones - Taken by the Vine;Location;Amethyst;;Attack of the Vine! (Rare);0
+Carl Fredricksen - Loving Husband;Character;Emerald;Storyborn/Hero;Attack of the Vine! (Uncommon);0
+Ellie Fredricksen - Loving Wife;Character;Emerald;Storyborn/Ally;Attack of the Vine! (Common);0
+Buzz Lightyear - Grounded;Character;Emerald;Storyborn/Hero/Toy/Captain;Attack of the Vine! (Common);0
+Buzz Lightyear - Providing Cover;Character;Emerald;Storyborn/Hero/Toy/Captain;Attack of the Vine! (Rare);0
+Gopher - Hunny Cook;Character;Emerald;Dreamborn/Ally/Hunny;Attack of the Vine! (Rare);0
+Russell - Senior Wilderness Explorer;Character;Emerald;Floodborn/Hero;Attack of the Vine! (Super Rare);0
+Rapunzel - Tower Defender;Character;Emerald;Storyborn/Hero/Princess;Attack of the Vine! (Common);0
