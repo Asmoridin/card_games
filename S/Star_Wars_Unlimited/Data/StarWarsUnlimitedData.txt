@@ -1638,7 +1638,7 @@ Supreme Leader Snoke, Shadow Ruler;SHD-037-L;Ground Unit;U/B;1
 Surface Assault Bomber;IBH-078-S/IBH-093-S/IBH-094-S;Space Unit;R/B;0
 Surprise Strike;SOR-220-C/SHD-231-C;Event;Y;3
 Survivors' Gauntlet;SHD-064-R;Space Unit;U;3 # 1 hyperfoil
-Swarming Vulture Droid;JTL-256-C;Space Unit;N;8;15 # 1 foil
+Swarming Vulture Droid;JTL-256-C;Space Unit;Separatist/Droid/Vehicle/Fighter;N;8;15 # 1 foil
 Sweep the Area;JTL-233-U;Event;Y;1
 Swoop Bike Marauder;LAW-107-C;Ground Unit;Underworld;U/W;0
 Swoop Down;SHD-230-R;Event;Y;0
@@ -1942,7 +1942,7 @@ Kryze Castle;ASH-022-C;Base;Kalevala;G;0
 Ancient Henge;ASH-023-C;Base;Seatos;R;0
 DragonSnake Bog;ASH-024-C;Base;Dagobah;R;0
 Emperor's Observatory;ASH-025-C;Base;Pillio;Y;0
-Freetown;ASH-026-Y;Base;Tatooine;Y;0
+Freetown;ASH-026-C;Base;Tatooine;Y;0
 Enoch, Solemn Servant;ASH-027-R;Ground Unit;Imperial/Trooper;U/G/B;0
 Paz Vizsla, For a Brighter Future;ASH-028-R;Ground Unit;Mandalorian;U/G/W;0
 Scorpenek Annihilator Droid;ASH-029-U;Ground Unit;Underworld/Droid;U/G;0
@@ -1955,7 +1955,7 @@ Tatooine Repulsor Train;ASH-035-U;Ground Unit;Underworld/Vehicle/Speeder;G/R;0
 Rukh, From the Shadows;ASH-036-R;Ground Unit;Imperial;G/Y/B;0
 Red Leader, Strike the Reactor;ASH-037-R;Space Unit;Rebel/Vehicle/Figher;G/Y/W;0
 Purrgil Ultra;ASH-038-U;Space Unit;Creature;G/Y;0
-Baylan Skoll, Fallen Jedi;ASH-039-R;Gruond Unit;Force;R/Y/B;0
+Baylan Skoll, Fallen Jedi;ASH-039-R;Ground Unit;Force;R/Y/B;0
 Poe Dameron, I'll Come Back For You;ASH-040-R;Ground Unit;Resistance;R/Y/W;0
 Outcast, Mercenary Starship;ASH-041-U;Space Unit;Underworld/Vehicle/Transport;R/Y;0
 Jabba the Hutt, Eminence of Tatooine;ASH-042-R;Ground Unit;Underworld/Hutt;Y/U/B;0
@@ -2001,10 +2001,10 @@ Nebulon-C Frigate;ASH-081-C;Space Unit;New Republic/Vehicle/Capital Ship;U;0
 Trexler Armored Marauder;ASH-082-C;Ground Unit;Imperial/Vehicle/Tank;U;0
 Summa-verminoth;ASH-083-L;Space Unit;Creature;U;0
 Arcana Star Map, Path to Peridea;ASH-084-L;Upgrade;Item;U;0
-Grav Charge;ASH-085;U;Upgrade;Condition/Item/Weapon;U;0
+Grav Charge;ASH-085-U;Upgrade;Condition/Item/Weapon;U;0
 Durasteel Plating;ASH-086-C;Upgrade;Armor;U;0
 Cybernetic Enhancements;ASH-087-C;Upgrade;Modification;U;0
-The Conflict Within;Upgrade;ASH-088-U;Upgrade;Condition;U;0
+The Conflict Within;ASH-088-U;Upgrade;Condition;U;0
 Perseverance;ASH-089-C;Event;Innate;U;0
 Reforge;ASH-090-R;Event;Supply;U;0
 ** END **

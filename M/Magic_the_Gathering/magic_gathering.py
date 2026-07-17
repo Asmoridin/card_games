@@ -351,7 +351,8 @@ def get_categories(in_lines):
         except ValueError:
             print(f"Invalid line format: {cat_line}")
             continue
-        if category in ['Fallout', 'Sonic the Hedgehog', 'Street Fighter', 'The Walking Dead',]:
+        if category in ['Fallout', 'Sonic the Hedgehog', 'Street Fighter', 'Walking Dead',
+                'Playstation', 'Doctor Who', 'Transformers']:
             category = 'Other'
         if category not in ret_dict:
             ret_dict[category] = set()
@@ -536,9 +537,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'New Phyrexia'
-CHECK_AMOUNT = 175
-SET_CHECK += 5 # Extra basic lands
+CHECK_SET = 'Magic: The Gathering-Commander'
+CHECK_AMOUNT = 320
+SET_CHECK += 15 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0
