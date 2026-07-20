@@ -1429,6 +1429,11 @@ Capsakid;Pokemon;Grass;70;;Headbutt Bounce;SSP 12 (Common);H;4;0
 Rellor;Pokemon;Grass;40;;Collect|Rollout;SSP 13 (Common)/DRI 24 (Common);H;4;0
 Rabsca;Pokemon;Grass;70;;Triple Draw|Counterturn;SSP 14 (Rare);H;4;0
 Wo-Chien;Pokemon;Grass;130;;Hazardous Greed|Entangling Whip;SSP 15 (Uncommon);H;4;0
+Vulpix;Pokemon;Fire;70;;Take Down;SSP 16 (Common);H;4;0
+Ninetales;Pokemon;Fire;120;;Fire Soul;SSP 17 (Uncommon);H;4;0
+Paldean Tauros;Pokemon;Fire;130;;Rear Kick|Spirited Tackle;SSP 18 (Uncommon);H;4;0
+Ho-Oh;Pokemon;Fire;130;;Flap|Shining Blaze;SSP 19 (Uncommon);H;4;0
+Castform Sunny Form;Pokemon;Fire;70;;Singe|Sunny Assist;SSP 20 (Common)/SSP 195 (Illustration Rare);H;4;0
 
 Victini;Pokemon;Fire;70;Victory Cheer;Flare;SSP 21 (Uncommon);H;4;0
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
@@ -1462,7 +1467,7 @@ Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # SSP 191 last new card (done)
-# SSP 192-194 done
+# SSP 192-195 done
 # SSP 215 done
 # SSP 219-220 done
 # SSP 224 done
@@ -1516,9 +1521,19 @@ Lampent;Pokemon;Psychic;90;;Spreading Light;PBL 37 (Uncommon);J;4;0
 Mega Chandelure ex;Pokemon;Psychic;350;Binding Flame;Phantom Maze;PBL 38 (Double Rare)/PBL 99 (Ultra Rare)/PBL 115 (Special Illustration Rare);J;4;0
 Dhelmise;Pokemon;Psychic;140;;Vengeful Anchor;PBL 39 (Uncommon)/PBL 91 (Illustration Rare)/MEP 84 (Promo);J;4;0
 Marshadow;Pokemon;Psychic;90;;Shadowy Knot;PBL 40 (Uncommon);J;4;0
+Annihilape;Pokemon;Psychic;150;Durable Body;Ghostly Blow;PBL 41 (Uncommon);J;4;0
+Mankey;Pokemon;Fighting;50;;Low Kick;PBL 42 (Common);J;4;0
+Primeape;Pokemon;Fighting;110;;Corkscrew Punch;PBL 43 (Common);J;4;0
+Cranidos;Pokemon;Fighting;100;;Push Down;PBL 44 (Common);J;4;0
+Rampardos ex;Pokemon;Fighting;330;Destructive Headbutting;Rowdy Hammer;PBL 45 (Double Rare)/PBL 100 (Ultra Rare);J;4;0
+Drilbur;Pokemon;Fighting;70;;Call for Family|Dig Claws;PBL 46 (Common);J;4;0
+Koraidon;Pokemon;Fighting;130;;Battle Claw|Gaia Impact;PBL 47 (Rare);J;4;0
+Mega Darkrai ex;Pokemon;Darkness;280;;Dusk Raid|Abyss Eye;PBL 48 (Double Rare)/PBL 101 (Ultra Rare)/PBL 116 (Special Illustration Rare)/PBL 120 (Mega Hyper Rare)/MEP 90 (Promo);J;4;0
+Vullaby;Pokemon;Darkness;70;;Flap|Gust;PBL 49 (Common);J;4;0
+Mandibuzz;Pokemon;Darkness;120;;Bone Sniper|Blasting Wind;PBL 50 (Common);J;4;0
 
 # PBL 84 last new card (not done)
 # PBL 85-91 done
-# PBL 96-99 done
-# PBL 114-115 done
-# PBL 120 last card (not done)
+# PBL 96-101 done
+# PBL 114-116 done
+# PBL 120 last card (done)
