@@ -4043,18 +4043,27 @@ Distant Keep;Holding;;Web of Lies (Uncommon);Rain of Blood (Diamond);3;0
 Distracted Sentries;Holding;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;0
 Distracted Sentries;Holding;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Distractions in Court;Strategy;;Empire at War (Rare);Destroyer War (Celestial);3;0
+Distractions of the Flesh;Strategy;;Time of the Void (Common);Clan Wars (Imperial);3;0
+District Governor;Holding;;Promotional–Lotus (Promo);Age of Enlightenment (Lotus);3;0
+District Governor;Holding;;Promotional–Lotus (Promo);Race for the Throne (Samurai);3;0
 Disturbing Message;Strategy;;Chaos Reigns I (Fixed);Shattered Empire;3;0
 Diversionary Tactics;Strategy;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Diversionary Tactics;Strategy;;Forbidden Knowledge (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;1
 Diversionary Tactics;Strategy;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
 Diversionary Tactics;Strategy;;Jade Edition (Common)/Pearl Edition (Common)/Storms Over Matsu Palace (Fixed)/Top Deck Booster Pack (Fixed);Hidden Emperor (Jade);3;0
+Diverting the Reserves;Strategy;;Words and Deeds (Uncommon);Race for the Throne (Samurai);3;0
+Divide and Conquer;Strategy;;Wrath of the Emperor (Uncommon);Rain of Blood (Diamond);3;0
 Divide Into Ash;Spell;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;3
 Divide Into Ash;Spell;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
+Divided Loyalties;Strategy;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;0
 Divination Bowl;Item;;Gates of Chaos (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Divination Bowl;Item;;Gates of Chaos (Uncommon);Age of Conquest (Emperor);3;0
 Divination Bowl;Item;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Divination Bowl;Item;;Shattered Empire (Fixed);Shattered Empire;3;0
+Divine the Future;Spell;;Crimson and Jade (Uncommon);Clan Wars (Imperial);3;0
+Divining Pool;Holding;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
 Divinitory Pool;Holding;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;2
+Djahab;Personality;Scorpion;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
 Do Not Delay!;Strategy;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Do Not Delay!;Strategy;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;2
 Do Not Turn Your Back!;Strategy;;The Imperial Gift 2 (Fixed);Destroyer War (Celestial);1;0
@@ -4255,6 +4264,8 @@ Eternally Unyielding;Spell;;Evil Portents (Common);A Brother's Destiny (Twenty F
 Eternally Unyielding;Spell;;Evil Portents (Common);War of the Seals (Onyx Edition);3;2
 Evasion;Strategy;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Evasion;Strategy;;Evil Portents (Uncommon);War of the Seals (Onyx Edition);3;2
+Evil Feeds Upon Itself;Event;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);1;0
+Evil Feeds Upon Itself;Event;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);1;0
 Evil Portents;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;1
 Expert Archers;Follower;;Hidden City (Common);Rain of Blood (Diamond);3;0
 Expert Archers;Follower;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
@@ -5914,6 +5925,7 @@ Matsu Gohei;Personality;Lion;Obsidian Edition (Common)/Imperial Edition (Common)
 Matsu Gonshiro, Soul of Matsu Shimei;Personality;Lion;Shattered Empire (Fixed);Shattered Empire;3;0
 Matsu Hachiro • Experienced;Personality;Lion;The New Order (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Matsu Hachiro • Experienced;Personality;Lion;The New Order (Uncommon);A Brother's Destiny (Twenty Festivals);3;3
+Matsu Hachiro;Personality;Lion;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Matsu Hanshiro;Personality;Lion;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Matsu Hyun • Experienced;Personality;Lion;Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Matsu Iairimi • Experienced;Personality;Lion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -6588,6 +6600,7 @@ Plains of the Emerald Champion;Region;;Scorpion Clan Coup 3 (Common);Clan Wars (
 Plains of Whispered Melancholy;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
 Planned Departure;Strategy;;A Line in the Sand (Common)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Planned Departure;Strategy;;A Line in the Sand (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+Plea of the Peasants;Strategy;;Shadowlands (Uncommon);Clan Wars (Imperial);3;0
 Poetry Contest;Event;;An Oni's Fury (Rare);Four Winds (Gold);1;1
 Poetry Contest;Event;;Diamond Edition (Fixed);Rain of Blood (Diamond);1;0
 Poisoned Weapon • Experienced;Strategy;;Chaos Reigns III (Fixed);Shattered Empire;3;0
@@ -9116,9 +9129,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #2040
-#2043
-#2049
+# Done through card #2050
 #2052
 #2058
 #2063
@@ -9149,7 +9160,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2353
 #2355
 #2385
-#2395
+#2394-2395
 #2412
 #2415
 #2429-2430
@@ -9392,6 +9403,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4903
 #4906
 #4913
+#4915
 #4929
 #4931
 #4938
@@ -9506,6 +9518,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5976
 #5979
 #5981
+#5986
 #5990
 #6001
 #6010
