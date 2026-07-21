@@ -474,17 +474,17 @@ Dedra Meero, With Verifiable Data;SEC-087-U;Ground Unit;Imperial/Official;G/B;3
 Defense Fleet X-Wing;SEC-060-C;Space Unit;New Republic/Vehicle/Fighter;U;3
 Defiant Hammerhead;LAW-062-U;Space Unit;Rebel/Vehicle/Capital Ship;G/R;0
 Defiant Scrapper;LAW-106-C;Ground Unit;Fringe;U/W;0
-# done through here
-Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;3
-Dendup's Loyalist;TWI-159-C;Ground Unit;R;3
-Dengar, Crude and Slovenly;JTL-139-U;Ground Unit;R/B;3
+Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;Imperial/Trooper;U/B;3
+Dendup's Loyalist;TWI-159-C;Ground Unit;Fringe/TrooperR;3
+Dengar, Crude and Slovenly;JTL-139-U;Ground Unit;Underworld/Bounty Hunter/Pilot;R/B;3
 Dengar, Take Your Shot;LAW-053-U;Ground Unit;Underworld/Bounty Hunter;G/R/B;0
-Dengar, The Demolisher;SHD-133-U;Ground Unit;R/B;3
-Depa Billaba, A Higher Purpose;LOF-199-U;Ground Unit;Y/W;3 # 1 hyperfoil
+Dengar, The Demolisher;SHD-133-U;Ground Unit;Underworld/Bounty Hunter;R/B;3
+Depa Billaba, A Higher Purpose;LOF-199-U;Ground Unit;Force/Jedi/Republic;Y/W;3 # 1 hyperfoil
 Deployed Droideka;TS26-77-C;Ground Unit;Separatist/Droid;Y;0
-Desperado Freighter;SHD-152-C;Space Unit;R/W;3 # 2 foil, 1 hyperspace
-Desperate Attack;SHD-179-C;Event;R;3
-Desperate Commando;JTL-060-C;Ground Unit;U;2
+Desperado Freighter;SHD-152-C;Space Unit;Underworld/Vehicle/Transport;R/W;3 # 2 foil, 1 hyperspace
+Desperate Attack;SHD-179-C;Event;Tactic;R;3
+Desperate Commando;JTL-060-C;Ground Unit;Resistance/Trooper;U;2
+# done through here
 Detention Block Rescue;SHD-180-C;Event;R;3
 Determined Recruit;JTL-159-C;Ground Unit;R;3 # 1 hyperspace, 1 foil
 Devaronian Doorbuster;LAW-070-C;Ground Unit;Underworld;G/Y;0
@@ -1917,7 +1917,6 @@ Zuckuss, The Findsman;LOF-204-L;Ground Unit;Y;0
 Zygerrian Starhopper;JTL-183-C;Space Unit;Y/B;3 # 1 foil
 "Staccato Lightning" Repeater;LAW-187-U;Upgrade;Item/Weapon;R/W;0
 Grogu, Charming Companion;ASH-018-R/MV26-1-R;Leader;Force;Y/W;1
-Razor Crest, Outfitted Armament;MV26-2-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 The Armorer, Steel Shapes Us;ASH-001-R;Leader;Mandalorian;G/U;0
 Fennec Shand, Ready for War;ASH-002-R;Leader;Underworld;R/Y;0
 Baylan Skoll, Power Beyond Dream;ASH-003-C;Leader;Force;B/U;0
@@ -2007,4 +2006,16 @@ Cybernetic Enhancements;ASH-087-C;Upgrade;Modification;U;0
 The Conflict Within;ASH-088-U;Upgrade;Condition;U;0
 Perseverance;ASH-089-C;Event;Innate;U;0
 Reforge;ASH-090-R;Event;Supply;U;0
+Buy Time;ASH-091-C;Event;Tactic;U;0
+Foundling Rescue;ASH-092-C;Event;Plan;U;0
+Captain Pellaeon, Plotting from the Shadows;ASH-093-U;Ground  Unit;Imperial/Official;G/B;0
+Moff Jerjerrod, We Shall Redouble Our Efforts;ASH-094-S;Ground Unit;Imperial/Official;G/B;0
+Remnant Interceptor;ASH-095-C;Space Unit;Imperial/Vehicle/Fighter;G/B;0
+Forest Patroller;ASH-096-C;Ground Unit;Imperial/Trooper;G/B;0
+Moff Gideon, Remnant Commander;ASH-097-U;Ground Unit;Imperial/Official;G/B;0
+AT-ST Raider;ASH-098-C;Ground Unit;Vehicle/Walker;G/B;0
+Gozanti Assault Carrier;ASH-099-U;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
+Gallius Rax, Counselor to the Empire;ASH-100-L;Ground Unit;Imperial/Official;G/B;0
+
+Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 ** END **
