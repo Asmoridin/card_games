@@ -4081,7 +4081,19 @@ Doji Armor;Item;;Celestial Edition (Rare)/Celestial Edition 15th Anniversary (Ra
 Doji Armor;Item;;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;0
 Doji Asano;Personality;Crane;Hidden City (Common);Rain of Blood (Diamond);3;0
 Doji Atsumichi;Personality;Crane;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
+Doji Ayano • Experienced;Personality;Crane;Celestial Edition (Rare);Destroyer War (Celestial);1;0
+Doji Ayano • Experienced;Personality;Crane;Words and Deeds (Rare);Race for the Throne (Samurai);1;0
+Doji Ayano;Personality;Crane;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
+Doji Ayano;Personality;Crane;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
 Doji Benku;Personality;Crane;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Doji Bukita;Personality;Crane;Path of the Destroyer (Rare);Destroyer War (Celestial);3;0
+Doji Chieri;Personality;Crane;Drums of War (Common);Age of Enlightenment (Lotus);3;0
+Doji Chitose;Personality;Crane;Words and Deeds (Uncommon);Race for the Throne (Samurai);3;0
+Doji Chomei • Experienced;Personality;Crane/Mantis;Fire & Shadow (Rare);Hidden Emperor (Jade);1;0
+Doji Chomei;Personality;Crane/Mantis;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
+Doji Chomei;Personality;Crane/Mantis;Time of the Void (Common);Clan Wars (Imperial);3;0
+Doji Choshi;Personality;Crane;Enemy of My Enemy (Uncommon);Age of Enlightenment (Lotus);3;0
+Doji Choshi;Personality;Crane;Enemy of My Enemy (Uncommon);Rain of Blood (Diamond);3;0
 Doji Dainagon;Personality;Crane;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Doji Dainagon;Personality;Crane;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;3
 Doji Dainagon;Personality;Crane;Second City (Common)/Emperor Edition Demo Decks (Fixed);Destroyer War (Celestial);3;0
@@ -4223,6 +4235,7 @@ Embrace the Mountain;Strategy;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Embrace the Mountain;Strategy;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Emerald Guard;Follower;;Evil Portents (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Emerald Guard;Follower;;Evil Portents (Rare);War of the Seals (Onyx Edition);3;1
+Emergence of the Tortoise;Event;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
 Emperor's Peace;Event;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);1;1
 Emperor's Peace;Event;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);1;0
 Empty Crevasse;Holding;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
@@ -5116,6 +5129,7 @@ Imperial Gift;Event;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edi
 Imperial Gift;Event;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);1;0
 Imperial Gift;Event;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Imperial Gift;Event;;Shattered Empire (Fixed);Shattered Empire;1;0
+Imperial Levying;Event;;Shadowlands (Rare);Clan Wars (Imperial);1;0
 Imperial Reinforcements;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Imperial Reinforcements;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
 Imperial Summons;Strategy;;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
@@ -5203,6 +5217,8 @@ Invocation;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;2
 Inward Focus;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Irasshai;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Irasshai;Strategy;;The Blackest Storm (Fixed);War of the Seals (Onyx Edition);3;0
+Iris Festival;Event;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
+Iris Festival;Event;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);1;0
 Iron Crane Sensei;Sensei;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 Iron Defenders;Follower;;Broken Blades (Uncommon);Four Winds (Gold);3;0
 Iron Defenders;Follower;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;1
@@ -7045,6 +7061,8 @@ Sardara;Personality;Naga;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;
 Sardara;Personality;Naga;Shattered Empire (Fixed);Shattered Empire;3;0
 Sarpal;Personality;Naga;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Sasada, Pearl Champion • Experienced;Personality;Mantis;Gates of Tengoku (Fixed);Shattered Empire;1;0
+Satoshi's Dual Warfans;Item;;Second City (Uncommon);Age of Conquest (Emperor);3;0
+Satoshi's Dual Warfans;Item;;Second City (Uncommon);Destroyer War (Celestial);3;0
 Satyabir;Personality;Naga;Rise of Otosan Uchi (Fixed);Shattered Empire;3;0
 Satyabir;Personality;Naga;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx Edition);3;0
 Savagery of Moto;Strategy;;Web of Lies (Common);Age of Enlightenment (Lotus);3;0
@@ -9138,9 +9156,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #2060
-#2063
-#2070
+# Done through card #2070
 #2114-2115
 #2123
 #2130
@@ -9159,6 +9175,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2289
 #2297
 #2305
+#2319
 #2325
 #2329
 #2332
@@ -9295,6 +9312,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3636
 #3650
 #3694
+#3701
 #3710
 #3713
 #3730
@@ -9305,7 +9323,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3775
 #3785-3788
 #3792-3793
-#3802
+#3801-3802
 #3807-3809
 #3841
 #3859
@@ -9597,6 +9615,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6470-6471
 #6473
 #6475
+#6481
 #6485
 #6489
 #6493
