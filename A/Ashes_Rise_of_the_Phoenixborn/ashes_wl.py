@@ -21,7 +21,7 @@ all_phoenixborn = ['Aradel Summergaard', 'Astrea', 'Brennen Blackcloud', 'Coal R
     'Lulu Firststone', 'Maeoni Viper', 'Namine Hymntide', 'Noah Redmoon', 'Odette Diamondcrest',
     'Orrick Gilstream', 'Rimea Careworn', 'Rin Northfell', 'Rowan Umberend', 'Saria Guideman',
     'Sembali Grimtongue', 'Tristan Darkwater', 'Victoria Glassfire', 'Xander Heartsblood',
-    'Jerico Kill', 'Arren Frostpeak', 'Issa Brightmore',
+    'Jerico Kill', 'Arren Frostpeak', 'Issa Brightmore', 'Kanna Galeheart', 'Maeve Luminvale',
 ]
 
 double_print("Ashes: Rise of the Phoenixborn Win-Loss Tracker and deck selector", out_file_h)
