@@ -484,17 +484,17 @@ Deployed Droideka;TS26-77-C;Ground Unit;Separatist/Droid;Y;0
 Desperado Freighter;SHD-152-C;Space Unit;Underworld/Vehicle/Transport;R/W;3 # 2 foil, 1 hyperspace
 Desperate Attack;SHD-179-C;Event;Tactic;R;3
 Desperate Commando;JTL-060-C;Ground Unit;Resistance/Trooper;U;2
-# done through here
-Detention Block Rescue;SHD-180-C;Event;R;3
-Determined Recruit;JTL-159-C;Ground Unit;R;3 # 1 hyperspace, 1 foil
+Detention Block Rescue;SHD-180-C;Event;Gambit;R;3
+Determined Recruit;JTL-159-C;Ground Unit;Resistance/Pilot;R;3 # 1 hyperspace, 1 foil
 Devaronian Doorbuster;LAW-070-C;Ground Unit;Underworld;G/Y;0
-Devastating Gunship;TWI-036-C;Space Unit;B/U;3
-Devastator, Hunting the Rebellion;JTL-143-L;Space Unit;R/B;0
-Devastator, Inescapable;SOR-090-L;Space Unit;G/B;1
-Devotion;SOR-070-U;Upgrade;U;2 # 1 foil
-Dhani Pilgrim;SEC-055-C;Ground Unit;U;3
-Dilapidated Ski Speeder;JTL-248-C;Ground Unit;W;2
-Diplomatic Envoy;SEC-109-C;Space Unit;G;3 # 1 hyperspace
+Devastating Gunship;TWI-036-C;Space Unit;Separatist/Droid/Vehicle/Transport;B/U;3
+Devastator, Hunting the Rebellion;JTL-143-L;Space Unit;Imperial/Vehicle/Capital Ship;R/B;0
+Devastator, Inescapable;SOR-090-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;1
+Devotion;SOR-070-U;Upgrade;Innate;U;2 # 1 foil
+Dhani Pilgrim;SEC-055-C;Ground Unit;Fringe;U;3
+Dilapidated Ski Speeder;JTL-248-C;Ground Unit;Resistance/Vehicle/Speeder;W;2
+Diplomatic Envoy;SEC-109-C;Space Unit;Republic/Vehicle/Transport;G;3 # 1 hyperspace
+# done through here
 Diplomatic Immunity;SEC-052-U;Upgrade;U/W;2
 Direct Hit;JTL-078-C;Event;U;3 # 1 foil
 Directed by the Force;LOF-123-U;Event;G;2
@@ -2016,6 +2016,16 @@ Moff Gideon, Remnant Commander;ASH-097-U;Ground Unit;Imperial/Official;G/B;0
 AT-ST Raider;ASH-098-C;Ground Unit;Vehicle/Walker;G/B;0
 Gozanti Assault Carrier;ASH-099-U;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
 Gallius Rax, Counselor to the Empire;ASH-100-L;Ground Unit;Imperial/Official;G/B;0
+The Great Mothers, With Strange Magicks;ASH-101-R;Ground Unit;Force/Night;G/B;0
+Ravager, Final Imperial Command;ASH-102-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
+Long Live the Empire;ASH-103-U;Event;Imperial;G/B;0
+Dathomiri Magicks;ASH-104-R;Event;Force;G/B;0
+Bo-Katan Kryze, For All of Mandalore;ASH-105-R;Ground Unit;Mandalorian;G/W;0
+Pathfinder Sergeant;ASH-106-C;Ground Unit;Rebel/Trooper;G/W;0
+Clan Wren Loyalist;ASH-107-C;Ground Unit;Mandalorian/Trooper;G/W;0
+Crix Madine, Strike Team Strategist;ASH-108-U;Ground Unit;Rebel/Official;G/W;0
+T-6 Shuttle 1974, With a Mentor's Dedication;ASH-109-U;Space Unit;Jedi/Vehicle/Transport;G/W;0
+Admiral Ackbar, Assume Attack Coordinates;ASH-110-L;Ground Unit;Rebel/Official;G/W;0
 
 Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 ** END **
