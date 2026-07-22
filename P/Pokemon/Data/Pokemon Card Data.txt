@@ -299,7 +299,7 @@ Ferroseed;Pokemon;Metal;70;;Rolling Tackle;CRI 62 (Common);J;4;0
 Ferroseed;Pokemon;Metal;70;;Zzzt|Metal Claw;WHT 68 (Common)/WHT 148 (Illustration Rare);I;4;0
 Ferrothorn;Pokemon;Metal;130;Startling Drop;Special Whip;CRI 63 (Uncommon);J;4;0
 Ferrothorn;Pokemon;Metal;140;;Power Whip|Metal Claw;WHT 69 (Uncommon)/WHT 149 (Illustration Rare);I;4;0
-Fighting Energy;Energy;Basic;;;;Base Set 97 (Common)/Gym Heroes 127 (Common)/Base Set 2 125 (Common)/Gym Challenge 127 (Common)/Neo Genesis 106 (Common)/Expedition Base Set 160 (Common)/EX Ruby & Sapphire 105 (Common)/EX Emerald 106 (Rare Holo)/EX Holon Phantoms 110 (Rare Holo)/EX Power Keepers 108 (Rare Holo)/Diamond & Pearl 128 (Common)/HeartGold & SoulSilver 120 (Common)/Call of Legends 93 (Common)/Black & White 110 (Common)/XY 137 (Common)/Generations 80 (Common)/Evolutions 96 (Common)/Guardians Rising 169 (Rare Secret)/Chilling Reign 233 (Rare Secret)/SVI 258 (Hyper Rare)/SVE 6 (Common)/MEE 6 (Common);All;15;12
+Fighting Energy;Energy;Basic;;;;Base Set 97 (Common)/Gym Heroes 127 (Common)/Base Set 2 125 (Common)/Gym Challenge 127 (Common)/Neo Genesis 106 (Common)/Expedition Base Set 160 (Common)/EX Ruby & Sapphire 105 (Common)/EX Emerald 106 (Rare Holo)/EX Holon Phantoms 110 (Rare Holo)/EX Power Keepers 108 (Rare Holo)/Diamond & Pearl 128 (Common)/HeartGold & SoulSilver 120 (Common)/Call of Legends 93 (Common)/Black & White 110 (Common)/XY 137 (Common)/Generations 80 (Common)/Evolutions 96 (Common)/Guardians Rising 169 (Rare Secret)/Chilling Reign 233 (Rare Secret)/SVI 258 (Hyper Rare)/SVE 6 (Common)/MEE 6 (Common);All;15;13
 Fighting Gong;Trainer;Item;;;;MEG 116 (Uncommon)/MEG 168 (Ultra Rare)/ASC 187 (Uncommon);I;4;1
 Fire Energy;Energy;Basic;;;;SVE 2 (Common)/SVE 10 (Common)/SVE 18 (Common)/MEE 2 (Common);All;15;15
 Firebreather;Trainer;Supporter;;;;PFL 89 (Uncommon)/PFL 119 (Ultra Rare);I;4;0
@@ -1106,7 +1106,7 @@ Wally's Compassion;Trainer;Supporter;;;;MEG 132 (Uncommon)/MEG 176 (Ultra Rare)/
 Wash Rotom;Pokemon;Water;80;;Manual Wash|Gadget Show;DRI 61 (Common);I;4;1
 Watchog;Pokemon;Colorless;100;;Snap Inspection|Low Kick;CRI 71 (Common)/CRI 97 (Illustration Rare);J;4;0
 Watchog;Pokemon;Colorless;90;;Focus Energy|Hyper Fang;WHT 73 (Uncommon)/WHT 153 (Illustration Rare);I;4;0
-Water Energy;Energy;Basic;;;;MEE 3 (Common)/SVE 3 (Common)/SVE 11 (Common)/SVE 19 (Common);All;15;8
+Water Energy;Energy;Basic;;;;MEE 3 (Common)/SVE 3 (Common)/SVE 11 (Common)/SVE 19 (Common);All;15;9
 Weavile;Pokemon;Darkness;90;;Retaliatory Claw|Cut;MEP 21 (Promo);I;4;0
 Weedle;Pokemon;Grass;50;;Surprise Attack;CRI 1 (Common);J;4;0
 Weezing;Pokemon;Darkness;130;;Pervasive Gas|Crazy Blast;JTG 92 (Uncommon);I;4;0
@@ -1495,8 +1495,8 @@ Grubbin;Pokemon;Grass;70;;String Shot;PBL 2 (Common);J;4;0
 Fomantis;Pokemon;Grass;70;;Reckless Charge;PBL 3 (Common)/PBL 85 (Illustration Rare);J;4;0
 Lurantis ex;Pokemon;Grass;260;;Lively Cutter|Leaf Guard;PBL 4 (Double Rare)/PBL 96 (Ultra Rare);J;4;0
 Poltchageist;Pokemon;Grass;30;Hide 'n' Sneak;Furtive Drop;PBL 5 (Common);J;4;0
-Sinistcha;Pokemon;Grass;60;Hide 'n' Sneak;Matcha Spin;PBL 6 (Uncommon);J;4;0
-Heatran;Pokemon;Fire;140;;Singe|Lava Wall;PBL 7 (Uncommon);J;4;0
+Sinistcha;Pokemon;Grass;60;Hide 'n' Sneak;Matcha Spin;PBL 6 (Uncommon);J;4;1
+Heatran;Pokemon;Fire;140;;Singe|Lava Wall;PBL 7 (Uncommon);J;4;1
 Mega Delphox ex;Pokemon;Fire;350;;Trick Portal|Eerie Glow;PBL 8 (Double Rare);J;4;0
 Sizzlipede;Pokemon;Fire;80;;Controlled Burn|Bug Out;PBL 9 (Common);J;4;0
 Centiskorch;Pokemon;Fire;140;;Controlled Burn|Heat Tackle;PBL 10 (Common);J;4;0
@@ -1504,14 +1504,14 @@ Charcadet;Pokemon;Fire;80;;Best Punch;PBL 11 (Common);J;4;0
 Armarouge;Pokemon;Fire;140;;Flame Legion;PBL 12 (Rare)/PBL 86 (Illustration Rare);J;4;0
 Goldeen;Pokemon;Water;70;;Pierce;PBL 13 (Common)/PBL 87 (Illustration Rare);J;4;0
 Seaking;Pokemon;Water;110;;Hydro Jet;PBL 14 (Uncommon);J;4;0
-Wailmer;Pokemon;Water;130;;Water Gun|Wave Splash;PBL 15 (Common);J;4;0
+Wailmer;Pokemon;Water;130;;Water Gun|Wave Splash;PBL 15 (Common);J;4;1
 Wailord ex;Pokemon;Water;380;;Surf|Falling Down;PBL 16 (Double Rare)/PBL 97 (Ultra Rare);J;4;0
-Relicanth;Pokemon;Water;100;;Fossil Beatdown;PBL 17 (Uncommon);J;4;0
-Popplio;Pokemon;Water;70;;Pound;PBL 18 (Common);J;4;0
+Relicanth;Pokemon;Water;100;;Fossil Beatdown;PBL 17 (Uncommon);J;4;1
+Popplio;Pokemon;Water;70;;Pound;PBL 18 (Common);J;4;1
 Brionne;Pokemon;Water;90;;Hyper Voice;PBL 19 (Common);J;4;0
-Primarina;Pokemon;Water;150;Enriching Melody;Aqua Return;PBL 20 (Rare)/PBL 88 (Illustration Rare);J;4;0
-Finizen;Pokemon;Water;80;;Draining Fin;PBL 21 (Common);J;4;0
-Palafin;Pokemon;Water;150;;Knuckle Justice;PBL 22 (Uncommon);J;4;0
+Primarina;Pokemon;Water;150;Enriching Melody;Aqua Return;PBL 20 (Rare)/PBL 88 (Illustration Rare);J;4;2
+Finizen;Pokemon;Water;80;;Draining Fin;PBL 21 (Common);J;4;1
+Palafin;Pokemon;Water;150;;Knuckle Justice;PBL 22 (Uncommon);J;4;1
 Electrike;Pokemon;Lightning;70;;Collect|Tackle;PBL 23 (Common);J;4;0
 Manectric;Pokemon;Lightning;120;;Flashing Barrage|Sonic Edge;PBL 24 (Uncommon)/PBL 89 (Illustration Rare);J;4;0
 Charjabug;Pokemon;Lightning;100;;Vise Grip|Ram;PBL 25 (Common);J;4;0
@@ -1531,25 +1531,25 @@ Mega Chandelure ex;Pokemon;Psychic;350;Binding Flame;Phantom Maze;PBL 38 (Double
 Dhelmise;Pokemon;Psychic;140;;Vengeful Anchor;PBL 39 (Uncommon)/PBL 91 (Illustration Rare)/MEP 84 (Promo);J;4;0
 Marshadow;Pokemon;Psychic;90;;Shadowy Knot;PBL 40 (Uncommon);J;4;0
 Annihilape;Pokemon;Psychic;150;Durable Body;Ghostly Blow;PBL 41 (Uncommon);J;4;0
-Mankey;Pokemon;Fighting;50;;Low Kick;PBL 42 (Common);J;4;0
+Mankey;Pokemon;Fighting;50;;Low Kick;PBL 42 (Common);J;4;1
 Primeape;Pokemon;Fighting;110;;Corkscrew Punch;PBL 43 (Common);J;4;0
-Cranidos;Pokemon;Fighting;100;;Push Down;PBL 44 (Common);J;4;0
+Cranidos;Pokemon;Fighting;100;;Push Down;PBL 44 (Common);J;4;1
 Rampardos ex;Pokemon;Fighting;330;Destructive Headbutting;Rowdy Hammer;PBL 45 (Double Rare)/PBL 100 (Ultra Rare);J;4;0
-Drilbur;Pokemon;Fighting;70;;Call for Family|Dig Claws;PBL 46 (Common);J;4;0
+Drilbur;Pokemon;Fighting;70;;Call for Family|Dig Claws;PBL 46 (Common);J;4;1
 Koraidon;Pokemon;Fighting;130;;Battle Claw|Gaia Impact;PBL 47 (Rare);J;4;0
 Mega Darkrai ex;Pokemon;Darkness;280;;Dusk Raid|Abyss Eye;PBL 48 (Double Rare)/PBL 101 (Ultra Rare)/PBL 116 (Special Illustration Rare)/PBL 120 (Mega Hyper Rare)/MEP 90 (Promo);J;4;0
 Vullaby;Pokemon;Darkness;70;;Flap|Gust;PBL 49 (Common);J;4;0
 Mandibuzz;Pokemon;Darkness;120;;Bone Sniper|Blasting Wind;PBL 50 (Common);J;4;0
 Inkay;Pokemon;Darkness;60;;Procurement|Spinning Attack;PBL 51 (Common);J;4;0
-Malamar;Pokemon;Darkness;120;;Perplex|Brain Crush;PBL 52 (Uncommon);J;4;0
+Malamar;Pokemon;Darkness;120;;Perplex|Brain Crush;PBL 52 (Uncommon);J;4;1
 Nickit;Pokemon;Darkness;70;;Gnaw|Rear Kick;PBL 53 (Common);J;4;0
 Thievul;Pokemon;Darkness;100;;Skill Thief|Sharp Fang;PBL 54 (Uncommon)/PBL 92 (Illustration Rare);J;4;0
 Morpeko ex;Pokemon;Darkness;180;;Wheely Draw|Hangry Blaster;PBL 55 (Double Rare)/PBL 102 (Ultra Rare)/PBL 117 (Special Illustration Rare);J;4;0
 Zarude;Pokemon;Darkness;130;;Overhead Throw|Shadowy Whip;PBL 56 (Rare)/MEP 88 (Promo);J;4;0
 Maschiff;Pokemon;Darkness;70;;Bite;PBL 57 (Common);J;4;0
-Mabosstiff;Pokemon;Darkness;140;;Bite|Plunging Headbutt;PBL 58 (Common);J;4;0
+Mabosstiff;Pokemon;Darkness;140;;Bite|Plunging Headbutt;PBL 58 (Common);J;4;1
 Chi-Yu;Pokemon;Darkness;90;;Whirling Envy;PBL 59 (Rare);J;4;0
-Skarmory;Pokemon;Metal;120;;Steel Cutter;PBL 60 (Common);J;4;0
+Skarmory;Pokemon;Metal;120;;Steel Cutter;PBL 60 (Common);J;4;1
 Shieldon;Pokemon;Metal;100;;Smithereen Smash;PBL 61 (Common);J;4;0
 Bastiodon;Pokemon;Metal;160;Ancient Bulwark;Hammer In;PBL 62 (Rare)/PBL 93 (Illustration Rare)/MEP 85 (Promo);J;4;0
 Bronzor;Pokemon;Metal;80;;Mirror Attack;PBL 63 (Common);J;4;0
@@ -1558,10 +1558,17 @@ Mega Excadrill ex;Pokemon;Metal;340;;Undermine|Maximum Drilling;PBL 65 (Double R
 Pikipek;Pokemon;Colorless;70;;Double Stab;PBL 66 (Common);J;4;0
 Trumbeak;Pokemon;Colorless;90;;Fly;PBL 67 (Common);J;4;0
 Toucannon;Pokemon;Colorless;150;Aerial Draw;Feather Rondo;PBL 68 (Uncommon)/PBL 94 (Illustration Rare);J;4;0
-Type: Null;Pokemon;Colorless;110;;Power Edge;PBL 69 (Common);J;4;0
-Silvally;Pokemon;Colorless;140;Call a Buddy;Air Slash;PBL 70 (Rare)/PBL 95 (Illustration Rare);J;4;0
+Type: Null;Pokemon;Colorless;110;;Power Edge;PBL 69 (Common);J;4;1
+Silvally;Pokemon;Colorless;140;Call a Buddy;Air Slash;PBL 70 (Rare)/PBL 95 (Illustration Rare);J;4;1
+
+Antique Skull Fossil;Trainer;Item;;;;PBL 73 (Common);J;4;1
+
+Gladion's Final Battle;Trainer;Supporter;;;;PBL 77 (Uncommon)/PBL 108 (Ultra Rare)/PBL 118 (Special Illustration Rare);J;4;1
+
+Tremendous Bomb;Trainer;Pokemon Tool;;;;PBL 82 (Uncommon)/PBL 113 (Ultra Rare);J;4;1
 
 # PBL 84 last new card (not done)
 # PBL 85-103 done
-# PBL 114-117 done
+# PBL 108 done
+# PBL 113-118 done
 # PBL 120 last card (done)
