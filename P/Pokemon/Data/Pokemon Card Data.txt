@@ -1444,9 +1444,12 @@ Sizzlipede;Pokemon;Fire;80;;Live Coal|Hook;SSP 27 (Common);H;4;0
 Centiskorch;Pokemon;Fire;130;;Billowing Heat Wave|Heat Blast;SSP 28 (Common);H;4;0
 Fuecoco;Pokemon;Fire;80;;Heat Burn;SSP 29 (Common);H;4;0
 Crocalor;Pokemon;Fire;110;;Heat Breath;SSP 30 (Common);H;4;0
-
+Skeledirge;Pokemon;Fire;180;Unaware;Torcherto;SSP 31 (Rare);H;4;0
 Charcadet;Pokemon;Fire;70;;Will-O-Wisp;SSP 32 (Common);H;4;0
 Charcadet;Pokemon;Fire;80;;Light Punch|Flamethrower;SSP 33 (Common);H;4;0
+Armarouge;Pokemon;Fire;140;;Combustion|Crimson Blaster;SSP 34 (Uncommon);H;4;0
+Ceruledge;Pokemon;Fire;140;;Cursed Edge|Black Blaze Slash;SSP 35 (Uncommon)/SSP 197 (Illustration Rare);H;4;0
+
 Ceruledge ex;Pokemon;Fire;270;;Abyssal Flames|Raging Amethyst;SSP 36 (Double Rare)/PRE 147 (Special Illustration Rare);H;4;0
 Pikachu ex;Pokemon;Lightning;200;Resolute Heart;Topaz Bolt;SSP 57 (Double Rare)/SSP 219 (Ultra Rare)/SSP 238 (Special Illustration Rare)/SSP 247 (Hyper Rare)/PRE 179 (Hyper Rare)/ASC 57 (Double Rare)/ASC 277 (Special Illustration Rare);H;4;0
 Togepi;Pokemon;Psychic;50;;Pound;SSP 70 (Common)/ASC 80 (Common);H;4;0
@@ -1476,7 +1479,7 @@ Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
 # SSP 191 last new card (done)
-# SSP 192-196 done
+# SSP 192-197 done
 # SSP 215 done
 # SSP 219-220 done
 # SSP 224 done
@@ -1560,15 +1563,22 @@ Trumbeak;Pokemon;Colorless;90;;Fly;PBL 67 (Common);J;4;0
 Toucannon;Pokemon;Colorless;150;Aerial Draw;Feather Rondo;PBL 68 (Uncommon)/PBL 94 (Illustration Rare);J;4;0
 Type: Null;Pokemon;Colorless;110;;Power Edge;PBL 69 (Common);J;4;1
 Silvally;Pokemon;Colorless;140;Call a Buddy;Air Slash;PBL 70 (Rare)/PBL 95 (Illustration Rare);J;4;1
-
+Bombirdier;Pokemon;Colorless;100;;Challenging Delivery|Speed Wing;PBL 71 (Common);J;4;0
+Antique Armor Fossil;Trainer;Item;;;;PBL 72 (Common);J;4;0
 Antique Skull Fossil;Trainer;Item;;;;PBL 73 (Common);J;4;1
-
+Backtrack Badge;Trainer;Pokemon Tool;;;;PBL 74 (Uncommon);J;4;0
+Dark Bell;Trainer;Item;;;;PBL 75 (Uncommon)/PBL 106 (Ultra Rare);J;4;0
+Fossil Quarry;Trainer;Stadium;;;;PBL 76 (Uncommon);J;4;0
 Gladion's Final Battle;Trainer;Supporter;;;;PBL 77 (Uncommon)/PBL 108 (Ultra Rare)/PBL 118 (Special Illustration Rare);J;4;1
+Gwynn;Trainer;Supporter;;;;PBL 78 (Uncommon)/PBL 109 (Ultra Rare)/PBL 119 (Special Illustration Rare);J;4;0
+Jett;Trainer;Supporter;;;;PBL 79 (Uncommon);J;4;0
+Misty's Vitality;Trainer;Supporter;;;;PBL 80 (Uncommon)/PBL 111 (Ultra Rare);J;4;0
 
 Tremendous Bomb;Trainer;Pokemon Tool;;;;PBL 82 (Uncommon)/PBL 113 (Ultra Rare);J;4;1
 
 # PBL 84 last new card (not done)
 # PBL 85-103 done
-# PBL 108 done
-# PBL 113-118 done
-# PBL 120 last card (done)
+# PBL 106 done
+# PBL 108-109 done
+# PBL 111 done
+# PBL 113-120 last card (done)
