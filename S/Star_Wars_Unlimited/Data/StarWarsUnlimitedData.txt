@@ -494,17 +494,17 @@ Devotion;SOR-070-U;Upgrade;Innate;U;2 # 1 foil
 Dhani Pilgrim;SEC-055-C;Ground Unit;Fringe;U;3
 Dilapidated Ski Speeder;JTL-248-C;Ground Unit;Resistance/Vehicle/Speeder;W;2
 Diplomatic Envoy;SEC-109-C;Space Unit;Republic/Vehicle/Transport;G;3 # 1 hyperspace
-# done through here
-Diplomatic Immunity;SEC-052-U;Upgrade;U/W;2
-Direct Hit;JTL-078-C;Event;U;3 # 1 foil
-Directed by the Force;LOF-123-U;Event;G;2
+Diplomatic Immunity;SEC-052-U;Upgrade;Law;U/W;2
+Direct Hit;JTL-078-C;Event;Tactic;U;3 # 1 foil
+Directed by the Force;LOF-123-U;Event;Force;G;2
 Director Krennic, Amidst My Achievement;LAW-008-R;Leader;Imperial/Officer;G/B;0
-Director Krennic, Aspiring to Authority;SOR-001-C;Leader;U/B;1 # 1 hyperspace
-Director Krennic, I Lose Nothing But Time;SEC-090-L;Ground Unit;G/B;1
-Director Krennic, On the Verge of Greatness;JTL-032-U;Ground Unit;U/B;2
-Disabling Fang Fighter;SOR-162-C/SHD-166-C;Space Unit;R;3
-Disaffected Senator;TWI-157-U;Ground Unit;R;2
-Disarm;SOR-216-C;Event;Y;3
+Director Krennic, Aspiring to Authority;SOR-001-C;Leader;Imperial/Official;U/B;1 # 1 hyperspace
+Director Krennic, I Lose Nothing But Time;SEC-090-L;Ground Unit;Imperial/Official;G/B;1
+Director Krennic, On the Verge of Greatness;JTL-032-U;Ground Unit;Imperial/Official;U/B;2
+Disabling Fang Fighter;SOR-162-C/SHD-166-C;Space Unit;Mandalorian/Vehicle/Fighter;R;3
+Disaffected Senator;TWI-157-U;Ground Unit;Separatist/Official;R;2
+Disarm;SOR-216-C;Event;Tactic;Y;3
+# done through here
 Discerning Veteran;SHD-120-C;Ground Unit;G;3 # 1 hyperspace, 1 foil
 Disciples' Devotion;SEC-071-U;Upgrade;U;2
 Dismantle the Conspiracy;SEC-106-R;Event;G/W;1
@@ -2026,6 +2026,16 @@ Clan Wren Loyalist;ASH-107-C;Ground Unit;Mandalorian/Trooper;G/W;0
 Crix Madine, Strike Team Strategist;ASH-108-U;Ground Unit;Rebel/Official;G/W;0
 T-6 Shuttle 1974, With a Mentor's Dedication;ASH-109-U;Space Unit;Jedi/Vehicle/Transport;G/W;0
 Admiral Ackbar, Assume Attack Coordinates;ASH-110-L;Ground Unit;Rebel/Official;G/W;0
+Children of the Watch;ASH-111-C;Ground Unit;Mandalorian;G/W;0
+Luke Skywalker, Answering the Call;ASH-112-L;Ground Unit;Force/Jedi;G/W;0
+Mandalorian Flagship, Captured from the Empire;ASH-113-U;Space Unit;Mandalorian/Vehicle/Capital Ship;G/W;0
+Sabine's Lightsaber, Not Alone;ASH-114-R;Upgrade;Item/Weapon/Lightsaber;G/W;0
+The Student Guides the Master;ASH-115-U;Event;Learned;G/W;0
+Ant Droid;ASH-116-C;Ground Unit;Droid;G;0
+Outland Protector;ASH-117-C;Space Unit;Imperial/Vehicle/Fighter;G;0
+8D8, Daimyo's Majordomo;ASH-118-R;Ground Unit;Underworld/Droid;G;0
+Greef Karga, Introductions are in Order;ASH-119-U;Ground Unit;Official;G;0
+Warrior of Clan Kryze;ASH-120-C;Ground Unit;Mandalorian/Trooper;G;0
 
 Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 ** END **
