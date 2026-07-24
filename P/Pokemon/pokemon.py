@@ -27,12 +27,14 @@ trainer_subtypes = ['Supporter', 'Item', 'Stadium', 'Pokemon Tool']
 
 color_mapping = {
     'Darkness Energy': 'Darkness',
+    'Shadowy D Energy': 'Darkness',
     'Fighting Energy': 'Fighting',
     'Rocky Fighting Energy': 'Fighting',
     'Fire Energy': 'Fire',
     'Grass Energy': 'Grass',
     'Growing Grass Energy': 'Grass',
     'Lightning Energy': 'Lightning',
+    'Voltaic L Energy': 'Lightning',
     'Metal Energy': 'Metal',
     'Psychic Energy': 'Psychic',
     'Telepathic Psychic Energy': 'Psychic',
