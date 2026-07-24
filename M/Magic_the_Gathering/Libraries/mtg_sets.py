@@ -65,7 +65,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     'Mystery Booster 2: Convention Edition Eternal', "The Brothers' War Transformers Cards",
     "Magic: The Gathering Universes Beyond - FINAL FANTASY", 'Lorwyn Eclipsed Commander',
     'DCI Promos', 'Secrets of Strixhaven Commander', 'Secrets of Strixhaven Mystical Archive',
-    'PRM - Magic: The Gathering | Teenage Mutant Ninja Turtles',
+    'PRM - Magic: The Gathering | Teenage Mutant Ninja Turtles', 'Marvel Source Material',
     'Magic: The Gathering | Teenage Mutant Ninja Turtles Commander',
     'Magic: The Gathering | Marvel Super Heroes Commander',
     'Magic: The Gathering | Marvel Super Heroes Jumpstart',
