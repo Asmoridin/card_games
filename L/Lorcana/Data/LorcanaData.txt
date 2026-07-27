@@ -1006,18 +1006,18 @@ King Louie - Jungle VIP;Character;Amber;Storyborn/King;Rise of the Floodborn (Su
 King of Hearts - Monarch of Wonderland;Character;Amethyst;Storyborn/Ally/King;Shimmering Skies (Uncommon);0
 King of Hearts - Picky Ruler;Character;Emerald;Storyborn/Ally/King;Archazia's Island (Rare);0
 King Stefan - New Father;Character;Amber;Storyborn/Mentor/King;Archazia's Island (Common);1
-# Traits done through here
 King's Sensor Core;Item;Steel;;Azurite Sea (Rare);1
-Kit Cloudkicker - Navigator;Character;Sapphire;;Into the Inklands (Uncommon);0
-Kit Cloudkicker - Spunky Bear Cub;Character;Sapphire;;Into the Inklands (Common);1
-Kit Cloudkicker - Tough Guy;Character;Emerald;;Into the Inklands (Uncommon);0
-Koda - Smallish Bear;Character;Amber;;Archazia's Island (Uncommon);0
-Koda - Talkative Cub;Character;Amber;;Shimmering Skies (Rare);0
-Kohut - Trusted Marine;Character;Steel;;Azurite Sea (Common);1
+Kit Cloudkicker - Navigator;Character;Sapphire;Floodborn/Ally;Into the Inklands (Uncommon);0
+Kit Cloudkicker - Spunky Bear Cub;Character;Sapphire;Storyborn/Ally;Into the Inklands (Common);1
+Kit Cloudkicker - Tough Guy;Character;Emerald;Storyborn/Ally;Into the Inklands (Uncommon);0
+Koda - Smallish Bear;Character;Amber;Storyborn/Ally;Archazia's Island (Uncommon);0
+Koda - Talkative Cub;Character;Amber;Storyborn/Ally;Shimmering Skies (Rare);0
+Kohut - Trusted Marine;Character;Steel;Storyborn/Ally;Azurite Sea (Common);1
 Kristoff - Icy Explorer;Character;Amethyst;Dreamborn/Ally;Winterspell (Rare);1
 Kristoff - Mining the Ruins;Character;Sapphire;Storyborn/Ally/Whisper;Whispers in the Well (Rare);1
-Kristoff - Official Ice Master;Character;Steel;;The First Chapter (Common);3
-Kristoff - Reindeer Keeper;Character;Amber;;Shimmering Skies (Rare);0
+Kristoff - Official Ice Master;Character;Steel;Storyborn/Ally;The First Chapter (Common);3
+Kristoff - Reindeer Keeper;Character;Amber;Dreamborn/Ally;Shimmering Skies (Rare);0
+# Traits done through here
 Kristoff's Lute;Item;Ruby;;Winterspell (Rare);0
 Kronk - Head of Security;Character;Steel;;Shimmering Skies (Super Rare);0
 Kronk - Junior Chipmunk;Character;Steel;;Rise of the Floodborn (Rare);0
@@ -2403,9 +2403,16 @@ Boo - Energetic Child;Character;Ruby;Storyborn/Hero;Attack of the Vine! (Rare);0
 Sulley - Protective Monster;Character;Ruby;Storyborn/Hero/Monster;Attack of the Vine! (Uncommon);0
 Ming Lee - Giant Red Panda;Character;Ruby;Storyborn/Mentor/Giant/Red Panda;Attack of the Vine! (Super Rare);0
 Captain Hook - Conniving Pirate;Character;Ruby;Storyborn/Villain/Pirate/Captain;Attack of the Vine! (Uncommon);0
-
 It's Gonna Be Great!;Action;Ruby;Song;Attack of the Vine! (Common);1
 Scream Canister;Item;Ruby;;Attack of the Vine! (Uncommon);2
+Peter Pan - Vine Duelist;Character;Ruby;Storyborn/Hero;Attack of the Vine! (Common);0
+Belle & Beast - Certain as the Sun;Character;Ruby/Sapphire;Storyborn/Team/Hero/Prince/Princess;Attack of the Vine! (Super Rare);0
+Dash Parr & Violet Parr - Super Siblings;Character;Ruby/Steel;Storyborn/Team/Super/Hero;Attack of the Vine! (Legendary);0
+Red Moon Ritual;Action;Ruby;Song;Attack of the Vine! (Uncommon);0
+Red Alert;Action;Ruby;;Attack of the Vine! (Uncommon);0
+Rahr!;Action;Ruby;;Attack of the Vine! (Common);0
+Prophetic Vision;Action;Ruby;;Attack of the Vine! (Uncommon);0
+Bunch of Balloons;Item;Ruby;;Attack of the Vine! (Rare);0
 
 Roz - Always Watching;Character;Sapphire;Storyborn/Ally/Monster;Attack of the Vine! (Common);1
 
