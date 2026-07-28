@@ -66,11 +66,11 @@ Char de transition;France;Heavy Tank;3;2;4;1;Thick Armor;First Strike;130;Rare;0
 Char Futur 4;France;Medium Tank;2;2;3;1;Thick Armor/Triple Shot;First Strike;128;C;0
 Charioteer;UK;Tank Destroyer;4;1;3;2;;Twinfire;95;Uncommon;0
 Chi-Ni;Japan;Medium Tank;2;2;2;2;;First Strike;192;Uncommon;0
-Churchill I;UK;Heavy Tank;0;1;3;1;;First Strike;153;Common;1
+Churchill I;UK;Heavy Tank;0;1;3;1;;First Strike;153;Common;2
 Churchill VII;UK;Heavy Tank;4;3;4;1;;First Strike;154;Uncommon;0
 Collateral Damage;USA;Base;Twinfire;9;Standard;0
 Combined Arms Doctrine;China;Base;Twinfire;19;Common;0
-Comet;UK;Medium Tank;2;0;3;0;;First Strike;152;Common;1
+Comet;UK;Medium Tank;2;0;3;0;;First Strike;152;Common;2
 Complete Annihilation;France;Base;First Strike;20;Legendary;0
 Conqueror;UK;Heavy Tank;3;3;5;1;;First Strike;157;Uncommon;0
 Controcarro 1 Mk. 2;Italy;Tank Destroyer;4;2;3;1;;Twinfire;132;Rare;0
@@ -105,13 +105,13 @@ Ferdinand;Germany;Tank Destroyer;6;3;3;1;;Twinfire;40;Legendary;0
 First Strike;Germany;Base;First Strike;1;Uncommon;0
 Fixed Artillery Position;Japan;Base;Twinfire;21;Uncommon;0
 Forward Supply Depot;USA;Base;Twinfire;7;Common;0
-Full Firepower;Germany;Base;First Strike;3;Standard;0
+Full Firepower;Germany;Base;First Strike;3;Standard;1
 FV215b;UK;Heavy Tank;2;3;5;2;;First Strike;159;Rare;0
 FV224 Chopper;UK;Heavy Tank;4;3;4;1;Thick Armor;Twinfire;92;Uncommon;0
 FV229 Contender;UK;Heavy Tank;3;3;5;0;;Twinfire;93;Common;0
 FV230 Canopener;UK;Heavy Tank;2;4;4;1;Double Shot;Twinfire;94;Rare;0
 FV4005 Stage II;UK;Tank Destroyer;7;2;3;0;;First Strike;165;Rare;0
-Grille;Germany;SPG;1;1;1;3;Blitz;First Strike;67;Rare;0
+Grille;Germany;SPG;1;1;1;3;Blitz;First Strike;67;Rare;1
 Großtraktor - Krupp;Germany;Medium Tank;3;0;1;3;;First Strike;52;Uncommon;0
 Hellfire Reply;Germany;Base;First Strike;2;Standard;0
 Ho-Ri 1;Japan;Tank Destroyer;4;2;2;1;;Twinfire;122;Uncommon;0
@@ -165,7 +165,7 @@ LT vz. 35;Czechoslovakia;Light Tank;1;1;2;2;;First Strike;220;Common;0
 LT vz. 38;Czechoslovakia;Light Tank;1;0;1;2;Double Shot;Twinfire;146;Uncommon;0
 LT vz. 38;Czechoslovakia;Light Tank;2;2;2;2;;First Strike;221;Uncommon;0
 LTG;USSR;Light Tank;1;2;2;0;;First Strike;74;C;0
-LTTB;USSR;Light Tank;1;1;2;2;;First Strike;75;Uncommon;0
+LTTB;USSR;Light Tank;1;1;2;2;;First Strike;75;Uncommon;1
 M2 Light;USA;Light Tank;1;1;2;2;;Twinfire;56;Uncommon;0
 M2 Medium Tank;USA;Medium Tank;2;3;2;1;Blitz;Twinfire;59;Uncommon;0
 M2;UK;Light Tank;1;2;1;3;;Twinfire;84;Common;0
@@ -190,7 +190,7 @@ M46 Patton;USA;Medium Tank;2;2;2;1;Blitz/Explosive Ammo/Thick Armor;First Strike
 M48A5 Patton;USA;Medium Tank;3;2;3;1;;First Strike;106;Uncommon;0
 Maintenance Crew;USA;Base;First Strike;15;Standard;0
 Malfunctioning Modules;Italy;Base;First Strike;40;Uncommon;1
-Manticore;UK;Light Tank;2;1;1;1;;First Strike;147;C;0
+Manticore;UK;Light Tank;2;1;1;1;;First Strike;147;Common;1
 Marder II;Germany;Tank Destroyer;2;1;2;1;Blitz;Twinfire;39;Uncommon;0
 Mars;Italy;Medium Tank;2;1;3;1;;Twinfire;127;Legendary;0
 Mass Reposition;Poland;Base;First Strike;32;Standard;0
@@ -205,7 +205,7 @@ MKA;Germany;Light Tank;1;0;1;3;;First Strike;45;Rare;0
 Mobilization of the Reserves;USSR;Base;Twinfire;6;Common;0
 Module Mastery;Italy;Base;First Strike;39;Common;0
 MS-1;USSR;Light Tank;1;1;1;2;;First Strike;69;Rare;0
-MT-25;USSR;Light Tank;2;1;2;2;;First Strike;77;Uncommon;0
+MT-25;USSR;Light Tank;2;1;2;2;;First Strike;77;Uncommon;1
 NC 70 Błyskawica;Poland;Tank Destroyer;4;2;2;1;;First Strike;178;Common;0
 Object 416;USSR;Medium Tank;2;2;2;1;;Twinfire;47;Common;0
 O-Ho;Japan;Heavy Tank;3;2;5;0;;First Strike;197;Uncommon;0
@@ -257,7 +257,7 @@ Semovente M41;Italy;Tank Destroyer;2;1;1;2;;First Strike;206;R;0
 Semovente M43 Bassotto;Italy;Tank Destroyer;4;2;1;2;;Twinfire;131;Uncommon;0
 Sexton II;UK;SPG;1;2;1;1;Thick Armor;First Strike;167;Common;1
 SFAC 105;France;Tank Destroyer;2;1;2;1;Double Shot;First Strike;137;Rare;0
-Sherman Firefly;UK;Medium Tank;2;2;3;1;;First Strike;151;Common;1
+Sherman Firefly;UK;Medium Tank;2;2;3;1;;First Strike;151;Common;2
 Sherman III;UK;Medium Tank;2;2;3;1;;Twinfire;89;Rare;0
 SMV CC-56;Italy;Tank Destroyer;3;1;3;1;;First Strike;207;Common;0
 SMV CC-67;Italy;Tank Destroyer;3;1;2;1;;Twinfire;133;Common;0
@@ -313,7 +313,7 @@ T49;USA;Light Tank;1;2;2;2;;First Strike;97;Uncommon;0
 T-50;USSR;Light Tank;1;1;2;2;Double Shot;Twinfire;44;Common;0
 T-54 ltwt.;USSR;Light Tank;1;0;1;1;Thick Armor;Twinfire;45;Common;0
 T-54;USSR;Medium Tank;2;2;4;1;;Twinfire;48;Legendary;0
-T-60;USSR;Light Tank;2;1;1;2;;First Strike;71;Uncommon;0
+T-60;USSR;Light Tank;2;1;1;2;;First Strike;71;Uncommon;1
 T-62A;USSR;Medium Tank;2;1;2;2;Double Shot;First Strike;82;Rare;0
 T69;USA;Medium Tank;2;1;3;0;;First Strike;105;Common;0
 T-70;USSR;Light Tank;1;1;2;2;;First Strike;72;Common;0
@@ -358,7 +358,7 @@ Valentine;UK;Light Tank;1;2;3;3;;First Strike;145;Rare;0
 Valor Awards;China;Base;First Strike;35;Uncommon;0
 Vengeful Retribution;China;Base;Twinfire;18;Standard;0
 Veteran's Resilience;Sweden;Base;First Strike;31;Uncommon;0
-Vickers Medium Mk. I;UK;Medium Tank;2;2;2;0;Thick Armor;First Strike;149;Common;1
+Vickers Medium Mk. I;UK;Medium Tank;2;2;2;0;Thick Armor;First Strike;149;Common;2
 Vickers Medium Mk. II;UK;Medium Tank;1;1;2;2;;Twinfire;88;Common;0
 Vickers Mk. E Type B;China;Light Tank;0;0;1;3;;First Strike;179;Common;0
 VK 16.02 Leopard;Germany;Light Tank;1;1;2;1;;First Strike;47;Common;0
