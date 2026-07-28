@@ -514,17 +514,17 @@ Disturbance in the Force;LOF-216-C;Event;Force;Y;3
 Diversion;JTL-229-C;Event;Gambit;Y;3
 DJ, Blatant Thief;SHD-213-L;Ground Unit;Underworld;Y;0
 DJ, Need a Lift?;SEC-018-R;Leader;Underworld;Y;1
-# done through here
-Do or Do Not;LOF-175-C;Event;R;3 # 1 hyperspace
+Do or Do Not;LOF-175-C;Event;Force;R;3 # 1 hyperspace
 Doctor Aphra, Digging For Answers;LAW-194-R;Ground Unit;Underworld;R;0
-Doctor Aphra, Rapacious Archaeologist;SHD-015-R;Leader;Y/B;1
-Doctor Evazan, Wanted On Twelve Systems;SHD-185-R;Ground Unit;Y/B;0
-Doctor Pershing, Experimenting With Life;SHD-028-R;Ground Unit;U/B;2
-Dogfight;JTL-123-U;Event;G;3
+Doctor Aphra, Rapacious Archaeologist;SHD-015-R;Leader;Fringe;Y/B;1
+Doctor Evazan, Wanted On Twelve Systems;SHD-185-R;Ground Unit;Underworld;Y/B;0
+Doctor Pershing, Experimenting With Life;SHD-028-R;Ground Unit;Imperial;U/B;2
+Dogfight;JTL-123-U;Event;Tactic;G;3
 Dogged Pursuers;LAW-198-C;Ground Unit;Underworld/Bounty Hunter;R;0
-Dogmatic Shock Squad;SEC-036-C;Ground Unit;U/B;3
-Don't Get Cocky;SOR-223-R;Event;Y;1
+Dogmatic Shock Squad;SEC-036-C;Ground Unit;Republic/Clone/Trooper;U/B;3
+Don't Get Cocky;SOR-223-R;Event;Gambit;Y;1
 Dooku's Palace;TS26-10-R;Base;Serenno;G;0
+# done through here
 Dooku's Solar Sailer, Beautiful and Expensive;TS26-38-R;Space Unit;Separatist/Vehicle/Transport;U/B;0
 Dooku, It Is Too Late;LOF-211-U;Ground Unit;Y;2
 Dornean Gunship;JTL-116-U;Space Unit;G;1
@@ -2045,6 +2045,26 @@ The Twins, We Don't Want War;ASH-127-R;Ground Unit;Underworld/Hutt;G;0
 Bothan-5, New Republic Prison Ship;ASH-128-R;Space Unit;New Republic/Vehicle/Transport;G;0
 Defenders of the Forest;ASH-129-C;Ground Unit;Ewok;G;0
 Fang Fighter Squadron;ASH-130-C;Space Unit;Mandalorian/Vehicle/Fighter;G;0
+Dinosaur Turtle;ASH-131-C;Ground Unit;Creature;G;0
+Queen Soruna, Willing to Fight;ASH-132-R;Ground Unit;Naboo/Official;G;0
+Trask Walker;ASH-133-U;Ground Unit;Vehicle/Walker;G;0
+Warrior's Legacy;ASH-134-C;Upgrade;Learned;G;0
+The Darksaber, Icon of Leadership;ASH-135-L;Upgrade;Mandalorian/Item/Weapon;G;0
+Display of Strength;ASH-136-C;Event;Tactic;G;0
+Wipe Them Out;ASH-137-U;Event;Tactic;G;0
+Turning the Tide;ASH-138-C;Event;Tactic;G;0
+Hold Them Off;ASH-139-U;Event;Tactic;G;0
+Stronger Together;ASH-140-C;Event;Learned;G;0
 
 Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 ** END **
+
+Grand Moff Tarkin, Tyrant of the Outer Rim;HMW-004-S;Leader;Imperial/Official/Vehicle/Capital Ship;U/B;0
+
+Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
+
+Dune Sea;HMW-019-C;Base;Tatooine;U;0
+
+Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
+Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
+Director Krennic, The Work Has Stalled;HMW-061-S;Ground Unit;Imperial/Official;U/B;0
