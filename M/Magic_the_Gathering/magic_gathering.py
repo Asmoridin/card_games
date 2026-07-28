@@ -537,8 +537,8 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Magic: The Gathering-Commander'
-CHECK_AMOUNT = 318
+CHECK_SET = 'Magic 2012'
+CHECK_AMOUNT = 249
 SET_CHECK += 15 # Extra basic lands
 PRINT_SET = False
 
