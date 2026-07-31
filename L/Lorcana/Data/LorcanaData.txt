@@ -1030,18 +1030,18 @@ Kuzco - Selfish Emperor;Character;Sapphire;Storyborn/King;Shimmering Skies (Supe
 Kuzco - Temperamental Emperor;Character;Emerald;Storyborn/King;The First Chapter (Rare)/Fabled (Rare);2
 Kuzco - Temporary Whale;Character;Amethyst;Storyborn/King;Archazia's Island (Rare);2
 Kuzco - Wanted Llama;Character;Amethyst;Storyborn/King;Rise of the Floodborn (Common)/Fabled (Common);1
-# Traits done through here
 Kuzco's Palace - Home of the Emperor;Location;Emerald;;Into the Inklands (Uncommon);0
-Lady - Decisive Dog;Character;Amber/Amethyst;;Reign of Jafar (Rare);0
-Lady - Elegant Spaniel;Character;Emerald;;Archazia's Island (Common);1
-Lady - Family Dog;Character;Amber;;Reign of Jafar (Rare);0
-Lady - Miss Park Avenue;Character;Amber/Emerald;;Archazia's Island (Super Rare);0
-Lady Kluck - Protective Confidant;Character;Sapphire/Steel;;Archazia's Island (Uncommon);0
-Lady Tremaine - Bitterly Jealous;Character;Emerald;;Archazia's Island (Legendary);0
-Lady Tremaine - Imperious Queen;Character;Ruby;;Rise of the Floodborn (Super Rare);0
-Lady Tremaine - Overbearing Matriarch;Character;Ruby;;Rise of the Floodborn (Common);1
-Lady Tremaine - Sinister Socialite;Character;Ruby;;Whispers in the Well (Super Rare);0
-Lady Tremaine - Wicked Stepmother;Character;Emerald;;The First Chapter (Rare);0
+Lady - Decisive Dog;Character;Amber/Amethyst;Storyborn/Hero;Reign of Jafar (Rare);0
+Lady - Elegant Spaniel;Character;Emerald;Storyborn/Hero;Archazia's Island (Common);1
+Lady - Family Dog;Character;Amber;Storyborn/Hero;Reign of Jafar (Rare);0
+Lady - Miss Park Avenue;Character;Amber/Emerald;Floodborn/Hero;Archazia's Island (Super Rare);0
+Lady Kluck - Protective Confidant;Character;Sapphire/Steel;Storyborn/Ally;Archazia's Island (Uncommon);0
+Lady Tremaine - Bitterly Jealous;Character;Emerald;Storyborn/Villain;Archazia's Island (Legendary);0
+Lady Tremaine - Imperious Queen;Character;Ruby;Floodborn/Villain/Queen;Rise of the Floodborn (Super Rare);0
+Lady Tremaine - Overbearing Matriarch;Character;Ruby;Storyborn/Villain;Rise of the Floodborn (Common);1
+Lady Tremaine - Sinister Socialite;Character;Ruby;Storyborn/Villain/Whisper;Whispers in the Well (Super Rare);0
+Lady Tremaine - Wicked Stepmother;Character;Emerald;Dreamborn/Villain;The First Chapter (Rare);0
+# Traits done through here
 Lafayette - Sleepy Basset Hound;Character;Ruby;;Reign of Jafar (Common);1
 Lantern;Item;Amber;;The First Chapter (Rare)/Fabled (Rare);0
 Last Cannon;Item;Steel;;Rise of the Floodborn (Common);0
@@ -2423,8 +2423,16 @@ Merlin - Envisioning the Future;Character;Sapphire;Dreamborn/Mentor/Sorcerer;Att
 Quackerjack - Loony Toymaker;Character;Sapphire;Storyborn/Super/Villain/Inventor;Attack of the Vine! (Legendary);0
 Belle - Always Reading;Character;Sapphire;Storyborn/Hero/Princess;Attack of the Vine! (Common);0
 Mrs. Hasagawa - Fruit Vendor;Character;Sapphire;Storyborn/Ally;Attack of the Vine! (Uncommon);0
-
 Randall Boggs - Scary Smart;Character;Sapphire;Dreamborn/Villain/Monster;Attack of the Vine! (Rare);1
+Alpha - Pack Leader;Character;Sapphire;Storyborn/Ally;Attack of the Vine! (Rare);0
+Sulley - Strategic Scarer;Character;Sapphire;Storyborn/Hero/Monster;Attack of the Vine! (Common);0
+Piglet - Hunny Mage Apprentice;Character;Sapphire;Dreamborn/Ally/Sorcerer/Hunny;Attack of the Vine! (Common);0
+Mickey Mouse - Inquisitive Explorer;Character;Sapphire;Dreamborn/Hero;Attack of the Vine! (Common);0
+Hades - Meticulous Schemer;Character;Sapphire;Storyborn/Villain;Attack of the Vine! (Uncommon);0
+Antonio Madrigal - Animal Doctor;Character;Sapphire;Storyborn/Ally/Madrigal;Attack of the Vine! (Uncommon);0
+Maid Marian - Created by the Vine;Character;Sapphire;Floodborn/Princess/Vineling;Attack of the Vine! (Rare);0
+Robin Hood - Created by the Vine;Character;Sapphire;Floodborn/Vineling;Attack of the Vine! (Common);0
+Boo - Human Child;Character;Sapphire;Storyborn/Hero;Attack of the Vine! (Rare);0
 
 Henry J. Waternoose III - Chief Executive Officer;Character;Sapphire;Storyborn/Villain/Monster;Attack of the Vine! (Rare);1
 
