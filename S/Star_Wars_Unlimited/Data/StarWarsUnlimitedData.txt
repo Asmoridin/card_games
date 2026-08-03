@@ -524,17 +524,17 @@ Dogged Pursuers;LAW-198-C;Ground Unit;Underworld/Bounty Hunter;R;0
 Dogmatic Shock Squad;SEC-036-C;Ground Unit;Republic/Clone/Trooper;U/B;3
 Don't Get Cocky;SOR-223-R;Event;Gambit;Y;1
 Dooku's Palace;TS26-10-R;Base;Serenno;G;0
-# done through here
 Dooku's Solar Sailer, Beautiful and Expensive;TS26-38-R;Space Unit;Separatist/Vehicle/Transport;U/B;0
-Dooku, It Is Too Late;LOF-211-U;Ground Unit;Y;2
-Dornean Gunship;JTL-116-U;Space Unit;G;1
-Dorsal Turret;JTL-120-C;Upgrade;G;3 # 1 foil
+Dooku, It Is Too Late;LOF-211-U;Ground Unit;Force/Jedi;Y;2
+Dornean Gunship;JTL-116-U;Space Unit;Rebel/Vehicle/Capital Ship;G;1
+Dorsal Turret;JTL-120-C;Upgrade;Modification/Weapon;G;3 # 1 foil
 Double-Cross;LAW-170-R;Event;Trick;G;0
-Drain Essence;LOF-041-C;Event;U/B;3 # 1 foil
-Drengir Spawn;LOF-086-R;Ground Unit;G/B;1
-Dressellian Commandos;SEC-100-C;Ground Unit;G/W;3
-DRK-1 Probe Droid;LOF-155-C;Ground Unit;R;3
-Droid Cohort;TWI-218-C;Upgrade;Y;3
+Drain Essence;LOF-041-C;Event;Force;U/B;3 # 1 foil
+Drengir Spawn;LOF-086-R;Ground Unit;Creature;G/B;1
+Dressellian Commandos;SEC-100-C;Ground Unit;Rebel/Trooper;G/W;3
+DRK-1 Probe Droid;LOF-155-C;Ground Unit;Droid;R;3
+Droid Cohort;TWI-218-C;Upgrade;Supply;Y;3
+# done through here
 Droid Commando;TWI-081-C;Ground Unit;G/B;3 # 1 hyperspace
 Droid Deployment;TWI-237-C;Event;B;3 # 1 foil
 Droid Laser Turret;LAW-118-C;Ground Unit;Droid;U;0
@@ -2055,6 +2055,16 @@ Wipe Them Out;ASH-137-U;Event;Tactic;G;0
 Turning the Tide;ASH-138-C;Event;Tactic;G;0
 Hold Them Off;ASH-139-U;Event;Tactic;G;0
 Stronger Together;ASH-140-C;Event;Learned;G;0
+TIE Striker;ASH-141-C;Space Unit;Imperial/Vehicle/Fighter;R/B;0
+Mortar Trooper;ASH-142-U;Ground Unit;Imperial/Trooper;R/B;0
+Tempest Lieutenant;ASH-143-C;Ground Unit;Imperial/Trooper;R/B;0
+Vane's Snub Fighter, Brash and Proud;ASH-144-R;Space Unit;Underworld/Vehicle/Fighter;R/B;0
+Praetorian Elite;ASH-145-C;Ground Unit;Imperial;R/B;0
+Justifier, Relentless;ASH-146-U;Space Unit;Underworld/Vehicle/Transport;R/B;0
+The Cyborg Mech, Mysterious Threat;ASH-147-U;Ground Unit;Fringe;R/B;0
+Ninth Sister, Hulking Inquisitor;ASH-148-L;Ground Unit;Force/Imperial/Inquisitor;R/B;0
+Eviscerator, Burn Them Away;ASH-149-R;Space Unit;Imperial/Vehicle/Capital Ship;R/B;0
+Deadly Vulnerability;ASH-150-U;Upgrade;Condition;R/B;0
 
 Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 ** END **
@@ -2068,3 +2078,13 @@ Dune Sea;HMW-019-C;Base;Tatooine;U;0
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
 Director Krennic, The Work Has Stalled;HMW-061-S;Ground Unit;Imperial/Official;U/B;0
+
+Alliance Shield Generator;HMW-081-U;Upgrade;Fortification;U/W;0
+
+Remote Scout;HMW-085-C;Ground Unit;Imperial/Trooper;U;0
+
+Carbonite Chamber;HMW-095-U;Upgrade;Fortification;U;0
+
+Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
+
+Chewbacca's Bowcaster, Handcrafted Tradition;HMW-127-S;Upgrade;Item/Weapon;G/W;0
