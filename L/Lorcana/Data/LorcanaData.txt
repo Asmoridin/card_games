@@ -1041,17 +1041,17 @@ Lady Tremaine - Imperious Queen;Character;Ruby;Floodborn/Villain/Queen;Rise of t
 Lady Tremaine - Overbearing Matriarch;Character;Ruby;Storyborn/Villain;Rise of the Floodborn (Common);1
 Lady Tremaine - Sinister Socialite;Character;Ruby;Storyborn/Villain/Whisper;Whispers in the Well (Super Rare);0
 Lady Tremaine - Wicked Stepmother;Character;Emerald;Dreamborn/Villain;The First Chapter (Rare);0
-# Traits done through here
-Lafayette - Sleepy Basset Hound;Character;Ruby;;Reign of Jafar (Common);1
+Lafayette - Sleepy Basset Hound;Character;Ruby;Storyborn;Reign of Jafar (Common);1
 Lantern;Item;Amber;;The First Chapter (Rare)/Fabled (Rare);0
 Last Cannon;Item;Steel;;Rise of the Floodborn (Common);0
 Last Stand;Action;Amber;;Rise of the Floodborn (Uncommon);1
 Last-Ditch Effort;Action;Amethyst;;Into the Inklands (Uncommon)/Fabled (Uncommon);0
 Launch;Action;Sapphire;;Rise of the Floodborn (Uncommon);0
-Launchpad - Exceptional Pilot;Character;Emerald;;Whispers in the Well (Common);0
+Launchpad - Exceptional Pilot;Character;Emerald;Storyborn/Ally;Whispers in the Well (Common);0
 Launchpad - Hideout Defender;Character;Steel;Dreamborn/Ally;Winterspell (Uncommon);2
 Launchpad - Trusty Sidekick;Character;Steel;Storyborn/Ally;Winterspell (Common);0
-Lawrence - Jealous Manservant;Character;Steel;;Rise of the Floodborn (Uncommon)/Fabled (Uncommon);0
+Lawrence - Jealous Manservant;Character;Steel;Storyborn/Ally;Rise of the Floodborn (Uncommon)/Fabled (Uncommon);0
+# Traits done through here
 Lead the Way;Action;Ruby;;Azurite Sea (Common);0
 LeFou - Bumbler;Character;Amber;;The First Chapter (Uncommon);1
 LeFou - Cake Thief;Character;Ruby/Sapphire;;Reign of Jafar (Uncommon);1
@@ -2433,9 +2433,15 @@ Antonio Madrigal - Animal Doctor;Character;Sapphire;Storyborn/Ally/Madrigal;Atta
 Maid Marian - Created by the Vine;Character;Sapphire;Floodborn/Princess/Vineling;Attack of the Vine! (Rare);0
 Robin Hood - Created by the Vine;Character;Sapphire;Floodborn/Vineling;Attack of the Vine! (Common);0
 Boo - Human Child;Character;Sapphire;Storyborn/Hero;Attack of the Vine! (Rare);0
-
 Henry J. Waternoose III - Chief Executive Officer;Character;Sapphire;Storyborn/Villain/Monster;Attack of the Vine! (Rare);1
-
+Pluto - Suspicious Sentry;Character;Sapphire;Dreamborn/Ally;Attack of the Vine! (Common);0
+Charles Muntz - Obsessive Explorer;Character;Sapphire;Storyborn/Villain/Inventor;Attack of the Vine! (Super Rare);0
+Eeyore - Hunny Scholar;Character;Sapphire;Dreamborn/Ally/Hunny;Attack of the Vine! (Uncommon);0
+Darkwing Duck & Launchpad - St. Canard's Finest;Character;Sapphire/Steel;Storyborn/Team/Super/Hero/Detective;Attack of the Vine! (Super Rare);0
+Power Surge;Action;Sapphire;;Attack of the Vine! (Uncommon);0
+Focused Search;Action;Sapphire;;Attack of the Vine! (Common);0
+We've Got a Lot to Do!;Action;Sapphire;Song;Attack of the Vine! (Common);0
+Startle;Action;Sapphire;;Attack of the Vine! (Common);0
 Closet Door Portal;Item;Sapphire;;Attack of the Vine! (Super Rare);1
 
 Owl - Hunny Ranger;Character;Steel;Dreamborn/Ally/Hunny;Attack of the Vine! (Common);2

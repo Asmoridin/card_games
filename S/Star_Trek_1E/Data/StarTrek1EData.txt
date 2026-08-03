@@ -624,6 +624,7 @@ Duranja;Event;;Deep Space 9;1078;;4;0
 Duras (Dramatis Personae);Personnel;Klingon;Dramatis Personae;8394;8386;2;0
 Duras (Dramatis Personae);Personnel;Romulan;Dramatis Personae;8386;8394;2;0
 Duras;Personnel;Klingon;Premiere/Virtual Promos;1079,6096,6459,7744,8108,8360;;2;0
+Dyson Sphere Door;Doorway;;Shades of Gray/Virtual Promos/Homefront VI;3744,3753,4690;;4;0
 E'Tyshra;Personnel;Non-Aligned;Deep Space 9;1157,4443;;2;0
 E-Band Emissions;Event;;Blaze of Glory;1080;;4;0
 E.M.H. Program;Personnel;Federation;First Contact;135;;4;0
@@ -939,7 +940,7 @@ Hogan;Personnel;Non-Aligned;The Borg;184;183;4;0
 Hogue;Personnel;Cardassian;Deep Space 9;185,4416;;4;0
 Holding Cell Door;Doorway;;Blaze of Glory/Homefront VI;1293,4669;;4;0
 Holo-Projectors;Event;;Premiere/Holodeck Adventures/Homefront VI;1301,1302,4692,6132,6495,6858,7780,8144;;4;1
-Holodeck Door;Doorway;;Holodeck Adventures;1294;;4;0
+Holodeck Door;Doorway;;Holodeck Adventures;1294;;12;12
 Hologram Ruse;Dilemma;Planet;Premiere/Virtual Promos;1295,5826,6131,6494,6857,7779,8143;;4;4
 Holoprogram: 221B Baker Street;Incident;;Holodeck Adventures;1296;;4;0
 Holoprogram: Deadwood;Incident;;Holodeck Adventures;1297;;4;0
@@ -1299,6 +1300,7 @@ Kurak;Personnel;Klingon;Premiere;1578,4069,6188,6914,7836,8200;;2;0
 Kurlan Naiskos;Artifact;;Premiere;1579,3535,6189,6552,6915,7837,8201;;2;2
 Kurn;Personnel;Klingon;Premiere/Reflections/Virtual Promos;1580,3615,6190,6553,6916,7838,8202,8351;;2;0
 Kurros;Personnel;Non-Aligned;Voyager;1581;;2;0
+L'Kor;Personnel;Klingon;Premiere;1618,6194,6557,6920,7842,8206;;2;0
 La Forge Impersonator;Personnel;Romulan;Blaze of Glory;1583,7075;;2;0
 La Forge Maneuver;Interrupt;;Alternate Universe;1584;;4;0
 Lack of Preparation;Dilemma;Dual;First Contact/Voyager/Homefront VI/Trouble with Tribbles Starter Decks/Tournament Foils;1585,1586,4683,5256,5661;;4;0
@@ -1309,7 +1311,7 @@ Lam;Personnel;Dominion;The Trouble with Tribbles;244;;4;0
 Lamat'Ukan;Personnel;Dominion;Blaze of Glory;1590;;2;0
 Lansor;Personnel;Non-Aligned;The Borg;1591;;2;0
 Latinum Payoff;Interrupt;;Alternate Universe;1592;;4;0
-Launch Portal;Doorway;;First Contact;1593;;2;0
+Launch Portal;Doorway;;First Contact;1593;;4;4
 Leah Brahms;Personnel;Federation;Premiere;1594,6192,6555,6918,7840,8204;;2;1
 Leck;Personnel;Ferengi;Rules of Acquisition;1595;;2;0
 Leeta;Personnel;Bajoran;Rules of Acquisition;1596;3054;2;0
@@ -1324,16 +1326,22 @@ Lethean Telepathic Attack;Dilemma;Dual;Deep Space 9;1602,4378;;4;0
 Lewis Zimmerman;Personnel;Federation;Holodeck Adventures;1603;;2;0
 Leyton Founder;Personnel;Dominion;The Dominion;1604;;2;0
 Li Nalas;Personnel;Bajoran;Deep Space 9;1605;;2;0
+Li'seria;Ship;Non-Aligned;The Motion Pictures;1616,7278;;2;0
 Liam Bilby;Personnel;Non-Aligned;The Trouble with Tribbles;1606;;2;0
 Liberation;Mission;Planet;Voyager/Virtual Promos;1607,5738;;2;0
 Liberty;Ship;Non-Aligned;1608;;2;0
 Life-form Scan;Interrupt;;Premiere;1609,6193,6556,6919,7841,8205;;4;0
 Lightner;Personnel;Federation;First Contact;1610;;2;0
+Lily Sloane;Personnel;Non-Aligned;First Contact;1612;;2;0
+Lily;Personnel;Non-Aligned;Holodeck Adventures;1611;;2;0
 Limara'Son;Personnel;Dominion;The Dominion;246;;4;0
 Linda Larson;Personnel;Federation;Premiere;247,6004,6367,6730,7652,8016;;4;1
 Lineup;Dilemma;Dual;The Trouble with Tribbles;1613;;4;4
 Linguistic Legerdemain;Dilemma;Dual;The Motion Pictures/Homefront II;1614,3856,7277;;5;4 # Have 4 HF2
+Lisa Azar;Personnel;Federation;First Contact;1615;;2;0
+Live Long and Prosper;Interrupt;;The Trouble with Tribbles/Virtual Promos;1617,8371;;4;0
 Lockbox;Dilemma;Planet;Deep Space 9;1619,4379;;4;1
+Locutus' Borg Cube;Ship;Borg;Blaze of Glory/Borderless Promos;1620,5603,7076;;2;0
 Lojal;Personnel;Federation;Deep Space 9;248;;4;0
 Lojur;Personnel;Federation;The Motion Pictures;249,7192;;4;0
 Lokirrim Vessel;Ship;Non-Aligned;All Good Things;250;;4;0
@@ -1348,6 +1356,7 @@ Male's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Start
 Maleth;Personnel;Vidiian;Holodeck Adventures;256;;4;0
 Malfunctioning Door;Dilemma;Planet;Alternate Universe/Homefront VI/Trouble with Tribbles Starter Decks/Introductory 2-Player Game;1677,4684,5258,7178;;4;0
 Maman Picard;Dilemma;Space;Alternate Universe;1679;;4;4
+Manheim's Dimensional Door;Doorway;;Q Continuum;1681;;4;2
 Maniz;Personnel;Kazon;Voyager;257;;4;0
 Marauder;Personnel;Federation;Mirror, Mirror;258,4848;;4;0
 Mariah Henley;Personnel;Federation;Voyager;259;260;4;0
@@ -1497,7 +1506,9 @@ Punishment Zone;Dilemma;Planet;Alternate Universe;1916;;4;4
 Pursue Holographic Prey;Mission;Space;To the Journey;8505;;2;0
 Pursuit Just Behind;Dilemma;Planet;Crossover;4729;;4;4
 Q Gets the Point;Dilemma;Dual;The Trouble with Tribbles;1920;;4;3
+Q's Tent;Doorway;;Q Continuum;1928;;4;0 # Needs errata
 Q's Vicious Animal Things;Dilemma;Planet;Q Continuum/Homefront;1929,3500;;4;4
+Q-Flash;Doorway;;Q Continuum;1924;;4;0 # Needs errata
 Q-Net;Event;;Premiere/Trouble with Tribbles Starter Decks;1925,6241,6604,6967,7152,7889,8253;;4;1
 Q;Dilemma;Dual;Premiere/Homefront VI;1919,3538,4668,6239,6602,6965,7887;;4;0 # Have four needing errata
 Qol;Personnel;Ferengi;Rules of Acquisition;309;;4;0
@@ -1513,6 +1524,7 @@ Rano Dake;Personnel;Bajoran;Deep Space 9;313;;4;0
 Rascals;Dilemma;Space;Alternate Universe;1953;;4;4
 Rase Norvan;Personnel;Bajoran;Deep Space 9;314;;4;0
 Rax'Na;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;315,7117;;4;0
+Ready Room Door;Doorway;;First Contact/Voyager/Homefront III;1959,1960,4098;;10;10
 Rebel Encounter;Dilemma;Planet;Premiere;1962,6970,6244,6607,7892;;4;0 # needs errata
 Rebel Interceptor;Ship;Federation;Mirror, Mirror;316,4873;;4;0
 Receptacle Stones;Artifact;;Alternate Universe;1965;;2;2
@@ -1803,14 +1815,13 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1610
-#1613-1614
-#1619
+# Done through card 1620
 #1665
 #1672
 #1674
 #1676-1677
 #1679
+#1681
 #1696-1697
 #1704-1705
 #1713-1714
@@ -1840,11 +1851,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #1887
 #1915-1916
 #1919-1920
-#1925
-#1929
+#1924-1925
+#1928-1929
 #1933-1934
 #1948-1949
 #1953
+#1959-1960
 #1962
 #1965
 #1975
@@ -1951,6 +1963,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3703-3714
 #3727
 #3730-3733
+#3744
+#3753
 #3839-3840
 #3843-3844
 #3846-3856
@@ -1975,7 +1989,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4074
 #4078-4083
 #4089-4092
-#4096-4097
+#4096-4098
 #4103
 #4105
 #4108-4109
@@ -2024,8 +2038,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4671
 #4677-4681
 #4683-4684
-#4689
-#4691-4692
+#4689-4692
 #4695-4707
 #4711
 #4713
@@ -2090,7 +2103,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5591
 #5595
 #5597-5599
-#5604-5605
+#5603-5605
 #5608-5610
 #5619
 #5632
@@ -2119,7 +2132,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5900-5905
 #5908-5913
 #5916-5918
-#5966-6193
+#5966-6194
 #6201
 #6203-6204
 #6207-6208
@@ -2156,7 +2169,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6325
 #6328-6460
 #6464-6550
-#6552-6556
+#6552-6557
 #6564
 #6566-6567
 #6570-6571
@@ -2193,7 +2206,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6919
+#6823-6920
 #6927
 #6929-6930
 #6933-6934
@@ -2229,7 +2242,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7048-7051
 #7054-7058
 #7060
-#7063-7075
+#7063-7076
 #7098-7142
 #7144-7149
 #7152
@@ -2237,7 +2250,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7164-7166
 #7168-7170
 #7173-7180
-#7182-7277
+#7182-7278
 #7286
 #7296
 #7313
@@ -2266,7 +2279,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7841
+#7808-7842
 #7849
 #7851-7852
 #7855-7856
@@ -2324,7 +2337,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8130-8157
 #8161-8170
 #8172-8185
-#8187-8205
+#8187-8206
 #8220
 #8222
 #8229
@@ -2349,7 +2362,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8357
 #8360
 #8363
-#8370
+#8370-8371
 #8373-8396
 #8407-8419
 #8448-8460
