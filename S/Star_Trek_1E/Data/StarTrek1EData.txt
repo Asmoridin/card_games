@@ -25,16 +25,16 @@
 100,000 Tribbles - Discard;Tribble;;The Trouble with Tribbles;496;;4;0
 100,000 Tribbles - Rescue;Tribble;;The Trouble with Tribbles;497;;4;0
 1962 Roger Maris Baseball Card;Artifact;;Fajo Collection;498;;2;1
-1st Rule of Acquisition;Event;;Rules of Acquisition/Virtual Promos;499,7432;;4;0
-211th Rule of Acquisition;Event;;Rules of Acquisition;500;;4;0
-33rd Rule of Acquisition;Event;;Rules of Acquisition;501;;4;0
-34th Rule of Acquisition;Event;;Rules of Acquisition;502,5637;;4;0
-35th Rule of Acquisition;Event;;Mirror, Mirror;503;;4;0
-47th Rule of Acquisition;Event;;Rules of Acquisition;505;;4;0
-59th Rule of Acquisition;Event;;Rules of Acquisition;506;;4;0
-62nd Rule of Acquisition;Event;;The Trouble with Tribbles;507;;4;0
-6th Rule Of Acquisition;Event;;Rules of Acquisition;508;;4;0
-75th Rule of Acquisition;Event;;Rules of Acquisition;509;;4;0
+1st Rule of Acquisition;Event;;Rules of Acquisition/Virtual Promos;499,7432;;4;2 # have 2 RoA
+211th Rule of Acquisition;Event;;Rules of Acquisition;500;;4;0 # Needs errata
+33rd Rule of Acquisition;Event;;Rules of Acquisition;501;;4;2
+34th Rule of Acquisition;Event;;Rules of Acquisition;502,5637;;4;3
+35th Rule of Acquisition;Event;;Mirror, Mirror;503;;4;4
+47th Rule of Acquisition;Event;;Rules of Acquisition;505;;4;2
+59th Rule of Acquisition;Event;;Rules of Acquisition;506;;4;4
+62nd Rule of Acquisition;Event;;The Trouble with Tribbles;507;;5;5
+6th Rule Of Acquisition;Event;;Rules of Acquisition;508;;5;5
+75th Rule of Acquisition;Event;;Rules of Acquisition;509;;4;3
 A Bad End;Dilemma;Planet;Homefront VI;4671;;4;4
 A Change of Plans;Interrupt;;First Contact/Homefront III;510,4105;;4;0
 A Fast Ship Would Be Nice;Dilemma;Dual;Mirror, Mirror/Virtual Promos;511,3689,4796;;4;2 # Have 2 MM
@@ -51,7 +51,7 @@ Access Relay Station;Mission;Planet;Deep Space 9/Homefront IV;519,4265;;2;0
 Acquire Food Replicator;Mission;Planet;To the Journey;8488;;2;0
 Acquire Illicit Explosives;Mission;Space;Deep Space 9/Homefront IV;520,4266;;2;0
 Acquire Technology;Mission;Planet;Voyager;521;;2;0
-Activate Subcommands;Event;;First Contact/The Borg;522,523;;4;0
+Activate Subcommands;Event;;First Contact/The Borg;522,523;;8;7 # Need 1 FC
 Activate Tractor Beam;Interrupt;;Deep Space 9;524;;4;0
 Adapt: Modulate Shields;Interrupt;;First Contact/The Borg;525,526;;4;0
 Adapt: Negate Obstruction;Interrupt;;First Contact/The Borg/Q Who?;527,528,5619;;4;0
@@ -76,7 +76,7 @@ Aid Clone Colony;Mission;Planet;All Good Things;546;;2;0
 Aid Fugitives;Mission;Planet;Deep Space 9;547;;2;0
 Airlock;Doorway;;Deep Space 9;548;;4;0
 Ajur;Personnel;Non-Aligned;Alternate Universe;549;;2;0
-Alas, Poor Drone;Event;;The Borg;550;;4;0
+Alas, Poor Drone;Event;;The Borg;550;;4;4
 Alas, Poor Queen;Interrupt;;First Contact;551,3600;;4;0
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
 Aldara;Ship;Cardassian;Deep Space 9;552;;2;0
@@ -90,7 +90,7 @@ Alien Groupie;Interrupt;;Premiere;559,6039,6402,6765,7687,8051;;4;0
 Alien Labyrinth;Dilemma;Planet;Alternate Universe/Introductory 2-Player Game;560,7173;;4;4
 Alien Parasites & REM Fatigue;Dilemma;Dual;Enhanced Premiere;562;;4;0
 Alien Parasites;Dilemma;Planet;Premiere;561,6040,6403,6766,7688;;4;0 # Needs errata
-Alien Probe;Event;;Premiere;563,6041,6404,6767,7689,8053;;4;0
+Alien Probe;Event;;Premiere;563,6041,6404,6767,7689,8053;;4;0 # Needs errata
 All Threes;Interrupt;;Holodeck Adventures;564;;4;0
 Alliance Galor;Ship;Cardassian;Mirror, Mirror;45,4869;;4;0
 Alliance Interceptor;Ship;Bajoran;Mirror, Mirror;46;;4;0
@@ -123,7 +123,7 @@ Anaphasic Organism & Nagilum;Dilemma;Dual;Enhanced Premiere;583;;4;0
 Anaphasic Organism;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;582,5250,6046,6409,6772,7694;;4;0 # Needs errata
 Anara;Personnel;Bajoran;Deep Space 9;54,4406;;4;0
 Anastasia Komananov;Personnel;Non-Aligned;Holodeck Adventures;584;;2;0
-Ancestral Vision;Event;;Voyager;585;;4;0
+Ancestral Vision;Event;;Voyager;585;;4;4
 Ancient Computer & Microvirus;Dilemma;Dual;Enhanced Premiere;587;;4;0
 Ancient Computer;Dilemma;Space;Premiere/Homefront VI;586,4678,6047,6410,6773,7695;;4;4
 Android Headlock;Interrupt;;First Contact;588;;4;0
@@ -1358,6 +1358,15 @@ Lore's Fingernail;Event;;Premiere;1630,6197,6560,6923,7845,8209;;4;0 # needs err
 Lore;Personnel;Non-Aligned;Fajo Collection/Virtual Promos;1628,4498;;2;0 # Needs errata
 Loreva;Personnel;Klingon;Mirror, Mirror;251,4860;;4;0
 Losarus;Personnel;Vidiian;Voyager;252;;4;0
+Loss of Orbital Stability;Interrupt;;Premiere;1631,6198,6561,6924,7846,8210;;4;0 # needs errata
+Lovok Founder;Personnel;Dominion;The Dominion/Virtual Promos;1633,4600;;2;0
+Lovok;Personnel;Romulan;The Dominion;1632;;2;0
+Lower Decks;Event;;Alternate Universe/Voyager/Virtual Promos;1634,1635,5349,8367;;4;0
+Lt. (j.g.) Picard;Personnel;Federation;Alternate Universe;1636;;2;0
+Lt. Bailey;Personnel;Federation;The Trouble with Tribbles;1637;;2;0
+Lt. Bashir;Personnel;Federation;The Trouble with Tribbles;1638;;2;0
+Lt. D'Amato;Personnel;Federation;The Trouble with Tribbles;1639;;2;0
+Lt. Dax;Personnel;Federation;The Trouble with Tribbles;1640;;2;0
 Lt. Grant;Personnel;Federation;The Trouble with Tribbles;253;;4;0
 Lt. Palmer;Personnel;Federation;All Good Things;254;;4;0
 Maglock;Dilemma;Space;First Contact/Trouble with Tribbles Starter Decks/Homefront;1665,7144,3494;;5;4 # have 4 HF
@@ -1775,9 +1784,12 @@ Torin;Personnel;Klingon;Premiere;401,6025,6388,6751,7673,8037;;4;0
 Tox Uthat;Artifact;;Premiere;2318,6300,6663,7026,7948,8312;;2;2
 Trabe Grenade;Dilemma;Planet;Voyager;2323;;4;4
 Track Mutated Crew;Mission;Planet;To the Journey;8511;;2;0
+Transporter Control Module;Equipment;;Voyager;2329;;4;4
 Transwarp Hub;Facility;Borg;Holodeck Adventures/Homefront II;402,3866;;4;0
 Transwarp Network Gateway;Doorway;;First Contact/The Borg/Q Who?;2333,2334,5615;;7;6 # Need one Q Who
 Traverse Void;Mission;Space;To the Journey;8512;;4;0
+Tricorder;Equipment;;Premiere;2354,6306,6669,7032,7954,8318;;4;0 # needs errata
+Trilithium Weapon Control PADD;Equipment;;Homefront III;4102;;4;4
 Tsiolkovsky Infection;Dilemma;Space;Premiere;2360,6307,6670,7033,7955;;4;0 # needs errata
 Twisted;Dilemma;Dual;Voyager;2367;;4;2
 Two of Eleven;Personnel;Borg;First Contact;404;;4;0
@@ -1813,6 +1825,7 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,4074,5272,6026,6389,6752,7674,8038;;4;1
 Venatic Hunter;Ship;Hirogen;The Borg;408;;4;0
 Vidiian Cruiser;Ship;Vidiian;Voyager/Borderless Promos;409,5599;;4;0
+Vidiian Harvester;Equipment;;Voyager;2431;;4;3
 Vidiian Interceptor;Ship;Vidiian;Voyager;410;;4;0
 Vidiian Outpost;Facility;Vidiian;Voyager/Homefront VI;411,4707;;4;0
 Vidiian Scout Vessel;Ship;Vidiian;Voyager;412;;4;0
@@ -1821,8 +1834,11 @@ Voight;Personnel;Federation;The Motion Pictures;414,7205;;4;0
 Voktak;Personnel;Klingon;Blaze of Glory;415;;4;0
 Volcanic Eruption;Dilemma;Planet;Voyager;2435;;4;1
 Vornar;Personnel;Cardassian;Holodeck Adventures;416;;4;0
+VR Headset;Equipment;;The Trouble with Tribbles;2439;;4;3
 Vulcan Lander;Ship;Non-Aligned;First Contact;417;;4;0
+Vulcan PADD;Equipment;;Pre-Warp Pack;5148;;4;4
 Vulcan Stone of Gol;Artifact;;Premiere;2443,6319,6682,7045,7967,8331;;2;1
+Vulcan Tricorder;Equipment;;Straight and Steady;3636;;4;4
 Vurond;Personnel;Hirogen;The Borg;418;;4;0
 Wajahut;Personnel;Non-Aligned;The Motion Pictures;419,7206;;4;0
 Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
@@ -1850,7 +1866,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1630
+# Done through card 1640
 #1665
 #1672
 #1674
@@ -1950,7 +1966,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2303
 #2318
 #2323
+#2329
 #2333-2334
+#2354
 #2360
 #2367
 #2369
@@ -1958,7 +1976,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2408
 #2419
 #2427
+#2431
 #2435
+#2439
 #2443
 #2462
 #2466
@@ -2006,6 +2026,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3609-3617
 #3620-3628
 #3632
+#3636
 #3685
 #3688-3690
 #3693-3696
@@ -2040,8 +2061,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4078-4083
 #4086-4087
 #4089-4092
-#4096-4101
-#4103
+#4096-4103
 #4105
 #4108-4109
 #4112-4114
@@ -2083,6 +2103,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4568-4569
 #4571
 #4594-4597
+#4600
 #4658
 #4660-4662
 #4665-4669
@@ -2124,6 +2145,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5049-5050
 #5054
 #5146
+#5148
 #5170-5171
 #5173
 #5175-5176
@@ -2133,7 +2155,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5271-5273
 #5285
 #5288
-#5345-5348
+#5345-5349
 #5423
 #5429
 #5435-5438
@@ -2186,7 +2208,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5899-5906
 #5908-5913
 #5916-5918
-#5966-6197
+#5966-6198
 #6201
 #6203-6204
 #6206-6208
@@ -2215,7 +2237,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6285
 #6291-6295
 #6299-6300
-#6307-6308
+#6306-6308
 #6310
 #6314
 #6316
@@ -2223,7 +2245,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6325
 #6328-6460
 #6464-6550
-#6552-6560
+#6552-6561
 #6564
 #6566-6567
 #6569-6571
@@ -2251,7 +2273,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6648
 #6654-6658
 #6662-6663
-#6670-6671
+#6669-6671
 #6673
 #6677
 #6679
@@ -2260,7 +2282,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6923
+#6823-6924
 #6927
 #6929-6930
 #6932-6934
@@ -2288,7 +2310,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7011
 #7017-7021
 #7025-7026
-#7033-7034
+#7032-7034
 #7036
 #7040
 #7042
@@ -2334,7 +2356,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7845
+#7808-7846
 #7849
 #7851-7852
 #7854-7856
@@ -2362,7 +2384,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7933
 #7939-7943
 #7947-7948
-#7955-7956
+#7954-7956
 #7958
 #7962
 #7964
@@ -2392,7 +2414,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8130-8157
 #8161-8170
 #8172-8185
-#8187-8209
+#8187-8210
 #8218
 #8220
 #8222
@@ -2408,6 +2430,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8281
 #8304-8305
 #8311-8312
+#8318
 #8322
 #8326
 #8328
@@ -2419,7 +2442,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8357
 #8360
 #8363
-#8366
+#8366-8367
 #8370-8371
 #8373-8396
 #8407-8419
