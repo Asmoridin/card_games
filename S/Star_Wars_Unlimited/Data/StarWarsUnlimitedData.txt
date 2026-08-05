@@ -534,18 +534,18 @@ Drengir Spawn;LOF-086-R;Ground Unit;Creature;G/B;1
 Dressellian Commandos;SEC-100-C;Ground Unit;Rebel/Trooper;G/W;3
 DRK-1 Probe Droid;LOF-155-C;Ground Unit;Droid;R;3
 Droid Cohort;TWI-218-C;Upgrade;Supply;Y;3
-# done through here
-Droid Commando;TWI-081-C;Ground Unit;G/B;3 # 1 hyperspace
-Droid Deployment;TWI-237-C;Event;B;3 # 1 foil
+Droid Commando;TWI-081-C;Ground Unit;Separatist/Droid/Trooper;G/B;3 # 1 hyperspace
+Droid Deployment;TWI-237-C;Event;Supply;B;3 # 1 foil
 Droid Laser Turret;LAW-118-C;Ground Unit;Droid;U;0
-Droid Manufactory;TWI-022-R;Base;G;1
-Droid Missile Platform;JTL-162-C;Space Unit;R;3 # 1 foil
-Droid Starfighter;TWI-228-C;Space Unit;B;3
-Droideka Security;TWI-037-C;Ground Unit;B/U;3 # 1 foil
-Drop In;TWI-251-C;Event;W;3
-Dryden Vos, I Get All Worked Up;SEC-137-L;Ground Unit;R/B;0
-Dryden Vos, I Never Ask Twice;SEC-007-R;Leader;G/B;0
-Dryden Vos, Offering No Escape;SHD-192-L;Ground Unit;Y/B;0
+Droid Manufactory;TWI-022-R;Base;Geonosis;G;1
+Droid Missile Platform;JTL-162-C;Space Unit;Separatist/Droid/Vehicle/Transport;R;3 # 1 foil
+Droid Starfighter;TWI-228-C;Space Unit;Separatist/Droid/Vehicle/Fighter;B;3
+Droideka Security;TWI-037-C;Ground Unit;Separatist/Droid;B/U;3 # 1 foil
+Drop In;TWI-251-C;Event;Supply;W;3
+Dryden Vos, I Get All Worked Up;SEC-137-L;Ground Unit;Underworld;R/B;0
+Dryden Vos, I Never Ask Twice;SEC-007-R;Leader;Underworld;G/B;0
+Dryden Vos, Offering No Escape;SHD-192-L;Ground Unit;Underworld;Y/B;0
+# done through here
 Duchess's Champion;TWI-054-U;Ground Unit;U;1
 Duchess's Investigators;SEC-223-C;Ground Unit;Y;3 # 1 hyperspace
 Dume, Redeem the Future;LOF-055-R;Ground Unit;U;0
@@ -884,7 +884,7 @@ Infused Brawler;LOF-156-U;Ground Unit;R;3
 Inner Rim Coalition;SEC-154-C;Ground Unit;R/W;3
 Inquisitor's Lightsaber;LOF-090-C;Upgrade;G/B;3
 Inspector's Shuttle;SEC-260-C;Space Unit;N;3 # 1 hyperspace
-Inspired Recruit;LAW-180-C;Ground Unit;Rebel/Trooper;R/W;1
+Inspired Recruit;LAW-180-C/ASH-152-C;Ground Unit;Rebel/Trooper;R/W;1
 Inspiring Mentor;SHD-104-R;Upgrade;G/W;0
 Inspiring Senator;SEC-261-C;Ground Unit;N;3 # 1 hyperspace
 Insurgent Saboteurs;JTL-168-C;Ground Unit;R;2
@@ -2065,6 +2065,15 @@ The Cyborg Mech, Mysterious Threat;ASH-147-U;Ground Unit;Fringe;R/B;0
 Ninth Sister, Hulking Inquisitor;ASH-148-L;Ground Unit;Force/Imperial/Inquisitor;R/B;0
 Eviscerator, Burn Them Away;ASH-149-R;Space Unit;Imperial/Vehicle/Capital Ship;R/B;0
 Deadly Vulnerability;ASH-150-U;Upgrade;Condition;R/B;0
+Operation Cinder;ASH-151-R;Event;Disaster/Plan;R/B;0
+Green Leader, Crynyd's Sacrifice;ASH-153-R;Space Unit;Rebel/Vehicle/Fighter;R/W;0
+Honorable Nite Owl;ASH-154-C;Ground Unit;Mandalorian/Trooper;R/W;0
+Grogu, Yes. Yes. Yes.;ASH-155-L;Ground Unit;Force/Droid;R/W;0
+R5-D4, Built for Adventure;ASH-156-U;Ground Unit;Droid;R/W;0
+Danger Squadron Wingmen;ASH-157-C;Space Unit;Rebel/Vehicle/Fighter;R/W;0
+Han Solo, It'll Work;ASH-158-S;Ground Unit;Rebel/Official;R/W;0
+Alphabet Squadron U-Wing, Quiet Devotion;ASH-159-U;Space Unit;Rebel/Vehicle/Transport;R/W;0
+Kachirho Militia;ASH-160-U;Ground Unit;Wookiee/Trooper;R/W;0
 
 Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 ** END **
@@ -2088,3 +2097,13 @@ Carbonite Chamber;HMW-095-U;Upgrade;Fortification;U;0
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
 
 Chewbacca's Bowcaster, Handcrafted Tradition;HMW-127-S;Upgrade;Item/Weapon;G/W;0
+
+Wookiee Rangers;HMW-142-C;Ground Unit;Wookiee;G;0
+
+Ezra Bridger, What Are You Afraid Of?;HMW-158-R;Ground Unit;Force/Rebel/Spectre;R/W;0
+
+Trap Field;HMW-171-S;Upgrade;Fortification;R/W;0
+
+Adamant Ewoks;HMW-177-C;Ground Unit;Ewok;R;0
+
+The Tarkin Doctrine, Protect and Punish;HMW-206-S;Upgrade;Law;Y/B;0
