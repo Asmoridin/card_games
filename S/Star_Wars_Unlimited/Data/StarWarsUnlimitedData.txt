@@ -545,17 +545,17 @@ Drop In;TWI-251-C;Event;Supply;W;3
 Dryden Vos, I Get All Worked Up;SEC-137-L;Ground Unit;Underworld;R/B;0
 Dryden Vos, I Never Ask Twice;SEC-007-R;Leader;Underworld;G/B;0
 Dryden Vos, Offering No Escape;SHD-192-L;Ground Unit;Underworld;Y/B;0
+Duchess's Champion;TWI-054-U;Ground Unit;Mandalorian;U;1
+Duchess's Investigators;SEC-223-C;Ground Unit;Mandalorian;Y;3 # 1 hyperspace
+Dume, Redeem the Future;LOF-055-R;Ground Unit;Force/Creature;U;0
+Dwarf Spider Droid;TWI-231-C;Ground Unit;Separatist/Droid;B;2
+E-Web Gunner;IBH-069-S/IBH-083-S;Ground Unit;Imperial/Trooper;R/B;0
+Eager Escort Fighter;JTL-112-C;Space Unit;New Republic/Vehicle/Fighter;G;2
+Ebon Hawk, Cause and Effect;SEC-219-R;Space Unit;Fringe/Vehicle/Transport;Y;0
+Echo Base Defender;SOR-098-C;Ground Unit;Rebel/Trooper;G/W;3
+Echo Base Engineer;JTL-044-C;Ground Unit;Rebel;U/W;3 # 1 hyperspace
+Echo Base;SOR-024-C;Base;Hoth;G;1 # 1 hyperspace
 # done through here
-Duchess's Champion;TWI-054-U;Ground Unit;U;1
-Duchess's Investigators;SEC-223-C;Ground Unit;Y;3 # 1 hyperspace
-Dume, Redeem the Future;LOF-055-R;Ground Unit;U;0
-Dwarf Spider Droid;TWI-231-C;Ground Unit;B;2
-E-Web Gunner;IBH-069-S/IBH-083-S;Ground Unit;R/B;0
-Eager Escort Fighter;JTL-112-C;Space Unit;G;2
-Ebon Hawk, Cause and Effect;SEC-219-R;Space Unit;Y;0
-Echo Base Defender;SOR-098-C;Ground Unit;G/W;3
-Echo Base Engineer;JTL-044-C;Ground Unit;U/W;3 # 1 hyperspace
-Echo Base;SOR-024-C;Base;G;1 # 1 hyperspace
 Echo Caverns;IBH-002-S;Base;Y;0
 Echo Coordinator;IBH-007-S/IBH-043-S/IBH-047-S;Ground Unit;G/W;0
 Echo, Restored;SHD-099-U;Ground Unit;G/W;2
@@ -2074,6 +2074,16 @@ Danger Squadron Wingmen;ASH-157-C;Space Unit;Rebel/Vehicle/Fighter;R/W;0
 Han Solo, It'll Work;ASH-158-S;Ground Unit;Rebel/Official;R/W;0
 Alphabet Squadron U-Wing, Quiet Devotion;ASH-159-U;Space Unit;Rebel/Vehicle/Transport;R/W;0
 Kachirho Militia;ASH-160-U;Ground Unit;Wookiee/Trooper;R/W;0
+Zeb Orrelios, Fists Work Every Time;ASH-161-L;Ground Unit;Rebel/Spectre;R/W;0
+Rash Action;ASH-162-U;Event;Tactic;R/W;0
+Reckless Sacrifice;ASH-163-R;Event;Gambit;R/W;0
+Alamite Hunter;ASH-164-C;Ground Unit;Fringe;R;0
+Clan Vizsla Soldier;ASH-165-C;Ground Unit;Mandalorian/Trooper;R;0
+Ewok Warrior;ASH-166-C;Ground Unit;Ewok;R;0
+Flarestar Attack Shuttle;ASH-167-C;Space Unit;Underworld/Vehicle/Fighter;R;0
+Migs Mayfeld, How About a Toast?;ASH-168-R;Ground Unit;Fringe;R;0
+Axe Woves, Undaunted;ASH-169-U;Ground Unit;Mandalorian;R;0
+Desert Sharpshooter;ASH-170-C;Ground Unit;Twi'lek/Bounty Hunter;R;0
 
 Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
 ** END **
@@ -2107,3 +2117,9 @@ Trap Field;HMW-171-S;Upgrade;Fortification;R/W;0
 Adamant Ewoks;HMW-177-C;Ground Unit;Ewok;R;0
 
 The Tarkin Doctrine, Protect and Punish;HMW-206-S;Upgrade;Law;Y/B;0
+
+Ritual Dragon;HMW-234-L;Ground Unit;Creature;Y;0
+
+C-3PO, Captivating Storyteller;HMW-255-S;Ground Unit;Rebel/Droid;W;0
+
+Ewok Archers;HMW-257-C;Ground Unit;Ewok;W;0
