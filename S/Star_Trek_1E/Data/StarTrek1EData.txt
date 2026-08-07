@@ -136,7 +136,7 @@ Ankari "Spirits";Dilemma;Space;The Borg;592;;4;4
 Answer Distress Signal;Mission;Space;Voyager/Virtual Promos;593,7546;;2;0
 Anti-Matter Pod;Equipment;;Q Continuum;594;;4;4
 Anti-Matter Spread;Interrupt;;Alternate Universe;595;;4;0
-Anti-Time Anomaly;Q Event;;Premiere;597,6048,6411,6774,7696,8060;;4;0
+Anti-Time Anomaly;Q Event;;Premiere;597,6048,6411,6774,7696,8060;;4;0 # Needs errata
 Antique Machine Gun;Artifact;;First Contact;596;;2;0
 Anya;Personnel;Non-Aligned;The Dominion;598;;2;0
 Aphasia Device;Dilemma;Space;Deep Space 9;599;;2;0
@@ -161,6 +161,7 @@ Artim;Personnel;Non-Aligned;All Good Things;614;;2;0
 Arturis;Personnel;Non-Aligned;Voyager;615;;2;0
 Assassin's Blade;Dilemma;Dual;Deep Space 9/Voyager;616,617;;4;0
 Assassination Attempt;Dilemma;Planet;Crossover;4717;;4;4
+Assassination Plot;Event;;Homefront II;3861;;4;4
 Assault Vessel;Ship;Bajoran;Deep Space 9/Virtual Promos;59,4448,5822;;4;0
 Assign Mission Specialists;Objective;;First Contact/Voyager/The Next Generation: Supplemental/Trouble with Tribbles Starter Decks;618,619,4056,5648,7122;;4;0
 Assign Support Personnel;Objective;;The Trouble with Tribbles/Virtual Promos;620,4399,5636;;4;0
@@ -175,7 +176,7 @@ Assimilation Tubules;Equipment;;First Contact;630;;4;0
 Assist Cooperative;Mission;Planet;Voyager;631;;2;0
 Asteroid Sanctuary;Interrupt;;Premiere;632,6051,6414,6777,7513,7699,8063;;4;0
 Astral Eddy;Dilemma;Space;Voyager;633;;4;1
-Atmospheric Ionization;Event;;Premiere;634,6052,6415,6778,7700,8064;;4;1
+Atmospheric Ionization;Event;;Premiere;634,6052,6415,6778,7700,8064;;4;0 # Needs errata
 Attack Pattern Delta;Interrupt;;Blaze of Glory/BaH!;635,3703;;4;0
 Attack Wing;Tactic;;Blaze of Glory/BaH!;636,3704;;10;0
 Atul;Personnel;Klingon;The Dominion;60;;4;0
@@ -216,14 +217,14 @@ Balancing Act;Dilemma;Dual;First Contact/Voyager/Homefront III;699,700,4097;;4;4
 Balok;Personnel;Non-Aligned;Mirror, Mirror;701;;2;0
 Baran;Personnel;Non-Aligned;Premiere;702,4071,6064,6427,6790,7712,8076;;2;0
 Barash;Personnel;Non-Aligned;Holodeck Adventures;703;;2;0
-Barber Pole;Event;;Q Continuum;704;;4;0
+Barber Pole;Event;;Q Continuum;704;;4;2
 Barclay Transporter Phobia;Interrupt;;Alternate Universe;705;;4;0
 Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791,7713,8077;;4;4
 Bareil Antos;Personnel;Bajoran;Deep Space 9/Reflections;708,3609,4407;;2;0
 Bareil of Borg;Personnel;Borg;Enhanced First Contact;709;;2;0
 Bareil;Personnel;Bajoran;Mirror, Mirror/Virtual Promos;707,5176;;2;0
 Barry Waddle;Personnel;Non-Aligned;The Trouble with Tribbles;710;;2;0
-Baryon Buildup;Interrupt;;Alternate Universe;711;;4;0
+Baryon Buildup;Interrupt;;Alternate Universe;711;;5;5
 Barzan Wormhole;Doorway;;Voyager/Virtual Promos;715,5724;;4;0 # needs errata
 Baseball;Interrupt;;Deep Space 9/Virtual Promos;713,4489;;4;0
 Bashir Founder;Personnel;Dominion;Second Anthology/Virtual Promos;714,5496;;2;0
@@ -257,7 +258,7 @@ Black Hole;Doorway;;Fajo Collection/Virtual Promos;442,5827;;5;5
 Blade of Tkon;Artifact;;Q Continuum;724;;2;1
 Blended;Dilemma;Planet;First Contact/Homefront;725,3486;;4;4
 Blood Oath;Incident;;Blaze of Glory/Virtual Promos;726,4880;;4;0
-Blood Screening;Event;;Mirror, Mirror;727;;4;0
+Blood Screening;Event;;Mirror, Mirror;727;;4;4
 Blue Alert;Incident;;Voyager;728;;4;0
 Bluegill Infestation;Incident;;All Good Things/Virtual Promos;729,4568,8407,8448;;4;0
 Bo'rak;Personnel;Klingon;Deep Space 9;739;;2;0
@@ -310,9 +311,9 @@ Burial Ground;Interrupt;;The Trouble with Tribbles;766;;4;0
 Buried Alive;Dilemma;Planet;Crossover;4716;;4;4
 Buster Kincaid;Personnel;Non-Aligned;Holodeck Adventures;767;;2;0
 Bynars Data Transfer;Event;;Holodeck Adventures;768;;4;0
-Bynars Weapon Enhancement;Event;;Premiere/Reflections;769,3541,6069,6432,6795,7717,8081;;4;0
+Bynars Weapon Enhancement;Event;;Premiere/Reflections;769,3541,6069,6432,6795,7717,8081;;8;8
 Caithlin Dar;Personnel;Romulan;The Motion Pictures;770,7216;;2;0
-Calamarain;Event;;Q Continuum;771;;4;0
+Calamarain;Event;;Q Continuum;771;;4;1
 Calandra;Personnel;Non-Aligned;Rules of Acquisition;84;;4;0
 Calloway;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;85,5979,6342,6705,7103,7627,7991;;4;1
 Calondon;Ship;Non-Aligned;All Good Things;772,8408,8449;;2;0
@@ -331,7 +332,7 @@ Captain Spock;Personnel;Federation;The Motion Pictures;783,7219;;2;0
 Captain Styles;Personnel;Federation;The Motion Pictures;784,7220;;2;0
 Captain Sulu;Personnel;Federation;The Motion Pictures/Virtual Promos;785,4964,7221;;2;0
 Captain Worf (Dramatis Personae);Personnel;Non-Aligned;Dramatis Personae;8385;;2;0
-Captain's Log;Event;;Alternate Universe/Voyager;786,787;;4;0
+Captain's Log;Event;;Alternate Universe/Voyager;786,787;;6;6
 Captured;Incident;;Blaze of Glory/Virtual Promos;788,7438;;4;0
 Cardassian Disruptor Rifle;Equipment;;Deep Space 9;790;;4;0
 Cardassian Disruptor;Equipment;;Deep Space 9;789,7508;;4;0
@@ -449,12 +450,12 @@ Coutu;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;99,
 Covert Installation II;Mission;Planet;Enhanced Premiere;886,887;;2;0
 Covert Installation;Mission;Planet;Premiere;885,6073,6436,6799;;2;1
 Covert Rescue;Mission;Planet;Premiere;888,6074,6437,6800,7722,8086;;2;0
-Cranial Transceiver Implant;Event;;The Borg;889;;4;0
+Cranial Transceiver Implant;Event;;The Borg;889;;4;4
 Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 Cravic Warship;Ship;Non-Aligned;Holodeck Adventures;101;;4;0
 Crell Moset;Personnel;Cardassian;Holodeck Adventures;890;;2;0
 Crew Advancement;Dilemma;Dual;Homefront VI;4667;;4;4
-Crew Reassignment;Event;;The Dominion;891;;4;0
+Crew Reassignment;Event;;The Dominion;891;;4;1
 Crewman Wilson;Personnel;Federation;Mirror, Mirror;102,4843;;4;0
 Crisis;Dilemma;Planet;The Dominion/Voyager/Trouble with Tribbles Starter Decks;893,894,7127;;4;0
 Croden's Key;Artifact;;The Dominion;895;;2;0
@@ -547,12 +548,12 @@ Dilanum;Personnel;Vidiian;The Borg;115;;4;0
 Dimensional Shifting;Interrupt;;All Good Things;957,8412,8453;;4;0
 Diplomacy Mission;Mission;Planet;Premiere/Trouble with Tribbles Starter Decks;958,6083,6446,6809,7131,7731;;2;1
 Diplomatic Conference;Mission;Planet;Alternate Universe;959;;2;0
-Discommendation;Event;;Q Continuum;960;;4;0
+Discommendation;Event;;Q Continuum;960;;4;2
 Disengage Safety Protocols;Event;;First Contact;961;;4;0
 Disgraceful Assault;Dilemma;Space;Crossover;4719;;4;4
 Disrupt Alliance;Mission;Planet;Mirror, Mirror;443,4820;;2;0
 Disruptor Overload;Interrupt;;Premiere;444,6031,6394,6757,7679,8043;;4;0
-Distortion Field;Event;;Premiere;445,6032,6395,6758,7680;;4;1
+Distortion Field;Event;;Premiere;445,6032,6395,6758,7680;;4;0 # Needs errata
 Distortion of Space/Time Continuum;Interrupt;;Premiere/Voyager;446,447,5654,6033,6396,6759,7681,8045;;4;0 # Needs errata
 Distraction;Dilemma;Dual;Mirror, Mirror;448,4798;;4;4
 Distress Mission;Mission;Planet;Introductory 2-Player Game/Virtual Promos;449,5815;;2;0
@@ -577,7 +578,7 @@ Don't Let It End This Way;Dilemma;Space;Homefront VI;4666;;4;4
 Donald Varley;Personnel;Federation;Blaze of Glory/Virtual Promos;962,8344;;2;0
 Donik;Personnel;Hirogen;The Borg;963;;2;0
 Door-Net;Q Event;;Q Continuum;965;;4;0
-Doppelganger;Event;;Q Continuum;966,4808;;4;0
+Doppelganger;Event;;Q Continuum;966,4808;;4;1
 Doran;Personnel;Cardassian;Holodeck Adventures;121;122;4;0
 Doran;Personnel;Hirogen;Holodeck Adventures;122;121;4;0
 Dorza;Personnel;Cardassian;Mirror, Mirror;123,4834;;4;0
@@ -606,10 +607,10 @@ Dr. Selar;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;1062
 Dr. Soong;Personnel;Non-Aligned;Fajo Collection/Virtual Promos;1063,4092;;2;0
 Dr. Telek R'Mor;Personnel;Romulan;Voyager/First Anthology/Reflections/Virtual Promos;1064,3082,3527,3935;;2;0
 Dr. Tolian Soran;Personnel;Non-Aligned;The Motion Pictures/Homefront III;1065,4120,7244;;2;0
-Drag Net;Event;;Q Continuum;1066;;4;0
+Drag Net;Event;;Q Continuum;1066;;4;1
 Drenol;Personnel;Vidiian;Voyager;130;;4;0
 Dropping In;Interrupt;;Deep Space 9;1067;;4;0
-Drought Tree;Event;;Q Continuum;1068;;4;0
+Drought Tree;Event;;Q Continuum;1068;;4;4
 Drumhead;Dilemma;Space;Blaze of Glory;1069;;4;0
 Duchamps;Personnel;Non-Aligned;Holodeck Adventures;1071;;2;0
 Duj Saq;Event;;The Motion Pictures;1072,7245;;4;0
@@ -669,7 +670,7 @@ Enemies of the State;Dilemma;Planet;Cold Front;5285;;4;0
 Energy Vortex;Interrupt;;Premiere;1109,6099,6462,6825,7747;;4;1
 Engage Cloak;Objective;;The Dominion/Homefront III;1110,4108;;4;0
 Engage Shuttle Operations: Dominion;Event;;Blaze of Glory;1112;;4;0
-Engage Shuttle Operations;Event;;Alternate Universe/Virtual Promos;1111,5829;;4;0
+Engage Shuttle Operations;Event;;Alternate Universe/Virtual Promos;1111,5829;;5;4 # Have 4 AU
 Engine Imbalance;Dilemma;Space;The Motion Pictures;1113,7246;;4;0
 Engineering Kit;Equipment;;Premiere/Voyager;1114,1115,6100,6463,6826,7748;;4;0 # Needs errata
 Engineering PADD;Equipment;;Premiere;1116,6101,6464,6827,7749,8113;;4;0 # Needs errata
@@ -700,12 +701,12 @@ Espionage: Cardassian on Klingon;Event;;Deep Space 9;1136;;4;0
 Espionage: Dominion on Federation;Event;;The Dominion;1137;;4;0
 Espionage: Dominion on Klingon;Event;;The Dominion;1138;;4;0
 Espionage: Dominion on Romulan;Event;;The Dominion;1139;;4;0
-Espionage: Federation on Klingon;Event;;Premiere;1140,6104,6467,6830,7752,8116;;4;0
-Espionage: Klingon on Federation;Event;;Premiere;1141,6105,6468,6831,8117;;4;0
+Espionage: Federation on Klingon;Event;;Premiere;1140,6104,6467,6830,7752,8116;;4;0 # Needs errata
+Espionage: Klingon on Federation;Event;;Premiere;1141,6105,6468,6831,8117;;4;0 # Needs errata
 Espionage: Romulan on Bajoran;Event;;Deep Space 9;1142;;4;0
 Espionage: Romulan on Cardassian;Event;;Deep Space 9;1143;;4;0
-Espionage: Romulan on Federation;Event;;Premiere;1144,6106,6469,6832,7754;;4;1
-Espionage: Romulan on Klingon;Event;;Premiere;1145,6107,6470,6833,7755;;4;1
+Espionage: Romulan on Federation;Event;;Premiere;1144,6106,6469,6832,7754;;4;0 # Needs errata
+Espionage: Romulan on Klingon;Event;;Premiere;1145,6107,6470,6833,7755;;4;0 # Needs errata
 Establish Dominion Foothold;Objective;;The Dominion;1146;;4;0
 Establish Gateway;Objective;;First Contact/The Borg;1147,1148;;4;0
 Establish Home Planet;Mission;Planet;Holodeck Adventures;1149;;2;0
@@ -752,8 +753,8 @@ Eyes in the Dark;Interrupt;;Alternate Universe;1180;;4;0
 Ezri Dax;Personnel;Federation;Holodeck Adventures;1182;;2;0
 Ezri;Personnel;Non-Aligned;Mirror, Mirror/Virtual Promos;1181,3902,4866;;2;0
 Face to Face;Dilemma;Space;Crossover;4726;;4;4
-Fair Play;Event;;The Dominion/Voyager/Referee Reprints;1183,1184,3089,3090;;4;0
-Fajo's Gallery;Event;;Blaze of Glory/Homefront III;1185,4103,7066;;4;0
+Fair Play;Event;;The Dominion/Voyager/Referee Reprints;1183,1184,3089,3090;;5;4 # have 4 Dom
+Fajo's Gallery;Event;;Blaze of Glory/Homefront III;1185,4103,7066;;5;4 # have 4 HF3
 Fal-tor-pan;Event;;The Motion Pictures;1188,7248;;4;0
 Falar;Personnel;Ferengi;The Trouble with Tribbles;1186;;2;0
 Falcon;Personnel;Non-Aligned;Holodeck Adventures;1187;;2;0
@@ -795,6 +796,7 @@ First Officer Spock;Personnel;Federation;Mirror, Mirror/Virtual Promos;1222,3694
 First;Personnel;Borg;The Borg;1219;;2;0
 Fissure Research;Mission;Space;Alternate Universe/Virtual Promos;1223,5584;;2;0
 Five of Eleven;Personnel;Borg;First Contact;156;;4;0
+Five-Year Mission;Event;;The Cage;5518;;4;4
 Flash Plasma Storm;Dilemma;Planet;Voyager;1224;;4;2
 Flaxian Assassin;Dilemma;Planet;Deep Space 9;1225,4377;;4;0
 Flaxian Scout Vessel;Ship;Non-Aligned;Deep Space 9;157;;4;0
@@ -1379,7 +1381,27 @@ Lt. Watley;Personnel;Federation;The Trouble with Tribbles;1647;;2;0
 Luaran;Personnel;Dominion;Mirror, Mirror;1648;;2;0
 Lucsly;Personnel;Federation;The Trouble with Tribbles;1649;;2;0
 Lumba;Personnel;Ferengi;The Trouble with Tribbles;1650;;2;0
+Lupaza;Personnel;Bajoran;Blaze of Glory;1651;;2;0
+Lure of the Nexus;Interrupt;;The Motion Pictures;1652,7279;;4;0
+Lurin;Personnel;Ferengi;Rules of Acquisition;1653;;2;0
+Lursa;Personnel;Klingon;Premiere/Reflections;1654,3570,6199,6562,6925,7847,8211;;2;0 # Needs errata
+Luther Sloan;Personnel;Federation;Second Anthology;1655;;2;0
+Lwaxana Troi;Personnel;Federation;Premiere;1656,6200,6563,6926,7848,8212;;2;0
+Mabus;Personnel;Non-Aligned;The Borg;1657;;2;0
+Macet;Personnel;Cardassian;The Dominion;1658,7519;;2;0
+Macrovirus;Dilemma;Space;Voyager;1659;;4;0
+Madam Guinan;Personnel;Non-Aligned;Q Continuum/Reflections;1660,3575;;2;0
+Madam Pulaski;Personnel;Non-Aligned;Holodeck Adventures;1661;;2;0
+Madred;Personnel;Non-Aligned;Q Continuum;1662;;2;0
+Magic Carpet Ride OCD;Artifact;;First Contact/Reflections/Virtual Promos;1663,3585,4959;;2;0
+Magistrate Drang;Personnel;Non-Aligned;Voyager;1664;;2;0
 Maglock;Dilemma;Space;First Contact/Trouble with Tribbles Starter Decks/Homefront;1665,7144,3494;;5;4 # have 4 HF
+Magnetic North;Interrupt;;Deep Space 9;1666,4394;;4;;0
+Maihar'du;Personnel;Ferengi;Rules of Acquisition;1667,4437;;2;0
+Maintenance Overhaul;Mission;Planet;The Borg;1668;;2;0
+Major Rakal;Personnel;Federation;Identity Crisis;3055;1669,3577;2;0
+Major Rakal;Personnel;Romulan;Alternate Universe/Reflections;1669,3577;3055;2;0
+Makbar;Personnel;Cardassian;Deep Space 9;1670;;2;0
 Make Us Go;Dilemma;Dual;Official Tournament Sealed Deck;1672,5904;;4;0 # Needs errata
 Makla'Gor;Personnel;Dominion;The Dominion;255;;4;0
 Male's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1674,6927,1676,5257,6201,6564,7849;;4;0 # Need errata
@@ -1876,8 +1898,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1650
-#1665
+# Done through card 1670
 #1672
 #1674
 #1676-1677
@@ -1999,7 +2020,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2495
 #2611
 #3045
-#3047-3054
+#3047-3055
 #3064-3065
 #3067-3068
 #3079-3080
@@ -2024,11 +2045,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3546
 #3548-3554
 #3556-3561
-#3563-3569
-#3572-3574
-#3576
-#3578
-#3580-3584
+#3563-3570
+#3572-3578
+#3580-3585
 #3587-3589
 #3592-3594
 #3600-3603
@@ -2048,8 +2067,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3753
 #3839-3840
 #3843-3844
-#3846-3860
-#3862-3863
+#3846-3863
 #3866-3867
 #3874
 #3878
@@ -2092,13 +2110,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4384-4385
 #4388-4389
 #4391
-#4393
+#4393-4394
 #4399-4403
 #4406-4418
 #4420-4425
 #4427-4432
-#4434-4436
-#4438
+#4434-4438
 #4442-4444
 #4447-4452
 #4461-4470
@@ -2148,7 +2165,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4892
 #4948
 #4954
-#4960
+#4959-4960
 #4962
 #4964-4965
 #4967
@@ -2179,6 +2196,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5495-5496
 #5499-5500
 #5503-5505
+#5518
 #5572
 #5574
 #5576
@@ -2218,8 +2236,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5899-5906
 #5908-5913
 #5916-5918
-#5966-6198
-#6201
+#5966-6201
 #6203-6204
 #6206-6208
 #6210-6211
@@ -2255,8 +2272,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6325
 #6328-6460
 #6464-6550
-#6552-6561
-#6564
+#6552-6564
 #6566-6567
 #6569-6571
 #6573-6578
@@ -2292,8 +2308,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6924
-#6927
+#6823-6927
 #6929-6930
 #6932-6934
 #6936-6941
@@ -2336,7 +2351,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7164-7166
 #7168-7170
 #7173-7180
-#7182-7278
+#7182-7279
 #7286
 #7296
 #7301
@@ -2351,8 +2366,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7503-7505
 #7508-7511
 #7513-7514
-#7516-7518
-#7520-7525
+#7516-7525
 #7527-7529
 #7542
 #7546
@@ -2366,8 +2380,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7846
-#7849
+#7808-7849
 #7851-7852
 #7854-7856
 #7858-7863
@@ -2424,7 +2437,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8130-8157
 #8161-8170
 #8172-8185
-#8187-8210
+#8187-8212
 #8218
 #8220
 #8222
