@@ -63,6 +63,8 @@ for line in lines:
     line = line.split('#')[0].strip()
     line_vals = line.split(';')
     temp_max = None
+    if line == "":
+        continue
     if len(line_vals) == 9:
         card_name, card_type, card_color, card_traits, card_cost, card_power, card_might, \
             card_sets, card_own = line_vals

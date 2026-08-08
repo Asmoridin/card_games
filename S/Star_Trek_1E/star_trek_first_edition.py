@@ -27,8 +27,9 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',
     'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation',
-    'The Next Generation: Supplemental', 'BaH!', 'Crossover', 'Straight and Steady',
-    'Dramatis Personae', 'To the Journey', 'Cold Front', 'Shades of Gray', 'Resistance is Futile',]
+    'The Next Generation: Supplemental', 'BaH!', 'Crossover', 'Straight and Steady', 'The Cage',
+    'Dramatis Personae', 'To the Journey', 'Cold Front', 'Shades of Gray', 'Resistance is Futile',
+    'Pre-Warp Pack', ]
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',
