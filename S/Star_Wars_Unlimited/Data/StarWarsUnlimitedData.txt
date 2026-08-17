@@ -555,17 +555,17 @@ Ebon Hawk, Cause and Effect;SEC-219-R;Space Unit;Fringe/Vehicle/Transport;Y;0
 Echo Base Defender;SOR-098-C;Ground Unit;Rebel/Trooper;G/W;3
 Echo Base Engineer;JTL-044-C;Ground Unit;Rebel;U/W;3 # 1 hyperspace
 Echo Base;SOR-024-C;Base;Hoth;G;1 # 1 hyperspace
+Echo Caverns;IBH-002-S;Base;Hoth;Y;0
+Echo Coordinator;IBH-007-S/IBH-043-S/IBH-047-S;Ground Unit;Rebel;G/W;0
+Echo, Restored;SHD-099-U;Ground Unit;Fringe/Clone;G/W;2
+Echo, Valiant ARC Trooper;TWI-090-U;Ground Unit;Republic/Clone/Trooper;G/W;2
+Eeth Koth, Spiritual Warrior;LOF-097-R;Ground Unit;Force/Jedi/Republic;G/W;1
+Eighth Brother, Hunt Together;LOF-087-U;Ground Unit;Force/Imperial/Inquisitor;G/B;3 # 1 foil
+Eject;JTL-126-R;Event;Gambit;G;0
+Electromagnetic Pulse;JTL-230-C;Event;Tactic;Y;3
+Electrostaff;SOR-071-R;Upgrade;Item/Weapon;U;3
+Elia Kane, False Convert;SEC-242-U;Ground Unit;Imperial/New Republic;B;3 # 1 foil
 # done through here
-Echo Caverns;IBH-002-S;Base;Y;0
-Echo Coordinator;IBH-007-S/IBH-043-S/IBH-047-S;Ground Unit;G/W;0
-Echo, Restored;SHD-099-U;Ground Unit;G/W;2
-Echo, Valiant ARC Trooper;TWI-090-U;Ground Unit;G/W;2
-Eeth Koth, Spiritual Warrior;LOF-097-R;Ground Unit;G/W;1
-Eighth Brother, Hunt Together;LOF-087-U;Ground Unit;G/B;3 # 1 foil
-Eject;JTL-126-R;Event;G;0
-Electromagnetic Pulse;JTL-230-C;Event;Y;3
-Electrostaff;SOR-071-R;Upgrade;U;3
-Elia Kane, False Convert;SEC-242-U;Ground Unit;B;3 # 1 foil
 Elite P-38 Starfighter;TWI-181-C;Space Unit;B/Y;3
 Embo, Stoic and Resolute;SHD-059-U;Ground Unit;U;2
 Emergency Powers;SEC-040-R;Event;U/B;3 # 1 hyperspace
@@ -1538,7 +1538,7 @@ Shadowed Intentions;TWI-220-R;Upgrade;Y;1
 Shadowed Undercity;LOF-021-C;Base;U;1 # 1 hyperspace
 Shatterpoint;LOF-079-U;Event;U;3 # 1 hyperspace
 Shield Drive Outfitter;LAW-113-C;Ground Unit;Underworld;U;1
-Shield Generator Complex;JTL-020-C;Base;U;1 # 1 hyperspace
+Shield Generator Complex;JTL-020-C/HMW-022-C;Base;U;1 # 1 hyperspace
 Shielded Hauler;LAW-122-C;Space Unit;Underworld/Vehicle/Transport;U;0
 Shien Flurry;LOF-220-U;Event;Y;2
 Shifty Suspects;LAW-197-U;Ground Unit;Underworld/Bounty Hunter;R;0
@@ -1734,7 +1734,7 @@ The Tree Remembers;LAW-132-U;Event;Tactic;U;0
 The Will of the Force;LOF-227-C;Event;Y;3
 The Wrong Ride;SEC-235-U;Event;Y;3 # 1 foil
 The Zillo Beast, Awoken From The Depths;TWI-067-R;Ground Unit;U;0
-Theed Palace;JTL-023-C;Base;G;1
+Theed Palace;JTL-023-C/HMW-025-C;Base;Naboo;G;1
 Theed Security;SEC-095-C;Ground Unit;G/W;3
 There Is No Escape;JTL-244-R;Event;B;1 # 1 hyperspace
 Thermal Detonator;LAW-201-R;Upgrade;Item/Weapon;R;0
@@ -2084,15 +2084,35 @@ Flarestar Attack Shuttle;ASH-167-C;Space Unit;Underworld/Vehicle/Fighter;R;0
 Migs Mayfeld, How About a Toast?;ASH-168-R;Ground Unit;Fringe;R;0
 Axe Woves, Undaunted;ASH-169-U;Ground Unit;Mandalorian;R;0
 Desert Sharpshooter;ASH-170-C;Ground Unit;Twi'lek/Bounty Hunter;R;0
-
+Pegasus Tri-Wing;ASH-171-C;Space Unit;Vehicle/Fighter;R;0
 Razor Crest, Outfitted Armament;MV26-2-U/ASH-172-U;Space Unit;Mandalorian/Vehicle/Transport;R;1
+Shydopp Pirate Skiff;ASH-173-C;Ground Unit;Underworld/Vehicle/Transport;R;0
+StarFortress Heavy Bomber;ASH-174-C;Space Unit;Resistance/Vehicle/Transport;R;0
+Wookiee Chieftain;ASH-175-C;Ground Unit;Wookiee;R;0
+Imposing Scout Walker;ASH-176-C;Ground Unit;Imperial/Vehicle/Walker;R;0
+Onyx Cinder, Adventure Awaits;ASH-177-R;Space Unit;Vehicle/Transport;R;0
+Knobby White Ice Spider;ASH-178-U;Ground Unit;Creature;R;0
+Boba Fett's Rancor, Emotionally Complex Creature;ASH-179-L;Ground Unit;Underworld/Creature;R;0
+Bokken Saber;ASH-180-U;Upgrade;Item/Weapon;R;0
 ** END **
 
+Doctor Hemlock, Emotion Has No Place Here;ASH-003-C;Leader;Imperial/Official;U/B;0
 Grand Moff Tarkin, Tyrant of the Outer Rim;HMW-004-S;Leader;Imperial/Official/Vehicle/Capital Ship;U/B;0
 
+Darth Vader, Might of the Empire;HMW-007-R;Leader;Force/Imperial/Sith;G/B;0
+
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
+Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
+
+Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
 
 Dune Sea;HMW-019-C;Base;Tatooine;U;0
+Great Grass Plains;HMW-020-C;Base;Naboo;U;0
+Kachirho;HMW-021-C;Base;Kashyyyk;U;0
+# HMW-022 Done
+Bright Tree Village;HMW-023-C;Base;Endor;G;0
+Origin Tree;HMW-024-C;Base;Kashyyyk;G;0
+# HMW-025 done
 
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
