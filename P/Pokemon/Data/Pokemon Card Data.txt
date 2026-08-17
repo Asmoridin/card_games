@@ -1247,6 +1247,7 @@ Defiance Band;Trainer;Pokemon Tool;;;;SVI 169 (Uncommon);G;4;0
 Electric Generator;Trainer;Item;;;;SVI 170 (Uncommon)/PAF 79 (Uncommon);G;4;0
 Exp. Share;Trainer;Item;;;;Neo Destiny 93 (Rare)/EX FireRed & LeafGreen 91 (Uncommon)/Next Destinies 87 (Uncommon)/Dragon Vault 18 (Other)/Primal Clash 128 (Uncommon)/Sun & Moon 118 (Uncommon)/Battle Styles 126 (Uncommon)/Battle Styles 180 (Rare Secret)/SVI 174 (Uncommon);E/G;4;0
 Jacq;Trainer;Supporter;;;;SVI 175 (Uncommon)/SVI 236 (Ultra Rare)/SVI 250 (Special Illustration Rare);G;8;1
+Mesagoza;Trainer;Stadium;;;;SVI 178 (Uncommon);G;4;0
 Nemona;Trainer;Supporter;;;;SVI 180 (Common)/PAF 82 (Common)/PAF 229 (Ultra Rare)/PAF 238 (Special Illustration Rare);G;8;4
 Pal Pad;Trainer;Item;;;;Flashfire 92 (Uncommon)/Ultra Prism 132 (Uncommon)/Sword & Shield 172 (Uncommon)/SVI 182 (Common);D/G;4;0
 Penny;Trainer;Supporter;;;;SVI 183 (Uncommon)/SVI 239 (Ultra Rare)/SVI 252 (Special Illustration Rare)/PAF 239 (Special Illustration Rare);G;4;0
@@ -1599,6 +1600,16 @@ Gimmighoul;Pokemon;Psychic;70;;Minor Errand-Running|Tackle;SSP 97 (Common);H;4;0
 Mankey;Pokemon;Fighting;60;;Dual Chop;SSP 98 (Common);H;4;0
 Primeape;Pokemon;Fighting;110;;Sweep the Leg|Mega Punch;SSP 99 (Common);H;4;0
 Annihilape;Pokemon;Fighting;140;;Tantrum|Destined Fight;SSP 100 (Uncommon);H;4;0
+Paldean Tauros;Pokemon;Fighting;130;;Smash Kick|Blocking Stomp;SSP 101 (Uncommon);H;4;0
+Phanpy;Pokemon;Fighting;80;;Headbutt;SSP 102 (Common)/SSP 205 (Illustration Rare);H;4;0
+Donphan;Pokemon;Fighting;150;;Knock Flat|Guarded Rolling;SSP 103 (Common);H;4;0
+Trapinch;Pokemon;Fighting;60;;Call for Family|Bite;SSP 104 (Common);H;4;0
+Vibrava;Pokemon;Fighting;90;;Screech|Cutting Wind;SSP 105 (Common)/SSP 206 (Illustration Rare);H;4;0
+Flygon ex;Pokemon;Fighting;310;;Reversing Storm|Sonic Peridot;SSP 106 (Double Rare)/SSP 222 (Ultra Rare);H;4;0
+Gastrodon;Pokemon;Fighting;130;Sticky Bind;Mud Shot;SSP 107 (Rare);H;4;0
+Drilbur;Pokemon;Fighting;70;;Burrow|Mud-Slap;SSP 108 (Common);H;4;0
+Excadrill;Pokemon;Fighting;120;;Digging Claw|Drill Smash;SSP 109 (Common);H;4;0
+Landorus;Pokemon;Fighting;130;;Fist of Focus|Buster Swing;SSP 110 (Rare);H;4;0
 
 Koraidon;Pokemon;Fighting;130;;Unrelenting Onslaught|Hammer In;SSP 116 (Uncommon);H;4;0
 Archaludon ex;Pokemon;Metal;300;Assemble Alloy;Metal Defender;SSP 130 (Double Rare)/SSP 224 (Ultra Rare)/SSP 241 (Special Illustration Rare);H;4;0
@@ -1618,8 +1629,8 @@ Surfer;Trainer;Supporter;;;;SSP 187 (Uncommon)/SSP 235 (Ultra Rare)/ASC 200 (Com
 Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
-# SSP 191-201 last new card (done)
-# SSP 215-221 done
+# SSP 191-206 last new card (done)
+# SSP 215-222 done
 # SSP 224 done
 # SSP 230 done
 # SSP 232 done
