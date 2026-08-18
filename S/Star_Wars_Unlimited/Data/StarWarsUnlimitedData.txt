@@ -2094,25 +2094,45 @@ Onyx Cinder, Adventure Awaits;ASH-177-R;Space Unit;Vehicle/Transport;R;0
 Knobby White Ice Spider;ASH-178-U;Ground Unit;Creature;R;0
 Boba Fett's Rancor, Emotionally Complex Creature;ASH-179-L;Ground Unit;Underworld/Creature;R;0
 Bokken Saber;ASH-180-U;Upgrade;Item/Weapon;R;0
+Mark My Words;ASH-181-C;Upgrade;Learned;R;0
+Unfettered Ambition;ASH-182-R;Upgrade;Innate;R;0
+Whistling Birds;ASH-183-L;Upgrade;Item/Weapon;R;0
+Follow Me;ASH-184-C;Event;Tactic;R;0
+Intimidation;ASH-185-C;Event;Innate;R;0
+Treacherous Minefield;ASH-186-R;Event;Plan;R;0
+Reckoning;ASH-187-U;Event;Plan;R;0
+Galvanized Leap;ASH-188-C;Event;Force;R;0
+Emperor's Messenger;ASH-189-C;Ground Unit;Imperial/Droid;R/B;0
+Peridea Bandit;ASH-190-C;Ground Unit;Fringe;R/B;0
 ** END **
-
-Doctor Hemlock, Emotion Has No Place Here;ASH-003-C;Leader;Imperial/Official;U/B;0
+# HMW-001 missing
+# HMW-002 missing
+Doctor Hemlock, Emotion Has No Place Here;HMW-003-C;Leader;Imperial/Official;U/B;0
 Grand Moff Tarkin, Tyrant of the Outer Rim;HMW-004-S;Leader;Imperial/Official/Vehicle/Capital Ship;U/B;0
-
+# HMW-005 missing
+# HMW-006 missing
 Darth Vader, Might of the Empire;HMW-007-R;Leader;Force/Imperial/Sith;G/B;0
-
+# HMW-008 missing
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
 Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
-
+# HMW-011 missing
+# HMW-012 missing
+# HMW-013 missing
 Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
-
+# HMW-015 missing
+# HMW-016 missing
+# HMW-017 missing
+# HMW-018 missing
 Dune Sea;HMW-019-C;Base;Tatooine;U;0
 Great Grass Plains;HMW-020-C;Base;Naboo;U;0
 Kachirho;HMW-021-C;Base;Kashyyyk;U;0
-# HMW-022 Done
 Bright Tree Village;HMW-023-C;Base;Endor;G;0
 Origin Tree;HMW-024-C;Base;Kashyyyk;G;0
-# HMW-025 done
+Tusken Camp;HMW-026-C;Base;Tatooine;G;0
+Bioweapons Lab;HMW-027-C;Base;Naboo;R;0
+Jundland Wastes;HMW-028-C;Base;Tatooine;R;0
+Dendroid Wilds;HMW-029-C;Base;Endor;R;0
+Shadowlands;HMW-030-C;Base;Kashyyyk;R;0
 
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0

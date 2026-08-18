@@ -1394,6 +1394,7 @@ Explorer's Guidance;Trainer;Supporter;;;;TEF 147 (Uncommon)/TEF 200 (Ultra Rare)
 Hand Trimmer;Trainer;Item;;;;TEF 150 (Uncommon);H;4;1
 Hero's Cape;Trainer;Pokemon Tool;;;;TEF 152 (ACE SPEC Rare);H;2;0
 Maximum Belt;Trainer;Pokemon Tool;;;;TEF 154 (ACE SPEC Rare)/PRE 117 (ACE SPEC Rare);H;2;0
+Morty's Conviction;Trainer;Supporter;;;;TEF 155 (Uncommon)/TEF 201 (Ultra Rare)/TEF 211 (Special Illustration Rare);H;4;0
 Prime Catcher;Trainer;Item;;;;TEF 157 (ACE SPEC Rare)/PRE 119 (ACE SPEC Rare);H;2;0
 Rescue Board;Trainer;Pokemon Tool;;;;TEF 159 (Uncommon)/TWM 225 (Hyper Rare)/PRE 126 (Uncommon);H;4;0
 Mist Energy;Energy;Special Energy;;;;TEF 161 (Uncommon);H;4;0
@@ -1610,8 +1611,17 @@ Gastrodon;Pokemon;Fighting;130;Sticky Bind;Mud Shot;SSP 107 (Rare);H;4;0
 Drilbur;Pokemon;Fighting;70;;Burrow|Mud-Slap;SSP 108 (Common);H;4;0
 Excadrill;Pokemon;Fighting;120;;Digging Claw|Drill Smash;SSP 109 (Common);H;4;0
 Landorus;Pokemon;Fighting;130;;Fist of Focus|Buster Swing;SSP 110 (Rare);H;4;0
+Passimian;Pokemon;Fighting;110;;Coordinated Throwing;SSP 111 (Uncommon);H;4;0
+Clobbopus;Pokemon;Fighting;70;;Slight Intrusion;SSP 112 (Common)/SSP 207 (Illustration Rare);H;4;0
+Grapploct;Pokemon;Fighting;140;;Chop|Raging Tentacles;SSP 113 (Common);H;4;0
+Glimmet;Pokemon;Fighting;70;;Rock Hurl;SSP 114 (Common);H;4;0
+Glimmora;Pokemon;Fighting;130;;Corrosive Shards|Rock Throw;SSP 115 (Common);H;4;0
+Deino;Pokemon;Darkness;70;;Stomp Off|Bite;SSP 117 (Common);H;4;0
+Koraidon;Pokemon;Darkness;130;;Unrelenting Onslaught|Hammer In;SSP 116 (Uncommon);H;4;0
+Zweilous;Pokemon;Darkness;100;;Stomp Off|Darkness Fang;SSP 118 (Common);H;4;0
+Hydreigon ex;Pokemon;Darkness;330;;Crashing Headbutt|Obsidian;SSP 119 (Double Rare)/SSP 223 (Ultra Rare)/SSP 240 (Special Illustration Rare);H;4;0
+Shroodle;Pokemon;Darkness;60;;Spray Fluid;SSP 120 (Common);H;4;0
 
-Koraidon;Pokemon;Fighting;130;;Unrelenting Onslaught|Hammer In;SSP 116 (Uncommon);H;4;0
 Archaludon ex;Pokemon;Metal;300;Assemble Alloy;Metal Defender;SSP 130 (Double Rare)/SSP 224 (Ultra Rare)/SSP 241 (Special Illustration Rare);H;4;0
 Gholdengo;Pokemon;Metal;130;;Strike It Rich|Surf Back;SSP 131 (Uncommon);H;4;0
 Eevee;Pokemon;Colorless;50;Boosted Evolution;Reckless Charge;SSP 143 (Common)/PRE 74 (Common)/SVP 173 (Promo);H;4;0
@@ -1629,13 +1639,11 @@ Surfer;Trainer;Supporter;;;;SSP 187 (Uncommon)/SSP 235 (Ultra Rare)/ASC 200 (Com
 Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
-# SSP 191-206 last new card (done)
-# SSP 215-222 done
-# SSP 224 done
+# SSP 191-207 last new card (done)
+# SSP 215-224 done
 # SSP 230 done
 # SSP 232 done
-# SSP 234-239 done
-# SSP 241 done
+# SSP 234-241 done
 # SSP 244 done
 # SSP 246-247 done
 # SSP 249-252 (last card done)
