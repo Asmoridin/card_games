@@ -185,7 +185,8 @@ def parse_restrictions(restr_lines):
                         'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
                         'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
                         'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block', 'Innistrad Block',
-                        'Scars of Mirrodin Block', 'Return to Ravnica']:
+                        'Scars of Mirrodin Block', 'Return to Ravnica Block', 'Theros Block',
+                        'Khans of Tarkir Block']:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -200,7 +201,6 @@ def parse_restrictions(restr_lines):
     # Kaladesh block (Kaladesh, Aether Revolt)
     # Shadows over Innistrad block (Shadows over Innistrad, Eldritch Moon)
     # Battle for Zendikar block (Battle for Zendikar, Oath of the Gatewatch)
-    # Khans of Tarkir block (Khans of Tarkir, Fate Reforged, Dragons of Tarkir)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -305,6 +305,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Theros block (Theros, Born of the Gods, Journey into Nyx)
             if this_set in ['Theros', 'Born of the Gods', 'Journey into Nyx']:
                 ret_formats['Theros Block'] = 4
+            # Khans of Tarkir block (Khans of Tarkir, Fate Reforged, Dragons of Tarkir)
+            if this_set in ['Khans of Tarkir', 'Fate Reforged', 'Dragons of Tarkir']:
+                ret_formats['Khans of Tarkir Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -765,6 +768,10 @@ if __name__ == "__main__":
     # Theros Block
     theros_dict = process_formats("Theros Block", card_corrections, True)
     handle_output("Theros Block", theros_dict, out_file_h)
+
+    # Khans of Tarkir Block
+    khans_dict = process_formats("Khans of Tarkir Block", card_corrections, True)
+    handle_output("Khans of Tarkir Block", khans_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
