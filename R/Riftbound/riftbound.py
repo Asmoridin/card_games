@@ -33,7 +33,7 @@ def parse_sets(set_string, this_card_name=""):
     return (ret_sets, list(ret_rarities))
 
 valid_types = ['Unit', 'Spell', 'Battlefield', 'Legend', 'Champion Unit', 'Gear', 'Rune',
-    'Signature Spell', 'Signature Unit', 'Signature Gear', ]
+    'Signature Spell', 'Signature Unit', 'Signature Gear', 'Unit Gear']
 valid_colors = ['Chaos', 'Body', 'Mind', 'Order', 'Fury', 'Colorless', 'Calm']
 
 FILE_PREFIX = "card_games/R/Riftbound"
