@@ -448,7 +448,7 @@ Counterintelligence;Interrupt;;Blaze of Glory;883;;4;0
 Countermanda;Interrupt;;Alternate Universe/Warp Pack;884,7170;;4;0
 Coutu;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;99,7104;;4;0
 Covert Installation II;Mission;Planet;Enhanced Premiere;886,887;;2;0
-Covert Installation;Mission;Planet;Premiere;885,6073,6436,6799;;2;1
+Covert Installation;Mission;Planet;Premiere;885,6073,6436,6799,7721,8085;;2;1
 Covert Rescue;Mission;Planet;Premiere;888,6074,6437,6800,7722,8086;;2;0
 Cranial Transceiver Implant;Event;;The Borg;889;;4;4
 Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
@@ -462,7 +462,7 @@ Croden's Key;Artifact;;The Dominion;895;;2;0
 Crosis;Interrupt;;Premiere;896,6075,6438,6801,7723,8087;;4;0
 Crossover;Incident;;Mirror, Mirror;897,4813;;4;0
 Cryosatellite;Artifact;;Alternate Universe;898;;2;2
-Crystalline Entity;Dilemma;Dual;Premiere;899,3588,6076,6439,6802;;4;4
+Crystalline Entity;Dilemma;Dual;Premiere/Virtual Promos;899,3588,6076,6439,6802,7724,8088,8346;;4;4
 Culluh;Personnel;Kazon;Voyager/Homefront III;900,4118;;2;0
 Cultural Observation;Mission;Planet;Premiere;901,6077,6440,6803,7725,8089;;2;0
 Cure Blight;Mission;Planet;Deep Space 9;902;;2;0
@@ -2411,9 +2411,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7549
 #7551
 #7613
-#7615-7720
-#7722-7723
-#7725-7738
+#7615-7738
 #7740-7741
 #7743-7762
 #7766-7793
@@ -2458,9 +2456,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8060-8068
 #8071
 #8073-8077
-#8079-8084
-#8086-8087
-#8089-8094
+#8079-8094
 #8096
 #8100-8102
 #8104-8105
@@ -2495,6 +2491,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8334-8337
 #8341
 #8344
+#8346
 #8351
 #8355-8357
 #8360
