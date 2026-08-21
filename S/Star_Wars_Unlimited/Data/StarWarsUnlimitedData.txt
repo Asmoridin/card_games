@@ -565,16 +565,16 @@ Eject;JTL-126-R;Event;Gambit;G;0
 Electromagnetic Pulse;JTL-230-C;Event;Tactic;Y;3
 Electrostaff;SOR-071-R;Upgrade;Item/Weapon;U;3
 Elia Kane, False Convert;SEC-242-U;Ground Unit;Imperial/New Republic;B;3 # 1 foil
-# done through here
-Elite P-38 Starfighter;TWI-181-C;Space Unit;B/Y;3
-Embo, Stoic and Resolute;SHD-059-U;Ground Unit;U;2
-Emergency Powers;SEC-040-R;Event;U/B;3 # 1 hyperspace
-Emissaries from Ryloth;SEC-206-C;Ground Unit;Y/W;3
-Emissary's Sheathipede;SEC-215-C;Space Unit;Y;3
-Emperor Palpatine, Galactic Ruler;SOR-006-R;Leader;G/B;2 # 1 showcase
-Emperor Palpatine, Master of the Dark Side;SOR-135-R;Ground Unit;R/B;2
-Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;2
+Elite P-38 Starfighter;TWI-181-C;Space Unit;Separatist/Vehicle/Fighter;B/Y;3
+Embo, Stoic and Resolute;SHD-059-U;Ground Unit;Underworld/Bounty Hunter;U;2
+Emergency Powers;SEC-040-R;Event;Law;U/B;3 # 1 hyperspace
+Emissaries from Ryloth;SEC-206-C;Ground Unit;Republic/Twi'lek/Official;Y/W;3
+Emissary's Sheathipede;SEC-215-C;Space Unit;Separatist/Vehicle/Transport;Y;3
+Emperor Palpatine, Galactic Ruler;SOR-006-R;Leader;Force/Imperial/Sith/Official;G/B;2 # 1 showcase
+Emperor Palpatine, Master of the Dark Side;SOR-135-R;Ground Unit;Force/Imperial/Sith/Official;R/B;2
+Emperor's Royal Guard;SOR-082-R;Ground Unit;Imperial;G/B;2
 Encircle;TS26-61-U;Event;Tactic;G;0
+# done through here
 Encouraging Leadership;TWI-126-C;Event;G;3
 Endless Legions;SHD-109-L;Event;G;1
 Energy Conversion Lab;SOR-022-R;Base;G;1
@@ -1150,7 +1150,7 @@ Moral Authority;SEC-256-R;Upgrade;W;2
 Moralo Eval, Infamous Murderer;TS26-73-R;Ground Unit;Underworld;Y/B;0
 Morgan Elsbeth, Following the Call;LOF-005-R;Leader;G/B;0
 Morgan Elsbeth, Keeper of Many Secrets;TWI-035-R;Ground Unit;B/U;2
-Mos Eisley;JTL-030-C;Base;Y;1
+Mos Eisley;JTL-030-C/HMW-032-C;Base;Tatooine;Y;1
 Mother Talzin, Power Through Magick;LOF-002-C;Leader;B/U;1
 Mother Talzin, Stealing the Spirit;TS26-26-R;Ground Unit;Force/Night;G/Y/B;0
 Mount Tantiss;SEC-026-C;Base;Y;1
@@ -2104,6 +2104,16 @@ Reckoning;ASH-187-U;Event;Plan;R;0
 Galvanized Leap;ASH-188-C;Event;Force;R;0
 Emperor's Messenger;ASH-189-C;Ground Unit;Imperial/Droid;R/B;0
 Peridea Bandit;ASH-190-C;Ground Unit;Fringe;R/B;0
+Shin Hati's Fiend Fighter, Compact and Agile;ASH-191-U;Space Unit;Vehicle/Fighter;Y/B;0
+Fennec Shand, The Galaxy Is Dangerous;ASH-192-U;Ground Unit;Underworld/Bounty Hunter;Y/B;0
+Emperor's Champion;ASH-193-C;Ground Unit;Imperial;Y/B;0
+Snub Fighter Squadron;ASH-194-U;Space Unit;Underworld/Vehicle/Fighter;Y/B;0
+Helgait, Dooku Was a Visionary;ASH-195-R;Ground Unit;Separatist;Y/B;0
+Gorian Shard's Corsair, Pirate Warship;ASH-196-L;Space Unit;Underworld/Vehicle/Capital Ship;Y/B;0
+Executor, Final Destruction of the Alliance;ASH-197-S;Space Unit;Imperial/Vehicle/Capital Ship;Y/B;0
+Nowhere to Hide;ASH-198-U;Upgrade;Condition;Y/B;0
+There Is No Conflict;ASH-199-S;Upgrade;Innate;Y/B;0
+Rehabilitation;ASH-200-R;Event;Learned;Y/B;0
 ** END **
 # HMW-001 missing
 # HMW-002 missing
@@ -2115,13 +2125,13 @@ Darth Vader, Might of the Empire;HMW-007-R;Leader;Force/Imperial/Sith;G/B;0
 # HMW-008 missing
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
 Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
-# HMW-011 missing
+Darth Sidious, There is No Mercy;HMW-011-R;Leader;Force/Sith;R/B;0
 # HMW-012 missing
 # HMW-013 missing
 Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
 # HMW-015 missing
 # HMW-016 missing
-# HMW-017 missing
+Osha, Haunted by her Past;HMW-017-R;Leader;Force;Y/W;0
 # HMW-018 missing
 Dune Sea;HMW-019-C;Base;Tatooine;U;0
 Great Grass Plains;HMW-020-C;Base;Naboo;U;0
@@ -2133,6 +2143,8 @@ Bioweapons Lab;HMW-027-C;Base;Naboo;R;0
 Jundland Wastes;HMW-028-C;Base;Tatooine;R;0
 Dendroid Wilds;HMW-029-C;Base;Endor;R;0
 Shadowlands;HMW-030-C;Base;Kashyyyk;R;0
+Kyyyalstaad Swamp;HMW-031-C;Base;Kashyyyk;Y;0
+Otoh Gunga;HMW-033-C;Base;Naboo;Y;0
 
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
