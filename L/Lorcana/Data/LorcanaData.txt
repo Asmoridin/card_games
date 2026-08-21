@@ -1185,20 +1185,20 @@ Lose the Way;Action;Amethyst;;Azurite Sea (Uncommon);1
 Lost in the Woods;Action;Amber;Song;Ursula's Return (Uncommon)/Fabled (Common);4
 Louie - Chill Nephew;Character;Sapphire;Dreamborn/Ally;Into the Inklands (Common)/Fabled (Common);4
 Louie - One Cool Duck;Character;Amber;Storyborn/Ally;Reign of Jafar (Uncommon);0
-# Traits done through here
-Louis - Endearing Alligator;Character;Emerald;;Reign of Jafar (Uncommon);1
-Lucifer - Cunning Cat;Character;Emerald;;Rise of the Floodborn (Rare);0
-Lucky - Runt of the Litter;Character;Sapphire;;Archazia's Island (Rare);0
-Lucky - The 15th Puppy;Character;Amber;;Into the Inklands (Rare);0
+Louis - Endearing Alligator;Character;Emerald;Storyborn/Ally;Reign of Jafar (Uncommon);1
+Lucifer - Cunning Cat;Character;Emerald;Storyborn/Ally;Rise of the Floodborn (Rare);0
+Lucky - Runt of the Litter;Character;Sapphire;Storyborn/Puppy;Archazia's Island (Rare);0
+Lucky - The 15th Puppy;Character;Amber;Storyborn/Puppy;Into the Inklands (Rare);0
 Lucky Dime;Item;Sapphire;;Into the Inklands (Legendary);0
-Ludwig Von Drake - All-Around Expert;Character;Amber/Sapphire;;Reign of Jafar (Rare);0
-Ludwig von Drake - Self Proclaimed Genius;Character;Sapphire;;Shimmering Skies (Uncommon);1
+Ludwig Von Drake - All-Around Expert;Character;Amber/Sapphire;Storyborn/Ally;Reign of Jafar (Rare);0
+Ludwig von Drake - Self‐Proclaimed Genius;Character;Sapphire;Storyborn/Ally;Shimmering Skies (Uncommon);1
 Luisa Madrigal - Confident Climber;Character;Amethyst;Floodborn/Ally/Madrigal;Wilds Unknown (Legendary);0
-Luisa Madrigal - Entertaining Muscle;Character;Amethyst;;Shimmering Skies (Rare);0
-Luisa Madrigal - Magically Strong One;Character;Amethyst;;Ursula's Return (Common)/Fabled (Common);3
+Luisa Madrigal - Entertaining Muscle;Character;Amethyst;Storyborn/Ally/Madrigal;Shimmering Skies (Rare);0
+Luisa Madrigal - Magically Strong One;Character;Amethyst;Storyborn/Ally/Madrigal;Ursula's Return (Common)/Fabled (Common);3
 Luisa Madrigal - No Pressure;Character;Sapphire;Dreamborn/Ally/Madrigal;Wilds Unknown (Uncommon);1
 Luisa Madrigal - Pushing Through;Character;Amethyst;Storyborn/Ally/Madrigal;Wilds Unknown (Common);0
-Luisa Madrigal - Rock of the Family;Character;Steel;;Ursula's Return (Common);2
+Luisa Madrigal - Rock of the Family;Character;Steel;Storyborn/Ally/Madrigal;Ursula's Return (Common);2
+# Traits done through here
 Lumiere - Fiery Friend;Character;Ruby;;Ursula's Return (Rare)/Fabled (Rare);0
 Lumiere - Fired Up;Character;Ruby/Sapphire;;Reign of Jafar (Super Rare);0
 Lumiere - Hotheaded Candelabra;Character;Ruby;;Rise of the Floodborn (Rare);0
@@ -2480,3 +2480,14 @@ Zipper - Flying Ranger;Character;Steel;;Reign of Jafar (Uncommon);0
 Zipper - Tiny Helper;Character;Sapphire;Storyborn/Ally;Wilds Unknown (Uncommon);1
 Zootopia - Police Headquarters;Location;Steel;;Whispers in the Well (Uncommon);0
 Zootopia - Tundratown;Location;Amber;;Winterspell (Common);0
+
+# 21
+# Miguel Rivera - Street Musician;Character;Amber;Storyborn/Hero;Hyperia City (Rare);0
+# 63
+# Un Poco Loco;Action;Amethyst;Song;Hyperia City (Rare);0
+# 117
+# Héctor Rivera - Street Musician;Character;Ruby;Storyborn/Mentor;Hyperia City (Uncommon);0
+# 170
+# Institute of Technology - Honey Lemon's Lab;Location;Sapphire;;Hyperia City (Uncommon);0
+# 204
+# Khan Industries - Greenway Landmark;Location;Steel;;Hyperia City (Rare);0
