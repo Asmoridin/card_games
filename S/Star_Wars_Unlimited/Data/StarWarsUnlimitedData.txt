@@ -574,16 +574,16 @@ Emperor Palpatine, Galactic Ruler;SOR-006-R;Leader;Force/Imperial/Sith/Official;
 Emperor Palpatine, Master of the Dark Side;SOR-135-R;Ground Unit;Force/Imperial/Sith/Official;R/B;2
 Emperor's Royal Guard;SOR-082-R;Ground Unit;Imperial;G/B;2
 Encircle;TS26-61-U;Event;Tactic;G;0
-# done through here
-Encouraging Leadership;TWI-126-C;Event;G;3
-Endless Legions;SHD-109-L;Event;G;1
-Energy Conversion Lab;SOR-022-R;Base;G;1
-Enforced Loyalty;SHD-108-U;Event;G;3 # 1 foil
-Enforcer Squadron;SEC-138-C;Space Unit;R/B;3 # 1 foil
+Encouraging Leadership;TWI-126-C;Event;Learned;G;3
+Endless Legions;SHD-109-L;Event;Supply;G;1
+Energy Conversion Lab;SOR-022-R;Base;Eadu;G;1
+Enforced Loyalty;SHD-108-U;Event;Law;G;3 # 1 foil
+Enforcer Squadron;SEC-138-C;Space Unit;Republic/Vehicle/Fighter;R/B;3 # 1 foil
 Enfys Nest's Helmet;LAW-186-R;Upgrade;Item/Armor;R/W;0
-Enfys Nest, Champion of Justice;TWI-198-R;Ground Unit;Y/W;2 # 1 foil
-Enfys Nest, Marauder;SHD-219-U;Ground Unit;Y;2
+Enfys Nest, Champion of Justice;TWI-198-R;Ground Unit;Underworld;Y/W;2 # 1 foil
+Enfys Nest, Marauder;SHD-219-U;Ground Unit;Underworld;Y;2
 Enfys Nest, Until We Can Go No Higher;LAW-014-C;Leader;Underworld;R/W;0
+# done through here
 Enterprising Lackeys;SHD-107-R;Ground Unit;G;1
 Enticing Reward;SHD-222-U;Upgrade;Y;3 # 1 hyperfoil
 Entrenched;SOR-072-U;Upgrade;U;3
@@ -2114,6 +2114,16 @@ Executor, Final Destruction of the Alliance;ASH-197-S;Space Unit;Imperial/Vehicl
 Nowhere to Hide;ASH-198-U;Upgrade;Condition;Y/B;0
 There Is No Conflict;ASH-199-S;Upgrade;Innate;Y/B;0
 Rehabilitation;ASH-200-R;Event;Learned;Y/B;0
+Open Circle Ace;ASH-201-C;Space Unit;Republic/Vehicle/Fighter;Y/W;0
+Carson Teva, There's Something Going On;ASH-202-R;Ground Unit;New Republic;Y/W;0
+Mando's N-1 Starfighter, Faster than a Fathier;ASH-203-R;Space Unit;Mandalorian/Vehicle/Fighter;Y/W;0
+Blade Three, Bane of the Devastator;ASH-204-U;Space Unit;Rebel/Vehicle/Fighter;Y/W;0
+Inspiring Veteran;ASH-205-C;Ground Unit;Resistance/Trooper;Y/W;0
+Kelleran Beq, Where are the Others?;ASH-206-L;Ground Unit;Force/Jedi;Y/W;0
+Heroic Purrgil;ASH-207-C;Space Unit;Creature;Y/W;0
+Sabine Wren, I Learned the Hard Way;ASH-208-U;Ground Unit;Jedi/Mandalorian/Spectre;Y/W;0
+Ezra Bridger, The Force is All I Need;ASH-209-U;Ground Unit;Force/Jedi/Spectre;Y/W;0
+DDC Defender;ASH-210-U;Upgrade;Item/Weapon;Y/W;0
 ** END **
 # HMW-001 missing
 # HMW-002 missing
@@ -2132,7 +2142,7 @@ Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
 # HMW-015 missing
 # HMW-016 missing
 Osha, Haunted by her Past;HMW-017-R;Leader;Force;Y/W;0
-# HMW-018 missing
+The Warrior, Deft Duelist;HMW-018-C;Leader;Tusken;Y/W;0
 Dune Sea;HMW-019-C;Base;Tatooine;U;0
 Great Grass Plains;HMW-020-C;Base;Naboo;U;0
 Kachirho;HMW-021-C;Base;Kashyyyk;U;0
@@ -2145,6 +2155,16 @@ Dendroid Wilds;HMW-029-C;Base;Endor;R;0
 Shadowlands;HMW-030-C;Base;Kashyyyk;R;0
 Kyyyalstaad Swamp;HMW-031-C;Base;Kashyyyk;Y;0
 Otoh Gunga;HMW-033-C;Base;Naboo;Y;0
+Research Station 9;HMW-034-C;Base;Endor;Y;0
+Hunter, Everyone Get to Cover!;HMW-035-L;Ground Unit;Clone;U/G/W;0
+# HMW-036 missing
+Bacta Tank;HMW-037-R;Upgrade;Fortification;U/G;0
+# HMW-038 missing
+# HMW-039 missing
+# HMW-040 missing
+# HMW-041 missing
+# HMW-042 missing
+Darth Vader, Any Methods Necessary;HMW-043-L;Ground Unit;Force/Imperial/Sith;G/R/B;0
 
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
