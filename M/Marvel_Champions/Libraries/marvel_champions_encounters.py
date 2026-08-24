@@ -25,6 +25,7 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
     'Celestial Tech', 'Clan Akkaba', 'Sauron', 'Arcade', 'Crazy Gang', 'Hellfire',
     'A.I.M. Abduction', 'A.I.M. Science', "Batroc's Brigade", 'Scientist Supreme', 'S.H.I.E.L.D.',
 	'Trickster Magic', 'All Versus All',
+    'Cops', 'The Owl', 'Drive', 'Disasters', 'Tracksuit Mafia', 'Tombstone',
 ]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
@@ -51,6 +52,8 @@ reg_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderb
 res_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderbolt_encounters + \
     res_encounter))
 modular_encounters = all_modular_encounters
+
+fear_no_evil_villains = ['Bullseye', 'Electro', 'Hammerhead', 'Purple Man', 'Typhoid Mary']
 
 encounters = []
 def get_req_by_encounter(encounter_set):
@@ -171,6 +174,12 @@ encounters.extend([
   Encounter('Spider-Woman', 4, reg="Resistance"),
   Encounter('She-Hulk', 4, reg="Registration"),
   Encounter('Vision', 4, reg="Resistance"),
+  Encounter('Art Museum Heist', 2),
+  Encounter('The Getaway', 2),
+  Encounter('Protection Racket', 2),
+  Encounter('The Raft Breakout', 2),
+  Encounter('Stop the Presses!', 2),
+  Encounter('Kingpin', 2),
 ])
 
 encounter_map = {}

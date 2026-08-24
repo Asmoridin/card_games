@@ -1198,18 +1198,18 @@ Luisa Madrigal - Magically Strong One;Character;Amethyst;Storyborn/Ally/Madrigal
 Luisa Madrigal - No Pressure;Character;Sapphire;Dreamborn/Ally/Madrigal;Wilds Unknown (Uncommon);1
 Luisa Madrigal - Pushing Through;Character;Amethyst;Storyborn/Ally/Madrigal;Wilds Unknown (Common);0
 Luisa Madrigal - Rock of the Family;Character;Steel;Storyborn/Ally/Madrigal;Ursula's Return (Common);2
-# Traits done through here
-Lumiere - Fiery Friend;Character;Ruby;;Ursula's Return (Rare)/Fabled (Rare);0
-Lumiere - Fired Up;Character;Ruby/Sapphire;;Reign of Jafar (Super Rare);0
-Lumiere - Hotheaded Candelabra;Character;Ruby;;Rise of the Floodborn (Rare);0
-Lumiere - Nimble Candelabra;Character;Ruby;;Reign of Jafar (Common);1
+Lumiere - Fiery Friend;Character;Ruby;Dreamborn/Ally;Ursula's Return (Rare)/Fabled (Rare);0
+Lumiere - Fired Up;Character;Ruby/Sapphire;Floodborn/Ally;Reign of Jafar (Super Rare);0
+Lumiere - Hotheaded Candelabra;Character;Ruby;Dreamborn/Ally;Rise of the Floodborn (Rare);0
+Lumiere - Nimble Candelabra;Character;Ruby;Storyborn/Ally;Reign of Jafar (Common);1
 Lumpy - Hunny Druid;Character;Amethyst;Dreamborn/Ally/Hunny;Attack of the Vine! (Uncommon);0
 Lumpy - Playful Heffalump;Character;Amethyst;Storyborn/Ally;Winterspell (Common);1
 Lyle Tiberius Rourke - Adventurer for Hire;Character;Emerald;Storyborn/Villain;Wilds Unknown (Uncommon);0
 Lyle Tiberius Rourke - Crystallized Commander;Character;Ruby;Floodborn/Villain;Wilds Unknown (Rare);0
-Lyle Tiberius Rourke - Crystallized Mercenary;Character;Ruby;;Archazia's Island (Rare);1
-Lyle Tiberius Rourke - Cunning Mercenary;Character;Emerald;;Into the Inklands (Super Rare);1
+Lyle Tiberius Rourke - Crystallized Mercenary;Character;Ruby;Storyborn/Villain;Archazia's Island (Rare);1
+Lyle Tiberius Rourke - Cunning Mercenary;Character;Emerald;Storyborn/Villain;Into the Inklands (Super Rare);1
 Lyle Tiberius Rourke - Looking for His Moment;Character;Ruby;Storyborn/Villain;Wilds Unknown (Common);0
+# Traits done through here
 Lythos - Rock Titan;Character;Steel;;Into the Inklands (Uncommon);0
 Mad Dog - Karnage's First Mate;Character;Emerald;;Reign of Jafar (Common);0
 Mad Hatter - Eccentric Host;Character;Amethyst;;Azurite Sea (Super Rare);1
@@ -2485,8 +2485,17 @@ Zootopia - Tundratown;Location;Amber;;Winterspell (Common);0
 # Miguel Rivera - Street Musician;Character;Amber;Storyborn/Hero;Hyperia City (Rare);0
 # 63
 # Un Poco Loco;Action;Amethyst;Song;Hyperia City (Rare);0
+# 68
+# Merlin's Shop and Smithy - Magical Market;Location;Amethyst;;Hyperia City (Uncommon);0
+# 109
+# Pepita - Sweet Kitty;Character;Ruby;Storyborn/Ally;Hyperia City (Common);0
 # 117
 # Héctor Rivera - Street Musician;Character;Ruby;Storyborn/Mentor;Hyperia City (Uncommon);0
+# 119
+# Pepita - Imelda's Right Hand;Character;Ruby;Storyborn/Ally;Hyperia City (Super Rare);0
+# 135-136
+# Land of the Dead - Marigold Bridge;Location;Ruby;;Hyperia City (Uncommon);0
+# Khan Stadium - State of the Art;Location;Ruby;;Hyperia City (Common);0
 # 170
 # Institute of Technology - Honey Lemon's Lab;Location;Sapphire;;Hyperia City (Uncommon);0
 # 204
