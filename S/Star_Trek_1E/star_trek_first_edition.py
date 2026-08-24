@@ -29,7 +29,7 @@ VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', '
     'Homefront IV', 'Homefront II', 'Referee Reprints', 'Q Who?', 'The Next Generation',
     'The Next Generation: Supplemental', 'BaH!', 'Crossover', 'Straight and Steady', 'The Cage',
     'Dramatis Personae', 'To the Journey', 'Cold Front', 'Shades of Gray', 'Resistance is Futile',
-    'Pre-Warp Pack', ]
+    'Pre-Warp Pack', 'Through the Looking Glass']
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',

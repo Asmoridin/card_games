@@ -48,7 +48,8 @@ for line in lines:
     card_mapping[card_number] = card_name
     if card_rarity not in valid_rarities:
         print(f"Invalid card rarity {card_rarity} for {card_name}")
-    card_block = int(card_block)
+    card_blocks = card_block.split('/')
+    card_blocks = [int(block) for block in card_blocks if block.isdigit()]
     card_lvl = int(card_lvl)
     card_cost = int(card_cost)
     if card_color not in valid_colors:
@@ -64,7 +65,7 @@ for line in lines:
     TOTAL_MAX += CARD_MAX
     if card_own < CARD_MAX:
         most_needed_cards[card_number] = CARD_MAX - card_own
-    item_list.append((card_name, card_number, card_rarity, card_block, card_lvl, card_cost, \
+    item_list.append((card_name, card_number, card_rarity, card_blocks, card_lvl, card_cost, \
         card_color, card_type, card_traits, card_sets, card_own, CARD_MAX))
 
 #Filter by set
