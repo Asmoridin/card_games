@@ -1388,6 +1388,7 @@ Raging Bolt ex;Pokemon;Dragon;240;;Burst Roar|Bellowing Thunder;TEF 123 (Double 
 Hoothoot;Pokemon;Colorless;70;;Silent Wing;TEF 126 (Common);H;4;1
 Dunsparce;Pokemon;Colorless;60;;Gnaw|Dig;TEF 128 (Common)/PRE 79 (Common);H;4;0
 Dudunsparce;Pokemon;Colorless;140;Run Away Draw;Land Crush;TEF 129 (Rare)/PRE 80 (Rare);H;4;0
+Bianca's Devotion;Trainer;Supporter;;;;TEF 142 (Uncommon)/TEF 197 (Ultra Rare)/TEF 209 (Special Illustration Rare);H;4;0
 Buddy-Buddy Poffin;Trainer;Item;;;;TEF 144 (Uncommon)/TWM 223 (Hyper Rare)/PRE 101 (Uncommon)/MEG 167 (Ultra Rare)/ASC 184 (Common);H;8;2
 Ciphermaniac's Codebreaking;Trainer;Supporter;;;;TEF 145 (Uncommon)/TEF 198 (Ultra Rare)/PRE 104 (Uncommon);H;4;0
 Eri;Trainer;Supporter;;;;TEF 146 (Uncommon)/TEF 199 (Ultra Rare)/TEF 210 (Special Illustration Rare)/PRE 136 (Ultra Rare);H;4;0
@@ -1643,8 +1644,17 @@ Turtonator;Pokemon;Dragon;120;;Fully Singe|Steaming Stomp;SSP 137 (Uncommon);H;4
 Applin;Pokemon;Dragon;40;;Nutrients|Trip Over;SSP 138 (Common);H;4;0
 Flapple;Pokemon;Dragon;80;;Acidic Spit|Speed Dive;SSP 139 (Uncommon)/SSP 210 (Illustration Rare);H;4;0
 Appletun;Pokemon;Dragon;90;;Melting Sweetness|Wild Tackle;SSP 140 (Uncommon)/SSP 211 (Illustration Rare);H;4;0
-
+Eternatus;Pokemon;Dragon;150;;Dyna-Blast|World Ender;SSP 141 (Rare);H;4;0
+Tatsugiri ex;Pokemon;Dragon;160;;Surprise Pump|Cinnabar Lure;SSP 142 (Double Rare)/SSP 226 (Ultra Rare);H;4;0
 Eevee;Pokemon;Colorless;50;Boosted Evolution;Reckless Charge;SSP 143 (Common)/PRE 74 (Common)/SVP 173 (Promo);H;4;0
+Snorlax;Pokemon;Colorless;150;;Spike Draw|Mega Punch;SSP 144 (Common);H;4;0
+Slakoth;Pokemon;Colorless;60;;Take It Easy;SSP 145 (Common)/SSP 212 (Illustration Rare);H;4;0
+Vigoroth;Pokemon;Colorless;90;;Slashing Claw;SSP 146 (Common);H;4;0
+Slaking ex;Pokemon;Colorless;340;Born to Slack;Great Swing;SSP 147 (Double Rare)/SSP 227 (Ultra Rare);H;4;0
+Swablu;Pokemon;Colorless;50;;Disarming Voice;SSP 148 (Common);H;4;0
+Zangoose;Pokemon;Colorless;90;;Fury Cutter;SSP 149 (Common);H;4;0
+Kecleon;Pokemon;Colorless;70;Expert Hider;Lick Whip;SSP 150 (Common)/SSP 213 (Illustration Rare);H;4;0
+
 Terapagos;Pokemon;Colorless;120;;Prism Charge|Hard Tackle;SSP 161 (Rare)/ASC 178 (Rare);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
 Counter Gain;Trainer;Pokemon Tool;;;;Lost Thunder 170 (Uncommon)/Lost Thunder 230 (Rare Secret)/SSP 169 (Uncommon)/SSP 249 (Hyper Rare)/ASC 186 (Common)/ASC 259 (Ultra Rare);H;4;0
@@ -1659,8 +1669,8 @@ Surfer;Trainer;Supporter;;;;SSP 187 (Uncommon)/SSP 235 (Ultra Rare)/ASC 200 (Com
 Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
-# SSP 191-211 last new card (done)
-# SSP 215-225 done
+# SSP 191-213 last new card (done)
+# SSP 215-227 done
 # SSP 230 done
 # SSP 232 done
 # SSP 234-242 done
