@@ -1435,6 +1435,7 @@ Bloodmoon Ursaluna ex;Pokemon;Colorless;260;Seasoned Skill;Blood Moon;TWM 141 (D
 Accompanying Flute;Trainer;Item;;;;TWM 142 (Uncommon);H;4;0
 Bug Catching Set;Trainer;Item;;;;TWM 143 (Uncommon)/PRE 102 (Uncommon);H;4;0
 Carmine;Trainer;Supporter;;;;TWM 145 (Uncommon)/TWM 204 (Ultra Rare)/TWM 217 (Special Illustration Rare)/PRE 103 (Uncommon);H;4;0
+Community Center;Trainer;Stadium;;;;TWM 146 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 Festival Grounds;Trainer;Stadium;;;;TWM 149 (Uncommon)/PRE 108 (Uncommon);H;4;0
 Handheld Fan;Trainer;Pokemon Tool;;;;TWM 150 (Uncommon);H;4;0
@@ -1654,6 +1655,16 @@ Slaking ex;Pokemon;Colorless;340;Born to Slack;Great Swing;SSP 147 (Double Rare)
 Swablu;Pokemon;Colorless;50;;Disarming Voice;SSP 148 (Common);H;4;0
 Zangoose;Pokemon;Colorless;90;;Fury Cutter;SSP 149 (Common);H;4;0
 Kecleon;Pokemon;Colorless;70;Expert Hider;Lick Whip;SSP 150 (Common)/SSP 213 (Illustration Rare);H;4;0
+Bouffalant;Pokemon;Colorless;130;;Ready to Ram|Smashing Headbutt;SSP 151 (Common);H;4;0
+Rufflet;Pokemon;Colorless;70;;Flap;SSP 152 (Common);H;4;0
+Braviary;Pokemon;Colorless;130;;Drag Off|Blasting Wind;SSP 153 (Uncommon)/SSP 214 (Illustration Rare);H;4;0
+Helioptile;Pokemon;Colorless;70;;Tiny Bolt|Reckless Charge;SSP 154 (Common);H;4;0
+Heliolisk;Pokemon;Colorless;110;;Parabolic Charge|Electroslug;SSP 155 (Common);H;4;0
+Oranguru;Pokemon;Colorless;120;;Now You're in My Power|Smack;SSP 156 (Common);H;4;0
+Tandemaus;Pokemon;Colorless;40;;Play Rough;SSP 157 (Common);H;4;0
+Maushold;Pokemon;Colorless;80;;Familial March|Incessant Incisors;SSP 158 (Uncommon);H;4;0
+Cyclizar ex;Pokemon;Colorless;210;;Break Through|Zircon Road;SSP 159 (Double Rare)/SSP 228 (Ultra Rare);H;4;0
+Flamigo ex;Pokemon;Colorless;200;;Precise Beak|Brave Bird;SSP 160 (Double Rare);H;4;0
 
 Terapagos;Pokemon;Colorless;120;;Prism Charge|Hard Tackle;SSP 161 (Rare)/ASC 178 (Rare);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
@@ -1669,8 +1680,7 @@ Surfer;Trainer;Supporter;;;;SSP 187 (Uncommon)/SSP 235 (Ultra Rare)/ASC 200 (Com
 Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
-# SSP 191-213 last new card (done)
-# SSP 215-227 done
+# SSP 191-228 last new card (done)
 # SSP 230 done
 # SSP 232 done
 # SSP 234-242 done
