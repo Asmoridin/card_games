@@ -583,17 +583,17 @@ Enfys Nest's Helmet;LAW-186-R;Upgrade;Item/Armor;R/W;0
 Enfys Nest, Champion of Justice;TWI-198-R;Ground Unit;Underworld;Y/W;2 # 1 foil
 Enfys Nest, Marauder;SHD-219-U;Ground Unit;Underworld;Y;2
 Enfys Nest, Until We Can Go No Higher;LAW-014-C;Leader;Underworld;R/W;0
+Enterprising Lackeys;SHD-107-R;Ground Unit;Underworld;G;1
+Enticing Reward;SHD-222-U;Upgrade;Bounty/Condition;Y;3 # 1 hyperfoil
+Entrenched;SOR-072-U;Upgrade;Condition;U;3
+Ephant Mon, Head of Security;SHD-088-R;Ground Unit;Underworld;G/B;0
+Equalize;TWI-055-R;Event;Tactic;U;0
+Escape Pod;SEC-056-R;Space Unit;Vehicle/Transport;U;2
+Escort Skiff;SOR-114-C;Ground Unit;Underworld/Vehicle/Speeder;G;3 # 1 hyperspace
+Eta-2 Light Interceptor;TWI-244-C;Space Unit;Republic/Vehicle/Fighter;W;3
+Evacuate;SHD-233-L;Event;Tactic;Y;1 # 1 hyperfoil
+Evacuation Escort;IBH-012-S/IBH-035-S/IBH-044-S;Space Unit;Rebel/Vehicle/Fighter;Y/W;0
 # done through here
-Enterprising Lackeys;SHD-107-R;Ground Unit;G;1
-Enticing Reward;SHD-222-U;Upgrade;Y;3 # 1 hyperfoil
-Entrenched;SOR-072-U;Upgrade;U;3
-Ephant Mon, Head of Security;SHD-088-R;Ground Unit;G/B;0
-Equalize;TWI-055-R;Event;U;0
-Escape Pod;SEC-056-R;Space Unit;U;2
-Escort Skiff;SOR-114-C;Ground Unit;G;3 # 1 hyperspace
-Eta-2 Light Interceptor;TWI-244-C;Space Unit;W;3
-Evacuate;SHD-233-L;Event;Y;1 # 1 hyperfoil
-Evacuation Escort;IBH-012-S/IBH-035-S/IBH-044-S;Space Unit;Y/W;0
 Evade Arrest;TS26-82-U;Event;Trick;Y;0
 Evasive Maneuver;JTL-262-C;Event;N;3
 Every Day, More Lies;LAW-204-C;Event;Innate;R;0
@@ -2124,6 +2124,16 @@ Heroic Purrgil;ASH-207-C;Space Unit;Creature;Y/W;0
 Sabine Wren, I Learned the Hard Way;ASH-208-U;Ground Unit;Jedi/Mandalorian/Spectre;Y/W;0
 Ezra Bridger, The Force is All I Need;ASH-209-U;Ground Unit;Force/Jedi/Spectre;Y/W;0
 DDC Defender;ASH-210-U;Upgrade;Item/Weapon;Y/W;0
+Fateful Goodbye;ASH-211-R;Event;Innate;Y/W;0
+Peli Motto, You Bring the Cash?;ASH-212-R;Ground Unit;Fringe;Y;0
+Womp Rat;ASH-213-C;Ground Unit;Creature;Y;0
+Amnesty Officer;ASH-214-C;Ground Unit;New Republic/Official;Y;0
+Flanking TIE Interceptor;ASH-215-C;Space Unit;Imperial/Vehicle/Fighter;Y;0
+Mandalorian Scout;ASH-216-C;Ground Unit;Mandalorian;Y;0
+Mayor's Majordomo, No Problem Groveling;ASH-217-U;Ground Unit;Official;Y;0
+Ferry Droid;ASH-218-C;Ground Unit;Droid;Y;0
+Jod Na Nawood, Keeping Secrets;ASH-219-R;Ground Unit;Force/Underworld;Y;0
+Remnant Lookouts;ASH-220-U;Ground Unit;Imperial/Trooper;Y;0
 ** END **
 # HMW-001 missing
 # HMW-002 missing
@@ -2137,7 +2147,7 @@ Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
 Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
 Darth Sidious, There is No Mercy;HMW-011-R;Leader;Force/Sith;R/B;0
 # HMW-012 missing
-# HMW-013 missing
+Cham Syndulla, Hammer of Ryloth;HMW-013-R;Leader;Twi'lek;R/W;0
 Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
 # HMW-015 missing
 # HMW-016 missing
@@ -2165,6 +2175,18 @@ Bacta Tank;HMW-037-R;Upgrade;Fortification;U/G;0
 # HMW-041 missing
 # HMW-042 missing
 Darth Vader, Any Methods Necessary;HMW-043-L;Ground Unit;Force/Imperial/Sith;G/R/B;0
+# HMW-044 missing
+Logray, Bright Tree Shaman;HMW-045-R;Ground Unit;Ewok;G/R;0
+# HMW-046 missing
+# HMW-047 missing
+Vernestra Rwoh, We Should Handle This Ourselves;HMW-048-L;Ground Unit;Force/Jedi;G/Y;0
+# HMW-049 missing
+# HMW-050 missing
+Third Sister, Cycle of Vengeance;HMW-051-L;Ground Unit;Force/Imperial/Inquisitor;R/Y/B;0
+# HMW-052 missing
+# HMW-053 missing
+# HMW-054 missing
+Mae, Kill the Dream;HMW-055-L;Ground Unit;Force/Sith;Y/U/B;0
 
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
