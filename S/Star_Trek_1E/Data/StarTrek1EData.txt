@@ -1524,9 +1524,18 @@ Mr. Garak;Personnel;Non-Aligned;Holodeck Adventures;658;;2;0
 Mr. Homn;Personnel;Federation;Q Continuum;659;;2;0
 Mr. Nog;Personnel;Ferengi;Mirror, Mirror;660,4856;;2;0
 Mr. Quark;Personnel;Ferengi;Mirror, Mirror/Virtual Promos;661,4713,4857;;2;0
+Mr. Rom;Personnel;Ferengi;Mirror, Mirror;1751,4858;;2;0
+Mr. Scott (The Motion Pictures);Personnel;Federation;The Motion Pictures;1753,7283;;2;0
+Mr. Scott;Personnel;Federation;The Trouble with Tribbles;1752;;2;0
+Mr. Sisko;Personnel;Non-Aligned;Mirror, Mirror;1754,4867;;2;0
+Mr. Spock;Personnel;Federation;The Trouble with Tribbles/Virtual Promos;1755,4574;;2;0
 Mr. Tricorder;Equipment;;Homefront III;4101;;4;4
+Mr. Tuvok;Personnel;Federation;Mirror, Mirror;1756;;2;0
 Multidimensional Transport Device;Equipment;;Mirror, Mirror;1757,4804;;5;5
+Multivector Assault Mode;Interrupt;;The Borg;1758;;4;0
 Murder Investigation;Dilemma;Dual;Homefront;3495;;4;4
+Mutation;Interrupt;;Voyager/Virtual Promos;1759,3842;;4;0
+My First Raygun;Dilemma;Space;First Contact;1760;;4;0
 Mysterious Orb;Artifact;;Deep Space 9;1761;;2;1
 N'Garen;Personnel;Klingon;Blaze of Glory/Trouble with Tribbles Starter Decks;284,7115;;4;0
 N'Vek;Personnel;Romulan;Premiere;1810,6227,6590,6953,7875;;2;1
@@ -2007,8 +2016,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1750
-#1757
+# Done through card 1760
 #1761-1762
 #1764
 #1770
@@ -2179,7 +2187,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3744
 #3753
 #3839-3840
-#3843-3844
+#3842-3844
 #3846-3867
 #3874
 #3878
@@ -2239,6 +2247,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4565-4566
 #4568-4569
 #4571
+#4574
 #4594-4597
 #4600-4601
 #4658
@@ -2263,10 +2272,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4828-4829
 #4831-4834
 #4837-4850
-#4855-4857
-#4859-4862
+#4855-4862
 #4864
-#4866
+#4866-4867
 #4869-4874
 #4876
 #4878-4881
@@ -2441,7 +2449,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7164-7166
 #7168-7170
 #7172-7180
-#7182-7282
+#7182-7283
 #7286
 #7296
 #7301

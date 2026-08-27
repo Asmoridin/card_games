@@ -1419,6 +1419,7 @@ Wellspring Mask Ogerpon ex;Pokemon;Water;210;;Sob|Torrential Pump;TWM 64 (Double
 Iron Thorns ex;Pokemon;Lightning;230;Initialization;Volt Cyclone;TWM 77 (Double Rare)/TWM 196 (Ultra Rare)/PRE 32 (Double Rare);H;4;0
 Clefairy;Pokemon;Psychic;60;;Moon Kick;TWM 78 (Common)/ASC 74 (Common);H;4;0
 Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (Uncommon);H;4;0
+Abra;Pokemon;Psychic;40;Teleporter;Beam;TWM 80 (Common);H;4;0
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare)/ASC 99 (Rare);H;4;0
 Fezandipiti;Pokemon;Psychic;120;Adrena-Pheromone;Energy Feather;TWM 96 (Rare)/SFA 73 (Illustration Rare)/PRE 45 (Rare);H;4;0
 Conkeldurr;Pokemon;Fighting;180;;Tantrum|Gutsy Swing;TWM 105 (Uncommon);H;4;0
@@ -1665,11 +1666,17 @@ Tandemaus;Pokemon;Colorless;40;;Play Rough;SSP 157 (Common);H;4;0
 Maushold;Pokemon;Colorless;80;;Familial March|Incessant Incisors;SSP 158 (Uncommon);H;4;0
 Cyclizar ex;Pokemon;Colorless;210;;Break Through|Zircon Road;SSP 159 (Double Rare)/SSP 228 (Ultra Rare);H;4;0
 Flamigo ex;Pokemon;Colorless;200;;Precise Beak|Brave Bird;SSP 160 (Double Rare);H;4;0
-
 Terapagos;Pokemon;Colorless;120;;Prism Charge|Hard Tackle;SSP 161 (Rare)/ASC 178 (Rare);H;4;0
+Amulet of Hope;Trainer;Pokemon Tool;;;;SSP 162 (ACE SPEC Rare);H;2;0
+Babiri Berry;Trainer;Pokemon Tool;;;;SSP 163 (Uncommon);H;4;0
 Brilliant Blender;Trainer;Item;;;;SSP 164 (ACE SPEC Rare);H;2;0
+Call Bell;Trainer;Item;;;;SSP 165 (Uncommon);H;4;0
+Chill Teaser Toy;Trainer;Item;;;;SSP 166 (Uncommon);H;4;0
+Clemont's Quick Wit;Trainer;Supporter;;;;SSP 167 (Uncommon)/SSP 229 (Ultra Rare)/SSP 243 (Special Illustration Rare);H;4;0
+Colbur Berry;Trainer;Supporter;;;;SSP 168 (Uncommon);H;4;0
 Counter Gain;Trainer;Pokemon Tool;;;;Lost Thunder 170 (Uncommon)/Lost Thunder 230 (Rare Secret)/SSP 169 (Uncommon)/SSP 249 (Hyper Rare)/ASC 186 (Common)/ASC 259 (Ultra Rare);H;4;0
 Cyrano;Trainer;Supporter;;;;SSP 170 (Uncommon)/SSP 230 (Ultra Rare);H;4;0
+
 Drayton;Trainer;Supporter;;;;SSP 174 (Uncommon)/SSP 232 (Ultra Rare)/SSP 244 (Special Illustration Rare)/PRE 172 (Special Illustration Rare);H;4;0
 Dusk Ball;Trainer;Item;;;;Mysterious Treasures 110 (Uncommon)/Majestic Dawn 80 (Uncommon)/SSP 175 (Uncommon);H;4;0
 Energy Search Pro;Trainer;Item;;;;SSP 176 (ACE SPEC Rare);H;2;0
@@ -1680,9 +1687,7 @@ Surfer;Trainer;Supporter;;;;SSP 187 (Uncommon)/SSP 235 (Ultra Rare)/ASC 200 (Com
 Tyme;Trainer;Supporter;;;;SSP 190 (Uncommon)/PRE 143 (Ultra Rare);H;4;0
 Enriching Energy;Energy;Special Energy;;;;SSP 191 (ACE SPEC Rare);H;2;0
 
-# SSP 191-228 last new card (done)
-# SSP 230 done
+# SSP 191-230 last new card (done)
 # SSP 232 done
-# SSP 234-242 done
-# SSP 244 done
+# SSP 234-244 done
 # SSP 246-252 (last card done)
