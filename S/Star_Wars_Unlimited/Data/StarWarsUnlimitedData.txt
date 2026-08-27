@@ -593,17 +593,17 @@ Escort Skiff;SOR-114-C;Ground Unit;Underworld/Vehicle/Speeder;G;3 # 1 hyperspace
 Eta-2 Light Interceptor;TWI-244-C;Space Unit;Republic/Vehicle/Fighter;W;3
 Evacuate;SHD-233-L;Event;Tactic;Y;1 # 1 hyperfoil
 Evacuation Escort;IBH-012-S/IBH-035-S/IBH-044-S;Space Unit;Rebel/Vehicle/Fighter;Y/W;0
-# done through here
 Evade Arrest;TS26-82-U;Event;Trick;Y;0
-Evasive Maneuver;JTL-262-C;Event;N;3
+Evasive Maneuver;JTL-262-C;Event;Trick;N;3
 Every Day, More Lies;LAW-204-C;Event;Innate;R;0
-Evidence of the Crime;SHD-077-R;Event;U;1
-Evil is Everywhere;SEC-247-R;Event;B;0
-Execute Order 66;TWI-239-R;Event;B;0
+Evidence of the Crime;SHD-077-R;Event;Trick;U;1
+Evil is Everywhere;SEC-247-R;Event;Disaster;B;0
+Execute Order 66;TWI-239-R;Event;Plan;B;0
 Executioner's Arena;TS26-011-R;Base;Geonosis;R;0
-Executor, Might of the Empire;JTL-090-L;Space Unit;G/B;0
-Exegol Patroller;LOF-080-C;Space Unit;G/B;3 # 1 foil
-Exiled from the Force;SEC-054-R;Event;U;1
+Executor, Might of the Empire;JTL-090-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
+Exegol Patroller;LOF-080-C;Space Unit;First Order/Sith/Vehicle/Fighter;G/B;3 # 1 foil
+Exiled from the Force;SEC-054-R;Event;Condition;U;1
+# done through here
 Expendable Mercenary;LAW-159-C;Ground Unit;Underworld/Bounty Hunter;G;1 # 1 hyperspace
 Eye of Sion, To Peridea;LOF-088-R;Space Unit;G/B;1
 Ezra Bridger, Attuned With Life;LOF-046-U;Ground Unit;U/W;2
@@ -2134,6 +2134,16 @@ Mayor's Majordomo, No Problem Groveling;ASH-217-U;Ground Unit;Official;Y;0
 Ferry Droid;ASH-218-C;Ground Unit;Droid;Y;0
 Jod Na Nawood, Keeping Secrets;ASH-219-R;Ground Unit;Force/Underworld;Y;0
 Remnant Lookouts;ASH-220-U;Ground Unit;Imperial/Trooper;Y;0
+Helix Starfighter;ASH-221-C;Space Unit;Underworld/Vehicle/Fighter;Y;0
+Unsanctioned Patrol;ASH-222-C;Space Unit;Resistance/Vehicle/Fighter;Y;0
+Halo, Not According to Plan;ASH-223-U;Space Unit;Underworld/Vehicle/Transport;Y;0
+Elzar Mann, Haunted by a Vision;ASH-224-L;Ground Unit;Force/Jedi;Y;0
+Tatooine Sand Beast;ASH-225-C;Ground Unit;Creature;Y;0
+Qi'ra, Master of Teräs Käsi;ASH-226-U;Ground Unit;Underworld;Y;0
+Heightened Awareness;ASH-227-C;Upgrade;Force;Y;0
+Preparation;ASH-228-C;Upgrade;Plan;Y;0
+Camtono;ASH-229-R;Upgrade;Item;Y;0
+Improvised Identity;ASH-230-L;Upgrade;Gambit;Y;0
 ** END **
 # HMW-001 missing
 # HMW-002 missing
@@ -2187,10 +2197,22 @@ Third Sister, Cycle of Vengeance;HMW-051-L;Ground Unit;Force/Imperial/Inquisitor
 # HMW-053 missing
 # HMW-054 missing
 Mae, Kill the Dream;HMW-055-L;Ground Unit;Force/Sith;Y/U/B;0
-
+# HMW-055 missing
+# HMW-056 missing
+# HMW-057 missing
+# HMW-058 missing
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
 Director Krennic, The Work Has Stalled;HMW-061-S;Ground Unit;Imperial/Official;U/B;0
+Nuvo Vindi, Blue Shadow Perfected;HMW-062-R;Ground Unit;Separatist;U/B;0
+Rho Medical Shuttle;HMW-063-C;Space Unit;Imperial/Vehicle/Transport;U/B;0
+Scorch, Imperial Commando;HMW-064-U;Ground Unit;Imperial/Clone/Trooper;U/B;0
+# HMW-065 missing
+Carrion Spike, Harbinger of Tyranny;HMW-066-R;Space Unit;Imperial/Vehicle/Capital Ship;U/B;0
+# HMW-067 missing
+# HMW-068 missing
+# HMW-069 missing
+Dark Sanctum;ASH-070-U;Upgrade;Fortification;U/B;0
 
 Alliance Shield Generator;HMW-081-U;Upgrade;Fortification;U/W;0
 
