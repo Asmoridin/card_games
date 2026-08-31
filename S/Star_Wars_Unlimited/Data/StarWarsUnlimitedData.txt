@@ -603,17 +603,17 @@ Executioner's Arena;TS26-011-R;Base;Geonosis;R;0
 Executor, Might of the Empire;JTL-090-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
 Exegol Patroller;LOF-080-C;Space Unit;First Order/Sith/Vehicle/Fighter;G/B;3 # 1 foil
 Exiled from the Force;SEC-054-R;Event;Condition;U;1
-# done through here
 Expendable Mercenary;LAW-159-C;Ground Unit;Underworld/Bounty Hunter;G;1 # 1 hyperspace
-Eye of Sion, To Peridea;LOF-088-R;Space Unit;G/B;1
-Ezra Bridger, Attuned With Life;LOF-046-U;Ground Unit;U/W;2
-Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;3
+Eye of Sion, To Peridea;LOF-088-R;Space Unit;Imperial/Vehicle/Transport;G/B;1
+Ezra Bridger, Attuned With Life;LOF-046-U;Ground Unit;Force/Jedi/Rebel/Spectre;U/W;2
+Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;Force/Rebel/Spectre;W/Y;3
 Ezra Bridger, Spectre Six;LAW-035-U;Ground Unit;Force/Rebel/Spectre;U/G/W;1
-Face Off;JTL-178-U;Event;R;2
-Faith in Your Friends;SEC-211-U;Event;Y/W;3
-Falchion Ion Tank;TWI-065-C;Ground Unit;U;3 # 1 foil
-Fallen Jedi;LOF-230-C;Ground Unit;B;3
-Fallen Lightsaber;SOR-137-R;Upgrade;R/B;3
+Face Off;JTL-178-U;Event;Tactic;R;2
+Faith in Your Friends;SEC-211-U;Event;Gambit;Y/W;3
+Falchion Ion Tank;TWI-065-C;Ground Unit;Republic/Vehicle/Tank;U;3 # 1 foil
+Fallen Jedi;LOF-230-C;Ground Unit;Force/Jedi;B;3
+Fallen Lightsaber;SOR-137-R;Upgrade;Item/Weapon/Lightsaber;R/B;3
+# done through here
 Favorable Delegate;TWI-208-C;Ground Unit;Y;3
 Fear and Dead Men;LAW-179-R;Event;Tactic;R/B;0
 Fearless Attack;TS26-84-U;Event;Tactic;W;0
@@ -2144,12 +2144,22 @@ Heightened Awareness;ASH-227-C;Upgrade;Force;Y;0
 Preparation;ASH-228-C;Upgrade;Plan;Y;0
 Camtono;ASH-229-R;Upgrade;Item;Y;0
 Improvised Identity;ASH-230-L;Upgrade;Gambit;Y;0
+Diplomatic Pageantry;ASH-231-C;Event;Law;Y;0
+Full of Surprises;ASH-232-C;Event;Trick;Y;0
+Keep Them Talking;ASH-233-C;Event;Trick;Y;0
+Masterstroke;ASH-234-C;Event;Tactic;Y;0
+Sense Through the Force;ASH-235-R;Event;Force;Y;0
+Far Far Away;ASH-236-U;Event;Gambit;Y;0
+Mouse Droid;ASH-237-C;Ground Unit;Imperial/Droid;B;0
+Attendant Navigator;ASH-238-C;Ground Unit;First Order;B;0
+Imperial Loyalist;ASH-239-C;Ground Unit;Imperial;B;0
+Mandalorian Super Commandos;ASH-240-C;Ground Unit;Mandalorian/Trooper;B;0
 ** END **
 # HMW-001 missing
 # HMW-002 missing
 Doctor Hemlock, Emotion Has No Place Here;HMW-003-C;Leader;Imperial/Official;U/B;0
 Grand Moff Tarkin, Tyrant of the Outer Rim;HMW-004-S;Leader;Imperial/Official/Vehicle/Capital Ship;U/B;0
-# HMW-005 missing
+Jar Jar Binks, Bombad General;HMW-005-C;Leader;Gungan;U/W;0
 # HMW-006 missing
 Darth Vader, Might of the Empire;HMW-007-R;Leader;Force/Imperial/Sith;G/B;0
 # HMW-008 missing
@@ -2160,7 +2170,7 @@ Darth Sidious, There is No Mercy;HMW-011-R;Leader;Force/Sith;R/B;0
 Cham Syndulla, Hammer of Ryloth;HMW-013-R;Leader;Twi'lek;R/W;0
 Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
 # HMW-015 missing
-# HMW-016 missing
+Maul, Old Master;HMW-016-R;Leader;Force/Fringe;Y/B;0
 Osha, Haunted by her Past;HMW-017-R;Leader;Force;Y/W;0
 The Warrior, Deft Duelist;HMW-018-C;Leader;Tusken;Y/W;0
 Dune Sea;HMW-019-C;Base;Tatooine;U;0
@@ -2177,9 +2187,9 @@ Kyyyalstaad Swamp;HMW-031-C;Base;Kashyyyk;Y;0
 Otoh Gunga;HMW-033-C;Base;Naboo;Y;0
 Research Station 9;HMW-034-C;Base;Endor;Y;0
 Hunter, Everyone Get to Cover!;HMW-035-L;Ground Unit;Clone;U/G/W;0
-# HMW-036 missing
+Kelnacca, Solitary Master;HMW-036-R;Ground Unit;Force/Jedi/Wookiee;U/G;0
 Bacta Tank;HMW-037-R;Upgrade;Fortification;U/G;0
-# HMW-038 missing
+Bestial Bond;HMW-038-U;Upgrade;Innate;U/G;0
 # HMW-039 missing
 # HMW-040 missing
 # HMW-041 missing
@@ -2212,7 +2222,8 @@ Carrion Spike, Harbinger of Tyranny;HMW-066-R;Space Unit;Imperial/Vehicle/Capita
 # HMW-067 missing
 # HMW-068 missing
 # HMW-069 missing
-Dark Sanctum;ASH-070-U;Upgrade;Fortification;U/B;0
+Dark Sanctum;HMW-070-U;Upgrade;Fortification;U/B;0
+Ravage;HMW-071-U;Event;Disaster/Tactic;U/B;0
 
 Alliance Shield Generator;HMW-081-U;Upgrade;Fortification;U/W;0
 
