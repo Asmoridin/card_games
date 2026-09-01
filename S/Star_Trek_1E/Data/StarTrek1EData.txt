@@ -1553,13 +1553,20 @@ Narrow Escape;Interrupt;;The Borg;1768;;4;0
 Natima Lang;Personnel;Cardassian;Deep Space 9;1769;;2;0
 Nausicaans;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;1770,6215,6578,6941,7148,7863;;4;0 # need errata
 Nava;Personnel;Ferengi;Rules of Acquisition;280,4438;;4;0
+Navigate Plasma Storms;Objective;;Deep Space 9;1771;;4;0
+Navigational Hazards;Dilemma;Space;The Dominion/Voyager;1772,1773;;4;0
 Navok;Personnel;Romulan;Blaze of Glory;281;;4;0
+Near-Warp Transport;Interrupt;;Premiere;1774,6216,6579,6942,7864,8228;;4;0
 Nebula;Mission;Space;Q Continuum;282;;4;0
+Neela;Personnel;Bajoran;Deep Space 9;1775;;2;0
 Neelix (Dramatis Personae);Personnel;Hirogen;Dramatis Personae;8382;8392;2;0
 Neelix (Dramatis Personae);Personnel;Klingon;Dramatis Personae;8392;8382;2;0
+Neelix;Personnel;Federation;Voyager/Virtual Promos;1778,5479;1777;2;0
+Neelix;Personnel;Non-Aligned;Voyager/Virtual Promos;1777,5168;1778;2;0
 Nekrit Supply Depot;Facility;Non-Aligned;Voyager;283;;4;0
 Nella Daren;Personnel;Federation;Premiere;1776,6217,6580,6943,7865,8229;;2;1
 Neral;Personnel;Romulan;Premiere;1779,6218,6581,6944,7866;;2;1
+Netek;Personnel;Hirogen;The Borg;1780;;2;0
 Neural Servo Device;Event;;Premiere;1781,6219,6582,6945,7867,8231;;4;0 # needs errata
 New Essentialists;Dilemma;Planet;Blaze of Glory/Homefront;1785,3496;;5;4 # have 4 HF
 Nilva;Personnel;Ferengi;Rules of Acquisition;285;;4;0
@@ -2022,9 +2029,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1770
-#1776
-#1779
+# Done through card 1780
 #1781
 #1785
 #1794
@@ -2294,6 +2299,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5054
 #5146
 #5148
+#5168
 #5170-5171
 #5173
 #5175-5176
@@ -2314,6 +2320,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5452-5454
 #5456-5464
 #5468
+#5479
 #5493
 #5495-5497
 #5499-5500
@@ -2356,8 +2363,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5899-5913
 #5916-5918
 #5966-6211
-#6212-6215
-#6217-6219
+#6212-6219
 #6222
 #6225-6227
 #6229-6232
@@ -2385,8 +2391,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6325
 #6328-6460
 #6464-6550
-#6552-6578
-#6580-6582
+#6552-6582
 #6585
 #6588-6590
 #6592-6595
@@ -2415,8 +2420,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6941
-#6943-6945
+#6823-6945
 #6948
 #6951-6953
 #6955-6958
@@ -2478,8 +2482,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7863
-#7865-7867
+#7808-7867
 #7870
 #7873-7875
 #7877-7880
@@ -2529,7 +2532,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8172-8185
 #8187-8212
 #8214-8222
-#8229
+#8228-8229
 #8231
 #8238
 #8243-8244
