@@ -13,7 +13,7 @@ from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Pokemon TCG"
 
-CURRENT_DECK_ERA = "2026 - TEF-CRI"
+CURRENT_DECK_ERA = "2026 - TEF-PBL"
 
 valid_rarities = ['Common', 'Uncommon', 'Rare', 'Illustration Rare', 'Ultra Rare', 'Double Rare',
     'Special Illustration Rare', 'Black White Rare', 'Promo', 'Rare Holo', 'Rare Ultra',
