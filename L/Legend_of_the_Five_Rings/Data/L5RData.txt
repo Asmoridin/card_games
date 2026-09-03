@@ -4465,11 +4465,22 @@ Earth's Unfettered Rage;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Editi
 Earth's Unfettered Rage;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
 Earth's Yearning Clasp;Spell;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Earth's Yearning Clasp;Spell;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
+Earthen Blade;Spell;;The Imperial Gift 2 (Fixed);Destroyer War (Celestial);1;0
+Earthen Fist;Strategy;;Empire at War (Common);Destroyer War (Celestial);3;0
+Earthen Guardians;Spell;;The Truest Test (Uncommon);Age of Enlightenment (Lotus);3;0
+Earthen Guardians;Spell;;The Truest Test (Uncommon);Race for the Throne (Samurai);3;0
+Earthly Yearnings;Spell;;The Fall of Otosan Uchi (Uncommon);Four Winds (Gold);3;0
+Earthly Yearnings;Spell;;The Fall of Otosan Uchi (Uncommon);Rain of Blood (Diamond);3;0
+Earthquake at Otosan Uchi;Event;;The War of Spirits (Rare);Hidden Emperor (Jade);1;0
 Earthquake • Experienced;Spell;;Chaos Reigns III (Fixed);Shattered Empire;3;0
 Earthquake;Spell;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Earthquake;Spell;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Earthquake;Spell;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Earthquake;Spell;;Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
+Earthworks;Holding;;Gold Edition (Common);Four Winds (Gold);3;0
+Earthworks;Holding;;Shadowlands (Common);Clan Wars (Imperial);3;0
+East Hub Village;Holding;;Rise of the Shogun (Rare);Age of Enlightenment (Lotus);3;0
+East Wall of Otosan Uchi;Holding;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);1;0
 Echoing Infinity;Spell;;Road to Ruin (Fixed);Shattered Empire;3;0
 Echoing Infinity;Spell;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Effortless Counterattack;Strategy;;Second City (Rare);Age of Conquest (Emperor);3;0
@@ -4939,6 +4950,8 @@ Gold Mine;Holding;;Ivory Edition (Fixed);A Brother's Destiny (Twenty Festivals);
 Gold Mine;Holding;;Jade Edition (Common)/Pearl Edition (Common)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
 Gold Mine;Holding;;Lotus Edition (Fixed)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
 Gold Mine;Holding;;Samurai Edition (Fixed);Race for the Throne (Samurai);3;0
+Golden Obi of the Sun Goddess;Item;;Anvil of Despair (Rare);Clan Wars (Imperial);1;0
+Golden Obi of the Sun Goddess;Item;;Gold Edition (Rare);Four Winds (Gold);1;0
 Golden Sun Plain;Region;;The Dark Journey Home (Rare);Hidden Emperor (Jade);1;0
 Gozaru no Oni;Personality;Unaligned;Embers of War (Uncommon);Age of Conquest (Emperor);3;0
 Grateful Reward;Strategy;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
@@ -6086,6 +6099,7 @@ Lies, Lies, Lies...;Strategy;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Em
 Lies, Lies, Lies...;Strategy;;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
 Lieutenant Morito;Follower;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);1;1
 Lieutenant Sukune;Follower;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);1;1
+Lieutenant Uji;Follower;;Scorpion Clan Coup 2 (Uncommon);Clan Wars (Imperial);1;0
 Light a Candle;Spell;;Dark Allies (Common);Four Winds (Gold);3;1
 Light Cavalry;Follower;;Gold Edition (Common);Four Winds (Gold);3;0
 Light Cavalry;Follower;;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common);Clan Wars (Imperial);3;0
@@ -8284,6 +8298,9 @@ The Ancestral Home of the Lion;Stronghold;Lion;Storms Over Matsu Palace (Fixed);
 The Ancestral Sword of Hantei • Experienced 2;Item;;Chaos Reigns III (Fixed);Shattered Empire;1;0
 The Ancient Castle of the Lion;Stronghold;Lion;Onyx Edition (Fixed);War of the Seals (Onyx Edition);1;0
 The Ancient Castle of the Lion;Stronghold;Lion;Shattered Empire (Fixed);Shattered Empire;1;0
+The Armor of Sun Tao;Item;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+The Armor of Sun Tao;Item;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;0
+The Armor of Sun Tao;Item;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
 The Armor of the Golden Samurai;Item;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;0
 The Armor of the Golden Samurai;Item;;Pearl Edition (Rare)/Jade Edition (Rare);Hidden Emperor (Jade);3;0
 The Arrow's Eye;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;3
@@ -9490,9 +9507,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #2260
-#2261
-#2266
+# Done through card #2270
 #2283
 #2286
 #2289
@@ -9569,6 +9584,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2846
 #2865
 #2867
+#2869
 #2872
 #2880
 #2895
@@ -9737,7 +9753,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4718
 #4726
 #4728-4729
-#4732-4734
+#4731-4734
 #4736
 #4762
 #4771
@@ -10114,7 +10130,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7945
 #7947-7948
 #7956
-#7962
+#7961-7962
 #7983
 #7991
 #7994
