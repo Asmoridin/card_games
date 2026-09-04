@@ -324,12 +324,12 @@ Campaign Season;Directive;CTU;1st Edition;Rare;0
 Chaos for Pay;Directive;Insurgent;1st Edition;Common;0
 Clean Administration;Directive;CTU;1st Edition;Common;0
 Complete Database Access;Directive;CTU;1st Edition;Rare;0
+CTU Network Access;Directive;Insurgent;1st Edition;Uncommon;0
+Data Mining;Directive;CTU;1st Edition;Uncommon;0
+Domestic Agendas;Directive;CTU;1st Edition;Rare;0
+Executive Privilege;Directive;CTU;1st Edition;Uncommon;0
+Find the Nuke;Directive;CTU;1st Edition;Common;0
 
-231	[Skan]	CTU Network Access
-232	[Skan]	Data Mining
-233	[Skan]	Domestic Agendas
-234	[Skan]	Executive Privilege
-235	[Skan]	Find the Nuke
 236	[Skan]	Going Rogue
 237	[Skan]	Highly Placed Mole
 238	[Skan]	Hijack the Presidency
@@ -340,10 +340,8 @@ Complete Database Access;Directive;CTU;1st Edition;Rare;0
 243	[Skan]	Wheels Within Wheels
 
 Promo:
-1	[Skan]	Jack Bauer, Back in Action	Character		Promo
-2	[Skan]	Jack Bauer, Back in Action	Character		Promo
-3	[Skan]	Gunslinging	Event		Promo
-4	[Skan]	24 Hours	Agenda		Promo
+Gunslinging;Event;0;Tactics;0;Promo;Promo;0
+24 Hours;Agenda;0;Deadline;2;Promo;Promo;0
 5	[Skan]	David Palmer, Man of the People	Character		Promo
 6	[Skan]	Chloe O'Brian	Character		Promo
 7	[Skan]	Wayne Palmer, Conspiracy Target	Character		Promo
@@ -355,17 +353,3 @@ Promo:
 13	[Skan]	Chloe O'Brian, Trusted Friend	Character		Promo
 14	[Skan]	Michelle Dressler, Deep Loyalty	Character		Promo
 15	[Skan]	Jack Bauer, Special Forces	Character		Promo
-
-Organized Play Promo:
-1	[Skan]	Assassin, Shadowy Killer	Character		Promo
-2	[Skan]	Backstabbing	Event		Promo
-3	[Skan]	Adam Kaufman, Clockwork Efficiency	Character		Promo
-4	[Skan]	Jack's PDA	Equipment		Promo
-6	[Skan]	Chase Edmunds, Impatient	Character		Promo
-7	[Skan]	Dammit!	Event		Promo
-8	[Skan]	Decryption	Event		Promo
-9	[Skan]	Exhausted	Agenda		Promo
-10	[Skan]	Graem Bauer, Behind it All	Character		Promo
-11	[Skan]	Mandy, Malicious Intent	Character		Promo
-12	[Skan]	Nina Myers, CTU Chief of Staff	Character		Promo
-13	[Skan]	Sniper Rifle	Equipment		Promo
