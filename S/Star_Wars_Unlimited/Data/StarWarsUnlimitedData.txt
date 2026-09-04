@@ -613,19 +613,19 @@ Faith in Your Friends;SEC-211-U;Event;Gambit;Y/W;3
 Falchion Ion Tank;TWI-065-C;Ground Unit;Republic/Vehicle/Tank;U;3 # 1 foil
 Fallen Jedi;LOF-230-C;Ground Unit;Force/Jedi;B;3
 Fallen Lightsaber;SOR-137-R;Upgrade;Item/Weapon/Lightsaber;R/B;3
-# done through here
-Favorable Delegate;TWI-208-C;Ground Unit;Y;3
+Favorable Delegate;TWI-208-C;Ground Unit;Republic/Official;Y;3
 Fear and Dead Men;LAW-179-R;Event;Tactic;R/B;0
 Fearless Attack;TS26-84-U;Event;Tactic;W;0
-Fell the Dragon;SHD-078-U;Event;U;3
-Fenn Rau, Protector of Concord Dawn;SHD-067-U;Ground Unit;U;3 # 1 foil
-Fennec Shand, Honoring the Deal;SHD-016-C;Leader;Y/W;1
-Fennec Shand, Loyal Sharpshooter;SHD-220-U;Ground Unit;Y;3
-Ferrix Uprising;SEC-130-C;Event;G;3 # 1 foil
+Fell the Dragon;SHD-078-U;Event;Tactic;U;3
+Fenn Rau, Protector of Concord Dawn;SHD-067-U;Ground Unit;Mandalorian;U;3 # 1 foil
+Fennec Shand, Honoring the Deal;SHD-016-C;Leader;Underworld;Y/W;1
+Fennec Shand, Loyal Sharpshooter;SHD-220-U;Ground Unit;Underworld;Y;3
+Ferrix Uprising;SEC-130-C;Event;Tactic;G;3 # 1 foil
 Fervor;TS26-72-U;Event;Innate;R;0
-Fett's Firespray, Feared Silhouette;JTL-240-S;Space Unit;B;3
+Fett's Firespray, Feared Silhouette;JTL-240-S;Space Unit;Underworld/Vehicle/Transport;B;3
 Fett's Firespray, In Pursuit;LAW-252-R;Space Unit;Underworld/Vehicle/Transport;B;0
-Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;B/Y;2
+Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;Underworld/Vehicle/Transport;B/Y;2
+# done through here
 Fiery Alliance;TS26-25-U;Upgrade;Innate;G/R;0
 Fifth Brother, Fear Hunter;SOR-131-U;Ground Unit;R/B;3 # 1 hyperfoil
 Fight Fire With Fire;JTL-173-C;Event;R;2
@@ -2154,6 +2154,16 @@ Mouse Droid;ASH-237-C;Ground Unit;Imperial/Droid;B;0
 Attendant Navigator;ASH-238-C;Ground Unit;First Order;B;0
 Imperial Loyalist;ASH-239-C;Ground Unit;Imperial;B;0
 Mandalorian Super Commandos;ASH-240-C;Ground Unit;Mandalorian/Trooper;B;0
+Marrok's Fiend Fighter, Formidable Pursuer;ASH-241-U;Space Unit;Vehicle/Fighter;B;0
+Death Trooper Squad;ASH-242-C;Ground Unit;Imperial/Trooper;B;0
+Darth Vader, Meet Your Destiny;ASH-243-S;Ground Unit;Force/Imperial/Sith;B;0
+Remnant Trooper Corps;ASH-244-C;Ground Unit;Imperial/Trooper;B;0
+Eye of Sion, Delivered from Exile;ASH-245-L;Space Unit;Imperial/Vehicle/Transport;B;0
+Exploit Advantage;ASH-246-C;Event;Tactic;B;0
+One Must Destroy to Create;ASH-247-R;Event;Plan;B;0
+Neel, The Cutest Boy;ASH-248-R;Fringe;W;0
+Covert Veteran;ASH-249-C;Mandalorian;W;0
+Imperial Defector;ASH-250-C;Imperial/Rebel;W;0
 ** END **
 # HMW-001 missing
 # HMW-002 missing
@@ -2224,6 +2234,11 @@ Carrion Spike, Harbinger of Tyranny;HMW-066-R;Space Unit;Imperial/Vehicle/Capita
 # HMW-069 missing
 Dark Sanctum;HMW-070-U;Upgrade;Fortification;U/B;0
 Ravage;HMW-071-U;Event;Disaster/Tactic;U/B;0
+Grand Army Marine;HMW-072-C;Ground Unit;Gungan/Trooper;U/W;0
+Peppi Bow, Shaak Herder;HMW-073-U;Ground Unit;Gungan;U/W;0
+Yord Fandar, Devoutly Disciplined;HMW-074-R;Ground Unit;Force/Jedi;U/W;0
+Wookiee Protector;HMW-075-C;Ground Unit;Wookiee;U/W;0
+Yanna, Sanctuary Elder;HMW-076-U;Ground Unit;Wookiee;U/W;0
 
 Alliance Shield Generator;HMW-081-U;Upgrade;Fortification;U/W;0
 
