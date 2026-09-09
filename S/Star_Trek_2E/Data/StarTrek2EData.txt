@@ -565,7 +565,7 @@ Continuity Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Control Plague;U;Mission;;To Boldly Go;Print;2;2
 Coolant Leak;V;Dilemma;;Extreme Measures;Virtual;3;0
 Coordinated Attack;C;Interrupt;;Energize;Print;3;3
-Coordinated Counterattack;V;Event;;Raise the Stakes;Virtual;3;3
+Coordinated Counterattack;V;Event;;Raise the Stakes;Virtual;3;0 // errata
 Coordinated Effort;C;Dilemma;;Strange New Worlds;Print;3;3
 Coordinated Larceny;V;Event;;Unnatural Selection;Virtual;3;0
 Corbin Entek, Inquisitor;V;Personnel;Cardassian;Return to Grace;Virtual;3;0
@@ -783,7 +783,7 @@ Disruptor Accident;C;Dilemma;;Energize;Print;3;3
 Dissolving the Senate;U;Event;;Call to Arms;Print;3;3
 Distant Control;R;Event;;What You Leave Behind;Print;3;0
 Distant Exploration;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
-Distracting Exhibition;R;Event;;To Boldly Go;Print;3;0
+Distracting Exhibition;R;Event;;To Boldly Go;Print;3;0 // errata
 Distraction;C;Dilemma;;In a Mirror Darkly;Print;3;0
 Distress Call;R/VP;Dilemma;;These Are The Voyages/Virtual Promo;Both;3;0
 Divergent Goals;V;Dilemma;;Symbiosis;Virtual;3;0
@@ -991,7 +991,7 @@ Falsify Distress Signal;V;Mission;;Extreme Measures;Virtual;2;0
 Family;V;Dilemma;;Extreme Measures;Virtual;3;0
 Fantine, Raid Vanguard;V;Ship;Federation-Maquis;A Time to Stand;Virtual;3;3
 Far-Seeing Eyes;R;Event;;Necessary Evil;Print;3;0 // errata
-Farek, Distrusting Doctor;V;Personnel;Ferengi;Peak Performance;Virtual;3;3
+Farek, Distrusting Doctor;V;Personnel;Ferengi;Peak Performance;Virtual;3;0 // errata
 Farius Prime, Approach Criminal Organization;V;Mission;;A Time to Stand;Virtual;2;2
 Farius Prime, Political Intrigue;U;Mission;;Call to Arms;Print;2;2
 Farrell;C;Personnel;Federation-TOS;In a Mirror Darkly;Print;3;0
@@ -1235,7 +1235,7 @@ Head to Head;R;Dilemma;;Energize;Print;3;1
 Healing Hand;V;Dilemma;;Peak Performance;Virtual;3;3
 Heart of Glory;C;Event;;Energize;Print;3;3
 Heart to Heart;C;Dilemma;;Strange New Worlds;Print;3;3
-Heightened Perception;P;Event;;Fractured Time;Print;3;2
+Heightened Perception;P;Event;;Fractured Time;Print;3;0 // errata
 Helen Noel, Enterprise Psychiatrist;V;Personnel;Federation-TOS;Favor the Bold;Virtual;3;3
 Heler;V;Personnel;Bajoran;Zero Hour;Virtual;3;3
 Helping Hand;V;Event;;Allegiance;Virtual;3;3
@@ -1337,7 +1337,7 @@ Ibboko, Kreetassan Chancellor;V;Personnel;Non-Aligned;Peak Performance;Virtual;3
 Icheb, Genetic Weapon;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
 Icheb, Second Officer;V;Personnel;Federation-Voyager;Matter of Time;Virtual;3;0
 Iconia, Iconia Investigation;U;Mission;;Second Edition;Print;2;0 // Needs errata
-Iden, Lustrous Demagogue;V;Personnel;Non-Aligned;Unity;Virtual;3;0
+Iden, Lustrous Demagogue;V;Personnel;Non-Aligned;Unity;Virtual;3;0 // errata
 Identify Temporal Disturbance;V;Mission;;Matter of Time;Virtual;2;0
 Identity Theft;V;Dilemma;;Unnatural Selection;Virtual;3;0
 Idran System, Survey Star System;S;Mission;;Call to Arms;Print;2;0 // errata
@@ -1560,7 +1560,7 @@ K'mpec, Protector of the Empire;V;Personnel;Klingon;Raise the Stakes;Virtual;3;3
 K'nera, Klingon Defense Force Commander;S;Personnel;Klingon;Second Edition;Print;3;3
 K'rad;V;Personnel;Klingon;Shattered Mirror;Virtual;3;3
 K'Tal, Senior Council Member;C;Personnel;Klingon;Necessary Evil;Print;3;0
-K'Temoc, Long Slumbering Commander;U;Personnel;Klingon;Captain's Log;Print;3;0
+K'Temoc, Long Slumbering Commander;U;Personnel;Klingon;Captain's Log;Print;3;0 // errata
 K'wov;V;Personnel;Non-Aligned;Infinite Diversity Remastered;Virtual;3;0
 Kaas Dromand, Devoted Fanatic;V;Personnel;Bajoran;Matter of Time;Virtual;3;0
 Kadis-kot;V;Dilemma;;Zero Hour;Virtual;3;3
@@ -1901,7 +1901,7 @@ Magren;C;Personnel;Cardassian;Call to Arms;Print;3;3
 Maihar'du, Silent Servant;U;Personnel;Ferengi;Strange New Worlds;Print;3;1
 Makbar, Chief Archon;R;Personnel;Cardassian;Second Edition;Print;3;2
 Makbar, State Jurist;V;Personnel;Cardassian;Zero Hour;Virtual;3;3
-Make a Run for It;C;Event;;Captain's Log;Print;3;0
+Make a Run for It;C;Event;;Captain's Log;Print;3;0 // errata
 Making It Work;C;Event;;Captain's Log;Print;3;0
 Malcolm Reed, Damaged Security Officer;V;Personnel;Starfleet;Peak Performance;Virtual;3;3
 Malcolm Reed, Enthusiastic Major;C;Personnel;Starfleet;In a Mirror Darkly;Print;3;0
@@ -2190,9 +2190,9 @@ Nose to Nose;C;Dilemma;;Captain's Log;Print;3;0
 Not Easily Avoided;U;Event;;These Are The Voyages/Finding Our Way;Both;3;0
 Not Easily Destroyed;C;Event;;To Boldly Go;Print;3;3
 Not Easily Taken;V;Event;;Unity;Virtual;3;0
-Not Quite Domesticated Pets;P;Dilemma;;Genesis;Print;3;0
+Not Quite Domesticated Pets;P;Dilemma;;Genesis;Print;3;0 // needs errata
 Nothing That Happens is Truly Random;U;Event;;Second Edition;Print;3;3
-Nothing to Lose;V;Dilemma;;Qpid;Virtual;3;0
+Nothing to Lose;V;Dilemma;;Qpid;Virtual;3;0 // errata
 Nu'Daq, Tenacious Rival;R;Personnel;Klingon;Second Edition;Print;3;3
 Number One, Reputable Officer;V;Personnel;Federation-TOS;This Side of Paradise;Virtual;3;3
 NX-Prototype;V;Ship;Starfleet;Raise the Stakes;Virtual;3;3
@@ -2944,8 +2944,8 @@ Stadi, Focused;C;Personnel;Federation-Voyager;Captain's Log;Print;3;0
 Staffing Shortage;V;Dilemma;;Unnatural Selection;Virtual;3;0
 Stage Bombardment;U;Mission;;Call to Arms;Print;2;1
 Stage Covert Fleet;V;Mission;;Lineage;Virtual;2;0
-Stakoron II, Mine Miszinite;V;Mission;;Strange Bedfellows;Virtual;2;2
-Stakoron Strait, Patrol Shipping Lane;V;Mission;;Strange Bedfellows;Virtual;2;2
+Stakoron II, Mine Miszinite;V;Mission;;Strange Bedfellows;Virtual;2;0 // errata
+Stakoron Strait, Patrol Shipping Lane;V;Mission;;Strange Bedfellows;Virtual;2;0 // errata
 Stalling for Time;P;Event;;Reflections 2.0;Print;3;3
 Stand-Off;C;Dilemma;;Captain's Log;Print;3;0
 Standard Cardassian Procedure;U;Event;;Second Edition;Print;3;3
@@ -3376,7 +3376,7 @@ Tzenketh, Investigate Coup;S;Mission;;Second Edition;Print;2;0 // Needs errata
 U.S.S. Akira;S;Ship;Federation-DS9;Second Edition;Print;3;3
 U.S.S. Bellerophon, Conference Host;V;Ship;Federation-DS9;Raise the Stakes;Virtual;3;3
 U.S.S. Bozeman, Well-Preserved Antique;V;Ship;Federation-TNG;Peak Performance;Virtual;3;3
-U.S.S. Centaur, Patrolling Ship;V;Ship;Federation-DS9;Legacy;Virtual;3;0
+U.S.S. Centaur, Patrolling Ship;V;Ship;Federation-DS9;Legacy;Virtual;3;0 // errata
 U.S.S. Constellation, Dead Hulk;U;Ship;Federation-TOS;These Are The Voyages;Print;3;0
 U.S.S. Constitution;C/VP;Ship;Federation-TOS;These Are The Voyages/Virtual Promo;Both;3;0
 U.S.S. Dauntless, False Hope;V;Ship;Non-Aligned;Raise the Stakes;Virtual;3;3
