@@ -31,6 +31,21 @@ Barraging Beatdown (blue);Action;Brute;Non-Attack;1HP024-R/ARR024-R/RNR025-R/TNP
 Savage Swing (red);Action;Brute;Attack;1HP031-C/RNR011-C/WTR020-C;0
 Savage Swing (yellow);Action;Brute;Attack;1HP032-C/RNR016-C/WTR021-C;0
 Savage Swing (blue);Action;Brute;Attack;1HP033-C/WTR022-C;0
+Pack Hunt (red);Action;Brute;Attack;HVY032-C/WTR023-C/1HP025-C/RHI013-C/RVD010-C/RNR009-C;0
+Pack Hunt (yellow);Action;Brute;Attack;HVY033-C/WTR024-C/1HP026-C;0
+Pack Hunt (blue);Action;Brute;Attack;HVY034-C/WTR025-C/1HP027-C/RHI022-C;0
+Smash Instinct (red);Action;Brute;Attack;WTR026-C/1HP034-C/RNR012-C;0
+Smash Instinct (yellow);Action;Brute;Attack;WTR027-C/1HP035-C/RVD016-C/RNR017-C;0
+Smash Instinct (blue);Action;Brute;Attack;WTR028-C/1HP036-C/SKA031-C/AKO025-C;0
+Wrecker Romp (red);Action;Brute;Attack;WTR029-C/1HP037-C/LGS020-P/RNR013-C;0
+Wrecker Romp (yellow);Action;Brute;Attack;WTR030-C/1HP038-C/LGS021-P;0
+Wrecker Romp (blue);Action;Brute;Attack;WTR031-C/RVD023-C/ARR023-C/1HP039-C/AKO026-C/LGS022-P/FAB200-P/RNR023-C/LGS005-P;0
+Awakening Bellow (red);Action;Brute;Non-Attack;WTR032-C/RVD014-C/RNR014-C;0
+Awakening Bellow (yellow);Action;Brute;Non-Attack;WTR033-C;0
+Awakening Bellow (blue);Action;Brute;Non-Attack;WTR034-C/RNR024-C;0
+Primeval Bellow (red);Action;Brute;Non-Attack;WTR035-C/1HP040-C;0
+Primeval Bellow (yellow);Action;Brute;Non-Attack;WTR036-C/1HP041-C;0
+Primeval Bellow (blue);Action;Brute;Non-Attack;WTR037-C/1HP042-C/RNR026-C;0
 
 Head Jab (blue);Action;Ninja;Attack;BEN024-C/IRA008-P/KAT022-C/KSU023-C/LGS019-P/OUT079-C/WTR100-C;0
 
