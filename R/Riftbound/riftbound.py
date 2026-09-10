@@ -12,7 +12,7 @@ from card_games.General.Libraries.output_utils import double_print
 from card_games.General.Libraries.sort_and_filter import sort_and_filter
 
 GAME_NAME = "Riftbound"
-DECK_ERA = "03 - Unleashed"
+DECK_ERA = "04 - Vendetta"
 
 def parse_sets(set_string, this_card_name=""):
     """
