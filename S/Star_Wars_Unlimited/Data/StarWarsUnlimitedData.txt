@@ -625,17 +625,17 @@ Fervor;TS26-72-U;Event;Innate;R;0
 Fett's Firespray, Feared Silhouette;JTL-240-S;Space Unit;Underworld/Vehicle/Transport;B;3
 Fett's Firespray, In Pursuit;LAW-252-R;Space Unit;Underworld/Vehicle/Transport;B;0
 Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;Underworld/Vehicle/Transport;B/Y;2
-# done through here
 Fiery Alliance;TS26-25-U;Upgrade;Innate;G/R;0
-Fifth Brother, Fear Hunter;SOR-131-U;Ground Unit;R/B;3 # 1 hyperfoil
-Fight Fire With Fire;JTL-173-C;Event;R;2
-Fighters for Freedom;SOR-143-U;Ground Unit;R/W;2 # 1 foil
-Figure of Unity;SEC-104-L;Upgrade;G/W;0
-Final Showdown;SHD-208-L;Event;Y;0
-Finalizer, Might of the First Order;SHD-092-L;Space Unit;G/B;1
+Fifth Brother, Fear Hunter;SOR-131-U;Ground Unit;Force/Imperial/Inquisitor;R/B;3 # 1 hyperfoil
+Fight Fire With Fire;JTL-173-C;Event;Gambit;R;2
+Fighters for Freedom;SOR-143-U;Ground Unit;Rebel/Trooper;R/W;2 # 1 foil
+Figure of Unity;SEC-104-L;Upgrade;Innate;G/W;0
+Final Showdown;SHD-208-L;Event;Gambit;Y;0
+Finalizer, Might of the First Order;SHD-092-L;Space Unit;First Order/Vehicle/Capital Ship;G/B;1
 Finn, Looking Closer;LAW-095-U;Ground Unit;Resistance;Y/U;0
-Finn, On the Run;TWI-053-R;Ground Unit;U;2
-Finn, This Is A Rescue;SHD-003-R;Leader;U/W;1
+Finn, On the Run;TWI-053-R;Ground Unit;Fringe/Trooper;U;2
+Finn, This Is A Rescue;SHD-003-R;Leader;Fringe/Trooper;U/W;1
+# done through here
 Fire Across the Galaxy;LAW-256-R;Event;Spectre;W;0
 Fireball, An Explosion With Wings;JTL-198-U;Space Unit;Y/W;1
 First Battle Memorial;TS26-09-R;Base;Coruscant;U;0
@@ -738,7 +738,7 @@ Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;G/B;3
 Grand Moff Tarkin, Oversector Governor;SOR-007-C;Leader;G/B;1 # 1 hyperspace
 Grand Moff Tarkin, Taking Krennic's Achievement;SEC-192-R;Ground Unit;Y/B;3 # 1 hyperfoil
 Grappling Guardian;LOF-071-C;Space Unit;U;2
-Grassroots Resistance;SEC-258-C;Event;W;3 # 1 foil, 1 hyperspace
+Grassroots Resistance;SEC-258-C/ASH-268-C;Event;Tactic;W;3 # 1 foil, 1 hyperspace
 Great Pit of Carkoon;LAW-023-S;Base;Tatooine;G;0
 Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
 Greef Karga, Affable Commissioner;SHD-245-S;Ground Unit;W;3
@@ -2164,22 +2164,31 @@ One Must Destroy to Create;ASH-247-R;Event;Plan;B;0
 Neel, The Cutest Boy;ASH-248-R;Ground Unit;Fringe;W;0
 Covert Veteran;ASH-249-C;Ground Unit;Mandalorian;W;0
 Imperial Defector;ASH-250-C;Ground Unit;Imperial/Rebel;W;0
+Zealous Soldier;ASH-251-C;Ground Unit;Rebel/Trooper;W;0
+N5 Sentry Droid;ASH-252-C;Ground Unit;New Republic/Droid;W;0
+Yellow Aces Bomber;ASH-253-U;Space Unit;New Republic/Vehicle/Fighter;W;0
+Gallofree Transport;ASH-254-C;Space Unit;Rebel/Vehicle/Transport;W;0
+Anakin Skywalker, You Were Right About Me;ASH-255-S;Ground Unit;Force/Jedi;W;0
+Rebel Infiltrators;ASH-256-C;Ground Unit;Rebel/Trooper;W;0
+Choose Your Path;ASH-257-R;Event;Force/Mandalorian;W;0
+LEP Ratcatcher;ASH-259-C;Ground Unit;Droid;N;0
+Mos Espa Watermonger;ASH-260-C;Ground Unit;Fringe;N;0
 ** END **
-# HMW-001 missing
-# HMW-002 missing
+Asajj Ventress, No Time For Regret;HMW-001-R;Leader;Force/Night;R/U;0
+Maz Kanata, Eclectic Pirate Queen;HMW-002-R;Leader;Underworld;G/Y;0
 Doctor Hemlock, Emotion Has No Place Here;HMW-003-C;Leader;Imperial/Official;U/B;0
 Grand Moff Tarkin, Tyrant of the Outer Rim;HMW-004-S;Leader;Imperial/Official/Vehicle/Capital Ship;U/B;0
 Jar Jar Binks, Bombad General;HMW-005-C;Leader;Gungan;U/W;0
-# HMW-006 missing
+Omega, Close Your Eyes and Focus;HMW-006-R;Leader;Clone;U/W;0
 Darth Vader, Might of the Empire;HMW-007-R;Leader;Force/Imperial/Sith;G/B;0
-# HMW-008 missing
+General Grievous, Separatist Warlord;HMW-008-C;Leader;Separatist/Official;G/B;0
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
 Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
 Darth Sidious, There is No Mercy;HMW-011-R;Leader;Force/Sith;R/B;0
 # HMW-012 missing
 Cham Syndulla, Hammer of Ryloth;HMW-013-R;Leader;Twi'lek;R/W;0
 Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
-# HMW-015 missing
+Bossk, Cruel Hunter;HMW-015-C;Leader;Underworld/Bounty Hunter;Y/B;0
 Maul, Old Master;HMW-016-R;Leader;Force/Fringe;Y/B;0
 Osha, Haunted by her Past;HMW-017-R;Leader;Force;Y/W;0
 The Warrior, Deft Duelist;HMW-018-C;Leader;Tusken;Y/W;0
