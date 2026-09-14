@@ -1660,16 +1660,30 @@ Orbital Bombardment;Objective;;Holodeck Adventures;1827;;4;0
 Ore Processing Unit;Site;;Deep Space 9/Homefront V;1828,4473;;2;0
 Organ Theft;Objective;;Voyager;1829;;4;0
 Organian Peace Treaty;Event;;The Trouble with Tribbles;1830;;4;4
+Orion Syndicate Bomb;Equipment;;Rules of Acquisition;1831;;4;0
 Ornithar;Personnel;Dominion;The Dominion;293,4425;;4;0
 Orren Ran;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;294,7116;;4;0
+Orta;Personnel;Bajoran;The Dominion;1832;;2;0
+Orum;Personnel;Non-Aligned;The Borg;1833;1834;2;0
+Orum;Personnel;Romulan;The Borg;1834;1833;2;0
+Outgunned;Interrupt;;Blaze of Glory/Virtual Promos;1835,4599;;4;0
 Outpost Raid;Dilemma;Dual;Alternate Universe;1836;;4;4
+Overseer Mardel;Personnel;Cardassian;Mirror, Mirror;1837,4835;;2;0
+Overseer Odo;Personnel;Bajoran;Mirror, Mirror;1838,4830;3058;2;0
+Overseer Odo;Personnel;Cardassian;Identity Crisis;3058;1838;2;0
 Pa'rena;Personnel;Non-Aligned;The Motion Pictures;296,7195;;4;0
+Pallra;Personnel;Bajoran;Deep Space 9;1839;;2;0
+Palor Toff: Alien Trader;Interrupt;;Premiere;1840,6228,6591,6954,7876,8240;;4;0 # needs errata
 Palteth;Personnel;Romulan;Premiere/Coming of Age;295,5449,6009,6372,6735,7657;;4;1
+Palukoo;Dilemma;Planet;The Trouble with Tribbles;1841,4381;;4;0
 Panel Overload;Incident;;The Trouble with Tribbles/Referee Reprints;1842,3102;;4;4
+Par Lenor;Personnel;Ferengi;Rules of Acquisition/Virtual Promos;1843,7433;;2;0
+Parallax Arguers;Interrupt;;Q Continuum;1844;;4;0
 Parallel Romance;Dilemma;Planet;Alternate Universe/Virtual Promos;1845,7542;;4;0 # need errata
 Pardek;Personnel;Romulan;Premiere;1846,6229,6592,6955,7877;;2;1
 Parem;Personnel;Romulan;Premiere;1847,6230,6593,6956,7878;;2;1
 Parn;Personnel;Cardassian;Deep Space 9;297,4418;;4;0
+Parthok;Personnel;Romulan;Blaze of Glory;1848;;2;0
 Particle Fountain;Interrupt;;Premiere;1849,6231,6594,6957,7879,8243;;4;2
 Particle Scattering Field;Event;;Alternate Universe;1850;;4;4
 Patrol Neutral Zone;Mission;Space;First Contact;298,5650;;4;0
@@ -2102,11 +2116,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1830
-#1836
-#1842
-#1845-1847
-#1849-1850
+# Done through card 1850
 #1852
 #1861-1863
 #1871
@@ -2220,7 +2230,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2495
 #2611
 #3045
-#3047-3057
+#3047-3058
 #3064-3065
 #3067-3068
 #3076
@@ -2309,7 +2319,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4284
 #4287
 #4289-4290
-#4373-4380
+#4373-4381
 #4384-4385
 #4388-4389
 #4391
@@ -2332,8 +2342,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4568-4569
 #4571
 #4574
-#4594-4598
-#4600-4601
+#4594-4601
 #4620
 #4658
 #4660-4662
@@ -2356,8 +2365,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4820-4822
 #4824
 #4826
-#4828-4829
-#4831-4834
+#4828-4835
 #4837-4850
 #4855-4862
 #4864
@@ -2444,8 +2452,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5899-5914
 #5916-5918
 #5966-6211
-#6212-6227
-#6229-6232
+#6212-6232
 #6234
 #6236
 #6238-6239
@@ -2470,8 +2477,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6325
 #6328-6460
 #6464-6550
-#6552-6590
-#6592-6595
+#6552-6595
 #6597
 #6599
 #6601-6602
@@ -2497,8 +2503,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6953
-#6955-6958
+#6823-6958
 #6960
 #6962
 #6964-6965
@@ -2539,7 +2544,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7327-7330
 #7371
 #7428-7429
-#7432
+#7432-7433
 #7436
 #7438-7441
 #7503-7506
@@ -2556,8 +2561,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7875
-#7877-7880
+#7808-7880
 #7882
 #7884
 #7886-7887
@@ -2607,6 +2611,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8228-8233
 #8235-8236
 #8238
+#8240
 #8243-8244
 #8248
 #8253-8258
