@@ -1698,11 +1698,21 @@ Scorbunny;Pokemon;Fire;70;;Quick Attack;SCR 26 (Common)/ASC 36 (Common)/ASC 225 
 Raboot;Pokemon;Fire;90;;Low Sweep|Combustion;SCR 27 (Common)/SCR 147 (Illustration Rare)/ASC 37 (Common);H;4;0
 Cinderace ex;Pokemon;Fire;320;;Flare Strike|Garnet Volley;SCR 28 (Double Rare)/SCR 157 (Ultra Rare)/SVP 163 (Promo)/ASC 38 (Double Rare);H;4;0
 Charcadet;Pokemon;Fire;70;;Flare;SCR 29 (Common);H;4;0
-#SCR 30 done
+Lapras;Pokemon;Water;130;;Water Gun|Surf;SCR (Uncommon);H;4;0
+Lapras ex;Pokemon;Water;220;;Power Splash|Larimar Rain;SCR 32 (Double Rare)/SCR 158 (Ultra Rare);H;4;0
+Marill;Pokemon;Water;70;;Rollout;SCR 33 (Common);H;4;0
+Azumarill;Pokemon;Water;120;;Bubble Beam;SCR 34 (Uncommon);H;4;0
+Finneon;Pokemon;Water;50;;Sprinkle Water;SCR 35 (Common);H;4;0
+Lumineon;Pokemon;Water;110;;Return|Razor Fin;SCR 36 (Uncommon);H;4;0
+Tirtouga;Pokemon;Water;100;;Splashing Turn;SCR 37 (Uncommon);H;4;0
+Carracosta;Pokemon;Water;160;Primal Knowledge;Tidal Wave;SCR 38 (Rare);H;4;0
+Froakie;Pokemon;Water;60;;Rain Splash;SCR 39 (Common);H;4;0
+Frogadier;Pokemon;Water;90;;Wave Splash;SCR 40 (Uncommon);H;4;0
 
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
 Galvantula ex;Pokemon;Lightning;260;;Charged Web|Fulgurite;SCR 51 (Double Rare)/SCR 159 (Ultra Rare)/SCR 168 (Special Illustration Rare);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
+Comfey;Pokemon;Psychic;70;;Flower Shower|Play Rough;SCR 63 (Common);H;4;0
 Flittle;Pokemon;Psychic;50;;Peck;SCR 68 (Common);H;4;0
 Iron Boulder;Pokemon;Psychic;140;;Adjusted Horn;SCR 71 (Rare)/PRE 46 (Rare);H;4;0
 Duraludon;Pokemon;Metal;130;;Hammer In|Raging Hammer;SCR 106 (Common)/PRE 69 (Common);H;4;0
@@ -1726,8 +1736,7 @@ Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE S
 # 142 last new card (done)
 # 144-147
 # 150
-# 155-157
-# 159
+# 155-159
 # 163-164
 # 166-168
 # 170-175 (last card)
