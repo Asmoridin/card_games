@@ -13,7 +13,7 @@
 "Butcher" Pinchot;Crew;Crimson Rogers;Punch/Club,Thrust;4 Influence;1 Can/0 Sail/0 Adv/1 Inf/1 Swash;Unique/Loyal/Villainous;Scarlet Seas (Uncommon)/Iron Shadow (Uncommon);0
 "By the Gods...";Attachment;;Club/Dagger,Slash;Oath;Scarlet Seas (Rare);0
 "Captain";Attachment;Sea Dogs;Club/Dagger,Slash;Unique/Pet;Shifting Tides (Rare)/Iron Shadow (Fixed);0
-"Cat's Claw" Fornier;Crew;Black Freighter;Punch/Club,Thrust;3 Influence;0 Can/2 Sail/0 Adv/0 Inf/1 Swash;Loyal/No Attachments/Skeletal;Reaper's Fee (Uncommon);0
+"Cat's Claw" Fornier;Crew;Black Freighter;Punch/Club,Thrust;0 Can/2 Sail/0 Adv/0 Inf/1 Swash;Loyal/No Attachments/Skeletal;Reaper's Fee (Uncommon);0
 "Cut a Path!";Action;Dagger/Punch,Thrust;;Fate's Debt (Uncommon);0
 "Cut the Ropes!";Action;Dagger/Punch,Thrust;;No Quarter (Common)/Broadsides (Common);0
 "Don't Make Me Ask Again";Action;Dagger/Punch,Thrust;;Scarlet Seas (Rare);0
@@ -31,18 +31,18 @@
 "Long Tall" Harry;Crew;Sea Dogs;Punch/Club,Thrust;6 Influence;0 Can/3 Sail/1 Adv/1 Inf/1 Swash;Unique/Loyal/Topman;Shifting Tides (Rare);0
 "Long Tall" Harry - Exp.;Crew;Sea Dogs;Punch/Club,Thrust;8 Influence;1 Can/3 Sail/2 Adv/2 Inf/2 Swash;Experienced/Unique/Loyal/Topman;Reaper's Fee (Rare);0
 "Look Lively, Men!";Action;Slash/Dagger,Punch;;Reaper's Fee (Uncommon);0
-"Lucky" Vandrad Hallvardson;Crew;Vesten;Punch/Club,Thrust;3 Influence;0 Can/3 Sail/0 Adv/0 Inf/1 Swash;Topman;Shifting Tides (Common)/Iron Shadow (Common);0
+"Lucky" Vandrad Hallvardson;Crew;Vesten;Punch/Club,Thrust;0 Can/3 Sail/0 Adv/0 Inf/1 Swash;Topman;Shifting Tides (Common)/Iron Shadow (Common);0
 "Lyin'" John Fox;Crew;Sea Dogs;Punch/Club,Thrust;4 Influence;2 Can/2 Sail/2 Adv/0 Inf/2 Swash;;No Quarter (Common)/Broadsides (Common)/Iron Shadow (Fixed);0
 "Lyin'" John Fox - Exp.;Crew;Sea Dogs;Punch/Club,Thrust;6 Influence;2 Can/3 Sail/3 Adv/1 Inf/2 Swash;Experienced/Unique;Fate's Debt (Rare);0
-"Magpie" Muscov;Crew;Explorer-Ussuran;Punch/Club,Thrust;3 Influence;0 Can/4 Sail/0 Adv/0 Inf/1 Swash;Unique/Loyal;Iron Shadow (Fixed)/Horizon's Edge (Rare);0
+"Magpie" Muscov;Crew;Explorer-Ussuran;Punch/Club,Thrust;0 Can/4 Sail/0 Adv/0 Inf/1 Swash;Unique/Loyal;Iron Shadow (Fixed)/Horizon's Edge (Rare);0
 "Man the Bilge Pumps!";Action;Slash/Dagger,Punch;;Strange Vistas (Common);0
 "Man the Tops!";Action;Dagger/Punch,Thrust;;Reaper's Fee (Uncommon);0
 "My Last Bit of Luck.";Action;Slash/Dagger,Punch;;Fate's Debt (Uncommon);0
-"Niklaas Wynkoop";Crew;Vesten;Punch/Club,Thrust;3 Influence;0 Can/0 Sail/2 Adv/1 Inf/2 Swash;;Fate's Debt (Common);0
+"Niklaas Wynkoop";Crew;Vesten;Punch/Club,Thrust;0 Can/0 Sail/2 Adv/1 Inf/2 Swash;;Fate's Debt (Common);0
 "No Banter...";Action;Dagger/Punch,Thrust;;Shifting Tides (Common);0
 "No Survivors!";Action;Dagger/Punch,Thrust;;Scarlet Seas (Common);0
 "Pack 'em In!";Attachment;;Club/Dagger,Slash;Captive Crew;Shifting Tides (Uncommon)/Scarlet Seas (Fixed)/Iron Shadow (Fixed);0
-"Pincushion" Paolo;Crew;Brotherhood;Punch/Club,Thrust;3 Influence;0 Can/2 Sail/0 Adv/0 Inf/3 Swash;;Reaper's Fee (Common)/Iron Shadow (Common);0
+"Pincushion" Paolo;Crew;Brotherhood;Punch/Club,Thrust;0 Can/2 Sail/0 Adv/0 Inf/3 Swash;;Reaper's Fee (Common)/Iron Shadow (Common);0
 "Please, Take Your Time!";Action;Dagger/Punch,Thrust;;Shifting Tides (Uncommon);0
 "Prepare for Boarding!";Action;Dagger/Punch,Thrust;;No Quarter (Common)/Broadsides (Common)/Iron Shadow (Common);0
 "Prepare for the Worst!";Action;Slash/Dagger,Punch;;Reaper's Fee (Uncommon);0
@@ -97,11 +97,16 @@ A Single Shot;Action;;Slash/Dagger,Punch;Unique;Fate's Debt (Rare);0
 A Thousand Fires Alight;Action;;Slash/Dagger,Punch;Unique;Fate's Debt (Rare);0
 Aaron Blackstone;Captain;Unaligned;3 Can/4 Sail/3 Adv/3 Inf/3 Swash;7;Start: La Boca/Villainous/Swordsman 2;Iron Shadow (Rare);0
 Across the Mirror;Adventure;;Thrust/Club,Slash;;No Quarter (Common)/Broadsides (Common)/Iron Shadow (Fixed);0
-Adeeb Al-Amid;Crew;Corsairs;Punch/Club,Thrust;3 Influence;0 Can/4 Sail/0 Adv/0 Inf/1 Swash;Captive;Iron Shadow (Common)/Scarlet Seas (Common);0
+Adeeb Al-Amid;Crew;Corsairs;Punch/Club,Thrust;0 Can/4 Sail/0 Adv/0 Inf/1 Swash;Captive;Iron Shadow (Common)/Scarlet Seas (Common);0
 Advanced Gunnery;Attachment;;Club/Dagger,Slash;;Iron Shadow (Rare);0
 Advanced Swordsmanship;Attachment;;Club/Dagger,Slash;;Iron Shadow (Rare)/Shifting Tides (Rare);0
 Advanced Topmanship;Attachment;;Club/Dagger,Slash;;Iron Shadow (Rare);0
 Adventuring Galley;Attachment;;Club/Dagger,Slash;Ally;Iron Shadow (Uncommon)/Shifting Tides (Uncommon);0
 Aether Compass;Adventure;;Thrust/Club,Slash;Unique/Artifact;Shifting Tides (Rare);0
+Ahmed Khalid;Crew;Corsairs;Punch/Club,Thrust;0 Can/2 Sail/0 Adv/0 Inf/1 Swash;Rower/Loyal/Captive;Iron Shadow (Fixed)/Fate's Debt (Uncommon);0
+Aimon Riché du Pourisse;Crew;Montaigne;Punch/Club,Thrust;0 Can/2 Sail/0 Adv/0 Inf/2 Swash;Topman;Iron Shadow (Common)/Broadsides (Common)/No Quarter (Common);0
+Aindriu McKenna;Crew;Sea Dogs-Rose and Cross;Punch/Club,Thrust;2 Can/0 Sail/0 Adv/2 Inf/3 Swash;Heroic/Gunner;Syrneth Secrets (Common);0
+Al-Katim;Crew;Corsairs;Punch/Club,Thrust;3 Can/0 Sail/0 Adv/0 Inf/1 Swash;Gunner/Villainous;Strange Vistas (Common);0
+Aldana School;Attachment;;Club/Dagger,Slash;Swordsman Knack;Fate's Debt (Fixed)/Strange Vistas (Uncommon);0
 
-# Done through card 105
+# Done through card 110
