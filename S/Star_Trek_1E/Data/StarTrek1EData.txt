@@ -36,7 +36,7 @@
 6th Rule Of Acquisition;Event;;Rules of Acquisition;508;;5;5
 75th Rule of Acquisition;Event;;Rules of Acquisition;509;;4;3
 A Bad End;Dilemma;Planet;Homefront VI;4671;;4;4
-A Change of Plans;Interrupt;;First Contact/Homefront III;510,4105;;4;0
+A Change of Plans;Interrupt;;First Contact/Homefront III;510,4105;;5;5
 A Fast Ship Would Be Nice;Dilemma;Dual;Mirror, Mirror/Virtual Promos;511,3689,4796;;4;2 # Have 2 MM
 A Good Day to Lie;Dilemma;Dual;The Next Generation/Homefront VI;3937,4677;;5;4 # Have 4 HF6
 A Good Day To Live;Mission;Planet;Blaze of Glory;512;;2;0
@@ -53,8 +53,8 @@ Acquire Illicit Explosives;Mission;Space;Deep Space 9/Homefront IV;520,4266;;2;0
 Acquire Technology;Mission;Planet;Voyager;521;;2;0
 Activate Subcommands;Event;;First Contact/The Borg;522,523;;8;7 # Need 1 FC
 Activate Tractor Beam;Interrupt;;Deep Space 9;524;;4;0
-Adapt: Modulate Shields;Interrupt;;First Contact/The Borg;525,526;;4;0
-Adapt: Negate Obstruction;Interrupt;;First Contact/The Borg/Q Who?;527,528,5619;;4;0
+Adapt: Modulate Shields;Interrupt;;First Contact/The Borg;525,526;;5;4 # have 4 Borg
+Adapt: Negate Obstruction;Interrupt;;First Contact/The Borg/Q Who?;527,528,5619;;11;10 # need 1 QWHO
 Add Distinctiveness;Incident;;Enhanced First Contact;529;;4;1
 Admiral Cartwright;Personnel;Federation;The Motion Pictures;530,7209;;2;0
 Admiral Hayes;Personnel;Federation;First Contact;531;;2;0
@@ -86,7 +86,7 @@ Alice;Dilemma;Dual;Holodeck Adventures;555;;4;0
 Alidar Jarok;Personnel;Romulan;Premiere;556,6037,6763,6400,7685;;2;1
 Alien Abduction;Dilemma;Planet;Premiere/Virtual Promos;557,5824,6038,6401,6764,7686;;4;0 # Need errata
 Alien Gambling Device;Artifact;;Deep Space 9;558;;2;0
-Alien Groupie;Interrupt;;Premiere;559,6039,6402,6765,7687,8051;;4;0
+Alien Groupie;Interrupt;;Premiere;559,6039,6402,6765,7687,8051;;4;0 # needs errata
 Alien Labyrinth;Dilemma;Planet;Alternate Universe/Introductory 2-Player Game;560,7173;;4;4
 Alien Parasites & REM Fatigue;Dilemma;Dual;Enhanced Premiere;562;;4;0
 Alien Parasites;Dilemma;Planet;Premiere;561,6040,6403,6766,7688;;4;0 # Needs errata
@@ -108,7 +108,7 @@ Alynna Nechayev;Personnel;Federation;Premiere;570,6042,6405,6768,7690,8054;;2;1
 Alyssa Ogawa (First Contact);Personnel;Federation;First Contact/Trouble with Tribbles Starter Decks;572,5249;;2;0
 Alyssa Ogawa;Personnel;Federation;Premiere/Coming of Age;571,5429,6043,6406,6769,7691,8055;;2;1
 Amanda Grayson;Personnel;Federation;The Motion Pictures;573,7211;;2;0
-Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692,8056;;4;2
+Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692,8056;;4;0 # needs errata
 Amanda's Parents;Q Event;;Q Continuum;575,7179;;4;0
 Amarie;Personnel;Non-Aligned;Premiere;576,6045,6408,6771,7693,8057;;2;0
 Amaros;Personnel;Non-Aligned;Deep Space 9;51,4442;;4;0
@@ -136,7 +136,7 @@ Anij;Personnel;Non-Aligned;All Good Things/Virtual Promos;591,3934;;2;0
 Ankari "Spirits";Dilemma;Space;The Borg;592;;4;4
 Answer Distress Signal;Mission;Space;Voyager/Virtual Promos;593,7546;;2;0
 Anti-Matter Pod;Equipment;;Q Continuum;594;;4;4
-Anti-Matter Spread;Interrupt;;Alternate Universe;595;;4;0
+Anti-Matter Spread;Interrupt;;Alternate Universe;595;;4;4
 Anti-Time Anomaly;Q Event;;Premiere;597,6048,6411,6774,7696,8060;;4;0 # Needs errata
 Antique Machine Gun;Artifact;;First Contact;596;;2;0
 Anya;Personnel;Non-Aligned;The Dominion;598;;2;0
@@ -147,7 +147,7 @@ Arachnia;Personnel;Non-Aligned;Holodeck Adventures;601;;2;0
 Arak'Taral;Personnel;Dominion;The Dominion;602;;2;0
 Aramax;Personnel;Cardassian;Mirror, Mirror;57,4833;;4;0
 Arandis;Personnel;Non-Aligned;Rules of Acquisition;603;;2;0
-Arbiter of Succession;Interrupt;;Q Continuum;604;;4;0
+Arbiter of Succession;Interrupt;;Q Continuum;604;;4;1
 Archanis Dispute;Mission;Planet;The Dominion;605;;2;0
 Archer: Precise Bowman;Dilemma;Planet;To the Journey;8482;;4;0
 Archer;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;606,5251,6049,6412,6775,7697,8061;;4;0 # Needs errata
@@ -175,18 +175,18 @@ Assimilate This!;Interrupt;;First Contact;628;;4;0
 Assimilation Table;Equipment;;First Contact;629;;4;0
 Assimilation Tubules;Equipment;;First Contact;630;;4;0
 Assist Cooperative;Mission;Planet;Voyager;631;;2;0
-Asteroid Sanctuary;Interrupt;;Premiere;632,6051,6414,6777,7513,7699,8063;;4;0
+Asteroid Sanctuary;Interrupt;;Premiere;632,6051,6414,6777,7513,7699,8063;;4;0 # needs errata
 Astral Eddy;Dilemma;Space;Voyager;633;;4;1
 Atmospheric Ionization;Event;;Premiere;634,6052,6415,6778,7700,8064;;4;0 # Needs errata
 Attack Pattern Delta;Interrupt;;Blaze of Glory/BaH!;635,3703;;4;0
 Attack Wing;Tactic;;Blaze of Glory/BaH!;636,3704;;10;0
 Attention All Hands;Incident;;The Next Generation;3958;;4;4
 Atul;Personnel;Klingon;The Dominion;60;;4;0
-Auto-Destruct Sequence;Interrupt;;Premiere/Voyager;637,638,6053,6416,6779,7701,8065;;4;0
+Auto-Destruct Sequence;Interrupt;;Premiere/Voyager;637,638,6053,6416,6779,7701,8065;;4;0 # needs errata
 Automated Security System;Event;;Deep Space 9;639;;4;0
 Avert Danger;Mission;Planet;Introductory 2-Player Game;640;;2;0
 Avert Disaster;Mission;Planet;Premiere;683,6062,6425,6788,7710,8074;;2;0
-Awaken;Interrupt;;First Contact/The Borg/Virtual Promos;684,685,5814;;4;0
+Awaken;Interrupt;;First Contact/The Borg/Virtual Promos;684,685,5814;;18;16 # have 16 BORG
 Ayala;Personnel;Federation;Voyager;61;62;4;0
 Ayala;Personnel;Non-Aligned;Voyager;62;61;4;0
 Azet'izan;Personnel;Dominion;The Dominion;63;;4;0
@@ -220,7 +220,7 @@ Balok;Personnel;Non-Aligned;Mirror, Mirror;701;;2;0
 Baran;Personnel;Non-Aligned;Premiere;702,4071,6064,6427,6790,7712,8076;;2;0
 Barash;Personnel;Non-Aligned;Holodeck Adventures;703;;2;0
 Barber Pole;Event;;Q Continuum;704;;4;2
-Barclay Transporter Phobia;Interrupt;;Alternate Universe;705;;4;0
+Barclay Transporter Phobia;Interrupt;;Alternate Universe;705;;15;15
 Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791,7713,8077;;4;4
 Bareil Antos;Personnel;Bajoran;Deep Space 9/Reflections;708,3609,4407;;2;0
 Bareil of Borg;Personnel;Borg;Enhanced First Contact;709;;2;0
@@ -251,7 +251,7 @@ Beverly Crusher (First Contact);Personnel;Federation;First Contact;434;;2;0
 Beverly Crusher;Personnel;Federation;Premiere;433,3557,6029,6392,6755,7677,8041;;2;1
 Beverly Picard;Personnel;Federation;Alternate Universe;435,3558;;2;0
 Beware of Q;Objective;;Deep Space 9;436;;4;0
-Beyond the Subatomic;Interrupt;;Voyager;437;;4;0
+Beyond the Subatomic;Interrupt;;Voyager;437;;4;4
 Bio-Neural Gel Pack;Equipment;;Voyager;438;;4;4
 Bioweapon Ruse;Mission;Planet;The Dominion;439,7514;;2;0
 Birta;Personnel;Ferengi;Rules of Acquisition;440;;2;0
@@ -295,7 +295,7 @@ Borg Vinculum;Equipment;;The Borg;751;;4;4
 Botanical Research;Mission;Planet;Starter Deck II;80,4053,7055;;4;0
 Bothan Vessel;Ship;Non-Aligned;Voyager;81;;4;0
 Bractor;Personnel;Ferengi;Rules of Acquisition;752;;2;0
-Brain Drain;Interrupt;;Alternate Universe;753;;4;0
+Brain Drain;Interrupt;;Alternate Universe;753;;6;6
 Brainwash;Event;;Q Continuum/Virtual Promos;754,4806,4879;;4;0
 Breen CRM114;Equipment;;Rules of Acquisition;755;;4;1
 Breen Disruptor Burst;Tactic;;The Trouble with Tribbles/BaH!;756,3707;;10;0
@@ -1650,9 +1650,15 @@ Ophidian Cane;Artifact;;Alternate Universe;1818;;2;2
 Ops: Mirror Universe;Site;;Mirror, Mirror/Homefront V;1820,4472;;2;0
 Ops;Site;;Deep Space 9/Homefront V/Virtual Promos;1819,4471,7320;;2;0
 Optimize Performance Venue;Mission;Planet;To the Journey;8503;;2;0
+Orb Experience;Interrupt;;Deep Space 9;1821;;4;0
+Orb Fragment;Artifact;;Deep Space 9;1822;;2;0
+Orb Negotiations;Mission;Planet;Deep Space 9/Homefront;1823,3520;;2;0
 Orb of Prophecy and Change;Artifact;;The Dominion/First Anthology/Homefront VI;1824,3083,4665;;2;2
 Orb of Time;Artifact;;The Trouble with Tribbles;1825;;2;1
 Orb of Wisdom;Artifact;;Rules of Acquisition/Virtual Promos;1826,5170;;3;2 # Have 2 RoA
+Orbital Bombardment;Objective;;Holodeck Adventures;1827;;4;0
+Ore Processing Unit;Site;;Deep Space 9/Homefront V;1828,4473;;2;0
+Organ Theft;Objective;;Voyager;1829;;4;0
 Organian Peace Treaty;Event;;The Trouble with Tribbles;1830;;4;4
 Ornithar;Personnel;Dominion;The Dominion;293,4425;;4;0
 Orren Ran;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;294,7116;;4;0
@@ -2096,9 +2102,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1820
-#1824-1826
-#1830
+# Done through card 1830
 #1836
 #1842
 #1845-1847
@@ -2236,7 +2240,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3481
 #3484
 #3486-3508
-#3513-3519
+#3513-3520
 #3522
 #3526-3527
 #3529-3531
@@ -2316,7 +2320,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4427-4438
 #4442-4444
 #4447-4452
-#4461-4472
+#4461-4473
 #4477
 #4485
 #4487-4489
