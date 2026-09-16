@@ -729,17 +729,17 @@ First Order Stormtrooper;JTL-132-C;Ground Unit;First Order/Trooper;R/B;3 # 1 hyp
 First Order TIE Fighter;JTL-081-C;Space Unit;First Order/Vehicle/Fighter;G/B;3 # 1 foil
 Fives, I Have Proof!;TS26-34-R;Ground Unit;Republic/Clone/Trooper;Y/U/W;0
 Fives, In Search of Truth;TWI-216-R;Ground Unit;Republic/Clone/Trooper;Y;0
-# done through here
-Flanking Fang Fighter;JTL-257-C;Space Unit;N;3 # 1 hyperspace
+Flanking Fang Fighter;JTL-257-C;Space Unit;Mandalorian/Vehicle/Fighter;N;3 # 1 hyperspace
 Flanking TIE Interceptor;ASH-215-C;Space Unit;Imperial/Vehicle/Fighter;Y;0
 Flarestar Attack Shuttle;ASH-167-C;Space Unit;Underworld/Vehicle/Fighter;R;0
 Flash the Vents;LAW-205-C;Event;Gambit;R;0
-Fleet Interdictor;JTL-040-C;Space Unit;U/B;2
-Fleet Lieutenant;SOR-240-C;Ground Unit;W;3 # 1 hyperspace
-Flight of the Inquisitor;LOF-240-U;Event;B;2
-Fly Casual;JTL-206-U;Event;Y/W;2
-FN Trooper Corps;SEC-243-C;Ground Unit;B;3
-Focus Determines Reality;LOF-152-U;Event;R/W;2
+Fleet Interdictor;JTL-040-C;Space Unit;Imperial/Vehicle/Capital Ship;U/B;2
+Fleet Lieutenant;SOR-240-C;Ground Unit;Rebel/Trooper;W;3 # 1 hyperspace
+Flight of the Inquisitor;LOF-240-U;Event;Tactic;B;2
+Fly Casual;JTL-206-U;Event;Trick;Y/W;2
+FN Trooper Corps;SEC-243-C;Ground Unit;First Order/Trooper;B;3
+Focus Determines Reality;LOF-152-U;Event;Force;R/W;2
+# done through here
 Focus Fire;JTL-129-C;Event;G;2
 Follow Me;ASH-184-C;Event;Tactic;R;0
 Follower of the Code;LAW-153-C;Ground Unit;Droid/Bounty Hunter;G;1
@@ -2258,9 +2258,18 @@ Radiant VII, Negotiating For Naboo;HMW-079-U;Space Unit;Republic/Vehicle/Transpo
 Fambaa Shield Team;HMW-080-C;Ground Unit;Creature/Gungan;U/W;0
 Alliance Shield Generator;HMW-081-U;Upgrade;Fortification;U/W;0
 Nala Se, Silent Survivor;HMW-082-R;Ground Unit;Kaminoan;U;0
-
+Batcher, Loyal Hound;HMW-083-U;Ground Unit;Creature;U;0
+Gunga City Guard;HMW-084-C;Ground Unit;Gungan;U;0
 Remote Scout;HMW-085-C;Ground Unit;Imperial/Trooper;U;0
-
+# HMW-086 missing
+# HMW-087 missing
+Numa, Still Fighting;HMW-088-U;Ground Unit;Rebel/Twi'lek;U;0
+# HMW-089 missing
+Opee Sea Killer;HMW-090-C;Ground Unit;Creature;U;0
+# HMW-091 missing
+# HMW-092 missing
+# HMW-093 missing
+Sando Aqua Monster;HMW-094-L;Ground Unit;Creature;U;0
 Carbonite Chamber;HMW-095-U;Upgrade;Fortification;U;0
 
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
