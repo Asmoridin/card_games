@@ -1630,6 +1630,7 @@ Dreepy;Pokemon;Dragon;70;;Petty Grudge|Bite;TWM 128 (Common)/PRE 71 (Common)/ASC
 Drakloak;Pokemon;Dragon;90;Recon Directive;Dragon Headbutt;TWM 129 (Common)/PRE 72 (Common)/ASC 159 (Common)/ASC 248 (Illustration Rare);H;4;0
 Dragapult ex;Pokemon;Dragon;320;;Jet Headbutt|Phantom Dive;TWM 130 (Double Rare)/TWM 200 (Ultra Rare)/PRE 73 (Double Rare)/PRE 165 (Special Illustration Rare)/ASC 160 (Double Rare);H;4;0
 Tatsugiri;Pokemon;Dragon;70;Attract Customers;Surf;TWM 131 (Uncommon)/TWM 186 (Illustration Rare)/SVP 118 (Promo);H;4;0
+Eevee;Pokemon;Colorless;50;;Ascension|Quick Attack;TWM 135 (Common)/TWM 188 (Illustration Rare);H;4;0
 Bloodmoon Ursaluna ex;Pokemon;Colorless;260;Seasoned Skill;Blood Moon;TWM 141 (Double Rare)/TWM 202 (Ultra Rare)/TWM 216 (Special Illustration Rare)/TWM 222 (Hyper Rare)/SVP 177 (Promo)/PRE 168 (Special Illustration Rare);H;4;0
 Accompanying Flute;Trainer;Item;;;;TWM 142 (Uncommon);H;4;0
 Bug Catching Set;Trainer;Item;;;;TWM 143 (Uncommon)/PRE 102 (Uncommon);H;4;0
@@ -1708,8 +1709,17 @@ Tirtouga;Pokemon;Water;100;;Splashing Turn;SCR 37 (Uncommon);H;4;0
 Carracosta;Pokemon;Water;160;Primal Knowledge;Tidal Wave;SCR 38 (Rare);H;4;0
 Froakie;Pokemon;Water;60;;Rain Splash;SCR 39 (Common);H;4;0
 Frogadier;Pokemon;Water;90;;Wave Splash;SCR 40 (Uncommon);H;4;0
-
+Greninja ex;Pokemon;Water;300;;Shifting Shuriken;SCR 41 (Double Rare);H;4;0
+Crabominable;Pokemon;Water;160;Food Prep;Haymaker;SCR 42 (Uncommon)/SCR 149 (Illustration Rare)/SVP 134 (Promo);H;4;0
+Chewtle;Pokemon;Water;80;;Headbutt;SCR 43 (Common);H;4;0
+Drednaw;Pokemon;Water;140;Impervious Shell;Hard Crunch;SCR 44 (Rare);H;4;0
+Veluza;Pokemon;Water;130;Food Prep;Sonic Edge;SCR 45 (Uncommon);H;4;0
+Electabuzz;Pokemon;Lightning;90;;Collect|Magnum Punch;SCR 46 (Common);H;4;0
+Electivire;Pokemon;Lightning;150;;Electroslug|Unleash Lightning;SCR 47 (Uncommon);H;4;0
+Chinchou;Pokemon;Lightning;70;;Double Voltage;SCR 48 (Common);H;4;0
+Lanturn;Pokemon;Lightning;120;;Disorienting Flash|Thunderous Bolt;SCR 49 (Uncommon);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
+
 Galvantula ex;Pokemon;Lightning;260;;Charged Web|Fulgurite;SCR 51 (Double Rare)/SCR 159 (Ultra Rare)/SCR 168 (Special Illustration Rare);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
 Comfey;Pokemon;Psychic;70;;Flower Shower|Play Rough;SCR 63 (Common);H;4;0
@@ -1735,7 +1745,7 @@ Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE S
 
 # 142 last new card (done)
 # 144-147
-# 150
+# 149-150
 # 155-159
 # 163-164
 # 166-168
