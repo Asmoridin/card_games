@@ -1642,6 +1642,7 @@ Handheld Fan;Trainer;Pokemon Tool;;;;TWM 150 (Uncommon);H;4;0
 Jamming Tower;Trainer;Stadium;;;;TWM 153 (Uncommon)/DRI 243 (Hyper Rare)/ASC 261 (Ultra Rare);H;4;0
 Kieran;Trainer;Supporter;;;;TWM 154 (Uncommon)/TWM 206 (Ultra Rare)/TWM 218 (Special Illustration Rare)/PRE 113 (Uncommon)/PRE 174 (Special Illustration Rare);H;4;0
 Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
+Lucky Helmet;Trainer;Pokemon Tool;;;;Ancient Origins 77 (Uncommon)/TWM 158 (Uncommon);H;4;0
 Ogre's Mask;Trainer;Item;;;;TWM 159 (Uncommon)/PRE 118 (Uncommon);H;4;0
 Raifort;Trainer;Supporter;;;;TWM 161 (Uncommon)/PRE 142 (Ultra Rare);G;4;0
 Scoop Up Cyclone;Trainer;Item;;;;Plasma Blast 95 (Rare Ace)/TWM 162 (ACE SPEC Rare)/PRE 128 (ACE SPEC Rare);H;2;0
@@ -1719,9 +1720,12 @@ Electivire;Pokemon;Lightning;150;;Electroslug|Unleash Lightning;SCR 47 (Uncommon
 Chinchou;Pokemon;Lightning;70;;Double Voltage;SCR 48 (Common);H;4;0
 Lanturn;Pokemon;Lightning;120;;Disorienting Flash|Thunderous Bolt;SCR 49 (Uncommon);H;4;0
 Joltik;Pokemon;Lightning;30;;Jolting Charge;SCR 50 (Common)/SCR 150 (Illustration Rare);H;4;0
-
 Galvantula ex;Pokemon;Lightning;260;;Charged Web|Fulgurite;SCR 51 (Double Rare)/SCR 159 (Ultra Rare)/SCR 168 (Special Illustration Rare);H;4;0
+Charjabug;Pokemon;Lightning;80;;Parallel Placement;SCR 52 (Common);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
+Togedemaru;Pokemon;Lightning;80;;Electrifying Chance;SCR 54 (Uncommon);H;4;0
+Zeraora;Pokemon;Lightning;120;;Combat Thunder;SCR 55 (Rare)/SCR 151 (Illustration Rare);H;4;0
+
 Comfey;Pokemon;Psychic;70;;Flower Shower|Play Rough;SCR 63 (Common);H;4;0
 Flittle;Pokemon;Psychic;50;;Peck;SCR 68 (Common);H;4;0
 Iron Boulder;Pokemon;Psychic;140;;Adjusted Horn;SCR 71 (Rare)/PRE 46 (Rare);H;4;0
@@ -1745,8 +1749,22 @@ Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE S
 
 # 142 last new card (done)
 # 144-147
-# 149-150
+# 149-151
 # 155-159
 # 163-164
 # 166-168
 # 170-175 (last card)
+
+# 30th Celebration (30C)
+Exeggcute;Pokemon;Grass;60;;Hypnosis;30C 1 (Common);J;4;0
+Alolan Exeggutor;Pokemon;Grass;150;Scale Up;Mega Drain;30C 2 (Common)/30C 129 (Illustration Rare)/MEP 94 (Promo);J;4;0
+Volbeat;Pokemon;Grass;80;;Luring Glow|Bug Buzz;30C 3 (Common);J;4;0
+Illumise;Pokemon;Grass;80;Supereffective Pheromones;Ram;30C 4 (Common);J;4;0
+Tropius;Pokemon;Grass;120;;Rally Back|Cutting Wind;30C 5 (Common);J;4;0
+Cherubi;Pokemon;Grass;40;;Hide|Flop;30C 6 (Common);J;4;0
+Cherrim;Pokemon;Grass;80;;Energy Gift|Leafage;30C 7 (Common);J;4;0
+Vivillon;Pokemon;Grass;120;Guiding Dance|Poison Powder;30C 8 (Common);J;4;0
+Vulpix;Pokemon;Fire;70;;Wild Kick;30C 9 (Common);J;4;0
+Ninetales;Pokemon;Fire;110;;Flame Tail;30C 10 (Common);J;4;0
+
+# 129
