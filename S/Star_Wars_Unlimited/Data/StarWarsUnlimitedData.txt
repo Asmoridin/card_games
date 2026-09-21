@@ -749,18 +749,18 @@ For The Republic;TWI-051-R;Upgrade;Republic;U/W;0
 Force Choke;SOR-139-U;Event;Force;R/B;3
 Force Illusion;LOF-223-U;Event;Force/Trick;Y;3
 Force Lightning;SOR-138-L;Event;Force;R/B;1
-# done through here
-Force Slow;LOF-217-C;Event;Y;3
-Force Speed;LOF-205-U;Event;Y;3 # 1 foil
-Force Throw;SOR-167-U;Event;R;2
-Forced Surrender;SOR-175-U;Event;R;3
-Foresight;TWI-068-R;Upgrade;U;1
+Force Slow;LOF-217-C;Event;Force;Y;3
+Force Speed;LOF-205-U;Event;Force;Y;3 # 1 foil
+Force Throw;SOR-167-U;Event;Force;R;2
+Forced Surrender;SOR-175-U;Event;Plan;R;3
+Foresight;TWI-068-R;Upgrade;Learned;U;1
 Forest Patroller;ASH-096-C;Ground Unit;Imperial/Trooper;G/B;0
-Forged Starfighter;LOF-228-C;Space Unit;B;3 # 1 foil, 1 hyperfoil
+Forged Starfighter;LOF-228-C;Space Unit;Sith/Vehicle/Fighter;B;3 # 1 foil, 1 hyperfoil
 Fortress of the Great Mothers;ASH-019-C;Base;Peridea;U;0
-Fortress Vader;LOF-026-C;Base;R;1
+Fortress Vader;LOF-026-C;Base;Mustafar;R;1
 Fortune and Glory, Hondo's Luxury Yacht;TS26-27-U;Space Unit;Underworld/Vehicle/Transport;G/Y;2
-Forward Command Post;IBH-054-S;Base;U;0
+Forward Command Post;IBH-054-S;Base;Hoth;U;0
+# done through here
 Foundling Rescue;ASH-092-C;Event;Plan;U;0
 Foundling;SHD-069-C;Upgrade;U;3
 Freelance Assassin;TWI-212-C;Ground Unit;Y;3 # 1 hyperfoil
@@ -2275,6 +2275,11 @@ Dire Prowess;HMW-097-C;Upgrade;Learned;U;0
 Resonate;HMW-098-U;Upgrade;Innate;U;0
 Always a Bigger Fish;HMW-099-R;Event;Innate;U;0
 Torrent;HMW-100-C;Event;Disaster;U;0
+Trust Yourself;HMW-101-C;Event;Innate;U;0
+Dragon's Might;HMW-102-C;Event;Innate;U;0
+Disposable B1;HMW-103-C;Ground Unit;Separatist/Droid/Trooper;G/B;0
+Garnac, Let the Hunt Begin!;HMW-104-R;Ground Unit;Underworld;G/B;0
+Nute Gunray, Perfectly Legal;HMW-105-U;Ground Unit;Separatist/Official;G/B;0
 
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
 
