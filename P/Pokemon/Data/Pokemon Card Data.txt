@@ -1618,6 +1618,7 @@ Iron Thorns ex;Pokemon;Lightning;230;Initialization;Volt Cyclone;TWM 77 (Double 
 Clefairy;Pokemon;Psychic;60;;Moon Kick;TWM 78 (Common)/ASC 74 (Common);H;4;0
 Clefable;Pokemon;Psychic;120;;Metronome|Magical Shot;TWM 79 (Uncommon)/ASC 75 (Uncommon);H;4;0
 Abra;Pokemon;Psychic;40;Teleporter;Beam;TWM 80 (Common);H;4;0
+Enamorus;Pokemon;Psychic;120;;Heart Sign|Love Resonance;TWM 93 (Rare)/TWM 180 (Illustration Rare);H;4;0
 Munkidori;Pokemon;Psychic;110;Adrena-Brain;Mind Bend;TWM 95 (Rare)/SFA 72 (Illustration Rare)/PRE 44 (Rare)/ASC 99 (Rare);H;4;0
 Fezandipiti;Pokemon;Psychic;120;Adrena-Pheromone;Energy Feather;TWM 96 (Rare)/SFA 73 (Illustration Rare)/PRE 45 (Rare);H;4;0
 Conkeldurr;Pokemon;Fighting;180;;Tantrum|Gutsy Swing;TWM 105 (Uncommon);H;4;0
@@ -1725,6 +1726,11 @@ Charjabug;Pokemon;Lightning;80;;Parallel Placement;SCR 52 (Common);H;4;0
 Vikavolt;Pokemon;Lightning;160;;Volt Switch|Sparking Strike;SCR 53 (Uncommon)/ASC 66 (Uncommon)/ASC 230 (Illustration Rare);H;4;0
 Togedemaru;Pokemon;Lightning;80;;Electrifying Chance;SCR 54 (Uncommon);H;4;0
 Zeraora;Pokemon;Lightning;120;;Combat Thunder;SCR 55 (Rare)/SCR 151 (Illustration Rare);H;4;0
+Pawmi;Pokemon;Lightning;40;;Targeted Spark;SCR 56 (Common);H;4;0
+Slowpoke;Pokemon;Psychic;80;;Dangle Tail|Tackle;SCR 57 (Common);H;4;0
+Slowking;Pokemon;Psychic;120;;Seek Inspiration|Super Psy Bolt;SCR 58 (Uncommon);H;4;0
+Mewtwo;Pokemon;Psychic;130;;Super Psy Bolt;SCR 59 (Uncommon);H;4;0
+Drifloon;Pokemon;Psychic;70;;Expand;SCR 60 (Common);H;4;0
 
 Comfey;Pokemon;Psychic;70;;Flower Shower|Play Rough;SCR 63 (Common);H;4;0
 Flittle;Pokemon;Psychic;50;;Peck;SCR 68 (Common);H;4;0
@@ -1766,5 +1772,18 @@ Cherrim;Pokemon;Grass;80;;Energy Gift|Leafage;30C 7 (Common);J;4;0
 Vivillon;Pokemon;Grass;120;Guiding Dance;Poison Powder;30C 8 (Common);J;4;0
 Vulpix;Pokemon;Fire;70;;Wild Kick;30C 9 (Common);J;4;0
 Ninetales;Pokemon;Fire;110;;Flame Tail;30C 10 (Common);J;4;0
+Moltres;Pokemon;Fire;120;Fiery Flapping;Fire Spin;30C 11 (Common)/30C 130 (Illustration Rare)/MEP 96 (Promo);J;4;0
+Ho-Oh;Pokemon;Fire;130;;Sacred Breath|Fire Wing;30C 12 (Rare);J;4;0
+Victini;Pokemon;Fire;80;;Call for Family|V-Flame;30C 13 (Common)/MEP 102 (Promo);J;4;0
+Reshiram;Pokemon;Fire;130;;Slash|Laser Flame;30C 14 (Rare);J;4;0
+Fuecoco ex;Pokemon;Fire;210;;Singe|Cheerful Flame;30C 15 (Double Rare)/30C 147 (Special Illustration Rare);J;4;0
+Slowpoke;Pokemon;Water;80;;Well-Hidden|Water Gun;30C 16 (Common);J;4;0
+Lapras;Pokemon;Water;130;;Ferry Across|Ice Beam;30C 17 (Common)/30C 131 (Illustration Rare);J;4;0
+Articuno;Pokemon;Water;120;Frosty Flapping;Hail;30C 18 (Common)/30C 132 (Illustration Rare)/MEP 97 (Promo);J;4;0
+Kyogre;Pokemon;Water;140;;Hydro Pump;30C 19 (Rare);J;4;0
+Palkia;Pokemon;Water;130;;Wormhole;30C 20 (Rare);J;4;0
 
-# 129
+# 128 last card (not done)
+# 129-132
+# 147
+# 158 last complete card (not done)
