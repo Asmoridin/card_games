@@ -18,7 +18,7 @@ FILE_PREFIX = os.path.join("card_games", "W", "World_of_Tanks")
 # Define valid values for card attributes
 valid_types = ['Light Tank', 'Medium Tank', 'Heavy Tank', 'Tank Destroyer', 'Base', 'SPG']
 valid_countries = ['Poland', 'USA', 'Germany', 'USSR', 'France', 'UK', 'China', 'Japan',
-    'Italy',]
+    'Italy', 'Sweden']
 valid_rarities = ['Standard', 'Common', 'Uncommon', 'Rare', 'Legendary',]
 item_list = [] # Where all the cards will end up getting stored
 
