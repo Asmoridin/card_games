@@ -1715,8 +1715,17 @@ Phlox;Personnel;Starfleet;Enterprise Collection;1868,5465;;2;0
 Phoenix;Ship;Non-Aligned;First Contact/Virtual Promos;1869,3838;;2;0
 Photon Torpedo;Tactic;;Blaze of Glory;1870,3718;;10;0
 Photonic Energy Being;Dilemma;Space;The Borg;1871;;4;4
+Pi;Ship;Romulan;Premiere;1872,6235,6598,6961,7883,8247;;2;0
+Picard Maneuver;Tactic;;Blaze of Glory/BaH!;1873,3719;;10;0
+Picard's Artificial Heart;Q Artifact;;Fajo Collection;1874;;4;0
 Picking Up the Pieces;Dilemma;Planet;Homefront;3498;;4;4
+Pla-Net;Q Dilemma;;Q Continuum;1877;;4;0
+Plague Planet;Mission;Planet;Q Continuum;1875;;2;0
+Plain, Simple Garak;Personnel;Cardassian;1876,4419;;2;0
 Planet;Mission;Planet;First Contact;304;;4;0
+Plans of the Obsidian Order;Objective;;Deep Space 9;1878;;4;0
+Plans of the Tal Shiar;Objective;;Deep Space 9/Reflections;1879,3608;;4;0
+Plasma Energy Burst;Tactic;;Rules of Acquisition/BaH!;1880,3721;;10;0
 Plasma Fire;Event;;Premiere/Trouble with Tribbles Starter Decks;1881,6236,6599,6962,7150,7884,8248;;4;0 # Needs errata
 Plasmadyne Relay;Equipment;;Q Continuum/Trouble with Tribbles Starter Decks;1883,5265;;8;8
 Plenty of Captains;Incident;;Crossover;4742;;4;4
@@ -2133,8 +2142,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1870
-#1871
+# Done through card 1880
 #1881
 #1883
 #1887
@@ -2278,15 +2286,15 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3587-3589
 #3592-3594
 #3597-3604
-#3607
-#3609-3617
+#3607-3617
 #3620-3628
 #3632
 #3636
 #3685
 #3688-3696
 #3698-3700
-#3702-3718
+#3702-3719
+#3721
 #3727
 #3730-3733
 #3744
@@ -2340,8 +2348,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4391
 #4393-4394
 #4399-4403
-#4406-4418
-#4420-4425
+#4406-4425
 #4427-4439
 #4442-4444
 #4447-4452
@@ -2466,8 +2473,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5899-5914
 #5916-5918
 #5966-6211
-#6212-6234
-#6236
+#6212-6236
 #6238-6239
 #6241-6246
 #6248-6250
@@ -2490,8 +2496,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6322-6325
 #6328-6460
 #6464-6550
-#6552-6597
-#6599
+#6552-6599
 #6601-6602
 #6604-6609
 #6611-6613
@@ -2515,8 +2520,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #6691-6787
 #6688
 #6788-6821
-#6823-6960
-#6962
+#6823-6962
 #6964-6965
 #6967-6972
 #6974-6976
@@ -2572,8 +2576,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7743-7762
 #7766-7793
 #7795-7806
-#7808-7882
-#7884
+#7808-7884
 #7886-7887
 #7889-7894
 #7896-7898
@@ -2623,7 +2626,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8238
 #8240
 #8243-8245
-#8248
+#8247-8248
 #8253-8258
 #8264-8267
 #8270

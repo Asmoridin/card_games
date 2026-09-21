@@ -103,7 +103,7 @@ Arihnda Pryce, On the Road to Power;SEC-136-R;Ground Unit;Imperial;R/B;2
 Armed to the Teeth;SHD-175-U;Upgrade;Supply/Weapon;R;3
 Armor of Fortune;SEC-070-C;Upgrade;Item/Armor;U;3 # 1 hyperspace, 1 hyperfoil
 Armored Saber Tank;TWI-245-C;Ground Unit;Republic/Vehicle/Tank;W;2
-Arms Deal;TS26-68-C;Event;Supply;R;0
+Arms Deal;TS26-68-C;Event;Supply;R;1
 Army of the Dead;LOF-236-C;Ground Unit;Night/Undead;B;3
 Arquitens Assault Cruiser;SHD-122-R;Space Unit;Vehicle/Capital Ship;G;1
 Arrest;SEC-195-R;Event;Law;Y/B;1
@@ -136,7 +136,7 @@ Attendant Navigator;ASH-238-C;Ground Unit;First Order;B;0
 Attuned Fyrnock;LOF-143-C;Ground Unit;Creature;R/W;3
 Aurra Sing, Assassin;LAW-004-C;Leader;Underworld/Bounty Hunter;U/B;1
 Aurra Sing, Crackshot Sniper;TWI-166-U;Ground Unit;Underworld/Bounty Hunter;R;2 # 1 foil
-Aurra Sing, Patient and Deadly;LOF-179-U;Ground Unit;Underworld/Bounty Hunter;Y/B;1
+Aurra Sing, Patient and Deadly;LOF-179-U;Ground Unit;Underworld/Bounty Hunter;Y/B;2
 Auzituck Liberator Gunship;SOR-195-C;Space Unit;Vehicle/Fighter;W/Y;3 # 1 hyperfoil, 1 hyperspace
 Avar Kriss, Marshal of Starlight;LOF-007-R;Leader;Force/Jedi/Republic;G/W;1
 Avenger, Hunting Star Destroyer;SOR-040-L;Space Unit;Imperial/Vehicle/Capital Ship;U/B;1
@@ -151,9 +151,9 @@ B1 Security Team;TWI-207-C;Ground Unit;Separatist/Droid/Trooper;Y;3
 B2 Legionnaires;TWI-113-C;Ground Unit;Separatist/Droid/Trooper;G;3 # 1 foil
 B2EMO, That's Two Lies;SEC-248-U;Ground Unit;Fringe/Droid;W;2
 Babu Frik, Heyyy!;LOF-206-R;Ground Unit;Underworld;Y;2 # 1 hyperspace
-Backed by Black Sun;TS26-70-R;Event;Supply;R;0
+Backed by Black Sun;TS26-70-R;Event;Supply;R;1
 Backed by the Hutts;LAW-247-C;Event;Supply;Y;2
-Backed by the Pykes;TS26-58-R;Event;Supply;G;0
+Backed by the Pykes;TS26-58-R;Event;Supply;G;1
 Bail Organa, Doing Everything He Can;SEC-008-R;Leader;Republic/Official;G/W;1 # 1 hyperspace
 Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;Rebel/Official;G/W;2
 Bail Organa, Responding to Catastrophe;SEC-198-U;Ground Unit;Republic/Official;Y/W;3
@@ -221,7 +221,7 @@ Bo-Katan Kryze, Fighting For Mandalore;SHD-157-U;Ground Unit;Mandalorian/Trooper
 Bo-Katan Kryze, For All of Mandalore;ASH-105-R;Ground Unit;Mandalorian;G/W;0
 Bo-Katan Kryze, Princess In Exile;SHD-012-R;Leader;Mandalorian;R/W;1 # 1 hyperspace
 Bo-Katan Kryze, Reclaiming Mandalore;ASH-010-R;Leader;Mandalorian;G/W;0
-Bo-Katan Kryze, The Lawless;TS26-65-U;Ground Unit;Mandalorian/Trooper;R;0
+Bo-Katan Kryze, The Lawless;TS26-65-U;Ground Unit;Mandalorian/Trooper;R;1
 Bo-Katan's Gauntlet, Reinforce From Above;ASH-063-R;Space Unit;Mandalorian/Vehicle/Transport;W/U;0
 Boba Fett's Armor;SHD-224-R;Upgrade;Item/Armor;Y;0
 Boba Fett's Rancor, Emotionally Complex Creature;ASH-179-L;Ground Unit;Underworld/Creature;R;0
@@ -259,9 +259,9 @@ Breaking In;TWI-224-C;Event;Tactic;Y;3 # 1 foil
 Bright Hope, Narrow Escape;IBH-014-S/IBH-026-S;Space Unit;Rebel/Vehicle/Transport;G/W;0
 Bright Hope, The Last Transport;SOR-099-U;Space Unit;Rebel/Vehicle/Transport;G/W;3
 Broken Horn, Vizago's Pride;LAW-083-U;Space Unit;Underworld/Vehicle/Transport;R/Y;0
-Brothers;TS26-59-R;Event;Innate;G;0
+Brothers;TS26-59-R;Event;Innate;G;1
 Brutal Traditions;SHD-038-U;Upgrade;Learned;U/B;3 # 1 foil
-BT-1, Blastomech;LAW-173-U;Ground Unit;Underworld/Droid;R/B;0
+BT-1, Blastomech;LAW-173-U;Ground Unit;Underworld/Droid;R/B;1
 Budget Scheming;SEC-124-C;Event;Law;G;3 # 1 hyperspace
 Bunker Defender;JTL-107-C;Ground Unit;Imperial/Trooper;G;3 # 1 foil
 Buy Time;ASH-091-C;Event;Tactic;U;0
@@ -407,7 +407,7 @@ Compassionate Senator;TWI-056-U;Ground Unit;Republic/Official;U;1
 Concord Dawn Interceptors;SHD-042-U;Space Unit;Mandalorian/Vehicle/Fighter;U/W;3 # 1 hyperspace
 Condemn;SEC-038-R;Upgrade;Condition;U/B;2
 Confederate Courier;TWI-079-C;Space Unit;Separatist/Vehicle/Fighter;B/G;3
-Confederate Tri-Fighter;TWI-132-U;Space Unit;Separatist/Droid/Vehicle/Fighter;R/B;1
+Confederate Tri-Fighter;TWI-132-U;Space Unit;Separatist/Droid/Vehicle/Fighter;R/B;2
 Confidence in Victory;SEC-145-L;Event;Gambit;R/B;1
 Confiscate;SOR-251-C/SHD-262-S;Event;Law;N;3 # 1 hyperspace, 1 foil
 Congress of Malastare;SEC-064-C;Ground Unit;Republic/Official;U;3
@@ -439,7 +439,7 @@ Corrupted Saber;LOF-187-C;Upgrade;Item/Weapon/Lightsaber;Y/B;3 # 1 hyperspace
 Coruscant Dissident;SHD-199-U;Ground Unit;Underworld/Twi'lek;Y/W;3 # 1 foil
 Coruscant Guard;TWI-106-C;Ground Unit;Republic/Clone/Trooper;G;3
 Coruscant Undercity Police;SEC-167-C;Ground Unit;Republic/Trooper;R;3 # 1 hyperspace
-Coruscanti Spy;TS26-53-C;Ground Unit;Official;G;1
+Coruscanti Spy;TS26-53-C;Ground Unit;Official;G;2
 Corvus, Inferno Squadron Raider;JTL-038-R;Space Unit;Imperial/Vehicle/Capital Ship;U/B;1
 Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;Force/Separatist/Sith;U/B;3
 Count Dooku, Face of the Confederacy;TWI-005-C;Leader;Force/Separatist/Sith;B/G;1 # 1 showcase
@@ -533,14 +533,14 @@ Dengar, Crude and Slovenly;JTL-139-U;Ground Unit;Underworld/Bounty Hunter/Pilot;
 Dengar, Take Your Shot;LAW-053-U;Ground Unit;Underworld/Bounty Hunter;G/R/B;0
 Dengar, The Demolisher;SHD-133-U;Ground Unit;Underworld/Bounty Hunter;R/B;3
 Depa Billaba, A Higher Purpose;LOF-199-U;Ground Unit;Force/Jedi/Republic;Y/W;3 # 1 hyperfoil
-Deployed Droideka;TS26-77-C;Ground Unit;Separatist/Droid;Y;1
+Deployed Droideka;TS26-77-C;Ground Unit;Separatist/Droid;Y;2
 Desert Sharpshooter;ASH-170-C;Ground Unit;Twi'lek/Bounty Hunter;R;0
 Desperado Freighter;SHD-152-C;Space Unit;Underworld/Vehicle/Transport;R/W;3 # 2 foil, 1 hyperspace
 Desperate Attack;SHD-179-C;Event;Tactic;R;3
 Desperate Commando;JTL-060-C;Ground Unit;Resistance/Trooper;U;2
 Detention Block Rescue;SHD-180-C;Event;Gambit;R;3
 Determined Recruit;JTL-159-C;Ground Unit;Resistance/Pilot;R;3 # 1 hyperspace, 1 foil
-Devaronian Doorbuster;LAW-070-C;Ground Unit;Underworld;G/Y;0
+Devaronian Doorbuster;LAW-070-C;Ground Unit;Underworld;G/Y;1
 Devastating Gunship;TWI-036-C;Space Unit;Separatist/Droid/Vehicle/Transport;B/U;3
 Devastator, Hunting the Rebellion;JTL-143-L;Space Unit;Imperial/Vehicle/Capital Ship;R/B;0
 Devastator, Inescapable;SOR-090-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;1
@@ -574,7 +574,7 @@ DJ, Need a Lift?;SEC-018-R;Leader;Underworld;Y;1
 Do or Do Not;LOF-175-C;Event;Force;R;3 # 1 hyperspace
 Doctor Aphra, Digging For Answers;LAW-194-R;Ground Unit;Underworld;R;0
 Doctor Aphra, Rapacious Archaeologist;SHD-015-R;Leader;Fringe;Y/B;1
-Doctor Evazan, Wanted On Twelve Systems;SHD-185-R;Ground Unit;Underworld;Y/B;0
+Doctor Evazan, Wanted On Twelve Systems;SHD-185-R;Ground Unit;Underworld;Y/B;1
 Doctor Pershing, Dedicated to Research;ASH-072-U;Ground Unit;New Republic;U;0
 Doctor Pershing, Experimenting With Life;SHD-028-R;Ground Unit;Imperial;U/B;2
 Dogfight;JTL-123-U;Event;Tactic;G;3
@@ -662,7 +662,7 @@ Escort Skiff;SOR-114-C;Ground Unit;Underworld/Vehicle/Speeder;G;3 # 1 hyperspace
 Eta-2 Light Interceptor;TWI-244-C;Space Unit;Republic/Vehicle/Fighter;W;3
 Evacuate;SHD-233-L;Event;Tactic;Y;1 # 1 hyperfoil
 Evacuation Escort;IBH-012-S/IBH-035-S/IBH-044-S;Space Unit;Rebel/Vehicle/Fighter;Y/W;0
-Evade Arrest;TS26-82-U;Event;Trick;Y;0
+Evade Arrest;TS26-82-U;Event;Trick;Y;1
 Evasive Maneuver;JTL-262-C;Event;Trick;N;3
 Every Day, More Lies;LAW-204-C;Event;Innate;R;0
 Evidence of the Crime;SHD-077-R;Event;Trick;U;1
@@ -675,7 +675,7 @@ Executor, Final Destruction of the Alliance;ASH-197-S;Space Unit;Imperial/Vehicl
 Executor, Might of the Empire;JTL-090-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
 Exegol Patroller;LOF-080-C;Space Unit;First Order/Sith/Vehicle/Fighter;G/B;3 # 1 foil
 Exiled from the Force;SEC-054-R;Event;Condition;U;1
-Expendable Mercenary;LAW-159-C;Ground Unit;Underworld/Bounty Hunter;G;1 # 1 hyperspace
+Expendable Mercenary;LAW-159-C;Ground Unit;Underworld/Bounty Hunter;G;2 # 1 hyperspace
 Exploit Advantage;ASH-246-C;Event;Tactic;B;0
 Eye of Sion, Delivered from Exile;ASH-245-L;Space Unit;Imperial/Vehicle/Transport;B;0
 Eye of Sion, To Peridea;LOF-088-R;Space Unit;Imperial/Vehicle/Transport;G/B;1
@@ -704,11 +704,11 @@ Fennec Shand, Ready for War;ASH-002-R;Leader;Underworld;R/Y;0
 Fennec Shand, The Galaxy Is Dangerous;ASH-192-U;Ground Unit;Underworld/Bounty Hunter;Y/B;0
 Ferrix Uprising;SEC-130-C;Event;Tactic;G;3 # 1 foil
 Ferry Droid;ASH-218-C;Ground Unit;Droid;Y;0
-Fervor;TS26-72-U;Event;Innate;R;0
+Fervor;TS26-72-U;Event;Innate;R;1
 Fett's Firespray, Feared Silhouette;JTL-240-S;Space Unit;Underworld/Vehicle/Transport;B;3
 Fett's Firespray, In Pursuit;LAW-252-R;Space Unit;Underworld/Vehicle/Transport;B;0
 Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;Underworld/Vehicle/Transport;B/Y;2
-Fiery Alliance;TS26-25-U;Upgrade;Innate;G/R;0
+Fiery Alliance;TS26-25-U;Upgrade;Innate;G/R;1
 Fifth Brother, Fear Hunter;SOR-131-U;Ground Unit;Force/Imperial/Inquisitor;R/B;3 # 1 hyperfoil
 Fight Fire With Fire;JTL-173-C;Event;Gambit;R;2
 Fighters for Freedom;SOR-143-U;Ground Unit;Rebel/Trooper;R/W;2 # 1 foil
@@ -749,18 +749,18 @@ For The Republic;TWI-051-R;Upgrade;Republic;U/W;0
 Force Choke;SOR-139-U;Event;Force;R/B;3
 Force Illusion;LOF-223-U;Event;Force/Trick;Y;3
 Force Lightning;SOR-138-L;Event;Force;R/B;1
-# done through here
-Force Slow;LOF-217-C;Event;Y;3
-Force Speed;LOF-205-U;Event;Y;3 # 1 foil
-Force Throw;SOR-167-U;Event;R;2
-Forced Surrender;SOR-175-U;Event;R;3
-Foresight;TWI-068-R;Upgrade;U;1
+Force Slow;LOF-217-C;Event;Force;Y;3
+Force Speed;LOF-205-U;Event;Force;Y;3 # 1 foil
+Force Throw;SOR-167-U;Event;Force;R;2
+Forced Surrender;SOR-175-U;Event;Plan;R;3
+Foresight;TWI-068-R;Upgrade;Learned;U;1
 Forest Patroller;ASH-096-C;Ground Unit;Imperial/Trooper;G/B;0
-Forged Starfighter;LOF-228-C;Space Unit;B;3 # 1 foil, 1 hyperfoil
+Forged Starfighter;LOF-228-C;Space Unit;Sith/Vehicle/Fighter;B;3 # 1 foil, 1 hyperfoil
 Fortress of the Great Mothers;ASH-019-C;Base;Peridea;U;0
-Fortress Vader;LOF-026-C;Base;R;1
-Fortune and Glory, Hondo's Luxury Yacht;TS26-27-U;Space Unit;Underworld/Vehicle/Transport;G/Y;1
-Forward Command Post;IBH-054-S;Base;U;0
+Fortress Vader;LOF-026-C;Base;Mustafar;R;1
+Fortune and Glory, Hondo's Luxury Yacht;TS26-27-U;Space Unit;Underworld/Vehicle/Transport;G/Y;2
+Forward Command Post;IBH-054-S;Base;Hoth;U;0
+# done through here
 Foundling Rescue;ASH-092-C;Event;Plan;U;0
 Foundling;SHD-069-C;Upgrade;U;3
 Freelance Assassin;TWI-212-C;Ground Unit;Y;3 # 1 hyperfoil
@@ -779,7 +779,7 @@ Fully Armed and Operational;SEC-194-R;Event;Y/B;1
 Fulminatrix, Fleet Killer;SEC-142-R;Space Unit;R/B;2
 Furtive Handmaiden;SEC-197-S;Ground Unit;Y/W;3 # 1 foil
 Galactic Ambition;SOR-235-R;Event;B;3 # 1 hyperspace, 1 foil
-Galactic Escalation;TS26-56-C;Event;Supply;G;1
+Galactic Escalation;TS26-56-C;Event;Supply;G;2
 Galen Erso, Destroying His Creation;LAW-233-R;Ground Unit;Imperial;Y;0
 Galen Erso, You'll Never Win;SEC-046-R;Ground Unit;U/W;0
 Gallius Rax, Counselor to the Empire;ASH-100-L;Ground Unit;Imperial/Official;G/B;0
@@ -788,7 +788,7 @@ Galvanized Leap;ASH-188-C;Event;Force;R;0
 Gamorrean Guards;SOR-211-C;Ground Unit;Y;3
 Gamorrean Retainer;SHD-112-C;Ground Unit;G;3 # 1 hyperspace, 1 hyperfoil
 Gar Saxon, Coveting Power;ASH-047-R;Ground Unit;Mandalorian/Trooper;U/B;0
-Gar Saxon, Sundari Pillagern;TS26-21-R;Ground Unit;Mandalorian/Trooper;G/R/B;0
+Gar Saxon, Sundari Pillagern;TS26-21-R;Ground Unit;Mandalorian/Trooper;G/R/B;1
 Gar Saxon, Viceroy of Mandalore;SHD-001-C;Leader;U/B;1 # 1 hyperspace
 Garindan, Information Broker;SEC-186-U;Ground Unit;Y/B;3
 General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;2
@@ -915,7 +915,7 @@ Hired Slicer;SEC-220-U;Ground Unit;Y;3 # 1 foil
 Hive Defense Wing;LOF-110-C;Space Unit;G;3 # 1 foil
 HK-47, Exclamation: Die, Meatbag!;LOF-130-L;Ground Unit;R/B;2 # 1 hyperspace
 HK-87 Assassin Droid;LOF-235-U;Space Unit;B;1
-Hold For Questioning;LAW-217-U;Event;Law;Y/B;0
+Hold For Questioning;LAW-217-U;Event;Law;Y/B;1
 Hold Them Off;ASH-139-U;Event;Tactic;G;0
 Hold-Out Blaster;TWI-256-C;Upgrade;N;3
 Home One, Alliance Flagship;SOR-102-L;Space Unit;G/W;2
@@ -988,7 +988,7 @@ Impropriety Among Thieves;TWI-204-R;Event;Y;2 # 1 hyperfoil
 Improvise;LAW-242-C;Event;Gambit;Y;0
 Improvised Detonation;IBH-021-S/IBH-030-S;Event;Y;0
 Improvised Identity;ASH-230-L;Upgrade;Gambit;Y;0
-In Debt to Crimson Dawn;JTL-192-U;Upgrade;Y/B;1
+In Debt to Crimson Dawn;JTL-192-U;Upgrade;Y/B;2
 In Defense of Kamino;TWI-129-R;Event;G;2
 In Pursuit;TWI-221-C;Event;Y;3
 In the Heat of Battle;JTL-077-R;Event;U;1
@@ -1013,7 +1013,7 @@ Inspiring Senator;SEC-261-C;Ground Unit;N;3 # 1 hyperspace
 Inspiring Veteran;ASH-205-C;Ground Unit;Resistance/Trooper;Y/W;0
 Insurgent Saboteurs;JTL-168-C;Ground Unit;R;2
 Interceptor Ace;JTL-034-C;Space Unit;U/B;3 # 1 foil
-Interrogation Droid;LAW-075-U;Ground Unit;Imperial/Droid;R/Y/B;0
+Interrogation Droid;LAW-075-U;Ground Unit;Imperial/Droid;R/Y/B;1
 Intimidation;ASH-185-C;Event;Innate;R;0
 Intimidator, Citadel Overwatch;LAW-140-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;1
 Invasion Control Ship;LOF-169-R;Space Unit;R;0
@@ -1123,7 +1123,7 @@ Kouhun Assassination;TS26-33-R;Event;Gambit;Y/U/B;1
 Kowakian Monkey-Lizard;LOF-257-C;Ground Unit;N;3
 Kragan Gorr, Warbird Captain;SHD-241-R;Ground Unit;B;3
 Kraken, Confederate Tactician;TWI-084-U;Ground Unit;G/B;3
-Krayt Dragon;SHD-172-L;Ground Unit;R;0
+Krayt Dragon;SHD-172-L;Ground Unit;R;1
 Kreia's Whispers;SEC-232-C;Event;Y;3
 Krrsantan, Hit and Run;LAW-084-R;Ground Unit;Underworld/Wookiee/Bounty Hunter;R/Y;0
 Krrsantan, Muscle For Hire;SHD-139-U;Ground Unit;R/B;3 # 1 foil
@@ -1187,7 +1187,7 @@ Lightspeed Assault;JTL-127-R;Event;G;1
 Loan Shark;SEC-222-C;Ground Unit;Y;3 # 1 hyperspace, 1 foil
 Lobot, Cloud City Coordinator;SEC-057-U;Ground Unit;U;3 # 1 foil
 Lom Pyke, Dealer in Truths;SHD-032-R;Ground Unit;U/B;1 # 1 hyperspace
-Lom Pyke, Making a Withdrawal;TS26-51-U;Ground Unit;Underworld;G/B;1
+Lom Pyke, Making a Withdrawal;TS26-51-U;Ground Unit;Underworld;G/B;2
 Long Live the Empire;ASH-103-U;Event;Imperial;G/B;0
 Longbeam Cruiser;LOF-253-C;Space Unit;W;3 # 1 foil
 Look the Other Way;SHD-227-C;Event;Y;3
@@ -1251,10 +1251,10 @@ Massassi Temple;JTL-026-C;Base;R;1 # 1 hyperspace
 Masterstroke;ASH-234-C;Event;Tactic;Y;0
 Mastery;LAW-129-C;Upgrade;Learned;U;0
 Maul, A Rival in Darkness;TWI-009-C;Leader;B/R;1 # 1 hyperspace
-Maul, Collective Ambition;TS26-03-R;Leader;Force/Underworld;G/B;0
+Maul, Collective Ambition;TS26-03-R;Leader;Force/Underworld;G/B;1
 Maul, Master of the Shadow Collective;LAW-054-L;Ground Unit;Force/Underworld;G/R/B;0
-Maul, One Last Lesson;TS26-30-U;Ground Unit;Force/Underworld;R/Y;0
-Maul, Shadow Collective Visionary;SHD-090-R;Ground Unit;G/B;0
+Maul, One Last Lesson;TS26-30-U;Ground Unit;Force/Underworld;R/Y;1
+Maul, Shadow Collective Visionary;SHD-090-R;Ground Unit;G/B;1
 Max Rebo, Encore!;LAW-072-L;Ground Unit;Underworld/Musician;G/Y;0
 Maximum Firepower;SOR-234-C;Event;B;3
 Mayor's Majordomo, No Problem Groveling;ASH-217-U;Ground Unit;Official;Y;0
@@ -1263,7 +1263,7 @@ Maz Kanata, Pirate Queen;SHD-096-R;Ground Unit;G/W;3
 Maz Kanata, The Light Guides;LOF-111-U;Ground Unit;G;3
 Maz Kanata, Where's My Boyfriend?;LAW-074-L;Ground Unit;Underworld;G/Y;0
 MC30 Assault Frigate;JTL-118-C;Space Unit;G;3 # 1 hyperfoil, 1 hyperspace
-Mechanize;TS26-57-U;Event;Supply;G;0
+Mechanize;TS26-57-U;Event;Supply;G;1
 Medal Ceremony;SOR-245-C;Event;W;3
 Medical Frigate;LOF-250-C;Space Unit;W;3
 Mercenary Company;SOR-117-C/SHD-121-C;Ground Unit;G;3
@@ -1285,7 +1285,7 @@ Mina Bonteri, Stop This War;SEC-094-U;Ground Unit;G/W;3
 Mind Trick;LOF-202-R;Event;Y/W;2
 Mining Guild TIE Fighter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Miraj Scintel, The Weak Deserve to Kneel;SEC-139-R;Ground Unit;R/B;0
-Mislead;TS26-81-C;Event;Trick;Y;1
+Mislead;TS26-81-C;Event;Trick;Y;2
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
 Mist Hunter, The Findsman's Pursuit;JTL-186-U;Space Unit;Y/B;2 # 1 foil
 Mister Bones, I Performed Violence;TWI-154-R;Ground Unit;R;1
@@ -1311,7 +1311,7 @@ Mos Eisley Modifier;ASH-074-U;Ground Unit;Fringe;U;0
 Mos Eisley;JTL-030-C/HMW-032-C;Base;Tatooine;Y;1
 Mos Espa Watermonger;ASH-260-C;Ground Unit;Fringe;N;0
 Mother Talzin, Power Through Magick;LOF-002-C;Leader;B/U;1
-Mother Talzin, Stealing the Spirit;TS26-26-R;Ground Unit;Force/Night;G/Y/B;0
+Mother Talzin, Stealing the Spirit;TS26-26-R;Ground Unit;Force/Night;G/Y/B;1
 Mount Tantiss;SEC-026-C;Base;Y;1
 Mouse Droid;ASH-237-C;Ground Unit;Imperial/Droid;B;0
 Muckraker Crab Droid;SEC-135-U;Ground Unit;R/B;2
@@ -1359,7 +1359,7 @@ No One Ever Knew;SEC-196-U;Event;Y/B;2
 Nothing Left to Fear;LAW-041-U;Event;Innate;U/G;0
 Noti Mobile Pod;ASH-261-C;Ground Unit;Vehicle/Fighter;N;0
 Noti Nomad;ASH-069-C;Ground Unit;Fringe;U;0
-Now There Are Two of Them;TWI-225-L;Event;Y;0
+Now There Are Two of Them;TWI-225-L;Event;Y;1
 Nowhere to Hide;ASH-198-U;Upgrade;Condition;Y/B;0
 Nubian Star Skiff;SEC-116-C;Space Unit;G;3
 Nute Gunray, Escaping Justice;SEC-031-R;Ground Unit;U/B;3 # 1 hyperfoil
@@ -1457,7 +1457,7 @@ Piercing Shot;JTL-180-C;Event;R;2
 Pillage;SHD-181-C;Event;R;3 # 1 hyperspace
 Pillio Star Compass;LOF-122-U;Upgrade;G;2
 Pirate Battle Tank;SHD-089-C;Ground Unit;G/B;3 # 1 hyperspace
-Pirate Snub Fighter;LAW-135-C;Space Unit;Underworld/Vehicle/Fighter;G/B;0
+Pirate Snub Fighter;LAW-135-C;Space Unit;Underworld/Vehicle/Fighter;G/B;1
 Pirated Starfighter;SOR-209-U;Space Unit;Y;3
 Pit Droid Team;ASH-075-C;Ground Unit;Droid;U;0
 Planetary Bombardment;JTL-181-L;Event;R;1
@@ -1483,7 +1483,7 @@ Power from Pain;JTL-042-U;Event;U/B;0
 Power of the Dark Side;SOR-041-U;Event;U/B;2
 Praetorian Elite;ASH-145-C;Ground Unit;Imperial;R/B;0
 Praetorian Guard;LOF-085-C;Ground Unit;G/B;3
-Pre Vizsla, For Mandalore!;TS26-74-U;Ground Unit;Mandalorian/Trooper;Y/B;1
+Pre Vizsla, For Mandalore!;TS26-74-U;Ground Unit;Mandalorian/Trooper;Y/B;2
 Pre Vizsla, Power Hungry;SHD-142-R;Ground Unit;R/B;0
 Pre Vizsla, Pursuing the Throne;TWI-010-R;Leader;B/R;1
 Pre Vizsla, Strong-Willed Ruler;ASH-053-L;Ground Unit;Mandalorian/Official;U/B;0
@@ -1494,7 +1494,7 @@ Preparation;ASH-228-C;Upgrade;Plan;Y;0
 Prepare for Takeoff;SOR-125-U/JTL-128-C;Event;G;3
 Price on Your Head;SHD-125-C;Upgrade;G;3
 Priestesses of the Force, Eternal;LOF-072-U;Ground Unit;U;1
-Prime Minister Almec, Scheming Populist;TS26-28-R;Ground Unit;Mandalorian/Official;G/Y;0
+Prime Minister Almec, Scheming Populist;TS26-28-R;Ground Unit;Mandalorian/Official;G/Y;1
 Principled Outlaw;SHD-201-C;Ground Unit;Y/W;3
 Prisoner of War;TWI-227-U;Event;Y;3 # 1 foil
 Private Manufacturing;TWI-257-U;Event;N;3 # 1 hyperspace
@@ -1523,7 +1523,7 @@ Pyrrhic Assault;TWI-103-L;Event;G;0
 Qi'ra, I Alone Survived;SHD-002-R;Leader;U/B;1
 Qi'ra, Master of Teräs Käsi;ASH-226-U;Ground Unit;Underworld;Y;0
 Qi'ra, Playing Her Part;SHD-202-R;Ground Unit;Y/W;1
-Quarren Contractor;LAW-060-C;Ground Unit;Underworld;G/R;1
+Quarren Contractor;LAW-060-C;Ground Unit;Underworld;G/R;2
 Quasar TIE Carrier;JTL-243-C;Space Unit;B;2
 Queen Amidala, Championing Her People;SEC-101-L;Ground Unit;G/W;1
 Queen Soruna, Willing to Fight;ASH-132-R;Ground Unit;Naboo/Official;G;0
@@ -1634,7 +1634,7 @@ Resupply Carrier;JTL-119-C;Space Unit;G;3
 Resupply;SOR-126-C/TWI-127-C;Event;G;3 # 1 foil
 Retaliation;SEC-077-C;Event;U;3 # 1 foil
 Retrofitted Airspeeder;JTL-259-U;Ground Unit;N;1
-Reveal Intentions;TS26-80-U;Event;Gambit;Y;0
+Reveal Intentions;TS26-80-U;Event;Gambit;Y;1
 Rex's DC-17s, This Ship is Going Down;TS26-63-R;Upgrade;Item/Weapon;R/W;0
 Rex, No Other Option;TS26-06-R;Leader;Clone/Trooper;R/W;0
 Rey, Keeping the Past;SHD-046-L;Ground Unit;U/W;2 # 1 hyperspace
@@ -1669,7 +1669,7 @@ Rukh, From the Shadows;ASH-036-R;Ground Unit;Imperial;G/Y/B;0
 Rukh, Thrawn's Assassin;SOR-085-R;Ground Unit;G/B;1
 Rule with Respect;SHD-106-L;Event;G/W;1
 Rune Haako, Scheming Second;TWI-031-U;Ground Unit;B/U;2
-Ruping Rider;TS26-67-C;Ground Unit;Creature/Trooper;R;0
+Ruping Rider;TS26-67-C;Ground Unit;Creature/Trooper;R;1
 Rush Clovis, Banking Clan Scion;TWI-183-R;Ground Unit;B/Y;1
 Rush Clovis, Trapped by Authority;TS26-17-U;Ground Unit;Separatist/Official;U/G;1
 Ruthless Assassin;SHD-235-C;Ground Unit;B;3 # 1 foil
@@ -1699,8 +1699,8 @@ Sandtrooper Cavalry;LOF-232-C;Ground Unit;B;3 # 1 hyperspace
 Satine Kryze, Committed to Peace;TWI-047-L;Ground Unit;U/W;0
 Satine Kryze, Standing on Principles;SEC-005-C;Leader;U/W;0
 Savage Opress, Imbued With Hate;LOF-137-U;Ground Unit;R/B;3
-Savage Opress, Monster;TWI-137-U;Ground Unit;B/R;0
-Savage Opress, You Must Have Your Revenge;TS26-05-R;Leader;Force/Underworld;R/B;0
+Savage Opress, Monster;TWI-137-U;Ground Unit;B/R;1
+Savage Opress, You Must Have Your Revenge;TS26-05-R;Leader;Force/Underworld;R/B;1
 Savareen Survivor;LAW-188-C;Ground Unit;Fringe;R;0
 Saw Gerrera's U-Wing, Breaking the Rules;SEC-174-R;Space Unit;R;0
 Saw Gerrera, Bring Down the Empire;LAW-001-R;Leader;Rebel;G/R;0
@@ -1742,7 +1742,7 @@ Separatist Commando;TWI-180-S;Ground Unit;B/Y;3
 Separatist Council, Quarrelsome Holdouts;TS26-49-R;Ground Unit;Separatist/Official;G/B;1
 Separatist Super Tank;TWI-087-C;Ground Unit;G/B;3 # 1 foil
 Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;3
-Seventh Sister, Implacable Inquisitor;SOR-133-R;Ground Unit;R/B;1
+Seventh Sister, Implacable Inquisitor;SOR-133-R;Ground Unit;R/B;2
 Shaak Ti, Unity Wins Wars;TWI-094-U;Ground Unit;G/W;3
 Shadow Caster, Just Business;JTL-169-L;Space Unit;R;0
 Shadow Cloaking;LAW-043-U;Event;Tactic;U/R/B;0
@@ -1761,7 +1761,7 @@ Shifty Suspects;LAW-197-U;Ground Unit;Underworld/Bounty Hunter;R;0
 Shin Hati's Fiend Fighter, Compact and Agile;ASH-191-U;Space Unit;Vehicle/Fighter;Y/B;0
 Shin Hati, Eager Adversary;ASH-016-C;Leader;Force;Y/B;0
 Shin Hati, Going Somewhere?;ASH-049-U;Ground Unit;Force;U/B;0
-Shin Hati, Overeager Apprentice;LOF-183-U;Ground Unit;Y/B;2 # 1 foil
+Shin Hati, Overeager Apprentice;LOF-183-U;Ground Unit;Y/B;3 # 1 foil
 Shipbreaking Yard;LAW-026-R;Base;Bracca;R;0
 Shoot Down;JTL-176-C;Event;R;2
 Shoot First;SOR-217-U;Event;Y;3 # 1 foil
@@ -1774,8 +1774,8 @@ Silver Angel, Trace's Hope;JTL-062-U;Space Unit;U;1
 Single Reactor Ignition;LAW-044-L;Event;Disaster/Tactic;U/R/B;0
 Sith Assassin;SEC-238-C;Ground Unit;B;3
 Sith Holocron;LOF-138-R;Upgrade;R/B;1
-Sith Legionnaire;LOF-081-U;Ground Unit;G/B;2 # 1 hyperspace
-Sith Traditions;TS26-52-U;Upgrade;Sith/Learned;G/B;1
+Sith Legionnaire;LOF-081-U;Ground Unit;G/B;3 # 1 hyperspace
+Sith Traditions;TS26-52-U;Upgrade;Sith/Learned;G/B;2
 Sith Trooper;JTL-238-C;Ground Unit;B;3
 Size Matters Not;LOF-056-R;Event;U;1
 Skyhopper Canyon Runner;SEC-214-C;Ground Unit;Y;3 # 1 hyperfoil
@@ -1791,7 +1791,7 @@ Smuggler's YT-2400;LAW-148-U;Space Unit;Underworld/Vehicle/Transport;G/W;0
 Smuggling Compartment;SOR-214-U;Upgrade;Y;3
 Snap Wexley, Resistance Recon Flier;JTL-098-R;Ground Unit;G/W;1
 Snapshot Reflexes;SOR-215-C/SHD-223-S;Upgrade;Y;3
-Sneak Attack;SOR-219-R;Event;Y;2
+Sneak Attack;SOR-219-R;Event;Y;3
 Sneaking Suspicion;SEC-226-C;Upgrade;Y;3 # 1 foil
 Snowspeeder;SOR-244-C;Ground Unit;W;3 # 1 foil
 Snowtrooper Lieutenant;SOR-227-C/SHD-236-S;Ground Unit;B;3 # 1 hyperspace
@@ -1843,11 +1843,11 @@ Stygeon Spire;LAW-027-C;Base;Stygeon Prime;R;1
 Subjugating Starfighter;TWI-112-C;Space Unit;G;3
 Sudden Ferocity;SEC-176-C;Upgrade;R;3 # 1 hyperspace
 Sugi, Hired Guardian;SHD-052-R;Ground Unit;U;2 # 1 foil
-Sullustan Sapper;LAW-081-C;Ground Unit;Underworld;R/Y;0
+Sullustan Sapper;LAW-081-C;Ground Unit;Underworld;R/Y;1
 Sullustan Spacer;JTL-255-C;Ground Unit;N;3
 Summa-verminoth;ASH-083-L;Space Unit;Creature;U;0
-Sundari Gauntlet;TS26-24-U;Space Unit;Mandalorian/Vehicle/Transport;G/R;0
-Sundari Palace;TS26-12-R;Base;Mandalore;Y;0
+Sundari Gauntlet;TS26-24-U;Space Unit;Mandalorian/Vehicle/Transport;G/R;1
+Sundari Palace;TS26-12-R;Base;Mandalore;Y;1
 Sundari Peacekeeper;SHD-098-U;Ground Unit;G/W;2
 Sundari;TWI-020-C;Base;U;1
 Super Battle Droid;TWI-230-C;Ground Unit;B;3
@@ -1885,10 +1885,10 @@ T-6 Shuttle 1974, With a Mentor's Dedication;ASH-109-U;Space Unit;Jedi/Vehicle/T
 Tactical Advantage;SOR-124-C/TWI-124-S;Event;G;3
 Tactical Droid Commander;TWI-184-U;Ground Unit;Y/B;2
 Tactical Heavy Bomber;JTL-152-R;Space Unit;R/W;1
-Take Action;TS26-71-C;Event;Tactic;R;0
-Take Aim;TS26-83-C;Event;Tactic;Y;1
+Take Action;TS26-71-C;Event;Tactic;R;1
+Take Aim;TS26-83-C;Event;Tactic;Y;2
 Take Captive;SHD-131-C/TWI-128-C;Event;G;3 # 2 foil
-Take Charge;TS26-60-C;Event;Tactic;G;1
+Take Charge;TS26-60-C;Event;Tactic;G;2
 Take Cover;TS26-47-C;Event;Tactic;U;1
 Takedown;SOR-077-U;Event;U;3 # 1 hyperfoil
 Tala Durith, I Can Get You Inside;SEC-203-R;Ground Unit;Y/W;1
@@ -1932,7 +1932,7 @@ The Conflict Within;ASH-088-U;Upgrade;Condition;U;0
 The Crystal City;TWI-021-C;Base;U;1 # 1 hyperspace
 The Cyborg Mech, Mysterious Threat;ASH-147-U;Ground Unit;Fringe;R/B;0
 The Darksaber, Icon of Leadership;ASH-135-L;Upgrade;Mandalorian/Item/Weapon;G;0
-The Darksaber, Only the Strongest Shall Rule;TS26-22-R;Upgrade;Mandalorian/Item/Weapon;G/R/B;0
+The Darksaber, Only the Strongest Shall Rule;TS26-22-R;Upgrade;Mandalorian/Item/Weapon;G/R/B;1
 The Darksaber;SHD-126-L;Upgrade;G;0
 The Daughter, Embodiment of Light;LOF-252-R;Ground Unit;W;1
 The Desolation of Hoth;IBH-104-S;Event;U;0
@@ -2058,7 +2058,7 @@ Unsanctioned Patrol;ASH-222-C;Space Unit;Resistance/Vehicle/Fighter;Y;0
 Unshakeable Will;TWI-071-U;Upgrade;U;1
 Unveiled Might;SEC-123-C;Upgrade;G;3 # 1 foil, 1 hyperspace
 Urgent Mission;TS26-64-R;Event;Plan;R/W;0
-Urrr'k, Elite Sharpshooter;LAW-082-U;Ground Unit;Rebel/Tusken/Bounty Hunter;R/Y;0
+Urrr'k, Elite Sharpshooter;LAW-082-U;Ground Unit;Rebel/Tusken/Bounty Hunter;R/Y;1
 Uscru Entertainment District;SEC-020-C;Base;U;1 # 1 hyperspace
 Vader's Lightsaber;SOR-136-S;Upgrade;R/B;3
 Val, It's Been a Ride, Babe;LAW-091-U;Ground Unit;Underworld;Y/U;0
@@ -2091,7 +2091,7 @@ Vigilant Honor Guards;SOR-048-C;Ground Unit;U/W;3 # 1 hyperspace
 Vigilant Pursuit Craft;SHD-065-C;Space Unit;U;3
 Vigilant Scouts;LAW-120-C;Ground Unit;Underworld/Bounty Hunter;U;0
 Village Protectors;SHD-043-C;Ground Unit;U/W;3
-Village Tender;LOF-107-C;Ground Unit;G;2
+Village Tender;LOF-107-C;Ground Unit;G;3
 Viper Probe Droid;SOR-228-C/SEC-239-C;Ground Unit;B;3 # 1 foil
 Volunteer Soldier;SOR-248-C/TWI-254-C;Ground Unit;N;3
 Vonreg's TIE Interceptor, Ace of the First Order;JTL-137-U;Space Unit;R/B;2 # 1 hyperspace
@@ -2108,9 +2108,9 @@ Warrior Drone;TWI-057-C;Ground Unit;U;3
 Warrior of Clan Kryze;ASH-120-C;Ground Unit;Mandalorian/Trooper;G;0
 Warrior of Clan Ordo;SEC-164-C;Ground Unit;R;3 # 1 hyperspace, 1 hyperfoil, 1 foil
 Warrior's Legacy;ASH-134-C;Upgrade;Learned;G;0
-Wartime Mercenaries;TS26-54-C;Ground Unit;Trooper;G;1
-Wartime Pirate;TS26-66-C;Space Unit;Underworld/Vehicle/Capital Ship;R;0
-Wartime Profiteer;TS26-76-C;Ground Unit;Underworld;Y;1
+Wartime Mercenaries;TS26-54-C;Ground Unit;Trooper;G;2
+Wartime Pirate;TS26-66-C;Space Unit;Underworld/Vehicle/Capital Ship;R;1
+Wartime Profiteer;TS26-76-C;Ground Unit;Underworld;Y;2
 Wartime Profiteering;TWI-188-U;Event;B/Y;2
 Wartime Refugee;TS26-43-C;Ground Unit;Twi'lek;U;1
 Wartime Trade Official;TWI-032-C;Ground Unit;B/U;3
@@ -2171,7 +2171,7 @@ Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;2
 Zenuas Shadow Fighter;SEC-217-C;Space Unit;Y;3
 Ziro the Hutt, Colorful Schemer;TWI-185-U;Ground Unit;Y/B;2
 Ziton Moj, Black Sun Bully;SEC-168-R;Ground Unit;R;3
-Ziton Moj, Sowing Chaos;TS26-29-R;Ground Unit;Underworld;R/Y/B;0
+Ziton Moj, Sowing Chaos;TS26-29-R;Ground Unit;Underworld;R/Y/B;1
 Zorii Bliss, Valiant Smuggler;SHD-203-R;Ground Unit;Y/W;3 # 1 foil
 Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;3
 Zuckuss, Dangerous;LAW-064-R;Ground Unit;Underworld/Bounty Hunter;G/Y/B;1
@@ -2275,6 +2275,11 @@ Dire Prowess;HMW-097-C;Upgrade;Learned;U;0
 Resonate;HMW-098-U;Upgrade;Innate;U;0
 Always a Bigger Fish;HMW-099-R;Event;Innate;U;0
 Torrent;HMW-100-C;Event;Disaster;U;0
+Trust Yourself;HMW-101-C;Event;Innate;U;0
+Dragon's Might;HMW-102-C;Event;Innate;U;0
+Disposable B1;HMW-103-C;Ground Unit;Separatist/Droid/Trooper;G/B;0
+Garnac, Let the Hunt Begin!;HMW-104-R;Ground Unit;Underworld;G/B;0
+Nute Gunray, Perfectly Legal;HMW-105-U;Ground Unit;Separatist/Official;G/B;0
 
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
 
