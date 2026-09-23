@@ -760,17 +760,17 @@ Fortress of the Great Mothers;ASH-019-C;Base;Peridea;U;0
 Fortress Vader;LOF-026-C;Base;Mustafar;R;1
 Fortune and Glory, Hondo's Luxury Yacht;TS26-27-U;Space Unit;Underworld/Vehicle/Transport;G/Y;2
 Forward Command Post;IBH-054-S;Base;Hoth;U;0
-# done through here
 Foundling Rescue;ASH-092-C;Event;Plan;U;0
-Foundling;SHD-069-C;Upgrade;U;3
-Freelance Assassin;TWI-212-C;Ground Unit;Y;3 # 1 hyperfoil
-Freetown Backup;SHD-097-U;Ground Unit;G/W;3
+Foundling;SHD-069-C;Upgrade;Mandalorian;U;3
+Freelance Assassin;TWI-212-C;Ground Unit;Underworld;Y;3 # 1 hyperfoil
+Freetown Backup;SHD-097-U;Ground Unit;Fringe;G/W;3
 Freetown;ASH-026-C;Base;Tatooine;Y;0
-Frisk, Vanguard Loudmouth;JTL-148-U;Ground Unit;R/W;1 # 1 foil
+Frisk, Vanguard Loudmouth;JTL-148-U;Ground Unit;New Republic/Pilot;R/W;1 # 1 foil
 From a Certain Point of View;LAW-264-C;Event;Learned;N;0
-Frontier AT-RT;SOR-249-C;Ground Unit;N;3
-Frontier Trader;SHD-214-C;Ground Unit;Y;3 # 1 hyperspace
-Frontline Shuttle;SOR-110-R;Space Unit;G;1
+Frontier AT-RT;SOR-249-C;Ground Unit;Vehicle/Walker;N;3
+Frontier Trader;SHD-214-C;Ground Unit;Fringe/Jawa;Y;3 # 1 hyperspace
+Frontline Shuttle;SOR-110-R;Space Unit;Vehicle/Transport;G;1
+# done through here
 Frozen in Carbonite;SHD-193-U;Upgrade;Y/B;3 # 1 hyperspace
 Fugitive Wookiee;SHD-211-C;Ground Unit;Y;3
 Fulcrum;LAW-150-R;Upgrade;Rebel;G/W;0
@@ -2280,6 +2280,11 @@ Dragon's Might;HMW-102-C;Event;Innate;U;0
 Disposable B1;HMW-103-C;Ground Unit;Separatist/Droid/Trooper;G/B;0
 Garnac, Let the Hunt Begin!;HMW-104-R;Ground Unit;Underworld;G/B;0
 Nute Gunray, Perfectly Legal;HMW-105-U;Ground Unit;Separatist/Official;G/B;0
+Secessionist Convert;HMW-106-C;Ground Unit;Separatist/Official;G/B;0
+Stormtrooper Patrol;HMW-107-U;Ground Unit;Imperial/Trooper;G/B;0
+The First Legion, Vader's Fist;HMW-108-R;Ground Unit;Imperial/Trooper;G/B;0
+Tireless Magnaguard;HMW-109-U;Ground Unit;Separatist/Droid;G/B;0
+Emperor Palpatine, Consolidating Power;HMW-110-L;Ground Unit;Force/Imperial/Sith/Official;G/B;0
 
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
 
