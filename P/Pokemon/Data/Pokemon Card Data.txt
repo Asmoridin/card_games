@@ -1512,6 +1512,7 @@ Feebas;Pokemon;Water;30;;Drawup Power;PAR 35 (Common);G;4;0
 Slither Wing;Pokemon;Fighting;140;;Stomp Off|Burning Turbulence;PAR 41 (Uncommon)/PAR 203 (Illustration Rare);G;4;0
 Iron Bundle;Pokemon;Water;100;Hyper Blower;Refrigerated Stream;PAR 56 (Uncommon)/SVP 58 (Promo)/SVP 66 (Promo);G;4;0
 Iron Hands ex;Pokemon;Lightning;230;;Arm Press|Amp You Very Much;PAR 70 (Double Rare)/PAR 223 (Ultra Rare)/PAR 248 (Special Illustration Rare)/PRE 31 (Double Rare)/PRE 154 (Special Illustration Rare);G;4;0
+Yamask;Pokemon;Psychic;70;;Ominous Eyes;PAR 75 (Common)/SCR 62 (Common);G;4;0
 Gourgeist;Pokemon;Psychic;110;Startling Pumpkin;Shadow Bind;PAR 78 (Uncommon);G;4;1
 Scream Tail;Pokemon;Psychic;90;;Slap|Roaring Scream;PAR 86 (Uncommon)/SVP 65 (Promo)/PRE 42 (Uncommon);G;4;0
 Gimmighoul;Pokemon;Psychic;50;;Call for Family|Corkscrew Punch;PAR 87 (Common);G;4;0
@@ -1609,6 +1610,7 @@ Litwick;Pokemon;Fire;60;;Call for Family|Live Coal;TWM 36 (Common);H;4;1
 Chandelure;Pokemon;Fire;130;Alluring Light;Mind Ruler;TWM 38 (Rare);H;4;0
 Hearthflame Mask Ogerpon ex;Pokemon;Fire;210;;Wrathful Hearth|Dynamic Blaze;TWM 40 (Double Rare)/TWM 192 (Ultra Rare)/TWM 212 (Special Illustration Rare)/PRE 17 (Double Rare)/PRE 148 (Special Illustration Rare);H;4;0
 Goldeen;Pokemon;Water;50;Festival Lead;Whirlpool;TWM 44 (Common)/PRE 20 (Common);H;4;0
+Glalie;Pokemon;Water;120;;Damage Beat|Crazy Headbutt;TWM 52 (Uncommon);H;4;0
 Froslass;Pokemon;Water;90;Freezing Shroud;Frost Smash;TWM 53 (Rare)/TWM 174 (Illustration Rare)/SVP 117 (Promo);H;4;0
 Glaceon;Pokemon;Water;120;;Permeating Chill|Icicle Missile;TWM 54 (Uncommon)/SVP 171 (Promo)/PRE 25 (Rare);H;4;0
 Frogadier;Pokemon;Water;90;;Numbing Water;TWM 57 (Common);H;4;0
@@ -1731,8 +1733,11 @@ Slowpoke;Pokemon;Psychic;80;;Dangle Tail|Tackle;SCR 57 (Common);H;4;0
 Slowking;Pokemon;Psychic;120;;Seek Inspiration|Super Psy Bolt;SCR 58 (Uncommon);H;4;0
 Mewtwo;Pokemon;Psychic;130;;Super Psy Bolt;SCR 59 (Uncommon);H;4;0
 Drifloon;Pokemon;Psychic;70;;Expand;SCR 60 (Common);H;4;0
-
+Drifblim;Pokemon;Psychic;130;;Everyone Explode Now;SCR 61 (Uncommon)/SVP 135 (Promo);H;4;0
 Comfey;Pokemon;Psychic;70;;Flower Shower|Play Rough;SCR 63 (Common);H;4;0
+Milcery;Pokemon;Psychic;60;;Mumble;SCR 64 (Common)/SCR 152 (Illustration Rare);H;4;0
+Alcremie;Pokemon;Psychic;110;;Colorful Confection|Magical Shot;SCR 65 (Rare);H;4;0
+
 Flittle;Pokemon;Psychic;50;;Peck;SCR 68 (Common);H;4;0
 Iron Boulder;Pokemon;Psychic;140;;Adjusted Horn;SCR 71 (Rare)/PRE 46 (Rare);H;4;0
 Duraludon;Pokemon;Metal;130;;Hammer In|Raging Hammer;SCR 106 (Common)/PRE 69 (Common);H;4;0
@@ -1755,7 +1760,7 @@ Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE S
 
 # 142 last new card (done)
 # 144-147
-# 149-151
+# 149-152
 # 155-159
 # 163-164
 # 166-168
@@ -1782,8 +1787,18 @@ Lapras;Pokemon;Water;130;;Ferry Across|Ice Beam;30C 17 (Common)/30C 131 (Illustr
 Articuno;Pokemon;Water;120;Frosty Flapping;Hail;30C 18 (Common)/30C 132 (Illustration Rare)/MEP 97 (Promo);J;4;0
 Kyogre;Pokemon;Water;140;;Hydro Pump;30C 19 (Rare);J;4;0
 Palkia;Pokemon;Water;130;;Wormhole;30C 20 (Rare);J;4;0
+Greninja ex;Pokemon;Water;300;;Stealthy Slash|Aqua Edge;30C 21 (Double Rare)/30C 148 (Special Illustration Rare)/MEP 99 (Promo);J;4;0
+Wishiwashi;Pokemon;Water;30;Counterattack Grouping;Surprise Attack;30C 22 (Common);J;4;0
+Pikachu;Pokemon;Lightning;70;;Thunder Shock;30C 23 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;70;;Volt Tackle;30C 24 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;70;;Spark;30C 25 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;70;;Peer At;30C 26 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;80;;Nap;30C 27 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;60;Lonely Gaze;Pika Ball;30C 28 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;60;;Find a Friend;30C 29 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;60;;Mach Bolt;30C 30 (Rare);J;4;0
 
 # 128 last card (not done)
 # 129-132
-# 147
+# 147-148
 # 158 last complete card (not done)
