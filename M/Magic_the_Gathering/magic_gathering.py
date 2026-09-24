@@ -540,9 +540,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Innistrad'
-CHECK_AMOUNT = 264
-SET_CHECK += 10 # Extra basic lands
+CHECK_SET = 'Dark Ascension'
+CHECK_AMOUNT = 158
+SET_CHECK += 0 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0
