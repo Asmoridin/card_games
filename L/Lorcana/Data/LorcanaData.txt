@@ -1357,34 +1357,34 @@ Michael Darling - Playful Swordsman;Character;Ruby;Storyborn/Ally/Pirate;Azurite
 Mickey Mouse & Minnie Mouse - Adventuring Duo;Character;Emerald/Sapphire;Dreamborn/Team/Hero;Attack of the Vine! (Legendary);0
 Mickey Mouse - Amber Champion;Character;Amber;Dreamborn/Hero;Whispers in the Well (Rare);0
 Mickey Mouse - Artful Rogue;Character;Emerald;Floodborn/Hero;The First Chapter (Super Rare);0
-# Traits done through here
 Mickey Mouse - Bob Cratchit;Character;Sapphire;Storyborn/Hero;Winterspell (Rare);0
-Mickey Mouse - Brave Little Prince;Character;Ruby;;Fabled (Legendary);0
-Mickey Mouse - Brave Little Tailor;Character;Ruby;;The First Chapter (Legendary);0
-Mickey Mouse - Courageous Sailor;Character;Ruby;;Azurite Sea (Common);1
-Mickey Mouse - Detective;Character;Sapphire;;The First Chapter (Common)/Whispers in the Well (Common);4
-Mickey Mouse - Enthusiastic Dancer;Character;Ruby;;Shimmering Skies (Common);0
+Mickey Mouse - Brave Little Prince;Character;Ruby;Floodborn/Hero/Prince;Fabled (Legendary);0
+Mickey Mouse - Brave Little Tailor;Character;Ruby;Dreamborn/Hero;The First Chapter (Legendary);0
+Mickey Mouse - Courageous Sailor;Character;Ruby;Dreamborn/Hero;Azurite Sea (Common);1
+Mickey Mouse - Detective;Character;Sapphire;Dreamborn/Hero/Detective;The First Chapter (Common)/Whispers in the Well (Common);4
+Mickey Mouse - Enthusiastic Dancer;Character;Ruby;Dreamborn/Hero;Shimmering Skies (Common);0
 Mickey Mouse - Expedition Leader;Character;Amber;Dreamborn/Hero;Wilds Unknown (Super Rare);0
 Mickey Mouse - Experienced Traveler;Character;Amethyst;Dreamborn/Hero/Sorcerer;Wilds Unknown (Uncommon);0
-Mickey Mouse - Food Fight Defender;Character;Steel;;Shimmering Skies (Common);1
-Mickey Mouse - Friendly Face;Character;Amber;;Rise of the Floodborn (Super Rare);0
-Mickey Mouse - Giant Mouse;Character;Steel;;Reign of Jafar (Legendary);0
+Mickey Mouse - Food Fight Defender;Character;Steel;Storyborn/Hero;Shimmering Skies (Common);1
+Mickey Mouse - Friendly Face;Character;Amber;Storyborn/Hero;Rise of the Floodborn (Super Rare);0
+Mickey Mouse - Giant Mouse;Character;Steel;Dreamborn/Hero;Reign of Jafar (Legendary);0
 Mickey Mouse - Inquisitive Explorer;Character;Sapphire;Dreamborn/Hero;Attack of the Vine! (Common);0
-Mickey Mouse - Inspirational Warrior;Character;Steel;;Archazia's Island (Legendary);0
-Mickey Mouse - Leader of the Band;Character;Amber;;Ursula's Return (Uncommon);2
-Mickey Mouse - Musketeer Captain;Character;Amber;;Ursula's Return (Legendary);0
-Mickey Mouse - Musketeer;Character;Steel;;The First Chapter (Rare);1
-Mickey Mouse - Night Watch;Character;Steel;;Azurite Sea (Uncommon);2
-Mickey Mouse - Pirate Captain;Character;Ruby;;Azurite Sea (Super Rare);0
-Mickey Mouse - Playful Sorcerer;Character;Steel;;Ursula's Return (Rare);1
+Mickey Mouse - Inspirational Warrior;Character;Steel;Dreamborn/Hero;Archazia's Island (Legendary);0
+Mickey Mouse - Leader of the Band;Character;Amber;Storyborn/Hero;Ursula's Return (Uncommon);2
+Mickey Mouse - Musketeer Captain;Character;Amber;Floodborn/Hero/Musketeer/Captain;Ursula's Return (Legendary);0
+Mickey Mouse - Musketeer;Character;Steel;Dreamborn/Hero/Musketeer;The First Chapter (Rare);1
+Mickey Mouse - Night Watch;Character;Steel;Storyborn/Hero;Azurite Sea (Uncommon);2
+Mickey Mouse - Pirate Captain;Character;Ruby;Floodborn/Hero/Pirate/Captain;Azurite Sea (Super Rare);0
+Mickey Mouse - Playful Sorcerer;Character;Steel;Floodborn/Hero/Sorcerer;Ursula's Return (Rare);1
 Mickey Mouse - Snowboard Ace;Character;Emerald;Dreamborn/Hero;Winterspell (Uncommon);0
-Mickey Mouse - Stalwart Explorer;Character;Steel;;Into the Inklands (Common);0
-Mickey Mouse - Standard Bearer;Character;Steel;;Ursula's Return (Common)/Fabled (Common);3
-Mickey Mouse - Steamboat Pilot;Character;Emerald;;The First Chapter (Common)/Fabled (Common);4
+Mickey Mouse - Stalwart Explorer;Character;Steel;Dreamborn/Hero;Into the Inklands (Common);0
+Mickey Mouse - Standard Bearer;Character;Steel;Storyborn/Hero;Ursula's Return (Common)/Fabled (Common);3
+Mickey Mouse - Steamboat Pilot;Character;Emerald;Storyborn/Hero/Captain;The First Chapter (Common)/Fabled (Common);4
 Mickey Mouse - Tiny Tim's Father;Character;Sapphire;Storyborn/Hero;Winterspell (Common);0
-Mickey Mouse - True Friend;Character;Amber;;The First Chapter (Uncommon)/Fabled (Uncommon);3
-Mickey Mouse - Trumpeter;Character;Steel;;Into the Inklands (Legendary)/Fabled (Super Rare);0
-Mickey Mouse - Wayward Sorcerer;Character;Amethyst;;The First Chapter (Super Rare);1
+Mickey Mouse - True Friend;Character;Amber;Storyborn/Hero;The First Chapter (Uncommon)/Fabled (Uncommon);3
+Mickey Mouse - Trumpeter;Character;Steel;Dreamborn/Hero;Into the Inklands (Legendary)/Fabled (Super Rare);0
+Mickey Mouse - Wayward Sorcerer;Character;Amethyst;Dreamborn/Sorcerer;The First Chapter (Super Rare);1
+# Traits done through here
 Microbots;Item;Sapphire;;Azurite Sea (Uncommon);0
 Might Solve a Mystery;Action;Sapphire;Song;Whispers in the Well (Uncommon);1
 Mike Wazowski - Heroic Climber;Character;Amber;Storyborn/Hero/Monster;Attack of the Vine! (Super Rare);0
@@ -2485,8 +2485,13 @@ Zootopia - Tundratown;Location;Amber;;Winterspell (Common);0
 # Miguel Rivera - Street Musician;Character;Amber;Storyborn/Hero;Hyperia City (Rare);0
 # 23
 # Mickey Mouse - Best in Town;Character;Amber;Dreamborn/Hero;Hyperia City (Super Rare);0
-# 34
+# 34-39
 # Port Authority - Center Hub;Location;Amber;;Hyperia City (Uncommon);0
+# Owen Burnett - Xanatos's Assistant;Character;Amethyst;Storyborn/Ally;Hyperia City (Common);0
+# Scuttle - Directing Traffic;Character;Amethyst;Storyborn/Ally;Hyperia City (Uncommon);0
+# David Xanatos - Arcane Industrialist;Character;Amethyst;Dreamborn/Villain;Hyperia City (Common);0
+# Lexington - Fearless Flier;Character;Amethyst;Storyborn/Ally/Gargoyle;Hyperia City (Common);0
+# Merlin - Bauble Expert;Character;Amethyst;Storyborn/Mentor/Sorcerer;Hyperia City (Common);0
 # 59
 # Madam Mim - Resourceful Trickster;Character;Amethyst;Dreamborn/Villain/Sorcerer;Hyperia City (Legendary);0
 # 62-63
