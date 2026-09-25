@@ -1,4 +1,3 @@
-# Card Name;Faction;Type;Traits;Set;Max playset
 Noise: Hacker Extraordinaire;Anarch;Identity;G-mod;Core Set;1
 Déjà Vu;Anarch;Event;;Core Set;3
 Demolition Run;Anarch;Event;Run/Sabotage;Core Set/Revised Core Set;3
@@ -39,17 +38,17 @@ Tinkering;Shaper;Event;Mod;Core Set/Revised Core Set/System Core 2019;3
 Akamatsu Mem Chip;Shaper;Hardware;Chip;Core Set/System Core 2019;3
 Rabbit Hole;Shaper;Hardware;Link;Core Set/Revised Core Set;3
 The Personal Touch;Shaper;Hardware;Mod;Core Set/Revised Core Set;3
-
 The Toolbox;Shaper;Hardware;Console;Core Set;3
-Battering Ram;Shaper;Program;Icebreaker/Fracter;Core Set;3
-Gordian Blade;Shaper;Program;Icebreaker/Decoder;Core Set;3
-Magnum Opus;Shaper;Program;;Core Set;3
+Battering Ram;Shaper;Program;Icebreaker/Fracter;Core Set/Revised Core Set/System Core 2019;3
+Gordian Blade;Shaper;Program;Icebreaker/Decoder;Core Set/Revised Core Set/System Core 2019/System Update 2021;3
+Magnum Opus;Shaper;Program;;Core Set/Revised Core Set;3
 Net Shield;Shaper;Program;;Core Set;3
-Pipeline;Shaper;Program;Icebreaker/Killer;Core Set;3
-Aesop's Pawnshop;Shaper;Resource;Connection/Location;Core Set;3
-Sacrificial Construct;Shaper;Resource;Remote;Core Set;3
-Infiltration;Runner Neutral;Event;;Core Set;3
-Sure Gamble;Runner Neutral;Event;;Core Set;3
+Pipeline;Shaper;Program;Icebreaker/Killer;Core Set/Revised Core Set/System Core 2019;3
+Aesop's Pawnshop;Shaper;Resource;Connection/Location;Core Set/Revised Core Set/System Core 2019/System Update 2021;3
+Sacrificial Construct;Shaper;Resource;Remote;Core Set/Revised Core Set;3
+Infiltration;Runner Neutral;Event;;Core Set/Revised Core Set;3
+Sure Gamble;Runner Neutral;Event;;Core Set/Revised Core Set/System Core 2019/System Gateway;3
+
 Crypsis;Runner Neutral;Program;Icebreaker/AI/Virus;Core Set;3
 Access to Globalsec;Runner Neutral;Resource;Link;Core Set;3
 Armitage Codebusting;Runner Neutral;Resource;Job;Core Set;3
@@ -105,3 +104,12 @@ Archer;Weyland;ICE;Sentry/Destroyer;Core Set/Revised Core Set/System Core 2019/S
 Hadrian's Wall;Weyland;ICE;Barrier;Core Set/Revised Core Set/System Core 2019;3
 Ice Wall;Weyland;ICE;Barrier;Core Set/Revised Core Set/System Core 2019/System Update 2021;3
 Shadow;Weyland;ICE;Sentry/Tracer;Core Set/Revised Core Set;3
+Research Station;Weyland;Upgrade;Facility;Core Set;3
+Priority Requisition;Corp Neutral;Agenda;Security;Core Set/Revised Core Set/System Core 2019;3
+Private Security Force;Corp Neutral;Agenda;Security;Core Set/Revised Core Set;3
+Melange Mining Corp.;Corp Neutral;Asset;;Core Set/Revised Core Set;3
+PAD Campaign;Corp Neutral;Asset;Advertisement;Core Set/Revised Core Set/System Core 2019/System Update 2021;3
+Hedge Fund;Corp Neutral;Operation;Transaction;Core Set/Revised Core Set/System Core 2019/System Gateway;3
+Enigma;Corp Neutral;ICE;Code Gate;Core Set/Revised Core Set/System Core 2019/System Update 2021;3
+Hunter;Corp Neutral;ICE;Sentry/Tracer/Observer;Core Set/Revised Core Set/System Core 2019;3
+Wall of Static;Corp Neutral;ICE;Barrier;Core Set/Revised Core Set/System Core 2019;3
