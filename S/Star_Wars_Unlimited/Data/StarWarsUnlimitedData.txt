@@ -770,18 +770,18 @@ From a Certain Point of View;LAW-264-C;Event;Learned;N;0
 Frontier AT-RT;SOR-249-C;Ground Unit;Vehicle/Walker;N;3
 Frontier Trader;SHD-214-C;Ground Unit;Fringe/Jawa;Y;3 # 1 hyperspace
 Frontline Shuttle;SOR-110-R;Space Unit;Vehicle/Transport;G;1
-# done through here
-Frozen in Carbonite;SHD-193-U;Upgrade;Y/B;3 # 1 hyperspace
-Fugitive Wookiee;SHD-211-C;Ground Unit;Y;3
+Frozen in Carbonite;SHD-193-U;Upgrade;Condition;Y/B;3 # 1 hyperspace
+Fugitive Wookiee;SHD-211-C;Ground Unit;Wookiee;Y;3
 Fulcrum;LAW-150-R;Upgrade;Rebel;G/W;0
 Full of Surprises;ASH-232-C;Event;Trick;Y;0
-Fully Armed and Operational;SEC-194-R;Event;Y/B;1
-Fulminatrix, Fleet Killer;SEC-142-R;Space Unit;R/B;2
-Furtive Handmaiden;SEC-197-S;Ground Unit;Y/W;3 # 1 foil
-Galactic Ambition;SOR-235-R;Event;B;3 # 1 hyperspace, 1 foil
+Fully Armed and Operational;SEC-194-R;Event;Trick;Y/B;1
+Fulminatrix, Fleet Killer;SEC-142-R;Space Unit;First Order/Vehicle/Capital Ship;R/B;2
+Furtive Handmaiden;SEC-197-S;Ground Unit;Naboo;Y/W;3 # 1 foil
+Galactic Ambition;SOR-235-R;Event;Innate;B;3 # 1 hyperspace, 1 foil
 Galactic Escalation;TS26-56-C;Event;Supply;G;3
 Galen Erso, Destroying His Creation;LAW-233-R;Ground Unit;Imperial;Y;0
-Galen Erso, You'll Never Win;SEC-046-R;Ground Unit;U/W;0
+Galen Erso, You'll Never Win;SEC-046-R;Ground Unit;Imperial;U/W;0
+# done through here
 Gallius Rax, Counselor to the Empire;ASH-100-L;Ground Unit;Imperial/Official;G/B;0
 Gallofree Transport;ASH-254-C;Space Unit;Rebel/Vehicle/Transport;W;0
 Galvanized Leap;ASH-188-C;Event;Force;R;0
@@ -2285,6 +2285,11 @@ Stormtrooper Patrol;HMW-107-U;Ground Unit;Imperial/Trooper;G/B;0
 The First Legion, Vader's Fist;HMW-108-R;Ground Unit;Imperial/Trooper;G/B;0
 Tireless Magnaguard;HMW-109-U;Ground Unit;Separatist/Droid;G/B;0
 Emperor Palpatine, Consolidating Power;HMW-110-L;Ground Unit;Force/Imperial/Sith/Official;G/B;0
+Invasion Lander;HMW-111-C;Space Unit;Separatist/Vehicle/Transport;G/B;0
+Military Academy;HMW-112-U;Upgrade;Fortification;G/B;0
+Sinister War Memorial;HMW-113-S;Upgrade;Fortification;G/B:0
+Breach;HMW-114-R;Event;Tactic;G/B;0
+Leia Organa, These Are My Friends;HMW-115-U;Ground Unit;Rebel/Official;G/W;0
 
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
 
