@@ -1,13 +1,14 @@
-GEN-C1;Merfolk Salvaging;Atlantean;Common;Event
-GEN-C2;Tidal Wave;Atlantean;Common;Event
-GEN-C3;Undersea Eruption;Atlantean;Common;Event
-GEN-C4;Wail of the Deep;Atlantean;Common;Event
-GEN-C5;Charge Prod;Atlantean;Common;Item
-GEN-C6;Circlet of Protection;Atlantean;Common;Item
-GEN-C7;Crystal Javelin;Atlantean;Common;Item
-GEN-C8;Dagger of Atlantis;Atlantean;Common;Item
-GEN-C9;Fishing Net;Atlantean;Common;Item
-GEN-C10;Plato's Myth;Atlantean;Common;Item
+Merfolk Salvaging;Atlantean;Event;GEN-C1;0
+Tidal Wave;Atlantean;Event;GEN-C2;0
+Undersea Eruption;Atlantean;Event;GEN-C3;0
+Wail of the Deep;Atlantean;Event;GEN-C4;0
+Charge Prod;Atlantean;Item;GEN-C5;0
+Circlet of Protection;Atlantean;Item;GEN-C6;0
+Crystal Javelin;Atlantean;Item;GEN-C7;0
+Dagger of Atlantis;Atlantean;Item;GEN-C8;0
+Fishing Net;Atlantean;Item;GEN-C9;0
+Plato's Myth;Atlantean;Item;GEN-C10;0
+
 GEN-C11;Lagoon Serpent;Atlantean;Common;Unit
 GEN-C12;Merfolk Innocent;Atlantean;Common;Unit
 GEN-C13;Merfolk Saboteur;Atlantean;Common;Unit
