@@ -50,7 +50,7 @@ Arabe Haye Darrande;Persian;Special;Set 4;1;1
 Ar–a–mach Cràbhach;Scottish;Inspiration;Set 3;1;1
 Arcabuz;Spanish;Weapon;Set 5;1;1
 Archange Michel;French;Inspiration;Set 3;1;1
-Ard Ri;Irish;;Set 4;1;1
+Árd Rí;Irish;Inspiration;Set 4;1;1
 Ares;Carthaginian;;Set 8;1;0
 Ariki Te Wherowhero;Maori;;Set 4;1;1
 Aristourgima tou Ifestou;Trojan;Armor;Set 7;1;0
@@ -74,7 +74,7 @@ Athleta Christi;Romanian;;Set 6;1;1
 Atlatl;Aztec;;Set 5;1;0
 Atropos;Greek;;Promo;1;0
 Attila the Hun;Mongol;;Set 2;1;1
-Augustus;Roman;;Promo;1;0 // have badly printed version
+Augustus;Roman;Warrior;Promo;1;0 // have badly printed version
 Auitzotl;Aztec;;Set 5;1;0
 Axumite Obelisk;African Kingdoms;Special;Set 8;1;0 // Have badly printed version
 Ay It-hetjer;Egyptian;;Set 10;1;0
@@ -142,7 +142,7 @@ Bowie Knife;American Frontiersmen;;Set 7;1;0
 Bran agus Sceolang;Irish;;Set 4;1;1
 Brat Derg;Irish;Armor;Set 4;1;1
 Bratt;Briton;;Set 2;1;1
-Brian Boru;Irish;;Set 4;1;1
+Brian Ború;Irish;Warrior;Set 4;1;1
 British East India Company;Pirate/Scottish;;Set 9;1;0
 Broigne d'Ecailles;French;;Set 3;1;1
 Bronze Scale Mail;Egyptian;;Set 10;1;0
@@ -212,10 +212,10 @@ Claidheamh–Catha Dà–Làimhe;Scottish;Weapon;Set 3;1;1
 Claidheamh-mòr Gàidhealach;Scottish;Weapon;Set 3;1;1
 Clairseach Bhoru;Irish;;Promo;1;0
 Cleopatra VII;Egyptian;;Set 2;1;1
-Cliabh Mor;Irish;;Set 4;1;1
+Clíabh Mór;Irish;Weapon;Set 4;1;1
 Clogaid Phembridge;Scottish;;Set 3;1;0
 Clotho;Greek;;Promo;1;0
-Cluain Tairbh;Irish;;Set 4;1;1
+Cluain Tairbh;Irish;Special;Set 4;1;1
 Cluaran na h-Alba;Scottish;Inspiration;Set 3;1;1
 Club Hauling;Pirate/Welsh;;Set 9;1;0
 Code du Paladin;French;;Set 3;1;1
@@ -550,7 +550,7 @@ Koeke Moengke Tengri;Mongol;;Set 2;1;1
 Kogaion;Romanian;;Set 6;1;0
 Kolah Khod-e Sasani;Persian;Armor;Set 4;1;1
 Kol'chuga;Russian;;Set 4;1;1
-Kolontar;Russian;;Set 4;1;1
+Kolontar;Russian;Armor;Set 4;1;1
 Konstantinya;Turkish;;Set 6;1;1
 Kontarion;Byzantine;;Set 10;1;0 // have okay printed version
 Kontos;Persian;Weapon;Set 4;1;1
@@ -621,7 +621,7 @@ Magister Militum;Germanic;;Set 3;1;1
 Mahera;Trojan;;Set 7;1;0
 Mahpiya Luta;Native American;;Set 3;1;1
 Maid Marion;Briton;;Set 2;1;1
-Maille na Lub;Irish;;Set 4;1;1
+Máille na Lúb;Irish;Armor;Set 4;1;1
 Makataimeshekiakiak;Native American;;Set 3;1;1
 Mana;Maori;;Set 4;1;1
 Manai Iklanai;Maori;;Set 4;1;1
@@ -744,7 +744,7 @@ Paris;Trojan;;Set 7;1;0
 Parma;Roman;;Set 1;1;1
 Patronato Papale;Italian;;Set 9;1;0
 Pestilentis Sideris;Carthaginian;;Set 8;1;0
-Peter I the Great;Russian;;Set 4;1;1
+Peter I the Great;Russian;Warrior;Set 4;1;1
 Petra tou Londinou;Trojan;;Set 7;1;0
 Petrini Maza;Greek;;Set 7;1;0
 Pharaoh's Chariot;Egyptian;;Set 10;1;0
@@ -782,7 +782,7 @@ Qing Long Yan Yue Dao;Chinese;;Set 2;1;1
 Quauhololli;Aztec;;Promo;1;0
 Qubbat al-Nabi;Turkish;;Set 6;1;0
 Queen Anne's Revenge;Briton/Pirate;;Promo;1;1
-Queen Elissar;Carthaginian;;Promo;1;0 // have okay printed version
+Queen Elissar;Carthaginian;Inspiration;Promo;1;0 // have okay printed version
 Quetzalcoatl;Aztec;Inspiration;Set 5;1;1
 Ra;Egyptian;;Set 2;1;1
 Ragnarok;Norse;;Promo;1;0 // have okay printed version
@@ -801,7 +801,7 @@ Rhyton;Persian;Special;Set 4;1;1
 Richard the Lionheart;Briton;;Set 2;1;1
 Ridders Sverd;Norse;;Set 9;1;0
 Rikutosanryaku;Japanese;;Set 5;1;0
-Rindi;Russian;;Set 4;1;1
+Rindi;Russian;Special;Set 4;1;1
 Rob Ruadh Macgriogair;Scottish;Warrior;Set 3;1;1
 Robin Hood;Briton;;Set 2;1;1
 Rocky Mountain Fur Company;American Frontiersmen;;Set 7;1;0
@@ -870,7 +870,7 @@ Shinshi;Korean;;Set 9;1;0
 Shlem;Russian;;Set 4;1;1
 Shortsword;Egyptian;Weapon;Set 10;1;0 // have okay printed version
 Shoshenq I;Egyptian;;Set 10;1;0
-Shpaga;Russian;;Set 4;1;1
+Shpaga;Russian;Weapon;Set 4;1;1
 Shuriken;Japanese;;Set 1;1;1
 Si An Bhru;Irish;;Promo;1;0
 Sica;Roman;;Set 1;1;1
@@ -1033,7 +1033,7 @@ Vlad II Dracul;Romanian;;Promo;1;0
 Vlad Tepes;Romanian;;Set 6;1;1
 Volkerwanderung;German;;Promo;1;0
 Voltaire;Russian;;Set 4;1;1
-Vozveshenniye Posolstvo;Russian;;Set 4;1;1
+Vozveshenniye Posolstvo;Russian;Inspiration;Set 4;1;1
 Waka;Maori;;Set 4;1;1
 Wakhan Thanka;Native American;;Set 3;1;1
 Wakinyan Sunkawakhan;Native American;;Set 3;1;1
