@@ -25,6 +25,7 @@ Applejack;Character;Earth Pony/Applejack;4;6;SD01-CR04;4;0
 Applejack;Character;Earth Pony/Applejack;4;6;SD01D-U02;4;0
 Applejack;Character;Earth Pony/Applejack;5;7;SD01D-C02;4;0
 Applejack;Main Character Card;SD01-RR04;1;0
+Applejack;Main Character Card;BP01-RR04;1;0
 Big McIntosh;Character;Earth Pony/Big McIntosh;4;6;SD01D-C04;4;0
 Blue Curse;Event;2;SD01C-SPR01;4;0
 Canterlot Tower;Scene;SD01-ER07;4;0
@@ -58,6 +59,7 @@ Fluttershy;Character;Pegasus/Fluttershy;5;6;SD01-CR02;4;0
 Fluttershy;Character;Pegasus/Fluttershy;5;6;SD01-SR02;4;0
 Fluttershy;Character;Pegasus/Fluttershy;7;8;SD01-GR02;4;0
 Fluttershy;Main Character Card;SD01-RR02;1;0
+Fluttershy;Main Character Card;BP01-RR02;1;0
 Fluttershy's Cottage;Scene;SD01-ER02;15;0
 Friendly Rabbits;Event;3;SD01-SPR02;4;0
 Friends from other Side;Event;1;SD01-SPR01;4;0
@@ -95,6 +97,7 @@ Pinkie Pie;Character;Earth Pony/Pinkie Pie;4;5;SD01-U03;4;0
 Pinkie Pie;Character;Earth Pony/Pinkie Pie;5;5;SD01-CR03;4;0
 Pinkie Pie;Character;Earth Pony/Pinkie Pie;6;8;SD01C-C02;4;0
 Pinkie Pie;Main Character Card;SD01-RR03;1;0
+Pinkie Pie;Main Character Card;BP01-RR03;1;0
 Pinkie's Flying Balloon;Item;1;SD01C-SPR04;4;0
 Ponyville Street;Scene;SD01-ER09;4;0
 Ponyville Suburb;Scene;SD01-ER08;4;0
@@ -112,6 +115,7 @@ Rainbow Dash;Character;Pegasus/Rainbow Dash;4;5;SD01E-SR01;4;0
 Rainbow Dash;Character;Pegasus/Rainbow Dash;4;6;SD01E-C02;4;0
 Rainbow Dash;Character;Pegasus/Rainbow Dash;4;6;SD01-SR05;4;0
 Rainbow Dash;Main Character Card;SD01-RR05;1;0
+Rainbow Dash;Main Character Card;BP01-RR05;1;0
 Rarity;Character;Unicorn/Rarity;1;2;SD01-C06;4;0
 Rarity;Character;Unicorn/Rarity;1;2;SD01F-C03;4;0
 Rarity;Character;Unicorn/Rarity;2;3;SD01F-U01;4;0
@@ -124,6 +128,7 @@ Rarity;Character;Unicorn/Rarity;5;7;SD01F-C02;4;0
 Rarity;Character;Unicorn/Rarity;6;7;SD01-SR06;4;0
 Rarity;Character;Unicorn;Rarity;3;4;SD01F-SR01;4;0
 Rarity;Main Character Card;SD01-RR06;1;0
+Rarity;Main Character Card;BP01-RR06;1;0
 Road at Sweet Apple Acres;Scene;SD01-ER10;4;0
 Rope Trick;Event;3;SD01D-SPR02;4;0
 Rushing Rescue;Event;2;SD01E-SPR02;4;0
@@ -169,8 +174,21 @@ Twilight Sparkle;Character;Unicorn/Twilight Sparkle;5;5;SD01-CR01;4;0
 Twilight Sparkle;Character;Unicorn/Twilight Sparkle;6;8;SD01A-U02;4;0
 Twilight Sparkle;Character;Unicorn/Twilight Sparkle;7;8;SD01-GR01;4;0
 Twilight Sparkle;Main Character Card;SD01-RR01;1;0
+Twilight Sparkle;Main Character Card;BP01-RR01;1;0
 Way to the Top;Event;2;SD01-SPR04;4;0
 Winona;Character;Dog/Winona/Pet;1;1;SD01D-SR02;4;0
 Winona;Character;Dog/Winona/Pet;1;2;SD01D-C05;4;0
 Winona;Character;Dog/Winona/Pet;3;4;SD01D-U04;4;0
 Zecora;Character;Zebra/Zecora;1;2;SD01-U07;4;0
+Sunlight in the Rain;Event;2;BP01-SPR01;4;0
+Time for Clean-up!;Event;3;BP01-SPR02;4;0
+Deliver letters;Event;1;BP01-SPR03;4;0
+Prepared to Go;Event;2;BP01-SPR05;4;0
+Hair Curling;Event;2;BP01-SPR07;4;0
+Pillow Fight;Event;2;BP01-SPR08;4;0
+Rain Under the Roof;Event;3;BP01-SPR09;4;0
+Hoof Power Test;Event;3;BP01-SPR12;4;0
+Tense Competition;Event;2;BP01-SPR13;4;0
+Accidentally Burnt Book;Event;2;BP01-SPR18;4;0
+Found Scroll;Event;1;BP01-SPR21;4;0
+Twilight Sparkle;Character;Unicorn/Twilight Sparkle;3;5;BP01-GR01;4;0
