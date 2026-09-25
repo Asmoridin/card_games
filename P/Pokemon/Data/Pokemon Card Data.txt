@@ -1642,6 +1642,7 @@ Community Center;Trainer;Stadium;;;;TWM 146 (Uncommon);H;4;0
 Enhanced Hammer;Trainer;Item;;;;Dark Explorers 94 (Uncommon)/Phantom Forces 94 (Uncommon)/Primal Clash 162 (Rare Secret)/Guardians Rising 124 (Uncommon)/Guardians Rising 162 (Rare Secret)/TWM 148 (Uncommon)/TWM 224 (Hyper Rare);H;4;0
 Festival Grounds;Trainer;Stadium;;;;TWM 149 (Uncommon)/PRE 108 (Uncommon);H;4;0
 Handheld Fan;Trainer;Pokemon Tool;;;;TWM 150 (Uncommon);H;4;0
+Hassel;Trainer;Supporter;;;;TWM 151 (Uncommon)/TWM 205 (Ultra Rare);H;4;0
 Jamming Tower;Trainer;Stadium;;;;TWM 153 (Uncommon)/DRI 243 (Hyper Rare)/ASC 261 (Ultra Rare);H;4;0
 Kieran;Trainer;Supporter;;;;TWM 154 (Uncommon)/TWM 206 (Ultra Rare)/TWM 218 (Special Illustration Rare)/PRE 113 (Uncommon)/PRE 174 (Special Illustration Rare);H;4;0
 Lana's Aid;Trainer;Supporter;;;;TWM 155 (Uncommon)/TWM 207 (Ultra Rare)/TWM 219 (Special Illustration Rare);H;4;0
@@ -1737,8 +1738,12 @@ Drifblim;Pokemon;Psychic;130;;Everyone Explode Now;SCR 61 (Uncommon)/SVP 135 (Pr
 Comfey;Pokemon;Psychic;70;;Flower Shower|Play Rough;SCR 63 (Common);H;4;0
 Milcery;Pokemon;Psychic;60;;Mumble;SCR 64 (Common)/SCR 152 (Illustration Rare);H;4;0
 Alcremie;Pokemon;Psychic;110;;Colorful Confection|Magical Shot;SCR 65 (Rare);H;4;0
-
+Fidough;Pokemon;Psychic;60;;Pleasant Aroma|Stampede;SCR 66 (Common);H;4;0
+Dachsbun ex;Pokemon;Psychic;250;Time to Chow Down;Wonder Shine;SCR 67 (Double Rare)/SCR 160 (Ultra Rare)/SCR 169 (Special Illustration Rare);H;4;0
 Flittle;Pokemon;Psychic;50;;Peck;SCR 68 (Common);H;4;0
+Espathra;Pokemon;Psychic;130;;Psychic Flash;SCR 69 (Common);H;4;0
+Greavard;Pokemon;Psychic;80;;Paw Shake Punch|Bite;SCR 70 (Common);H;4;0
+
 Iron Boulder;Pokemon;Psychic;140;;Adjusted Horn;SCR 71 (Rare)/PRE 46 (Rare);H;4;0
 Duraludon;Pokemon;Metal;130;;Hammer In|Raging Hammer;SCR 106 (Common)/PRE 69 (Common);H;4;0
 Archaludon;Pokemon;Metal;180;Metal Bridge;Iron Blaster;SCR 107 (Rare)/SCR 155 (Illustration Rare)/PRE 70 (Rare);H;4;0
@@ -1761,10 +1766,9 @@ Sparkling Crystal;Trainer;Pokemon Tool;;;;SCR 142 (ACE SPEC Rare)/PRE 129 (ACE S
 # 142 last new card (done)
 # 144-147
 # 149-152
-# 155-159
+# 155-160
 # 163-164
-# 166-168
-# 170-175 (last card)
+# 166-175 (last card)
 
 # 30th Celebration (30C)
 Exeggcute;Pokemon;Grass;60;;Hypnosis;30C 1 (Common);J;4;0
@@ -1797,6 +1801,17 @@ Pikachu;Pokemon;Lightning;80;;Nap;30C 27 (Rare);J;4;0
 Pikachu;Pokemon;Lightning;60;Lonely Gaze;Pika Ball;30C 28 (Rare);J;4;0
 Pikachu;Pokemon;Lightning;60;;Find a Friend;30C 29 (Rare);J;4;0
 Pikachu;Pokemon;Lightning;60;;Mach Bolt;30C 30 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;50;;Gnaw;30C 31 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;50;;Scurry About;30C 32 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;60;Keep Hidden;Tiny Charge;30C 33 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;70;;Pika Chain;30C 34 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;60;;Rollout;30C 35 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;70;;Slight Intrusion;30C 36 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;70;;Energized Tail|Pika Punch;30C 37 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;60;;Targeted Spark;30C 38 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;70;;Iron Tail;30C 39 (Rare);J;4;0
+Pikachu;Pokemon;Lightning;80;;Overwriting Bolt;30C 40 (Rare);J;4;0
+
 
 # 128 last card (not done)
 # 129-132
