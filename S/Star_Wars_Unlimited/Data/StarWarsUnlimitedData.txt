@@ -781,17 +781,17 @@ Galactic Ambition;SOR-235-R;Event;Innate;B;3 # 1 hyperspace, 1 foil
 Galactic Escalation;TS26-56-C;Event;Supply;G;3
 Galen Erso, Destroying His Creation;LAW-233-R;Ground Unit;Imperial;Y;0
 Galen Erso, You'll Never Win;SEC-046-R;Ground Unit;Imperial;U/W;0
-# done through here
 Gallius Rax, Counselor to the Empire;ASH-100-L;Ground Unit;Imperial/Official;G/B;0
 Gallofree Transport;ASH-254-C;Space Unit;Rebel/Vehicle/Transport;W;0
 Galvanized Leap;ASH-188-C;Event;Force;R;0
-Gamorrean Guards;SOR-211-C;Ground Unit;Y;3
-Gamorrean Retainer;SHD-112-C;Ground Unit;G;3 # 1 hyperspace, 1 hyperfoil
+Gamorrean Guards;SOR-211-C;Ground Unit;Underworld;Y;3
+Gamorrean Retainer;SHD-112-C;Ground Unit;Underworld;G;3 # 1 hyperspace, 1 hyperfoil
 Gar Saxon, Coveting Power;ASH-047-R;Ground Unit;Mandalorian/Trooper;U/B;0
 Gar Saxon, Sundari Pillagern;TS26-21-R;Ground Unit;Mandalorian/Trooper;G/R/B;1
-Gar Saxon, Viceroy of Mandalore;SHD-001-C;Leader;U/B;1 # 1 hyperspace
-Garindan, Information Broker;SEC-186-U;Ground Unit;Y/B;3
-General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;2
+Gar Saxon, Viceroy of Mandalore;SHD-001-C;Leader;Imperial/Mandalorian/Official;U/B;1 # 1 hyperspace
+Garindan, Information Broker;SEC-186-U;Ground Unit;Underworld;Y/B;3
+General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;Rebel/Official;W;2
+# done through here
 General Draven, Doing What Must Be Done;JTL-117-R;Ground Unit;G;0
 General Grievous, Crush Them!;TS26-50-R;Ground Unit;Separatist/Official;G/B;1
 General Grievous, General of the Droid Armies;TWI-015-S;Leader;B/Y;1
@@ -2290,7 +2290,11 @@ Military Academy;HMW-112-U;Upgrade;Fortification;G/B;0
 Sinister War Memorial;HMW-113-S;Upgrade;Fortification;G/B:0
 Breach;HMW-114-R;Event;Tactic;G/B;0
 Leia Organa, These Are My Friends;HMW-115-U;Ground Unit;Rebel/Official;G/W;0
-
+Ewok Brigade;HMW-116-C;Ground Unit;Ewok;G/W;0
+Chewbacca, Resourceful Wookiee;HMW-117-R;Ground Unit;Wookiee;G/W;0
+Ryyk Blademaster;HMW-118-C;Ground Unit;Wookiee;G/W;0
+Saw Gerrera, Shadowlands Insurgent;HMW-119-R;Ground Unit;Rebel;G/W;0
+Auzituck Avenger;HMW-120-C;Space Unit;Vehicle/Fighter;G/W;0
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
 
 Chewbacca's Bowcaster, Handcrafted Tradition;HMW-127-S;Upgrade;Item/Weapon;G/W;0
