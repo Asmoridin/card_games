@@ -791,17 +791,17 @@ Gar Saxon, Sundari Pillagern;TS26-21-R;Ground Unit;Mandalorian/Trooper;G/R/B;1
 Gar Saxon, Viceroy of Mandalore;SHD-001-C;Leader;Imperial/Mandalorian/Official;U/B;1 # 1 hyperspace
 Garindan, Information Broker;SEC-186-U;Ground Unit;Underworld;Y/B;3
 General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;Rebel/Official;W;2
-# done through here
-General Draven, Doing What Must Be Done;JTL-117-R;Ground Unit;G;0
+General Draven, Doing What Must Be Done;JTL-117-R;Ground Unit;Rebel/Official;G;0
 General Grievous, Crush Them!;TS26-50-R;Ground Unit;Separatist/Official;G/B;1
-General Grievous, General of the Droid Armies;TWI-015-S;Leader;B/Y;1
-General Grievous, Scuttling to Safety;SEC-187-R;Ground Unit;Y/B;2 # 1 hyperspace
-General Grievous, Trophy Collector;TWI-034-L;Ground Unit;B/U;0
-General Hux, No Terms, No Surrender;JTL-134-U;Ground Unit;R/B;2
-General Krell, Heartless Tactician;SOR-105-R;Ground Unit;G;1
-General Rieekan, Defensive Strategist;SHD-103-R;Ground Unit;G/W;2
-General Rieekan, Stalwart Tactician;IBH-023-S/IBH-036-S;Ground Unit;G/W;0
-General Tagge, Concerned Commander;SOR-080-U/SHD-081-S;Ground Unit;G/B;2
+General Grievous, General of the Droid Armies;TWI-015-S;Leader;Separatist/Official;B/Y;1
+General Grievous, Scuttling to Safety;SEC-187-R;Ground Unit;Separatist/Official;Y/B;2 # 1 hyperspace
+General Grievous, Trophy Collector;TWI-034-L;Ground Unit;Separatist/Official;B/U;0
+General Hux, No Terms, No Surrender;JTL-134-U;Ground Unit;First Order/Official;R/B;2
+General Krell, Heartless Tactician;SOR-105-R;Ground Unit;Force/Jedi/Republic;G;1
+General Rieekan, Defensive Strategist;SHD-103-R;Ground Unit;Rebel/Official;G/W;2
+General Rieekan, Stalwart Tactician;IBH-023-S/IBH-036-S;Ground Unit;Rebel/Official;G/W;0
+General Tagge, Concerned Commander;SOR-080-U/SHD-081-S;Ground Unit;Imperial/Official;G/B;2
+# done through here
 General Veers, Blizzard Force Commander;SOR-230-U;Ground Unit;B;3
 General Veers, Leading the Assault;IBH-068-S/IBH-088-S;Ground Unit;R/B;0
 General's Blade;TWI-121-R;Upgrade;G;1 # 1 foil
@@ -2296,7 +2296,11 @@ Ryyk Blademaster;HMW-118-C;Ground Unit;Wookiee;G/W;0
 Saw Gerrera, Shadowlands Insurgent;HMW-119-R;Ground Unit;Rebel;G/W;0
 Auzituck Avenger;HMW-120-C;Space Unit;Vehicle/Fighter;G/W;0
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
-
+Boga, Loyal Varactyl;HMW-122-U;Ground Unit;Creature;G/W;0
+King Grakchawwaa, King of Kashyyyk;HMW-123-R;Ground Unit;Wookiee/Official;G/W;0
+Luminara Unduli, Besieged General;HMW-124-L;Ground Unit;Force/Jedi/Republic;G/W;0
+The Marauder, A New Home;HMW-125-U;Space Unit;Vehicle/Transport;G/W;0
+Verdant Fortress;HMW-126-U;Upgrade;Fortification;G/W;0
 Chewbacca's Bowcaster, Handcrafted Tradition;HMW-127-S;Upgrade;Item/Weapon;G/W;0
 
 Wookiee Rangers;HMW-142-C;Ground Unit;Wookiee;G;0

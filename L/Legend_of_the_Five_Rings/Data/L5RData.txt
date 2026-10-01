@@ -4683,8 +4683,25 @@ Essence of Air;Spell;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
 Essence of Death;Strategy;;Empire at War (Common);Destroyer War (Celestial);3;0
 Essence of Destruction;Spell;;Death at Koten (Fixed);Destroyer War (Celestial);1;0
 Essence of Destruction;Spell;;Death at Koten (Fixed);Race for the Throne (Samurai);1;0
+Essence of Earth;Spell;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
+Essence of Evil;Strategy;;Death at Koten (Koten);Destroyer War (Celestial);3;0
+Essence of Evil;Strategy;;Death at Koten (Koten);Race for the Throne (Samurai);3;0
+Essence of Fire;Spell;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
+Essence of Gaki-do;Spell;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
+Essence of Gaki-do;Spell;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
+Essence of Gaki-do;Spell;;Reign of Blood (Rare);Rain of Blood (Diamond);3;0
+Essence of Gaki-do;Spell;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
+Essence of Jade Dragon;Spell;;Honor's Veil (Common);Race for the Throne (Samurai);3;0
+Essence of Jigoku;Spell;;Tomorrow (Fixed);Age of Enlightenment (Lotus);1;0
+Essence of Jigoku;Spell;;Tomorrow (Fixed);Race for the Throne (Samurai);1;0
 Essence of Pearl;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Essence of Pearl;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
+Essence of Tengoku;Item;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Essence of the East Wind;Spell;;Promotional–Samurai (Promo);Destroyer War (Celestial);3;0
+Essence of the East Wind;Spell;;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
+Essence of the Void;Spell;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
+Essence of Undeath;Spell;;Second City (Common);Age of Conquest (Emperor);3;0
+Essence of Undeath;Spell;;Second City (Common);Destroyer War (Celestial);3;0
 Eternal Armor;Item;;Path of the Destroyer (Uncommon);Destroyer War (Celestial);3;0
 Eternal Armor;Item;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;2
 Eternal Armor;Item;;Twenty Festivals (Uncommon);War of the Seals (Onyx Edition);3;0
@@ -6460,6 +6477,9 @@ Matsu Tayuko, Soul of Matsu Aoiko;Personality;Lion;Ivory Edition (Common);A Brot
 Matsu Tayuko, Soul of Matsu Aoiko;Personality;Lion;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;3
 Matsu Tayuko, Soul of Matsu Aoiko;Personality;Lion;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Matsu Tayuko, Soul of Matsu Aoiko;Personality;Lion;Shattered Empire (Fixed);Shattered Empire;3;0
+Matsu Tsuko;Personality;Lion;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
+Matsu Turi;Personality;Lion;Pearl Edition (Fixed);Hidden Emperor (Jade);3;0
+Matsu Turi;Personality;Lion;Time of the Void (Common);Clan Wars (Imperial);3;0
 Matsu Yamamura;Personality;Lion;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Matsu Yamamura;Personality;Lion;Evil Portents (Uncommon);War of the Seals (Onyx Edition);3;2
 Matsu Yojo;Personality;Lion;Obsidian Edition (Common)/Imperial Edition (Common)/Emerald Edition (Common);Clan Wars (Imperial);3;1
@@ -9273,6 +9293,8 @@ Visions of Darkness;Spell;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);
 Visions of Darkness;Spell;;Shattered Empire (Fixed);Shattered Empire;3;0
 Visions of Darkness;Spell;;The Coming Storm (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Visions of Darkness;Spell;;The Coming Storm (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Visitation;Strategy;;Second City (Uncommon);Age of Conquest (Emperor);3;0
+Visitation;Strategy;;Second City (Uncommon);Destroyer War (Celestial);3;0
 Void Dragon • Experienced;Personality;Unaligned;Soul of the Empire (Rare);Hidden Emperor (Jade);1;1
 Void Dragon;Personality;Unaligned;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
 Void Dragon;Personality;Unaligned;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
@@ -9692,7 +9714,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #2370
+# Done through card #2380
 #2385
 #2388
 #2394-2395
@@ -9967,6 +9989,8 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #4944
 #4946
 #4971
+#4994
+#4996
 #5000
 #5014
 #5016-5017
@@ -10462,6 +10486,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9145-9146
 #9160
 #9164-9166
+#9172
 #9175
 #9177
 #9179
