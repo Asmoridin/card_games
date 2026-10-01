@@ -1,5 +1,6 @@
 "Crimson Forcefield";Tactic;;Blaze of Glory/BaH!;892,3710;;10;0
 "God";Dilemma;Planet;The Motion Pictures/Homefront;1252,3493,7250;;4;4
+"Pup";Dilemma;Space;Deep Space 9;1917;;4;0
 '45 Dom Perignon;Equipment;;Holodeck Adventures;504;;4;0
 ... in the Engine Room;Trouble;;The Trouble with Tribbles;475;;4;0
 ... in the Transporters;Trouble;;The Trouble with Tribbles;476;;4;0
@@ -1763,10 +1764,15 @@ Promenade Shops;Site;;Deep Space 9/Homefront V;1908,4474;;2;0
 Prot;Personnel;Federation;Mirror, Mirror;1909;3059;2;0
 Prot;Personnel;Ferengi;Identity Crisis;3059;1909;2;0
 Protect Shipment;Mission;Space;The Dominion;1910;;2;0
+Protection Racket;Incident;;Rules of Acquisition;1911;;4;0
 Protostar Study;Mission;Space;To the Journey;8504;;2;0
+Protouniverse;Interrupt;;Deep Space 9;1912;;4;0
 Prylar Mond;Personnel;Bajoran;Deep Space 9;308;;4;0
+Pulse Disruptor;Tactic;;Blaze of Glory/BaH!;1913,3723;;10;0
+Pulse Phaser Cannons;Tactic;;Blaze of Glory/BaH!;1914,3724;;10;0
 Punishment Box;Dilemma;Planet;Deep Space 9/Homefront;1915,3499;;5;4 # have 4 HF
 Punishment Zone;Dilemma;Planet;Alternate Universe;1916;;4;4
+Purchase Moon;Mission;Planet;Rules of Acquisition;1918;;2;0
 Pursue Holographic Prey;Mission;Space;To the Journey;8505;;2;0
 Pursuit Just Behind;Dilemma;Planet;Crossover;4729;;4;4
 Q Gets the Point;Dilemma;Dual;The Trouble with Tribbles;1920;;4;3
@@ -2170,9 +2176,8 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 1910
-#1915-1916
-#1919-1921
+# Done through card 1920
+#1921
 #1924-1925
 #1928-1929
 #1933-1935
@@ -2318,7 +2323,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3685
 #3688-3696
 #3698-3700
-#3702-3722
+#3702-3724
 #3727
 #3730-3733
 #3744
