@@ -51,7 +51,7 @@ Ar–a–mach Cràbhach;Scottish;Inspiration;Set 3;1;1
 Arcabuz;Spanish;Weapon;Set 5;1;1
 Archange Michel;French;Inspiration;Set 3;1;1
 Árd Rí;Irish;Inspiration;Set 4;1;1
-Ares;Carthaginian;;Set 8;1;0
+Ares;Carthaginian;Inspiration;Set 8;1;0
 Ariki Te Wherowhero;Maori;;Set 4;1;1
 Aristourgima tou Ifestou;Trojan;Armor;Set 7;1;0
 Armadura Completa;Spanish;;Set 5;1;1
@@ -173,7 +173,7 @@ Cao Cao;Chinese;;Set 6;1;0
 Carlos V;Spanish;;Set 5;1;0
 Caro de Segeda;Spanish;;Promo;1;0 // have badly printed version
 Carpat;Briton;;Set 2;1;1
-Carthaginian Formation;Carthaginian;;Set 8;1;0
+Carthaginian Formation;Carthaginian;Special;Set 8;1;0
 Carthaginian Spear;Carthaginian;;Set 8;1;0
 Carthago Nova;Roman;Special;Set 8;1;0
 Casca Dacica;Romanian;;Set 6;1;0
@@ -311,7 +311,7 @@ Ethiopian Spear;African Kingdoms;;Set 8;1;0 // Have badly printed version
 Excalibur;Briton;;Set 2;1;1
 Fabian Tactics;Roman;;Set 8;1;0
 Fabius Maximus;Roman;;Set 8;1;0
-Falcata;Carthaginian;;Set 8;1;0
+Falcata;Carthaginian;Weapon;Set 8;1;0
 Falchion;Holy Roman;;Set 10;1;0 // have okay printed version
 Falx;Romanian;;Set 6;1;0
 Fascina;Roman;Weapon;Set 8;1;0
@@ -431,7 +431,7 @@ Hernán Cortés;Spanish;Warrior;Set 5;1;1
 Heyokha;Native American;;Set 3;1;1
 Hijikata Toshizo;Japanese;;Set 5;1;0
 Hilia Plia;Greek;Weapon;Set 7;1;0
-Himilco;Carthaginian;;Set 8;1;0
+Himilco;Carthaginian;Warrior;Set 8;1;0
 Hindarfjall;Norse;;Set 9;1;0
 Hine-Nui-Te-Po;Maori;;Promo;1;0 // have badly printed version
 Hippodrome;Byzantine;;Set 10;1;0 // have okay printed version
@@ -592,7 +592,7 @@ L'Epee aux Cinq Croix;French;;Set 3;1;1
 Letter of Marque;Briton/Pirate;;Set 6;1;1
 Liga Sfinta;Romanian;;Set 6;1;1
 Linen Cuirass;Greek;;Set 1;1;1
-Linothorax;Carthaginian;;Set 8;1;0
+Linothorax;Carthaginian;Armor;Set 8;1;0
 Lion's Brood;Carthaginian;;Set 8;1;0
 Liontari;Greek;;Set 1;1;1
 Liu Bei;Chinese;;Promo;1;0
@@ -743,7 +743,7 @@ Paramerion;Byzantine;;Set 10;1;0 // have okay printed version
 Paris;Trojan;;Set 7;1;0
 Parma;Roman;;Set 1;1;1
 Patronato Papale;Italian;;Set 9;1;0
-Pestilentis Sideris;Carthaginian;;Set 8;1;0
+Pestilentis Sideris;Carthaginian;Special;Set 8;1;0
 Peter I the Great;Russian;Warrior;Set 4;1;1
 Petra tou Londinou;Trojan;;Set 7;1;0
 Petrini Maza;Greek;;Set 7;1;0
@@ -902,8 +902,8 @@ Spanish Mercenaries;Carthaginian;Special;Set 8;1;0
 Spara;Persian;Armor;Set 4;1;1
 Spartacus of Thrace;Roman;;Promo;1;1
 Spartacus;Roman;;Set 1;1;1
-Spartan Bow;Carthaginian;;Set 8;1;0
-Spartan Greaves;Carthaginian;;Set 8;1;0
+Spartan Bow;Carthaginian;Weapon;Set 8;1;0
+Spartan Greaves;Carthaginian;Armor;Set 8;1;0
 Spartan Lakonian;Greek;;Set 1;1;1
 Spartiatiko Polemiko Kranos;Greek;;Set 7;1;0
 Spatha;Roman;;Set 1;1;1
@@ -940,7 +940,7 @@ Tall Tales;American Frontiersmen;;Set 7;1;0
 Talwar;East Indian;;Set 10;1;0 // have okay printed version
 Tane Mahuta;Maori;;Set 4;1;1
 Tangaroa;Maori;;Set 4;1;1
-Tanit;Carthaginian;;Set 8;1;0
+Tanit;Carthaginian;Inspiration;Set 8;1;0
 Tao Yuan San Jie Yi;Chinese;;Set 2;1;1
 Tapered Leather Shield;Egyptian;;Set 10;1;0
 Tapu;Maori;;Set 4;1;1
@@ -1058,7 +1058,7 @@ Wophiye Wakhan;Native American;;Set 3;1;1
 Wu Hu;Chinese;;Set 6;1;0
 Wuihwa Seom-e Baesin;Korean;;Set 9;1;0
 Xanadu;Mongol;Inspiration;Set 2;1;1
-Xanthippus;Carthaginian;;Set 8;1;0
+Xanthippus;Carthaginian;Warrior;Set 8;1;0
 Xerxes I;Persian;;Promo;1;0
 Xifos;Greek;;Set 7;1;0
 Xipe Totec;Aztec;;Promo;1;0 // Have badly printed version

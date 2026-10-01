@@ -14,7 +14,9 @@ Chant of Revenge;Ready Spell;Ceremonial;Master Set;3
 Close Combat;Action Spell;Natural;Master Set;3
 Coal Roarkwin;Phoenixborn;;Master Set;1
 Cover;Reaction Spell;Natural;Master Set;3
+Crystal Shield;Alteration;Natural;The Frostdale Giants;3
 Cut the Strings;Ready Spell;Ceremonial;Master Set;3
+Deep Freeze;Alteration;Natural;The Frostdale Giants;3
 Empower;Ready Spell;Natural/Sympathy;Master Set;3
 Enchanted Violinist;Ally;Charm;Master Set;3
 Expand Energy;Action;Basic;Master Set;3
@@ -22,11 +24,19 @@ Fade Away;Alteration;Illusion;Master Set;3
 False Demon;Conjuration;;Master Set;2
 Fear;Action Spell;Basic/Jessa Na Ni;Master Set;3
 Final Cry;Reaction Spell;Ceremonial;Master Set;3
+Freezing Blast;Action;Natural;The Frostdale Giants;3
+Frost Bite;Ready;Natural;The Frostdale Giants;3
+Frost Fang;Ally;Natural;The Frostdale Giants;3
+Frostback Bear;Conjuration;;The Frostdale Giants;2
+Frozen Crown;Alteration;Natural;The Frostdale Giants;3
 Gilder;Conjuration;;Master Set;2
 Golden Veil;Reaction;Charm;Master Set;3;Chained
 Hammer Knight;Ally;Ceremonial/Nature;Master Set;3
 Hidden Power;Action;Illusion;Master Set;3
 Hypnotize;Ready;Charm;Master Set;3;Chained
+Ice Buff;Conjuration;Rin Northfell;The Frostdale Giants;5
+Ice Golem;Conjuration;;The Frostdale Giants;3
+Ice Trap;Reaction;Natural;The Frostdale Giants;3
 Iron Rhino;Conjuration;;Master Set;1
 Iron Worker;Ally;Basic;Master Set;3
 Jessa Na Ni;Phoenixborn;;Master Set;1
@@ -46,6 +56,8 @@ Redirect;Reaction;Charm;Master Set;3
 Reflections in the Water;Alteration;Illusion/Time;Master Set;3
 Refresh;Action;Charm;Master Set;3
 Resummon;Ready;Ceremonial/Illusion;Master Set;3
+Rin Northfell;Phoenixborn;;The Frostdale Giants;1
+Rin's Fury;Reaction;Rin Northfell;The Frostdale Giants;3
 Root Armor;Alteration;Natural;Master Set;3
 Rose Fire Dancer;Ally;Illusion;Master Set;3
 Saria Guideman;Phoenixborn;Charm;Master Set;1
@@ -65,7 +77,9 @@ Summon Blood Puppet;Ready;Ceremonial;Master Set;3
 Summon Blue Jaguar;Ready;Aradel Summergaard;Master Set;3
 Summon Butterfly Monk;Ready;Natural;Master Set;3
 Summon False Demon;Ready;Illusion;Master Set;3
+Summon Frostback Bear;Ready;Natural;The Frostdale Giants;3
 Summon Glider;Ready;Charm/Natural;Master Set;3
+Summon Ice Golem;Ready;Natural;The Frostdale Giants;3
 Summon Iron Rhino;Ready;Natural;Master Set;3
 Summon Masked Wolf;Ready;Illusion/Noah Redmoon;Master Set;3
 Summon Mist Spirit;Ready;Illusion;Master Set;3
@@ -77,17 +91,9 @@ Sympathy Pain;Reaction;Charm/Sympathy;Master Set;3
 Three-Eyed Owl;Conjuration;;Master Set;2
 Transfer;Action;Charm;Master Set;3
 Undying Heart;Alteration;Charm;Master Set;3
-Crystal Shield;Alteration;Natural;The Frostdale Giants;3
-Deep Freeze;Alteration;Natural;The Frostdale Giants;3
-Freezing Blast;Action;Natural;The Frostdale Giants;3
-Frostback Bear;Conjuration;;The Frostdale Giants;2
-Frost Bite;Ready;Natural;The Frostdale Giants;3
-Frost Fang;Ally;Natural;The Frostdale Giants;3
-Frozen Crown;Alteration;Natural;The Frostdale Giants;3
-Ice Buff;Conjuration;Rin Northfell;The Frostdale Giants;5
-Ice Golem;Conjuration;;The Frostdale Giants;3
-Ice Trap;Reaction;Natural;The Frostdale Giants;3
-Rin Northfell;Phoenixborn;;The Frostdale Giants;1
-Rin's Fury;Reaction;Rin Northfell;The Frostdale Giants;3
-Summon Frostback Bear;Ready;Natural;The Frostdale Giants;3
-Summon Ice Golem;Ready;Natural;The Frostdale Giants;3
+Blackcloud Ninja;Ally;Brennen Blackcloud;The Children of Blackcloud;3
+Blood Chains;Action;Ceremonial;The Children of Blackcloud;3
+Brennen Blackcloud;Phoenixborn;Ceremonial;The Children of Blackcloud;1
+Chant of Worship;Ready;Ceremonial;The Children of Blackcloud;3
+Choke;Choke;Ceremonial;The Children of Blackcloud;3
+Crimson Bomber;Ally;Ceremonial;The Children of Blackcloud;3
