@@ -7,6 +7,7 @@
 "Head First!";Treachery;Hammerhead Underling;;Fear No Evil;2
 "I Can Do This All Day";Event;Protection;Defense;Civil War;3
 "It's Alive!";Treachery;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
+"Lost" Child;Attachment;Jubilee Nemesis;Armor;Jubilee Hero Pack;2
 "Now I'm Ticked Off!";Upgrade;Hero (Jessica Jones);Condition;Jessica Jones Hero Pack;1
 "Off With His Head!";Treachery;Crazy Gang Encounter Set;;Nightcrawler Hero Pack;1
 "Protect.";Obligation;Purple Man Underling;;Fear No Evil;1
@@ -79,6 +80,8 @@ Apocalypse (III/IV);Villain;Apocalypse Villain;Mutant;NeXt Evolution;1
 Appeal to Athena;Obligation;Hero Obligation (Hercules);Hercules Hero Pack;1
 Apprehending Rogue Agents;Main Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
 Arc Reactor;Attachment;Iron Man Villain;Armor/Tech;Civil War;1
+Arcade's Funhouse;Side Scheme;Arcade Encounter Set;Trap!;Jubilee Hero Pack;1
+Arcade;Minion;Arcade Encounter Set;Assassin;Jubilee Hero Pack;1
 Ares's Axe;Attachment;Hercules Nemesis;Weapon;Hercules Hero Pack;1
 Ares;Minion;Hercules Nemesis;Elite/Olympus;Hercules Hero Pack;1
 Arm Block;Event;Hero (Winter Soldier);Attack/Defense;Winter Soldier Hero Pack;2
@@ -125,6 +128,7 @@ Batroc's Brigade;Side Scheme;Batroc's Brigade Encounter Set;;Agents of S.H.I.E.L
 Batroc;Minion;The Leaper Encounter Set;Elite/Thunderbolt;Agents of S.H.I.E.L.D.;1
 Batroc;Villain;Batroc Villain;Batroc's Brigade/Mercenary;Agents of S.H.I.E.L.D.;1
 Battle of Wits;Treachery;Baron Zemo Villain;;Agents of S.H.I.E.L.D.;2
+Battle Suit;Attachment;Jubilee Nemesis;Armor;Jubilee Hero Pack;1
 Battlefield Awareness;Upgrade;Hero (Falcon);Aerial/Skill;Falcon Hero Pack;1
 Battlefield Benevolence;Event;Justice;Tactic;Wonder Man Hero Pack;3
 Bear Hug;Attachment;Kingpin Villain;Condition;Fear No Evil;1
@@ -147,6 +151,7 @@ Black Widow (Natasha Romanoff);Ally;Hero (Winter Soldier);S.H.I.E.L.D./Spy;Winte
 Black Widow's Gauntlet;Attachment;Black Widow Villain;Tech/Weapon;Agents of S.H.I.E.L.D.;2
 Black Widow;Minion;Pale Little Spider Encounter Set;Elite/Thunderbolt;Agents of S.H.I.E.L.D.;1
 Blasters;Attachment;Supersonic Encounter Set;Tech/Weapon;Agents of S.H.I.E.L.D.;1
+Blinding Flash;Event;Hero (Jubilee);Superpower;Jubilee Hero Pack;1
 Blindspot (Sam Chung);Ally;Justice;Genius/Martial Artist;Fear No Evil;1
 Bling! (Roxanne Washington);Linked (Ally);Basic;New/X-Men;Magneto Hero Pack;1
 Blizzard;Minion;Whiteout Encounter Set;Elite/Thunderbolt;Winter Soldier Hero Pack;1
@@ -197,7 +202,9 @@ Caught in the Crossfire;Upgrade;Aggression;Tactic;Wonder Man Hero Pack;3
 Celestial Armor;Attachment;Celestial Tech Encounter Set;Armor/Celestial;NeXt Evolution;1
 Celestial Tech;Treachery;Celestial Tech Encounter Set;;NeXt Evolution;2
 Celestial Weapon;Attachment;Celestial Tech Encounter Set;Weapon/Celestial;NeXt Evolution;1
+Cell Phone;Upgrade;Basic;Item;Jubilee Hero Pack;3
 Chain Lightning;Treachery;Electro Underling;;Fear No Evil;2
+Chamber (Jono Starsmore);Ally;Justice;Psionic/X-Men;Jubilee Hero Pack;1
 Chameleon;Minion;Hammerhead Underling;Criminal/Maggia;Fear No Evil;1
 Chance Encounter;Upgrade;Justice;Condition;Fear No Evil;3
 Change Of Fortune;Upgrade;Protection;;Nightcrawler Hero Pack;3
@@ -302,6 +309,7 @@ Dirty Trick;Treachery;God of Lies Villain;;Trickster Takeover;1
 Disarming Defense;Event;Protection;Defense;Wonder Man Hero Pack;3
 Disavowed;Side Scheme;S.H.I.E.L.D. Encounter Set;;Agents of S.H.I.E.L.D.;1
 Discovered;Obligation;Hero Obligation (Nick Fury);Agents of S.H.I.E.L.D.;1
+Disguise;Upgrade;Justice;Item;Jubilee Hero Pack;3
 Disturbed Psyche;Environment;Typhoid Mary Underling;;Fear No Evil;1
 Divided Loyalties;Side Scheme;Baron Zemo Villain;;Agents of S.H.I.E.L.D.;1
 Doc Samson;Minion;The Initiative Encounter Set;Avenger/Gamma;Civil War;1
@@ -324,6 +332,7 @@ Echo (Maya Lopez);Ally;Protection;Defender/Martial Artist;Jessica Jones Hero Pac
 Echo // Maya Lopez;Hero;Hero (Echo);Civilian/Defender/Martial Artist;Fear No Evil;1
 Echo's Katana;Upgrade;Hero (Echo);Weapon;Fear No Evil;1
 Eidetic Memory;Upgrade;Hero (Silk);Superpower;Silk Hero Pack;1
+Elaborate Trap;Treachery;Arcade Encounter Set;;Jubilee Hero Pack;1
 Electric Charge;Attachment;Electro Underling;Condition;Fear No Evil;1
 Electrical Discharge;Event;Hero (Winter Soldier);Attack;Winter Soldier Hero Pack;2
 Electro (I);Villain;Electro Underling;Criminal/Underling;Fear No Evil;1
@@ -386,10 +395,12 @@ Fenris Wolf;Minion;God of Lies Villain;Creature/Elite;Trickster Takeover;1
 Fighting Zemo;Main Scheme;Baron Zemo Villain;;Agents of S.H.I.E.L.D.;1
 Finesse;Attachment;Spider-Woman Villain;Superpower;Civil War;1
 Firebird (Bonita Juarez);Ally;Justice;Aerial/Avenger;Wonder Man Hero Pack;1
+Firecracer;Event;Hero (Jubilee);Attack/Superpower;Jubilee Hero Pack;3
 Firefighter;Minion;Purple Man Underling;Civilian/Influenced;Fear No Evil;2
 Firepower;Event;Aggression;Attack;Winter Soldier Hero Pack;3
 Fist of Khonshu;Treachery;Moon Knight Encounter Set;;Synthezoid Smackdown;1
 Fixer;Minion;Techno Encounter Set;Elite/Genius/Thunderbolt;Falcon Hero Pack;1
+Flash of Light;Event;Hero (Jubilee);Superpower/Thwart;Jubilee Hero Pack;3
 Flight Serum;Attachment;The Owl Encounter Set;Superpower;Fear No Evil;2
 Flight Squadron;Support;Leadership;Team;Falcon Hero Pack;3
 Flying Upgrade;Environment;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;1
@@ -409,6 +420,7 @@ Gamma Slam;Treachery;She-Hulk Villain;;Synthezoid Smackdown;1
 Gauntlet;Minion;Dark Riders Encounter Set;Dark Riders;NeXt Evolution;1
 Gauntlets of Hercules;Upgrade;Hero (Hercules);Armor/Olympus;Hercules Hero Pack;1
 Gene Pool;Side Scheme;Infinites Encounter Set;;NeXt Evolution;1
+Generation X;Player Side Scheme;Justice;;Jubilee Hero Pack;1
 Genetic Enhancement;Attachment;Dark Beast Villain;Condition;NeXt Evolution;1
 Genetic Experiments;Attachment;Unus Villain;Condition;NeXt Evolution;2
 Genius;Resource;Basic;;Many;10
@@ -429,6 +441,7 @@ Golden Horse;Attachment;Four Horsemen Villain;Item/Tech;NeXt Evolution;3
 Golden Mace;Upgrade;Hero (Hercules);Olympus/Weapon;Hercules Hero Pack;1
 Goliath;Minion;New Avengers Encounter Set;Avenger/Giant;Civil War;1
 Government Contracts;Side Scheme;Paladin Encounter Set;;Civil War;1
+Grand Finale;Event;Hero (Jubilee);Attack/Superpower;Jubilee Hero Pack;1
 Grant Ward;Ally;Basic;S.H.I.E.L.D./Spy;Agents of S.H.I.E.L.D.;1
 Grapnel Launcher;Upgrade;Justice;Item;Jessica Jones Hero Pack;3
 Grappling Hook;Attachment;Black Widow Villain;Item;Agents of S.H.I.E.L.D.;1
@@ -436,10 +449,12 @@ Gravitational Pull;Treachery;Gravitational Pull Encounter Set;;Agents of S.H.I.E
 Grendell;Minion;God of Lies Villain;Brute/Dark Elf;Trickster Takeover;1
 Grim Reaper;Minion;Wonder Man Nemesis;Cyborg;Wonder Man Hero Pack;1
 Ground Stomp;Treachery;She-Hulk Villain;;Synthezoid Smackdown;2
+Grounded;Obligation;Hero Obligation (Jubilee);;Jubilee Hero Pack;1
 Grow Invulnerable;Side Scheme;Growing Strong Encounter Set;;Silk Hero Pack;1
 Growing Strong;Treachery;Growing Strong Encounter Set;;Silk Hero Pack;2
 Gunboat Diplomacy;Event;Justice;Attack/Thwart;Nightcrawler Hero Pack;3
 Hail of Blades;Trachery;Typhoid Mary Underling;;Fear No Evil;2
+Hall of Mirrors;Side Scheme;Arcade Encounter Set;Trap!;Jubilee Hero Pack;1
 Hammerhead (I);Villain;Hammerhead Underling;Criminal/Maggia/Underling;Fear No Evil;1
 Hammerhead (II);Villain;Hammerhead Underling;Criminal/Maggia/Underling;Fear No Evil;1
 Hammerhead (III);Villain;Hammerhead Underling;Criminal/Maggia/Underling;Fear No Evil;1
@@ -495,6 +510,7 @@ Hunted;Obligation;Dystopian Nightmare Encounter Set;;NeXt Evolution;2
 Hunted;Upgrade;Hero (Tigra);Condition;Civil War;3
 Hunting Gene Traitors;Main Scheme;Unus Villain;;NeXt Evolution;1
 Hunting The Spider-Bride;Treachery;Silk Nemesis;;Silk Hero Pack;3
+Husk (Paige Guthrie);Ally;Justice;X-Men;Jubilee Hero Pack;1
 Hydra Hit Squad;Side Scheme;Winter Soldier Nemesis;;Winter Soldier Hero Pack;1
 Hydra Mercenary;Minion;Winter Soldier Nemesis;Hydra;Winter Soldier Hero Pack;2
 Imitation Shape;Upgrade;Hero (Hulkling);Shapeshift;Civil War;1
@@ -559,6 +575,9 @@ Jigsaw;Minion;Tigra Nemesis;Criminal;Civil War;1
 Jolt;Minion;Thunderbolts Villain;Thunderbolt;Agents of S.H.I.E.L.D.;1
 Joys of Life;Event;Basic;;Jessica Jones Hero Pack;3
 Joystick;Minion;Extreme Risk Encounter Set;Elite/Thunderbolt;Black Panther Hero Pack;1
+Jubilee // Jubilation Lee;Hero;Hero (Jubilee);X-Men/Mutant;Jubilee Hero Pack;1
+Jubilee's Coat;Upgrade;Hero (Jubilee);Item;Jubilee Hero Pack;1
+Jubilee's Sunglasses;Upgrade;Hero (Jubilee);Item;Jubilee Hero Pack;1
 Judge, Jury, Executioner;Side Scheme;Kree Fanatic Encounter Set;;Ronan Modular Set;1
 Judge;Minion;Purple Man Underling;Civilian/Influenced;Fear No Evil;1
 Just Passing Through;Side Scheme;Vision Villain;;Synthezoid Smackdown;1
@@ -674,13 +693,17 @@ Mountain of Muscle;Attachment;Kingpin Villain;Condition;Fear No Evil;1
 Mounting Resistance;Environment;God of Lies Villain;Synergy;Trickster Takeover;1
 Move in Shadow;Upgrade;Justice;Skill;Fear No Evil;3
 Mr. Hollywood;Upgrade;Hero (Wonder Man);Title;Wonder Man Hero Pack;1
+Multitalented;Event;Basic;Attack/Thwart;Jubilee Hero Pack;3
 Muscle Memory;Upgrade;Hero (Echo);Skill;Fear No Evil;1
+Mutant Mayhem;Event;Leadership;;Jubilee Hero Pack;3
 Mysterio;Minion;The Raft Breakout Villain;Criminal/Elite/Prisoner;Fear No Evil;1
 Mystic Incursion;Environment;Disasters Encounter Set;Disaster;Fear No Evil;1
 Nabbed!;Treachery;A.I.M. Abduction Encounter Set;;Agents of S.H.I.E.L.D.;2
 Namor;Minion;Namor Encounter Set;Atlantis/Elite;Civil War;1
 Namora (Aquaria Neptunia);Ally;Leadership;Agent of Atlas/Atlantis;Hercules Hero Pack;1
+Nanny;Minion;Jubilee Nemesis;Mutant;Jubilee Hero Pack;1
 Nanobots;Attachment;M.O.D.O.K. Villain;Tech;Agents of S.H.I.E.L.D.;1
+Naughty Children;Side Scheme;Jubilee Nemesis;;Jubilee Hero Pack;1
 Neighborhood Hero;Side Scheme;Spider-Man Encounter Set;;Civil War;1
 Nelson and Murdock;Support;Hero (Daredevil);Location;Fear No Evil;1
 Nemean Lion Skin;Upgrade;Hero (Hercules);Artifact/Gift;Hercules Hero Pack;1
@@ -734,6 +757,7 @@ Photographic Reflexes;Event;Hero (Echo);;Fear No Evil;6
 Photonic Blast;Treachery;Captain Marvel Villain;;Civil War;2
 Piercing it All Together;Player Side Scheme;Hero (Jessica Jones);;Jessica Jones Hero Pack;1
 Plague and Pestilence;Side Scheme;Four Horsemen Villain;;NeXt Evolution;1
+Plasmoid Energy;Resource;Hero (Jubilee);;Jubilee Hero Pack;3
 Playing For Keeps;Side Scheme;Extreme Risk Encounter Set;;Black Panther Hero Pack;1
 Plugged In;Side Scheme;En Sabah Nur Villain;Superpower;NeXt Evolution;1
 Police Cordon;Side Scheme;Cops Encounter Set;;Fear No Evil;1
@@ -869,6 +893,7 @@ Sensory Overload;Obligation;Hero Obligation (Daredevil);;Fear No Evil;1
 Sentry (Robert Reynolds);Ally;Justice;Aerial/Avenger;Wonder Man Hero Pack;1
 Serpent Soldier;Minion;Falcon Nemesis;Serpent Society;Falcon Hero Pack;2
 Serpent Solutions;Side Scheme;Falcon Nemesis;;Falcon Hero Pack;1
+Serve and Protect;Event;Protection;;Jubilee Hero Pack;3
 Shakedown;Upgrade;Aggression;Tactic;Jessica Jones Hero Pack;3
 Shang-Chi;Minion;Heroes for Hire Encounter Set;Hero for Hire;Civil War;1
 Shapeshifter Strike;Event;Hero (Hulkling);Attack/Superpower;Civil War;3
@@ -884,6 +909,7 @@ Shield of Perseus;Upgrade;Hero (Hercules);Artifact/Gift;Hercules Hero Pack;1
 Shield Toss;Treachery;Captain America Villain;;Civil War;2
 Shocking Revelation;Treachery;Electro Underling;;Fear No Evil;2
 Shop Proprietor;Ally;Protection Racket Villain;Civilian;Fear No Evil;1
+Shopping Spree;Player Side Scheme;Hero (Jubilee);;Jubilee Hero Pack;1
 Show Of Empathy;Player Side Scheme;Justice;;Black Panther Hero Pack;1
 Sidewinder;Luke Cage Nemesis;Serpent Society;Luke Cage Hero Pack;1
 Signature Sunglasses;Upgrade;Hero (Wonder Man);Item;Wonder Man Hero Pack;1
@@ -1001,6 +1027,7 @@ Switching Sides;Treachery;Secret Avengers Encounter Set;;Civil War;1
 Swoop Down;Treachery;The Owl Encounter Set;;Fear No Evil;1
 Sword of Peleus;Upgrade;Hero (Hercules);Artifact/Gift/Weapon;Hercules Hero Pack;1
 Swordsman (Jacques Duquesne);Ally;Basic;Avenger;Wonder Man Hero Pack;1
+Synch (Everett Thomas);Ally;Basic;X-Men;Jubilee Hero Pack;1
 T'Challa's Shadow;Obligation;Hero Obligation (Black Panther (Shuri));;Black Panther Hero Pack;1
 T'Challa;Ally;Hero (Black Panther (Shuri));Genius/Wakanda;Black Panther Hero Pack;1
 Tackle;Event;Protection;Attack;Civil War;3
@@ -1057,6 +1084,7 @@ The Night Nurse;Support;Protection;Persona;Civil War;1
 The Owl;Minion;The Owl Encounter Set;Aerial/Criminal;Fear No Evil;1
 The Pericles;Support;Protection;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
 The Power of Flight;Resource;Basic;;Falcon Hero Pack;3
+The Power of Justice;Resource;Justice;;Jubilee Hero Pack;2
 The Power of Leadership;Resource;Leadership;;Luke Cage Hero Pack;2
 The Power Of Protection;Resource;Protection;;Nightcrawler Hero Pack;2
 The Raft Breakout;Main Scheme;The Raft Breakout Villain;;Fear No Evil;1
@@ -1074,6 +1102,7 @@ The Triskelion;Support;Leadership;Location/S.H.I.E.L.D.;Falcon Hero Pack;1
 The Tyrant's Throne // No Longer Worthy;Side Scheme/Attachment;Apocalypse Villain;Condition;NeXt Evolution;1
 The Widow's Web;Main Scheme;Black Widow Villain;;Agents of S.H.I.E.L.D.;1
 Thor (Odinson);Ally;Leadership;Asgard/Avenger;Hercules Hero Pack;1
+Three Steps Ahead;Event;Justice;Thwart;Jubilee Hero Pack;3
 Tigra // Greer Nelson;Hero;Hero (Tigra);Police/Avenger;Civil War;1
 Time-Travel Shenanigans;Side Scheme;Dark Beast Villain;;NeXt Evolution;2
 Titania (Mary MacPherran);Ally;Trickster Magic Encounter Set;Defiant;Trickster Takeover;1
@@ -1109,6 +1138,7 @@ Undermine Support;Side Scheme;Baron Zemo Villain;;Agents of S.H.I.E.L.D.;1
 Unerring Desire;Treachery;Bullseye Underling;;Fear No Evil;2
 Unified Front;Environment;God of Lies Villain;Synergy;Trickster Takeover;1
 Unified Strike;Event;Leadership;Tactic;Wonder Man Hero Pack;3
+Unlikely Duo;Event;Basic;Attack;Jubilee Hero Pack;2
 Unregistered Super;Obligation;Cape-Killer Encounter Set/Heroes for Hire Encounter Set;;Civil War;2
 Unrelenting Hate;Treachery;Kingpin Villain;;Fear No Evil;3
 Unus (I);Villain;Unus Villain;Prelate;NeXt Evolution;1
@@ -1141,6 +1171,8 @@ War-Weary;Treachery;Dystopian Nightmare Encounter Set;;NeXt Evolution;2
 War;Villain;Four Horsemen Villain;Horsemen;NeXt Evolution;1
 Warstar;Minion;Blue Moon Encounter Set;Imperial Guard;NeXt Evolution;1
 Wasp;Minion;Mighty Avengers Encounter Set;Aerial/Avenger;Civil War;1
+Waylay;Event;Justice;Attack;Jubilee Hero Pack;3
+Welcome to Murderworld;Side Scheme;Arcade Encounter Set;Trap!;Jubilee Hero Pack;1
 Whiplash;Minion;Electro Underling;Criminal;Fear No Evil;1
 Whirlwind (David Cannon);Ally;Trickster Magic Encounter Set;Defiant;Trickster Takeover;1
 Whirlwind;Minion;Trickster Magic Encounter Set;Elite/Enthralled;Trickster Takeover;1
@@ -1161,6 +1193,7 @@ Winter Soldier // Bucky Barnes;Hero;Hero (Winter Soldier);S.H.I.E.L.D./Soldier;W
 Winter, Widow, Soldier, Spy;Event;Basic;Attack;Winter Soldier Hero Pack;2
 Wisdom of Athena;Event;Hero (Hercules);Thwart;Hercules Hero Pack;2
 Wolf Among Sheep;Treachery;Apocalypse Villain;;NeXt Evolution;3
+Wolverine (Logan);Ally;Hero;Hero (Jubilee);X-Men;Jubilee Hero Pack;1
 Won't Stay Down;Support;Leadership;Condition;Magneto Hero Pack;3
 Wonder Fans;Support;Hero (Wonder Man);Civilian;Wonder Man Hero Pack;1
 Wonder Man // Simon Williams;Hero;Hero (Wonder Man);Aerial/Avenger/Civilian;Wonder Man Hero Pack;1
@@ -1168,6 +1201,7 @@ Work-Life Balance;Obligation;Hero Obligation (Jessica Jones);;Jessica Jones Hero
 Worlds Collide;Main Scheme;God of Lies Villain;;Trickster Takeover;1
 Wrapped in Chains;Attachment;God of Lies Villain;Condition;Trickster Takeover;1
 Wrapped In Metal;Upgrade;Hero (Magneto);Magnetic;Magneto Hero Pack;2
+X-Gene;Upgrade;Basic;;Jubilee Hero Pack;3
 Yellow Jacket (Hank Pym);Ally;Basic;Avenger;Civil War;1
 Yellow Jacket;Minion;Mighty Avengers Encounter Set;Avenger;Civil War;1
 You're Coming With Me!;Treachery;Hulkling Nemesis;;Civil War;2
