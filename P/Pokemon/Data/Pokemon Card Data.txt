@@ -1421,6 +1421,7 @@ Zweilous;Pokemon;Darkness;110;;Double Hit|Pitch-Black Fangs;WHT 66 (Common)/WHT 
 # SVP Black Star Promos (SVP)
 Sprigatito ex;Pokemon;Grass;200;;Scratch|Magical Leaf;SVP 87 (Promo)/ASC 251 (Ultra Rare);H;4;0
 Pikachu ex;Pokemon;Lightning;200;;Thunderbolt;SVP 106 (Promo)/ASC 276 (Special Illustration Rare);H;4;0
+Pecharunt;Pokemon;Darkness;80;Toxic Subjugation;Poison Chain;SVP 129 (Promo)/SVP 149 (Promo);H;4;0
 
 # Scarlet & Violet (SVI)
 Toedscool;Pokemon;Grass;50;;Furious Kicks;SVI 24 (Common)/SVI 201 (Illustration Rare)/PAF 4 (Common)/PAF 105 (Shiny Rare);G;4;0
@@ -1552,6 +1553,7 @@ Nest Ball;Trainer;Item;;;;Sun & Moon 123 (Uncommon)/Sun & Moon 158 (Rare Secret)
 # Temporal Forces TEF
 Cottonee;Pokemon;Grass;60;;Triple Spin;TEF 14 (Common)/PRE 7 (Common);H;4;0
 Whimsicott;Pokemon;Grass;100;Wafting Heal;Seed Bomb;TEF 15 (Rare)/PRE 8 (Rare);H;4;0
+Rellor;Pokemon;Grass;50;;Slight Intrusion;TEF 23 (Common);H;4;0
 Rabsca;Pokemon;Grass;70;Spherical Shield;Psychic;TEF 24 (Uncommon);H;4;1
 Iron Leaves ex;Pokemon;Grass;220;Rapid Vernier;Prism Edge;TEF 25 (Double Rare)/TEF 186 (Ultra Rare)/TEF 203 (Special Illustration Rare)/TEF 213 (Hyper Rare)/SVP 128 (Promo)/PRE 176 (Hyper Rare);H;4;0
 Turtonator;Pokemon;Fire;120;;Spit-Out Shot|Steam Artillery;TEF 35 (Common);H;4;1
@@ -1834,8 +1836,18 @@ Zeraora;Pokemon;Lightning;110;;Rapid Draw|Electrobullet;30C 57 (Common)/MEP 103 
 Toxel;Pokemon;Lightning;70;;Ram;30C 58 (Common);J;4;0
 Toxtricity;Pokemon;Lightning;130;;Mach Bolt;30C 59 (Common);J;4;0
 Toxtricity;Pokemon;Lightning;140;;Light Punch|Thunderous Bolt;30C 60 (Common)/30C 134 (Illustration Rare);J;4;0
+Morpeko;Pokemon;Lightning;70;;Select a Snack|Slap;30C 61 (Common)/30C 135 (Illustration Rare);J;4;0
+Miraidon;Pokemon;Lightning;120;;Mach Bolt|Electro Drift;30C 62 (Rare);J;4;0
+Mewtwo;Pokemon;Psychic;130;;Empower|Psydrive;30C 63 (Rare)/MEP 104 (Promo);J;4;0
+Mewtwo ex;Pokemon;Psychic;230;;Photon Bullets|Psychic Powers;30C 64 (Double Rare)/30C 151 (Special Illustration Rare)/30C 157 (Futuristic Rare);J;4;0
+Mew;Pokemon;Psychic;60;;Psychic;30C 65 (Rare)/MEP 105 (Promo);J;4;0
+Mew ex;Pokemon;Psychic;160;Memory Helix;Teleportation Burst;30C 66 (Double Rare)/30C 152 (Special Illustration Rare)/30C 158 (Futuristic Rare);J;4;0
+Marill;Pokemon;Psychic;70;;Tackle;30C 67 (Common);J;4;0
+Azumarill;Pokemon;Psychic;130;;Body Slam;30C 68 (Common);J;4;0
+Espeon;Pokemon;Psychic;110;;Miraculous Shine|Super Psy Bolt;30C 69 (Common);J;4;0
+Espeon ex;Pokemon;Psychic;260;;Solar Beatdown;30C 70 (Double Rare)/MEP 108 (Promo);J;4;0
 
 # 128 last card (not done)
-# 129-134
-# 147-150
-# 158 last complete card (not done)
+# 129-135
+# 147-152
+# 157-158 (done)
