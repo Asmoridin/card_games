@@ -1430,21 +1430,21 @@ Mirabel Madrigal - Prophecy Finder;Character;Amber;Hero/Storyborn/Madrigal;Ursul
 Mirabel Madrigal - Resourceful Daughter;Character;Sapphire;Storyborn/Hero/Madrigal;Wilds Unknown (Common);0
 Miracle Candle;Item;Amber;;Ursula's Return (Uncommon);0
 Mirage - Super Recruiter;Character;Amethyst;Storyborn/Ally;Wilds Unknown (Common);2
-# Traits done through here
 Miriam Mendelsohn - Ticket Holder;Character;Amber;Storyborn/Ally;Attack of the Vine! (Common);0
-Miss Bianca - Rescue Aid Society Agent;Character;Amber;;Into the Inklands (Common);0
-Miss Bianca - Unwavering Agent;Character;Steel;;Archazia's Island (Common);0
-Mittens - Sassy Street Cat;Character;Amber;;Archazia's Island (Rare);0
-Moana - Adventurer of Land and Sea;Character;Sapphire;;Archazia's Island (Common);0
-Moana - Born Leader;Character;Ruby;;Into the Inklands (Rare);1
-Moana - Chosen by the Ocean;Character;Ruby;;The First Chapter (Uncommon);1
+Miss Bianca - Rescue Aid Society Agent;Character;Amber;Storyborn/Hero;Into the Inklands (Common);0
+Miss Bianca - Unwavering Agent;Character;Steel;Dreamborn/Hero;Archazia's Island (Common);0
+Mittens - Sassy Street Cat;Character;Amber;Storyborn/Ally;Archazia's Island (Rare);0
+Moana - Adventurer of Land and Sea;Character;Sapphire;Storyborn/Hero/Princess;Archazia's Island (Common);0
+Moana - Born Leader;Character;Ruby;Floodborn/Hero/Princess/Captain;Into the Inklands (Rare);1
+Moana - Chosen by the Ocean;Character;Ruby;Storyborn/Hero/Princess;The First Chapter (Uncommon);1
 Moana - Curious Explorer;Character;Sapphire;Storyborn/Hero/Princess;Winterspell (Legendary);0
-Moana - Determined Explorer;Character;Amber;;Shimmering Skies (Rare);0
-Moana - Island Explorer;Character;Ruby;;Archazia's Island (Uncommon);2
-Moana - Kakamora Leader;Character;Ruby;;Azurite Sea (Rare);0
-Moana - Of Motunui;Character;Amber;;The First Chapter (Rare)/Fabled (Rare);2
-Moana - Self-Taught Sailor;Character;Ruby;;Azurite Sea (Common);0
-Moana - Undeterred Voyager;Character;Ruby;;Into the Inklands (Common)/Fabled (Common);3
+Moana - Determined Explorer;Character;Amber;Storyborn/Hero/Princess;Shimmering Skies (Rare);0
+Moana - Island Explorer;Character;Ruby;Storyborn/Hero/Princess;Archazia's Island (Uncommon);2
+Moana - Kakamora Leader;Character;Ruby;Floodborn/Hero/Princess/Pirate/Captain;Azurite Sea (Rare);0
+Moana - Of Motunui;Character;Amber;Storyborn/Hero/Princess;The First Chapter (Rare)/Fabled (Rare);2
+Moana - Self-Taught Sailor;Character;Ruby;Dreamborn/Hero/Princess/Pirate;Azurite Sea (Common);0
+Moana - Undeterred Voyager;Character;Ruby;Storyborn/Hero/Princess;Into the Inklands (Common)/Fabled (Common);3
+# Traits done through here
 Monsieur D'Arque - Despicable Proprietor;Character;Sapphire;;Archazia's Island (Common);3
 Monstro - Infamous Whale;Character;Amethyst;;Reign of Jafar (Rare);0
 Monstro - Whale of a Whale;Character;Amethyst;;Shimmering Skies (Uncommon);1
@@ -2485,27 +2485,28 @@ Zootopia - Tundratown;Location;Amber;;Winterspell (Common);0
 # Miguel Rivera - Street Musician;Character;Amber;Storyborn/Hero;Hyperia City (Rare);0
 # 23
 # Mickey Mouse - Best in Town;Character;Amber;Dreamborn/Hero;Hyperia City (Super Rare);0
-# 34-39
+# 34-54
 # Port Authority - Center Hub;Location;Amber;;Hyperia City (Uncommon);0
 # Owen Burnett - Xanatos's Assistant;Character;Amethyst;Storyborn/Ally;Hyperia City (Common);0
 # Scuttle - Directing Traffic;Character;Amethyst;Storyborn/Ally;Hyperia City (Uncommon);0
 # David Xanatos - Arcane Industrialist;Character;Amethyst;Dreamborn/Villain;Hyperia City (Common);0
 # Lexington - Fearless Flier;Character;Amethyst;Storyborn/Ally/Gargoyle;Hyperia City (Common);0
 # Merlin - Bauble Expert;Character;Amethyst;Storyborn/Mentor/Sorcerer;Hyperia City (Common);0
-# 41
+# Pepita - Watchful Alebrije;Character;Amethyst;Storyborn/Ally;Hyperia City (Uncommon);0
 # Archimedes - Has Had Enough;Character;Amethyst;Storyborn/Ally;Hyperia City (Common);0
-# 43-44
+# Tía Victoria - Disapproving Ancestor;Character;Amethyst;Storyborn/Ally;Hyperia City (Common);0
 # Dante - Enthusiastic Stray;Character;Amethyst;Storyborn/Ally;Hyperia City (Common);0
 # Mamá Coco - Visiting the Park;Character;Amethyst;Storyborn/Ally;Hyperia City (Rare);0
 # Tinker Bell - Curious Fairy;Character;Amethyst;Storyborn/Ally/Fairy;Hyperia City (Rare);0
-# 46-50
 # Madam Mim - Bauble Chaser;Character;Amethyst;Dreamborn/Villain/Sorcerer;Hyperia City (Common);0
 # Peter Pan's Shadow - Elusive Prankster;Character;Amethyst;Storyborn/Ally;Hyperia City (Uncommon);0
 # Dante - Strange and Endearing;Character;Amethyst;Storyborn/Ally;Hyperia City (Uncommon);0
 # Fox Xanatos - Charismatic Outlaw;Character;Amethyst;Storyborn/Ally;Hyperia City (Uncommon);0
 # Brooklyn - Full Throttle;Character;Amethyst;Dreamborn/Ally/Gargoyle;Hyperia City (Uncommon);0
-# 52
+# Mamá Imelda - No‐Nonsense Ancestor;Character;Amethyst;Storyborn/Mentor;Hyperia City (Rare);0
 # Merlin - Ink Drop Tinkerer;Character;Amethyst;Dreamborn/Mentor/Sorcerer;Hyperia City (Rare);0
+# Goliath - Transformed Warrior;Character;Amethyst;Dreamborn/Hero/Gargoyle;Hyperia City (Rare);0
+# Dante - Loyal Alebrije;Character;Amethyst;Storyborn/Ally;Hyperia City (Super Rare);0
 # 59
 # Madam Mim - Resourceful Trickster;Character;Amethyst;Dreamborn/Villain/Sorcerer;Hyperia City (Legendary);0
 # 62-63

@@ -4721,9 +4721,20 @@ Etsushi;Personality;Unaligned;The Truest Test (Rare);Age of Enlightenment (Lotus
 Evasion;Strategy;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Evasion;Strategy;;Evil Portents (Uncommon);War of the Seals (Onyx Edition);3;2
 Evenly Matched;Strategy;;Stronger Than Steel (Common)/Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
+Ever-Winter Copse;Holding;;Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
+Everpresent Fear;Strategy;;An Oni's Fury (Uncommon);Four Winds (Gold);3;0
+Everpresent Fear;Strategy;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
+Everpresent Fear;Strategy;;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Everyone Dies;Event;;1,000 Years of Darkness (Fixed);Legacy;1;0
 Evil Feeds Upon Itself;Event;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);1;0
 Evil Feeds Upon Itself;Event;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);1;0
 Evil Portents;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;1
+Evil Ward;Spell;;Shadowlands (Uncommon);Clan Wars (Imperial);3;0
+Excellence;Strategy;;Enemy of My Enemy (Rare);Rain of Blood (Diamond);3;0
+Excellence;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
+Excellent Armor;Item;;The Plague War (Uncommon);Destroyer War (Celestial);3;0
+Excellent Student;Strategy;;Promotional–Diamond (Promo);Rain of Blood (Diamond);3;0
+Excessive Indulgence;Strategy;;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
 Expert Archers;Follower;;Hidden City (Common);Rain of Blood (Diamond);3;0
 Expert Archers;Follower;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Expert Archers;Follower;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;3
@@ -6868,6 +6879,10 @@ Ninja Shadow-Walker • Experienced 2;Personality;Ninja;Soul of the Empire (Unco
 Ninja Spy;Personality;Ninja/Unaligned;Gold Edition (Common);Four Winds (Gold);3;0
 Ninja Spy;Personality;Ninja/Unaligned;Imperial Edition (Common)/Emerald Edition (Common)/Obsidian Edition (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;3
 Ninja Spy;Personality;Ninja/Unaligned;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
+Ninja Thief;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Ninja Thief;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Ninja Thief;Strategy;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;0
+Ninja Thief;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
 Ninube Aitso, "Doji Yeiko" • Experienced;Personality;Spider/Crane;Gates of Tengoku (Fixed);Shattered Empire;3;0
 Ninube Aitso, "Kakita Ikura" • Experienced 2;Personality;Crane/Spider;Chaos Reigns III (Fixed);Shattered Empire;1;0
 Ninube Donoran, Soul of Goju Bunoro;Personality;Spider;Shattered Empire (Fixed);Shattered Empire;3;0
@@ -8222,6 +8237,9 @@ Steal the Candle's Flame;Spell;;Twenty Festivals (Common);A Brother's Destiny (T
 Steal the Candle's Flame;Spell;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Stealing the Scrolls;Strategy;;Evil Portents (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
 Stealing the Scrolls;Strategy;;Evil Portents (Uncommon);War of the Seals (Onyx Edition);3;0
+Steel on Steel;Strategy;;Celestial Edition (Common);Destroyer War (Celestial);3;0
+Steel on Steel;Strategy;;Emperor Edition (Common)/Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
+Steel on Steel;Strategy;;Reign of Blood (Common);Rain of Blood (Diamond);3;0
 Steel Soul Dojo;Stronghold;Spider;Emperor Edition (Fixed)/Emperor Edition Demo Decks (Fixed)/Promotional–Emperor (Promo);Age of Conquest (Emperor);1;0
 Stepping between the Cracks;Strategy;;Fire & Shadow (Rare);Hidden Emperor (Jade);3;3
 Sticks and Stones;Strategy;;Seeds of Decay (Common);Age of Conquest (Emperor);3;1
@@ -9731,8 +9749,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #2390
-#2394-2395
+# Done through card #2400
 #2412
 #2415
 #2429-2430
@@ -10066,6 +10083,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #5572
 #5577
 #5581
+#5584
 #5590-5591
 #5599
 #5607
@@ -10305,7 +10323,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #7467
 #7470
 #7475-7476
-#7484
+#7483-7484
 #7487
 #7494
 #7496
