@@ -1599,6 +1599,7 @@ Maximum Belt;Trainer;Pokemon Tool;;;;TEF 154 (ACE SPEC Rare)/PRE 117 (ACE SPEC R
 Morty's Conviction;Trainer;Supporter;;;;TEF 155 (Uncommon)/TEF 201 (Ultra Rare)/TEF 211 (Special Illustration Rare);H;4;0
 Prime Catcher;Trainer;Item;;;;TEF 157 (ACE SPEC Rare)/PRE 119 (ACE SPEC Rare);H;2;0
 Rescue Board;Trainer;Pokemon Tool;;;;TEF 159 (Uncommon)/TWM 225 (Hyper Rare)/PRE 126 (Uncommon);H;4;0
+Salvatore;Trainer;Supporter;;;;TEF 160 (Uncommon)/TEF 202 (Ultra Rare)/TEF 212 (Special Illustration Rare);H;4;0
 Mist Energy;Energy;Special Energy;;;;TEF 161 (Uncommon);H;4;0
 Neo Upper Energy;Energy;Special Energy;;;;TEF 162 (ACE SPEC Rare);H;2;0
 
@@ -1662,6 +1663,7 @@ Legacy Energy;Energy;Special Energy;;;;TWM 167 (ACE SPEC Rare);H;2;0
 
 # Shrouded Fable (SFA)
 Galvantula;Pokemon;Grass;100;Compound Eyes;Shocking Web;SFA 2 (Uncommon);H;4;0
+Tapu Bulu;Pokemon;Grass;140;;Wood Hammer;SFA 6 (Rare)/SFA 65 (Illustration Rare);H;4;0
 Sneasel;Pokemon;Water;70;;Cut|Beset;SFA 13 (Common)/ASC 44 (Common);H;4;0
 Weavile;Pokemon;Water;100;;Slash|Hail Claw;SFA 14 (Uncommon)/ASC 45 (Uncommon)/ASC 228 (Illustration Rare);H;4;0
 Duskull;Pokemon;Psychic;60;;Come and Get You|Mumble;SFA 18 (Common)/SFA 68 (Illustration Rare)/PRE 35 (Common);H;4;0
@@ -1846,8 +1848,18 @@ Marill;Pokemon;Psychic;70;;Tackle;30C 67 (Common);J;4;0
 Azumarill;Pokemon;Psychic;130;;Body Slam;30C 68 (Common);J;4;0
 Espeon;Pokemon;Psychic;110;;Miraculous Shine|Super Psy Bolt;30C 69 (Common);J;4;0
 Espeon ex;Pokemon;Psychic;260;;Solar Beatdown;30C 70 (Double Rare)/MEP 108 (Promo);J;4;0
+Sylveon ex;Pokemon;Psychic;270;;Colorful Harmony;30C 71 (Double Rare)/30C 153 (Special Illustration Rare)/MEP 100 (Promo);J;4;0
+Unown;Pokemon;Psychic;80;;Mysterious Signal;30C 72 (Common);J;4;0
+Drifloon;Pokemon;Psychic;70;;Float Up;30C 73 (Common)/30C 136 (Illustration Rare);J;4;0
+Cresselia;Pokemon;Psychic;120;;Aurora Gain|Lunar Blast;30C 74 (Common);J;4;0
+Chandelure;Pokemon;Psychic;140;;Eerie Glow;30C 75 (Common)/30C 137 (Illustration Rare);J;4;0
+Xerneas;Pokemon;Psychic;120;;Geonavigation|Aurora Horns;30C 76 (Rare);J;4;0
+Comfey;Pokemon;Psychic;70;;Comforting Aroma|Magical Shot;30C 77 (Common);J;4;0
+Cosmog;Pokemon;Psychic;60;;Splash;30C 78 (Common);J;4;0
+Cosmoem;Pokemon;Psychic;100;;Stiffen;30C 79 (Common);J;4;0
+Lunala;Pokemon;Psychic;160;;Midnight Ray|Lunar Blast;30C 80 (Rare);J;4;0
 
 # 128 last card (not done)
-# 129-135
-# 147-152
+# 129-137
+# 147-153
 # 157-158 (done)
