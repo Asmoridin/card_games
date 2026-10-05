@@ -811,17 +811,17 @@ Get Lost;ASH-067-U;Event;Tactic;W/U;0
 Getaway Freighter;LAW-155-C;Space Unit;Vehicle/Transport;G;0
 Gideon Hask, Ruthless Loyalist;SOR-036-R;Ground Unit;Imperial/Trooper;U/B;3
 Gideon's Light Cruiser, Dark Troopers' Station;SHD-242-S;Space Unit;Imperial/Vehicle/Capital Ship;B;3
-# done through here
-Gifted Urchin;LOF-256-C;Ground Unit;N;3
-Give In to Your Anger;SHD-144-R;Event;R/B;3 # 1 foil
-Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
-GNK Power Droid;SEC-110-C;Ground Unit;G;3 # 1 foil
-Go for the Legs;IBH-018-S/IBH-045-S;Event;Y;0
-Go Into Hiding;LOF-262-C;Event;N;3 # 1 hyperfoil
-Gold Leader, Fastest Ship in the Fleet;JTL-054-U;Space Unit;U/W;1
-Gor, Grievous's Pet;TWI-118-L;Ground Unit;G;0
+Gifted Urchin;LOF-256-C;Ground Unit;Force/Fringe;N;3
+Give In to Your Anger;SHD-144-R;Event;Innate;R/B;3 # 1 foil
+Gladiator Star Destroyer;SOR-086-C;Space Unit;Imperial/Vehicle/Capital Ship;G/B;3
+GNK Power Droid;SEC-110-C;Ground Unit;Droid;G;3 # 1 foil
+Go for the Legs;IBH-018-S/IBH-045-S;Event;Tactic;Y;0
+Go Into Hiding;LOF-262-C;Event;Tactic;N;3 # 1 hyperfoil
+Gold Leader, Fastest Ship in the Fleet;JTL-054-U;Space Unit;Rebel/Vehicle/Transport;U/W;1
+Gor, Grievous's Pet;TWI-118-L;Ground Unit;Separatist/Creature;G;0
 Gorian Shard's Corsair, Pirate Warship;ASH-196-L;Space Unit;Underworld/Vehicle/Capital Ship;Y/B;0
-Governor Pryce, Tyrant of Lothal;SEC-011-R;Leader;R/B;1
+Governor Pryce, Tyrant of Lothal;SEC-011-R;Leader;Imperial/Official;R/B;1
+# done through here
 Governor's Shuttle;LAW-099-U;Space Unit;Imperial/Vehicle/Transport;U/B;0
 Gozanti Assault Carrier;ASH-099-U;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
 GR-75 Medium Transport;IBH-022-S/IBH-033-S/IBH-040-S;Space Unit;G/W;0
@@ -2307,6 +2307,11 @@ Child of Dathomir;HMW-129-C;Ground Unit;Night;G;0
 Emerie Karr, For Your Own Good;HMW-130-R;Ground Unit;Imperial/Clone;G;0
 Soaring Can-Cell;HMW-131-C;Ground Unit;Creature;G;0
 Tibidee Mate;HMW-132-C;Space Unit;Creature;G;0
+Wroshyr Rebel;HMW-133-C;Ground Unit;Rebel/Wookiee;G;0
+Zam Wesell, Not What She Seems;HMW-134-R;Ground Unit;Underworld/Bounty Hunter;G;0
+Arena Reek, Fixture of Ceremony;HMW-135-U;Ground Unit;Creature;G;0
+Lifetree Caravan;HMW-136-C;Ground Unit;Ewok;G;0
+V-19 Skirmisher;HMW-137-C;Space Unit;Republic/Vehicle/Fighter;G;0
 
 Wookiee Rangers;HMW-142-C;Ground Unit;Wookiee;G;0
 
