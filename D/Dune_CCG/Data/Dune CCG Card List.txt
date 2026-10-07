@@ -123,5 +123,10 @@ House Physician;Persona;;House;2;1;3;1 Intrigue;Aide/Physician;Eye of the Storm 
 House Assassin;Persona;;House;4;1;2;3 Intrigue;Aide/Assassin;Eye of the Storm (Uncommon);0
 CHOAM Delegate;Persona;;House;2;1;2;2 Arbitration;Aide/Delegate;Eye of the Storm (Common);0
 Landsraad Emissary;Persona;;House;4;2;2;3 Arbitration;Aide/Delegate;Eye of the Storm (Uncommon);0
+Dune Smuggler;Persona;House;2;1;2;2 Battle;Aide/Smuggler/Native;Eye of the Storm (Common);0
+Guard Commander;Persona;House;2;1;2;2 Battle;Aide/Officer;Eye of the Storm (Common);0
+Coriolis Storm;Event;House;X;Event/Dune;Eye of the Storm (Common);0
+Spice Blow;Event;House;X;Event/Dune;Eye of the Storm (Common);0
+Smuggler Activity;Event;House;X;Event/Dune;Eye of the Storm (Uncommon);0
 
-# Done through card 125
+# Done through card 130

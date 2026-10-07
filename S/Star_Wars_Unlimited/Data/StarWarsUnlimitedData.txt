@@ -821,17 +821,17 @@ Gold Leader, Fastest Ship in the Fleet;JTL-054-U;Space Unit;Rebel/Vehicle/Transp
 Gor, Grievous's Pet;TWI-118-L;Ground Unit;Separatist/Creature;G;0
 Gorian Shard's Corsair, Pirate Warship;ASH-196-L;Space Unit;Underworld/Vehicle/Capital Ship;Y/B;0
 Governor Pryce, Tyrant of Lothal;SEC-011-R;Leader;Imperial/Official;R/B;1
-# done through here
 Governor's Shuttle;LAW-099-U;Space Unit;Imperial/Vehicle/Transport;U/B;0
 Gozanti Assault Carrier;ASH-099-U;Space Unit;Imperial/Vehicle/Capital Ship;G/B;0
-GR-75 Medium Transport;IBH-022-S/IBH-033-S/IBH-040-S;Space Unit;G/W;0
-Graceful Purrgil;LOF-069-C;Space Unit;U;3 # 1 foil
+GR-75 Medium Transport;IBH-022-S/IBH-033-S/IBH-040-S;Space Unit;Rebel/Vehicle/Transport;G/W;0
+Graceful Purrgil;LOF-069-C;Space Unit;Creature;U;3 # 1 foil
 Grand Admiral Sloane, Holding the Empire Together;ASH-007-R;Leader;Imperial/Official;G/B;0
-Grand Admiral Thrawn, ...How Unfortunate;JTL-002-C;Leader;U/B;1 # 1 hyperspace
-Grand Admiral Thrawn, Grand Schemer;SEC-193-L;Ground Unit;Y/B;0
+Grand Admiral Thrawn, ...How Unfortunate;JTL-002-C;Leader;Imperial/Official;U/B;1 # 1 hyperspace
+Grand Admiral Thrawn, Grand Schemer;SEC-193-L;Ground Unit;Imperial/Official;Y/B;0
 Grand Admiral Thrawn, Orchestrating His Return;ASH-033-R;Ground Unit;Imperial/Official;G/R/B;0
-Grand Admiral Thrawn, Patient and Insightful;SOR-016-R;Leader;Y/B;1
+Grand Admiral Thrawn, Patient and Insightful;SOR-016-R;Leader;Imperial/Official;Y/B;1
 Grand Admiral Thrawn, Victory Is Mine;ASH-004-R;Leader;Imperial/Official;B/U;0
+# done through here
 Grand Inquisitor, Hunting the Jedi;SOR-011-R;Leader;R/B;1
 Grand Inquisitor, Stories Travel Quickly;LOF-014-C;Leader;Y/B;1
 Grand Inquisitor, You're Right to Be Afraid;LOF-132-L;Ground Unit;R/B;2
@@ -2189,7 +2189,7 @@ General Grievous, Separatist Warlord;HMW-008-C;Leader;Separatist/Official;G/B;0
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
 Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
 Darth Sidious, There is No Mercy;HMW-011-R;Leader;Force/Sith;R/B;0
-# HMW-012 missing
+Poggle the Lesser, Let the Executions Begin;HMW-012-C;Leader;Separatist/Official;R/B;0
 Cham Syndulla, Hammer of Ryloth;HMW-013-R;Leader;Twi'lek;R/W;0
 Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
 Bossk, Cruel Hunter;HMW-015-C;Leader;Underworld/Bounty Hunter;Y/B;0
@@ -2312,8 +2312,19 @@ Zam Wesell, Not What She Seems;HMW-134-R;Ground Unit;Underworld/Bounty Hunter;G;
 Arena Reek, Fixture of Ceremony;HMW-135-U;Ground Unit;Creature;G;0
 Lifetree Caravan;HMW-136-C;Ground Unit;Ewok;G;0
 V-19 Skirmisher;HMW-137-C;Space Unit;Republic/Vehicle/Fighter;G;0
-
+Commander Gree, Of the 41st Elite Corps;HMW-138-R;Ground Unit;Republic/Clone/Trooper;G;0
+Flock of Mynocks;HMW-139-C;Space Unit;Creature;G;0
+Assault Frigate;HMW-140-C;Space Unit;Rebel/Vehicle/Capital Ship;G;0
+Rex, Outserved His Purpose;HMW-141-U;Ground Unit;Fringe/Clone;G;0
 Wookiee Rangers;HMW-142-C;Ground Unit;Wookiee;G;0
+Banking Clan Warship;HMW-143-C;Space Unit;Separatist/Vehicle/Capital Ship;G;0
+Howler Pack;HMW-144-C;Ground Unit;Creature;G;0
+Origin Tree Shyyyo;HMW-145-L;Ground Unit;Creature;G;0
+Outer Rim Garrison;HMW-146-C;Ground Unit;Republic/Clone/Twi'lek/Trooper;G;0
+Beast Lair;HMW-147-R;Upgrade;Fortification;G;0
+Local Support;HMW-148-U;Upgrade;Supply;G;0
+Log Trap;HMW-149-U;Event;Trick;G;0
+Migrate;HMW-150-C;Event;Innate;G;0
 
 Ezra Bridger, What Are You Afraid Of?;HMW-158-R;Ground Unit;Force/Rebel/Spectre;R/W;0
 
