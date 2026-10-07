@@ -204,8 +204,13 @@ if __name__ == "__main__":
             TOTAL_PLAYS_GOAL += goal_plays
 
     sortable_game_totals = list(game_plays_total.items())
-    sortable_game_totals = sorted(sortable_game_totals, key=lambda x:x[1])
-    print(sortable_game_totals)
+    sortable_game_totals = sorted(sortable_game_totals, key=lambda x:(-1*x[1], x[0]))
+    total_play_file = open(os.path.join(FILE_PREFIX, "Total Plays.txt"), 'w', encoding="UTF-8")
+    for game_name, total_plays in sortable_game_totals:
+        if game_name == "New Game":
+            continue
+        total_play_file.write(f"{game_name}: {total_plays}\n")
+    total_play_file.close()
 
     # Figure out today's date progress as a percentage of the year
     from datetime import datetime
