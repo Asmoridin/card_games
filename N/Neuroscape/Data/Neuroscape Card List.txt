@@ -1,9 +1,24 @@
-Card_ID;Card_Name;Regular;Foil;Playset;Full playset;Faction;Rarity;Class;Subtype;Cost
-GEN-001;HEX, CODEMANCER;;;0;0;Hacker;QR;Character;Iconic, Hacker;4
+# Card Name;Card_ID;Faction;Rarity;Class;Subtypes;Own
+BADLANDS INFANTRY;GEN-110-C;Dustrunner;Character;Dustrunner;1
+CANYON STALKERS;GEN-099-U;Dustrunner, Animal;Character;Dustrunner, Animal;1
+COMB THE DESERT;GEN-116-C;Dustrunner;Program;Script;1
+DEATH WISH;GEN-198-R;Thrasher;Program;Environment;1
+DEEP DIVER;GEN-005-U;Hacker;Character;Hacker;1
+EXECUTIVE;GEN-066-C;Corpo;Character;Corpo;1
+HEX, CODEMANCER;GEN-001-QR;Hacker;Character;Iconic/Hacker;0
+HOT WIRE;GEN-127-U;Dustrunner;Gear;Tether;1
+MELTDOWN;GEN-247-U;Hacker, Dustrunner;U;Mainframe;Hacker, Dustrunner;1
+MOON FLOWER CACTUS;GEN-117-U;Dustrunner;Program;Script/Drug;1
+RIOT POLICE;GEN-071-C;Corpo;Character;Corpo;1
+SCAVENGER;GEN-097-C;Dustrunner;Character;Dustrunner;1
+SEER;GEN-129-C;Mystic;Character;Mystic;1
+TERMINATE;GEN-225-C;null;Program;Script;1
+THE HIEROPHANT;GEN-150-C;Mystic;Program;Script/Tarot;1
+YACHT PARTY;GEN-095-C;Corpo;Program;Environment;1
+
 GEN-002;ADMIN;;;0;0;Hacker;C;Character;Hacker;1
 GEN-003;CODER;;;0;0;Hacker;C;Character;Hacker;1
 GEN-004;Script KIDDIE;;;0;0;Hacker;U;Character;Hacker;2
-GEN-005;DEEP DIVER;;;0;0;Hacker;U;Character;Hacker;2
 GEN-006;DIGITAL SPECTRE;;;0;0;Hacker;C;Character;Hacker;2
 GEN-007;BLACK HAT;;;0;0;Hacker;U;Character;Hacker;3
 GEN-008;PHANTOM OS;;;0;0;AI, Hacker;C;Character;AI, Hacker;2
@@ -64,12 +79,10 @@ GEN-062;CODEBREAKER;;;0;0;Cybernetic;U;Gear;Cyberware;1
 GEN-063;BLACK MARKET;;;0;0;Cybernetic;U;Program;Environment;2
 GEN-064;MAX GAINZ;;;0;0;Cybernetic;C;Program;Environment;2
 GEN-065;UNPAID INTERN;;;0;0;Corpo;U;Character;Corpo;0
-GEN-066;EXECUTIVE;;;0;0;Corpo;C;Character;Corpo;1
 GEN-067;TRUSTFUND BABY;;;0;0;Corpo;C;Character;Corpo;2
 GEN-068;SEEKER DRONES;;;0;0;Corpo, Robot;C;Character;Corpo, Robot;1
 GEN-069;ARMS DEALER;;;0;0;Corpo;C;Character;Corpo;1
 GEN-070;ACPD DRONES;;;0;0;Corpo;C;Character;Corpo, Robot;3
-GEN-071;RIOT POLICE;;;0;0;Corpo;C;Character;Corpo;2
 GEN-072;BOARDROOM SHARK;;;0;0;Corpo;U;Character;Corpo;3
 GEN-073;YES MAN;;;0;0;Corpo;U;Character;Corpo;2
 GEN-074;VENTURE CAPITALIST;;;0;0;Corpo;R;Character;Corpo;4
@@ -93,11 +106,8 @@ GEN-091;A-Z GLASS;;;0;0;Corpo;C;Gear;Cyberware;2
 GEN-092;A-Z OPTICS;;;0;0;Corpo;U;Gear;Cyberware;2
 GEN-093;SNEAKERHEAD;;;0;0;Corpo;U;Gear;Cyberware;3
 GEN-094;CHRONOS MAESTRO;;;0;0;Corpo;U;Gear;Cyberware;4
-GEN-095;YACHT PARTY;;;0;0;Corpo;C;Program;Environment;3
 GEN-096;BOARDROOM;;;0;0;Corpo;U;Program;Environment;4
-GEN-097;SCAVENGER;;;0;0;Dustrunner;C;Character;Dustrunner;1
 GEN-098;CARTOGRAPHER;;;0;0;Dustrunner;C;Character;Dustrunner;1
-GEN-099;CANYON STALKERS;;;0;0;Dustrunner, Animal;U;Character;Dustrunner, Animal;1
 GEN-100;SAND SCORPION;;;0;0;Dustrunner;U;Character;Dustrunner;2
 GEN-101;SEARCHER OF THE SKY;;;0;0;Dustrunner, Mystic;U;Character;Dustrunner, Mystic;2
 GEN-102;BADLANDS SNIPER;;;0;0;Dustrunner;C;Character;Dustrunner;2
@@ -108,14 +118,11 @@ GEN-106;DUST DEVIL ELITES;;;0;0;Dustrunner;R;Character;Dustrunner, dust devil;4
 GEN-107;ECLIPSE DROPSHIP;;;0;0;Dustrunner;U;Character;Dustrunner, transport;3
 GEN-108;ASHARA, HIGH PRIESTESS;;;0;0;Dustrunner;QR;Character;Iconic, Dustrunner;4
 GEN-109;AEKANI PRIESTESS;;;0;0;Dustrunner;U;Character;Dustrunner, Mystic;3
-GEN-110;BADLANDS INFANTRY;;;0;0;Dustrunner;C;Character;Dustrunner;1
 GEN-111;DUST DEVIL INITIATE;;;0;0;Dustrunner;C;Character;Dustrunner, dust devil;2
 GEN-112;PRIEST OF MAHKAV;;;0;0;Dustrunner;U;Character;Dustrunner;3
 GEN-113;DUST TO DUST;;;0;0;Dustrunner;R;Program;Script;5
 GEN-114;SAVAGE DUSTSTORM;;;0;0;Dustrunner;R;Program;Script;3
 GEN-115;GROWING UNREST;;;0;0;Dustrunner;U;Program;Protocol, Virus;3
-GEN-116;COMB THE DESERT;;;0;0;Dustrunner;C;Program;Script;2
-GEN-117;MOON FLOWER CACTUS;;;0;0;Dustrunner;U;Program;Script, Drug;2
 GEN-118;MIRAGE;;;0;0;Dustrunner;U;Program;Script;1
 GEN-119;EMP GRENADE;;;0;0;Dustrunner;C;Program;Script;2
 GEN-120;ENHANCE;;;0;0;Dustrunner;C;Program;Script;1
@@ -125,9 +132,7 @@ GEN-123;THE AMRITA;;;0;0;Dustrunner;U;Program;Environment;3
 GEN-124;THE PULSE;;;0;0;Dustrunner;QR;Program;Environment;4
 GEN-125;SYNCHRONIZE;;;0;0;Dustrunner;U;Gear;tether;1
 GEN-126;CHAIN AMPLIFIER;;;0;0;Dustrunner;C;Gear;tether;1
-GEN-127;HOT WIRE;;;0;0;Dustrunner;U;Gear;tether;2
 GEN-128;PSYCHIC;;;0;0;Mystic;C;Character;Mystic;1
-GEN-129;SEER;;;0;0;Mystic;C;Character;Mystic;2
 GEN-130;CELESTIAL CHANNELER;;;0;0;Mystic;U;Character;Mystic;1
 GEN-131;ASTRAL PROJECTOR;;;0;0;Mystic;U;Character;Mystic;3
 GEN-132;SPIRIT GUIDE;;;0;0;Mystic;U;Character;Mystic;3
@@ -148,7 +153,6 @@ GEN-146;THE MAGICIAN;;;0;0;Mystic;U;Program;Script, tarot;1
 GEN-147;THE HIGH PRIESTESS;;;0;0;Mystic;R;Program;Script, tarot;3
 GEN-148;THE EMPRESS;;;0;0;Mystic;U;Program;Script, tarot;3
 GEN-149;THE EMPEROR;;;0;0;Mystic;U;Program;Script, tarot;3
-GEN-150;THE HIEROPHANT;;;0;0;Mystic;C;Program;Script, tarot;1
 GEN-151;THE LOVERS;;;0;0;Mystic;U;Program;Script, tarot;3
 GEN-152;THE CHARIOT;;;0;0;Mystic;R;Program;Script, tarot;2
 GEN-153;STRENGTH;;;0;0;Mystic;C;Program;Script, tarot;1
@@ -196,7 +200,6 @@ GEN-194;DEMON SHARD;;;0;0;Thrasher;R;Gear;Weapon;4
 GEN-195;BRAINSHREDDER;;;0;0;Thrasher;R;Gear;Cyberware;3
 GEN-196;OVERDRIVER;;;0;0;Thrasher;U;Gear;Cyberware;2
 GEN-197;WHAMMY BAR;;;0;0;Thrasher;U;Gear;Weapon;1
-GEN-198;DEATH WISH;;;0;0;Thrasher;R;Program;Environment;4
 GEN-199;MOSH PIT;;;0;0;Thrasher;U;Program;Environment;2
 GEN-200;NANOBOT SWARM;;;0;0;nanobot;C;Character;nanobot;2
 GEN-201;NANOBOT HARVESTER;;;0;0;nanobot;C;Character;nanobot;1
@@ -223,7 +226,6 @@ GEN-221;SHORT CIRCUIT;;;0;0;null;C;Program;Script;1
 GEN-222;DÉJA VU;;;0;0;null;QR;Program;Script;6
 GEN-223;NEURAL DISRUPTOR;;;0;0;null;R;Gear;Cyberware;3
 GEN-224;ANTIVirus;;;0;0;null;C;Program;Script;1
-GEN-225;TERMINATE;;;0;0;null;C;Program;Script;2
 GEN-226;DELETE;;;0;0;null;C;Program;Script;4
 GEN-227;SOLAR FLARE;;;0;0;null;R;Program;Script;6
 GEN-228;GARBAGE DAY;;;0;0;null;U;Program;Script;3
@@ -245,7 +247,6 @@ GEN-243;RADIANT;;;0;0;Mystic;U;Mainframe;Mystic;4
 GEN-244;ECLIPSE;;;0;0;Mystic;C;Mainframe;Mystic;4
 GEN-245;HEADBANGER;;;0;0;Thrasher;C;Mainframe;Thrasher;4
 GEN-246;BERSERKER;;;0;0;Thrasher;C;Mainframe;Thrasher;4
-GEN-247;MELTDOWN;;;0;0;Hacker, Dustrunner;U;Mainframe;Hacker, Dustrunner;4
 GEN-248;NEXUS;;;0;0;Cybernetic, Corpo;U;Mainframe;Cybernetic, Corpo;4
 GEN-249;AURORA;;;0;0;Mystic, Dustrunner;U;Mainframe;Mystic, Dustrunner;4
 GEN-250;SAVAGE;;;0;0;Thrasher, Cybernetic;U;Mainframe;Thrasher, Cybernetic;4
