@@ -203,6 +203,10 @@ if __name__ == "__main__":
         if game_name != "New Game":
             TOTAL_PLAYS_GOAL += goal_plays
 
+    sortable_game_totals = list(game_plays_total.items())
+    sortable_game_totals = sorted(sortable_game_totals, key=lambda x:x[1])
+    print(sortable_game_totals)
+
     # Figure out today's date progress as a percentage of the year
     from datetime import datetime
     now = datetime.now()
