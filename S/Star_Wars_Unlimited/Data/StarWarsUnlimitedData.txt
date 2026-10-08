@@ -831,17 +831,17 @@ Grand Admiral Thrawn, Grand Schemer;SEC-193-L;Ground Unit;Imperial/Official;Y/B;
 Grand Admiral Thrawn, Orchestrating His Return;ASH-033-R;Ground Unit;Imperial/Official;G/R/B;0
 Grand Admiral Thrawn, Patient and Insightful;SOR-016-R;Leader;Imperial/Official;Y/B;1
 Grand Admiral Thrawn, Victory Is Mine;ASH-004-R;Leader;Imperial/Official;B/U;0
-# done through here
-Grand Inquisitor, Hunting the Jedi;SOR-011-R;Leader;R/B;1
-Grand Inquisitor, Stories Travel Quickly;LOF-014-C;Leader;Y/B;1
-Grand Inquisitor, You're Right to Be Afraid;LOF-132-L;Ground Unit;R/B;2
-Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;G/B;3
-Grand Moff Tarkin, Oversector Governor;SOR-007-C;Leader;G/B;1 # 1 hyperspace
-Grand Moff Tarkin, Taking Krennic's Achievement;SEC-192-R;Ground Unit;Y/B;3 # 1 hyperfoil
-Grappling Guardian;LOF-071-C;Space Unit;U;2
+Grand Inquisitor, Hunting the Jedi;SOR-011-R;Leader;Force/Imperial/Inquisitor;R/B;1
+Grand Inquisitor, Stories Travel Quickly;LOF-014-C;Leader;Force/Imperial/Inquisitor;Y/B;1
+Grand Inquisitor, You're Right to Be Afraid;LOF-132-L;Ground Unit;Force/Imperial/Inquisitor;R/B;2
+Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;Imperial/Official;G/B;3
+Grand Moff Tarkin, Oversector Governor;SOR-007-C;Leader;Imperial/Official;G/B;1 # 1 hyperspace
+Grand Moff Tarkin, Taking Krennic's Achievement;SEC-192-R;Ground Unit;Imperial/Official;Y/B;3 # 1 hyperfoil
+Grappling Guardian;LOF-071-C;Space Unit;Creature;U;2
 Grassroots Resistance;SEC-258-C/ASH-268-C;Event;Tactic;W;3 # 1 foil, 1 hyperspace
 Grav Charge;ASH-085-U;Upgrade;Condition/Item/Weapon;U;0
 Great Pit of Carkoon;LAW-023-S;Base;Tatooine;G;0
+# done through here
 Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
 Greef Karga, Affable Commissioner;SHD-245-S;Ground Unit;W;3
 Greef Karga, Gracious Magistrate;ASH-017-C;Leader;Official;Y/W;0
@@ -2213,7 +2213,7 @@ Hunter, Everyone Get to Cover!;HMW-035-L;Ground Unit;Clone;U/G/W;0
 Kelnacca, Solitary Master;HMW-036-R;Ground Unit;Force/Jedi/Wookiee;U/G;0
 Bacta Tank;HMW-037-R;Upgrade;Fortification;U/G;0
 Bestial Bond;HMW-038-U;Upgrade;Innate;U/G;0
-# HMW-039 missing
+Mother Talzin, Pledged to the Sisterhood;HMW-039-R;Ground Unit;Force/Night;R/U;0
 # HMW-040 missing
 # HMW-041 missing
 # HMW-042 missing
@@ -2325,8 +2325,18 @@ Beast Lair;HMW-147-R;Upgrade;Fortification;G;0
 Local Support;HMW-148-U;Upgrade;Supply;G;0
 Log Trap;HMW-149-U;Event;Trick;G;0
 Migrate;HMW-150-C;Event;Innate;G;0
+Overgrowth;HMW-151-C;Event;Disaster;G;0
+Babwa Venomor, Burning Kashyyyk;HMW-152-R;Ground Unit;Imperial;R/B;0
+Poacher's Starfighter;HMW-153-C;Space Unit;Underworld/Vehicle/Fighter;R/B;0
+Dooku's Solar Sailer, Droid Army Portent;HMW-154-R;Space Unit;Separatist/Vehicle/Transport;R/B;0
+Filthy Dianoga;HMW-155-C;Ground Unit;Creature;R/B;0
+Arena Acklay, Screaming Predator;HMW-156-U;Ground Unit;Creature;R/B;0
+Corpo Thugs;HMW-157-C;Ground Unit;Trooper;R/B;0
+Battle-Scarred Destroyer;HMW-158-U;Space Unit;Imperial/Vehicle/Capital Ship;R/B:0
+General Grievous, Scourge of Dathomir;HMW-159-L;Ground Unit;Separatist/Official;R/B;0
+Noxious Refinery;HMW-160-U;Upgrade;Fortification;R/B;0
 
-Ezra Bridger, What Are You Afraid Of?;HMW-158-R;Ground Unit;Force/Rebel/Spectre;R/W;0
+Ezra Bridger, What Are You Afraid Of?;HMW-168-R;Ground Unit;Force/Rebel/Spectre;R/W;0
 
 Trap Field;HMW-171-S;Upgrade;Fortification;R/W;0
 
