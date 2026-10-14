@@ -8,6 +8,7 @@
 "I Can Do This All Day";Event;Protection;Defense;Civil War;3
 "It's Alive!";Treachery;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 "Lost" Child;Attachment;Jubilee Nemesis;Armor;Jubilee Hero Pack;2
+"Now I'm Mad";Upgrade;Aggression;Condition;X-23 Hero Pack;3
 "Now I'm Ticked Off!";Upgrade;Hero (Jessica Jones);Condition;Jessica Jones Hero Pack;1
 "Off With His Head!";Treachery;Crazy Gang Encounter Set;;Nightcrawler Hero Pack;1
 "Protect.";Obligation;Purple Man Underling;;Fear No Evil;1
@@ -40,6 +41,7 @@ Across The Spider-Verse;Event;Basic;;Silk Hero Pack;1
 Active Altruism;Event;Hero (Wonder Man);Thwart;Wonder Man Hero Pack;3
 Acute Tactility;Upgrade;Sense Deck;Sense/Superpower;Fear No Evil;1
 Adam Warlock;Ally;Leadership;Aerial/Mystic;Falcon Hero Pack;1
+Adamantium Lacing;Upgrade;Hero (X-23);;X-23 Hero Pack;1
 Adamantium-Laced Spine // Damaged Spine;Attachment;Bullseye Underling;Tech;Fear No Evil;1
 Adaptoid;Minion;M.O.D.O.K. Villain;Adaptoid;Agents of S.H.I.E.L.D.;4
 Adder-tisement;Treachery;Falcon Nemesis;;Falcon Hero Pack;1
@@ -71,7 +73,9 @@ Ancient Ritual;Side Scheme;Clan Akkaba Encounter Set;;NeXt Evolution;1
 Ancient Rivalry;Event;Basic;Asgard/Olympus;Hercules Hero Pack;2
 Aneka;Ally;Basic;Dora Milaje/Wakanda;Black Panther Hero Pack;1
 Angry Acolyte;Treachery;Magneto Nemesis;;Magneto Hero Pack;1
+Animal Instinct;Event;Hero (X-23);Skill;X-23 Hero Pack;2
 Anole (Victor Borkowski);Linked (Ally);Basic;New/X-Men;Magneto Hero Pack;1
+Anticipated Attack;Event;Protection;Defense;X-23 Hero Pack;3
 Apocalypse (I);Villain;En Sabah Nur Villain;Mutant/Biomorph/Giant/Cyberpath;NeXt Evolution;1
 Apocalypse (I/II);Villain;Apocalypse Villain;Mutant;NeXt Evolution;1
 Apocalypse (II);Villain;En Sabah Nur Villain;Mutant/Biomorph/Giant/Cyberpath;NeXt Evolution;1
@@ -160,6 +164,7 @@ Blizzard;Minion;Whiteout Encounter Set;Elite/Thunderbolt;Winter Soldier Hero Pac
 Blood Debt;Obligation;Royal Guard Encounter Set;Hunted;Synthezoid Smackdown;1
 Blue Area of the Moon;Environment;Blue Moon Encounter Set;Location/Setting;NeXt Evolution;1
 Bombs Away;Event;Aggression;Aerial/Tactic;Wonder Man Hero Pack;3
+Boom Boom (Tabitha Smith);Aggression;X-Force;X-23 Hero Pack;1
 Bounty Hunting;Treachery;Heroes for Hire Encounter Set/Paladin Encounter Set;;Civil War;2
 Breaking News;Treachery;Stop the Presses! Villain;;Fear No Evil;2
 Breakthrough;Event;Hero (Jessica Jones);;Jessica Jones Hero Pack;1
@@ -223,6 +228,7 @@ Circumstantial Evidence;Upgrade;Hero (Jessica Jones);Item;Jessica Jones Hero Pac
 Citizen V's Sword;Attachment;Thunderbolts Villain;Weapon;Agents of S.H.I.E.L.D.;1
 Citizen V;Villain;Thunderbolts Villain;Thunderbolt;Agents of S.H.I.E.L.D.;1
 Clan Akkaba Zealot;Minion;Clan Akkaba Encounter Set;Clan Akkaba;NeXt Evolution;3
+Claw Mastery;Event;Hero (X-23);Skill;X-23 Hero Pack;3
 Clawed Strike;Event;Hero (Black Panther (Shuri));Attack;Black Panther Hero Pack;2
 Cloak (Tyrone Johnson);Ally;Justice;Defender;Fear No Evil;1
 Cloak and Dagger;Side Scheme;Cloak & Dagger Encounter Set;;Civil War;1
@@ -255,6 +261,8 @@ Crescent Dart;Attachment;Moon Knight Encounter Set;Weapon;Synthezoid Smackdown;2
 Criminal Underworld;Side Scheme;Tigra Nemesis;;Civil War;1
 Crisis Interdiciton;Treachery;Captain Marvel Villain;;Civil War;2
 Crisis Of Faith;Obligation;Hero Obligation (Nightcrawler);;Nightcrawler Hero Pack;1
+Critical Hit;Event;Aggression;;X-23 Hero Pack;3
+Critical Wound;Attachment;X-23 Nemesis;Condition;X-23 Hero Pack;1
 Crooked Cop;Minion;Cops Encounter Set;Criminal/Police;Fear No Evil;1
 Cross-Examination;Event;Hero (Daredevil);Attack;Fear No Evil;2
 Crossbones;Minion;Winter Soldier Nemesis;Elite/Hydra;Winter Soldier Hero Pack;1
@@ -264,6 +272,7 @@ Cruisin' for a Bruisin';Upgrade;Hero (Luke Cage);Condition;Luke Cage Hero Pack;2
 Cryokinetic Perception;Upgrade;Hero (Iceman);Superpower;Iceman Hero Pack;1
 Culling the Weak;Treachery;Infinites Encounter Set;;NeXt Evolution;2
 Cuts Both Ways;Event;Protection;Defense;Civil War;3
+Cybermods;Attachment;X-23 Nemesis;Tech;X-23 Hero Pack;1
 Cybernetic Arm;Upgrade;Hero (Winter Soldier);Item/Tech;Winter Soldier Hero Pack;1
 Cyberpathy;Attachment;Apocalypse Villain;Superpower;NeXt Evolution;1
 Cyclops (Scott Summers);Ally;Leadership;X-Men;Magneto Hero Pack;1
@@ -356,6 +365,7 @@ Enchantress (II);Villain;Enchantress Villain;Asgard/Mystic;Trickster Takeover;1
 Enchantress (III);Villain;Enchantress Villain;Asgard/Mystic;Trickster Takeover;1
 Endgame;Main Scheme;Kingpin Villain;;Fear No Evil;1
 Endless Ranks;Side Scheme;Unus Villain;;NeXt Evolution;2
+Endurance;Upgrade;Basic;Condition;X-23 Hero Pack;3
 Energy Absorption;Treachery;Captain Marvel Villain;;Civil War;2
 Energy Channel;Attachment;Captain Marvel Villain;Superpower;Civil War;1
 Energy Gatling Gun;Attachment;Hammerhead Underling;Tech;Fear No Evil;1
@@ -456,11 +466,13 @@ Grappling Hook;Attachment;Black Widow Villain;Item;Agents of S.H.I.E.L.D.;1
 Gravitational Pull;Treachery;Gravitational Pull Encounter Set;;Agents of S.H.I.E.L.D.;2
 Grendell;Minion;God of Lies Villain;Brute/Dark Elf;Trickster Takeover;1
 Grim Reaper;Minion;Wonder Man Nemesis;Cyborg;Wonder Man Hero Pack;1
+Grim Resolve;Upgrade;Hero (X-23);Condition;X-23 Hero Pack;1
 Ground Stomp;Treachery;She-Hulk Villain;;Synthezoid Smackdown;2
 Grounded;Obligation;Hero Obligation (Jubilee);;Jubilee Hero Pack;1
 Grow Invulnerable;Side Scheme;Growing Strong Encounter Set;;Silk Hero Pack;1
 Growing Strong;Treachery;Growing Strong Encounter Set;;Silk Hero Pack;2
 Gunboat Diplomacy;Event;Justice;Attack/Thwart;Nightcrawler Hero Pack;3
+Hack 'n' Slash;Treachery;X-23 Nemesis;;X-23 Hero Pack;1
 Hail of Blades;Trachery;Typhoid Mary Underling;;Fear No Evil;2
 Hall of Mirrors;Side Scheme;Arcade Encounter Set;Trap!;Jubilee Hero Pack;1
 Hammerhead (I);Villain;Hammerhead Underling;Criminal/Maggia/Underling;Fear No Evil;1
@@ -502,6 +514,7 @@ Holding Cell // Psionic Inhuman;Environment;M.O.D.O.K. Villain;Inhuman/Psionic/R
 Holding Cell // Sarah Garza;Environment;M.O.D.O.K. Villain;Inhuman/Rescued/S.H.I.E.L.D.;Agents of S.H.I.E.L.D.;1
 Holding Cell // Strong Inhuman;Environment;M.O.D.O.K. Villain;Inhuman/Rescued;Agents of S.H.I.E.L.D.;1
 Homeland Security;Side Scheme;S.H.I.E.L.D. Ops Encounter Set;;Synthezoid Smackdown;1
+Honey Badger (Gabby Kinney);Ally;Hero (X-23);X-Men;X-23 Hero Pack;1
 Horn of Proteus;Attachment;Namor Encounter Set;Item;Civil War;1
 Horseman of Death;Treachery;Four Horsemen Villain;;NeXt Evolution;1
 Horseman of Famine;Treachery;Four Horsemen Villain;;NeXt Evolution;1
@@ -534,6 +547,7 @@ Impossible Object;Attachment;Art Museum Heist Villain;Art;Fear No Evil;1
 Imprisoned;Obligation;The Raft Breakout Villain;;Fear No Evil;1
 Improvisation;Upgrade;Hero (Echo);Skill;Fear No Evil;1
 In Harm's Way;Event;Protection;Attack/Thwart;Fear No Evil;3
+In the Name of Vengeance;Side Scheme;X-23 Nemesis;;X-23 Hero Pack;1
 In Too Deep;Obligation;Hero Obligation (Tigra);;Civil War;1
 Incessant Pursuit;Attachment;Bullseye Underling;Condition;Fear No Evil;3
 Inconspicuous;Treachery;Spider-Woman Villain;;Civil War;2
@@ -560,6 +574,7 @@ Investigative Journalism;Event;Basic;Skill;Silk Hero Pack;2
 Invisibility Gear;Upgrade;Justice;Item/Tech;Black Panther Hero Pack;3
 Ionic Blast;Event;Hero (Wonder Man);Attack/Superpower;Wonder Man Hero Pack;2
 Ionic Physiology;Upgrade;Hero (Wonder Man);Superpower;Wonder Man Hero Pack;1
+IPAC;Support;Basic;Vehicle/X-Force;X-23 Hero Pack;1
 Iron Fist (Danny Rand);Ally;Leadership;Defender/Martial Artist;Luke Cage Hero Pack;1
 Iron Fist;Minion;Hell's Kitchen Encounter Set;Defender;Civil War;1
 Iron Lad (Nathaniel Richards;Ally;Basic;Avenger;Civil War;1
@@ -597,6 +612,7 @@ Just Passing Through;Side Scheme;Vision Villain;;Synthezoid Smackdown;1
 Justice Like Lightning;Treachery;Dangerous Recruits Encounter Set/Thunderbolts Encounter Set;;Civil War/Synthezoid Smackdown;2
 Justice, Like Lightning // Thunderbolt Backup;Environment;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
 Karen Page;Support;Hero (Daredevil);Persona;Fear No Evil;1
+Keep Them Busy;Player Side Scheme;Aggression;;X-23 Hero Pack;1
 Keep Up the Pressure;Player Side Scheme;Aggression;;Iceman Hero Pack;1
 Khonshu's Avatar;Side Scheme;Moon Knight Encounter Set;;Synthezoid Smackdown;1
 Kid Omega (Quentin Quire);Ally;Leadership;Psionic/X-Men;Magneto Hero Pack;1
@@ -615,6 +631,7 @@ Kurt's Chapel;Support;Hero (Nightcrawler);Location;Nightcrawler Hero Pack;1
 Kurt's Cutlasses;Upgrade;Hero (Nightcrawler);Weapon;Nightcrawler Hero Pack;1
 Kyknos;Minion;All Versus All Encounter Set;Brute/Olympus;Hercules Hero Pack;1
 Lady Bullseye;Minion;Bullseye Underling;Assassin/Hand;Fear No Evil;1
+Lady Deathstrike;Minion;X-23 Nemesis;Elite/Reaver;X-23 Hero Pack;1
 Land Out of Time;Treachery;Savage Land Encounter Set;;NeXt Evolution;1
 Laufey;Minion;God of Lies Villain;Elite/Giant;Trickster Takeover;1
 Law of Attraction;Side Scheme;Enchantress Villain;;Trickster Takeover;2
@@ -699,6 +716,7 @@ Misty Knight;Ally;Leadership;Defender/Martial Artist;Luke Cage Hero Pack;1
 Mitigated Threat;Upgrade;Protection;Condition;Jessica Jones Hero Pack;3
 Moira MacTaggert;Ally;Basic;Persona;Nightcrawler Hero Pack;1
 Molecular Control;Attachment;Apocalypse Villain;Superpower;NeXt Evolution;1
+Moment of Triumph;Event;Aggression;;X-23 Hero Pack;3
 Monica Rappaccini;Minion;Scientist Supreme Encounter Set;A.I.M./Genius;Agents of S.H.I.E.L.D.;1
 Moon Knight (Marc Spector);Ally;Hero (Tigra);Avenger;Civil War;1
 Moon Knight;Minion;Moon Knight Encounter Set;Defender/Elite;Synthezoid Smackdown;1
@@ -755,6 +773,7 @@ Out Front;Attachment;The Getaway Villain;;Fear No Evil;1
 Outwit;Upgrade;Hero (Silk);Skill;Silk Hero Pack;1
 Ozymandias;Minion;Clan Akkaba Encounter Set;Clan Akkaba/Elite;NeXt Evolution;1
 Pacifism;Obligation;Hero Obligation (Wonder Man);;Wonder Man Hero Pack;1
+Pain Tolerance;Upgrade;Hero (X-23);Superpower;X-23 Hero Pack;1
 Paladin's Pistol;Attachment;Paladin Encounter Set;Weapon;Civil War;2
 Paladin;Minion;Paladin Encounter Set;Elite/Hero for Hire;Civil War;1
 Pale Little Spider;Treachery;Pale Little Spider Encounter Set;;Agents of S.H.I.E.L.D.;2
@@ -790,6 +809,7 @@ Powered Gauntlets;Attachment;Iron Man Villain;Armor/Tech;Civil War;1
 Powerful Punch;Event;Protection;Attack/Defense;Nightcrawler Hero Pack/Fear No Evil;6
 Practiced Plan;Upgrade;Basic;Preparation;Agents of S.H.I.E.L.D.;3
 Precinct HQ;Support;Hero (Tigra);Location;Civil War;1
+Predictable Ploy;Event;Justice;;X-23 Hero Pack;3
 Prehensile Tail;Upgrade;Hero (Nightcrawler);Superpower;Nightcrawler Hero Pack;1
 Prelate Armor;Attachment;Unus Villain;Armor;NeXt Evolution;1
 Prelate Sidearm;Attachment;Unus Villain;Weapon;NeXt Evolution;1
@@ -823,6 +843,7 @@ Psychological Manipulation;Treachery;Gravitational Pull Encounter Set;;Agents of
 Psynapse;Minion;Dark Riders Encounter Set;Dark Riders;NeXt Evolution;1
 Pterosaur;Minion;Savage Land Encounter Set;Aerial/Creature;NeXt Evolution;1
 Public Support;Environment;Kingpin Villain;Low/High;Fear No Evil;1
+Puncture Wound;Upgrade;Hero (X-23);Condition;X-23 Hero Pack;2
 Puppet Master;Side Scheme;Trickster Magic Encounter Set;;Trickster Takeover;1
 Purple Man (I);Villain;Purple Man Underling;Psionic/Underling;Fear No Evil;1
 Purple Man (II);Villain;Purple Man Underling;Psionic/Underling;Fear No Evil;1
@@ -842,6 +863,7 @@ Radioactive Man;Minion;Power of the Atom Encounter Set;Elite/Thunderbolt;Agents 
 Raise the Stakes;Attachment;Bullseye Underling;Condition;Fear No Evil;1
 Raised by the Kingpin;Obligation;Hero Obligation (Echo);;Fear No Evil;1
 Raising Hell;Event;Hero (Daredevil);Attack;Fear No Evil;1
+Rally the Troops;Player Side Scheme;Leadership;;X-23 Hero Pack;1
 Rapid Response;Treachery;Martial Law Encounter Set/S.H.I.E.L.D. Ops Encounter Set;;Civil War/Synthezoid Smackdown;2
 Rapido;Minion;Batroc's Brigade Encounter Set;Batroc's Brigade/Mercenary;Agents of S.H.I.E.L.D.;1
 Ready For A Fight;Upgrade;Protection;Preparation;Silk Hero Pack;3
@@ -850,6 +872,7 @@ Recuperation;Event;Basic;;Iceman Hero Pack;3
 Red Room Programming;Obligation;Hero Obligation (Winter Soldier);;Winter Soldier Hero Pack;1
 Redemption;Linked (Upgrade);Justice;Condition;Black Panther Hero Pack;1
 Redwing;Ally;Hero (Falcon);Aerial/Avenger/Bird;Falcon Hero Pack;1
+Regenerative Longevity;Event;Hero (X-23);Superpower;X-23 Hero Pack;2
 Reinforcements;Event;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;3
 Release the Hounds;Side Scheme;Hounds Encounter Set;;NeXt Evolution;1
 Reluctant Flier;Upgrade;Hero (Jessica Jones);Aerial/Preparation;Jessica Jones Hero Pack;1
@@ -866,6 +889,7 @@ Resistance Tactics // Superhero Jailbreak;Main Scheme;Resistance;;Civil War;1
 Resource Reserve;Support;Leadership;Location;Falcon Hero Pack;3
 Reverse Engineering;Attachment;M.O.D.O.K. Villain;;Agents of S.H.I.E.L.D.;1
 Rhino;Minion;The Raft Breakout Villain;Brute/Elite/Prisoner;Fear No Evil;1
+Rictor (Julio Richter);Aggression;X-Force;X-23 Hero Pack;1
 Righteous Purpose;Support;Leadership;Maxim;Luke Cage Hero Pack;3
 Riposte;Event;Protection;Defense;Nightcrawler Hero Pack;3
 Robbie Robertson;Support;Stop the Presses! Villain;Daily Bugle/Persona;Fear No Evil;1
@@ -911,6 +935,7 @@ Security Guard;Minion;Purple Man Underling;Civilian/Influenced;Fear No Evil;1
 Seduced;Attachment;Enchantress Villain;Condition;Trickster Takeover;1
 See No Evil, Hear No Evil;Event;Basic;Attack/Thwart;Fear No Evil;2
 Selene;Minion;Hellfire Encounter Set;Hellfire;Magneto Hero Pack;1
+Self-Isolation;Obligation;Hero Obligation (X-23);;X-23 Hero Pack;1
 Self-Propelled Glide;Side Scheme;Spider-Woman Villain;;Civil War;1
 Sensory Overload;Obligation;Hero Obligation (Daredevil);;Fear No Evil;1
 Sentry (Robert Reynolds);Ally;Justice;Aerial/Avenger;Wonder Man Hero Pack;1
@@ -924,6 +949,7 @@ Shapeshifter Strike;Event;Hero (Hulkling);Attack/Superpower;Civil War;3
 Shapeshifter;Event;Hero (Hulkling);Superpower;Civil War;1
 Shark-Girl (Iara Dos Santos);Ally;Aggression;X-Men;Iceman Hero Pack;1
 Sharp Claws;Upgrade;Hero (Tigra);Weapon;Civil War;2
+Shatterstar (Gaveedra Seven);Aggression;X-Force;X-23 Hero Pack;1
 She-Hulk (I);Villain;She-Hulk Villain;Avenger/Gamma;Synthezoid Smackdown;1
 She-Hulk (II);Villain;She-Hulk Villain;Avenger/Gamma;Synthezoid Smackdown;1
 She-Hulk (III);Villain;She-Hulk Villain;Avenger/Gamma;Synthezoid Smackdown;1
@@ -945,6 +971,8 @@ Sindr;Minion;Enchantress Villain;Elite/Giant;Trickster Takeover;1
 Sinister Strike;Treachery;Standard III Encounter Set;;NeXt Evolution;2
 Sinking Ferry;Environment;Disasters Encounter Set;Disaster;Fear No Evil;1
 Sister Maggie;Support;Hero (Daredevil);Persona;Fear No Evil;1
+Sisterhood;Support;Hero (X-23);Condition;X-23 Hero Pack;1
+Sisterly Bond;Event;Hero (X-23);Condition;X-23 Hero Pack;1
 Size Advantage;Event;Aggression;Attack;Luke Cage Hero Pack;3
 Skater Punk;Minion;Purple Man Underling;Civilian/Influenced;Fear No Evil;1
 Skrull Business;Side Scheme;Hulkling Nemesis;;Civil War;1
@@ -967,6 +995,7 @@ Soup Kitchen;Support;Hero (Falcon);Location;Falcon Hero Pack;1
 Source of Power;Side Scheme;En Sabah Nur Villain;Superpower;NeXt Evolution;1
 Sovereign Sorceress;Main Scheme;Enchantress Villain;;Trickster Takeover;1
 Special Funding;Resource;Hero (Maria Hill);;Agents of S.H.I.E.L.D.;2
+Specialized Training;Player Side Scheme;Basic;;X-23 Hero Pack;1
 Spectacular!;Treachery;Spider-Man Encounter Set;;Civil War;1
 Spectrum (Monica Rambeau);Ally;Leadership;Aerial/Avenger;Falcon Hero Pack;1
 Spectrum;Minion;Secret Avengers Encounter Set;Aerial/Avenger;Civil War;1
@@ -1092,6 +1121,7 @@ The Coming Storm;Side Scheme;Thunderbolts Villain;;Agents of S.H.I.E.L.D.;1
 The Crazy Gang;Side Scheme;Crazy Gang Encounter Set;;Nightcrawler Hero Pack;1
 The Dark Riders;Side Scheme;Dark Riders Encounter Set;;NeXt Evolution;1
 The Defenders;Side Scheme;Defenders Encounter Set;;Civil War;1
+The Direct Approach;Upgrade;Aggression;Tactic;X-23 Hero Pack;3
 The Douglass;Support;Justice;S.H.I.E.L.D./Vehicle;Agents of S.H.I.E.L.D.;1
 The Elephant's Trunk;Support;Hero (Black Panther (Shuri));Persona/Wakanda;Black Panther Hero Pack;1
 The Ends Justify the Means;Treachery;Baron Zemo Villain;;Agents of S.H.I.E.L.D.;2
@@ -1232,6 +1262,9 @@ Work-Life Balance;Obligation;Hero Obligation (Jessica Jones);;Jessica Jones Hero
 Worlds Collide;Main Scheme;God of Lies Villain;;Trickster Takeover;1
 Wrapped in Chains;Attachment;God of Lies Villain;Condition;Trickster Takeover;1
 Wrapped In Metal;Upgrade;Hero (Magneto);Magnetic;Magneto Hero Pack;2
+X-23 // Laura Kinney;Hero;Hero (X-23);X-Force/Mutant;X-23 Hero Pack;1
+X-23's Claws;Upgrade;Hero (X-23);Weapon;X-23 Hero Pack;1
+X-Bunker;Support;Basic;Location/X-Force;X-23 Hero Pack;1
 X-Gene;Upgrade;Basic;;Jubilee Hero Pack;3
 Yellow Jacket (Hank Pym);Ally;Basic;Avenger;Civil War;1
 Yellow Jacket;Minion;Mighty Avengers Encounter Set;Avenger;Civil War;1
