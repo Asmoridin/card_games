@@ -186,7 +186,8 @@ def parse_restrictions(restr_lines):
                         'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
                         'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block', 'Innistrad Block',
                         'Scars of Mirrodin Block', 'Return to Ravnica Block', 'Theros Block',
-                        'Khans of Tarkir Block' , 'Battle for Zendikar Block',]:
+                        'Khans of Tarkir Block' , 'Battle for Zendikar Block',
+                        'Shadows over Innistrad Block', ]:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -199,7 +200,6 @@ def parse_restrictions(restr_lines):
     # Ixalan block (Ixalan, Rivals of Ixalan)
     # Amonkhet block (Amonkhet, Hour of Devastation)
     # Kaladesh block (Kaladesh, Aether Revolt)
-    # Shadows over Innistrad block (Shadows over Innistrad, Eldritch Moon)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -310,6 +310,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Battle for Zendikar block (Battle for Zendikar, Oath of the Gatewatch)
             if this_set in ['Battle for Zendikar', 'Oath of the Gatewatch']:
                 ret_formats['Battle for Zendikar Block'] = 4
+            # Shadows over Innistrad block (Shadows over Innistrad, Eldritch Moon)
+            if this_set in ['Shadows over Innistrad', 'Eldritch Moon']:
+                ret_formats['Shadows over Innistrad Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -778,6 +781,10 @@ if __name__ == "__main__":
     # Battle for Zendikar Block
     bfz_dict = process_formats("Battle for Zendikar Block", card_corrections, True)
     handle_output("Battle for Zendikar Block", bfz_dict, out_file_h)
+    
+    # Shadows over Innistrad Block
+    soi_dict = process_formats("Shadows over Innistrad Block", card_corrections, True)
+    handle_output("Shadows over Innistrad Block", soi_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
