@@ -851,17 +851,17 @@ Grenade Strike;TWI-171-C;Event;Tactic;R;3
 Grey Squadron Y-Wing;SHD-246-C;Space Unit;Rebel/Vehicle/Fighter;W;3
 Grievous Reassembly;TWI-073-C;Event;Supply;U;3
 Grievous's Wheel Bike;TWI-236-S;Upgrade;Vehicle;B;3
-# done through here
-Grim Resolve;TWI-172-C;Event;R;3 # 1 foil
-Grim Valor;JTL-073-U;Upgrade;U;1
+Grim Resolve;TWI-172-C;Event;Tactic;R;3 # 1 foil
+Grim Valor;JTL-073-U;Upgrade;Innate;U;1
 Grogu, Charming Companion;ASH-018-R/MV26-1-R;Leader;Force;Y/W;1
-Grogu, Irresistible;SHD-196-S;Ground Unit;Y/W;3
-Grogu, Mysterious Child;LOF-246-L;Ground Unit;W;1 # 1 foil
+Grogu, Irresistible;SHD-196-S;Ground Unit;Force;Y/W;3
+Grogu, Mysterious Child;LOF-246-L;Ground Unit;Force;W;1 # 1 foil
 Grogu, Yes. Yes. Yes.;ASH-155-L;Ground Unit;Force/Droid;R/W;0
-Ground Assault AT-AT;IBH-056-S/IBH-067-S;Ground Unit;R/B;0
-Guardian of the Whills;SOR-061-C/LOF-058-C;Ground Unit;U;3 # 1 hyperspace
-Guarding the Way;TWI-074-C;Event;U;3
-Guavian Antagonizer;SHD-134-C;Ground Unit;R/B;3
+Ground Assault AT-AT;IBH-056-S/IBH-067-S;Ground Unit;Imperial/Vehicle/Walker;R/B;0
+Guardian of the Whills;SOR-061-C/LOF-058-C;Ground Unit;Force/Fringe;U;3 # 1 hyperspace
+Guarding the Way;TWI-074-C;Event;Tactic;U;3
+Guavian Antagonizer;SHD-134-C;Ground Unit;Underworld/Trooper;R/B;3
+# done through here
 Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;3
 Guerilla Insurgency;TWI-177-R;Event;R;0
 Guerilla Soldier;JTL-218-C;Ground Unit;Y;2
@@ -2344,10 +2344,16 @@ Dune Sea Nomads;HMW-167-C;Ground Unit;Tusken;R/W;0
 Ezra Bridger, What Are You Afraid Of?;HMW-168-R;Ground Unit;Force/Rebel/Spectre;R/W;0
 Crosshair, I've Changed;HMW-169-L;Ground Unit;Clone;R/W;0
 Han Solo, My Team's Ready;HMW-170-U;Ground Unit;Rebel/Official;R/W;0
-
 Trap Field;HMW-171-S;Upgrade;Fortification;R/W;0
-
+Heavy Ion Cannon;HMW-172-U;Upgrade;Fortification;R/W;0
+Rebel Operation;HMW-173-R;Event;Rebel/Plan;R/W;0
+Maul, Only Revenge Remains;HMW-174-R;Ground Unit;Force/Underworld;R;0
+Fennec Shand, A Ship For A Life;HMW-175-U;Ground Unit;Underworld;R;0
+Village Troublemaker;HMW-176-C;Ground Unit;Ewok;R;0
 Adamant Ewoks;HMW-177-C;Ground Unit;Ewok;R;0
+Desperate Nantex;HMW-178-C;Space Unit;Separatist/Vehicle/Fighter;R;0
+Feisty Blurrg;HMW-179-C;Ground Unit;Creature;R;0
+Stormchaser;HMW-180-U;Ground Unit;Tusken;R;0
 
 The Tarkin Doctrine, Protect and Punish;HMW-206-S;Upgrade;Law;Y/B;0
 
@@ -2381,3 +2387,46 @@ Princess Leia, On a Diplomatic Mission;IC27-008-S;Leader;Rebel/Official;W/Y;0
 Moff Gideon, Cold Calling;IC27-022-U;Ground Unit;Imperial/Official;U/B;0
 # IC27-023 missing
 Grand Admiral Thrawn, Listen to Me Carefully;IC27-024-R;Ground Unit;Imperial/Official;U/B;0
+# IC27-025 missing
+Darth Sidious, Move Against the Jedi;IC27-026-R;Ground Unit;Force/Separatist/Sith;U/B;0
+# IC27-027 missing
+# IC27-028 missing
+# IC27-029 missing
+# IC27-030 missing
+# IC27-031 missing
+# IC27-032 missing
+# IC27-033 missing
+Obi-Wan's Interceptor, Nothing Too Fancy;IC27-034-U;Space Unit;Jedi/Republic/Vehicle/Fighter;U/W;0
+# IC27-035 missing
+# IC27-036 missing
+# IC27-037 missing
+Admiral Holdo, We Are The Spark;IC27-038-R;Ground Unit;Resistance/Official;U/W;0
+# IC27-039 missing
+# IC27-040 missing
+Captain Rex, Staunch Advocate;IC27-041-R;Ground Unit;Republic/Clone/Trooper;U/W;0
+# IC27-042 missing
+# IC27-043 missing
+# IC27-044 missing
+# IC27-045 missing
+# IC27-046 missing
+# IC27-047 missing
+# IC27-048 missing
+# IC27-049 missing
+# IC27-050 missing
+# IC27-051 missing
+# IC27-052 missing
+# IC27-053 missing
+# IC27-054 missing
+# IC27-055 missing
+# IC27-056 missing
+# IC27-057 missing
+# IC27-058 missing
+# IC27-059 missing
+# IC27-060 missing
+# IC27-061 missing
+# IC27-062 missing
+# IC27-063 missing
+# IC27-064 missing
+# IC27-065 missing
+# IC27-066 missing
+Darth Vader, Useless to Resist;IC27-067-L;Ground Unit;Force/Imperial/Sith;G/B;0
