@@ -59,7 +59,8 @@ for line in lines:
     if line == '':
         continue
     try:
-        card_name, card_type, card_color, card_traits, card_set_info, card_own = line.split(';')
+        card_name, card_type, card_color, card_traits, franchise, card_set_info, \
+            card_own = line.split(';')
     except ValueError:
         print("Issue with line:")
         print(line)

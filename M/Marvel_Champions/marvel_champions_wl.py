@@ -157,7 +157,10 @@ def get_modular_stats(encounter_map):
         for modular in ChampEncounters.get_req_by_encounter(played_enc[0]):
             sum_map[modular] += encounter_map[played_enc][0]
         for modular in played_enc[1]:
-            sum_map[modular] += encounter_map[played_enc][0]
+            if modular not in sum_map:
+                print(f"Error: {modular} not in sum_map")
+            else:
+                sum_map[modular] += encounter_map[played_enc][0]
     mod_tuples = []
     for modular, modular_plays in sum_map.items():
         mod_tuples.append((modular, modular_plays))

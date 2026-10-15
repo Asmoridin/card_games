@@ -54,6 +54,8 @@ def process_card_set(card_set_in):
             check_card_set = 'Ashes of the Empire'
         elif check_card_set == 'HMW':
             check_card_set = 'Homeworlds'
+        elif check_card_set == 'IC27':
+            check_card_set = 'Icons 2027 Edition'
         else:
             print(f"Unknown card set {check_card_set}")
             return [[], []]

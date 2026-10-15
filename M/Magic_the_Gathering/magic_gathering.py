@@ -781,7 +781,7 @@ if __name__ == "__main__":
     # Battle for Zendikar Block
     bfz_dict = process_formats("Battle for Zendikar Block", card_corrections, True)
     handle_output("Battle for Zendikar Block", bfz_dict, out_file_h)
-    
+
     # Shadows over Innistrad Block
     soi_dict = process_formats("Shadows over Innistrad Block", card_corrections, True)
     handle_output("Shadows over Innistrad Block", soi_dict, out_file_h)
