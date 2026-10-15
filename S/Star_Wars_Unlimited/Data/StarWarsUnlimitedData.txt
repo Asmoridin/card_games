@@ -616,7 +616,7 @@ Eager Escort Fighter;JTL-112-C;Space Unit;New Republic/Vehicle/Fighter;G;2
 Ebon Hawk, Cause and Effect;SEC-219-R;Space Unit;Fringe/Vehicle/Transport;Y;0
 Echo Base Defender;SOR-098-C;Ground Unit;Rebel/Trooper;G/W;3
 Echo Base Engineer;JTL-044-C;Ground Unit;Rebel;U/W;3 # 1 hyperspace
-Echo Base;SOR-024-C;Base;Hoth;G;1 # 1 hyperspace
+Echo Base;SOR-024-C/IC27-010-S;Base;Hoth;G;1 # 1 hyperspace
 Echo Caverns;IBH-002-S;Base;Hoth;Y;0
 Echo Coordinator;IBH-007-S/IBH-043-S/IBH-047-S;Ground Unit;Rebel;G/W;0
 Echo, Restored;SHD-099-U;Ground Unit;Fringe/Clone;G/W;2
@@ -861,16 +861,16 @@ Ground Assault AT-AT;IBH-056-S/IBH-067-S;Ground Unit;Imperial/Vehicle/Walker;R/B
 Guardian of the Whills;SOR-061-C/LOF-058-C;Ground Unit;Force/Fringe;U;3 # 1 hyperspace
 Guarding the Way;TWI-074-C;Event;Tactic;U;3
 Guavian Antagonizer;SHD-134-C;Ground Unit;Underworld/Trooper;R/B;3
-# done through here
-Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;3
-Guerilla Insurgency;TWI-177-R;Event;R;0
-Guerilla Soldier;JTL-218-C;Ground Unit;Y;2
+Guerilla Attack Pod;SOR-148-C;Ground Unit;Rebel/Vehicle/Walker;R/W;3
+Guerilla Insurgency;TWI-177-R;Event;Tactic;R;0
+Guerilla Soldier;JTL-218-C;Ground Unit;Fringe/Twi'lek/Trooper;Y;2
 Guild Ambush Team;LAW-239-C;Ground Unit;Bounty Hunter;Y;1
-Guild Target;SHD-173-U;Upgrade;R;3
-Gungan Warrior;LOF-247-C;Ground Unit;W;2
-Gungi, Finding Himself;LOF-093-U;Ground Unit;G/W;1
-Hailfire Tank;TWI-233-C;Ground Unit;B;3
+Guild Target;SHD-173-U;Upgrade;Bounty/Condition;R;3
+Gungan Warrior;LOF-247-C;Ground Unit;Gungan/Trooper;W;2
+Gungi, Finding Himself;LOF-093-U;Ground Unit;Force/Jedi/Wookiee;G/W;1
+Hailfire Tank;TWI-233-C;Ground Unit;Separatist/Droid/Vehicle/Tank;B;3
 Halo, Not According to Plan;ASH-223-U;Space Unit;Underworld/Vehicle/Transport;Y;0
+# done through here
 Han Solo, Audacious Smuggler;SOR-017-R;Leader;Y/W;1 # 1 hyperspace
 Han Solo, Has His Moments;JTL-203-L;Ground Unit;Y/W;0
 Han Solo, Hibernation Sick;LAW-037-S;Ground Unit;Rebel;U/G;1 # 1 hyperfoil
@@ -1090,7 +1090,7 @@ Kashyyyk Defender;TWI-044-U;Ground Unit;U/W;2
 Kaydel Connix, For Our Survival;SEC-149-U;Ground Unit;R/W;3
 Kazuda Xiono, Best Pilot in the Galaxy;JTL-018-R;Leader;Y/W;1 # 1 hyperspace
 Kazuda Xiono, I'm Not A Spy;SEC-151-U;Ground Unit;R/W;2
-KCM Mining Facility;TWI-026-C;Base;R;1
+KCM Mining Facility;TWI-026-C/IC27-011-S;Base;R;1
 Keep Fighting;SOR-169-C;Event;R;3 # 1 foil
 Keep Them Talking;ASH-233-C;Event;Trick;Y;1
 Kelleran Beq, The Sabered Hand;LOF-100-U;Ground Unit;G/W;3
@@ -1477,7 +1477,7 @@ Pong Krell, It's Treason, Then;LOF-038-R;Ground Unit;U/B;3
 Populist Advisor;SEC-041-U;Ground Unit;U/W;1
 Populist Champion;SEC-044-C;Ground Unit;U/W;3 # 1 foil
 Porg;LOF-254-C;Ground Unit;N;3
-Pounce;LOF-224-C;Event;Y;3 # 1 foil
+Pounce;LOF-224-C/HMW-239-C;Event;Y;3 # 1 foil
 Power Failure;SOR-170-U;Event;R;1
 Power from Pain;JTL-042-U;Event;U/B;0
 Power of the Dark Side;SOR-041-U;Event;U/B;2
@@ -1621,7 +1621,7 @@ Republic Tactical Officer;TWI-091-C;Ground Unit;G/W;3 # 1 hyperfoil
 Republic War Walker;SEC-173-C;Ground Unit;R;3 # 2 hyperspace
 Republic Y-Wing;JTL-212-C;Space Unit;Y;3 # 1 foil
 Reputable Hunter;SHD-117-C;Ground Unit;G;3
-Resilient;SOR-069-C/SHD-070-S;Upgrade;U;3 # 1 foil
+Resilient;SOR-069-C/SHD-070-S/IC27-052-S;Upgrade;U;3 # 1 foil
 Resistance Blue Squadron;JTL-102-C;Space Unit;G/W;2
 Resistance Headquarters;JTL-022-C;Base;G;1 # 1 hyperspace
 Resistance X-Wing;JTL-247-C;Space Unit;W;3 # 1 hyperfoil
@@ -2184,7 +2184,7 @@ Grand Moff Tarkin, Tyrant of the Outer Rim;HMW-004-S;Leader;Imperial/Official/Ve
 Jar Jar Binks, Bombad General;HMW-005-C;Leader;Gungan;U/W;0
 Omega, Close Your Eyes and Focus;HMW-006-R;Leader;Clone;U/W;0
 Darth Vader, Might of the Empire;HMW-007-R;Leader;Force/Imperial/Sith;G/B;0
-General Grievous, Separatist Warlord;HMW-008-C;Leader;Separatist/Official;G/B;0
+General Grievous, Separatist Warlord;HMW-008-C;Leader;Separatist/Official;G/B;1
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
 Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
 Darth Sidious, There is No Mercy;HMW-011-R;Leader;Force/Sith;R/B;0
@@ -2204,7 +2204,7 @@ Tusken Camp;HMW-026-C;Base;Tatooine;G;0
 Bioweapons Lab;HMW-027-C;Base;Naboo;R;0
 Jundland Wastes;HMW-028-C;Base;Tatooine;R;0
 Dendroid Wilds;HMW-029-C;Base;Endor;R;0
-Shadowlands;HMW-030-C;Base;Kashyyyk;R;0
+Shadowlands;HMW-030-C;Base;Kashyyyk;R;1
 Kyyyalstaad Swamp;HMW-031-C;Base;Kashyyyk;Y;0
 Otoh Gunga;HMW-033-C;Base;Naboo;Y;0
 Research Station 9;HMW-034-C;Base;Endor;Y;0
@@ -2264,7 +2264,7 @@ Remote Scout;HMW-085-C;Ground Unit;Imperial/Trooper;U;0
 # HMW-087 missing
 Numa, Still Fighting;HMW-088-U;Ground Unit;Rebel/Twi'lek;U;0
 # HMW-089 missing
-Opee Sea Killer;HMW-090-C;Ground Unit;Creature;U;0
+Opee Sea Killer;HMW-090-C;Ground Unit;Creature;U;1
 # HMW-091 missing
 # HMW-092 missing
 # HMW-093 missing
@@ -2310,7 +2310,7 @@ Wroshyr Rebel;HMW-133-C;Ground Unit;Rebel/Wookiee;G;0
 Zam Wesell, Not What She Seems;HMW-134-R;Ground Unit;Underworld/Bounty Hunter;G;0
 Arena Reek, Fixture of Ceremony;HMW-135-U;Ground Unit;Creature;G;0
 Lifetree Caravan;HMW-136-C;Ground Unit;Ewok;G;0
-V-19 Skirmisher;HMW-137-C;Space Unit;Republic/Vehicle/Fighter;G;0
+V-19 Skirmisher;HMW-137-C;Space Unit;Republic/Vehicle/Fighter;G;1
 Commander Gree, Of the 41st Elite Corps;HMW-138-R;Ground Unit;Republic/Clone/Trooper;G;0
 Flock of Mynocks;HMW-139-C;Space Unit;Creature;G;0
 Assault Frigate;HMW-140-C;Space Unit;Rebel/Vehicle/Capital Ship;G;0
@@ -2319,10 +2319,10 @@ Wookiee Rangers;HMW-142-C;Ground Unit;Wookiee;G;0
 Banking Clan Warship;HMW-143-C;Space Unit;Separatist/Vehicle/Capital Ship;G;0
 Howler Pack;HMW-144-C;Ground Unit;Creature;G;0
 Origin Tree Shyyyo;HMW-145-L;Ground Unit;Creature;G;0
-Outer Rim Garrison;HMW-146-C;Ground Unit;Republic/Clone/Twi'lek/Trooper;G;0
+Outer Rim Garrison;HMW-146-C;Ground Unit;Republic/Clone/Twi'lek/Trooper;G;1 # 1 hyperspace
 Beast Lair;HMW-147-R;Upgrade;Fortification;G;0
 Local Support;HMW-148-U;Upgrade;Supply;G;0
-Log Trap;HMW-149-U;Event;Trick;G;0
+Log Trap;HMW-149-U;Event;Trick;G;1
 Migrate;HMW-150-C;Event;Innate;G;0
 Overgrowth;HMW-151-C;Event;Disaster;G;0
 Babwa Venomor, Burning Kashyyyk;HMW-152-R;Ground Unit;Imperial;R/B;0
@@ -2338,10 +2338,10 @@ Raze to Ruin;HMW-161-R;Event;Disaster/Plan;R/B;0
 Teebo, Striped Hunter;HMW-162-U;Ground Unit;Ewok;R/W;0
 Champions of Endor;HMW-163-C;Ground Unit;Ewok;R/W;0
 Chief Chirpa, Defiant Elder;HMW-164-R;Ground Unit;Ewok;R/W;0
-Commandeered Tour Shuttle;HMW-165-C;Space Unit;Rebel/Vehicle/Transport;R/W;0
+Commandeered Tour Shuttle;HMW-165-C;Space Unit;Rebel/Vehicle/Transport;R/W;1
 Gungi, Fighting for Kashyyyk;HMW-166-U;Ground Unit;Force/Jedi/Wookiee;R/W;0
 Dune Sea Nomads;HMW-167-C;Ground Unit;Tusken;R/W;0
-Ezra Bridger, What Are You Afraid Of?;HMW-168-R;Ground Unit;Force/Rebel/Spectre;R/W;0
+Ezra Bridger, What Are You Afraid Of?;HMW-168-R;Ground Unit;Force/Rebel/Spectre;R/W;1
 Crosshair, I've Changed;HMW-169-L;Ground Unit;Clone;R/W;0
 Han Solo, My Team's Ready;HMW-170-U;Ground Unit;Rebel/Official;R/W;0
 Trap Field;HMW-171-S;Upgrade;Fortification;R/W;0
@@ -2351,17 +2351,40 @@ Maul, Only Revenge Remains;HMW-174-R;Ground Unit;Force/Underworld;R;0
 Fennec Shand, A Ship For A Life;HMW-175-U;Ground Unit;Underworld;R;0
 Village Troublemaker;HMW-176-C;Ground Unit;Ewok;R;0
 Adamant Ewoks;HMW-177-C;Ground Unit;Ewok;R;0
-Desperate Nantex;HMW-178-C;Space Unit;Separatist/Vehicle/Fighter;R;0
+Desperate Nantex;HMW-178-C;Space Unit;Separatist/Vehicle/Fighter;R;1
 Feisty Blurrg;HMW-179-C;Ground Unit;Creature;R;0
 Stormchaser;HMW-180-U;Ground Unit;Tusken;R;0
+Tusken Bantha Rider;HMW-181-C;Ground Unit;Creature/Tusken;R;0
+Arena Nexu, Starved for Prey;HMW-182-R;Ground Unit;Creature;R;0
+Nightsister Prodigy;HMW-183-C;Ground Unit;Force/Night;R;0
+Aggrocrab;HMW-184-C;Ground Unit;Creature;R;0
+Ty Yorrick, Monster Hunter;HMW-185-R;Ground Unit;Force/Bounty Hunter;R;0
+Mining Guild Trespasser;HMW-186-C;Space Unit;Vehicle/Transport;R;0
+Dathomiri Rancor;HMW-187-C;Ground Unit;Creature;R;0
+Giant Gorax;HMW-188-L;Ground Unit;Creature;R;0
+Neebray Manta;HMW-189-U;Space Unit;Creature;R;0
+Enraged;HMW-190-C;Upgrade;Innate;R;0
 
 The Tarkin Doctrine, Protect and Punish;HMW-206-S;Upgrade;Law;Y/B;0
 
+Sol, Compassionate Guardian;HMW-210-U;Ground Unit;Force/Jedi;Y/W;1
+
 Ritual Dragon;HMW-234-L;Ground Unit;Creature;Y;0
+Gaderffii Stick;HMW-235-C;Upgrade;Item/Weapon;Y;1
+
+# HMW-239 done
+
+Pyke Sarisa;HMW-246-C;Space Unit;Underworld/Vehicle/Transport;B;1
+
+Forced Pacification;HMW-253-U;Event;Plan;B;1
 
 C-3PO, Captivating Storyteller;HMW-255-S;Ground Unit;Rebel/Droid;W;0
 
 Ewok Archers;HMW-257-C;Ground Unit;Ewok;W;0
+
+Pack Guardian;HMW-259-C;Ground Unit;Creature;W;1 # 1 hyperfoil
+
+Mylaya Rider;HMW-262-C;Ground Unit;Creature/Wookiee;W;1
 ** END **
 Darth Vader, No One to Stop Us;IC27-001-S;Leader;Force/Imperial/Sith;U/B;0
 # IC27-002 missing
@@ -2372,13 +2395,10 @@ Darth Vader, No One to Stop Us;IC27-001-S;Leader;Force/Imperial/Sith;U/B;0
 # IC27-007 missing
 Princess Leia, On a Diplomatic Mission;IC27-008-S;Leader;Rebel/Official;W/Y;0
 # IC27-009 missing
-# IC27-010 missing
-# IC27-011 missing
 # IC27-012 missing
 # IC27-013 missing
 # IC27-014 missing
-# IC27-015 done
-# IC27-016 missing
+Rune Haako, Scheming Second;IC27-016-U;Ground Unit;Separatist/Official;U/B;0
 # IC27-017 missing
 # IC27-018 missing
 # IC27-019 missing
@@ -2387,7 +2407,7 @@ Princess Leia, On a Diplomatic Mission;IC27-008-S;Leader;Rebel/Official;W/Y;0
 Moff Gideon, Cold Calling;IC27-022-U;Ground Unit;Imperial/Official;U/B;0
 # IC27-023 missing
 Grand Admiral Thrawn, Listen to Me Carefully;IC27-024-R;Ground Unit;Imperial/Official;U/B;0
-# IC27-025 missing
+Blizzard One, Veers at the Helm;IC27-025-S;Ground Unit;Imperial/Vehicle/Walker;U/B;0
 Darth Sidious, Move Against the Jedi;IC27-026-R;Ground Unit;Force/Separatist/Sith;U/B;0
 # IC27-027 missing
 # IC27-028 missing
@@ -2414,7 +2434,6 @@ Captain Rex, Staunch Advocate;IC27-041-R;Ground Unit;Republic/Clone/Trooper;U/W;
 # IC27-049 missing
 # IC27-050 missing
 # IC27-051 missing
-# IC27-052 missing
 # IC27-053 missing
 # IC27-054 missing
 # IC27-055 missing
