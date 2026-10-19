@@ -870,16 +870,16 @@ Gungan Warrior;LOF-247-C;Ground Unit;Gungan/Trooper;W;2
 Gungi, Finding Himself;LOF-093-U;Ground Unit;Force/Jedi/Wookiee;G/W;1
 Hailfire Tank;TWI-233-C;Ground Unit;Separatist/Droid/Vehicle/Tank;B;3
 Halo, Not According to Plan;ASH-223-U;Space Unit;Underworld/Vehicle/Transport;Y;0
-# done through here
-Han Solo, Audacious Smuggler;SOR-017-R;Leader;Y/W;1 # 1 hyperspace
-Han Solo, Has His Moments;JTL-203-L;Ground Unit;Y/W;0
+Han Solo, Audacious Smuggler;SOR-017-R;Leader;Underworld;Y/W;1 # 1 hyperspace
+Han Solo, Has His Moments;JTL-203-L;Ground Unit;Rebel/Pilot;Y/W;0
 Han Solo, Hibernation Sick;LAW-037-S;Ground Unit;Rebel;U/G;1 # 1 hyperfoil
 Han Solo, I Got a Really Good Feeling;LAW-017-C;Leader;Underworld;Y/W;1
 Han Solo, It'll Work;ASH-158-S;Ground Unit;Rebel/Official;R/W;0
-Han Solo, Never Tell Me the Odds;JTL-017-S;Leader;Y/W;1
-Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;3 # 1 hyperspace
-Han Solo, Scruffy-Looking Nerf Herder;IBH-010-S/IBH-042-S;Ground Unit;Y/W;0
-Han Solo, Worth the Risk;SHD-013-C;Leader;R/W;1 # 1 hyperspace
+Han Solo, Never Tell Me the Odds;JTL-017-S;Leader;Rebel/Pilot;Y/W;1
+Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;Underworld;W/Y;3 # 1 hyperspace
+Han Solo, Scruffy-Looking Nerf Herder;IBH-010-S/IBH-042-S;Ground Unit;Rebel;Y/W;0
+Han Solo, Worth the Risk;SHD-013-C;Leader;Underworld;R/W;1 # 1 hyperspace
+# done through here
 Han's Golden Dice;LAW-225-U;Upgrade;Item;Y/W;0
 Hardpoint Heavy Blaster;SOR-121-U;Upgrade;G;3
 Haxion Aggressor;LAW-190-C;Ground Unit;Underworld/Bounty Hunter;R;0
@@ -1451,7 +1451,7 @@ Phantom, Spectre Shuttle;LAW-144-R;Space Unit;Rebel/Vehicle/Transport/Spectre;G/
 Phase I Clone Trooper;TWI-241-C;Ground Unit;W;3 # 1 foil
 Phase II Clone Trooper;TWI-242-C;Ground Unit;W;3
 Phase-III Dark Trooper;SHD-084-S;Ground Unit;G/B;3
-Phoenix Squadron A-Wing;JTL-095-C;Space Unit;G/W;2
+Phoenix Squadron A-Wing;JTL-095-C/IC27-073-C;Space Unit;G/W;2
 Phoenix Squadron Fighters;LAW-110-C;Space Unit;Rebel/Vehicle/Fighter;U/W;0
 Piercing Shot;JTL-180-C;Event;R;3
 Pillage;SHD-181-C;Event;R;3 # 1 hyperspace
@@ -2364,6 +2364,16 @@ Dathomiri Rancor;HMW-187-C;Ground Unit;Creature;R;0
 Giant Gorax;HMW-188-L;Ground Unit;Creature;R;0
 Neebray Manta;HMW-189-U;Space Unit;Creature;R;0
 Enraged;HMW-190-C;Upgrade;Innate;R;0
+Hunter's Instinct;HMW-191-C;Upgrade;Innate;R;0
+Volley Fire;HMW-192-U;Event;Tactic;R;0
+Nightfall;HMW-193-C;Event;Disaster;R;0
+Run Amok;HMW-194-C;Event;Disaster;R;0
+Catch the Scent;HMW-195-C;Event;Innate;R;0
+Qimir, Everyone Has a Weakness;HMW-196-R;Ground Unit;Force;Y/B;0
+Cid Scaleback, Can't Be Trusted;HMW-197-R;Ground Unit;Underworld;Y/B;0
+Treacherous Pyke;HMW-198-U;Ground Unit;Underworld;Y/B;0
+Geonosian Picador;HMW-199-C;Ground Unit;Separatist;Y/B;0
+Rish Loo, Traitorous Minister;HMW-200-R;Ground Unit;Separatist/Gungan/Official;Y/B;0
 
 The Tarkin Doctrine, Protect and Punish;HMW-206-S;Upgrade;Law;Y/B;0
 
@@ -2449,3 +2459,14 @@ Captain Rex, Staunch Advocate;IC27-041-R;Ground Unit;Republic/Clone/Trooper;U/W;
 # IC27-065 missing
 # IC27-066 missing
 Darth Vader, Useless to Resist;IC27-067-L;Ground Unit;Force/Imperial/Sith;G/B;0
+# IC27-068 missing
+# IC27-069 missing
+# IC27-070 missing
+Avar Kriss, For Light and Life;IC27-071-R;Ground Unit;Force/Jedi/Republic;G/W;0
+# IC27-072 missing
+# IC27-074 missing
+Red Leader, Wait For My Signal;IC27-075-U;Space Unit;Rebel/Vehicle/Fighter;G/W;0
+# IC27-076 missing
+# IC27-077 missing
+Anakin Skywalker, Destined For Darkness;IC27-078-L;Ground Unit;Force/Jedi/Republic;G/W;0
+Qui-Gon Jinn, Unwavering Belief;IC27-079-U;Ground Unit;Force/Jedi/Republic;G/W;0
