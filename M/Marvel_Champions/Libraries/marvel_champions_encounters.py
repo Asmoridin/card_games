@@ -26,6 +26,7 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
     'A.I.M. Abduction', 'A.I.M. Science', "Batroc's Brigade", 'Scientist Supreme', 'S.H.I.E.L.D.',
 	'Trickster Magic', 'All Versus All',
     'Cops', 'The Owl', 'Drive', 'Disasters', 'Tracksuit Mafia', 'Tombstone',
+    'Ninja Swarm', 'Black Flower', 'Deadly Contraptions', 
 ]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 thunderbolt_encounters = ['Gravitational Pull', 'Hard Sound', 'Pale Little Spider',
@@ -54,6 +55,7 @@ res_usable_encounters = list(set(modular_encounters + mojo_encounters + thunderb
 modular_encounters = all_modular_encounters
 
 fear_no_evil_villains = ['Bullseye', 'Electro', 'Hammerhead', 'Purple Man', 'Typhoid Mary']
+shadowland_villains = ['Archpriestess', 'Daredevil', 'Elektra', 'Gorgon', 'Lady Bullseye', 'White Tiger']
 
 encounters = []
 def get_req_by_encounter(encounter_set):
@@ -180,8 +182,12 @@ encounters.extend([
   Encounter('The Raft Breakout', 2),
   Encounter('Stop the Presses!', 2),
   Encounter('Kingpin', 2),
+  Encounter('Shadows in the Night', 1),
+  Encounter('Shadow Labyrinth', 1, ['Deadly Contraptions']),
+  Encounter('Heart of Shadow', 1, ['Black Flower']),
 ])
 
 encounter_map = {}
 for encounter in encounters:
     encounter_map[encounter.name] = encounter
+	
