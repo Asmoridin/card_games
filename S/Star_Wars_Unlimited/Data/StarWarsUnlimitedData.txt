@@ -20,7 +20,7 @@ Abandoned the Order;TS26-37-U;Upgrade;Learned;Y/U;2
 Academy Defense Walker;SOR-037-C;Ground Unit;Imperial/Vehicle/Walker;U/B;3
 Academy Disciplinarian;SEC-165-C;Ground Unit;Imperial/Official;R;3
 Academy Graduate;JTL-058-C;Ground Unit;Imperial/Pilot;U;2
-Academy Training;SOR-120-C;Upgrade;Learned;G;3
+Academy Training;SOR-120-C/IC27-093-C;Upgrade;Learned;G;3
 Accelerate Our Plans;SEC-228-C;Event;Plan;Y;3
 Acclamator Assault Ship;LOF-106-U;Space Unit;Republic/Vehicle/Capital Ship;G;3
 Acolyte of the Beyond;LOF-129-C;Ground Unit;Sith;R/B;3 # 1 hyperspace
@@ -256,7 +256,7 @@ Brain Invaders;TWI-255-R;Ground Unit;Fringe;N;0
 Bravado;SHD-182-U;Event;Innate;R;3
 Bravo Squadron Fighter;SEC-199-C;Space Unit;Naboo/Vehicle/Fighter;Y/W;3 # 1 foil
 Breaking In;TWI-224-C;Event;Tactic;Y;3 # 1 foil
-Bright Hope, Narrow Escape;IBH-014-S/IBH-026-S;Space Unit;Rebel/Vehicle/Transport;G/W;0
+Bright Hope, Narrow Escape;IBH-014-S/IBH-026-S/IC27-080-S;Space Unit;Rebel/Vehicle/Transport;G/W;0
 Bright Hope, The Last Transport;SOR-099-U;Space Unit;Rebel/Vehicle/Transport;G/W;3
 Broken Horn, Vizago's Pride;LAW-083-U;Space Unit;Underworld/Vehicle/Transport;R/Y;1
 Brothers;TS26-59-R;Event;Innate;G;1
@@ -513,7 +513,7 @@ Death Mark;SHD-176-C;Upgrade;Bounty/Condition;R;3
 Death Space Skirmisher;JTL-217-C;Space Unit;Underworld/Vehicle/Fighter;Y;3
 Death Squadron Star Destroyer;IBH-079-S/IBH-098-S;Space Unit;Imperial/Vehicle/Capital Ship;U/B;0
 Death Star Plans;JTL-260-L;Upgrade;Item;N;0
-Death Star Stormtrooper;SOR-128-C;Ground Unit;Imperial/Trooper;R/B;3 # 1 foil
+Death Star Stormtrooper;SOR-128-C/IC27-097-C;Ground Unit;Imperial/Trooper;R/B;3 # 1 foil
 Death Trooper Squad;ASH-242-C;Ground Unit;Imperial/Trooper;B;0
 Death Trooper;SOR-033-C/SHD-030-S/SEC-030-C;Ground Unit;Imperial/Trooper;U/B;3 # 1 foil
 Death Watch Hideout;SHD-023-C;Base;Concordia;R;1 # 1 hyperspace
@@ -879,17 +879,17 @@ Han Solo, Never Tell Me the Odds;JTL-017-S;Leader;Rebel/Pilot;Y/W;1
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;Underworld;W/Y;3 # 1 hyperspace
 Han Solo, Scruffy-Looking Nerf Herder;IBH-010-S/IBH-042-S;Ground Unit;Rebel;Y/W;0
 Han Solo, Worth the Risk;SHD-013-C;Leader;Underworld;R/W;1 # 1 hyperspace
-# done through here
 Han's Golden Dice;LAW-225-U;Upgrade;Item;Y/W;0
-Hardpoint Heavy Blaster;SOR-121-U;Upgrade;G;3
+Hardpoint Heavy Blaster;SOR-121-U;Upgrade;Modification/Weapon;G;3
 Haxion Aggressor;LAW-190-C;Ground Unit;Underworld/Bounty Hunter;R;0
 Haymaker;LAW-168-C;Event;Tactic;G;1
-Headhunter Squadron;TWI-253-C;Space Unit;N;2
-Headhunting;SHD-145-U;Event;R/B;3
-Heartless Tactics;JTL-194-U;Event;Y/B;3 # 1 foil
-Heavy Blaster Cannon;LOF-171-R;Upgrade;R;2
-Heavy Missile Gunship;LOF-134-U;Space Unit;R/B;2
-Heavy Persuader Tank;TWI-167-C;Ground Unit;R;2
+Headhunter Squadron;TWI-253-C;Space Unit;Republic/Vehicle/Fighter;N;2
+Headhunting;SHD-145-U;Event;Tactic;R/B;3
+Heartless Tactics;JTL-194-U;Event;Tactic;Y/B;3 # 1 foil
+Heavy Blaster Cannon;LOF-171-R;Upgrade;Item/Weapon;R;2
+Heavy Missile Gunship;LOF-134-U;Space Unit;Separatist/Droid/Vehicle/Transport;R/B;2
+Heavy Persuader Tank;TWI-167-C;Ground Unit;Separatist/Droid/Vehicle/Tank;R;2
+# done through here
 Heightened Awareness;ASH-227-C;Upgrade;Force;Y;0
 Heirloom Lightsaber;LOF-053-C;Upgrade;U/W;2
 Helgait, Dooku Was a Visionary;ASH-195-R;Ground Unit;Separatist;Y/B;0
@@ -1008,7 +1008,7 @@ Inner Rim Coalition;SEC-154-C;Ground Unit;R/W;3
 Inquisitor's Lightsaber;LOF-090-C;Upgrade;G/B;3
 Inspector's Shuttle;SEC-260-C;Space Unit;N;3 # 1 hyperspace
 Inspired Recruit;LAW-180-C/ASH-152-C;Ground Unit;Rebel/Trooper;R/W;1
-Inspiring Mentor;SHD-104-R;Upgrade;G/W;0
+Inspiring Mentor;SHD-104-R/IC27-085-U;Upgrade;G/W;0
 Inspiring Senator;SEC-261-C;Ground Unit;N;3 # 1 hyperspace
 Inspiring Veteran;ASH-205-C;Ground Unit;Resistance/Trooper;Y/W;0
 Insurgent Saboteurs;JTL-168-C;Ground Unit;R;2
@@ -1201,7 +1201,7 @@ Lothal Insurgent;SOR-190-C;Ground Unit;W/Y;3
 Low Altitude Gunship;TWI-149-U;Ground Unit;R/W;2
 Luke Skywalker, A Hero's Beginning;LOF-249-R;Ground Unit;W;2
 Luke Skywalker, Answering the Call;ASH-112-L;Ground Unit;Force/Jedi;G/W;0
-Luke Skywalker, Do You Read Me?;IBH-020-S;Ground Unit;G/W;0
+Luke Skywalker, Do You Read Me?;IBH-020-S/IC27-082-S;Ground Unit;G/W;0
 Luke Skywalker, Faithful Friend;SOR-005-S;Leader;U/W;1
 Luke Skywalker, Hero of Yavin;JTL-012-C;Leader;R/W;1 # 1 hyperspace
 Luke Skywalker, I Can Save Him;ASH-005-S;Leader;Force/Jedi/Rebel;B/W;0
@@ -2374,9 +2374,15 @@ Cid Scaleback, Can't Be Trusted;HMW-197-R;Ground Unit;Underworld;Y/B;0
 Treacherous Pyke;HMW-198-U;Ground Unit;Underworld;Y/B;0
 Geonosian Picador;HMW-199-C;Ground Unit;Separatist;Y/B;0
 Rish Loo, Traitorous Minister;HMW-200-R;Ground Unit;Separatist/Gungan/Official;Y/B;0
-
+Sandtrooper Squad;HMW-201-C;Ground Unit;Imperial/Trooper;Y/B;0
+Inferno Squad, We Can Grieve Later;HMW-202-U;Ground Unit;Imperial/Trooper;Y/B;0
+Victor Squadron, In Attack Formation;HMW-203-U;Space Unit;Imperial/Vehicle/Fighter;Y/B;0
+Nightbrother, Maul's Gauntlet;HMW-204-L;Space Unit;Vehicle/Transport;Y/B;0
+Intelligence Agency;HMW-205-U;Upgrade;Fortification;Y/B;0
 The Tarkin Doctrine, Protect and Punish;HMW-206-S;Upgrade;Law;Y/B;0
-
+Maim;HMW-207-C;Event;Tactic;Y/B;0
+Luke Skywalker, Dreaming Farmboy;HMW-208-R;Ground Unit;Force/Fringe;Y/W;0
+Corona Squadron X-Wing;HMW-209-C;Space Unit;New Republic/Vehicle/Fighter;Y/W;0
 Sol, Compassionate Guardian;HMW-210-U;Ground Unit;Force/Jedi;Y/W;1
 
 Ritual Dragon;HMW-234-L;Ground Unit;Creature;Y;0
@@ -2470,3 +2476,17 @@ Red Leader, Wait For My Signal;IC27-075-U;Space Unit;Rebel/Vehicle/Fighter;G/W;0
 # IC27-077 missing
 Anakin Skywalker, Destined For Darkness;IC27-078-L;Ground Unit;Force/Jedi/Republic;G/W;0
 Qui-Gon Jinn, Unwavering Belief;IC27-079-U;Ground Unit;Force/Jedi/Republic;G/W;0
+# IC27-081 missing
+# IC27-083 missing
+# IC27-084 missing
+# IC27-086 missing
+# IC27-087 missing
+# IC27-088 missing
+# IC27-089 missing
+# IC27-090 missing
+# IC27-091 missing
+# IC27-092 missing
+# IC27-094 missing
+# IC27-095 missing
+# IC27-096 missing
+Commander Pyre, Golden Menace;IC27-098-U;Ground Unit;First Order/Trooper;R/B;0
