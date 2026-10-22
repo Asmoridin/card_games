@@ -203,6 +203,12 @@ if __name__ == "__main__":
         if game_name != "New Game":
             TOTAL_PLAYS_GOAL += goal_plays
 
+
+    for game_name, game_play_amount in current_year_plays.items():
+        if game_name in game_plays_total:
+            game_plays_total[game_name] += game_play_amount
+        else:
+            game_plays_total[game_name] = game_play_amount
     sortable_game_totals = list(game_plays_total.items())
     sortable_game_totals = sorted(sortable_game_totals, key=lambda x:(-1*x[1], x[0]))
     total_play_file = open(os.path.join(FILE_PREFIX, "Total Plays.txt"), 'w', encoding="UTF-8")
