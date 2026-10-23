@@ -4883,6 +4883,8 @@ Famed Cartographer;Follower;;Rise of Otosan Uchi (Fixed);War of the Seals (Onyx 
 Familiar Surroundings;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
 Familiar Surroundings;Strategy;;Promotional–CWF (Promo);Hidden Emperor (Jade);3;0
 Familiar Surroundings;Strategy;;Time of the Void (Common);Clan Wars (Imperial);3;0
+Family Histories;Holding;;The Imperial Gift 2 (Fixed);Destroyer War (Celestial);1;0
+Family Keep;Holding;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Family Library;Holding;;Dawn of the Empire (Fixed);Age of Enlightenment (Lotus);3;0
 Family Library;Holding;;Dawn of the Empire (Fixed);Rain of Blood (Diamond);3;3
 Family Library;Holding;;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
@@ -4891,6 +4893,13 @@ Family Library;Holding;;Ivory Edition (Uncommon)/The Currency of War (Fixed);A B
 Family Library;Holding;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Family Library;Holding;;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
 Family Library;Holding;;Shattered Empire (Fixed);Shattered Empire;3;0
+Family Loyalty;Strategy;;Forbidden Knowledge (Rare);Clan Wars (Imperial);3;0
+Family Shrine;Holding;;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
+Family Tactics;Strategy;;A Perfect Cut (Common);Four Winds (Gold);3;0
+Family Token;Item;;Hidden City (Common);Rain of Blood (Diamond);3;0
+Family War Banner;Item;;Hidden City (Rare);Rain of Blood (Diamond);1;0
+Famine;Event;;Gold Edition (Uncommon);Four Winds (Gold);1;0
+Famine;Event;;Honor Bound (Uncommon);Hidden Emperor (Jade);1;0
 Famous Bazaar;Holding;;Celestial Edition (Rare)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
 Famous Bazaar;Holding;;Honor's Veil (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;2
 Famous Bazaar;Holding;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
@@ -4993,6 +5002,8 @@ Fires of Retribution;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
 Fires of Retribution;Strategy;;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;0
 Fires of Turmoil;Strategy;;Coils of Madness (Fixed);A Brother's Destiny (Ivory Edition);3;1
 Fires of Turmoil;Strategy;;Coils of Madness (Fixed);Age of Conquest (Emperor);3;1
+Firm Censure;Strategy;;Before the Dawn (Common);Age of Conquest (Emperor);3;0
+Firm Censure;Strategy;;Before the Dawn (Common);Destroyer War (Celestial);3;0
 Fist of the Earth;Strategy;;Crimson and Jade (Common);Clan Wars (Imperial);3;0
 Fist of the Earth;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Fist of the Earth;Strategy;;Gold Edition (Common);Four Winds (Gold);3;0
@@ -5710,6 +5721,10 @@ Impressment;Event;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Impressment;Event;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 Improper Papers;Strategy;;Torn Asunder (Rare);Age of Conquest (Emperor);3;0
 In The Pale Moonlight;Strategy;;Chaos Reigns I (Fixed);Shattered Empire;3;0
+In Time of War;Event;;Diamond Edition (Uncommon)/Promotional–Diamond (Promo);Rain of Blood (Diamond);1;0
+In Time of War;Event;;Gold Edition (Uncommon)/A Perfect Cut (Starter)/L5R Experience (Fixed);Four Winds (Gold);1;0
+In Time of War;Event;;Samurai Edition (Uncommon);Race for the Throne (Samurai);1;0
+In Time of War;Event;;Time of the Void (Uncommon);Clan Wars (Imperial);1;0
 Inazuma's Caress;Spell;;Evil Portents (Common);A Brother's Destiny (Twenty Festivals);3;3
 Inazuma's Caress;Spell;;Evil Portents (Common);War of the Seals (Onyx Edition);3;2
 Incapacitated;Strategy;;Emperor Edition (Common)/Emperor Edition Demo Decks (Fixed)/Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
@@ -7426,6 +7441,10 @@ Refugees;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Refugees;Strategy;;Samurai Edition (Common)/Tomorrow (Fixed);Race for the Throne (Samurai);3;1
 Refugees;Strategy;;Shattered Empire (Fixed);Shattered Empire;3;0
 Regional Travel Papers;Item;;Soul of the Empire (Common);Hidden Emperor (Jade);3;3
+Regions of Rokugan;Event;;Diamond Edition (Fixed);Rain of Blood (Diamond);1;0
+Regions of Rokugan;Event;;Gold Edition (Uncommon);Four Winds (Gold);1;0
+Regions of Rokugan;Event;;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);1;0
+Regions of Rokugan;Event;;Time of the Void (Uncommon);Clan Wars (Imperial);1;0
 Reincarnate;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Reinforce the Gates;Strategy;;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
 Reinforce the Gates;Strategy;;Lotus Edition (Uncommon)/Tomorrow (Fixed);Age of Enlightenment (Lotus);3;0
@@ -9850,9 +9869,8 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #2460
-#2463
-#2470-2471
+# Done through card #2470
+#2471
 #2473
 #2475
 #2477-2478
@@ -9866,6 +9884,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #2550
 #2562
 #2575
+#2580
 #2586
 #2600
 #2602
@@ -9985,6 +10004,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3701
 #3710
 #3713
+#3726
 #3730
 #3739
 #3743
@@ -10267,6 +10287,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #6218
 #6227
 #6229
+#6231
 #6235
 #6247-6248
 #6250

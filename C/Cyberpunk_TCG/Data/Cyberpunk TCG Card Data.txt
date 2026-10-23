@@ -5,7 +5,7 @@ Dexter DeShawn: Off the Grid;Legend;R;Fixer;Welcome to Night City;MS01-002-R;0
 Johnny Silverhand: Rocking Renegade;Legend;R;Merc/Rocker/Samurai;Welcome to Night City;MS01-003-S;0
 Rebecca: Having a Moment;Legend;R;;PRM01-005-NR;0
 Yorinobu Arasaka: Embracing Destruction;Legend;R;Arasaka/Corpo;Welcome to Night City;SD02-001-E;1
-Japantown Jonin;Unit;R;Tyger Claws;Welcome to Night City;MS01-010-C;0
+Japantown Jonin;Unit;R;Tyger Claws;Welcome to Night City;MS01-010-C;1
 Ruthless Lowlife;Unit;R;Ganger/Maelstrom;MS01-017-C;3
 La Llorona: Ghost of the Past;Unit;R;Ganger/Valentino;MS01-013-U;0
 Swordwise Huscle;Unit;R;Merc;MS01-019-C;2
@@ -24,7 +24,7 @@ Minotaur;Unit;R;Arasaka/Drone/Militech;SD02-003-U;2
 Octant;Unit;R;Drone/Militech/Zetatech;MS01-015-C;0
 Yorinobu Arasaka: Steel Dragon;Unit;R;Arasaka/Corpo;MS01-022-R;0
 Mantis Blades;Gear;R;Cyberware;MS01-025-C;3
-Arasaka Emergency Radioport;Gear;R;Arasaka/Cyberware;MS01-023-C;2
+Arasaka Emergency Radioport;Gear;R;Arasaka/Cyberware;MS01-023-C;3
 Satori: Sword of Saburo;Gear;R;Arasaka/Weapon;MS01-026-U;3
 Deadman Transmitter;Gear;R;Cyberware/Trauma Team;MS01-024-U;0
 All is Lost;Program;R;Zetatech;MS01-027-C;1
@@ -33,7 +33,7 @@ Industrial Assembly;Program;R;Arasaka/Braindance;MS01-033-U;2
 Appetite for Destruction;Program;R;Ganger;MS01-028-U;0
 Bonnie and Clyde;Program;R;Braindance;MS01-029-U;0
 Over the Edge;Program;R;Merc;MS01-034-C;2
-Gunpoint Diplomacy;Program;R;Ganger/Plan;MS01-032-U;0
+Gunpoint Diplomacy;Program;R;Ganger/Plan;MS01-032-U;1
 Shattered Memories;Program;R;Braindance;MS01-035-R;2
 Carnage at the Colosseum;Program;R;Braindance/Extreme;MS01-030-C;0
 Rogue Amendiares: Preem Solo;Legend;Y;Merc;MS01-040-R;0
@@ -52,20 +52,20 @@ Gilded Matón;Unit;Y;Ganger/Valentino;MS01-045-C;0
 Hanako Arasaka: In a Gilded Cage;Unit;Y;Arasaka/Corpo/Netrunner;MS01-046-R;0
 Offduty Malfini;Unit;Y;Ganger/Voodoo Boys;MS01-051-C/SD01-004-C;2
 T-Bug: Amateur Philosopher;Unit;Y;Merc/Netrunner;MS01-055-U/SD01-006-U;2
-Caliber: Totentanz's Top Dog;Unit;Y;Ganger/Maelstrom;MS01-044-R;0
-MaxTac Suppression Team;Unit;Y;NCPD;MS01-050-C;1
+Caliber: Totentanz's Top Dog;Unit;Y;Ganger/Maelstrom;MS01-044-R;1
+MaxTac Suppression Team;Unit;Y;NCPD;MS01-050-C;2
 Rockn' Rockerboy;Unit;Y;Rocker;MS01-052-C;1
 Viktor Vektor: Drop Your Illusions;Unit;Y;Ripperdoc;MS01-057-E;0
 Heywood Ripperdoc;Unit;Y;Ripperdoc;MS01-047-U/SD01-003-U;3
 Jackie Welles: Ride or Die Choom;Unit;Y;Merc/Valentino;MS01-048-E;0
 Trauma Team Operatives;Unit;Y;Medtech/Trauma Team;MS01-056-C;0
-Alt Cunningham: Mother of Daemons;Unit;Y;Merc/Netrunner;MS01-042-R;0
+Alt Cunningham: Mother of Daemons;Unit;Y;Merc/Netrunner;MS01-042-R;1
 Adam Smasher: Metal Over Meat;Unit;Y;Arasaka/Merc;MS01-041-E;0
 Kiroshi Optics;Gear;Y;Cyberware;MS01-061-C/SD01-007-C;3
 
 Secondhand Bombus;Unit;Y;Drone/Zetatech;SD01-005-C/MS01-053-C;2
 Live with the Aftermath;Program;Y;Plan;MS01-068-C;1
-Mandibular Upgrade;Gear;Y;Cyberware;MS01-062-C/SD01-008-C;3
+Mandibular Upgrade;Gear;Y;Cyberware;MS01-062-C/SD01-008-C;4
 Zetatech Faceplate;Gear;Y;Cyberware/Zetatech;MS01-064-U/SD01-009-C;3
 Afterparty at Lizzie's;Program;Y;Braindance/Mox;SD01-010-C/MS01-065-C;3
 
@@ -81,16 +81,17 @@ MaxTac Heavy;Unit;G;NCPD;MS01-081-U;2
 Sandevistan;Gear;G;Cyberware;MS01-095-U/SD02-019-U;4
 Corporate Surveillance;Program;G;Corpo;MS01-097-U/SD02-020-U;3
 Zetatech Berserk;Gear;G;Cyberware/Zetatech;MS01-096-C;1
+Tyger's Whisper;Unit;Fixer/Tyger Claws;MS01-090-C;1
 
 V: Corporate Exile;Legend;U;Corpo/Merc;SD01-012-E;1
 Jackie Welles: Pour One Out For Me;Legend;U;Merc;SD01-011-E;1
 Judy Álvarez;Legend;U;Ganger/Mox/Techie;MS01-108-E;1
-Jacked-In Voodoo Boy;Unit;U;Netrunner/Voodoo Boys;MS01-115-C;1
+Jacked-In Voodoo Boy;Unit;U;Netrunner/Voodoo Boys;MS01-115-C;2
 Reboot Optics;Program;U;Quickhack;MS01-136-C/SD01-020-C;3
 Nocturne OP55 N1;Program;U;Arasaka/Plan;MS01-134-R;2
 Dying Night: V's Pistol;Gear;U;Merc/Weapon;MS01-128-R/SD01-017-R;2
 Delamain Cab;Unit;U;Vehicle;MS01-112-C/SD01-013-C;3
-Evelyn Parker: Scheming Siren;Unit;U;Doll;MS01-113-U/SD01-014-U;3
+Evelyn Parker: Scheming Siren;Unit;U;Doll;MS01-113-U/SD01-014-U;4
 MT0D12 Flathead;Unit;U;Drone/Militech;SD01-015-U;2
 Psycho Squad;Unit;U;NCPD;SD01-016-C/MS01-124-C;
 Tetratronic Rippler;Gear;U;Cyberware;SD01-018-C/MS01-130-C;2
@@ -98,3 +99,5 @@ Floor It;Program;U;Merc/Quickhack;SD01-019-C/MS01-132-C;4
 Rita Wheeler: No Stupid Questions;Unit;U;Ganger/Mox;MS01-125-C;1
 Maman Brigitte: Spirit of Death;Unit;U;Mystic/Netrunner/Voodoo Boys;MS01-118-U;1
 Pyramid Song;Program;U;Braindance;MS01-135-R;1
+Chrome Reverie;Program;U;Braindance;MS01-131-C;1
+NetWatch Netdriver;Gear;U;Cyberware/Netrunner/Netwatch;MS01-129-U;1

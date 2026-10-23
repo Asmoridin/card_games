@@ -45,6 +45,9 @@ jobs:
             - [ ] Innistrad Block
             - [ ] Return to Ravnica Block
             - [ ] Theros Block
+            - [ ] Khans of Tarkir Block
+            - [ ] Battle for Zendikar Block
+            - [ ] Shadows over Innistrad Block
             - [ ] Pauper Commander
             - [ ] Commander
         run: |
