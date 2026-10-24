@@ -37,8 +37,8 @@ VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'In
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment', 'Doorway',
     'Trouble', 'Tribble', 'Q Event', 'Q Interrupt', 'Q Dilemma', 'Tactic', 'Q Artifact']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
-    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian', 'Starfleet', 'Neutral', 'Xindi',
-    'Vulcan']
+    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian', 'Unified Earth', 'Neutral',
+    'Xindi', 'Vulcan']
 
 class Card:
     """

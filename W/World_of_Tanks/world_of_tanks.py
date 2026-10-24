@@ -234,7 +234,7 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 card_inv_dict = {}
 most_needed_cards = {}
-card_names = set()
+card_numbers = set()
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -244,24 +244,22 @@ for line in lines:
     line_vals = line.split(';')
 
     if line_vals[2] == 'Base' and len(line_vals) == 7:
-        card_name, card_country, card_type, card_sets, card_number, card_rarities, \
+        card_name, card_country, card_type, card_set, card_number, card_rarities, \
             card_own = line_vals
     elif len(line_vals) == 12:
         card_name, card_country, card_type, card_atk, card_ammo, card_hp, card_vp, \
-            card_abilities, card_sets, card_number, card_rarities, card_own = line_vals
+            card_abilities, card_set, card_number, card_rarities, card_own = line_vals
     else:
         print("Line with wrong number of items:")
         print(line)
         continue
 
     # Validate card data
-    if card_name in card_names:
-        print(f"Duplicate card name: {card_name}")
-    card_names.add(card_name)
-    card_sets = card_sets.split('/')
-    for card_set in card_sets:
-        if card_set not in game_sets:
-            print(f"Unknown set {card_set} for {card_name}")
+    if card_set not in game_sets:
+        print(f"Unknown set {card_set} for {card_name}")
+    if (card_set, card_number) in card_numbers:
+        print(f"Duplicate card: {card_set} - {card_number}")
+    card_numbers.add((card_set, card_number))
 
     if card_type not in valid_types:
         print(f"Invalid card type {card_type} for {card_name}")
@@ -284,7 +282,7 @@ for line in lines:
     if card_own < CARD_MAX:
         most_needed_cards[card_name] = CARD_MAX - card_own
     card_inv_dict[card_name] = card_own
-    item_list.append((card_name, card_country, card_type, card_sets, card_rarities, \
+    item_list.append((card_name, card_country, card_type, card_set, card_rarities, \
         card_own, CARD_MAX))
 
 # Get W-L structures working

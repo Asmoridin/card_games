@@ -186,7 +186,7 @@ def parse_restrictions(restr_lines):
                         'Kamigawa Block', 'Ravnica Block', 'Premodern', 'Time Spiral Block',
                         'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block', 'Innistrad Block',
                         'Scars of Mirrodin Block', 'Return to Ravnica Block', 'Theros Block',
-                        'Khans of Tarkir Block' , 'Battle for Zendikar Block',
+                        'Khans of Tarkir Block' , 'Battle for Zendikar Block', 'Kaladesh Block',
                         'Shadows over Innistrad Block', ]:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
@@ -199,7 +199,6 @@ def parse_restrictions(restr_lines):
     # Guilds of Ravnica block. ( Guilds of Ravnica, Ravnica Allegiance, War of the Spark)
     # Ixalan block (Ixalan, Rivals of Ixalan)
     # Amonkhet block (Amonkhet, Hour of Devastation)
-    # Kaladesh block (Kaladesh, Aether Revolt)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -313,6 +312,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Shadows over Innistrad block (Shadows over Innistrad, Eldritch Moon)
             if this_set in ['Shadows over Innistrad', 'Eldritch Moon']:
                 ret_formats['Shadows over Innistrad Block'] = 4
+            # Kaladesh block (Kaladesh, Aether Revolt)
+            if this_set in ['Kaladesh', 'Aether Revolt']:
+                ret_formats['Kaladesh Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -785,6 +787,10 @@ if __name__ == "__main__":
     # Shadows over Innistrad Block
     soi_dict = process_formats("Shadows over Innistrad Block", card_corrections, True)
     handle_output("Shadows over Innistrad Block", soi_dict, out_file_h)
+
+    # Kaladesh Block
+    kaladesh_dict = process_formats("Kaladesh Block", card_corrections, True)
+    handle_output("Kaladesh Block", kaladesh_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)

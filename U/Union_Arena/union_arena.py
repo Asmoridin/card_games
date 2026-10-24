@@ -14,7 +14,7 @@ GAME_NAME = "Union Arena"
 
 valid_types = ['Character', 'Event', 'Site', 'Action Point']
 valid_colors = ['Green', 'Yellow', 'Blue', 'Purple', 'Red']
-valid_rarities = ['C', 'U', 'R', 'SR', 'SP', ]
+valid_rarities = ['C', 'U', 'R', 'SR', 'SP', 'PcC', 'PcR', 'PcSR']
 VALID_TRIGGERS = ['', 'Active', 'Draw', 'Color', 'Raid', 'Special', 'Final', 'Get']
 
 FILE_PREFIX = "card_games\\U\\Union_Arena"

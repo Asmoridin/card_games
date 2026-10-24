@@ -203,7 +203,6 @@ if __name__ == "__main__":
         if game_name != "New Game":
             TOTAL_PLAYS_GOAL += goal_plays
 
-
     for game_name, game_play_amount in current_year_plays.items():
         if game_name in game_plays_total:
             game_plays_total[game_name] += game_play_amount
