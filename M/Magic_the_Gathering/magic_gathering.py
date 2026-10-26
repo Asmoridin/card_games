@@ -640,6 +640,8 @@ for line in lines:
         CARD_MAX = 1
     if 'Creature' in card_type and 'Uncommon' in card_rarities:
         card_formats['Pauper Commander'] = 1
+    if 'Enchantment' in card_type and 'Uncommon' in card_rarities and 'Background' in card_subtype:
+        card_formats['Pauper Commander'] = 1
     TOTAL_MAX += CARD_MAX
     TOTAL_OWN += card_qty
     raw_list.append((card_name, card_type, card_subtype, card_colors, card_sets, card_rarities, \
