@@ -321,7 +321,7 @@ Cavern Angels X-Wing;LAW-189-C;Space Unit;Rebel/Vehicle/Fighter;R;0
 Cell Block Guard;SOR-229-C/SHD-238-C;Ground Unit;Imperial/Trooper;B;3 # 1 foil
 Chain Code Collector;SHD-216-C;Ground Unit;Underworld/Bounty Hunter;Y;3 # 1 hyperfoil
 Chairman Papanoida, Undaunted Diplomat;SEC-159-R;Ground Unit;Republic/Official;R/R;2 # 1 hyperspace
-Cham Syndulla, Rallying Ryloth;JTL-164-U;Ground Unit;Rebel/Twi'lek;R;1
+Cham Syndulla, Rallying Ryloth;JTL-164-U/IC27-131-U;Ground Unit;Rebel/Twi'lek;R;1
 Champion's KT9 Podracer;LAW-232-C;Ground Unit;Vehicle/Speeder;Y;0
 Champion;TS26-45-C;Upgrade;Innate;U;3
 Chancellor Palpatine, How Liberty Dies;SEC-001-S;Leader;Republic/Official;U/B;1
@@ -592,7 +592,7 @@ DragonSnake Bog;ASH-024-C;Base;Dagobah;R;0
 Drain Essence;LOF-041-C;Event;Force;U/B;3 # 1 foil
 Drengir Spawn;LOF-086-R;Ground Unit;Creature;G/B;1
 Dressellian Commandos;SEC-100-C;Ground Unit;Rebel/Trooper;G/W;3
-DRK-1 Probe Droid;LOF-155-C;Ground Unit;Droid;R;3
+DRK-1 Probe Droid;LOF-155-C/IC27-129-C;Ground Unit;Droid;R;3
 Droid Cohort;TWI-218-C;Upgrade;Supply;Y;3
 Droid Commando;TWI-081-C;Ground Unit;Separatist/Droid/Trooper;G/B;3 # 1 hyperspace
 Droid Deployment;TWI-237-C;Event;Supply;B;3 # 1 foil
@@ -899,17 +899,17 @@ Hera Syndulla, Renegade General;ASH-031-R;Ground Unit;New Republic/Twi'lek/Spect
 Hera Syndulla, Spectre Two;SOR-008-R;Leader;Rebel/Twi'lek/Spectre;G/W;1
 Hera Syndulla, We've Lost Enough;JTL-045-U;Ground Unit;Rebel/Twi'lek/Spectre/Pilot;U/W;2 # 1 hyperspace
 Heroes on Both Sides;TWI-249-C;Event;Republic/Separatist;W;3 # 1 hyperspace
-# done through here
-Heroic ARC-170;SEC-254-C;Space Unit;W;3 # 2 hyperspace
+Heroic ARC-170;SEC-254-C;Space Unit;Republic/Vehicle/Fighter;W;3 # 2 hyperspace
 Heroic Purrgil;ASH-207-C;Space Unit;Creature;Y/W;0
-Heroic Renegade;SHD-146-C;Ground Unit;R/W;3
-Heroic Resolve;SHD-155-R;Upgrade;R/W;0
-Heroic Sacrifice;SOR-150-R;Event;R/W;2
-Hevy, Staunch Martyr;TWI-164-U;Ground Unit;R;2
+Heroic Renegade;SHD-146-C;Ground Unit;Underworld;R/W;3
+Heroic Resolve;SHD-155-R;Upgrade;Innate;R/W;0
+Heroic Sacrifice;SOR-150-R;Event;Tactic;R/W;2
+Hevy, Staunch Martyr;TWI-164-U;Ground Unit;Republic/Clone/Trooper;R;2
 Hidden Hand Supplier;LAW-257-C;Ground Unit;Underworld;N;0
 Hidden Hunters;LAW-160-C;Ground Unit;Bounty Hunter;G;0
-Hidden Sharpshooter;TWI-214-C;Ground Unit;Y;2
-High Command Councilor;SEC-249-C;Ground Unit;W;3
+Hidden Sharpshooter;TWI-214-C;Ground Unit;Republic/Clone/Trooper;Y;2
+High Command Councilor;SEC-249-C;Ground Unit;Rebel/Official;W;3
+# done through here
 Highsinger, Deadly Droid;LAW-059-R;Ground Unit;Underworld/Droid/Bounty Hunter;G/R;0
 Hired Slicer;SEC-220-U;Ground Unit;Y;3 # 1 foil
 Hive Defense Wing;LOF-110-C;Space Unit;G;3 # 1 foil
@@ -1390,7 +1390,7 @@ Onyx Cinder, Adventure Awaits;ASH-177-R;Space Unit;Vehicle/Transport;R;1
 Onyx Squadron Brute;JTL-033-C/IC27-015-C;Space Unit;U/B;3
 OOM-Series Officer;TWI-131-C;Ground Unit;R/B;3 # 1 hyperspace
 Open Circle Ace;ASH-201-C;Space Unit;Republic/Vehicle/Fighter;Y/W;0
-Open Fire;SOR-172-C/TWI-174-S;Event;R;3
+Open Fire;SOR-172-C/TWI-174-S/IC27-136-C;Event;R;3
 Operation Cinder;ASH-151-R;Event;Disaster/Plan;R/B;0
 Oppo Rancisis, Ancient Councilor;LOF-105-L;Ground Unit;G;0
 Oppression Breeds Rebellion;SEC-158-U;Event;R/W;3 # 1 hyperspace
@@ -2394,6 +2394,16 @@ Don't Touch Anything;HMW-217-U;Event;Trick;Y/W;0
 New Tactics;HMW-218-C;Event;Learned/Tactic;Y/W;0
 Jaxxon, I Can Hear You Breathing!;HMW-219-R;Ground Unit;Underworld;Y;0
 Clever Trapper;HMW-220-C;Ground Unit;Ewok;Y;0
+Teeka, You're in Luck;HMW-221-U;Ground Unit;Jawa;Y;0
+Sandcrawler Sales Team;HMW-222-C;Ground Unit;Jawa;Y;0
+Therm Scissorpunch, Boastful Gambler;HMW-223-R;Ground Unit;Underworld;Y;0
+Tusken Raider;HMW-224-C;Ground Unit;Tusken;Y;0
+Boba Fett, Family Found;HMW-225-R;Ground Unit;Tusken;Y;0
+Gungan Battle Wagon;HMW-226-C;Ground Unit;Creature/Gungan;Y;0
+Horizon Chaser;HMW-227-C;Space Unit;Fringe/Vehicle/Transport;Y;0
+Lakeside Shaaks;HMW-228-C;Ground Unit;Creature;Y;0
+Lurking Wampa;HMW-229-C;Ground Unit;Creature;Y;0
+Raiding Party;HMW-230-C;Ground Unit;Tusken;Y;0
 
 Ritual Dragon;HMW-234-L;Ground Unit;Creature;Y;0
 Gaderffii Stick;HMW-235-C;Upgrade;Item/Weapon;Y;1
@@ -2521,3 +2531,24 @@ The Inquisitor's TIE, Would Rather Win;IC27-104-R;Space Unit;Imperial/Vehicle/Fi
 # IC27-119 missing
 # IC27-120 missing
 Kanan Jarrus, Sometimes I Hate Being Right;IC27-121-U;Ground Unit;Force/Jedi/Rebel/Spectre;R/W;0
+# IC27-122 missing
+# IC27-123 missing
+# IC27-124 missing
+# IC27-125 missing
+# IC27-126 missing
+# IC27-127 missing
+# IC27-128 missing
+# IC27-130 missing
+# IC27-132 missing
+# IC27-133 missing
+# IC27-134 missing
+# IC27-135 missing
+# IC27-137 missing
+# IC27-138 missing
+# IC27-139 missing
+# IC27-140 missing
+# IC27-141 missing
+# IC27-142 missing
+Wat Tambor, Warped Warbling;IC27-143-U;Ground Unit;Separatist/Official;Y/B;0
+# IC27-144 missing
+Poggle the Lesser, Secret Designs;IC27-145-R;Ground Unit;Separatist/Official;Y/B;0
