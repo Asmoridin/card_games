@@ -586,7 +586,7 @@ Distortion Field;Event;;Premiere;445,6032,6395,6758,7680;;4;0 # Needs errata
 Distortion of Space/Time Continuum;Interrupt;;Premiere/Voyager;446,447,5654,6033,6396,6759,7681,8045;;4;0 # Needs errata
 Distraction;Dilemma;Dual;Mirror, Mirror;448,4798;;4;4
 Distress Mission;Mission;Planet;Introductory 2-Player Game/Virtual Promos;449,5815;;2;1 # have 1 I2P
-Divert Power;Objective;;Voyager;450;;4;0
+Divert Power;Objective;;Voyager;450;;4;1
 Divok;Personnel;Klingon;Premiere/Coming of Age/Trouble with Tribbles Starter Decks;116,5437,5984,6347,6710,7105,7632;;4;0
 Dixon Hill's Business Card;Interrupt/Event;;Fajo Collection;452;;4;1
 Dixon Hill;Personnel;Non-Aligned;Holodeck Adventures;451;;2;0
@@ -679,7 +679,7 @@ Eleven of Twelve;Personnel;Borg;The Borg;145;;4;0
 Eli Hollander;Personnel;Non-Aligned;Holodeck Adventures;1087;;2;0
 Elim Garak;Personnel;Cardassian;Deep Space 9/Reflections;1089,3553;;2;0
 Elim;Personnel;Cardassian;Blaze of Glory/Virtual Promos;1088,4290,7065;;2;0
-Eliminate Starship;Objective;;First Contact/The Borg;1090;;4;0
+Eliminate Starship;Objective;;First Contact/The Borg;1090;;5;0 # needs errata
 Eliminate Virus;Mission;Planet;Deep Space 9/Homefront IV;1092,4272;;3;2 # have 2 HF4 
 Elizabeth Cutler;Personnel;Unified Earth;Enterprise Collection;1093,5457;;2;0
 Elizabeth Lense;Personnel;Federation;Rules of Acquisition;1094;;2;0
@@ -692,6 +692,7 @@ Emergency Surgery;Dilemma;Dual;Star Trek 60: The Diamond Anniversary Collection;
 Emergency Transporter Armbands;Interrupt;;Premiere;1100,6098,6461,6824,7746,8110;;4;0 # needs errata
 Emergent Life-form;Dilemma;Space;Holodeck Adventures/Virtual Promos;1101,7439;;4;0
 Emory Erickson;Personnel;Unified Earth;Enterprise Collection;1102,5458;;2;0
+Emotional Blackmail;Objective;;Crossover;4767;;4;0
 Empathic Echo;Dilemma;Dual;Alternate Universe;1103;;4;4
 Empathic Touch;Interrupt;;All Good Things/Virtual Promos;1104,5729,8413,8454;;4;0
 Empok Nor;Facility;Neutral;The Dominion;1105,1106;;2;0
@@ -700,7 +701,7 @@ End Transmission;Interrupt;;Q Continuum;1108;;5;5
 Enduring Love;Interrupt;;Star Trek 60: The Diamond Anniversary Collection;8556;;4;0
 Enemies of the State;Dilemma;Planet;Cold Front;5285;;4;0
 Energy Vortex;Interrupt;;Premiere;1109,6099,6462,6825,7747;;4;0 # needs errata
-Engage Cloak;Objective;;The Dominion/Homefront III;1110,4108;;4;0
+Engage Cloak;Objective;;The Dominion/Homefront III;1110,4108;;4;4
 Engage Shuttle Operations: Dominion;Event;;Blaze of Glory;1112;;4;0
 Engage Shuttle Operations;Event;;Alternate Universe/Virtual Promos;1111,5829;;5;4 # Have 4 AU
 Engine Imbalance;Dilemma;Space;The Motion Pictures;1113,7246;;4;0
@@ -741,14 +742,14 @@ Espionage: Romulan on Cardassian;Event;;Deep Space 9;1143;;4;0
 Espionage: Romulan on Federation;Event;;Premiere;1144,6106,6469,6832,7754;;4;0 # Needs errata
 Espionage: Romulan on Klingon;Event;;Premiere;1145,6107,6470,6833,7755;;4;0 # Needs errata
 Establish Dominion Foothold;Objective;;The Dominion;1146;;4;0
-Establish Gateway;Objective;;First Contact/The Borg;1147,1148;;4;0
+Establish Gateway;Objective;;First Contact/The Borg;1147,1148;;5;5
 Establish Home Planet;Mission;Planet;Holodeck Adventures;1149;;2;0
 Establish Landing Protocols;Event;;Deep Space 9;1150,4385;;4;0
 Establish Relations;Mission;Planet;Official Tournament Sealed Deck;150,5900;;4;0 # needs errata
 Establish Settlement;Mission;Planet;The Borg;1151;;2;2
 Establish Station;Mission;Planet;Deep Space 9;1152;;2;1
 Establish Tractor Lock;Objective;;Deep Space 9;1153;;4;0
-Establish Trade Route;Objective;;Rules of Acquisition;1154;;4;0
+Establish Trade Route;Objective;;Rules of Acquisition;1154;;4;2
 Etana Jol;Personnel;Non-Aligned;Premiere;1155,6108,6471,6834,7756,8120;;2;0
 Eternal Bond;Event;;Star Trek 60: The Diamond Anniversary Collection;8546;;4;0
 Ethan Novakovich;Personnel;Unified Earth;Enterprise Collection;1156,5459;;2;0
@@ -759,6 +760,7 @@ Evade Detection;Mission;Space;To the Journey;8493;;2;0
 Evade Dominion Squadron;Mission;Space;Homefront IV;4273;;2;2
 Evade Neural Harvest;Mission;Space;To the Journey;8494;;2;0
 Evade Patrolling Squadron;Mission;Space;Crossover/Virtual Promos;4750,5174;;4;4
+Evaluate Starship Systems;Objective;;Crossover;4768;;4;4
 Evaluate Terraforming;Mission;Planet;Premiere;1159,6110,6473,6836,7758,8122;;2;1
 Evasive Maneuvers;Tactic;;Blaze of Glory/BaH!;1160,3711;;10;0
 Evek;Personnel;Non-Aligned;Premiere;1161,6111,6474,6837,7759,8123;;2;0
@@ -807,7 +809,7 @@ Female's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Sta
 Fennim;Personnel;Non-Aligned;The Borg;1197;;2;0
 Ferengi Attack;Dilemma;Planet;Alternate Universe/Introductory 2-Player Game;1198,7174;;4;4
 Ferengi Bug;Dilemma;Dual;Rules of Acquisition;1199;;4;0
-Ferengi Conference;Objective;;Rules of Acquisition/Virtual Promos;1200,7429;;4;0
+Ferengi Conference;Objective;;Rules of Acquisition/Virtual Promos;1200,7429;;4;2 # have 2 RoA
 Ferengi Disruptor Rifle;Equipment;;Rules of Acquisition;1202;;4;4
 Ferengi Disruptor;Equipment;;Rules of Acquisition;1201;;4;0
 Ferengi Energy Weapon;Tactic;;Rules of Acquisition/BaH!;1203,3712;;10;0
@@ -844,7 +846,7 @@ Fleet Admiral Shanthi;Personnel;Federation;Premiere/Trouble with Tribbles Starte
 Flight of the Intruder;Interrupt;;The Dominion;1227;;4;0
 Flim-Flam Artist;Dilemma;Planet;Homefront;3491;;4;4
 Fontaine;Personnel;Non-Aligned;Mirror, Mirror;42;;2;0
-For Cardassia!;Objective;;Mirror, Mirror;1228;;4;0
+For Cardassia!;Objective;;Mirror, Mirror;1228;;4;4
 Forced-Labor Camp;Objective;;Rules of Acquisition;1229,4402;;4;0
 Forra Gegen;Personnel;Non-Aligned;Star Trek 60: The Diamond Anniversary Collection;8578;;2;0
 Forsaken;Dilemma;Dual;Homefront II;3852;;4;4
@@ -957,7 +959,7 @@ Hanonian Land Eel;Dilemma;Planet;Voyager/Virtual Promos;12,3927;;4;0
 Harath;Personnel;Cardassian;Holodeck Adventures;178;179;4;0
 Harath;Personnel;Hirogen;Holodeck Adventures;179;178;4;0
 Harkan;Personnel;Hirogen;The Borg;180;;4;0
-Harness Particle 010;Objective;;The Borg;13;;4;0
+Harness Particle 010;Objective;;The Borg;13;;4;4
 Haron;Personnel;Kazon;Voyager;14;;2;0
 Harry Kim;Personnel;Federation;Voyager;15;;2;0
 Harvest Specimens;Mission;Space;To the Journey;8498;;2;0
@@ -970,7 +972,7 @@ Head to Head;Dilemma;Planet;Crossover;4727;;4;4
 Heal Life-form;Mission;Space;Voyager;1280;;2;2
 Heisenberg Compensators;Event;;Q Continuum;1281;;4;1
 Henreid;Personnel;Federation;The Motion Pictures;181,7186;;4;0
-Hero of the Empire;Objective;;The Trouble with Tribbles;1282;;4;0
+Hero of the Empire;Objective;;The Trouble with Tribbles;1282;;4;4
 Hero Worship;Dilemma;Dual;The Motion Pictures/Virtual Promos;1283,4878,7252;;4;0
 Hidden Entrance;Dilemma;Planet;Alternate Universe/Introductory 2-Player Game;1284,7175;;4;4
 Hidden Fighter;Interrupt;;Deep Space 9;1285,4393;;4;0
@@ -982,6 +984,7 @@ Hirogen Hunt;Incident;;The Borg;1289;;4;4
 Hirogen Outpost;Facility;Hirogen;The Borg/Homefront VI;182,4702;;4;0
 Hirogen Talon;Equipment;;The Borg;1290;;5;5
 His Honor, The High Sheriff of Nottingham;Q Dilemma;;Q Continuum;1291;;4;0
+Historic Coming Together;Objective;;Crossover;4753;;4;4
 Historical Research;Mission;Planet;Mirror, Mirror;1292,4821;;2;2
 History Repeats Itself;Dilemma;Planet;Homefront VI;4681;;4;4
 Hogan;Personnel;Federation;The Borg;183;184;4;0
@@ -1009,7 +1012,7 @@ Hoshi Sato;Personnel;Unified Earth;Enterprise Collection;1310,5460;;2;0
 Hostage Situation;Mission;Planet;Introductory 2-Player Game;1311;;2;1
 Hostage Trade;Incident;;Mirror, Mirror;1312;;4;4
 Howard Heirloom Candle;Interrupt;;Alternate Universe;1313;;4;4
-HQ: Defensive Measures;Objective;;Deep Space 9/Homefront III;1314,4109;;4;0
+HQ: Defensive Measures;Objective;;Deep Space 9/Homefront III;1314,4109;;4;4
 HQ: Ferengi Credit Exchange;Incident;;Rules of Acquisition;1315;;4;4
 HQ: Orbital Weapons Platform;Incident;;The Trouble with Tribbles/Referee Reprints;1316,3097;;4;1
 HQ: Return Orb to Bajor;Objective;;Deep Space 9/Virtual Promos;1317,5819;;4;0
@@ -2012,14 +2015,20 @@ Rusot;Personnel;Cardassian;Holodeck Adventures;1040;;2;0
 Ruwon;Personnel;Romulan;Deep Space 9;2038;;2;0
 Saavik;Personnel;Federation;The Motion Pictures;2039,7291;;2;0
 Sabotaged Negotiations;Dilemma;Planet;The Borg;2040;;4;4
+Sakkath;Personnel;Federation;Q Continuum;2041;;2;0
+Sakonna;Personnel;Non-Aligned;Deep Space 9;2042,4445;;2;0
 Saldin;Personnel;Kazon;Voyager;329;;4;0
+Salia;Personnel;Non-Aligned;The Dominion;2043;;2;0
 Saltah'na Clock;Artifact;;Deep Space 9/Virtual Promos;2044,4594;;2;1 # Have 1 DS9
 Salvage Borg Technology;Mission;Space;To the Journey;8508;;2;0
 Salvage Operation;Mission;Space;Voyager;2045;;2;2
+Salvage Starship;Objective;;First Contact;2046;;4;0
 Sam Lavelle;Personnel;Federation;Holodeck Adventures;330;;4;0
 Sam'po;Personnel;Non-Aligned;The Motion Pictures;331,7198;;4;0
+Samantha Wildman;Personnel;Federation;Voyager;2047;;2;0
 Samaritan Snare;Mission;Space;Q Continuum;2048;;2;1
 Samuel Clemens' Pocketwatch;Artifact;;Alternate Universe;2050;;2;2
+Samuel Clemens;Personnel;Non-Aligned;Q Continuum;2049;;2;0
 Sarek;Personnel;Federation;Premiere/Virtual Promos;2051,5719,6255,6618,6981,7903,8267;;2;1 # Have 1 PREM
 Sarita Carson;Personnel;Federation;Blaze of Glory/Trouble with Tribbles Starter Decks;332,4434,7119;;4;0
 Sarjenka;Dilemma;Planet;Premiere;2053,6256,6619,6982,7904;;4;0 # need errata
@@ -2412,10 +2421,8 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 2040
-#2044-2045
-#2048
-#2050-2051
+# Done through card 2050
+#2051
 #2053-2054
 #2056-2059
 #2065-2066
@@ -2583,7 +2590,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4393-4394
 #4399-4425
 #4427-4439
-#4442-4444
+#4442-4445
 #4447-4452
 #4461-4475
 #4477
@@ -2610,8 +2617,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4695-4707
 #4711-4713
 #4716-4738
-#4740-4752
+#4740-4753
 #4760-4765
+#4767-4768
 #4794
 #4796
 #4798-4799

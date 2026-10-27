@@ -854,7 +854,7 @@ Grievous's Wheel Bike;TWI-236-S;Upgrade;Vehicle;B;3
 Grim Resolve;TWI-172-C;Event;Tactic;R;3 # 1 foil
 Grim Valor;JTL-073-U;Upgrade;Innate;U;1
 Grogu, Charming Companion;ASH-018-R/MV26-1-R;Leader;Force;Y/W;1
-Grogu, Irresistible;SHD-196-S;Ground Unit;Force;Y/W;3
+Grogu, Irresistible;SHD-196-S/IC27-154-U;Ground Unit;Force;Y/W;3
 Grogu, Mysterious Child;LOF-246-L;Ground Unit;Force;W;1 # 1 foil
 Grogu, Yes. Yes. Yes.;ASH-155-L;Ground Unit;Force/Droid;R/W;0
 Ground Assault AT-AT;IBH-056-S/IBH-067-S;Ground Unit;Imperial/Vehicle/Walker;R/B;0
@@ -909,18 +909,18 @@ Hidden Hand Supplier;LAW-257-C;Ground Unit;Underworld;N;0
 Hidden Hunters;LAW-160-C;Ground Unit;Bounty Hunter;G;0
 Hidden Sharpshooter;TWI-214-C;Ground Unit;Republic/Clone/Trooper;Y;2
 High Command Councilor;SEC-249-C;Ground Unit;Rebel/Official;W;3
-# done through here
 Highsinger, Deadly Droid;LAW-059-R;Ground Unit;Underworld/Droid/Bounty Hunter;G/R;0
-Hired Slicer;SEC-220-U;Ground Unit;Y;3 # 1 foil
-Hive Defense Wing;LOF-110-C;Space Unit;G;3 # 1 foil
-HK-47, Exclamation: Die, Meatbag!;LOF-130-L;Ground Unit;R/B;2 # 1 hyperspace
-HK-87 Assassin Droid;LOF-235-U;Space Unit;B;1
+Hired Slicer;SEC-220-U;Ground Unit;Fringe;Y;3 # 1 foil
+Hive Defense Wing;LOF-110-C;Space Unit;Separatist/Vehicle/Fighter;G;3 # 1 foil
+HK-47, Exclamation: Die, Meatbag!;LOF-130-L;Ground Unit;Sith/Droid;R/B;2 # 1 hyperspace
+HK-87 Assassin Droid;LOF-235-U;Space Unit;Imperial/Droid;B;1
 Hold For Questioning;LAW-217-U;Event;Law;Y/B;1
 Hold Them Off;ASH-139-U;Event;Tactic;G;0
-Hold-Out Blaster;TWI-256-C;Upgrade;N;3
-Home One, Alliance Flagship;SOR-102-L;Space Unit;G/W;2
+Hold-Out Blaster;TWI-256-C;Upgrade;Item/Weapon;N;3
+Home One, Alliance Flagship;SOR-102-L;Space Unit;Rebel/Vehicle/Capital Ship;G/W;2
 Home One, Heart of the Fleet;ASH-065-U;Space Unit;Rebel/Vehicle/Capital Ship;W/U;0
-Home One, On My Mark;JTL-204-L;Space Unit;Y/W;0
+Home One, On My Mark;JTL-204-L;Space Unit;Rebel/Vehicle/Capital Ship;Y/W;0
+# done through here
 Homestead Militia;SOR-113-C/JTL-113-C;Ground Unit;G;3 # 1 hyperspace
 Hondo Ohnaka, Plays By His Own Rules;LAW-094-L;Ground Unit;Underworld;Y/U;0
 Hondo Ohnaka, Superfluous Swindler;JTL-056-L;Ground Unit;U;0
@@ -2188,7 +2188,7 @@ General Grievous, Separatist Warlord;HMW-008-C;Leader;Separatist/Official;G/B;1
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;0
 Tarfful, Fighting from the Shadowlands;HMW-010-C;Leader;Rebel/Wookiee;G/W;0
 Darth Sidious, There is No Mercy;HMW-011-R;Leader;Force/Sith;R/B;0
-Poggle the Lesser, Let the Executions Begin;HMW-012-C;Leader;Separatist/Official;R/B;0
+Poggle the Lesser, Let the Executions Begin;HMW-012-C;Leader;Separatist/Official;R/B;1
 Cham Syndulla, Hammer of Ryloth;HMW-013-R;Leader;Twi'lek;R/W;0
 Wicket, Few Greater Battles to Fight;HMW-014-C;Leader;Ewok;R/W;0
 Bossk, Cruel Hunter;HMW-015-C;Leader;Underworld/Bounty Hunter;Y/B;0
@@ -2243,7 +2243,7 @@ Scorch, Imperial Commando;HMW-064-U;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Carrion Spike, Harbinger of Tyranny;HMW-066-R;Space Unit;Imperial/Vehicle/Capital Ship;U/B;0
 # HMW-067 missing
 # HMW-068 missing
-# HMW-069 missing
+Imperial Venator;HMW-069-C;Space Unit;Imperial/Vehicle/Capital Ship;U/B;1 # 1 hyperspace
 Dark Sanctum;HMW-070-U;Upgrade;Fortification;U/B;0
 Ravage;HMW-071-U;Event;Disaster/Tactic;U/B;0
 Grand Army Marine;HMW-072-C;Ground Unit;Gungan/Trooper;U/W;0
@@ -2262,7 +2262,7 @@ Gunga City Guard;HMW-084-C;Ground Unit;Gungan;U;0
 Remote Scout;HMW-085-C;Ground Unit;Imperial/Trooper;U;0
 # HMW-086 missing
 # HMW-087 missing
-Numa, Still Fighting;HMW-088-U;Ground Unit;Rebel/Twi'lek;U;0
+Numa, Still Fighting;HMW-088-U;Ground Unit;Rebel/Twi'lek;U;1
 # HMW-089 missing
 Opee Sea Killer;HMW-090-C;Ground Unit;Creature;U;1
 # HMW-091 missing
@@ -2274,8 +2274,8 @@ Dire Prowess;HMW-097-C;Upgrade;Learned;U;0
 Resonate;HMW-098-U;Upgrade;Innate;U;0
 Always a Bigger Fish;HMW-099-R;Event;Innate;U;0
 Torrent;HMW-100-C;Event;Disaster;U;0
-Trust Yourself;HMW-101-C;Event;Innate;U;0
-Dragon's Might;HMW-102-C;Event;Innate;U;0
+Trust Yourself;HMW-101-C;Event;Innate;U;1
+Dragon's Might;HMW-102-C;Event;Innate;U;1
 Disposable B1;HMW-103-C;Ground Unit;Separatist/Droid/Trooper;G/B;0
 Garnac, Let the Hunt Begin!;HMW-104-R;Ground Unit;Underworld;G/B;0
 Nute Gunray, Perfectly Legal;HMW-105-U;Ground Unit;Separatist/Official;G/B;0
@@ -2295,7 +2295,7 @@ Ryyk Blademaster;HMW-118-C;Ground Unit;Wookiee;G/W;0
 Saw Gerrera, Shadowlands Insurgent;HMW-119-R;Ground Unit;Rebel;G/W;0
 Auzituck Avenger;HMW-120-C;Space Unit;Vehicle/Fighter;G/W;0
 Hijacked AT-ST;HMW-121-S;Ground Unit;Rebel/Vehicle/Walker;G/W;0
-Boga, Loyal Varactyl;HMW-122-U;Ground Unit;Creature;G/W;0
+Boga, Loyal Varactyl;HMW-122-U;Ground Unit;Creature;G/W;1
 King Grakchawwaa, King of Kashyyyk;HMW-123-R;Ground Unit;Wookiee/Official;G/W;0
 Luminara Unduli, Besieged General;HMW-124-L;Ground Unit;Force/Jedi/Republic;G/W;0
 The Marauder, A New Home;HMW-125-U;Space Unit;Vehicle/Transport;G/W;0
@@ -2304,9 +2304,9 @@ Chewbacca's Bowcaster, Handcrafted Tradition;HMW-127-S;Upgrade;Item/Weapon;G/W;0
 Mace Windu, Austere Centrist;HMW-128-R;Ground Unit;Force/Jedi;G;0
 Child of Dathomir;HMW-129-C;Ground Unit;Night;G;0
 Emerie Karr, For Your Own Good;HMW-130-R;Ground Unit;Imperial/Clone;G;0
-Soaring Can-Cell;HMW-131-C;Ground Unit;Creature;G;0
+Soaring Can-Cell;HMW-131-C;Ground Unit;Creature;G;1
 Tibidee Mate;HMW-132-C;Space Unit;Creature;G;0
-Wroshyr Rebel;HMW-133-C;Ground Unit;Rebel/Wookiee;G;0
+Wroshyr Rebel;HMW-133-C;Ground Unit;Rebel/Wookiee;G;1
 Zam Wesell, Not What She Seems;HMW-134-R;Ground Unit;Underworld/Bounty Hunter;G;0
 Arena Reek, Fixture of Ceremony;HMW-135-U;Ground Unit;Creature;G;0
 Lifetree Caravan;HMW-136-C;Ground Unit;Ewok;G;0
@@ -2350,7 +2350,7 @@ Rebel Operation;HMW-173-R;Event;Rebel/Plan;R/W;0
 Maul, Only Revenge Remains;HMW-174-R;Ground Unit;Force/Underworld;R;0
 Fennec Shand, A Ship For A Life;HMW-175-U;Ground Unit;Underworld;R;0
 Village Troublemaker;HMW-176-C;Ground Unit;Ewok;R;0
-Adamant Ewoks;HMW-177-C;Ground Unit;Ewok;R;0
+Adamant Ewoks;HMW-177-C;Ground Unit;Ewok;R;1 # 1 hyperfoil
 Desperate Nantex;HMW-178-C;Space Unit;Separatist/Vehicle/Fighter;R;1
 Feisty Blurrg;HMW-179-C;Ground Unit;Creature;R;0
 Stormchaser;HMW-180-U;Ground Unit;Tusken;R;0
@@ -2364,7 +2364,7 @@ Dathomiri Rancor;HMW-187-C;Ground Unit;Creature;R;0
 Giant Gorax;HMW-188-L;Ground Unit;Creature;R;0
 Neebray Manta;HMW-189-U;Space Unit;Creature;R;0
 Enraged;HMW-190-C;Upgrade;Innate;R;0
-Hunter's Instinct;HMW-191-C;Upgrade;Innate;R;0
+Hunter's Instinct;HMW-191-C;Upgrade;Innate;R;1
 Volley Fire;HMW-192-U;Event;Tactic;R;0
 Nightfall;HMW-193-C;Event;Disaster;R;0
 Run Amok;HMW-194-C;Event;Disaster;R;0
@@ -2390,25 +2390,29 @@ Tribubble Bongo Sub;HMW-213-C;Ground Unit;Vehicle;Y/W;0
 Phee Genoa, Liberator of Ancient Wonders;HMW-214-R;Ground Unit;Underworld;Y/W;0
 L3-37, We're Programmed to Learn;HMW-215-L;Ground Unit;Underworld/Droid;Y/W;0
 Insurgent Camp;HMW-216-U;Upgrade;Fortification;Y/W;0
-Don't Touch Anything;HMW-217-U;Event;Trick;Y/W;0
+Don't Touch Anything;HMW-217-U;Event;Trick;Y/W;1 # 1 hyperspace
 New Tactics;HMW-218-C;Event;Learned/Tactic;Y/W;0
-Jaxxon, I Can Hear You Breathing!;HMW-219-R;Ground Unit;Underworld;Y;0
+Jaxxon, I Can Hear You Breathing!;HMW-219-R;Ground Unit;Underworld;Y;1
 Clever Trapper;HMW-220-C;Ground Unit;Ewok;Y;0
 Teeka, You're in Luck;HMW-221-U;Ground Unit;Jawa;Y;0
 Sandcrawler Sales Team;HMW-222-C;Ground Unit;Jawa;Y;0
 Therm Scissorpunch, Boastful Gambler;HMW-223-R;Ground Unit;Underworld;Y;0
-Tusken Raider;HMW-224-C;Ground Unit;Tusken;Y;0
+Tusken Raider;HMW-224-C;Ground Unit;Tusken;Y;1
 Boba Fett, Family Found;HMW-225-R;Ground Unit;Tusken;Y;0
 Gungan Battle Wagon;HMW-226-C;Ground Unit;Creature/Gungan;Y;0
 Horizon Chaser;HMW-227-C;Space Unit;Fringe/Vehicle/Transport;Y;0
 Lakeside Shaaks;HMW-228-C;Ground Unit;Creature;Y;0
 Lurking Wampa;HMW-229-C;Ground Unit;Creature;Y;0
 Raiding Party;HMW-230-C;Ground Unit;Tusken;Y;0
-
+Dragonboat Freighter;HMW-231-C;Space Unit;Underworld/Vehicle/Transport;Y;0
+Mon Cal Cruiser;HMW-232-U;Space Unit;Rebel/Vehicle/Capital Ship;Y;0
+Awakened Exogorth;HMW-233-U;Space Unit;Creature;Y;0
 Ritual Dragon;HMW-234-L;Ground Unit;Creature;Y;0
 Gaderffii Stick;HMW-235-C;Upgrade;Item/Weapon;Y;1
-
-# HMW-239 done
+Booma Ball;HMW-236-C;Upgrade;Item/Weapon;Y;0
+Easy Prey;HMW-237-C;Event;Innate;Y;0
+Exploit Confidence;HMW-238-R;Event;Tactic;Y;0
+Sandstorm;HMW-240-C;Event;Disaster;Y;1
 
 Pyke Sarisa;HMW-246-C;Space Unit;Underworld/Vehicle/Transport;B;1
 
@@ -2421,6 +2425,8 @@ Ewok Archers;HMW-257-C;Ground Unit;Ewok;W;0
 Pack Guardian;HMW-259-C;Ground Unit;Creature;W;1 # 1 hyperfoil
 
 Mylaya Rider;HMW-262-C;Ground Unit;Creature/Wookiee;W;1
+
+Friendly Eopie;HMW-269-C;Ground Unit;Creature;N;1
 ** END **
 Darth Vader, No One to Stop Us;IC27-001-S;Leader;Force/Imperial/Sith;U/B;0
 # IC27-002 missing
@@ -2552,3 +2558,15 @@ Kanan Jarrus, Sometimes I Hate Being Right;IC27-121-U;Ground Unit;Force/Jedi/Reb
 Wat Tambor, Warped Warbling;IC27-143-U;Ground Unit;Separatist/Official;Y/B;0
 # IC27-144 missing
 Poggle the Lesser, Secret Designs;IC27-145-R;Ground Unit;Separatist/Official;Y/B;0
+Boba Fett, Compensated If He Dies;IC27-146-R;Ground Unit;Underworld/Bounty Hunter;Y/B;0
+# IC27-147 missing
+# IC27-148 missing
+# IC27-149 missing
+# IC27-150 missing
+# IC27-151 missing
+# IC27-152 missing
+Greef Karga, I Celebrate Your Success;IC27-153-U;Ground Unit;Official;Y/W;0
+# IC27-155 missing
+# IC27-156 missing
+The Mandalorian, From the Shadows;IC27-157-R;Ground Unit;Mandalorian/Bounty Hunter;Y/W;0
+Millennium Falcon, YA-HOO!;IC27-158-R;Space Unit;Rebel/Vehicle/Transport;Y/W;0

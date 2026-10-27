@@ -1,4 +1,4 @@
-V: Streetkid;Legend;R;Merc;Welcome to Night City;MS01-005-R;0
+V: Streetkid;Legend;R;Merc;Welcome to Night City;MS01-005-R;1
 Royce: Psycho on the Edge;Legend;R;Ganger/Maelstrom;Welcome to Night City;MS01-004-R;0
 Adam Smasher: Ender of Legends;Legend;R;Arasaka/Merc;Welcome to Night City;MS01-001-E;0
 Dexter DeShawn: Off the Grid;Legend;R;Fixer;Welcome to Night City;MS01-002-R;0
@@ -7,7 +7,7 @@ Rebecca: Having a Moment;Legend;R;;PRM01-005-NR;0
 Yorinobu Arasaka: Embracing Destruction;Legend;R;Arasaka/Corpo;Welcome to Night City;SD02-001-E;1
 Japantown Jonin;Unit;R;Tyger Claws;Welcome to Night City;MS01-010-C;1
 Ruthless Lowlife;Unit;R;Ganger/Maelstrom;MS01-017-C;3
-La Llorona: Ghost of the Past;Unit;R;Ganger/Valentino;MS01-013-U;0
+La Llorona: Ghost of the Past;Unit;R;Ganger/Valentino;MS01-013-U;1
 Swordwise Huscle;Unit;R;Merc;MS01-019-C;3
 Valentino Guerrera;Unit;R;Ganger/Valentino;MS01-021-C;1
 6th Street Recruits;Unit;R;6th Street/Ganger;MS01-006-C;0
@@ -18,7 +18,7 @@ El Sombrerón: La Venganza Lenta;Unit;R;Ganger/Valentino;MS01-009-R;0
 Royce: Don't Call Me Simon;Unit;R;Ganger/Maelstrom;MS01-016-U;0
 Screw: Lovelorn Fool;Unit;R;Ganger/Maelstrom;MS01-018-C;0
 V: Roamer of the Badlands;Unit;R;Merc/Nomad;MS01-020-E;0
-Animals Wrecker;Unit;R;Animal/Ganger;MS01-007-C;0
+Animals Wrecker;Unit;R;Animal/Ganger;MS01-007-C;1
 Johnny Silverhand: Never Stop Fighting;Unit;R;Merc/Rocker/Samurai;MS01-011-E;0
 Minotaur;Unit;R;Arasaka/Drone/Militech;SD02-003-U;2
 Octant;Unit;R;Drone/Militech/Zetatech;MS01-015-C;0
@@ -31,8 +31,8 @@ All is Lost;Program;R;Zetatech;MS01-027-C;1
 Detonate;Program;R;Quickhack;MS01-031-C;0
 Industrial Assembly;Program;R;Arasaka/Braindance;MS01-033-U;2
 Appetite for Destruction;Program;R;Ganger;MS01-028-U;0
-Bonnie and Clyde;Program;R;Braindance;MS01-029-U;1
-Over the Edge;Program;R;Merc;MS01-034-C;2
+Bonnie and Clyde;Program;R;Braindance;MS01-029-U;2
+Over the Edge;Program;R;Merc;MS01-034-C;3
 Gunpoint Diplomacy;Program;R;Ganger/Plan;MS01-032-U;2
 Shattered Memories;Program;R;Braindance;MS01-035-R;2
 Carnage at the Colosseum;Program;R;Braindance/Extreme;MS01-030-C;1
@@ -44,7 +44,7 @@ River Ward: Detective on the Hunt;Legend;Y;NCPD;MS01-039-R;0
 Viktor Vektor: Sit Down and Relax;Legend;Y;Ripperdoc;SD01-001-E;1
 Secondhand Bombus;Unit;Y;Drone/Zetatech;MS01-053-C;0
 Sketchy Ripper;Unit;Y;Ganger/Ripperdoc/Scavenger;MS01-054-C;0
-Augmented Negotiators;Unit;Y;Arasaka/Corpo;MS01-043-C;1
+Augmented Negotiators;Unit;Y;Arasaka/Corpo;MS01-043-C;2
 Dexter DeShawn: One Last Chance;Unit;Y;Fixer;SD01-002-U;2
 Maelstrom Goons;Unit;Y;Ganger/Maelstrom;MS01-049-C;0
 Viktor Vektor: You Might Feel a Little Pinch;Unit;Y;Ripperdoc;MS01-058-U;0
@@ -68,11 +68,12 @@ Live with the Aftermath;Program;Y;Plan;MS01-068-C;1
 Mandibular Upgrade;Gear;Y;Cyberware;MS01-062-C/SD01-008-C;4
 Zetatech Faceplate;Gear;Y;Cyberware/Zetatech;MS01-064-U/SD01-009-C;3
 Afterparty at Lizzie's;Program;Y;Braindance/Mox;SD01-010-C/MS01-065-C;3
+Adrenaline Converter;Gear;Y;Cyberware/Medtech;MS01-059-C;1
 
 Goro Takemura: Hands Unclean;Legend;G;Arasaka/Corpo;SD02-012-E;1
 Saburo Arasaka: Saburo Arasaka;Legend;G;Arasaka/Corpo;SD02-013-E;1
 Corpo Security;Unit;G;Corpo;MS01-076-C/SD02-014-C;3
-Emergency Atlus;Unit;G;Trauma Team/Vehicle/Zetatech;MS01-077-C/SD02-015-C;2
+Emergency Atlus;Unit;G;Trauma Team/Vehicle/Zetatech;MS01-077-C/SD02-015-C;3
 Valentino Street Racer;Unit;G;Valentino/Vehicle;MS01-091-C;2
 Field Operator;Unit;G;Arasaka/Corpo/Techie;MS01-078-C/SD02-016-C;2
 Goro Takemura: Losing His Way;Unit;G;Arasaka/Corpo;SD02-017-U;2
@@ -84,8 +85,9 @@ Zetatech Berserk;Gear;G;Cyberware/Zetatech;MS01-096-C;1
 Tyger's Whisper;Unit;G;Fixer/Tyger Claws;MS01-090-C;1
 Riding Nomad;Unit;G;Nomad;MS01-087-C;1
 Wild in the Streets;Program;G;Ganger;MS01-105-C;1
-Memory Relapse;Program;G;Braindance;MS01-100-U;1
+Memory Relapse;Program;G;Braindance;MS01-100-U;2
 Fool on the Hill;Program;G;Merc;MS01-099-R;1
+Panam Palmer: Strength Through Family;Unit;Aldecaldo/Merc/Nomad;MS01-085-S;1
 
 V: Corporate Exile;Legend;U;Corpo/Merc;SD01-012-E;1
 Jackie Welles: Pour One Out For Me;Legend;U;Merc;SD01-011-E;1
@@ -98,7 +100,7 @@ Delamain Cab;Unit;U;Vehicle;MS01-112-C/SD01-013-C;3
 Evelyn Parker: Scheming Siren;Unit;U;Doll;MS01-113-U/SD01-014-U;4
 MT0D12 Flathead;Unit;U;Drone/Militech;SD01-015-U;2
 Psycho Squad;Unit;U;NCPD;SD01-016-C/MS01-124-C;3
-Tetratronic Rippler;Gear;U;Cyberware;SD01-018-C/MS01-130-C;2
+Tetratronic Rippler;Gear;U;Cyberware;SD01-018-C/MS01-130-C;3
 Floor It;Program;U;Merc/Quickhack;SD01-019-C/MS01-132-C;4
 Rita Wheeler: No Stupid Questions;Unit;U;Ganger/Mox;MS01-125-C;1
 Maman Brigitte: Spirit of Death;Unit;U;Mystic/Netrunner/Voodoo Boys;MS01-118-U;1
@@ -106,3 +108,4 @@ Pyramid Song;Program;U;Braindance;MS01-135-R;1
 Chrome Reverie;Program;U;Braindance;MS01-131-C;1
 NetWatch Netdriver;Gear;U;Cyberware/Netrunner/Netwatch;MS01-129-U;1
 Alt Cunningham: Soulkiller Architect;Legend;U;Merc/Netrunner;MS01-106-R;1
+Mox Inciters;Unit;U;Ganger/Mox;MS01-122-C;1
