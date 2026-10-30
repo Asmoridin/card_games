@@ -57,12 +57,12 @@ Amazu's Inkcaster;Item;Ruby;;Lorcana;Wilds Unknown (Uncommon);0
 Amber Chromicon;Item;Amber;;Lorcana;Shimmering Skies (Uncommon);0
 Amber Coil;Item;Amber;;Lorcana;Archazia's Island (Uncommon);0
 Ambush!;Action;Steel;;Peter Pan;Azurite Sea (Rare);0
+Amethyst Chromicon;Item;Amethyst;;Lorcana;Shimmering Skies (Uncommon);0
+Amethyst Coil;Item;Amethyst;;Lorcana;Archazia's Island (Uncommon);0
+Amos Slade - Tenacious Tracker;Character;Steel;Storyborn;The Fox and the Hound;Winterspell (Common);3
+Anastasia - Bossy Stepsister;Character;Emerald;Storyborn/Ally;Cinderella;Archazia's Island (Uncommon);0
+And Then Along Came Zeus;Action;Steel;Song;Hercules;Into the Inklands (Rare);0
 # franchises done through here
-Amethyst Chromicon;Item;Amethyst;;;Shimmering Skies (Uncommon);0
-Amethyst Coil;Item;Amethyst;;;Archazia's Island (Uncommon);0
-Amos Slade - Tenacious Tracker;Character;Steel;Storyborn;;Winterspell (Common);3
-Anastasia - Bossy Stepsister;Character;Emerald;Storyborn/Ally;;Archazia's Island (Uncommon);0
-And Then Along Came Zeus;Action;Steel;Song;;Into the Inklands (Rare);0
 Andy's Room - Home Base;Location;Amber;;;Wilds Unknown (Rare);0
 Angel - Experiment 624;Character;Steel;Storyborn/Ally/Alien;;Winterspell (Legendary);0
 Angel - Siren Singer;Character;Amber;Storyborn/Ally/Alien;;Winterspell (Uncommon);0
@@ -1564,17 +1564,17 @@ Nessus - River Guardian;Character;Ruby;Storyborn/Villain;Hercules;Ursula's Retur
 Never Land - Mermaid Lagoon;Location;Amber;;Peter Pan;Into the Inklands (Common);0
 Next Stop, Olympus;Action;Ruby;;Hercules;Whispers in the Well (Rare);0
 Nibs - Lost Boy;Character;Amethyst;;Peter Pan;Whispers in the Well (Uncommon);0
+Nick Wilde - Persistent Investigator;Character;Steel;Floodborn/Ally/Detective;Zootopia;Whispers in the Well (Rare);0
+Nick Wilde - Sly Fox Sleuth;Character;Steel;Dreamborn/Ally/Detective;Zootopia;Whispers in the Well (Common);1
+Nick Wilde - Sly Fox;Character;Sapphire;Floodborn/Ally;Zootopia;Azurite Sea (Uncommon);1
+Nick Wilde - Soggy Fox;Character;Sapphire;Storyborn/Ally;Zootopia;Azurite Sea (Common);1
+Nick Wilde - Wily Fox;Character;Sapphire;Storyborn/Ally;Zootopia;Rise of the Floodborn (Uncommon);0
+Night Howler Rage;Action;Emerald;;Zootopia;Shimmering Skies (Common);0
+Nobody Like U;Action;Amber;Song;Turning Red;Attack of the Vine! (Rare);0
+Noi - Acrobatic Baby;Character;Ruby;Storyborn/Ally;Raya and the Last Dragon;Ursula's Return (Super Rare);0
+Noi - Orphaned Thief;Character;Sapphire;Storyborn/Ally;Raya and the Last Dragon;Rise of the Floodborn (Rare);0
+Norton Nimnul - Misanthropic Genius;Character;Sapphire;Storyborn/Villain/Inventor;Chip 'n' Dale Rescue Rangers;Wilds Unknown (Uncommon);0
 # Traits done through here
-Nick Wilde - Persistent Investigator;Character;Steel;;;Whispers in the Well (Rare);0
-Nick Wilde - Sly Fox Sleuth;Character;Steel;Dreamborn/Ally/Detective;;Whispers in the Well (Common);1
-Nick Wilde - Sly Fox;Character;Sapphire;;;Azurite Sea (Uncommon);1
-Nick Wilde - Soggy Fox;Character;Sapphire;;;Azurite Sea (Common);1
-Nick Wilde - Wily Fox;Character;Sapphire;;;Rise of the Floodborn (Uncommon);0
-Night Howler Rage;Action;Emerald;;;Shimmering Skies (Common);0
-Nobody Like U;Action;Amber;Song;;Attack of the Vine! (Rare);0
-Noi - Acrobatic Baby;Character;Ruby;;;Ursula's Return (Super Rare);0
-Noi - Orphaned Thief;Character;Sapphire;;;Rise of the Floodborn (Rare);0
-Norton Nimnul - Misanthropic Genius;Character;Sapphire;Storyborn/Villain/Inventor;;Wilds Unknown (Uncommon);0
 Nothing to Hide;Action;Sapphire;;;Rise of the Floodborn (Common);0
 Nothing We Won't Do;Action;Ruby;;;Reign of Jafar (Rare);1
 Nottingham - Prince John's Palace;Location;Steel;;;Into the Inklands (Common);0
@@ -2492,7 +2492,16 @@ Priya Mangal - Immovable Fan;Character;Amber;Storyborn/Ally;Turning Red;Hyperia 
 Yax - Concert Goer;Character;Amber;Storyborn/Ally;Zootopia;Hyperia City (Uncommon);0
 Judy Hopps - Helpful Officer;Character;Amber;Storyborn/Hero/Detective;Zootopia;Hyperia City (Common);0
 Miguel Rivera - Promising Musician;Character;Amber;Storyborn/Hero;Coco;Hyperia City (Common);2
-
+Nick Wilde - Inquisitive Harbormaster;Character;Amber;Dreamborn/Ally/Detective;Zootopia;Hyperia City (Rare);0
+P.J. Pete - Devoted Fan;Character;Amber;Storyborn/Ally;A Goofy Movie;Hyperia City (Common);0
+Mr. Manchas - Service with a Smile;Character;Amber;Storyborn/Ally;Zootopia;Hyperia City (Common);0
+Nick Wilde - Toy Drive Officer;Character;Amber;Dreamborn/Ally/Detective;Zootopia;Hyperia City (Super Rare);0
+Clawhauser - Safety Officer;Character;Amber;Storyborn/Ally/Detective;Zootopia;Hyperia City (Uncommon);0
+Elisa Maza - Hardworking Detective;Character;Amber;Storyborn/Hero/Detective;Gargoyles;Hyperia City (Uncommon);0
+Powerline - Megastar;Character;Amber;Storyborn;A Goofy Movie;Hyperia City (Legendary);0
+Lionheart - Incumbent Mayor;Character;Amber;Storyborn;Zootopia;Hyperia City (Rare);0
+Aurora - Delightful Musician;Character;Amber;Dreamborn/Hero/Princess;Sleeping Beauty;Hyperia City (Legendary);0
+Russell - Finding Adventure;Character;Amber;Storyborn/Hero;Up;Hyperia City (Rare);0
 Miguel Rivera - Street Musician;Character;Amber;Storyborn/Hero;Coco;Hyperia City (Rare);0
 Goofy - Knows the Band;Character;Amber;Dreamborn/Hero;Mickey Mouse and Friends/A Goofy Movie;Hyperia City (Rare);1
 Mickey Mouse - Best in Town;Character;Amber;Dreamborn/Hero;Mickey Mouse and Friends;Hyperia City (Super Rare);0

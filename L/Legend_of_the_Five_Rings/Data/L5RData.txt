@@ -4960,12 +4960,22 @@ Favor to the Dragon;Strategy;;Path of Hope (Uncommon);Age of Enlightenment (Lotu
 Favor to the Horde;Strategy;;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
 Favor to the Horde;Strategy;;Path of Hope (Uncommon);Age of Enlightenment (Lotus);3;0
 Favor to the Scorpion;Strategy;;Path of Hope (Uncommon);Age of Enlightenment (Lotus);3;0
+Favorable Terrain;Strategy;;Path of Hope (Common);Age of Enlightenment (Lotus);3;0
 Favors;Strategy;;Before the Dawn (Rare);Age of Conquest (Emperor);3;0
 Favors;Strategy;;Before the Dawn (Rare);Destroyer War (Celestial);3;0
 Favors;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
 Favors;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Fear Me!;Strategy;;Before the Dawn (Rare);Age of Conquest (Emperor);3;0
+Fear Me!;Strategy;;Before the Dawn (Rare);Destroyer War (Celestial);3;0
 Fear's Bane;Spell;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Fear's Bane;Spell;;Honor Bound (Common);Hidden Emperor (Jade);3;0
+Feared Duelist;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Feared Duelist;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Feared Duelist;Strategy;;Promotional–Gold (Promo);Four Winds (Gold);3;0
+Fearful Populace;Strategy;;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);3;0
+Fearful Presence;Strategy;;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
+Fearful Soul;Strategy;;Soul of the Empire (Common);Hidden Emperor (Jade);3;0
+Fearless Defense;Strategy;;Empire at War (Rare);Destroyer War (Celestial);3;0
 Fearless Devotion;Strategy;;A Line in the Sand (Common);A Brother's Destiny (Ivory Edition);3;0
 Fearless Devotion;Strategy;;A Line in the Sand (Common);A Brother's Destiny (Twenty Festivals);3;3
 Fearless Heavy Cavalry;Follower;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;1
@@ -4978,6 +4988,7 @@ Fearless Medium Cavalry;Follower;;Twenty Festivals (Common);A Brother's Destiny 
 Fearless Medium Cavalry;Follower;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
 Fearless Medium Infantry;Follower;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;2
 Fearless Medium Infantry;Follower;;Twenty Festivals (Common);War of the Seals (Onyx Edition);3;0
+Fearsome Mempo;Item;;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);3;0
 Fearsome Visage;Strategy;;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Feign Death;Strategy;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Feign Death;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
@@ -5704,6 +5715,8 @@ Ikoma Shika;Personality;Lion;Ivory Edition (Common);A Brother's Destiny (Twenty 
 Ikoma Shika;Personality;Lion;Shattered Empire (Fixed);Shattered Empire;3;0
 Ikoma Tsai;Personality;Lion;Gold Edition (Uncommon)/The War of Spirits (Common);Four Winds (Gold);3;0
 Ikoma Tsai;Personality;Lion;The War of Spirits (Common);Hidden Emperor (Jade);3;3
+Ikoma Tsanuri;Personality;Lion;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);3;0
+Ikoma Tsanuri;Personality;Lion;Storms Over Matsu Palace (Fixed);Hidden Emperor (Jade);3;0
 Ikoma Warden;Follower;;Road to Ruin (Fixed);Shattered Empire;3;0
 Ikoma Warden;Follower;;Road to Ruin (Fixed);War of the Seals (Onyx Edition);3;0
 Ill Tides;Strategy;;Gates of Tengoku (Fixed);Shattered Empire;3;0
@@ -6214,6 +6227,7 @@ Kitsu Okura;Personality;Lion;Jade Edition (Common)/Pearl Edition (Common)/Storms
 Kitsu Okura;Personality;Lion;Time of the Void (Common);Clan Wars (Imperial);3;0
 Kitsu Shokka;Personality;Lion;Onyx Edition (Fixed);War of the Seals (Onyx Edition);3;0
 Kitsu Shokka;Personality;Lion;Shattered Empire (Fixed);Shattered Empire;3;0
+Kitsu Sorano • Experienced;Personality;Lion;The Shadow's Embrace (Fixed);Age of Conquest (Emperor);1;0
 Kitsu Suki;Personality;Lion;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 Kitsu Suki;Personality;Lion;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Kitsu Suki;Personality;Lion;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
@@ -9894,9 +9908,7 @@ Zombie Troops;Follower;;Promotional–Twenty Festivals (Promo);War of the Seals 
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);Shattered Empire;3;0
 Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3;0
 
-# Done through card #2490
-#2492
-#2494
+# Done through card #2500
 #2503
 #2505
 #2525-2527
@@ -10021,6 +10033,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #3631
 #3636-3637
 #3650
+#3653
 #3670
 #3694
 #3701
@@ -10721,6 +10734,7 @@ Zugaikotsu-ro;Follower;;Rise of Jigoku (Fixed);War of the Seals (Onyx Edition);3
 #9793
 #9796
 #9821
+#9826
 #9866
 #9893
 #9895
