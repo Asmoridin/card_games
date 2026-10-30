@@ -1,7 +1,10 @@
 # Card Name;Card Type;Card Dice;Set
 Abundance;Ready Spell;Illusion;Master Set;3
+Amplify;Action;Charm;The Roaring Rose;3
 Anchornaut;Ally;Basic;Master Set;3
+Anguish;Action;Leo Sunshadow;The Roaring Rose;3
 Aradel Summergaard;Phoenixborn;Natural;Master Set;1
+Beast Tamer;Ally;Charm;The Roaring Rose;3
 Blackcloud Ninja;Ally;Brennen Blackcloud;The Children of Blackcloud;3
 Blood Archer;Ally;Ceremonial/Charm;Master Set;3
 Blood Chains;Action;Ceremonial;The Children of Blackcloud;3
@@ -13,6 +16,7 @@ Bound Soul;Action Spell;Ceremonial;Master Set;3
 Brennen Blackcloud;Phoenixborn;Ceremonial;The Children of Blackcloud;1
 Butterfly Monk;Conjuration;;Master Set;2
 Call Upon the Realms;Action Spell;;Master Set;3
+Change Psyche;Action;Charm;The Roaring Rose;3
 Chant of Revenge;Ready Spell;Ceremonial;Master Set;3
 Chant of Worship;Ready;Ceremonial;The Children of Blackcloud;3
 Choke;Choke;Ceremonial;The Children of Blackcloud;3
@@ -23,6 +27,7 @@ Crimson Bomber;Ally;Ceremonial;The Children of Blackcloud;3
 Crystal Shield;Alteration;Natural;The Frostdale Giants;3
 Cut the Strings;Ready Spell;Ceremonial;Master Set;3
 Deep Freeze;Alteration;Natural;The Frostdale Giants;3
+Dispel;Action;;The Roaring Rose;3
 Dread Wraith;Conjuration;;The Children of Blackcloud;2
 Empower;Ready Spell;Natural/Sympathy;Master Set;3
 Enchanted Violinist;Ally;Charm;Master Set;3
@@ -39,6 +44,7 @@ Frost Fang;Ally;Natural;The Frostdale Giants;3
 Frostback Bear;Conjuration;;The Frostdale Giants;2
 Frozen Crown;Alteration;Natural;The Frostdale Giants;3
 Gilder;Conjuration;;Master Set;2
+Glow Finch;Conjuration;Leo Sunshadow;The Roaring Rose;1
 Golden Veil;Reaction;Charm;Master Set;3;Chained
 Hammer Knight;Ally;Ceremonial/Nature;Master Set;3
 Hidden Power;Action;Illusion;Master Set;3
@@ -49,22 +55,28 @@ Ice Trap;Reaction;Natural;The Frostdale Giants;3
 Iron Rhino;Conjuration;;Master Set;1
 Iron Worker;Ally;Basic;Master Set;3
 Jessa Na Ni;Phoenixborn;;Master Set;1
+Leo Sunshadow;Phoenixborn;;The Roaring Rose;1
 Living Doll;Ally;Ceremonial;Master Set;3
 Maeoni Viper;Phoenixborn;;Master Set;1
 Masked Wolf;Conjuration;Noah Redmoon;Master Set;5
 Massive Growth;Alteration;Natural;Master Set;3
+Memory Theft;Ready;Charm;The Roaring Rose;3
+Mind Probe;Action;Charm;The Roaring Rose;3
 Mist Spirit;Conjuration;;Master Set;10
 Mist Typhoon;Action;Illusion/Natural;Master Set;3
 Molten Gold;Action;Natural;Master Set;3
+Nightshade Swallow;Conjuration;;The Roaring Rose;2
 Noah Redmoon;Phoenixborn;;Master Set;1
 One Hundred Blades;Action;Coal Roarkwin;Master Set;3
 Open Memories;Action;Charm;Master Set;3
+Orchid Dove;Conjuration;;The Roaring Rose;3
 Out of the Mist;Action;Illusion/Natural;Master Set;3
 Purge;Ready;Charm;Master Set;3
 Redirect;Reaction;Charm;Master Set;3
 Reflections in the Water;Alteration;Illusion/Time;Master Set;3
 Refresh;Action;Charm;Master Set;3
 Regress;Alteration;Ceremonial;The Children of Blackcloud;3
+Remorse;Reaction;Charm;The Roaring Rose;3
 Resummon;Ready;Ceremonial/Illusion;Master Set;3
 Rin Northfell;Phoenixborn;;The Frostdale Giants;1
 Rin's Fury;Reaction;Rin Northfell;The Frostdale Giants;3
@@ -95,6 +107,8 @@ Summon Ice Golem;Ready;Natural;The Frostdale Giants;3
 Summon Iron Rhino;Ready;Natural;Master Set;3
 Summon Masked Wolf;Ready;Illusion/Noah Redmoon;Master Set;3
 Summon Mist Spirit;Ready;Illusion;Master Set;3
+Summon Nightshade Swallow;Ready;Charm;The Roaring Rose;3
+Summon Orchid Dove;Ready;Charm;The Roaring Rose;3
 Summon Seaside Raven;Ready;Basic;Master Set;3
 Summon Silver Snake;Ready;Charm/Natural/Maeoni Viper;Master Set;3
 Summon Sleeping Widows;Reaction;Ceremonial;Master Set;3
@@ -103,17 +117,10 @@ Sympathy Pain;Reaction;Charm/Sympathy;Master Set;3
 Three-Eyed Owl;Conjuration;;Master Set;2
 Transfer;Action;Charm;Master Set;3
 Undying Heart;Alteration;Charm;Master Set;3
-Amplify;Action;Charm;The Roaring Rose;3
-Anguish;Action;Leo Sunshadow;The Roaring Rose;3
-Beast Tamer;Ally;Charm;The Roaring Rose;3
-Change Psyche;Action;Charm;The Roaring Rose;3
-Dispel;Action;;The Roaring Rose;3
-Glow Finch;Conjuration;Leo Sunshadow;The Roaring Rose;1
-Leo Sunshadow;Phoenixborn;;The Roaring Rose;1
-Memory Theft;Ready;Charm;The Roaring Rose;3
-Mind Probe;Action;Charm;The Roaring Rose;3
-Nightshade Swallow;Conjuration;;The Roaring Rose;2
-Orchid Dove;Conjuration;;The Roaring Rose;3
-Remorse;Reaction;Charm;The Roaring Rose;3
-Summon Nightshade Swallow;Ready;Charm;The Roaring Rose;3
-Summon Orchid Dove;REady;Charm;The Roaring Rose;3
+Body Inversion;Ready;Illusion;The Duchess of Deception;3
+Copycat;Reaction;Victoria Glassfire;The Duchess of Deception;3
+Figures in the Fog;Reaction;Illusion;The Duchess of Deception;3
+Flash Archer;Ally;Illusion;The Duchess of Deception;3
+Particle Shield;Reaction;Illusion;The Duchess of Deception;3
+Secret Door;Ready;Illusion;The Duchess of Deception;3
+Shadow Hound;Conjuration;;The Duchess of Deception;2
