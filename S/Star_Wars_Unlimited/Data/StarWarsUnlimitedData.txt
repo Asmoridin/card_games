@@ -877,7 +877,7 @@ Han Solo, I Got a Really Good Feeling;LAW-017-C;Leader;Underworld;Y/W;1
 Han Solo, It'll Work;ASH-158-S;Ground Unit;Rebel/Official;R/W;0
 Han Solo, Never Tell Me the Odds;JTL-017-S;Leader;Rebel/Pilot;Y/W;1
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;Underworld;W/Y;3 # 1 hyperspace
-Han Solo, Scruffy-Looking Nerf Herder;IBH-010-S/IBH-042-S;Ground Unit;Rebel;Y/W;0
+Han Solo, Scruffy-Looking Nerf Herder;IBH-010-S/IBH-042-S/IC27-161-S;Ground Unit;Rebel;Y/W;0
 Han Solo, Worth the Risk;SHD-013-C;Leader;Underworld;R/W;1 # 1 hyperspace
 Han's Golden Dice;LAW-225-U;Upgrade;Item;Y/W;0
 Hardpoint Heavy Blaster;SOR-121-U;Upgrade;Modification/Weapon;G;3
@@ -920,17 +920,17 @@ Hold-Out Blaster;TWI-256-C;Upgrade;Item/Weapon;N;3
 Home One, Alliance Flagship;SOR-102-L;Space Unit;Rebel/Vehicle/Capital Ship;G/W;2
 Home One, Heart of the Fleet;ASH-065-U;Space Unit;Rebel/Vehicle/Capital Ship;W/U;0
 Home One, On My Mark;JTL-204-L;Space Unit;Rebel/Vehicle/Capital Ship;Y/W;0
-# done through here
-Homestead Militia;SOR-113-C/JTL-113-C;Ground Unit;G;3 # 1 hyperspace
+Homestead Militia;SOR-113-C/JTL-113-C;Ground Unit;Fringe/Trooper;G;3 # 1 hyperspace
 Hondo Ohnaka, Plays By His Own Rules;LAW-094-L;Ground Unit;Underworld;Y/U;0
-Hondo Ohnaka, Superfluous Swindler;JTL-056-L;Ground Unit;U;0
-Hondo Ohnaka, That's Good Business;SHD-005-C;Leader;G/B;1 # 1 hyperspace
-Hondo Ohnaka, You Better Hurry;SEC-140-U;Ground Unit;R/B;3 # 1 foil
+Hondo Ohnaka, Superfluous Swindler;JTL-056-L;Ground Unit;Underworld;U;0
+Hondo Ohnaka, That's Good Business;SHD-005-C;Leader;Underworld;G/B;1 # 1 hyperspace
+Hondo Ohnaka, You Better Hurry;SEC-140-U;Ground Unit;Underworld;R/B;3 # 1 foil
 Honnah, OINK! SQUEE!;LAW-050-U;Ground Unit;Underworld/Bounty Hunter;U/R;0
 Honor-Bound Partisan;LAW-058-U;Ground Unit;Rebel/Twi'lek;G/R;0
 Honorable Nite Owl;ASH-154-C;Ground Unit;Mandalorian/Trooper;R/W;0
-Hopeful Volunteer;JTL-246-C;Ground Unit;W;3
-Hoth Lieutenant;IBH-064-S/IBH-092-S;Ground Unit;R/B;0
+Hopeful Volunteer;JTL-246-C;Ground Unit;Rebel/Pilot;W;3
+Hoth Lieutenant;IBH-064-S/IBH-092-S;Ground Unit;Imperial/Trooper;R/B;0
+# done through here
 Hoth Trooper;IBH-037-S/IBH-038-S/IBH-048-S;Ground Unit;Y/W;0
 Hotshot DL-44 Blaster;SHD-174-R;Upgrade;R;1
 Hotshot Maneuver;JTL-174-R;Event;R;0
@@ -1275,7 +1275,7 @@ Mid Rim Sharpshooter;LAW-193-U;Ground Unit;Underworld;R;0
 Midnight Repairs;SHD-054-U;Event;U;3
 Migs Mayfeld, How About a Toast?;ASH-168-R;Ground Unit;Fringe;R;0
 Migs Mayfeld, Triggerman;SHD-163-R;Ground Unit;R;3 # 1 foil
-Millennium Falcon, Bucket of Bolts;IBH-031-S;Space Unit;Y/W;0
+Millennium Falcon, Bucket of Bolts;IBH-031-S/IC27-164-S;Space Unit;Y/W;0
 Millennium Falcon, Dodging Patrols;LAW-068-U;Space Unit;Rebel/Vehicle/Transport;G/Y/W;0
 Millennium Falcon, Get Out And Push;JTL-249-S;Space Unit;W;3
 Millennium Falcon, Lando's Pride;SHD-204-U;Space Unit;Y/W;2
@@ -2413,8 +2413,16 @@ Booma Ball;HMW-236-C;Upgrade;Item/Weapon;Y;0
 Easy Prey;HMW-237-C;Event;Innate;Y;0
 Exploit Confidence;HMW-238-R;Event;Tactic;Y;0
 Sandstorm;HMW-240-C;Event;Disaster;Y;1
-
+Howl;HMW-241-U;Event;Innate;Y;0
+Occupation Officer;HMW-242-C;Ground Unit;Imperial;B;0
+Sun Fac, Poggle's Second;HMW-243-U;Ground Unit;Separatist;B;0
+Separatist Harbinger;HMW-244-C;Space Unit;Separatist/Vehicle/Transport;B;0
+Trandoshan Collaborator;HMW-245-C;Ground Unit;Imperial;B;0
 Pyke Sarisa;HMW-246-C;Space Unit;Underworld/Vehicle/Transport;B;1
+Surveillance Cruiser;HMW-247-C;Space Unit;Imperial/Vehicle/Capital Ship;B;0
+Defoliator Tank;HMW-248-R;Ground Unit;Separatist/Vehicle/Tank;B;0
+Frenzied Tri-Fighters;HMW-249-C;Space Unit;Separatist/Droid/Vehicle/Fighter;B;0
+Imperial Cavalry;HMW-250-C;Ground Unit;Imperial/Trooper;B;0
 
 Forced Pacification;HMW-253-U;Event;Plan;B;1
 
@@ -2570,3 +2578,9 @@ Greef Karga, I Celebrate Your Success;IC27-153-U;Ground Unit;Official;Y/W;0
 # IC27-156 missing
 The Mandalorian, From the Shadows;IC27-157-R;Ground Unit;Mandalorian/Bounty Hunter;Y/W;0
 Millennium Falcon, YA-HOO!;IC27-158-R;Space Unit;Rebel/Vehicle/Transport;Y/W;0
+Princess Leia, Calculated Distraction;IC27-159-L;Ground Unit;Rebel/Official;Y/W;0
+# IC27-160 missing
+# IC27-162 missing
+Bo-Katan Kryz, Right Place, Right Time;IC27-163-R;Ground Unit;Mandalorian;Y/W;0
+# IC27-165 missing
+I've Got A Bad Feeling;IC27-166-U/P26-269-U;Event;Innate;Y/W;0
