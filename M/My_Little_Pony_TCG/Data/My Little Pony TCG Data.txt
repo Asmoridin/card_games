@@ -307,11 +307,20 @@ Opal;Character;Cat/Opal/Pet;5;5;BP01-SR12;0
 Zecora;Character;Zebra/Zecora;5;6;BP01-SR13;0
 Trixie;Character;Unicorn/Trixie;2;3;BP01-SR14;0
 
-Electric Clouds;Event;2;BP03-SPR19;2
+Golden Oak Library Floor 2;Scene;BP02-ER01;15;1
+Twilight Sparkle;Character;Unicorn/Twilight Sparkle;6;8;BP02-C02;4;1
+Fluttershy;Character;Pegasus/Fluttershy;2;3;BP02-GR02;4;1
+Hurricane Fluttershy -- Sick Day;Story;1;BP02-C29;1;1
+Party Cannon;Item;4;BP02-SPR24;4;1
+
+Electric Clouds;Event;2;BP03-SPR19;3
 Nightmare Night Square;Scene;BP03-ER01;15;1
-Nightmare Night Market;Scene;BP03-ER02;15;1
+Nightmare Night Market;Scene;BP03-ER02;15;2
 Princess Luna;Character;Alicorn/Princess Luna;5;6;BP03-GR09;4;1
 Fluttershy's Firefly Fright -- The Glow of Friendship;Story;2;BP03-C30;1;1
 Fluttershy's Firefly Fright -- The Shape in the Shadows;Story;3;BP03-C31;1;1
 Pinkie Pie's Haunted Kitchen -- Ghostprints;Story;2;BP03-C34;1;1
+Rainbow Dash and the Phantom Flight Trial -- Captain in Disguise;Story;3;BP03-C43;1;1
+Rarity's Carousel Boo-tique -- Special Effects;Story;2;BP03-C46;1;1
+Applejack;Character;Earth Pony/Applejack;1;1;BP03-SR04;4;1
 Mayor Mare;Character;Nightmare Night/Earth Pony/Mayor Mare;3;4;BP03-SR09;4;1
