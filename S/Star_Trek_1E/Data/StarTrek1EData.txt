@@ -85,7 +85,7 @@ Alas, Poor Drone;Event;;The Borg;550;;4;4
 Alas, Poor Queen;Interrupt;;First Contact;551,3600;;4;0
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
 Aldara;Ship;Cardassian;Deep Space 9;552;;2;0
-Aldebaran Serpent;Q Event;;Q Continuum;553;;4;0
+Aldebaran Serpent;Q Event;;Q Continuum;553;;4;0 # needs errata
 Alexander Rozhenko;Personnel;Federation;Premiere;554,6036,6399,6762,7684,8048;;2;0
 Alice in Wonderland;Dilemma;Planet;Star Trek 60: The Diamond Anniversary Collection;8530;;4;0
 Alice;Dilemma;Dual;Holodeck Adventures;555;;4;0
@@ -115,7 +115,7 @@ Alyssa Ogawa (First Contact);Personnel;Federation;First Contact/Trouble with Tri
 Alyssa Ogawa;Personnel;Federation;Premiere/Coming of Age;571,5429,6043,6406,6769,7691,8055;;2;1
 Amanda Grayson;Personnel;Federation;The Motion Pictures;573,7211;;2;0
 Amanda Rogers;Interrupt;;Premiere;574,5655,6044,6407,6770,7692,8056;;4;0 # needs errata
-Amanda's Parents;Q Event;;Q Continuum;575,7179;;4;0
+Amanda's Parents;Q Event;;Q Continuum;575,7179;;4;4
 Amarie;Personnel;Non-Aligned;Premiere;576,6045,6408,6771,7693,8057;;2;0
 Amaros;Personnel;Non-Aligned;Deep Space 9;51,4442;;4;0
 Amat'igan;Personnel;Dominion;The Dominion;577;;2;0
@@ -157,7 +157,7 @@ Arbiter of Succession;Interrupt;;Q Continuum;604;;4;1
 Archanis Dispute;Mission;Planet;The Dominion;605;;2;1
 Archer: Precise Bowman;Dilemma;Planet;To the Journey;8482;;4;0
 Archer;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;606,5251,6049,6412,6775,7697,8061;;4;0 # Needs errata
-Are These Truly Your Friends, Brother?;Q Interrupt;;Q Continuum;607;;4;0
+Are These Truly Your Friends, Brother?;Q Interrupt;;Q Continuum;607;;5;5
 Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;0
 Arms Deal;Dilemma;Dual;Deep Space 9;608,4374;;4;0
 Armus: Skin of Evil;Dilemma;Planet;Premiere;609,3587,4039,6050,6413,6776,7698,8062;;4;4
@@ -606,7 +606,7 @@ Don't Call Me Ahab;Dilemma;Dual;First Contact;964;;4;0
 Don't Let It End This Way;Dilemma;Space;Homefront VI;4666;;4;4
 Donald Varley;Personnel;Federation;Blaze of Glory/Virtual Promos;962,8344;;2;0
 Donik;Personnel;Hirogen;The Borg;963;;2;0
-Door-Net;Q Event;;Q Continuum;965;;4;0
+Door-Net;Q Event;;Q Continuum;965;;4;0 # needs errata
 Doppelganger;Event;;Q Continuum;966,4808;;4;1
 Doran;Personnel;Cardassian;Holodeck Adventures;121;122;4;0
 Doran;Personnel;Hirogen;Holodeck Adventures;122;121;4;0
@@ -629,7 +629,7 @@ Dr. McCoy;Personnel;Federation;The Trouble with Tribbles/Virtual Promos;975,3693
 Dr. Neria;Personnel;Non-Aligned;Voyager;977;;2;0
 Dr. Noah;Personnel;Non-Aligned;Holodeck Adventures;978;;2;0
 Dr. Nydom;Personnel;Non-Aligned;Deep Space 9;128;;4;0
-Dr. Q, Medicine Entity;Q Interrupt;;Q Continuum;979;;4;0
+Dr. Q, Medicine Entity;Q Interrupt;;Q Continuum;979;;4;4
 Dr. Reyga;Personnel;Non-Aligned;Premiere;980,6085,6448,6811,7733;;2;1
 Dr. Roger Korby;Personnel;Non-Aligned;Mirror, Mirror;981;;2;0
 Dr. Royse;Personnel;Federation;First Contact;129;;4;0
@@ -861,7 +861,7 @@ Frame of Mind;Dilemma;Dual;Alternate Universe/Homefront VI;1234,4680;;4;4
 Framed for Murder;Dilemma;Dual;Deep Space 9;1235;;4;0
 Frank Hollander;Personnel;Non-Aligned;Holodeck Adventures;1236;;2;0
 Friendly Fire;Dilemma;Dual;The Dominion/Homefront/Virtual Promos;1237,3492,7318;;5;4 # Need 1 VP
-Frigid;Q Event;;Q Continuum;1238;;4;0
+Frigid;Q Event;;Q Continuum;1238;;4;2
 Frool;Personnel;Ferengi;Rules of Acquisition;160;;4;0
 Frozen in Place;Dilemma;Planet;Star Trek 60: The Diamond Anniversary Collection;8533;;4;0
 Full Phaser Spread;Tactic;;Blaze of Glory/BaH!;1239,3713;;10;0
@@ -904,7 +904,7 @@ Ghoren;Personnel;Cardassian;Deep Space 9;168;;4;0
 Gi'ral;Personnel;Klingon;Introductory 2-Player Game;1250;;2;0
 Gibson;Personnel;Federation;Q Continuum/Trouble with Tribbles Starter Decks;169,7107;;4;0
 Gideon Seyetik;Personnel;Federation;All Good Things;1247,4429,8416,8457;;2;0
-Gift of the Tormentor;Q Interrupt;;Q Continuum;1248;;4;0
+Gift of the Tormentor;Q Interrupt;;Q Continuum;1248;;4;4
 Gilora Rejal;Personnel;Cardassian;Deep Space 9;1249,4415;;2;0
 Giusti;Personnel;Federation;Premiere;170,5991,6354,6717,7639;;4;0
 Glavin;Equipment;;Star Trek 60: The Diamond Anniversary Collection;8543;;4;0
@@ -1098,7 +1098,7 @@ In for a Trim;Objective;;All Good Things;1382,8417,8458;;4;0
 In the Bag;Interrupt;;The Dominion;1383;;4;0
 In the Pale Moonlight;Dilemma;Dual;Rules of Acquisition/Virtual Promos;1384,7441;;4;0
 In the Zone;Incident;;Holodeck Adventures/Referee Reprints;1385,3093;;4;0
-Incoming Message - The Continuum;Q Interrupt;;Q Continuum;1386;;4;0
+Incoming Message - The Continuum;Q Interrupt;;Q Continuum;1386;;4;0 # needs errata
 Incoming Message: Attack Authorization;Interrupt;;Alternate Universe;1387;;7;7
 Incoming Message: Bajoran;Interrupt;;Deep Space 9;1388;;4;0
 Incoming Message: Cardassian;Interrupt;;Deep Space 9;1389;;4;0
@@ -1123,7 +1123,7 @@ Intermix Ratio;Event;;First Contact/Referee Reprints;1402,3094;;4;4
 Interphase Generator;Artifact;;Premiere;1403,6150,6513,6876,7798,8162;;2;2
 Interphasic Plasma Creatures;Dilemma;Dual;Alternate Universe;1404;;4;4
 Interrogation;Event;;Alternate Universe/Reflections;1405,3593;;4;0 # Needs errata
-Into the Breach;Q Event;;Q Continuum;1406;;4;0
+Into the Breach;Q Event;;Q Continuum;1406;;4;4
 Intruder Alert!;Incident;;Blaze of Glory/Referee Reprints;1407,3095;;4;4
 Intruder Force Field;Event;;Alternate Universe;1408;;4;4
 Invasive Beam-In;Event;;The Dominion;1409;;4;0
@@ -1187,7 +1187,7 @@ Jaro Essa;Personnel;Bajoran;Deep Space 9;1453,4410;;2;0
 Jaron;Personnel;Romulan;Premiere;202,5997,6360,6723,7645;;4;1
 Jasad;Personnel;Cardassian;Deep Space 9;203;;4;0
 Javek Len;Personnel;Bajoran;Mirror, Mirror;204,4828;;4;0
-Jealous Amanda;Q Event;;Q Continuum;1455;;4;0
+Jealous Amanda;Q Event;;Q Continuum;1455;;4;4
 Jean-Luc and Beverly;Personnel;Federation;Enhanced Premiere;1456;;2;0
 Jean-Luc Picard (First Contact);Personnel;Federation;First Contact;1458;;2;0
 Jean-Luc Picard;Personnel;Federation;Premiere/Virtual Promos;1457,3530,4089,4954,6163,6526,6889,7811,8175;;2;1 # Have 1 PREM, 2 different VP
@@ -1381,7 +1381,7 @@ Leeta;Personnel;Bajoran;Rules of Acquisition;1596;3054;2;0
 Leeta;Personnel;Ferengi;Identity Crisis;3054;1596;2;0
 Legate Damar;Personnel;Cardassian;Second Anthology;1597;;2;0
 Lemec;Personnel;Cardassian;Rules of Acquisition/Virtual Promos;1598,5632;;2;0
-Lemon-Aid;Q Interrupt;;Q Continuum;1599;;4;0
+Lemon-Aid;Q Interrupt;;Q Continuum;1599;;4;4
 Lenaris Holem;Personnel;Bajoran;Deep Space 9;1600;;2;0
 Leonardo da Vinci;Personnel;Non-Aligned;Holodeck Adventures;1601;;2;0
 Lesken;Personnel;Kazon;Star Trek 60: The Diamond Anniversary Collection;8574;;4;0
@@ -1539,7 +1539,7 @@ Miles O'Brien (Dramatis Personae);Personnel;Bajoran;Dramatis Personae;8376;;2;0
 Miles O'Brien;Personnel;Federation;Fajo Collection/Virtual Promos;1725,7548;;2;0
 Military Exercises;Mission;Space;Starter Deck II;267,7057;;4;3
 Military Freighter;Ship;Cardassian;Deep Space 9;268;;4;0
-Military Privilege;Q Event;;Q Continuum;1727;;4;0
+Military Privilege;Q Event;;Q Continuum;1727;;4;4
 Mimetic Simbiot;Dilemma;Dual;Straight and Steady;3632;;4;4
 Mine Dilithium;Mission;Planet;Mirror, Mirror;1728,4822;;2;2
 Mine Gallicite;Mission;Planet;Holodeck Adventures;1729;;2;0
@@ -1765,7 +1765,7 @@ Paxton Reese;Personnel;Federation;Deep Space 9;302;;4;0
 Pegasus Search;Mission;Space;Premiere/Reflections;1857,3604,6233,6596,6959,7881,8245;;2;0 # needs errata
 Pel;Personnel;Ferengi;Rules of Acquisition;1858,4439;;2;0
 Peldor Joi;Event;;Star Trek 60: The Diamond Anniversary Collection;8551;;4;0
-Penalty Box;Q Event;;Q Continuum;1859;;4;0
+Penalty Box;Q Event;;Q Continuum;1859;;4;3
 Penk;Personnel;Non-Aligned;Voyager/Virtual Promos;1860,5177;;2;0
 Perak;Personnel;Cardassian;Deep Space 9;303;;4;0
 Persistence of Memory;Artifact;;Fajo Collection;1861;;2;1
@@ -1846,8 +1846,8 @@ Pursue Holographic Prey;Mission;Space;To the Journey;8505;;2;0
 Pursuit Just Behind;Dilemma;Planet;Crossover;4729;;4;4
 Q Gets the Point;Dilemma;Dual;The Trouble with Tribbles;1920;;4;3
 Q the Referee;Incident;;The Trouble with Tribbles/Referee Reprints;1921,3076;;4;4
-Q's Fantasy Women;Q Event;;Holodeck Adventures;1926;;4;0
-Q's Planet;Mission;Planet;Q Continuum;1927;;2;0
+Q's Fantasy Women;Q Event;;Holodeck Adventures;1926;;4;4
+Q's Planet;Mission;Planet;Q Continuum;1927;;2;2
 Q's Tent;Doorway;;Q Continuum;1928;;4;0 # Needs errata
 Q's Vicious Animal Things;Dilemma;Planet;Q Continuum/Homefront;1929,3500;;4;4
 Q-Flash;Doorway;;Q Continuum;1924;;4;0 # Needs errata
@@ -2048,6 +2048,7 @@ Scepter of the Grand Nagus;Equipment;;Rules of Acquisition;2060;;2;0
 Science Vessel;Ship;Romulan;Premiere;334,4083,6011,6374,6737,7659,8023;;4;1
 Scientific Method;Dilemma;Dual;Rules of Acquisition/Trouble with Tribbles Starter Decks/Virtual Promos;2065,5268,5732;;4;4
 Scorched Hand;Interrupt;;First Contact/Referee Reprints;2066,3106;;4;4
+Scottish Setter;Q Event;;Q Continuum;2067;;4;0 # needs errata
 Scout Vessel;Ship;Romulan;Premiere;335,6012,6375,6738,7660;;4;0
 Search and Rescue;Mission;Planet;Deep Space 9/Trouble with Tribbles Starter Decks/Homefront IV;2070,4282,7157;;3;2 # have 2 HF4
 Search for Rebels;Mission;Planet;Mirror, Mirror/Homefront;2071,3521;;3;3
@@ -2140,6 +2141,7 @@ Study Pulsar;Mission;Space;Starter Deck II;366,7059;;4;2
 Study Rare Phenomenon;Mission;Space;Homefront IV;4285;;2;2
 Study Stellar Collision;Mission;Space;Premiere/Trouble with Tribbles Starter Decks;2182,6276,6639,7002,7160,7924,8288;;2;2
 Stupid Cave Mission;Dilemma;Planet;Star Trek 60: The Diamond Anniversary Collection;8540;;4;0
+Subsection Q, Paragraph 10;Q Interrupt;;Q Continuum;2185;;4;4
 Subspace Interference;Interrupt;;Premiere;2187,6277,6640,7003,7925,8289;;4;0 # needs errata
 Subspace Schism;Interrupt;;Premiere;2188,6278,6641,7004,7926,8290;;4;0 # needs errata
 Subspace Shock Wave;Dilemma;Space;The Motion Pictures/Homefront;2190,3502,7296;;4;0 # Need errata
@@ -2248,10 +2250,13 @@ The Genesis Effect;Incident;;Life From Lifelessness;3440;;4;4
 The Gift;Interrupt;;Voyager;2260;;4;1
 The Guardian of Forever;Doorway;;Mirror, Mirror/Virtual Promos;2264,3477,8366;;4;2 # two different VPs, have 2 MM
 The Higher... The Fewer;Dilemma;Dual;Alternate Universe/Virtual Promos;2265,4566;;4;4
+The Higher... The Q-er;Q Interrupt;;Q Continuum;2266;;4;0 # needs errata
 The Inner Light;Objective;;Star Trek 50;4985;;4;4
+The Issue is Patriotism;Q Interrupt;;Q Continuum;2268;;4;0 # needs errata
 The Juggler;Interrupt;;Premiere/Referee Reprints;2269,3111,6290,6653,7016,7938,8302;;4;4
 The Kazon Collective;Incident;;Voyager;2270;;4;4
 The Mask of Korgano;Event;;Alternate Universe;2272;;4;4
+The Naked Truth;Q Interrupt;;Q Continuum;2273;;4;0 # needs errata
 The Next Emanation;Event;;Voyager;2275;;4;4
 The Nexus;Doorway;;The Motion Pictures/Homefront III;2276,4099,7301;;4;0 # needs errata
 The Phage;Interrupt;;Voyager;2278;;4;4
@@ -2291,7 +2296,7 @@ Three of Nine;Personnel;Borg;The Borg;1058;;2;0
 Three of Nineteen;Personnel;Borg;First Contact;398;;4;0
 Three-Dimensional Thinking;Interrupt;;First Contact;1059;;4;0
 Tierna;Personnel;Kazon;Voyager/Virtual Promos;1060,7317;;2;0
-Tijuana Crass;Q Event;;Q Continuum;1061;;4;0
+Tijuana Crass;Q Event;;Q Continuum;1061;;4;4
 Time Travel Pod;Artifact;;Premiere;2293,6292,6655,7018,7940,8304;;2;0 # Needs errata
 Tinkerer;Incident;;Crossover;4745;;4;4
 Toby Russell;Personnel;Federation;Premiere;2298,6293,6656,7019,7525,7941,8305;;2;1
@@ -2322,6 +2327,7 @@ Treaty: The Alliance;Event;;Crossover;4736;;4;4
 Tribble Bomb;Incident;;The Trouble with Tribbles;2353;;4;1
 Tricorder;Equipment;;Premiere;2354,6306,6669,7032,7954,8318;;4;0 # needs errata
 Trilithium Weapon Control PADD;Equipment;;Homefront III;4102;;4;4
+Trust Me;Q Event;;Q Continuum;2357;;4;4
 Tsiolkovsky Infection;Dilemma;Space;Premiere;2360,6307,6670,7033,7955;;4;0 # needs errata
 Tulaberry Wine Negotiations;Mission;Planet;Rules of Acquisition;2362;;2;2
 Tuvok Founder;Personnel;Dominion;Star Trek 60: The Diamond Anniversary Collection;8569;;2;0
@@ -2396,9 +2402,11 @@ Wartime Conditions;Event;;Alternate Universe;2448;;4;4
 We Are the Borg;Event;;Enhanced First Contact/Virtual Promos;2449,3692;;4;1 # have 1 EFC
 We Look for Things;Incident;;The Trouble with Tribbles;2450;;4;2
 Weld Ram;Personnel;Bajoran;Deep Space 9;420;;4;0
+Wesley Gets the Point;Q Interrupt;;Q Continuum;2456;;4;4
 What Does God Need With a Starship?;Interrupt;;The Motion Pictures/Virtual Promos;2461,4254,7315;;4;0 # needs errata
 Where No One Has Gone Before;Event;;Premiere/Homefront VI/Trouble with Tribbles Starter Decks;2462,4695,6322,6685,7048,7165,7970,8334;;4;0 # needs errata
 Where Opportunities Are Made;Incident;;The Gamma Quadrant;4620;;4;4
+Where's Guinan?;Q Interrupt;;Q Continuum;2463;;4;2
 William T. Riker;Personnel;Federation;Premiere;2466,3565,6323,6686,7049,7971,8335;;2;1
 William Telfer;Personnel;Federation;Voyager;421;;4;0
 Wind Dancer;Dilemma;Planet;Premiere;2468,4046,6324,6687,7050,7972,8336;;4;0
@@ -2420,6 +2428,7 @@ Yellow Alert;Event;;Alternate Universe/Warp Pack;2483,7172;;4;4
 Yint;Personnel;Non-Aligned;The Trouble with Tribbles;468;;4;0
 You Can't Kill the Captain;Incident;;Crossover;4746;;4;4
 You Need Therapy!;Dilemma;Dual;Star Trek 60: The Diamond Anniversary Collection;8541;;4;0
+You Will in Time;Q Event;;Q Continuum;2487;;4;4
 Young Jem'Hadar;Personnel;Dominion;The Dominion;469;;4;0
 Young San;Personnel;Federation;Star Trek 60: The Diamond Anniversary Collection;8573;;2;0
 Yridian Shuttle;Ship;Non-Aligned;Premiere;470,6034,6397,6760,7682,8046;;4;0
@@ -2434,7 +2443,7 @@ Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
 # Done through card 2060
-#2065-2066
+#2065-2067
 #2070-2071
 #2077-2079
 #2084-2086
@@ -2456,6 +2465,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2169-2171
 #2173-2180
 #2182
+#2185
 #2187-2188
 #2190-2193
 #2196
@@ -2475,9 +2485,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2250-2251
 #2256-2258
 #2260
-#2264-2265
-#2269-2270
-#2272
+#2264-2266
+#2268-2270
+#2272-2273
 #2275-2276
 #2278-2279
 #2281-2282
@@ -2495,6 +2505,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2341
 #2345-2349
 #2352-2354
+#2357
 #2360
 #2362
 #2367
@@ -2509,12 +2520,14 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #2435
 #2437
 #2439-2450
-#2461-2462
+#2456
+#2461-2463
 #2466
 #2468-2470
 #2474
 #2476-2479
 #2483
+#2487
 #2489-2491
 #2495
 #2611
