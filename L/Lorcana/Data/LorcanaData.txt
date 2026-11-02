@@ -2486,7 +2486,7 @@ Fru Fru - VIP Guest;Character;Amber;Storyborn/Ally;Zootopia;Hyperia City (Common
 Abuelita - Loving Grandmother;Character;Amber;Storyborn/Ally;Coco;Hyperia City (Common);0
 Max Goof - Music Lover;Character;Amber;Storyborn/Hero;Mickey Mouse and Friends/A Goofy Movie;Hyperia City (Uncommon);0
 Gazelle - Pop Diva;Character;Amber;Dreamborn/Ally;Zootopia;Hyperia City (Common);0
-Pete - Suave Showoff;Character;Amber;Storyborn;Mickey Mouse and Friends/A Goofy Movie;Hyperia City (Common);0
+Pete - Suave Showoff;Character;Amber;Storyborn;Mickey Mouse and Friends/A Goofy Movie;Hyperia City (Common);1
 Miriam Mendelsohn - Front‐Row Fan;Character;Amber;Storyborn/Ally;Turning Red;Hyperia City (Uncommon);0
 Priya Mangal - Immovable Fan;Character;Amber;Storyborn/Ally;Turning Red;Hyperia City (Common);0
 Yax - Concert Goer;Character;Amber;Storyborn/Ally;Zootopia;Hyperia City (Uncommon);0
@@ -2503,7 +2503,7 @@ Lionheart - Incumbent Mayor;Character;Amber;Storyborn;Zootopia;Hyperia City (Rar
 Aurora - Delightful Musician;Character;Amber;Dreamborn/Hero/Princess;Sleeping Beauty;Hyperia City (Legendary);0
 Russell - Finding Adventure;Character;Amber;Storyborn/Hero;Up;Hyperia City (Rare);0
 Miguel Rivera - Street Musician;Character;Amber;Storyborn/Hero;Coco;Hyperia City (Rare);0
-Goofy - Knows the Band;Character;Amber;Dreamborn/Hero;Mickey Mouse and Friends/A Goofy Movie;Hyperia City (Rare);1
+Goofy - Knows the Band;Character;Amber;Dreamborn/Hero;Mickey Mouse and Friends/A Goofy Movie;Hyperia City (Rare);2
 Mickey Mouse - Best in Town;Character;Amber;Dreamborn/Hero;Mickey Mouse and Friends;Hyperia City (Super Rare);0
 
 Port Authority - Center Hub;Location;Amber;Hyperia City;Lorcana;Hyperia City (Uncommon);0
@@ -2511,7 +2511,7 @@ Owen Burnett - Xanatos's Assistant;Character;Amethyst;Storyborn/Ally;Gargoyles;H
 Scuttle - Directing Traffic;Character;Amethyst;Storyborn/Ally;The Little Mermaid;Hyperia City (Uncommon);0
 David Xanatos - Arcane Industrialist;Character;Amethyst;Dreamborn/Villain;Gargoyles;Hyperia City (Common);1
 Lexington - Fearless Flier;Character;Amethyst;Storyborn/Ally/Gargoyle;Gargoyles;Hyperia City (Common);0
-Merlin - Bauble Expert;Character;Amethyst;Storyborn/Mentor/Sorcerer;The Sword in the Stone;Hyperia City (Common);0
+Merlin - Bauble Expert;Character;Amethyst;Storyborn/Mentor/Sorcerer;The Sword in the Stone;Hyperia City (Common);1
 Pepita - Watchful Alebrije;Character;Amethyst;Storyborn/Ally;Coco;Hyperia City (Uncommon);0
 Archimedes - Has Had Enough;Character;Amethyst;Storyborn/Ally;The Sword in the Stone;Hyperia City (Common);0
 Tía Victoria - Disapproving Ancestor;Character;Amethyst;Storyborn/Ally;Coco;Hyperia City (Common);0
@@ -2535,13 +2535,16 @@ Madam Mim - Resourceful Trickster;Character;Amethyst;Dreamborn/Villain/Sorcerer;
 Everyone Knows Juanita;Action;Amethyst;Song;Coco;Hyperia City (Common);0
 Mim's Malice;Action;Amethyst;;The Sword in the Stone;Hyperia City (Common);0
 Higitus Figitus;Action;Amethyst;Song;The Sword in the Stone;Hyperia City (Common);1
-Un Poco Loco;Action;Amethyst;Song;Coco;Hyperia City (Rare);0
+Un Poco Loco;Action;Amethyst;Song;Coco;Hyperia City (Rare);1
 Magnificent, Marvelous;Action;Amethyst;Song;The Sword in the Stone;Hyperia City (Uncommon);0
 Creative Inspiration;Action;Amethyst;;Lorcana;Hyperia City (Rare);0
 Merlin's Wand;Item;Amethyst;;The Sword in the Stone;Hyperia City (Uncommon);0
 Inkcaster Skates;Item;Amethyst;;Lorcana;Hyperia City (Rare);0
 Merlin's Shop and Smithy - Magical Market;Location;Amethyst;Hyperia City;The Sword in the Stone;Hyperia City (Uncommon);0
 Trusty - Along for the Ride;Character;Emerald;Storyborn/Ally;Lady and the Tramp;Hyperia City (Common);1
+Don Karnage - Khan's Courier;Character;Emerald;Storyborn/Villain/Prince/Pirate;TaleSpin;Hyperia City (Common);1
+
+Lady - Relaxed and Rested;Character;Emerald;Storyborn/Hero;Lady and the Tramp;Hyperia City (Common);1
 
 Don Karnage - Debonair Pirate;Character;Emerald;Dreamborn/Villain/Prince/Pirate;TaleSpin;Hyperia City (Super Rare);1
 
@@ -2558,6 +2561,7 @@ Abby Park - Intense Fan;Character;Ruby;Storyborn/Ally;Turning Red;Hyperia City (
 Yama - Notorious Criminal;Character;Ruby;Storyborn;Big Hero 6;Hyperia City (Uncommon);2
 
 Pepita - Sweet Kitty;Character;Ruby;Storyborn/Ally;Coco;Hyperia City (Common);0
+Donald Duck - Taxi Driver;Character;Ruby;Dreamborn/Hero;Mickey Mouse and Friends;Hyperia City (Common);1
 
 Héctor Rivera - Street Musician;Character;Ruby;Storyborn/Mentor;Coco;Hyperia City (Uncommon);0
 
@@ -2570,11 +2574,12 @@ Khan Stadium - State of the Art;Location;Ruby;Hyperia City;TaleSpin;Hyperia City
 Carl Fredricksen - Wilderness Guide;Character;Sapphire;Dreamborn/Hero;Up;Hyperia City (Common);0
 
 King Louie - Ice Cream Virtuoso;Character;Sapphire;Storyborn/Ally/King;The Jungle Book;Hyperia City (Common);0
-Lafayette - All Ears;Character;Sapphire;Storyborn;The Aristocats;Hyperia City (Uncommon);0
+Lafayette - All Ears;Character;Sapphire;Storyborn;The Aristocats;Hyperia City (Uncommon);1
 Abigail & Amelia - Gossiping Geese;Character;Sapphire;Storyborn;The Aristocats;Hyperia City (Common);0
 
 Go Go Tomago - Working Late;Character;Sapphire;Storyborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Uncommon);1
 
+Daisy Duck - Savvy Investor;Character;Sapphire;Dreamborn/Hero;Mickey Mouse and Friends;Hyperia City (Common);1
 Hiro Hamada - Pioneering Inventor;Character;Sapphire;Storyborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Common);1
 
 Doug - Lying in Wait;Character;Sapphire;Storyborn/Ally;Zootopia;Hyperia City (Common);0
@@ -2589,6 +2594,12 @@ Chief Bogo - Police Commissioner;Character;Steel;Dreamborn;Zootopia;Hyperia City
 
 Baloo - Delivery Pilot;Character;Steel;Storyborn/Hero/Captain;The Jungle Book/TaleSpin;Hyperia City (Uncommon);1
 Koslov - Imposing Enforcer;Character;Steel;Storyborn/Ally;Zootopia;Hyperia City (Common);1
+
+Baloo - Freight Pilot;Character;Steel;Storyborn/Hero/Captain;The Jungle Book/TaleSpin;Hyperia City (Common);1
+
+Tiana - Party Hostess;Character;Steel;Dreamborn/Hero/Princess;The Princess and the Frog;Hyperia City (Legendary);1
+
+Hyperia City Express;Item;Steel;;Lorcana;Hyperia City (Uncommon);1
 
 Central Station - Transportation Hub;Location;Steel;Hyperia City;Lorcana;Hyperia City (Common);1
 Khan Industries - Greenway Landmark;Location;Steel;Hyperia City;TaleSpin;Hyperia City (Rare);0
