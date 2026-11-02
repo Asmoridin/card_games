@@ -2045,11 +2045,16 @@ Scan Cycle Check;Interrupt;;The Trouble with Tribbles;2058;;4;4
 Scan;Interrupt;;Premiere;2057,6259,6622,6985,7907,8271;;4;0 # need errata
 Scanner Interference;Incident;;Blaze of Glory/Referee Reprints;2059,3105;;4;0 # needs errata
 Scepter of the Grand Nagus;Equipment;;Rules of Acquisition;2060;;2;0
+Science Kit;Equipment;;Deep Space 9;2061;;4;0
+Science Lab;Site;;Deep Space 9/Homefront V/Virtual Promos;2062,4476,5588;;2;0
+Science PADD;Equipment;;Deep Space 9/Voyager;2063,2064;;4;0
 Science Vessel;Ship;Romulan;Premiere;334,4083,6011,6374,6737,7659,8023;;4;1
 Scientific Method;Dilemma;Dual;Rules of Acquisition/Trouble with Tribbles Starter Decks/Virtual Promos;2065,5268,5732;;4;4
 Scorched Hand;Interrupt;;First Contact/Referee Reprints;2066,3106;;4;4
 Scottish Setter;Q Event;;Q Continuum;2067;;4;0 # needs errata
+Scout Encounter;Dilemma;Dual;First Contact/Reflections/Virtual Promos;2068,3590,4958;;4;0
 Scout Vessel;Ship;Romulan;Premiere;335,6012,6375,6738,7660;;4;0
+Seal Rift;Mission;Space;Holodeck Adventures;2069;;2;0
 Search and Rescue;Mission;Planet;Deep Space 9/Trouble with Tribbles Starter Decks/Homefront IV;2070,4282,7157;;3;2 # have 2 HF4
 Search for Rebels;Mission;Planet;Mirror, Mirror/Homefront;2071,3521;;3;3
 Search for Weapons;Mission;Planet;Starter Deck II;336,4055,4824,7058;;4;3
@@ -2442,9 +2447,8 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 2060
-#2065-2067
-#2070-2071
+# Done through card 2070
+#2071
 #2077-2079
 #2084-2086
 #2088-2090
@@ -2559,7 +2563,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3548-3554
 #3556-3561
 #3563-3585
-#3587-3589
+#3587-3590
 #3592-3595
 #3597-3618
 #3620-3628
@@ -2613,8 +2617,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4427-4439
 #4442-4445
 #4447-4452
-#4461-4475
-#4477
+#4461-4477
 #4485
 #4487-4489
 #4491-4492
@@ -2660,7 +2663,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4907
 #4948
 #4954
-#4959-4960
+#4958-4960
 #4962
 #4964-4965
 #4967
@@ -2702,6 +2705,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5576
 #5578
 #5584
+#5588
 #5591
 #5595-5599
 #5603-5605
