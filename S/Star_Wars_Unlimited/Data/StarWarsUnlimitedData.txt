@@ -13,7 +13,7 @@ A Fine Addition;TWI-040-R;Event;Supply;B/U;0
 A New Adventure;SHD-207-U;Event;Gambit;Y/Y;2
 A New Order;ASH-264-C;Event;Plan;N;0
 A Precarious Predicament;LOF-222-U;Event;Trick;Y;0
-A-Wing;SEC-213-C;Space Unit;Vehicle/Fighter;Y;3
+A-Wing;SEC-213-C/IC27-169-U;Space Unit;Vehicle/Fighter;Y;3
 AAT Incinerator;SEC-169-U;Ground Unit;Imperial/Vehicle/Tank;R;3
 Aayla Secura, Master of the Blade;TWI-096-L;Ground Unit;Force/Jedi/Republic/Twi'lek;G/W;1
 Abandoned the Order;TS26-37-U;Upgrade;Learned;Y/U;2
@@ -907,7 +907,7 @@ Heroic Sacrifice;SOR-150-R;Event;Tactic;R/W;2
 Hevy, Staunch Martyr;TWI-164-U;Ground Unit;Republic/Clone/Trooper;R;2
 Hidden Hand Supplier;LAW-257-C;Ground Unit;Underworld;N;0
 Hidden Hunters;LAW-160-C;Ground Unit;Bounty Hunter;G;0
-Hidden Sharpshooter;TWI-214-C;Ground Unit;Republic/Clone/Trooper;Y;2
+Hidden Sharpshooter;TWI-214-C/IC27-173-C;Ground Unit;Republic/Clone/Trooper;Y;2
 High Command Councilor;SEC-249-C;Ground Unit;Rebel/Official;W;3
 Highsinger, Deadly Droid;LAW-059-R;Ground Unit;Underworld/Droid/Bounty Hunter;G/R;0
 Hired Slicer;SEC-220-U;Ground Unit;Fringe;Y;3 # 1 foil
@@ -930,17 +930,17 @@ Honor-Bound Partisan;LAW-058-U;Ground Unit;Rebel/Twi'lek;G/R;0
 Honorable Nite Owl;ASH-154-C;Ground Unit;Mandalorian/Trooper;R/W;0
 Hopeful Volunteer;JTL-246-C;Ground Unit;Rebel/Pilot;W;3
 Hoth Lieutenant;IBH-064-S/IBH-092-S;Ground Unit;Imperial/Trooper;R/B;0
-# done through here
-Hoth Trooper;IBH-037-S/IBH-038-S/IBH-048-S;Ground Unit;Y/W;0
-Hotshot DL-44 Blaster;SHD-174-R;Upgrade;R;1
-Hotshot Maneuver;JTL-174-R;Event;R;0
-Hotshot V-Wing;TWI-209-C;Space Unit;Y;3 # 1 hyperspace
+Hoth Trooper;IBH-037-S/IBH-038-S/IBH-048-S;Ground Unit;Rebel/Trooper;Y/W;0
+Hotshot DL-44 Blaster;SHD-174-R;Upgrade;Item/Weapon;R;1
+Hotshot Maneuver;JTL-174-R;Event;Tactic;R;0
+Hotshot V-Wing;TWI-209-C;Space Unit;Republic/Vehicle/Fighter;Y;3 # 1 hyperspace
 Hound's Tooth, Hunters' Approach;LAW-033-R;Space Unit;Underworld/Vehicle/Transport;U/G/B;0
-Hound's Tooth, Reliable and Deadly;JTL-185-S;Space Unit;Y/B;3
-House Kast Soldier;SHD-162-C;Ground Unit;R;3 # 1 hyperspace, 1 foil
+Hound's Tooth, Reliable and Deadly;JTL-185-S;Space Unit;Underworld/Vehicle/Transport;Y/B;3
+House Kast Soldier;SHD-162-C;Ground Unit;Mandalorian/Trooper;R;3 # 1 hyperspace, 1 foil
 Hunter For Hire;LAW-156-U;Ground Unit;Underworld/Bounty Hunter;G;0
-Hunter of the Haxion Brood;SHD-186-C;Ground Unit;Y/B;3
-Hunter, Extraordinary Tracker;SEC-208-U;Ground Unit;Y/W;3
+Hunter of the Haxion Brood;SHD-186-C;Ground Unit;Underworld/Bounty Hunter;Y/B;3
+Hunter, Extraordinary Tracker;SEC-208-U;Ground Unit;Fringe/Clone;Y/W;3
+# done through here
 Hunter, Outcast Sergeant;SHD-009-R;Leader;G/W;1 # 1 hyperspace
 Hunting Aggressor;JTL-165-U;Space Unit;R;3
 Hunting Assassin Droid;SEC-134-C;Ground Unit;R/B;3
@@ -1764,7 +1764,7 @@ Shin Hati, Going Somewhere?;ASH-049-U;Ground Unit;Force;U/B;0
 Shin Hati, Overeager Apprentice;LOF-183-U;Ground Unit;Y/B;3 # 1 foil
 Shipbreaking Yard;LAW-026-R;Base;Bracca;R;0
 Shoot Down;JTL-176-C;Event;R;2
-Shoot First;SOR-217-U;Event;Y;3 # 1 foil
+Shoot First;SOR-217-U/IC27-175-U;Event;Y;3 # 1 foil
 Shuttle ST-149, Under Krennic's Authority;JTL-242-U;Space Unit;B;1
 Shuttle Tydirium, Fly Casual;JTL-200-S;Space Unit;Y/W;3 # 1 foil
 Shydopp Pirate Skiff;ASH-173-C;Ground Unit;Underworld/Vehicle/Transport;R;0
@@ -2423,14 +2423,16 @@ Surveillance Cruiser;HMW-247-C;Space Unit;Imperial/Vehicle/Capital Ship;B;0
 Defoliator Tank;HMW-248-R;Ground Unit;Separatist/Vehicle/Tank;B;0
 Frenzied Tri-Fighters;HMW-249-C;Space Unit;Separatist/Droid/Vehicle/Fighter;B;0
 Imperial Cavalry;HMW-250-C;Ground Unit;Imperial/Trooper;B;0
-
+Blockade Ship;HMW-251-U;Space Unit;Separatist/Vehicle/Capital Ship;B;0
+Villainous Ambition;HMW-252-C;Upgrade;Innate;B;0
 Forced Pacification;HMW-253-U;Event;Plan;B;1
-
+Captain Tarpals, Grand Army Captain;HMW-254-U;Ground Unit;Gungan/Trooper;W;0
 C-3PO, Captivating Storyteller;HMW-255-S;Ground Unit;Rebel/Droid;W;0
-
+Jedi Interceptor;HMW-256-C;Space Unit;Jedi/Republic/Vehicle/Fighter;W;0
 Ewok Archers;HMW-257-C;Ground Unit;Ewok;W;0
-
+Ryloth Revolutionary Rider;HMW-258-C;Ground Unit;Creature/Twi'lek/Trooper;W;0
 Pack Guardian;HMW-259-C;Ground Unit;Creature;W;1 # 1 hyperfoil
+Queen Amidala, Retaking Theed;HMW-260-R;Ground Unit;Naboo/Official;W;0
 
 Mylaya Rider;HMW-262-C;Ground Unit;Creature/Wookiee;W;1
 
@@ -2584,3 +2586,10 @@ Princess Leia, Calculated Distraction;IC27-159-L;Ground Unit;Rebel/Official;Y/W;
 Bo-Katan Kryz, Right Place, Right Time;IC27-163-R;Ground Unit;Mandalorian;Y/W;0
 # IC27-165 missing
 I've Got A Bad Feeling;IC27-166-U/P26-269-U;Event;Innate;Y/W;0
+Lando Calrissian, Check This Out;IC27-167-R;Ground Unit;Official;Y;0
+Cunning Ploy;IC27-168-U;Event;Trick;Y;0
+# IC27-170 missing
+# IC27-171 missing
+# IC27-172 missing
+# IC27-174 missing
+# IC27-175 DONE
