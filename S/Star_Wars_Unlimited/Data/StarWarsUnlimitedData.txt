@@ -416,7 +416,7 @@ Consortium StarViper;SOR-112-C/ASH-122-C;Space Unit;Fringe/Vehicle/Fighter;G;3
 Constructed Lightsaber;LOF-261-L;Upgrade;Item/Weapon/Lightsaber;N;1
 Consular Security Force;SOR-046-C;Ground Unit;Rebel/Trooper;U/W;3
 Consular's Cruiser;SEC-117-C;Space Unit;Republic/Vehicle/Transport;G;3 # 1 foil
-Consumed by the Dark Side;LOF-239-C;Event;Force;B;1
+Consumed by the Dark Side;LOF-239-C/IC27-184-C;Event;Force;B;1
 Contempt for Culture;SEC-246-C;Event;Innate;B;3
 Contested Caverns;LAW-025-C;Base;Quarzite;R;0
 Contraband Starhopper;SEC-161-C;Space Unit;Underworld/Vehicle/Fighter;R;3 # 1 foil
@@ -913,7 +913,7 @@ Highsinger, Deadly Droid;LAW-059-R;Ground Unit;Underworld/Droid/Bounty Hunter;G/
 Hired Slicer;SEC-220-U;Ground Unit;Fringe;Y;3 # 1 foil
 Hive Defense Wing;LOF-110-C;Space Unit;Separatist/Vehicle/Fighter;G;3 # 1 foil
 HK-47, Exclamation: Die, Meatbag!;LOF-130-L;Ground Unit;Sith/Droid;R/B;2 # 1 hyperspace
-HK-87 Assassin Droid;LOF-235-U;Space Unit;Imperial/Droid;B;1
+HK-87 Assassin Droid;LOF-235-U/LOF-182-S;Space Unit;Imperial/Droid;B;1
 Hold For Questioning;LAW-217-U;Event;Law;Y/B;1
 Hold Them Off;ASH-139-U;Event;Tactic;G;0
 Hold-Out Blaster;TWI-256-C;Upgrade;Item/Weapon;N;3
@@ -940,17 +940,17 @@ House Kast Soldier;SHD-162-C;Ground Unit;Mandalorian/Trooper;R;3 # 1 hyperspace,
 Hunter For Hire;LAW-156-U;Ground Unit;Underworld/Bounty Hunter;G;0
 Hunter of the Haxion Brood;SHD-186-C;Ground Unit;Underworld/Bounty Hunter;Y/B;3
 Hunter, Extraordinary Tracker;SEC-208-U;Ground Unit;Fringe/Clone;Y/W;3
-# done through here
-Hunter, Outcast Sergeant;SHD-009-R;Leader;G/W;1 # 1 hyperspace
-Hunting Aggressor;JTL-165-U;Space Unit;R;3
-Hunting Assassin Droid;SEC-134-C;Ground Unit;R/B;3
-Hunting Nexu;SHD-168-C/LOF-162-C;Ground Unit;R;3 # 1 foil
-Hutt Cartel Starfighter;SEC-240-C;Space Unit;B;3 # 1 hyperspace
-Hutt's Henchmen;SHD-240-C;Ground Unit;B;3 # 1 hyperspace
-Huyang, Enduring Instructor;TWI-110-R;Ground Unit;G;1
+Hunter, Outcast Sergeant;SHD-009-R;Leader;Fringe/Clone;G/W;1 # 1 hyperspace
+Hunting Aggressor;JTL-165-U;Space Unit;Underworld/Vehicle/Transport;R;3
+Hunting Assassin Droid;SEC-134-C;Ground Unit;Underworld/Droid/Bounty Hunter;R/B;3
+Hunting Nexu;SHD-168-C/LOF-162-C;Ground Unit;Creature;R;3 # 1 foil
+Hutt Cartel Starfighter;SEC-240-C;Space Unit;Underworld/Vehicle/Fighter;B;3 # 1 hyperspace
+Hutt's Henchmen;SHD-240-C;Ground Unit;Underworld;B;3 # 1 hyperspace
+Huyang, Enduring Instructor;TWI-110-R;Ground Unit;Jedi/Droid;G;1
 Huyang, Your Aptitude Falls Short;ASH-056-U;Ground Unit;Jedi/Droid;W/U;1
-HWK-290 Freighter;SHD-060-C;Space Unit;U;3 # 1 hyperspace
-Hyena Bomber;LOF-158-C;Space Unit;R;2
+HWK-290 Freighter;SHD-060-C;Space Unit;Vehicle/Transport;U;3 # 1 hyperspace
+Hyena Bomber;LOF-158-C;Space Unit;Separatist/Droid/Vehicle/Transport;R;2
+# done through here
 Hylobon Enforcer;SHD-027-C;Ground Unit;U/B;3 # 1 hyperspace
 Hyperspace Disaster;SEC-078-R;Event;U;1
 Hyperspace Wayfarer;LOF-119-C;Space Unit;G;3
@@ -1656,7 +1656,7 @@ Rogue One, At Any Cost;LAW-119-R;Space Unit;Rebel/Vehicle/Transport;U;0
 Rogue Operative;SOR-194-C;Ground Unit;W/Y;3 # 1 hyperspace
 Rogue Squadron Skirmisher;SOR-101-U;Ground Unit;G/W;3
 Rogue Squadron Speeder;IBH-004-S/IBH-017-S/IBH-034-S;Ground Unit;G/W;0
-Rogue-class Starfighter;JTL-241-C;Space Unit;B;2
+Rogue-class Starfighter;JTL-241-C/IC27-181-C;Space Unit;B;2
 Rookie Rocket-Jumper;LAW-227-C;Ground Unit;Underworld/Twi'lek;Y;0
 Rose Tico, Dedicated to the Cause;SHD-045-U;Ground Unit;U/W;3
 Rose Tico, Now It's Worth It;LAW-223-R;Ground Unit;Resistance;Y/W;0
@@ -1850,7 +1850,7 @@ Sundari Gauntlet;TS26-24-U;Space Unit;Mandalorian/Vehicle/Transport;G/R;2
 Sundari Palace;TS26-12-R;Base;Mandalore;Y;1
 Sundari Peacekeeper;SHD-098-U;Ground Unit;G/W;2
 Sundari;TWI-020-C;Base;U;1
-Super Battle Droid;TWI-230-C;Ground Unit;B;3
+Super Battle Droid;TWI-230-C/IC27-180-C;Ground Unit;B;3
 Supercommando Squad;SHD-034-C;Ground Unit;U/B;3 # 1 foil
 Superheavy Ion Cannon;JTL-227-R;Upgrade;Y;0
 Superlaser Blast;SOR-043-L;Event;U/B;1
@@ -1992,7 +1992,7 @@ TIE Ambush Squadron;JTL-087-C;Space Unit;G/B;3
 TIE Bomber;JTL-237-C;Space Unit;B;3
 TIE Dagger Vanguard;JTL-239-C;Space Unit;B;3 # 1 foil
 TIE Striker;ASH-141-C;Space Unit;Imperial/Vehicle/Fighter;R/B;0
-TIE/ln Fighter;SOR-225-C;Space Unit;B;3 # 1 hyperspace
+TIE/ln Fighter;SOR-225-C/IC27-178-C;Space Unit;B;3 # 1 hyperspace
 Time of Crisis;LOF-177-R;Event;R;1
 Timely Intervention;SHD-129-C;Event;G;3 # 1 foil
 Timely Reinforcements;JTL-130-U;Event;G;1
@@ -2433,10 +2433,17 @@ Ewok Archers;HMW-257-C;Ground Unit;Ewok;W;0
 Ryloth Revolutionary Rider;HMW-258-C;Ground Unit;Creature/Twi'lek/Trooper;W;0
 Pack Guardian;HMW-259-C;Ground Unit;Creature;W;1 # 1 hyperfoil
 Queen Amidala, Retaking Theed;HMW-260-R;Ground Unit;Naboo/Official;W;0
-
+Ben Kenobi, Don't Be Afraid;HMW-261-U;Ground Unit;Force/Fringe/Jedi;W;0
 Mylaya Rider;HMW-262-C;Ground Unit;Creature/Wookiee;W;1
-
+Wrecker, Wrecking the Empire;HMW-263-U;Ground Unit;Clone;W;0
+Heroic Bravery;HMW-264-C;Upgrade;Innate;W;0
+Twi'lek Kalikori;HMW-265-R;Upgrade;Item;W;0
+Familiar Strategem;HMW-266-C;Event;Tactic;W;0
+Renew;HMW-267-C;Event;Innate;W;0
+Offworld Jawa;HMW-268-C;Ground Unit;Jawa;N;0
 Friendly Eopie;HMW-269-C;Ground Unit;Creature;N;1
+Wild Space Wanderer;HMW-270-U;Space Unit;Fringe/Vehicle/Fighter;N;0
+
 ** END **
 Darth Vader, No One to Stop Us;IC27-001-S;Leader;Force/Imperial/Sith;U/B;0
 # IC27-002 missing
@@ -2592,4 +2599,8 @@ Cunning Ploy;IC27-168-U;Event;Trick;Y;0
 # IC27-171 missing
 # IC27-172 missing
 # IC27-174 missing
-# IC27-175 DONE
+# IC27-176 missing
+# IC27-177 missing
+# IC27-179 missing
+# IC27-183 missing
+# IC27-184 done
