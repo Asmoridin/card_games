@@ -8,7 +8,7 @@ Yorinobu Arasaka: Embracing Destruction;Legend;R;Arasaka/Corpo;Welcome to Night 
 Japantown Jonin;Unit;R;Tyger Claws;Welcome to Night City;MS01-010-C;1
 Ruthless Lowlife;Unit;R;Ganger/Maelstrom;MS01-017-C;3
 La Llorona: Ghost of the Past;Unit;R;Ganger/Valentino;MS01-013-U;2
-Swordwise Huscle;Unit;R;Merc;MS01-019-C;3
+Swordwise Huscle;Unit;R;Merc;MS01-019-C;4
 Valentino Guerrera;Unit;R;Ganger/Valentino;MS01-021-C;1
 6th Street Recruits;Unit;R;6th Street/Ganger;MS01-006-C;0
 Kerry Eurodyne: The Last Rockerboy;Unit;R;Rocker/Samurai;MS01-012-U;1
@@ -17,7 +17,7 @@ Chrome Fang;Unit;R;Ganger/Netrunner/Tyger Claws;MS01-008-C;4
 El Sombrerón: La Venganza Lenta;Unit;R;Ganger/Valentino;MS01-009-R;1
 Royce: Don't Call Me Simon;Unit;R;Ganger/Maelstrom;MS01-016-U;0
 Screw: Lovelorn Fool;Unit;R;Ganger/Maelstrom;MS01-018-C;1
-V: Roamer of the Badlands;Unit;R;Merc/Nomad;MS01-020-E;0
+V: Roamer of the Badlands;Unit;R;Merc/Nomad;MS01-020-E;1
 Animals Wrecker;Unit;R;Animal/Ganger;MS01-007-C;2
 Johnny Silverhand: Never Stop Fighting;Unit;R;Merc/Rocker/Samurai;MS01-011-E;0
 Minotaur;Unit;R;Arasaka/Drone/Militech;SD02-003-U;2
@@ -25,12 +25,12 @@ Octant;Unit;R;Drone/Militech/Zetatech;MS01-015-C;0
 Yorinobu Arasaka: Steel Dragon;Unit;R;Arasaka/Corpo;MS01-022-R;0
 Mantis Blades;Gear;R;Cyberware;MS01-025-C;3
 Arasaka Emergency Radioport;Gear;R;Arasaka/Cyberware;MS01-023-C;3
-Satori: Sword of Saburo;Gear;R;Arasaka/Weapon;MS01-026-U;3
+Satori: Sword of Saburo;Gear;R;Arasaka/Weapon;MS01-026-U;4
 Deadman Transmitter;Gear;R;Cyberware/Trauma Team;MS01-024-U;0
 All is Lost;Program;R;Zetatech;MS01-027-C;2
 Detonate;Program;R;Quickhack;MS01-031-C;1
 Industrial Assembly;Program;R;Arasaka/Braindance;MS01-033-U;4
-Appetite for Destruction;Program;R;Ganger;MS01-028-U;2
+Appetite for Destruction;Program;R;Ganger;MS01-028-U;3
 Bonnie and Clyde;Program;R;Braindance;MS01-029-U;2
 Over the Edge;Program;R;Merc;MS01-034-C;3
 Gunpoint Diplomacy;Program;R;Ganger/Plan;MS01-032-U;2
@@ -50,7 +50,7 @@ Maelstrom Goons;Unit;Y;Ganger/Maelstrom;MS01-049-C;0
 Viktor Vektor: You Might Feel a Little Pinch;Unit;Y;Ripperdoc;MS01-058-U;1
 Gilded Matón;Unit;Y;Ganger/Valentino;MS01-045-C;0
 Hanako Arasaka: In a Gilded Cage;Unit;Y;Arasaka/Corpo/Netrunner;MS01-046-R;0
-Offduty Malfini;Unit;Y;Ganger/Voodoo Boys;MS01-051-C/SD01-004-C;2
+Offduty Malfini;Unit;Y;Ganger/Voodoo Boys;MS01-051-C/SD01-004-C;3
 T-Bug: Amateur Philosopher;Unit;Y;Merc/Netrunner;MS01-055-U/SD01-006-U;2
 Caliber: Totentanz's Top Dog;Unit;Y;Ganger/Maelstrom;MS01-044-R;1
 MaxTac Suppression Team;Unit;Y;NCPD;MS01-050-C;2
@@ -84,12 +84,12 @@ MaxTac AV;Unit;G;NCPD/Vehicle;MS01-080-C/SD02-018-C;3
 MaxTac Heavy;Unit;G;NCPD;MS01-081-U;2
 Sandevistan;Gear;G;Cyberware;MS01-095-U/SD02-019-U;4
 Corporate Surveillance;Program;G;Corpo;MS01-097-U/SD02-020-U;3
-Zetatech Berserk;Gear;G;Cyberware/Zetatech;MS01-096-C;1
+Zetatech Berserk;Gear;G;Cyberware/Zetatech;MS01-096-C;2
 Tyger's Whisper;Unit;G;Fixer/Tyger Claws;MS01-090-C;1
-Riding Nomad;Unit;G;Nomad;MS01-087-C;1
+Riding Nomad;Unit;G;Nomad;MS01-087-C;2
 Wild in the Streets;Program;G;Ganger;MS01-105-C;2
-Memory Relapse;Program;G;Braindance;MS01-100-U;2
-Fool on the Hill;Program;G;Merc;MS01-099-R;1
+Memory Relapse;Program;G;Braindance;MS01-100-U;3
+Fool on the Hill;Program;G;Merc;MS01-099-R;2
 Panam Palmer: Strength Through Family;Unit;Aldecaldo/Merc/Nomad;MS01-085-S;1
 Maelstrom Zealots;Unit;G;Ganger/Maelstrom;MS01-079-C;1
 Sandayu Oda: Hanako's Guardian;Unit;G;Arasaka/Corpo;MS01-088-R;1
@@ -112,10 +112,10 @@ Floor It;Program;U;Merc/Quickhack;SD01-019-C/MS01-132-C;4
 Rita Wheeler: No Stupid Questions;Unit;U;Ganger/Mox;MS01-125-C;1
 Maman Brigitte: Spirit of Death;Unit;U;Mystic/Netrunner/Voodoo Boys;MS01-118-U;1
 Pyramid Song;Program;U;Braindance;MS01-135-R;2
-Chrome Reverie;Program;U;Braindance;MS01-131-C;1
+Chrome Reverie;Program;U;Braindance;MS01-131-C;2
 NetWatch Netdriver;Gear;U;Cyberware/Netrunner/Netwatch;MS01-129-U;1
 Alt Cunningham: Soulkiller Architect;Legend;U;Merc/Netrunner;MS01-106-R;1
-Mox Inciters;Unit;U;Ganger/Mox;MS01-122-C;1
+Mox Inciters;Unit;U;Ganger/Mox;MS01-122-C;2
 Unlikely Bond;Program;U;Maelstrom/Mox;MS01-140-C;1
 Delamain: Rideshare AI;Unit;U;AI;MS01-0111-U;1
 Les Élémens;Program;U;Corpo;MS01-133-U;1
