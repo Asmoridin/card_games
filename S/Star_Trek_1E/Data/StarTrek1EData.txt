@@ -2064,11 +2064,17 @@ Scout Vessel;Ship;Romulan;Premiere;335,6012,6375,6738,7660;;4;0
 Seal Rift;Mission;Space;Holodeck Adventures;2069;;2;0
 Search and Rescue;Mission;Planet;Deep Space 9/Trouble with Tribbles Starter Decks/Homefront IV;2070,4282,7157;;3;2 # have 2 HF4
 Search for Rebels;Mission;Planet;Mirror, Mirror/Homefront;2071,3521;;3;3
+Search for Survivors;Mission;Planet;2072,4397;;2;0
 Search for Weapons;Mission;Planet;Starter Deck II;336,4055,4824,7058;;4;3
+Seat of Starfleet;Facility;United Earth;Enterprise Collection/Homefront III;2073,4084,5455;;2;0
+Second;Personnel;Borg;The Borg;2074;;2;0
+Secret Agent Julian Bashir;Personnel;Non-Aligned;Holodeck Adventures/Virtual Promos;2075,4291;;2;0
+Secret Compartment;Doorway;;Deep Space 9;2076;;2;0
 Secret Salvage II;Mission;Space;Enhanced Premiere;2078,2079;;2;1
 Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623,7908;;2;2
 Secure Station;Mission;Space;The Borg;337;;6;6
 Secure Supply Lines;Mission;Space;Crossover;4764;;2;2
+Security Briefing;Mission;Planet;The Dominion;2080;;2;0
 Security Holding Cell;Site;;Blaze of Glory/Homefront V;338,4477;;2;0
 Security Precautions;Dilemma;Planet;Q Continuum/Trouble with Tribbles Starter Decks;2084,5269;;4;4
 Security Sacrifice;Interrupt;;Alternate Universe;2085;;4;4
@@ -2461,9 +2467,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 2070
-#2071
-#2077-2079
+# Done through card 2080
 #2084-2086
 #2088-2090
 #2095-2098
@@ -2615,7 +2619,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4062-4063
 #4066-4073
 #4074
-#4078-4083
+#4078-4084
 #4086-4092
 #4096-4114
 #4118-4120
@@ -2625,12 +2629,13 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4195
 #4252-4257
 #4259
-#4263-4290
+#4263-4291
 #4373-4381
 #4384-4386
 #4388-4389
 #4391
 #4393-4394
+#4397
 #4399-4425
 #4427-4439
 #4442-4445
@@ -2709,8 +2714,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5435-5438
 #5449
 #5351
-#5450-5454
-#5456-5465
+#5450-5465
 #5468
 #5479
 #5493
