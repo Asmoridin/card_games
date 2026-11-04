@@ -2075,13 +2075,17 @@ Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623,7908;;2;2
 Secure Station;Mission;Space;The Borg;337;;6;6
 Secure Supply Lines;Mission;Space;Crossover;4764;;2;2
 Security Briefing;Mission;Planet;The Dominion;2080;;2;0
+Security Chief Garak;Personnel;Cardassian;Mirror, Mirror;2081,4836;;2;0
+Security Chief Sulu;Personnel;Federation;Mirror, Mirror;2082,4852;;2;0
 Security Holding Cell;Site;;Blaze of Glory/Homefront V;338,4477;;2;0
+Security Office;Site;;Deep Space 9/Homefront V;2083,4478;;2;0
 Security Precautions;Dilemma;Planet;Q Continuum/Trouble with Tribbles Starter Decks;2084,5269;;4;4
 Security Sacrifice;Interrupt;;Alternate Universe;2085;;4;4
 Seek Hidden Reliquary;Objective;;Live Long and Prosper;5209;;4;4
 Seek Knowledge Cache;Mission;Planet;Crossover;4765;;2;2
 Seek Life-form;Mission;Space;Premiere;2086,6261,6624,6987,7909,8273;;2;2
 Seek Sporocystian Lifeform;Mission;Space;To the Journey;8509;;2;0
+Seismic Quake;Dilemma;Planet;Deep Space 9/Homefront VI;2087,4382,4687;;4;0
 Seize Wesley;Interrupt;;Alternate Universe;2088;;4;4
 Sela;Personnel;Romulan;Premiere;2089,3578,6262,6625,6988,7910;;2;1
 Self-Sealing Stem Bolts;Equipment;;Mirror, Mirror;2090;;4;4
@@ -2467,9 +2471,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 2080
-#2084-2086
-#2088-2090
+# Done through card 2090
 #2095-2098
 #2106
 #2108
@@ -2630,7 +2632,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4252-4257
 #4259
 #4263-4291
-#4373-4381
+#4373-4382
 #4384-4386
 #4388-4389
 #4391
@@ -2640,7 +2642,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4427-4439
 #4442-4445
 #4447-4452
-#4461-4477
+#4461-4478
 #4485
 #4487-4489
 #4491-4492
@@ -2659,7 +2661,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4673
 #4677-4681
 #4683-4684
-#4686
+#4686-4687
 #4689-4692
 #4695-4707
 #4711-4713
@@ -2676,8 +2678,8 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4810-4818
 #4820-4822
 #4824-4826
-#4828-4835
-#4837-4850
+#4828-4850
+#4852
 #4855-4862
 #4864
 #4866-4876
