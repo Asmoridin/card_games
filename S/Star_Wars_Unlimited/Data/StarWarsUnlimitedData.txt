@@ -269,7 +269,7 @@ C-3P0, Die, Jedi Dogs!;TS26-15-U;Ground Unit;Droid;U/G;2
 C-3PO, Anything I Might Do?;SEC-093-U;Ground Unit;Republic/Droid;G/W;3
 C-3PO, Human-Cyborg Relations;SEC-015-C;Leader;Rebel/Droid;Y/W;1 # 1 hyperspace
 C-3PO, Oh Dear, Oh Dear;IBH-019-S/IBH-041-S;Ground Unit;Rebel/Droid;G/W;0
-C-3PO, Protocol Droid;SOR-238-S;Ground Unit;Rebel/Droid;W;3
+C-3PO, Protocol Droid;SOR-238-S/IC27-188-S;Ground Unit;Rebel/Droid;W;3
 C-3PO, Translation Protocol;LAW-152-U;Ground Unit;Rebel/Underworld/Droid;G;0
 Cad Bane, He Who Needs No Introduction;SHD-014-C;Leader;Underworld/Bounty Hunter;Y/B;1
 Cad Bane, Hostage Taker;TWI-187-L;Ground Unit;Underworld/Bounty Hunter;B/Y;1
@@ -950,17 +950,17 @@ Huyang, Enduring Instructor;TWI-110-R;Ground Unit;Jedi/Droid;G;1
 Huyang, Your Aptitude Falls Short;ASH-056-U;Ground Unit;Jedi/Droid;W/U;1
 HWK-290 Freighter;SHD-060-C;Space Unit;Vehicle/Transport;U;3 # 1 hyperspace
 Hyena Bomber;LOF-158-C;Space Unit;Separatist/Droid/Vehicle/Transport;R;2
+Hylobon Enforcer;SHD-027-C;Ground Unit;Underworld;U/B;3 # 1 hyperspace
+Hyperspace Disaster;SEC-078-R;Event;Disaster;U;1
+Hyperspace Wayfarer;LOF-119-C;Space Unit;Creature;G;3
+I Am the Senate;SEC-092-S;Event;Law;G/B;3 # 1 foil
+I Am Your Father;SOR-233-S/IC27-185-U;Event;Gambit;B;3
+I Had No Choice;SOR-187-R;Event;Trick;B/Y;1 # 1 foil
+I Have the High Ground;TWI-072-R;Event;Tactic;U;0
+I Have You Now;JTL-193-U;Event;Tactic;Y/B;1 # 1 hyperspace
+I Want Proof, Not Leads;IBH-074-S/IBH-102-S;Event;Plan;R/B;0
+I'll Cover For You;IBH-005-S/IBH-039-S;Event;Tactic;Y;0
 # done through here
-Hylobon Enforcer;SHD-027-C;Ground Unit;U/B;3 # 1 hyperspace
-Hyperspace Disaster;SEC-078-R;Event;U;1
-Hyperspace Wayfarer;LOF-119-C;Space Unit;G;3
-I Am the Senate;SEC-092-S;Event;G/B;3 # 1 foil
-I Am Your Father;SOR-233-S;Event;B;3
-I Had No Choice;SOR-187-R;Event;B/Y;1 # 1 foil
-I Have the High Ground;TWI-072-R;Event;U;0
-I Have You Now;JTL-193-U;Event;Y/B;1 # 1 hyperspace
-I Want Proof, Not Leads;IBH-074-S/IBH-102-S;Event;R/B;0
-I'll Cover For You;IBH-005-S/IBH-039-S;Event;Y;0
 I've Found Them;IBH-009-S/IBH-025-S;Event;G;0
 Iden Versio, Adapt or Die;JTL-036-R;Ground Unit;U/B;1 # 1 foil
 Iden Versio, Inferno Squad Commander;SOR-002-R;Leader;U/B;1
@@ -1448,7 +1448,7 @@ Petition the Senate;TWI-100-R;Event;G/W;0
 Petranaki Arena;TWI-028-R;Base;Y;1
 Phantom II, Modified to Dock;JTL-050-R;Space Unit;U/W;1
 Phantom, Spectre Shuttle;LAW-144-R;Space Unit;Rebel/Vehicle/Transport/Spectre;G/W;0
-Phase I Clone Trooper;TWI-241-C;Ground Unit;W;3 # 1 foil
+Phase I Clone Trooper;TWI-241-C/IC27-189-C;Ground Unit;Republic/Clone/Trooper;W;3 # 1 foil
 Phase II Clone Trooper;TWI-242-C;Ground Unit;W;3
 Phase-III Dark Trooper;SHD-084-S;Ground Unit;G/B;3
 Phoenix Squadron A-Wing;JTL-095-C/IC27-073-C;Space Unit;G/W;2
@@ -1537,7 +1537,7 @@ Quinlan Vos, Sticking the Landing;TWI-018-C;Leader;W/Y;1
 R2-D2, Artooooooooo!;JTL-245-U;Ground Unit;W;3
 R2-D2, Full of Solutions;TWI-193-U;Ground Unit;Y/W;3 # 1 foil
 R2-D2, Getting His Chance;TS26-62-U;Ground Unit;Republic/Droid;R/W;2
-R2-D2, Ignoring Protocol;SOR-236-S;Ground Unit;W;3
+R2-D2, Ignoring Protocol;SOR-236-S/IC27-186-S;Ground Unit;Rebel/Droid;W;3
 R2-D2, Known to Make Mistakes;IBH-011-S/IBH-049-S;Ground Unit;Y/W;0
 R2-D2, Part of the Plan;LAW-145-S;Ground Unit;Rebel/Droid;G/W;0
 R5-D4, Built for Adventure;ASH-156-U;Ground Unit;Droid;R/W;0
@@ -2213,8 +2213,8 @@ Kelnacca, Solitary Master;HMW-036-R;Ground Unit;Force/Jedi/Wookiee;U/G;0
 Bacta Tank;HMW-037-R;Upgrade;Fortification;U/G;0
 Bestial Bond;HMW-038-U;Upgrade;Innate;U/G;0
 Mother Talzin, Pledged to the Sisterhood;HMW-039-R;Ground Unit;Force/Night;R/U;0
-# HMW-040 missing
-# HMW-041 missing
+Talzin's Shuttle, Mysterious Arrival;HMW-040-U;Space Unit;Night/Vehicle/Transport;R/U;0
+Keeper of Skara Nal, Awoken;HMW-041-R;Ground Unit;Droid/Vehicle/Walker;R/U;0
 # HMW-042 missing
 Darth Vader, Any Methods Necessary;HMW-043-L;Ground Unit;Force/Imperial/Sith;G/R/B;0
 # HMW-044 missing
@@ -2443,7 +2443,8 @@ Renew;HMW-267-C;Event;Innate;W;0
 Offworld Jawa;HMW-268-C;Ground Unit;Jawa;N;0
 Friendly Eopie;HMW-269-C;Ground Unit;Creature;N;1
 Wild Space Wanderer;HMW-270-U;Space Unit;Fringe/Vehicle/Fighter;N;0
-
+Landing Pad;HMW-271-C;Upgrade;Fortification;N;0
+Growth;HMW-272-C;Event;Innate;N;0
 ** END **
 Darth Vader, No One to Stop Us;IC27-001-S;Leader;Force/Imperial/Sith;U/B;0
 # IC27-002 missing
@@ -2603,4 +2604,5 @@ Cunning Ploy;IC27-168-U;Event;Trick;Y;0
 # IC27-177 missing
 # IC27-179 missing
 # IC27-183 missing
-# IC27-184 done
+Jar Jar Binks, Bumbling Representative;IC27-187-R;Ground Unit;Republic/Gungan/Official;W;0
+# IC27-189 done

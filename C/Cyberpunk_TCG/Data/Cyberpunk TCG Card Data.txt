@@ -6,7 +6,7 @@ Johnny Silverhand: Rocking Renegade;Legend;R;Merc/Rocker/Samurai;Welcome to Nigh
 Rebecca: Having a Moment;Legend;R;;PRM01-005-NR;0
 Yorinobu Arasaka: Embracing Destruction;Legend;R;Arasaka/Corpo;Welcome to Night City;SD02-001-E;1
 Japantown Jonin;Unit;R;Tyger Claws;Welcome to Night City;MS01-010-C;1
-Ruthless Lowlife;Unit;R;Ganger/Maelstrom;MS01-017-C;3
+Ruthless Lowlife;Unit;R;Ganger/Maelstrom;MS01-017-C;4
 La Llorona: Ghost of the Past;Unit;R;Ganger/Valentino;MS01-013-U;2
 Swordwise Huscle;Unit;R;Merc;MS01-019-C;4
 Valentino Guerrera;Unit;R;Ganger/Valentino;MS01-021-C;1
@@ -26,7 +26,7 @@ Yorinobu Arasaka: Steel Dragon;Unit;R;Arasaka/Corpo;MS01-022-R;0
 Mantis Blades;Gear;R;Cyberware;MS01-025-C;3
 Arasaka Emergency Radioport;Gear;R;Arasaka/Cyberware;MS01-023-C;3
 Satori: Sword of Saburo;Gear;R;Arasaka/Weapon;MS01-026-U;4
-Deadman Transmitter;Gear;R;Cyberware/Trauma Team;MS01-024-U;0
+Deadman Transmitter;Gear;R;Cyberware/Trauma Team;MS01-024-U;1
 All is Lost;Program;R;Zetatech;MS01-027-C;2
 Detonate;Program;R;Quickhack;MS01-031-C;1
 Industrial Assembly;Program;R;Arasaka/Braindance;MS01-033-U;4
@@ -39,7 +39,7 @@ Carnage at the Colosseum;Program;R;Braindance/Extreme;MS01-030-C;1
 Rogue Amendiares: Preem Solo;Legend;Y;Merc;MS01-040-R;0
 Dum Dum: Maelstrom Triggerman;Legend;Y;Ganger/Maelstrom;MS01-036-R;0
 Kerry Eurodyne: Axe, Attitude, Audience;Legend;Y;Rocker/Samurai;MS01-037-R;0
-Muamar Reyes: El Capitán;Legend;Y;Fixer;MS01-038-R;0
+Muamar Reyes: El Capitán;Legend;Y;Fixer;MS01-038-R;1
 River Ward: Detective on the Hunt;Legend;Y;NCPD;MS01-039-R;0
 Viktor Vektor: Sit Down and Relax;Legend;Y;Ripperdoc;SD01-001-E;1
 Secondhand Bombus;Unit;Y;Drone/Zetatech;SD01-005-C/MS01-053-C;2
@@ -51,10 +51,10 @@ Viktor Vektor: You Might Feel a Little Pinch;Unit;Y;Ripperdoc;MS01-058-U;1
 Gilded Matón;Unit;Y;Ganger/Valentino;MS01-045-C;0
 Hanako Arasaka: In a Gilded Cage;Unit;Y;Arasaka/Corpo/Netrunner;MS01-046-R;0
 Offduty Malfini;Unit;Y;Ganger/Voodoo Boys;MS01-051-C/SD01-004-C;3
-T-Bug: Amateur Philosopher;Unit;Y;Merc/Netrunner;MS01-055-U/SD01-006-U;2
+T-Bug: Amateur Philosopher;Unit;Y;Merc/Netrunner;MS01-055-U/SD01-006-U;3
 Caliber: Totentanz's Top Dog;Unit;Y;Ganger/Maelstrom;MS01-044-R;1
 MaxTac Suppression Team;Unit;Y;NCPD;MS01-050-C;2
-Rockn' Rockerboy;Unit;Y;Rocker;MS01-052-C;2
+Rockn' Rockerboy;Unit;Y;Rocker;MS01-052-C;3
 Viktor Vektor: Drop Your Illusions;Unit;Y;Ripperdoc;MS01-057-E;0
 Heywood Ripperdoc;Unit;Y;Ripperdoc;MS01-047-U/SD01-003-U;3
 Jackie Welles: Ride or Die Choom;Unit;Y;Merc/Valentino;MS01-048-E;0
@@ -63,7 +63,7 @@ Alt Cunningham: Mother of Daemons;Unit;Y;Merc/Netrunner;MS01-042-R;1
 Adam Smasher: Metal Over Meat;Unit;Y;Arasaka/Merc;MS01-041-E;0
 Kiroshi Optics;Gear;Y;Cyberware;MS01-061-C/SD01-007-C;4
 Mandibular Upgrade;Gear;Y;Cyberware;MS01-062-C/SD01-008-C;4
-Adrenaline Converter;Gear;Y;Cyberware/Medtech;MS01-059-C;1
+Adrenaline Converter;Gear;Y;Cyberware/Medtech;MS01-059-C;2
 Zetatech Faceplate;Gear;Y;Cyberware/Zetatech;MS01-064-U/SD01-009-C;3
 Gorilla Arms;Gear;Y;Cyberware;MS01-060-C;1
 The Relic: Experimental Biochip;Gear;Y;Arasaka/Cyberware;MS01-063-E;0
@@ -78,7 +78,7 @@ Saburo Arasaka: Saburo Arasaka;Legend;G;Arasaka/Corpo;SD02-013-E;1
 Corpo Security;Unit;G;Corpo;MS01-076-C/SD02-014-C;3
 Emergency Atlus;Unit;G;Trauma Team/Vehicle/Zetatech;MS01-077-C/SD02-015-C;3
 Valentino Street Racer;Unit;G;Valentino/Vehicle;MS01-091-C;2
-Field Operator;Unit;G;Arasaka/Corpo/Techie;MS01-078-C/SD02-016-C;2
+Field Operator;Unit;G;Arasaka/Corpo/Techie;MS01-078-C/SD02-016-C;3
 Goro Takemura: Losing His Way;Unit;G;Arasaka/Corpo;SD02-017-U;2
 MaxTac AV;Unit;G;NCPD/Vehicle;MS01-080-C/SD02-018-C;3
 MaxTac Heavy;Unit;G;NCPD;MS01-081-U;2
@@ -87,14 +87,15 @@ Corporate Surveillance;Program;G;Corpo;MS01-097-U/SD02-020-U;3
 Zetatech Berserk;Gear;G;Cyberware/Zetatech;MS01-096-C;2
 Tyger's Whisper;Unit;G;Fixer/Tyger Claws;MS01-090-C;1
 Riding Nomad;Unit;G;Nomad;MS01-087-C;2
-Wild in the Streets;Program;G;Ganger;MS01-105-C;2
+Wild in the Streets;Program;G;Ganger;MS01-105-C;3
 Memory Relapse;Program;G;Braindance;MS01-100-U;3
 Fool on the Hill;Program;G;Merc;MS01-099-R;2
 Panam Palmer: Strength Through Family;Unit;Aldecaldo/Merc/Nomad;MS01-085-S;1
 Maelstrom Zealots;Unit;G;Ganger/Maelstrom;MS01-079-C;1
-Sandayu Oda: Hanako's Guardian;Unit;G;Arasaka/Corpo;MS01-088-R;1
+Sandayu Oda: Hanako's Guardian;Unit;G;Arasaka/Corpo;MS01-088-R;2
 MaxTac Squadron;Unit;G;NCPD;MS01-082-C;1
 Pacifica Netrunner;Unit;G;Netrunner;MS01-084-C;1
+Synapse Burnout;Program;G;Quickhack;MS01-102-U;1
 
 V: Corporate Exile;Legend;U;Corpo/Merc;SD01-012-E;1
 Jackie Welles: Pour One Out For Me;Legend;U;Merc;SD01-011-E;1
@@ -107,7 +108,7 @@ Delamain Cab;Unit;U;Vehicle;MS01-112-C/SD01-013-C;4
 Evelyn Parker: Scheming Siren;Unit;U;Doll;MS01-113-U/SD01-014-U;4
 MT0D12 Flathead;Unit;U;Drone/Militech;SD01-015-U;2
 Psycho Squad;Unit;U;NCPD;SD01-016-C/MS01-124-C;4
-Tetratronic Rippler;Gear;U;Cyberware;SD01-018-C/MS01-130-C;3
+Tetratronic Rippler;Gear;U;Cyberware;SD01-018-C/MS01-130-C;4
 Floor It;Program;U;Merc/Quickhack;SD01-019-C/MS01-132-C;4
 Rita Wheeler: No Stupid Questions;Unit;U;Ganger/Mox;MS01-125-C;1
 Maman Brigitte: Spirit of Death;Unit;U;Mystic/Netrunner/Voodoo Boys;MS01-118-U;1
@@ -123,3 +124,4 @@ Modded Muramasa;Unit;U;Vehicle;MS01-121-C;1
 Three Mouths, One Desire;Program;U;Braindance/Doll;MS01-137-C;1
 Evelyn Parker: Beautiful Enigma;Legend;U;Doll;MS01-107-R;1
 Trust No One;Program;U;Braindance;MS01-139-C;1
+Westbrook Netrunner;Unit;U;Netrunner;MS01-127-C;1
