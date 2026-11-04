@@ -80,17 +80,17 @@ Anna - Mystical Majesty;Character;Amethyst;Floodborn/Hero/Queen/Sorcerer;Frozen;
 Anna - Soothing Sister;Character;Amethyst;Floodborn/Hero/Queen;Frozen;Winterspell (Legendary);0
 Anna - True-Hearted;Character;Sapphire;Dreamborn/Hero/Queen/Knight;Frozen;Ursula's Return (Super Rare)/Fabled (Rare);1
 Anna - Trusting Sister;Character;Sapphire;Storyborn/Hero/Queen;Frozen;Reign of Jafar (Common);1
+Antonio Madrigal - Animal Doctor;Character;Sapphire;Storyborn/Ally/Madrigal;Encanto;Attack of the Vine! (Uncommon);0
+Antonio Madrigal - Animal Expert;Character;Amethyst;Storyborn/Ally/Madrigal;Encanto;Ursula's Return (Uncommon);4
+Antonio Madrigal - Friend to All;Character;Amber/Amethyst;Storyborn/Ally/Madrigal;Encanto;Reign of Jafar (Rare);0
+Antonio's Jaguar - Faithful Companion;Character;Amber;Storyborn/Ally;Encanto;Reign of Jafar (Common);0
+Archimedes - Electrified Owl;Character;Amethyst;Floodborn/Ally;The Sword in the Stone;Shimmering Skies (Uncommon);0
+Archimedes - Exasperated Owl;Character;Amethyst;Storyborn/Ally;The Sword in the Stone;Shimmering Skies (Common);0
+Archimedes - Exceptional Owl;Character;Amethyst;Storyborn/Ally;The Sword in the Stone;Archazia's Island (Uncommon);1
+Archimedes - Highly Educated Owl;Character;Amethyst;Dreamborn/Ally;The Sword in the Stone;The First Chapter (Common);1
+Archimedes - Resourceful Owl;Character;Emerald;Storyborn/Ally;The Sword in the Stone;Reign of Jafar (Rare);0
+Ares - God of War;Character;Ruby;Storyborn/Deity;Hercules;Whispers in the Well (Uncommon);0
 # franchises done through here
-Antonio Madrigal - Animal Doctor;Character;Sapphire;Storyborn/Ally/Madrigal;;Attack of the Vine! (Uncommon);0
-Antonio Madrigal - Animal Expert;Character;Amethyst;Storyborn/Ally/Madrigal;;Ursula's Return (Uncommon);4
-Antonio Madrigal - Friend to All;Character;Amber/Amethyst;Storyborn/Ally/Madrigal;;Reign of Jafar (Rare);0
-Antonio's Jaguar - Faithful Companion;Character;Amber;Storyborn/Ally;;Reign of Jafar (Common);0
-Archimedes - Electrified Owl;Character;Amethyst;Floodborn/Ally;;Shimmering Skies (Uncommon);0
-Archimedes - Exasperated Owl;Character;Amethyst;Storyborn/Ally;;Shimmering Skies (Common);0
-Archimedes - Exceptional Owl;Character;Amethyst;Storyborn/Ally;;Archazia's Island (Uncommon);1
-Archimedes - Highly Educated Owl;Character;Amethyst;Dreamborn/Ally;;The First Chapter (Common);1
-Archimedes - Resourceful Owl;Character;Emerald;Storyborn/Ally;;Reign of Jafar (Rare);0
-Ares - God of War;Character;Ruby;Storyborn/Deity;;Whispers in the Well (Uncommon);0
 Arges - The Cyclops;Character;Steel;Storyborn/Titan;;Ursula's Return (Common);1
 Arianna - Queen of Corona;Character;Steel;Storyborn/Queen;;Reign of Jafar (Common);0
 Ariel - Adventurous Collector;Character;Ruby;Dreamborn/Hero/Princess;;Into the Inklands (Super Rare)/Fabled (Super Rare);0
@@ -1597,17 +1597,17 @@ Omnidroid - V.9;Character;Steel;Storyborn/Robot;The Incredibles;Wilds Unknown (U
 On Your Feet! Now!;Action;Ruby;;Peter Pan;Into the Inklands (Rare);0
 One and Only;Action;Amethyst;;Aladdin;Attack of the Vine! (Uncommon);0
 One Jump Ahead;Action;Sapphire;;Aladdin;The First Chapter (Uncommon)/Fabled (Common);3
+One Last Hope;Action;Steel;Song;Hercules;Ursula's Return (Rare)/Fabled (Rare);2
+Only So Much Room;Action;Amber/Emerald;;Lady and the Tramp;Reign of Jafar (Uncommon);1
+Or Rewrite History!;Action;Amber;Song;DuckTales;Whispers in the Well (Uncommon);1
+Orville - Ace Pilot;Character;Amber;Storyborn/Ally;The Rescuers;Into the Inklands (Common);1
+Orville - Albatross Air;Character;Steel;Storyborn/Ally;The Rescuers;Archazia's Island (Common);0
+Oswald - The Lucky Rabbit;Character;Sapphire;Storyborn/Hero;Oswald the Lucky Rabbit/Mickey Mouse and Friends;Azurite Sea (Legendary);0
+Out of Order;Action;Ruby;;Wreck‐It Ralph;Archazia's Island (Common);1
+Owl - Hunny Ranger;Character;Steel;Dreamborn/Ally/Hunny;Winnie the Pooh;Attack of the Vine! (Common);3
+Owl - Logical Lecturer;Character;Sapphire;Storyborn/Ally;Winnie the Pooh;Rise of the Floodborn (Common);1
+Owl - Pirate Lookout;Character;Amber;Storyborn/Ally/Pirate;Winnie the Pooh;Azurite Sea (Uncommon);1
 # Traits done through here
-One Last Hope;Action;Steel;;;Ursula's Return (Rare)/Fabled (Rare);2
-Only So Much Room;Action;Amber/Emerald;;;Reign of Jafar (Uncommon);1
-Or Rewrite History!;Action;Amber;Song;;Whispers in the Well (Uncommon);1
-Orville - Ace Pilot;Character;Amber;;;Into the Inklands (Common);1
-Orville - Albatross Air;Character;Steel;;;Archazia's Island (Common);0
-Oswald - The Lucky Rabbit;Character;Sapphire;;;Azurite Sea (Legendary);0
-Out of Order;Action;Ruby;;;Archazia's Island (Common);1
-Owl - Hunny Ranger;Character;Steel;Dreamborn/Ally/Hunny;;Attack of the Vine! (Common);3
-Owl - Logical Lecturer;Character;Sapphire;;;Rise of the Floodborn (Common);1
-Owl - Pirate Lookout;Character;Amber;;;Azurite Sea (Uncommon);1
 Owl Island;Location;Emerald;;;Azurite Sea (Rare);0
 P.J. Pete - Caught Up in the Music;Character;Ruby;;;Fabled (Common);3
 Pacha - Emperor's Guide;Character;Sapphire;;;Shimmering Skies (Uncommon);0
@@ -2552,9 +2552,14 @@ Inkcaster Skates;Item;Amethyst;;Lorcana;Hyperia City (Rare);0
 Merlin's Shop and Smithy - Magical Market;Location;Amethyst;Hyperia City;The Sword in the Stone;Hyperia City (Uncommon);0
 Trusty - Along for the Ride;Character;Emerald;Storyborn/Ally;Lady and the Tramp;Hyperia City (Common);1
 Don Karnage - Khan's Courier;Character;Emerald;Storyborn/Villain/Prince/Pirate;TaleSpin;Hyperia City (Common);1
-
+Hiro Hamada - Versatile Inventor;Character;Emerald;Dreamborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Uncommon);0
 Go Go Tomago - Extreme Tester;Character;Emerald;Dreamborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Common);1
-
+Molly Cunningham - Remembers to Share;Character;Emerald;Storyborn/Ally;TaleSpin;Hyperia City (Uncommon);0
+Kit Cloudkicker - Irrepressible Bear;Character;Emerald;Storyborn/Ally;TaleSpin;Hyperia City (Common);0
+Belle - Reflective Writer;Character;Emerald;Dreamborn/Hero/Princess;Beauty and the Beast;Hyperia City (Uncommon);0
+Fred - Assembling the Team;Character;Emerald;Storyborn/Super/Hero;Big Hero 6;Hyperia City (Uncommon);0
+Captain Hook - Concerned Captain;Character;Emerald;Dreamborn/Villain/Pirate/Captain;Peter Pan;Hyperia City (Uncommon);0
+Jock - Enjoying the Sights;Character;Emerald;Storyborn/Ally;Lady and the Tramp;Hyperia City (Common);0
 Lady - Relaxed and Rested;Character;Emerald;Storyborn/Hero;Lady and the Tramp;Hyperia City (Common);1
 
 Shere Khan - Ruthless Entrepeneur;Character;Emerald;Dreamborn/Villain;Lady and the Tramp;Hyperia City (Super Rare);1
