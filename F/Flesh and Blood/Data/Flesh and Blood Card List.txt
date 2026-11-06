@@ -126,7 +126,19 @@ Dorinthea;Hero;Warrior;Young;WTR114-T/1HP139-C/HER057-P/TEA002-T/MPW155-M/HER008
 Dawnblade;Weapon;Warrior;Sword/2H;WTR115-T/1HP143-C/SDO002-C/CRU078-C/TEA003-C/LGS004-P/MPW156-M/XXX007-P/FAB062-P;0
 Braveforge Bracers;Equipment;Warrior;Arms;MPW011-L/1HP144-L/WTR116-L/FAB006-P;0
 Refraction Bolters;Equipment;Warrior;Legs;1HP145-C/WTR117-C/MPW020-C/SDO009-C/TEA007-C/FAB365-P;0
-Glint the Quicksilver;Attack Reaction;Warrior;MPW022-M/WTR118-M/1HP147-M;0
+Glint the Quicksilver;Attack Reaction;Warrior;;MPW022-M/WTR118-M/1HP147-M;0
 Steelblade Supremacy;Action;Warrior;;1HP152-M/WTR119-M;0
+Rout (red);Attack Reaction;Warrior;;1HP148-M/WTR120-S;0
+Singing Steelblade (yellow);Attack Reaction;Warrior;1HP149-M/WTR121-S;0
+Ironsong Determination (yellow);Action;Warrior;Non-Attack;WTR122-S;0
+Overpower (red);Attack Reaction;Warrior;;WTR123-R/1HP153-R/TEA010-R/SDO015-R;0
+Overpower (yellow);Attack Reaction;Warrior;;1HP154-R/WTR124-R;0
+Overpower (blue);Attack Reaction;Warrior;;WTR125-R/1HP155-R/SDO027-R;0
+Steelblade Shunt (red);Defense Reaction;Warrior;;WTR126-R/1HP156-R/MPW056-R/TEA011-R;0
+Steelblade Shunt (yellow);Defense Reaction;Warrior;;1HP157-R/WTR127-R/MPW057-R;0
+Steelblade Shunt (blue);Defense Reaction;Warrior;;WTR128-R/MPW058-R/1HP158-R;0
+Warrior's Valor (red);Action;Warrior;Non-Attack;MPW072-R/WTR129-R/DVR011-R/1HP159-R/SDO020-R/TNP010-P/DDD010-R;0
+Warrior's Valor (yellow);Action;Warrior;Non-Attack;WTR130-R/1HP160-R/SDO024-R/TEA018-R/TNP011-P;0
+Warrior's Valor (blue);Action;Warrior;Non-Attack;WTR131-R/1HP161-R/SDO034-R/WTR131-R/TEA025-R/TNP012-P;0
 
 Scar for a Scar (red);Action;Generic;Attack;1HP396-C/AGB012-C/ANQ030-G/ASR011-C/FAB015-P/IRA009-P/KAT015-C/KSU017-C/SBA019-C/SDO011-C/SEA218-C/SFA024-C/UPR209-C/WTR191-C;0

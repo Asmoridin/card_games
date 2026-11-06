@@ -546,7 +546,7 @@ Devastator, Hunting the Rebellion;JTL-143-L;Space Unit;Imperial/Vehicle/Capital 
 Devastator, Inescapable;SOR-090-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;1
 Devotion;SOR-070-U/HMW-096-C;Upgrade;Innate;U;2 # 1 foil
 Dhani Pilgrim;SEC-055-C;Ground Unit;Fringe;U;3
-Dilapidated Ski Speeder;JTL-248-C;Ground Unit;Resistance/Vehicle/Speeder;W;2
+Dilapidated Ski Speeder;JTL-248-C/IC27-190-C;Ground Unit;Resistance/Vehicle/Speeder;W;2
 Dinosaur Turtle;ASH-131-C;Ground Unit;Creature;G;0
 Diplomatic Envoy;SEC-109-C;Space Unit;Republic/Vehicle/Transport;G;3 # 1 hyperspace
 Diplomatic Immunity;SEC-052-U;Upgrade;Law;U/W;2
@@ -659,7 +659,7 @@ Ephant Mon, Head of Security;SHD-088-R;Ground Unit;Underworld;G/B;0
 Equalize;TWI-055-R;Event;Tactic;U;0
 Escape Pod;SEC-056-R;Space Unit;Vehicle/Transport;U;2
 Escort Skiff;SOR-114-C;Ground Unit;Underworld/Vehicle/Speeder;G;3 # 1 hyperspace
-Eta-2 Light Interceptor;TWI-244-C;Space Unit;Republic/Vehicle/Fighter;W;3
+Eta-2 Light Interceptor;TWI-244-C/IC27-192-C;Space Unit;Republic/Vehicle/Fighter;W;3
 Evacuate;SHD-233-L;Event;Tactic;Y;1 # 1 hyperfoil
 Evacuation Escort;IBH-012-S/IBH-035-S/IBH-044-S;Space Unit;Rebel/Vehicle/Fighter;Y/W;0
 Evade Arrest;TS26-82-U;Event;Trick;Y;2
@@ -960,17 +960,17 @@ I Have the High Ground;TWI-072-R;Event;Tactic;U;0
 I Have You Now;JTL-193-U;Event;Tactic;Y/B;1 # 1 hyperspace
 I Want Proof, Not Leads;IBH-074-S/IBH-102-S;Event;Plan;R/B;0
 I'll Cover For You;IBH-005-S/IBH-039-S;Event;Tactic;Y;0
-# done through here
-I've Found Them;IBH-009-S/IBH-025-S;Event;G;0
-Iden Versio, Adapt or Die;JTL-036-R;Ground Unit;U/B;1 # 1 foil
-Iden Versio, Inferno Squad Commander;SOR-002-R;Leader;U/B;1
-IG-11, I Cannot Be Captured;SHD-170-U;Ground Unit;R;3
-IG-2000, Assassin's Aggressor;JTL-140-R;Space Unit;R/B;0
-IG-88, Murderous Phlutdroid;JTL-141-R;Ground Unit;R/B;1
+I've Found Them;IBH-009-S/IBH-025-S;Event;Gambit;G;0
+Iden Versio, Adapt or Die;JTL-036-R;Ground Unit;Imperial/Pilot;U/B;1 # 1 foil
+Iden Versio, Inferno Squad Commander;SOR-002-R;Leader;Imperial/Trooper;U/B;1
+IG-11, I Cannot Be Captured;SHD-170-U;Ground Unit;Droid/Bounty Hunter;R;3
+IG-2000, Assassin's Aggressor;JTL-140-R;Space Unit;Underworld/Vehicle/Transport;R/B;0
+IG-88, Murderous Phlutdroid;JTL-141-R;Ground Unit;Underworld/Droid/Bounty Hunter/Pilot;R/B;1
 IG-88, Programmed to Kill;LAW-042-R;Ground Unit;Underworld/Droid/Bounty Hunter;U/R/B;0
-IG-88, Ruthless Bounty Hunter;SOR-012-C;Leader;R/B;1
+IG-88, Ruthless Bounty Hunter;SOR-012-C;Leader;Underworld/Droid/Bounty Hunter;R/B;1
 IGV-55 Listener;LAW-100-C;Space Unit;Imperial/Vehicle/Capital Ship;U/B;1
 Imperial Armored Commando;ASH-048-C;Ground Unit;Imperial/Trooper;U/B;1
+# done through here
 Imperial Command Complex;LAW-024-C;Base;Lothal;G;0
 Imperial Dark Trooper;SEC-080-C;Ground Unit;G/B;3
 Imperial Deck Officer;IBH-062-S/IBH-100-S;Ground Unit;U;0
@@ -1265,7 +1265,7 @@ Maz Kanata, Where's My Boyfriend?;LAW-074-L;Ground Unit;Underworld;G/Y;0
 MC30 Assault Frigate;JTL-118-C;Space Unit;G;3 # 1 hyperfoil, 1 hyperspace
 Mechanize;TS26-57-U;Event;Supply;G;2
 Medal Ceremony;SOR-245-C;Event;W;3
-Medical Frigate;LOF-250-C;Space Unit;W;3
+Medical Frigate;LOF-250-C/IC27-191-C;Space Unit;W;3
 Mercenary Company;SOR-117-C/SHD-121-C;Ground Unit;G;3
 Mercenary Fleet;LAW-164-C;Space Unit;Underworld/Vehicle/Fighter/Transport;G;2
 Mercenary Gunship;SHD-256-U;Space Unit;N;3 # 1 foil
@@ -2161,7 +2161,7 @@ Yoda, Sensing Darkness;TWI-004-R;Leader;U/W;1
 You Have Failed Me;IBH-095-S;Event;R/B;0
 You Hold This;LAW-085-R;Event;Trick;R/Y;0
 You're All Clear, Kid;JTL-055-U;Event;U/W;2 # 1 foil
-You're My Only Hope;SOR-246-R;Event;W;1
+You're My Only Hope;SOR-246-R/IC27-194-U;Event;W;1
 Youngling Padawan;LOF-193-C;Ground Unit;Y/W;3
 Zam Wesell, Inconspicuous Assassin;SEC-029-U;Ground Unit;U/B;3
 Zealous Soldier;ASH-251-C;Ground Unit;Rebel/Trooper;W;0
@@ -2215,22 +2215,21 @@ Bestial Bond;HMW-038-U;Upgrade;Innate;U/G;0
 Mother Talzin, Pledged to the Sisterhood;HMW-039-R;Ground Unit;Force/Night;R/U;0
 Talzin's Shuttle, Mysterious Arrival;HMW-040-U;Space Unit;Night/Vehicle/Transport;R/U;0
 Keeper of Skara Nal, Awoken;HMW-041-R;Ground Unit;Droid/Vehicle/Walker;R/U;0
-# HMW-042 missing
+Dooku, Corruption Must Be Eradicated;HMW-042-L;Ground Unit;Force/Jedi/Republic;R/U;0
 Darth Vader, Any Methods Necessary;HMW-043-L;Ground Unit;Force/Imperial/Sith;G/R/B;0
-# HMW-044 missing
+Ima-Gun Di, Holding Out For Resupply;HMW-044-L;Ground Unit;Force/Jedi/Republic;G/R/W;0
 Logray, Bright Tree Shaman;HMW-045-R;Ground Unit;Ewok;G/R;0
-# HMW-046 missing
-# HMW-047 missing
+Krrsantan, Santo;HMW-046-R;Ground Unit;Underworld/Wookiee;G/R;0
+Eravana, Hauling Rathtars;HMW-047-U;Space Unit;Underworld/Vehicle/Transport;G/Y;0
 Vernestra Rwoh, We Should Handle This Ourselves;HMW-048-L;Ground Unit;Force/Jedi;G/Y;0
-# HMW-049 missing
-# HMW-050 missing
+Greater Sarlacc;HMW-049-R;Ground Unit;Creature;G/Y;0
+Low Altitude Combat;HMW-050-R;Event;Tactic;G/Y;0
 Third Sister, Cycle of Vengeance;HMW-051-L;Ground Unit;Force/Imperial/Inquisitor;R/Y/B;0
-# HMW-052 missing
-# HMW-053 missing
-# HMW-054 missing
+A'Koba, Restless Raider;HMW-052-U;Ground Unit;Tusken;R/Y;0
+Fett's Firespray;HMW-053-R;Space Unit;Underworld/Vehicle/Transport;R/Y;0
+Seismic Detonation;HMW-054-R;Event;Tactic;R/Y;0
 Mae, Kill the Dream;HMW-055-L;Ground Unit;Force/Sith;Y/U/B;0
-# HMW-055 missing
-# HMW-056 missing
+Yoda, Trickster in Exile;HMW-056-L;Ground Unit;Force/Fringe/Jedi;Y/U/W;0
 # HMW-057 missing
 # HMW-058 missing
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
@@ -2605,4 +2604,5 @@ Cunning Ploy;IC27-168-U;Event;Trick;Y;0
 # IC27-179 missing
 # IC27-183 missing
 Jar Jar Binks, Bumbling Representative;IC27-187-R;Ground Unit;Republic/Gungan/Official;W;0
-# IC27-189 done
+# IC27-193 missing
+# IC27-194 done
