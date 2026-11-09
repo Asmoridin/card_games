@@ -126,7 +126,7 @@ At Attin Safety Droid;ASH-070-R;Ground Unit;Republic/Droid;U;0
 AT-AT Suppressor;SOR-039-U;Ground Unit;Imperial/Vehicle/Walker;U/B;2 # 1 hyperspace
 AT-DP Occupier;JTL-163-C;Ground Unit;Imperial/Vehicle/Walker;R;3
 AT-ST Raider;ASH-098-C;Ground Unit;Vehicle/Walker;G/B;1 # 1 hyperfoil
-AT-ST;SOR-232-C;Ground Unit;Imperial/Vehicle/Walker;B;3 # 1 hyperfoil
+AT-ST;SOR-232-C/IC27-183-C;Ground Unit;Imperial/Vehicle/Walker;B;3 # 1 hyperfoil
 AT-TE Vanguard;TWI-247-U;Ground Unit;Republic/Vehicle/Walker;W;1
 Ataru Onslaught;LOF-174-U;Event;Learned;R;2
 Attack From All Sides;LAW-207-C;Event;Tactic;R;0
@@ -424,7 +424,7 @@ Contracted Hunter;JTL-216-U;Ground Unit;Underworld/Bounty Hunter;Y;1
 Contracted Jumpmaster;JTL-184-C;Space Unit;Underworld/Vehicle/Transport;Y/B;3 # 1 hyperfoil
 Convene the Senate;SEC-128-U;Event;Law;G;2
 Conveyex Security Captain;LAW-117-R;Ground Unit;Imperial/Trooper;U;0
-Coordinated Front;JTL-253-C;Event;Plan;W;3 # 1 hyperspace
+Coordinated Front;JTL-253-C/IC27-193-C;Event;Plan;W;3 # 1 hyperspace
 Corellian Freighter;SOR-250-C/JTL-258-C;Space Unit;Vehicle/Transport;N;3
 Corellian Hounds;SEC-170-C;Ground Unit;Creature;R;3
 Corner the Prey;TWI-139-R;Event;Tactic;B/R;1
@@ -747,7 +747,7 @@ Following the Path;LOF-103-C;Event;Plan;G/W;3
 For a Cause I Believe In;SOR-152-R;Event;Innate;R/W;3
 For The Republic;TWI-051-R;Upgrade;Republic;U/W;0
 Force Choke;SOR-139-U;Event;Force;R/B;3
-Force Illusion;LOF-223-U;Event;Force/Trick;Y;3
+Force Illusion;LOF-223-U/IC27-177-U;Event;Force/Trick;Y;3
 Force Lightning;SOR-138-L;Event;Force;R/B;1
 Force Slow;LOF-217-C;Event;Force;Y;3
 Force Speed;LOF-205-U;Event;Force;Y;3 # 1 foil
@@ -970,17 +970,17 @@ IG-88, Programmed to Kill;LAW-042-R;Ground Unit;Underworld/Droid/Bounty Hunter;U
 IG-88, Ruthless Bounty Hunter;SOR-012-C;Leader;Underworld/Droid/Bounty Hunter;R/B;1
 IGV-55 Listener;LAW-100-C;Space Unit;Imperial/Vehicle/Capital Ship;U/B;1
 Imperial Armored Commando;ASH-048-C;Ground Unit;Imperial/Trooper;U/B;1
-# done through here
 Imperial Command Complex;LAW-024-C;Base;Lothal;G;0
-Imperial Dark Trooper;SEC-080-C;Ground Unit;G/B;3
-Imperial Deck Officer;IBH-062-S/IBH-100-S;Ground Unit;U;0
+Imperial Dark Trooper;SEC-080-C;Ground Unit;Imperial/Droid/Trooper;G/B;3
+Imperial Deck Officer;IBH-062-S/IBH-100-S;Ground Unit;Imperial;U;0
 Imperial Defector;ASH-250-C;Ground Unit;Imperial/Rebel;W;0
 Imperial Door Technician;LAW-097-C;Ground Unit;Imperial/Trooper;U/B;1
-Imperial Interceptor;SOR-132-C;Space Unit;R/B;3 # 1 foil
+Imperial Interceptor;SOR-132-C;Space Unit;Imperial/Vehicle/Fighter;R/B;3 # 1 foil
 Imperial Loyalist;ASH-239-C;Ground Unit;Imperial;B;0
-Imperial Occupier;SEC-132-C;Ground Unit;R/B;3
-Imperial Prison Complex;SEC-023-C;Base;R;1 # 1 hyperspace
-Implicate;SEC-231-R;Event;Y;1
+Imperial Occupier;SEC-132-C;Ground Unit;Imperial/Trooper;R/B;3
+Imperial Prison Complex;SEC-023-C;Base;Narkina 5;R;1 # 1 hyperspace
+Implicate;SEC-231-R;Event;Trick;Y;1
+# done through here
 Imposing Scout Walker;ASH-176-C;Ground Unit;Imperial/Vehicle/Walker;R;0
 Impossible Escape;LOF-218-U;Event;Y;3
 Imprisoned;SHD-072-R;Upgrade;U;1
@@ -2230,18 +2230,18 @@ Fett's Firespray;HMW-053-R;Space Unit;Underworld/Vehicle/Transport;R/Y;0
 Seismic Detonation;HMW-054-R;Event;Tactic;R/Y;0
 Mae, Kill the Dream;HMW-055-L;Ground Unit;Force/Sith;Y/U/B;0
 Yoda, Trickster in Exile;HMW-056-L;Ground Unit;Force/Fringe/Jedi;Y/U/W;0
-# HMW-057 missing
-# HMW-058 missing
+Boss Lyonie, Hypnotized;HMW-057-U;Ground Unit;Gungan/Official;Y/U;0
+Mysterious Disappearance;HMW-058-R;Event;Trick;U/Y;0
 Clone X Assassin;HMW-059-C;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Vice Admiral Rampart, A New Era of Safery;HMW-060-S;Ground Unit;Imperial/Official;U/B;0
 Director Krennic, The Work Has Stalled;HMW-061-S;Ground Unit;Imperial/Official;U/B;0
 Nuvo Vindi, Blue Shadow Perfected;HMW-062-R;Ground Unit;Separatist;U/B;0
 Rho Medical Shuttle;HMW-063-C;Space Unit;Imperial/Vehicle/Transport;U/B;0
 Scorch, Imperial Commando;HMW-064-U;Ground Unit;Imperial/Clone/Trooper;U/B;0
-# HMW-065 missing
+Clone of the Zillo Beast, Emperor's Experiment;HMW-065-R;Ground Unit;Clone/Creature;U/B;0
 Carrion Spike, Harbinger of Tyranny;HMW-066-R;Space Unit;Imperial/Vehicle/Capital Ship;U/B;0
-# HMW-067 missing
-# HMW-068 missing
+The Great Progenitor, First of the Drengir;HMW-067-L;Ground Unit;Creature;U/B;0
+Imperial Commandos;HMW-068-U;Ground Unit;Imperial/Clone/Trooper;U/B;0
 Imperial Venator;HMW-069-C;Space Unit;Imperial/Vehicle/Capital Ship;U/B;1 # 1 hyperspace
 Dark Sanctum;HMW-070-U;Upgrade;Fortification;U/B;0
 Ravage;HMW-071-U;Event;Disaster/Tactic;U/B;0
@@ -2259,13 +2259,13 @@ Nala Se, Silent Survivor;HMW-082-R;Ground Unit;Kaminoan;U;0
 Batcher, Loyal Hound;HMW-083-U;Ground Unit;Creature;U;0
 Gunga City Guard;HMW-084-C;Ground Unit;Gungan;U;0
 Remote Scout;HMW-085-C;Ground Unit;Imperial/Trooper;U;0
-# HMW-086 missing
-# HMW-087 missing
+N-1 Patroller;HMW-086-C;Space Unit;Naboo/Vehicle/Fighter;U;0
+Venomous Wyyyshokk;HMW-087-C;Ground Unit;Creature;U;0
 Numa, Still Fighting;HMW-088-U;Ground Unit;Rebel/Twi'lek;U;1
-# HMW-089 missing
+Territorial Mudhorn;HMW-089-C;Ground Unit;Creature;U;0
 Opee Sea Killer;HMW-090-C;Ground Unit;Creature;U;1
-# HMW-091 missing
-# HMW-092 missing
+Pelta Relief Frigate;HMW-091-C;Space Unit;Republic/Vehicle/Transport;U;0
+Starlit Purrgil;HMW-092-C;Space Unit;Creature;U;0
 # HMW-093 missing
 Sando Aqua Monster;HMW-094-L;Ground Unit;Creature;U;0
 Carbonite Chamber;HMW-095-U;Upgrade;Fortification;U;0
@@ -2600,9 +2600,6 @@ Cunning Ploy;IC27-168-U;Event;Trick;Y;0
 # IC27-172 missing
 # IC27-174 missing
 # IC27-176 missing
-# IC27-177 missing
-# IC27-179 missing
-# IC27-183 missing
+Morgan Elsbeth, Tales Based On Truths;IC27-179-R;Ground Unit;Force/Imperial/Night;B;0
 Jar Jar Binks, Bumbling Representative;IC27-187-R;Ground Unit;Republic/Gungan/Official;W;0
-# IC27-193 missing
 # IC27-194 done
