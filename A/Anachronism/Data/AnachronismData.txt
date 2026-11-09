@@ -57,8 +57,8 @@ Aristourgima tou Ifestou;Trojan;Armor;Set 7;1;0
 Armadura Completa;Spanish;Armor;Set 5;1;1
 Armatura Bianca;Italian;Armor;Set 9;1;0
 Arming Sword;Briton;Weapon;Set 8;1;0 // Have okay printed version
-Arminius Standarte;Germanic;;Set 3;1;1
-Arminius;Germanic;;Set 3;1;1
+Arminius Standarte;Germanic;Weapon;Set 3;1;1
+Arminius;Germanic;Warrior;Set 3;1;1
 Armor of Hephaestus;Greek;Armor;Set 1;1;1
 Aron Ha'eduth;Tribes of Israel;;Set 7;1;0
 Arrow Scars;Briton;;Set 8;1;0 // Have okay printed version
@@ -330,9 +330,9 @@ Formación de Piqueros;Spanish;Special;Set 5;1;1
 Fort Bridger;American Frontiersmen;;Set 7;1;0
 Fort Jhansi;East Indian;;Set 10;1;0 // have okay printed version
 Fort Kiowa;American Frontiersmen;;Set 7;1;0
-Fredegunde;Germanic;;Set 3;1;1
+Fredegunde;Germanic;Warrior;Set 3;1;1
 Frederick I Barbarossa;Holy Roman;;Set 10;1;0 // have okay printed version
-Freya;Germanic;;Set 3;1;1
+Freya;Germanic;Inspiration;Set 3;1;1
 Freydis Eiriksdottir;Norse;;Set 1;1;1
 Frumentius;African Kingdoms;Inspiration;Set 8;1;0 // Have badly printed version
 Full Mail Hauberk;Briton;;Set 2;1;1
@@ -812,7 +812,7 @@ Ropera Toledana;Spanish;Weapon;Set 5;1;0
 Rostam;Persian;;Promo;1;0
 Roxelana;Turkish;;Set 6;1;0
 Rumeli Hisari;Turkish;;Set 6;1;0
-Rustung der Romisches Hilfstruppen;Germanic;;Set 3;1;1
+Rustung der Romisches Hilfstruppen;Germanic;Armor;Set 3;1;1
 Sabie Pentru o Mana 'i Jumatate;Romanian;;Set 6;1;1
 Sabie Puternica;Romanian;;Set 6;1;1
 Sagaris;Persian;;Promo;1;0
@@ -840,7 +840,7 @@ Sarissa;Greek;;Set 1;1;1
 Sarissae;Greek;;Set 1;1;1
 Saul's Spear;Tribes of Israel;;Set 10;1;0
 Savasi Nicopolis;Turkish;;Set 6;1;1
-Schutzherrin der Meuchelmorder;Germanic;;Set 3;1;1
+Schutzherrin der Meuchelmorder;Germanic;Special;Set 3;1;1
 Scutulum;Roman;;Set 1;1;1
 Scutum;Roman;;Set 1;1;1
 Se'ar-Ro's Simson;Tribes of Israel;;Set 7;1;0
@@ -916,7 +916,7 @@ Sprone da Rotella;Italian;;Set 9;1;0
 Srqt, the Scorpion King;Egyptian;;Set 2;1;1
 Sspw;Egyptian;;Promo;1;0
 Stephen the Great;Romanian;;Set 6;1;1
-Steppumhang;Germanic;;Set 3;1;1
+Steppumhang;Germanic;Armor;Set 3;1;1
 Stili tis Trias;Trojan;;Set 7;1;0
 Stocco Milanese;Italian;;Set 9;1;0
 Stone of Destiny;Briton/Scottish;;Promo;1;1
@@ -985,7 +985,7 @@ Tiberinus;Roman;;Set 8;1;0
 Tie Chen Shan Qi Gong;Chinese;;Set 6;1;1
 Tie Xia Bi Hu Jia;Chinese;;Set 6;1;0
 Tihi tis Trias;Trojan;;Set 7;1;0
-Tiwaz;Germanic;;Set 3;1;1
+Tiwaz;Germanic;Inspiration;Set 3;1;1
 Tizona y Colada;Spanish;;Set 5;1;0
 Tlacaelel;Aztec;;Set 5;1;0
 Tlacochtli;Aztec;;Set 5;1;0
@@ -1025,10 +1025,10 @@ Urumi;East Indian;Weapon;Set 10;1;0 // have okay printed version
 Usumidori;Japanese;;Set 5;1;0
 Uther Pendragon;Briton;Warrior;Set 8;1;0
 Varangian Guard;Byzantine/Norse;;Set 10;1;0 // have okay printed version
-Varusschlacht;Germanic;;Set 3;1;1
+Varusschlacht;Germanic;Special;Set 3;1;1
 Vasallo de la Reina;Spanish;Inspiration;Set 5;1;1
 Vercingetorix;French;;Set 3;1;1
-Vergifteter Dolch;Germanic;;Set 3;1;1
+Vergifteter Dolch;Germanic;Weapon;Set 3;1;1
 Vlad II Dracul;Romanian;;Promo;1;0
 Vlad Tepes;Romanian;;Set 6;1;1
 Volkerwanderung;German;;Promo;1;0
