@@ -102,14 +102,14 @@ Ariel - Sonic Warrior;Character;Steel;Floodborn/Hero/Princess;The Little Mermaid
 Ariel - Spectacular Singer;Character;Amber;Storyborn/Hero/Princess;The Little Mermaid;The First Chapter (Super Rare);0
 Ariel - Treasure Collector;Character;Sapphire;Storyborn/Hero/Princess;The Little Mermaid;Ursula's Return (Super Rare);0
 Ariel - Whoseit Collector;Character;Sapphire;Storyborn/Hero/Princess;The Little Mermaid;The First Chapter (Rare);1
+Ariel's Grotto - A Secret Place;Location;Sapphire;;The Little Mermaid;Ursula's Return (Uncommon);2
+Arthur - Determined Squire;Character;Sapphire/Steel;Storyborn/Hero;The Sword in the Stone;Reign of Jafar (Uncommon);0
+Arthur - King Victorious;Character;Steel;Floodborn/Hero/King;The Sword in the Stone;Shimmering Skies (Legendary);0
+Arthur - Novice Sparrow;Character;Ruby;Storyborn/Hero;The Sword in the Stone;Shimmering Skies (Uncommon);1
+Arthur - Trained Swordsman;Character;Emerald;Dreamborn/Hero;The Sword in the Stone;Rise of the Floodborn (Common);1
+Arthur - Wart;Character;Steel;Storyborn/Hero;The Sword in the Stone;Shimmering Skies (Uncommon);1
+Arthur - Wizard's Apprentice;Character;Amethyst;Dreamborn/Hero/Sorcerer;The Sword in the Stone;Rise of the Floodborn (Super Rare);0
 # franchises done through here
-Ariel's Grotto - A Secret Place;Location;Sapphire;;;Ursula's Return (Uncommon);2
-Arthur - Determined Squire;Character;Sapphire/Steel;Storyborn/Hero;;Reign of Jafar (Uncommon);0
-Arthur - King Victorious;Character;Steel;Floodborn/Hero/King;;Shimmering Skies (Legendary);0
-Arthur - Novice Sparrow;Character;Ruby;Storyborn/Hero;;Shimmering Skies (Uncommon);1
-Arthur - Trained Swordsman;Character;Emerald;Dreamborn/Hero;;Rise of the Floodborn (Common);1
-Arthur - Wart;Character;Steel;Storyborn/Hero;;Shimmering Skies (Uncommon);1
-Arthur - Wizard's Apprentice;Character;Amethyst;Dreamborn/Hero/Sorcerer;;Rise of the Floodborn (Super Rare);0
 Atitaya - Fang General;Character;Steel;Storyborn/Ally;;Reign of Jafar (Uncommon);1
 Atlantean Crystal;Item;Sapphire;;;Reign of Jafar (Rare);0
 Atlantica - Concert Hall;Location;Amber;;;Ursula's Return (Common)/Fabled (Common);2
@@ -1618,18 +1618,18 @@ Pain - Immortal Sidekick;Character;Emerald;Storyborn/Ally;Hercules;Ursula's Retu
 Pain - Impudent Imp;Character;Amethyst;Storyborn/Ally;Hercules;Archazia's Island (Common);1
 Pain - Running with Scissors;Character;Amethyst;Storyborn/Ally;Hercules;Attack of the Vine! (Common);0
 Pain - Underworld Imp;Character;Emerald;Storyborn/Ally;Hercules;Rise of the Floodborn (Uncommon);1
+Painting the Roses Red;Action;Amber;Song;Alice in Wonderland;Rise of the Floodborn (Common);0
+Palace Guard - Spectral Sentry;Character;Amethyst;Dreamborn/Ally/Illusion;Aladdin;Reign of Jafar (Common);0
+Panic - Hammer Enthusiast;Character;Amethyst;Storyborn/Ally;Hercules;Attack of the Vine! (Common);0
+Panic - High‐Strung Imp;Character;Amethyst;Storyborn/Ally;Hercules;Archazia's Island (Common);0
+Panic - Immortal Sidekick;Character;Emerald;Storyborn/Ally;Hercules;Ursula's Return (Uncommon);0
+Panic - Underworld Imp;Character;Emerald;Storyborn/Ally;Hercules;Rise of the Floodborn (Common);0
+Paradise Falls - Exotic Destination;Location;Emerald;;Up;Attack of the Vine! (Rare);0
+Part of Your World;Action;Amber;Song;The Little Mermaid;The First Chapter (Rare);1
+Pascal - Garden Chameleon;Character;Amber/Amethyst;Storyborn/Ally;Tangled;Archazia's Island (Uncommon);0
+Pascal - Inquisitive Pet;Character;Sapphire;Storyborn/Ally;Tangled;Ursula's Return (Common);2
+Pascal - Rapunzel's Companion;Character;Amethyst;Storyborn/Ally;Tangled;The First Chapter (Uncommon);2
 # Traits done through here
-Painting the Roses Red;Action;Amber;;;Rise of the Floodborn (Common);0
-Palace Guard - Spectral Sentry;Character;Amethyst;;;Reign of Jafar (Common);0
-Panic - Hammer Enthusiast;Character;Amethyst;Storyborn/Ally;;Attack of the Vine! (Common);0
-Panic - High‐Strung Imp;Character;Amethyst;;;Archazia's Island (Common);0
-Panic - Immortal Sidekick;Character;Emerald;;;Ursula's Return (Uncommon);0
-Panic - Underworld Imp;Character;Emerald;;;Rise of the Floodborn (Common);0
-Paradise Falls - Exotic Destination;Location;Emerald;;;Attack of the Vine! (Rare);0
-Part of Your World;Action;Amber;;;The First Chapter (Rare);1
-Pascal - Garden Chameleon;Character;Amber/Amethyst;;;Archazia's Island (Uncommon);0
-Pascal - Inquisitive Pet;Character;Sapphire;;;Ursula's Return (Common);2
-Pascal - Rapunzel's Companion;Character;Amethyst;;;The First Chapter (Uncommon);2
 Patch - Intimidating Pup;Character;Amber;;;Into the Inklands (Common);0
 Patch - Playful Pup;Character;Amber/Sapphire;;;Reign of Jafar (Uncommon);1
 Pawpsicle;Item;Sapphire;;;Rise of the Floodborn (Common);0
@@ -2571,14 +2571,18 @@ Fred - Awesome Boss;Character;Emerald;Dreamborn/Super/Hero;Big Hero 6;Hyperia Ci
 Lester the Possum - Park Mascot;Character;Emerald;Storyborn;A Goofy Movie;Hyperia City (Uncommon);0
 Don Karnage - Debonair Pirate;Character;Emerald;Dreamborn/Villain/Prince/Pirate;TaleSpin;Hyperia City (Super Rare);1
 Max Goof - Karaoke Star;Character;Emerald;Dreamborn/Hero;Mickey Mouse and Friends/A Goofy Movie;Hyperia City (Legendary);0
-# Hyperia City Done through here
-
+Belle - Exceptional Writer;Character;Emerald;Dreamborn/Hero/Princess;Beauty and the Beast;Hyperia City (Legendary);0
 Fred - Big Stomper;Character;Emerald;Storyborn/Super/Hero;Big Hero 6;Hyperia City (Common);1
-
+Minnie Mouse - Busy Go‐Getter;Character;Emerald;Storyborn/Hero;Mickey Mouse and Friends;Hyperia City (Common);0
 Honey Lemon - Testing the Limits;Character;Emerald;Storyborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Rare);0
-
+Air Drop;Action;Emerald;;TaleSpin;Hyperia City (Common);0
+Above the Crowd;Action;Emerald;Song;A Goofy Movie;Hyperia City (Rare);0
+Another Tale to Spin;Action;Emerald;Song;TaleSpin;Hyperia City (Common);0
+This Is Business;Action;Emerald;;TaleSpin;Hyperia City (Rare);0
+Flippant Taunt;Action;Emerald;;TaleSpin;Hyperia City (Common);0
 Chemical Reaction;Action;Emerald;;Big Hero 6;Hyperia City (Uncommon);1
 Belle's City Guide;Item;Emerald;;Beauty and the Beast;Hyperia City (Rare);1
+# Hyperia City Done through here
 
 HeiHei - At the Crosswalk;Character;Ruby;Storyborn/Ally;Moana;Hyperia City (Common);1
 Abby Park - Intense Fan;Character;Ruby;Storyborn/Ally;Turning Red;Hyperia City (Common);1
