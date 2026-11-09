@@ -44,7 +44,7 @@ A Good Day to Lie;Dilemma;Dual;The Next Generation/Homefront VI;3937,4677;;5;4 #
 A Good Day To Live;Mission;Planet;Blaze of Glory;512;;2;0
 A Good Place to Die;Mission;Planet;Introductory 2-Player Game;513;;2;1
 A Safe Place to Hide;Objective;;Crossover;4766;;4;4
-Aamin Marritza;Personnel;Cardassian;Deep Space 9;514;;2;0
+Aamin Marritza;Personnel;Cardassian;Deep Space 9;514;;2;0 # needs errata
 Abandon Mission;Event;;First Contact;515;;4;0
 Abandon Ship!;Dilemma;Space;Official Tournament Sealed Deck;516,5902;;4;0 # needs errata
 Abandoned Cube;Facility;Non-Aligned;To the Journey;8486;;4;0
@@ -102,7 +102,8 @@ All Threes;Interrupt;;Holodeck Adventures;564;;4;0
 Alliance Galor;Ship;Cardassian;Mirror, Mirror;45,4869;;4;0
 Alliance Interceptor;Ship;Bajoran;Mirror, Mirror;46;;4;4
 Alliance K'Vort;Ship;Klingon;Mirror, Mirror;47;;4;0
-Alliance Nor;Facility;Cardassian;Mirror, Mirror;48;;4;0
+Alliance Nor;Facility;Cardassian;Mirror, Mirror;48;;4;4
+Alliance Outpost;Facility;Cardassian;Crossover;4739;;4;4
 Alliance Vor'Cha;Ship;Klingon;Mirror, Mirror;49,4874;;4;0
 Alpha Attack Ship;Ship;Dominion;Blaze of Glory;50;;4;0
 Alter Records;Mission;Planet;Deep Space 9/Homefront;565,3514;;3;3
@@ -152,14 +153,14 @@ Apnex;Ship;Romulan;Rules of Acquisition;600;;2;0
 Ar-Q-ologist;Q Dilemma;;Holodeck Adventures;612;;4;0
 Arachnia;Personnel;Non-Aligned;Holodeck Adventures;601;;2;0
 Arak'Taral;Personnel;Dominion;The Dominion;602;;2;0
-Aramax;Personnel;Cardassian;Mirror, Mirror;57,4833;;4;0
+Aramax;Personnel;Cardassian;Mirror, Mirror;57,4833;;4;4
 Arandis;Personnel;Non-Aligned;Rules of Acquisition;603;;2;0
 Arbiter of Succession;Interrupt;;Q Continuum;604;;4;1
 Archanis Dispute;Mission;Planet;The Dominion;605;;2;1
 Archer: Precise Bowman;Dilemma;Planet;To the Journey;8482;;4;0
 Archer;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;606,5251,6049,6412,6775,7697,8061;;4;0 # Needs errata
 Are These Truly Your Friends, Brother?;Q Interrupt;;Q Continuum;607;;5;5
-Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;0
+Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;1
 Arms Deal;Dilemma;Dual;Deep Space 9;608,4374;;4;0
 Armus: Skin of Evil;Dilemma;Planet;Premiere;609,3587,4039,6050,6413,6776,7698,8062;;4;4
 Armus: Sticky Situation;Dilemma;Planet;Official Tournament Sealed Deck/Homefront VI;610,4679,5894;;4;0 # needs errata
@@ -249,7 +250,7 @@ Battle of Sector 001;Mission;Space;Star Trek 50;4976;;2;2
 Battle Reconnaissance;Mission;Space;Homefront IV;4268;;2;2
 Baxial;Ship;Non-Aligned;Holodeck Adventures;717;;2;0
 Bendii Syndrome;Dilemma;Dual;Q Continuum;722;;4;0
-Benil;Personnel;Cardassian;Rules of Acquisition;723;;2;0
+Benil;Personnel;Cardassian;Rules of Acquisition;723;;2;2
 Benjamin Maxwell;Personnel;Federation;Premiere;424,6027,6390,6753,7520,7675,8039;;2;0
 Benjamin Sisko;Personnel;Federation;Deep Space 9;425,3556;;2;0
 Berik;Personnel;Ferengi;Rules of Acquisition;426;;2;0
@@ -288,22 +289,22 @@ Bor Kaffe;Personnel;Bajoran;Crossover;4772;;4;4
 Borad;Personnel;Cardassian;Deep Space 9;738,4414;;2;0
 Borath;Personnel;Dominion;The Dominion;740;;2;0
 Boratus;Personnel;Non-Aligned;Alternate Universe;741;;2;0
-Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
+Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;5;5
 Borg Cutting Beam;Tactic;;Blaze of Glory/BaH!;742,3706,7063;;10;0
 Borg Data Node;Equipment;;The Borg;743;;4;4
 Borg Kiss;Interrupt;;First Contact;744;;4;0
 Borg Nanoprobes;Equipment;;The Borg/Homefront II;745,3859;;5;5
 Borg Neuroprocessor;Equipment;;The Borg;746;;4;0
 Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;4
-Borg Probe;Ship;Borg;The Borg;76;;4;0
+Borg Probe;Ship;Borg;The Borg;76;;4;0 # needs errata
 Borg Queen (The Borg);Personnel;Borg;The Borg/Virtual Promos;41,5503;;2;2
-Borg Queen's Ship;Ship;Borg;The Borg;748;;2;0
+Borg Queen's Ship;Ship;Borg;The Borg;748;;2;2
 Borg Queen;Personnel;Borg;First Contact/Reflections/Homefront III/Virtual Promos;40,3529,4112,4660;;25;25
-Borg Scout Vessel;Ship;Borg;First Contact;77;;4;0
+Borg Scout Vessel;Ship;Borg;First Contact;77;;4;0 # needs errata
 Borg Servo;Dilemma;Dual;First Contact;749;;4;0
 Borg Ship;Dilemma;Space;Premiere/Reflections/Virtual Promos;750,3536,5825,6068,6431,6794,7716,8080;;5;4 # have 4 PREM
 Borg Sphere;Ship;Borg;First Contact;78;;4;0
-Borg Tactical Cube;Ship;Borg;The Borg;79;;4;0
+Borg Tactical Cube;Ship;Borg;The Borg;79;;4;3
 Borg Vinculum;Equipment;;The Borg;751;;4;4
 Botanical Research;Mission;Planet;Starter Deck II;80,4053,7055;;4;3
 Bothan Vessel;Ship;Non-Aligned;Voyager;81;;4;0
@@ -353,7 +354,7 @@ Captain's Log;Event;;Alternate Universe/Voyager;786,787;;6;6
 Captured;Incident;;Blaze of Glory/Virtual Promos;788,7438;;4;0 # needs errata
 Cardassian Disruptor Rifle;Equipment;;Deep Space 9;790;;4;0
 Cardassian Disruptor;Equipment;;Deep Space 9;789,7508;;4;0
-Cardassian Outpost;Facility;Cardassian;Deep Space 9/Homefront VI/Virtual Promos;791,4391,4698,4948;;4;0
+Cardassian Outpost;Facility;Cardassian;Deep Space 9/Homefront VI/Virtual Promos;791,4391,4698,4948;;5;4 # need 1 VP
 Cardassian PADD;Equipment;;Deep Space 9;792,7509;;4;0
 Cardassian Processing;Dilemma;Dual;Homefront II;3848;;4;4
 Cardassian Shuttle;Ship;Cardassian;Deep Space 9;86;;4;0
@@ -368,7 +369,7 @@ Caught Red-Handed;Interrupt;;The Dominion;798;;4;1
 Cavit;Personnel;Federation;Voyager;89;;4;0
 Center of Attention;Dilemma;Dual;Rules of Acquisition;799;;4;0
 Center of Authority;Incident;;Crossover;4741;;4;0 # needs errata
-Central Command;Facility;Cardassian;Deep Space 9/Homefront/Reflections;800,3504,3544;;2;0
+Central Command;Facility;Cardassian;Deep Space 9/Homefront/Reflections;800,3504,3544;;3;2 # have 2 HF
 Central Plexus;Event;;Star Trek 60: The Diamond Anniversary Collection;8545;;4;0
 Cetacean Institute;Time Location;;The Motion Pictures;801,7223;;2;0
 Ceti Eel;Incident;;The Motion Pictures;802,7224;;4;0
@@ -510,7 +511,7 @@ Dabo;Incident;;Rules of Acquisition;908;;4;2
 Dakol;Personnel;Cardassian;Deep Space 9;103;;4;0
 Dal'Rok;Dilemma;Dual;Deep Space 9/Homefront;909,3489,5646;;5;4 # Have 4 HF
 Dala;Personnel;Non-Aligned;To the Journey;8519;;2;0
-Damar;Personnel;Cardassian;The Dominion/Reflections;910,3610;;2;0
+Damar;Personnel;Cardassian;The Dominion/Reflections;910,3610;;2;1
 Danar;Personnel;Cardassian;Deep Space 9;911;;2;0
 Danara Pel;Personnel;Vidiian;Voyager;912;;2;0
 Danderdag;Personnel;Non-Aligned;The Trouble with Tribbles;104;;4;0
@@ -560,7 +561,7 @@ Delta Quadrant Spatial Scission;Incident;;Voyager;944;;4;4
 Demora Sulu;Personnel;Federation;The Motion Pictures;945,7233;;2;0
 Denevan Neural Parasites;Dilemma;Planet;Mirror, Mirror/Virtual Promos;946,3840;;4;2 # have 2 MM
 Deputy Rozhenko;Personnel;Non-Aligned;Holodeck Adventures;947;;2;0
-Derell;Personnel;Cardassian;Deep Space 9;114;;4;0
+Derell;Personnel;Cardassian;Deep Space 9;114;;4;1
 Dereth;Personnel;Vidiian;Voyager/Virtual Promos;948,7549;;2;0
 Derran Tal;Personnel;Non-Aligned;To the Journey/Virtual Promos;7436,8520;;2;0
 Dessert Disaster;Interrupt;;Star Trek 60: The Diamond Anniversary Collection;8555;;4;0
@@ -613,7 +614,7 @@ Door-Net;Q Event;;Q Continuum;965;;4;0 # needs errata
 Doppelganger;Event;;Q Continuum;966,4808;;4;1
 Doran;Personnel;Cardassian;Holodeck Adventures;121;122;4;0
 Doran;Personnel;Hirogen;Holodeck Adventures;122;121;4;0
-Dorza;Personnel;Cardassian;Mirror, Mirror;123,4834;;4;0
+Dorza;Personnel;Cardassian;Mirror, Mirror;123,4834;;4;4
 Dr. Arridor;Personnel;Ferengi;Voyager;967;;2;0
 Dr. Borts;Personnel;Ferengi;Rules of Acquisition;124;;4;0
 Dr. Chapel;Personnel;Federation;The Motion Pictures;968,7234;;2;0
@@ -648,7 +649,7 @@ Drumhead;Dilemma;Space;Blaze of Glory;1069;;4;0
 Duchamps;Personnel;Non-Aligned;Holodeck Adventures;1071;;2;0
 Duj Saq;Event;;The Motion Pictures;1072,7245;;4;0
 Dukat of Borg;Personnel;Borg;Enhanced First Contact;1074;;2;1
-Dukat;Personnel;Cardassian;Deep Space 9/Reflections/Virtual Promos;1073,3552,4492;;2;0
+Dukat;Personnel;Cardassian;Deep Space 9/Reflections/Virtual Promos;1073,3552,4492;;2;1 # have 1 DS9
 Dukath;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;131,5987,6350,6713,7106,7635;;4;0
 Dulmer;Personnel;Federation;The Trouble with Tribbles;1075;;2;0
 Duonetic Field Generator;Dilemma;Planet;Deep Space 9;1076;;4;0
@@ -680,7 +681,7 @@ Eleven of Nineteen;Personnel;Borg;First Contact;143;;4;1
 Eleven of Seventeen;Personnel;Borg;Enhanced First Contact;144;;4;0
 Eleven of Twelve;Personnel;Borg;The Borg;145;;4;4
 Eli Hollander;Personnel;Non-Aligned;Holodeck Adventures;1087;;2;0
-Elim Garak;Personnel;Cardassian;Deep Space 9/Reflections;1089,3553;;2;0
+Elim Garak;Personnel;Cardassian;Deep Space 9/Reflections;1089,3553;;2;1
 Elim;Personnel;Cardassian;Blaze of Glory/Virtual Promos;1088,4290,7065;;2;0
 Eliminate Starship;Objective;;First Contact/The Borg;1090;;5;0 # needs errata
 Eliminate Virus;Mission;Planet;Deep Space 9/Homefront IV;1092,4272;;3;2 # have 2 HF4 
@@ -766,6 +767,7 @@ Evade Patrolling Squadron;Mission;Space;Crossover/Virtual Promos;4750,5174;;4;4
 Evaluate Starship Systems;Objective;;Crossover;4768;;4;4
 Evaluate Terraforming;Mission;Planet;Premiere;1159,6110,6473,6836,7758,8122;;2;1
 Evasive Maneuvers;Tactic;;Blaze of Glory/BaH!;1160,3711;;10;0
+Evek (Homefront II);Personnel;Cardassian;Homefront II;3879;;4;4
 Evek;Personnel;Non-Aligned;Premiere;1161,6111,6474,6837,7759,8123;;2;0
 Examine Disappearance Site;Mission;Space;Crossover;4751;;2;2
 Examine Singularity;Objective;;Blaze of Glory;1162;;4;0
@@ -882,7 +884,7 @@ Gantt;Personnel;Bajoran;Mirror, Mirror;163;;4;4
 Gaps in Normal Space;Event;;Premiere;989,6086,6449,6812,7511,7734;;4;0 # Needs errata
 Garak Has Some Issues;Dilemma;Dual;Deep Space 9;991;;4;0
 Garak's Tailor Shop;Site;;Deep Space 9/Homefront V;993,4467;;2;0
-Garak;Personnel;Cardassian;The Dominion/First Anthology/Reflections;990,3079,3611;992;2;0
+Garak;Personnel;Cardassian;The Dominion/First Anthology/Reflections;990,3079,3611;992;2;2
 Garak;Personnel;Non-Aligned;Identity Crisis;992;990;2;0
 Garanian Bolites;Dilemma;Dual;Deep Space 9;994;;4;0
 Garren;Personnel;Hirogen;Holodeck Adventures;165;164;4;0
@@ -941,7 +943,7 @@ Group of Individuals;Incident;;To the Journey;8487;;4;0
 Guest Quarters;Site;;Deep Space 9/Homefront V;175,4470;;2;0
 Guilty - Provisionally;Q Dilemma;;Q Continuum;1274;;4;0 # needs errata
 Guinan;Personnel;Federation;Fajo Collection;1275;;2;0
-Gul Madred;Personnel;Cardassian;Blaze of Glory/Homefront III;1276,4114,7518;;2;0
+Gul Madred;Personnel;Cardassian;Blaze of Glory/Homefront III;1276,4114,7518;;3;2 # have 2 HF3
 Gunrunning;Mission;Space;Rules of Acquisition;1277;;2;2
 Gurat'urak;Personnel;Dominion;The Dominion;176;;4;0
 H.M.S. Bounty;Ship;Federation;The Motion Pictures/Virtual Promos;4662, 7251, 1278;1;2;0
@@ -1088,7 +1090,7 @@ Ikat'ika;Personnel;Dominion;Rules of Acquisition;1370;;2;0
 Il Vulcan e Mobile;Event;;Star Trek 60: The Diamond Anniversary Collection;8548;;4;0
 Ilia;Personnel;Federation;The Motion Pictures;1371,7260;;2;0
 Iliana Ghemor;Personnel;Cardassian;Dramatis Personae;8378;;2;0
-Ilon Tandro;Personnel;Cardassian;Identity Crisis;1373;1372;2;0
+Ilon Tandro;Personnel;Cardassian;Identity Crisis;1373;1372;2;2
 Ilon Tandro;Personnel;Federation;Blaze of Glory;1372,4430;1373;2;0
 Immortal Again;Event;;Q Continuum;1377;;4;2
 Impassable Door;Dilemma;Planet;Premiere;1378,6146,6509,6872;;4;0 # needs errata
@@ -1275,7 +1277,7 @@ Kazon Warship;Ship;Kazon;Voyager;226;;4;0
 Keevan;Personnel;Dominion;The Dominion;1505;;2;0
 Keeve Falor;Personnel;Bajoran;The Dominion;228;;4;1
 Keiko O'Brien;Personnel;Federation;Q Continuum;1507;;2;0
-Kejal;Personnel;Cardassian;Holodeck Adventures;1508;1509;2;0
+Kejal;Personnel;Cardassian;Holodeck Adventures;1508;1509;2;1
 Kejal;Personnel;Hirogen;Holodeck Adventures;1509;1508;2;0
 Keldon Advanced;Ship;Cardassian;The Dominion/Borderless Promos;230,3580,5604;;4;0
 Keldon;Ship;Cardassian;Blaze of Glory;229;;4;0
@@ -1301,13 +1303,13 @@ Kira Nerys (Dramatis Personae);Personnel;Bajoran;Dramatis Personae;8391;8379;2;0
 Kira Nerys (Dramatis Personae);Personnel;Dominion;Dramatis Personae;8379;8391;2;0
 Kira Nerys;Personnel;Bajoran;Deep Space 9/Reflections/Virtual Promos;1527,3550,5495;;3;2 # have 2 DS9
 Kira;Personnel;Bajoran;Identity Crisis;3052;1525,3064;5;5
-Kira;Personnel;Cardassian;The Trouble with Tribbles;1525;3052,3064;2;0
+Kira;Personnel;Cardassian;The Trouble with Tribbles;1525;3052,3064;2;1
 Kira;Personnel;Federation;Identity Crisis;3064;1525,3052;2;0
 Kitrik;Personnel;Klingon;Q Continuum;1528;;2;0
 Kivas Fajo: Collector;Event;;Premiere/Virtual Promos;1530,4597,5639,6174,6537,6900,7822;;4;0 #needs errata 
 Kivas Fajo;Personnel;Non-Aligned;Fajo Collection/Virtual Promos;1529,5346;;2;0
 Klaa;Personnel;Klingon;The Motion Pictures;1531,7272;;2;0
-Klaestron Outpost;Facility;Cardassian;Identity Crisis;3065;1532;4;0
+Klaestron Outpost;Facility;Cardassian;Identity Crisis;3065;1532;4;4
 Klaestron Outpost;Facility;Federation;Deep Space 9;1532;3065;4;0
 Klag;Personnel;Klingon;Premiere;232,6000,6363,6726;;4;0
 Kle'eg;Personnel;Klingon;Premiere;233,6727,7649,6001,6364;;4;0
@@ -1383,8 +1385,8 @@ Leah Brahms;Personnel;Federation;Premiere;1594,6192,6555,6918,7840,8204;;2;1
 Leck;Personnel;Ferengi;Rules of Acquisition;1595;;2;0
 Leeta;Personnel;Bajoran;Rules of Acquisition;1596;3054;2;1
 Leeta;Personnel;Ferengi;Identity Crisis;3054;1596;2;0
-Legate Damar;Personnel;Cardassian;Second Anthology;1597;;2;0
-Lemec;Personnel;Cardassian;Rules of Acquisition/Virtual Promos;1598,5632;;2;0
+Legate Damar;Personnel;Cardassian;Second Anthology;1597;;2;1
+Lemec;Personnel;Cardassian;Rules of Acquisition/Virtual Promos;1598,5632;;2;1 # have 1 RoA
 Lemon-Aid;Q Interrupt;;Q Continuum;1599;;4;4
 Lenaris Holem;Personnel;Bajoran;Deep Space 9;1600;;2;0
 Leonardo da Vinci;Personnel;Non-Aligned;Holodeck Adventures;1601;;2;0
@@ -1413,7 +1415,7 @@ Lisa Azar;Personnel;Federation;First Contact;1615;;2;0
 Live Long and Prosper;Interrupt;;The Trouble with Tribbles/Virtual Promos;1617,8371;;7;6 # have 6 TwT
 Lockbox;Dilemma;Planet;Deep Space 9;1619,4379;;4;1
 Locutus of Borg;Personnel;Borg;Fajo Collection/Homefront III;1621,4113;;6;6
-Locutus' Borg Cube;Ship;Borg;Blaze of Glory/Borderless Promos;1620,5603,7076;;2;0
+Locutus' Borg Cube;Ship;Borg;Blaze of Glory/Borderless Promos;1620,5603,7076;;3;2 # have 2 BoG
 Lojal;Personnel;Federation;Deep Space 9;248;;4;0
 Lojur;Personnel;Federation;The Motion Pictures;249,7192;;4;0
 Lokirrim Vessel;Ship;Non-Aligned;All Good Things;250;;4;0
@@ -1529,6 +1531,7 @@ Menthar Booby Trap;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;17
 Mercenary Raiders;Incident;;The Next Generation;3965;;4;4
 Mercenary Ship;Ship;Non-Aligned;Premiere;266,4082,6007,6370,6733,7655;;4;0
 Mercy Kill;Interrupt;;First Contact;1715;;4;0
+Merdan;Personnel;Cardassian;Crossover;4774;;4;4
 Meso'Clan;Personnel;Dominion;The Dominion;1716;;2;0
 Metaphasic Shields;Event;;Premiere;1717,6209,6572,6935,7857,8221;;4;0 # needs errata
 Mezoti;Personnel;Federation;The Borg;1719;1718;2;0
@@ -1560,7 +1563,7 @@ Mirok;Personnel;Romulan;Premiere;1736,6212,6575,6938,7860;;2;1
 Mirror Dagger;Equipment;;Mirror, Mirror;1737,4803;;4;4
 Mirror Ferengi Shuttle;Ship;Ferengi;Mirror, Mirror;272;;4;0
 Mirror Image;Event;;First Contact/Referee Reprints;1738,3098;;4;4
-Mirror Terok Nor;Facility;Cardassian;Mirror, Mirror/Virtual Promos;1739,1740,3928,3929,4810,4811;;2;0
+Mirror Terok Nor;Facility;Cardassian;Mirror, Mirror/Virtual Promos;1739,1740,3928,3929,4810,4811;;2;0 # needs errata
 Misguided Activist;Dilemma;Dual;Deep Space 9;1741;;4;0
 Mission Briefing PADD;Equipment;;Resistance is Futile;3913;;4;4
 Mission Debriefing;Event;;Voyager/First Contact/Virtual Promos;1742,1743,5737;;4;2 # have 2 VOY
@@ -1672,7 +1675,7 @@ Noah Lessing;Personnel;Non-Aligned;Voyager;1799;1798;2;0
 Nog;Personnel;Federation;Rules of Acquisition;1800;3057;2;0
 Nog;Personnel;Ferengi;Identity Crisis;3057;1800;2;0
 None Shall Pass;Dilemma;Planet;Deep Space 9;1801;;4;1
-Nor;Facility;Cardassian;Deep Space 9;1802;;4;0
+Nor;Facility;Cardassian;Deep Space 9;1802;;4;4
 Norah Satie;Personnel;Federation;Premiere;1803,6223,6586,6949,7871,8235;;2;0
 Now Wait Just a Damn Minute!;Interrupt;;Star Trek 60: The Diamond Anniversary Collection;8560;;4;0
 Now Would Be a Good Time;Dilemma;Planet;The Motion Pictures/Homefront;1804,3497,7286;;4;0 # need errata
@@ -1689,6 +1692,7 @@ Obedience Brings Victory;Interrupt;;The Trouble with Tribbles;1001;;4;3
 Obelisk of Masaka;Incident;;The Trouble with Tribbles/Referee Reprints;1002,3099;;4;4
 Observe Alliance Operations;Mission;Planet;Crossover;4761;;2;2
 Observe Ritual;Mission;Planet;The Motion Pictures;1004,7241;;2;0
+Ocett (Homefront II);Personnel;Cardassian;Homefront II;3880;;4;4
 Ocett;Personnel;Non-Aligned;Premiere;1005,6087,6450,6813,7735;;2;1
 Ocular Implants;Event;;First Contact/Reflections;1006,3594;;4;0
 Odo (The Trouble with Tribbles);Personnel;Non-Aligned;The Trouble with Tribbles/Virtual Promos;1008,5500;;2;0
@@ -1739,9 +1743,9 @@ Orum;Personnel;Non-Aligned;The Borg;1833;1834;2;0
 Orum;Personnel;Romulan;The Borg;1834;1833;2;0
 Outgunned;Interrupt;;Blaze of Glory/Virtual Promos;1835,4599;;5;5
 Outpost Raid;Dilemma;Dual;Alternate Universe;1836;;4;4
-Overseer Mardel;Personnel;Cardassian;Mirror, Mirror;1837,4835;;2;0
+Overseer Mardel;Personnel;Cardassian;Mirror, Mirror;1837,4835;;2;2
 Overseer Odo;Personnel;Bajoran;Mirror, Mirror;1838,4830;3058;2;1
-Overseer Odo;Personnel;Cardassian;Identity Crisis;3058;1838;2;0
+Overseer Odo;Personnel;Cardassian;Identity Crisis;3058;1838;10;10
 P'Chan;Personnel;Non-Aligned;The Borg;1856;;2;0
 Pa'rena;Personnel;Non-Aligned;The Motion Pictures;296,7195;;4;0
 Pallra;Personnel;Bajoran;Deep Space 9;1839;;2;0
@@ -1877,7 +1881,7 @@ Quark's Isolinear Rods;Incident;;Rules of Acquisition/Virtual Promos;1940,3841;;
 Quark's Treasure;Ship;Ferengi;Rules of Acquisition;1941;;2;0
 Quark;Personnel;Ferengi;Rules of Acquisition/Virtual Promos;1937,3845;;2;0
 Quash Conspiracy;Mission;Space;Alternate Universe;1942;;2;2
-Queen's Borg Cube;Ship;Borg;First Contact/Reflections/Virtual Promos;1943,3579,5502;;2;0
+Queen's Borg Cube;Ship;Borg;First Contact/Reflections/Virtual Promos;1943,3579,5502;;2;2
 Queen's Borg Sphere;Ship;Borg;First Contact;1944;;2;0
 Quest for the Sword;Mission;Planet;The Dominion;1945;;2;0
 Quinn;Interrupt;;Voyager/Virtual Promos;1946,4088;;4;0 # needs errata
@@ -2075,7 +2079,7 @@ Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623,7908;;2;2
 Secure Station;Mission;Space;The Borg;337;;6;6
 Secure Supply Lines;Mission;Space;Crossover;4764;;2;2
 Security Briefing;Mission;Planet;The Dominion;2080;;2;0
-Security Chief Garak;Personnel;Cardassian;Mirror, Mirror;2081,4836;;2;0
+Security Chief Garak;Personnel;Cardassian;Mirror, Mirror;2081,4836;;2;1
 Security Chief Sulu;Personnel;Federation;Mirror, Mirror;2082,4852;;2;0
 Security Holding Cell;Site;;Blaze of Glory/Homefront V;338,4477;;2;0
 Security Office;Site;;Deep Space 9/Homefront V;2083,4478;;2;0
@@ -2101,13 +2105,20 @@ Sensitive Search;Mission;Planet;Warp Pack;2097;;2;2
 Service the Collective;Incident;;Enhanced First Contact/Homefront II;2098,3870;;5;5
 Seska;Personnel;Cardassian;Voyager/Virtual Promos;2099,5343;2100;2;0
 Seska;Personnel;Kazon;Voyager/Virtual Promos;2100,4884;2099;2;0
+Seskal;Personnel;Cardassian;Holodeck Adventures;2101;;2;0
 Sethis;Personnel;Vidiian;Voyager;340;;4;0
+Sevek;Personnel;Non-Aligned;First Contact;2102;;2;0
 Seven of Nine (The Borg);Personnel;Borg;The Borg/The Dominion/Reflections;2104,3043,3523;;2;2
+Seven of Nine;Personnel;Federation;Voyager/Virtual Promos;2105,7443;2103;2;0
+Seven of Nine;Personnel;Non-Aligned;Voyager/Virtual Promos;2103,7442;2105;2;0
 Seventeen of Eighteen;Personnel;Borg;The Borg;341;;4;4
 Shadow of the Night;Event;;Star Trek 60: The Diamond Anniversary Collection;8552;;4;0
 Shaka, When the Walls Fell;Dilemma;Dual;Premiere;2106,6263,6626,6989,7911;;4;4
+Shakaar Edon;Personnel;Bajoran;Deep Space 9/Virtual Promos;2107,7547;;2;0
 Shandor;Personnel;Bajoran;All Good Things;342;;4;0
+Shape-Shift Inhibitor;Event;;All Good Things/Referee Reprints;2109,3107,8426,8467;;4;0
 Shape-Shift;Interrupt;;Homefront II/The Dominion;2108,3872;;9;8 # have 8 HF2
+Sharat;Personnel;Non-Aligned;Deep Space 9;2110,4446;;2;0
 Sharic;Personnel;Non-Aligned;The Motion Pictures;343,7200;;4;0
 Shelby;Personnel;Federation;Premiere;2111,4059,6264,6627,6990,7912,8276;;2;1
 Ship Seizure;Interrupt;;Premiere;2115,6265,6628,6991,7913,8277;;4;0 # needs errata
@@ -2237,7 +2248,7 @@ Tedious Soiree;Dilemma;Planet;Crossover;4730;;4;4
 Teero Anaydis;Personnel;Bajoran;Holodeck Adventures/Homefront II;2213,3876;;3;2 # have 2 HF2
 Telari;Personnel;Vidiian;Voyager;386;;4;0
 Telepathic Alien Kidnappers;Event;;Premiere;2216,6284,6647,7010,7932,8296;;4;0 # needs errata
-Telle;Personnel;Cardassian;The Dominion/Virtual Promos;387,5809;;4;0
+Telle;Personnel;Cardassian;The Dominion/Virtual Promos;387,5809;;4;1
 Temo'Zuma;Personnel;Dominion;The Dominion;388;;4;0
 Temporal Benefactor;Doorway;;Cold Front;5288;;4;4
 Temporal Causality Loop;Dilemma;Space;Premiere;2218,6285,6648,7011,7933;;4;0 # Needs errata
@@ -2322,7 +2333,7 @@ Thot Gor;Personnel;Dominion;The Trouble with Tribbles;1053;;2;0
 Thot Pran;Personnel;Dominion;The Trouble with Tribbles;1054;;2;0
 Thought Fire;Dilemma;Dual;Alternate Universe;1055;;4;4
 Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;2
-Thrax;Personnel;Cardassian;Mirror, Mirror;1057;;2;0
+Thrax;Personnel;Cardassian;Mirror, Mirror;1057;;2;2
 Three of Nine;Personnel;Borg;The Borg;1058;;2;2
 Three of Nineteen;Personnel;Borg;First Contact;398;;4;0
 Three-Dimensional Thinking;Interrupt;;First Contact;1059;;4;0
@@ -2481,10 +2492,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 2100
-#2104
-#2106
-#2108
+# Done through card 2110
 #2111
 #2115
 #2117
@@ -2576,8 +2584,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3076
 #3079-3080
 #3082-3102
-#3104-3106
-#3108-3113
+#3104-3113
 #3115
 #3117
 #3404-3405
@@ -2613,7 +2620,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3753
 #3760
 #3766
-#3838-3878
+#3838-3880
 #3883
 #3885
 #3888-3890
@@ -2652,8 +2659,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4397
 #4399-4425
 #4427-4439
-#4442-4445
-#4447-4452
+#4442-4452
 #4461-4478
 #4485
 #4487-4489
@@ -2677,10 +2683,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4689-4692
 #4695-4707
 #4711-4713
-#4716-4738
-#4740-4755
+#4716-4755
 #4760-4765
-#4767-4773
+#4767-4774
 #4781
 #4794
 #4796
@@ -2823,14 +2828,12 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7428-7429
 #7432-7433
 #7436
-#7438-7441
-#7444
+#7438-7444
 #7503-7506
 #7508-7529
 #7541-7542
 #7544
-#7546
-#7548-7549
+#7546-7549
 #7551
 #7613
 #7615-7738
@@ -2906,9 +2909,9 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #8366-8368
 #8370-8371
 #8373-8396
-#8407-8425
+#8407-8426
 #8428
-#8448-8466
+#8448-8467
 #8469
 #8482-8525
 #8527-8590
