@@ -48,6 +48,9 @@ jobs:
             - [ ] Khans of Tarkir Block
             - [ ] Battle for Zendikar Block
             - [ ] Shadows over Innistrad Block
+            - [ ] Kaladesh Block
+            - [ ] Amonkhet Block
+            - [ ] Ixalan Block
             - [ ] Pauper Commander
             - [ ] Commander
         run: |
