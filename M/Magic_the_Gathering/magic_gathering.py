@@ -187,7 +187,7 @@ def parse_restrictions(restr_lines):
                         'Lorwyn-Shadowmoor', 'Alara Block', 'Zendikar Block', 'Innistrad Block',
                         'Scars of Mirrodin Block', 'Return to Ravnica Block', 'Theros Block',
                         'Khans of Tarkir Block' , 'Battle for Zendikar Block', 'Kaladesh Block',
-                        'Shadows over Innistrad Block', 'Amonkhet Block', ]:
+                        'Shadows over Innistrad Block', 'Amonkhet Block', 'Ixalan Block', ]:
                     print("Unknown format: " + this_format)
                 if bnr not in ['Banned', 'Restricted']:
                     print("Unknown status: " + bnr)
@@ -197,7 +197,6 @@ def parse_restrictions(restr_lines):
     # Dominaria block (Dominaria United/The Brothers' War)
     # Innistrad block (Innistrad: Midnight Hunt/Innistrad: Crimson Vow)
     # Guilds of Ravnica block. ( Guilds of Ravnica, Ravnica Allegiance, War of the Spark)
-    # Ixalan block (Ixalan, Rivals of Ixalan)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -317,6 +316,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Amonkhet block (Amonkhet, Hour of Devastation)
             if this_set in ['Amonkhet', 'Hour of Devastation']:
                 ret_formats['Amonkhet Block'] = 4
+            # Ixalan block (Ixalan, Rivals of Ixalan)
+            if this_set in ['Ixalan', 'Rivals of Ixalan']:
+                ret_formats['Ixalan Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -801,6 +803,10 @@ if __name__ == "__main__":
     # Amonkhet Block
     amonkhet_dict = process_formats("Amonkhet Block", card_corrections, True)
     handle_output("Amonkhet Block", amonkhet_dict, out_file_h)
+
+    # Ixalan Block
+    ixalan_dict = process_formats("Ixalan Block", card_corrections, True)
+    handle_output("Ixalan Block", ixalan_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander", card_corrections)
