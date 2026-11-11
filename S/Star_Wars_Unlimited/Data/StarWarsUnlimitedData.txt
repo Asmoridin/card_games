@@ -1107,18 +1107,18 @@ Improvised Identity;ASH-230-L;Upgrade;Gambit;Y;0
 In Debt to Crimson Dawn;JTL-192-U;Upgrade;Condition;Y/B;2
 In Defense of Kamino;TWI-129-R;Event;Republic;G;3
 In Pursuit;TWI-221-C;Event;Tactic;Y;3
-# Done through here
-In the Heat of Battle;JTL-077-R;Event;U;1
-In the Shadows;LOF-241-C;Event;B;3
+In the Heat of Battle;JTL-077-R;Event;Disaster;U;1
+In the Shadows;LOF-241-C;Event;Plan;B;3
 Incapacitate;LAW-131-C;Event;Tactic;U;0
-Incinerator Trooper;SHD-234-S;Ground Unit;B;3
-Independent Senator;TWI-206-U;Ground Unit;Y;3
-Independent Smuggler;JTL-211-C;Ground Unit;Y;3
-Indoctrinated Conscript;JTL-236-C;Ground Unit;B;2
+Incinerator Trooper;SHD-234-S;Ground Unit;Imperial/Trooper;B;3
+Independent Senator;TWI-206-U;Ground Unit;Separatist/Official;Y;3
+Independent Smuggler;JTL-211-C;Ground Unit;Underworld/Pilot;Y;3
+Indoctrinated Conscript;JTL-236-C;Ground Unit;First Order/Pilot;B;2
 Industrious Team;LAW-124-C;Ground Unit;Underworld/Bounty Hunter;U;2
-Infantry of the 212th;TWI-061-C;Ground Unit;U;2
-Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;3
+Infantry of the 212th;TWI-061-C;Ground Unit;Republic/Clone/Trooper;U;2
+Inferno Four, Unforgetting;SOR-031-U;Space Unit;Imperial/Vehicle/Fighter;U/B;3
 Inferno Squad, We Can Grieve Later;HMW-202-U;Ground Unit;Imperial/Trooper;Y/B;0
+# Done through here
 Infiltrating Demolisher;TWI-182-C;Ground Unit;B/Y;2
 Infiltrator's Skill;SOR-166-C;Upgrade;R;3 # 1 foil
 Infused Brawler;LOF-156-U;Ground Unit;R;3
@@ -1147,7 +1147,7 @@ It's a Trap;JTL-209-R;Event;Y/W;1
 It's Not Over Yet;SEC-177-U;Event;R;2
 It's Worse;LOF-264-C;Event;N;3 # 2 foil
 Itinerant Warrior;LOF-048-C;Ground Unit;U/W;3 # 1 hyperspace
-J-Type Nubian Starship;LOF-194-C;Space Unit;Y/W;3
+J-Type Nubian Starship;LOF-194-C/IC27-156-C;Space Unit;Naboo/Vehicle/Transport;Y/W;3
 Jabba the Hutt, Crime Boss;LAW-015-S;Leader;Underworld/Hutt;Y/B;0
 Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;1
 Jabba the Hutt, Eminence of Tatooine;ASH-042-R;Ground Unit;Underworld/Hutt;Y/U/B;0
@@ -2583,15 +2583,14 @@ Boba Fett, Compensated If He Dies;IC27-146-R;Ground Unit;Underworld/Bounty Hunte
 # IC27-151 missing
 # IC27-152 missing
 Greef Karga, I Celebrate Your Success;IC27-153-U;Ground Unit;Official;Y/W;0
-# IC27-155 missing
-# IC27-156 missing
+Han Solo, Gamblin' Man;IC27-155-L;Ground Unit;Rebel;Y/W;0
 The Mandalorian, From the Shadows;IC27-157-R;Ground Unit;Mandalorian/Bounty Hunter;Y/W;0
 Millennium Falcon, YA-HOO!;IC27-158-R;Space Unit;Rebel/Vehicle/Transport;Y/W;0
 Princess Leia, Calculated Distraction;IC27-159-L;Ground Unit;Rebel/Official;Y/W;0
-# IC27-160 missing
-# IC27-162 missing
+Tantive IV, For Alderaan;IC27-160-R;Space Unit;Rebel/Vehicle/Capital Ship;Y/W;0
+Chewbacca, Cool Backpack;IC27-162-U;Ground Unit;Rebel/Wookiee;Y/W;0
 Bo-Katan Kryz, Right Place, Right Time;IC27-163-R;Ground Unit;Mandalorian;Y/W;0
-# IC27-165 missing
+Luke Skywalker, Overplaying His Hand;IC27-165-L;Ground Unit;Force/Rebel;Y/W;0
 I've Got A Bad Feeling;IC27-166-U/P26-269-U;Event;Innate;Y/W;0
 Lando Calrissian, Check This Out;IC27-167-R;Ground Unit;Official;Y;0
 Cunning Ploy;IC27-168-U;Event;Trick;Y;0

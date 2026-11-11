@@ -1961,10 +1961,12 @@ Zoroark;Pokemon;Darkness;120;;Illusory Hijacking|Claw Slash;SFA 32 (Rare);H;4;0
 Inkay;Pokemon;Darkness;60;;Mischievous Peck;SFA 33 (Common);H;4;0
 Malamar;Pokemon;Darkness;120;;Colluding Tentacles|Spinning Attack;SFA 34 (Uncommon);H;4;0
 Yveltal;Pokemon;Darkness;120;;Corrosive Winds|Destructive Beam;SFA 35 (Uncommon);H;4;0
-
+Okidogi ex;Pokemon;Darkness;250;;Poisonous Musculature|Chain-Crazed;SFA 36 (Double Rare)/SFA 82 (Ultra Rare)/SFA 90 (Special Illustration Rare);H;4;0
+Munkidori ex;Pokemon;Darkness;210;Oh No You Don't;Dirty Headbutt;SFA 37 (Double Rare)/SFA 83 (Ultra Rare)/SFA 91 (Special Illustration Rare);H;4;0
 Fezandipiti ex;Pokemon;Darkness;210;Flip the Script;Cruel Arrow;SFA 38 (Double Rare)/SFA 84 (Ultra Rare)/SFA 92 (Special Illustration Rare)/ASC 142 (Double Rare)/ASC 288 (Special Illustration Rare);H;4;0
 Pecharunt ex;Pokemon;Darkness;190;Subjugating Chains;Irritated Outburst;SFA 39 (Double Rare)/SFA 85 (Ultra Rare)/SFA 93 (Special Illustration Rare)/SFA 95 (Hyper Rare)/PRE 163 (Special Illustration Rare);H;4;0
 Genesect;Pokemon;Metal;110;ACE Nullifier;Magnetic Blast;SFA 40 (Uncommon);H;4;0
+
 Kyurem;Pokemon;Dragon;130;Plasma Bane;Trifrost;SFA 47 (Uncommon);H;4;0
 # SFA 48
 Academy at Night;Trainer;Stadium;;;;SFA 54 (Uncommon);H;4;0
@@ -1978,10 +1980,8 @@ Xerosic's Machinations;Trainer;Supporter;;;;SFA 64 (Uncommon)/SFA 89 (Ultra Rare
 
 # SFA 64 last card (done)
 # SFA 65-75
-# SFA 80-81
-# SFA 84-85
-# SFA 87-89
-# SFA 92-93
+# SFA 80-85
+# SFA 87-93
 # SFA 95-97 last card (done)
 
 # Delta Reign (DLR)
@@ -2015,9 +2015,19 @@ Frillish;Pokemon;Water;80;;Hook;DLR 27 (Common);J;4;0
 Jellicent;Pokemon;Water;120;Deep Sea Draw;Gentle Slap;DLR 28 (Uncommon);J;4;0
 Wishiwashi ex;Pokemon;Water;260;Oceanic Gain;Hydro Spalsh;DLR 29 (Double Rare)/DLR 120 (Ultra Rare);J;4;0
 Electabuzz;Pokemon;Lightning;90;;Call for Family|Headbutt;DLR 30 (Common);J;4;0
+Electivire;Pokemon;Lightning;140;;Body Slam|Voltaic Hammer;DLR 31 (Uncommon)/DLR 108 (Illustration Rare);J;4;0
+Jolteon;Pokemon;Lightning;110;;Tackle|Thunderbolt;DLR 32 (Uncommon);J;4;0
+Raikou ex;Pokemon;Lightning;200;;Thunder-Clad|Power Rush;DLR 33 (Double Rare)/DLR 121 (Ultra Rare)/DLR 136 (Special Illustration Rare);J;4;0
+Rotom;Pokemon;Lightning;80;;Thunder Shock;DLR 34 (Common);J;4;0
+Thundurus;Pokemon;Lightning;120;Incarnate Solidarity;Thunderous Edge;DLR 35 (Uncommon);J;4;0
+Pincurchin;Pokemon;Lightning;80;;Energy Crush;DLR 36 (Common)/DLR 109 (Illustration Rare);J;4;0
+Pawmi;Pokemon;Lightning;60;;Quick Attack;DLR 37 (Common);J;4;0
+Pawmo;Pokemon;Lightning;90;;Electro Ball;DLR 38 (Common);J;4;0
+Pawmot;Pokemon;Lightning;150;Generator's Touch;Electric Punch;DLR 39 (Uncommon);J;4;0
+Wattrel;Pokemon;Lightning;60;;Agility;DLR 40 (Common);J;4;0
 
 # DLR 103 last new card (not done)
-# DLR 104-107 done
-# DLR 118-120 done
-# DLR 135 done
+# DLR 104-109 done
+# DLR 118-121 done
+# DLR 135-136 done
 # DLR 141 last card (not done)
