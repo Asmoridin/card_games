@@ -209,6 +209,14 @@ Action Point Card(Attack on Titan);;AOT-2-AP03;R;Action Point;;;;Attack on Titan
 Action Point Card(Attack on Titan);;AOT-2-AP04;R;Action Point;;;;Attack on Titan Vol.2 [UEX07BT];;0
 Action Point Card(Attack on Titan);;AOT-2-AP05;R;Action Point;;;;Attack on Titan Vol.2 [UEX07BT];;0
 Action Point Card(Attack on Titan);;AOT-2-AP06;R;Action Point;;;;Attack on Titan Vol.2 [UEX07BT];;0
+Action Point Card(BLEACH: Thousand-Year Blood War) (Starter);;BLC-4-AP01;C;Action Point;;;;BLEACH: Thousand-Year Blood War [UE01DC];;0
+Action Point Card(BLEACH: Thousand-Year Blood War) (Starter-P);;BLC-4-AP01;R;Action Point;;;;BLEACH: Thousand-Year Blood War [UE01DC];;0
+Action Point Card(BLEACH: Thousand-Year Blood War);;BLC-4-AP01;R;Action Point;;;;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Action Point Card(BLEACH: Thousand-Year Blood War);;BLC-4-AP02;R;Action Point;;;;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Action Point Card(BLEACH: Thousand-Year Blood War);;BLC-4-AP03;R;Action Point;;;;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Action Point Card(BLEACH: Thousand-Year Blood War);;BLC-4-AP04;R;Action Point;;;;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Action Point Card(BLEACH: Thousand-Year Blood War);;BLC-4-AP05;R;Action Point;;;;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Action Point Card(BLEACH: Thousand-Year Blood War);;BLC-4-AP06;R;Action Point;;;;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
 Action Point Card(CHAINSAW MAN);;CSM-1-AP01;R;Action Point;;;;CHAINSAW MAN [UE22BT];;0
 Action Point Card(CHAINSAW MAN);;CSM-1-AP02;R;Action Point;;;;CHAINSAW MAN [UE22BT];;0
 Action Point Card(CHAINSAW MAN);;CSM-1-AP03;R;Action Point;;;;CHAINSAW MAN [UE22BT];;0
@@ -431,6 +439,7 @@ Asakura;LABO;SMD-1-033;U;Character;Yellow;3;2;Sakamoto Days [UE19BT];;0
 Asguiaro Ebern;;BLC-1-001;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Ashford Academy;;CGH-1-094;C;Site;Red;2;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Askin Nakk Le Vaar;Stern Ritters;BLC-2-001;C;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Askin Nakk Le Vaar;Stern Ritters;BLC-4-003;R;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Asta;Black Bulls;BCV-1-002;C;Character;Purple;0;1;Black Clover [UE08BT];Get;0
 Asta;Black Bulls;BCV-1-003;U;Character;Purple;2;1;Black Clover [UE08BT];Active;0
 Asta;Black Bulls;BCV-1-004;SR;Character;Purple;4;1;Black Clover [UE08BT];Raid;0
@@ -498,9 +507,12 @@ Bambietta Basterbine;Stern Ritters/Zombie;BLC-2-006;R;Character;Yellow;4;1;BLEAC
 Bambietta Basterbine;Stern Ritters;BLC-1-012;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;2
 Bambietta Basterbine;Stern Ritters;BLC-1-013;R;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Bambietta Basterbine;Stern Ritters;BLC-1-014;SR;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
-Bankai;;BLC-1-066;U;Event;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];Final;1
+Bambietta Basterbine;Stern Ritters;BLC-4-009;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Bankai;;BLC-1-066;U;Event;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Final;1
 Bankai;;BLC-1-100;U;Event;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Final;0
 Bankai;;BLC-2-049;U;Event;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Final;0
+Bankai;;BLC-4-059;U;Event;Purple;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Final;0
+Bankai;;BLC-4-080;U;Event;Green;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Final;0
 Bara;The Bomber;HTR-1-025;U;Character;Blue;3;1;Hunter × Hunter [UE02BT];Draw;0
 Barbecue;;SAO-1-098;U;Event;Green;3;1;Sword Art Online [UE07BT];Final;0
 Barrier;;IYS-1-078;U;Event;Red;3;1;INUYASHA [UE23BT];Draw;0
@@ -509,8 +521,12 @@ Basement;;AOT-1-095;U;Site;Red;6;1;Attack on Titan [UE10BT];Get;1
 Basho;;HTR-1-086;C;Character;Green;3;1;Hunter × Hunter [UE02BT];Active;1
 Bath;;SAO-2-057;U;Event;Purple;3;1;Sword Art Online Vol.2 [UEX06BT];Final;2
 Battera;;HTR-1-009;C;Character;Blue;0;1;Hunter × Hunter [UE02BT];;0
+Bazz;;BLC-4-001;C;Character;Yellow;1;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Bazz-B;Stern Ritters;BLC-1-011;R;Character;Yellow;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Bazz-B;Stern Ritters;BLC-2-003;C;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
+Bazz-B;Stern Ritters;BLC-4-006;C;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
+Bazz-B;Stern Ritters;BLC-4-007;U;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Bazz-B;Stern Ritters;BLC-4-008;SR;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Get;0
 Be Proud. You Were Strong;;JJK-3-024;U;Event;Blue;8;2;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Beam;;CSM-1-014;C;Character;Purple;1;1;CHAINSAW MAN [UE22BT];Active;0
 Beam;;CSM-1-062;C;Character;Red;0;1;CHAINSAW MAN [UE22BT];;0
@@ -597,16 +613,20 @@ Bui;;YYH-1-027;R;Character;Purple;4;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active
 Bungee Gum;;HTR-1-067;C;Event;Purple;2;1;Hunter × Hunter [UE02BT];Draw;0
 Burai Kai;Order of the Black Knights/KMF/Four Holy Swords;CGH-1-026;U;Character;Purple;3;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
 Burai;Order of the Black Knights/KMF;CGH-1-106;C;Character;Purple;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
+Burning Full Fingers;;BLC-4-021;U;Event;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Special;0
 But You're Not Finished Yet!;;BCV-1-065;C;Event;Green;3;1;Black Clover [UE08BT];Draw;0
 Butterfly Mansion;;KMY-1-028;U;Site;Yellow;2;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Get;0
 Byakko;;YYH-1-026;C;Character;Purple;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-048;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;0
-Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-049;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Color;0
+Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-049;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Color;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-1-050;SR;Character;Purple;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;1
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-2-029;U;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-2-030;SR;Character;Blue;4;2;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Color;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-2-053;U;Character;Purple;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-3-006;SP;Character;Purple;1;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Active;0
+Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-4-051;C;Character;Purple;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-4-052;U;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Byakuya Kuchiki;Thirteen Court Guard Squads;BLC-4-053;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Raid;0
 Byakuya of the Dreams;Naraku's Faction;IYS-1-031;C;Character;Purple;0;1;INUYASHA [UE23BT];Draw;0
 C.C.;Ashford Academy;CGH-1-075;C;Character;Red;0;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
 C.C.;Ashford Academy;CGH-1-076;U;Character;Red;3;1;Code Geass Lelouch of the Rebellion [UE04BT];;0
@@ -991,6 +1011,7 @@ Gabiru;;TSK-1-038;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [
 Gabiru;;TSK-2-013;C;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Gabiru;;TSK-2-014;C;Character;Blue;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Ganju Shiba;;BLC-2-022;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Ganju Shiba;;BLC-4-029;C;Character;Blue;1;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Ganymede;Ashford Academy/KMF;CGH-1-093;U;Character;Red;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Garfiel Tinsel;;REZ-1-067;R;Character;Purple;4;2;Re:ZERO -Starting Life in Another World- [UE24BT];Active;1
 Garou;;OPM-1-073;C;Character;Red;0;1;One-Punch Man [UE06BT];Active;0
@@ -1036,8 +1057,9 @@ Genya Shinazugawa;;KMY-1-013;R;Character;Yellow;2;1;Demon Slayer: Kimetsu no Yai
 Genya Shinazugawa;;KMY-3-022;C;Character;Blue;0;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Draw;0
 Genya Shinazugawa;;KMY-3-023;U;Character;Blue;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
 Genya Shinazugawa;;KMY-3-024;R;Character;Blue;4;2;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Get;0
+Gerard Valkyrie;Stern Ritters;BLC-4-005;C;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Getsuga Jujisho;;BLC-2-046;R;Event;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Special;0
-Getsugatensho;;BLC-1-064;R;Event;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];Special;0
+Getsugatensho;;BLC-1-064;R;Event;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Special;0
 Ghost Devil;;CSM-1-072;U;Character;Red;3;1;CHAINSAW MAN [UE22BT];;0
 Ghoul Restaurant;;TKG-1-060;C;Site;Purple;3;1;Tokyo Ghoul series [UE18BT];Get;0
 Giant Pizza;;CGH-1-099;U;Event;Red;2;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
@@ -1052,6 +1074,7 @@ Ginshi Shirazu;CCG/Mado Squad/Qs;TKG-1-022;R;Character;Yellow;4;1;Tokyo Ghoul se
 Ginta & Hakkaku;;IYS-1-052;C;Character;Red;2;1;INUYASHA [UE23BT];Draw;0
 Giselle Gewelle;Stern Ritters/Bambies;BLC-2-008;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Giselle Gewelle;Stern Ritters/Bambies;BLC-2-009;SR;Character;Yellow;4;2;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
+Giselle Gewelle;Stern Ritters/Bambies;BLC-4-017;R;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Gittarackur;Zoldyck Family;HTR-1-053;C;Character;Purple;0;1;Hunter × Hunter [UE02BT];Get;2
 Give Me... Courage;;TKG-1-032;U;Event;Yellow;4;1;Tokyo Ghoul series [UE18BT];Special;0
 Giving a Name;;TSK-2-012;C;Event;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
@@ -1112,6 +1135,8 @@ Greed;Homunculus;FMA-1-082;U;Character;Purple;4;1;Fullmetal Alchemist [UE09BT];A
 Greed;Xing/Homunculus;FMA-1-027;SR;Character;Yellow;6;1;Fullmetal Alchemist [UE09BT];Raid;4
 Grey;Black Bulls;BCV-1-005;C;Character;Purple;1;1;Black Clover [UE08BT];Active;0
 Grey;Black Bulls;BCV-1-076;U;Character;Red;2;1;Black Clover [UE08BT];Draw;0
+Grimmjow Jeagerjaques;Arrancars;BLC-4-035;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Grimmjow Jeagerjaques;Arrancars;BLC-4-036;SR;Character;Blue;6;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Get;0
 Grisha Jaeger;Inheritor of the Titan;AOT-1-072;C;Character;Red;1;1;Attack on Titan [UE10BT];;0
 Guilty;Missilis/Real Kindness;NIK-1-094;U;Character;Green;3;1;Goddess of Victory: Nikke [UE14BT];Active;4
 Gun-Ru;Chinese Federation/KMF;CGH-2-029;U;Character;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
@@ -1280,6 +1305,7 @@ Historia Reiss;104th Cadet Corps;AOT-2-044;U;Character;Blue;0;1;Attack on Titan 
 Historia Reiss;104th Cadet Corps;AOT-2-045;R;Character;Blue;3;1;Attack on Titan Vol.2 [UEX07BT];Active;0
 Historia's Resolve;;AOT-1-033;U;Event;Blue;3;1;Attack on Titan [UE10BT];Special;0
 Hiten Mitsurugi-ryu;;RNK-1-098;C;Event;Red;2;1;Rurouni Kenshin [UE11BT];;0
+Hiyori Sarugaki;Visoreds;BLC-4-061;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Hiyuki Kagari;Kamunabi;KGR-1-063;C;Character;Red;0;1;Kagurabachi [UE16BT];;0
 Hiyuki Kagari;Kamunabi;KGR-1-064;C;Character;Red;1;1;Kagurabachi [UE16BT];Draw;0
 Hiyuki Kagari;Kamunabi;KGR-1-065;U;Character;Red;3;1;Kagurabachi [UE16BT];Active;0
@@ -1318,17 +1344,23 @@ I Won't Let You Get Away;;REZ-1-100;U;Event;Purple;4;1;Re:ZERO -Starting Life in
 Iai White Purity Style;Iai White Purity Style;KGR-1-039;U;Event;Purple;3;1;Kagurabachi [UE16BT];Special;0
 Ichibe Hyosube;Squad Zero;BLC-1-060;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Ichibe Hyosube;Squad Zero;BLC-2-060;R;Character;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Color;0
-Ichigo Kurosaki;;BLC-1-039;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];Get;0
-Ichigo Kurosaki;;BLC-1-040;R;Character;Purple;1;1;BLEACH: Thousand-Year Blood War [UE01BT];Color;1
-Ichigo Kurosaki;;BLC-1-041;SR;Character;Purple;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;1
-Ichigo Kurosaki;;BLC-1-103;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST];;0
-Ichigo Kurosaki;;BLC-1-104;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01ST];Raid;0
+Ichibe Hyosube;Squad Zero;BLC-4-055;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Ichibe Hyosube;Squad Zero;BLC-4-056;R;Character;Purple;4;2;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Get;0
+Ichigo Kurosaki;;BLC-1-039;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Get;0
+Ichigo Kurosaki;;BLC-1-040;R;Character;Purple;1;1;BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Color;1
+Ichigo Kurosaki;;BLC-1-041;SR;Character;Purple;5;1;BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Raid;1
+Ichigo Kurosaki;;BLC-1-103;U;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01DC];;0
+Ichigo Kurosaki;;BLC-1-104;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01DC];Raid;0
 Ichigo Kurosaki;;BLC-2-016;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Ichigo Kurosaki;;BLC-2-017;U;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Ichigo Kurosaki;;BLC-2-018;R;Character;Blue;4;2;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
 Ichigo Kurosaki;;BLC-2-019;SR;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
 Ichigo Kurosaki;;BLC-2-051;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
 Ichigo Kurosaki;;BLC-3-001;SP;Character;Blue;3;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Active;0
+Ichigo Kurosaki;;BLC-4-025;C;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Ichigo Kurosaki;;BLC-4-026;U;Character;Blue;1;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Ichigo Kurosaki;;BLC-4-027;SR;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Ichigo Kurosaki;;BLC-4-082;SR;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01DC];Get;0
 Ichigo's Room;;BLC-1-108;U;Site;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01ST];Get;0
 I'd Better Shape Up;;IYS-1-075;C;Event;Red;3;1;INUYASHA [UE23BT];Active;0
 Idle Transfiguration;;JJK-1-099;R;Event;Purple;4;1;Jujutsu Kaisen [UE03BT];Special;0
@@ -1341,6 +1373,7 @@ Iharu Furuhashi;;KJ8-1-065;U;Character;Green;3;1;Kaiju No. 8 [UE12BT];Draw;1
 Ikaruga;;CGH-2-031;C;Site;Blue;3;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;0
 Ikkaku Madarame;Thirteen Court Guard Squads;BLC-1-088;U;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Ikkaku Madarame;Thirteen Court Guard Squads;BLC-2-071;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
+Ikkaku Madarame;Thirteen Court Guard Squads;BLC-4-073;C;Character;Green;2;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
 Ikuto Hagiwara;Kamunabi/Anti-Cloud Gouger Special Forces;KGR-1-073;U;Character;Red;4;1;Kagurabachi [UE16BT];Active;0
 I'll Be Taking Yours!;;FMA-1-100;U;Event;Purple;4;1;Fullmetal Alchemist [UE09BT];Special;4
 I'll Do It. Everyone Cover Me;;AOT-2-037;C;Event;Yellow;4;2;Attack on Titan Vol.2 [UEX07BT];Special;0
@@ -1423,10 +1456,13 @@ Jogo;Cursed Spirit;JJK-3-031;U;Character;Purple;1;1;Jujutsu Kaisen Vol.2 [UEX02B
 Jogo;Cursed Spirit;JJK-3-064;R;Character;Red;4;1;Jujutsu Kaisen Vol.2 [UEX02BT];;0
 Johan;Inherit;NIK-1-035;C;Character;Purple;1;1;Goddess of Victory: Nikke [UE14BT];;4
 Johness;;HTR-1-080;U;Character;Green;1;1;Hunter × Hunter [UE02BT];;0
+Jugo;;BLC-4-002;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Jugram Haschwalth;Stern Ritters;BLC-1-018;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;0
 Jugram Haschwalth;Stern Ritters;BLC-1-019;R;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Jugram Haschwalth;Stern Ritters;BLC-1-020;SR;Character;Yellow;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
 Jugram Haschwalth;Stern Ritters;BLC-2-004;U;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Jugram Haschwalth;Stern Ritters;BLC-4-011;U;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Color;0
+Jugram Haschwalth;Stern Ritters;BLC-4-012;SR;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Raid;0
 Jujutsu High First-Years;;JJK-1-109;R;Event;Blue;3;1;Jujutsu Kaisen [UE03ST];Draw;4
 Julia;Missilis/Master Hand;NIK-1-085;U;Character;Green;3;1;Goddess of Victory: Nikke [UE14BT];;4
 Julius Juukulius;;REZ-1-046;R;Character;Blue;2;1;Re:ZERO -Starting Life in Another World- [UE24BT];;1
@@ -1440,6 +1476,7 @@ Jura Tempest Federation;;TSK-1-028;U;Site;Yellow;3;1;That Time I Got Reincarnate
 Juri;;YYH-1-052;C;Character;Green;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
 Juromaru & Kageromaru;Naraku's Faction;IYS-1-020;U;Character;Purple;1;1;INUYASHA [UE23BT];;0
 Jushiro Ukitake;Thirteen Court Guard Squads/The Soul King's Right Arm;BLC-3-011;SP;Character;Green;3;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Draw;0
+Jushiro Ukitake;Thirteen Court Guard Squads/The Soul King's Right Arm;BLC-4-075;U;Character;Green;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Get;0
 Jushiro Ukitake;Thirteen Court Guard Squads;BLC-1-069;U;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Just an Afterimage;;YYH-1-094;U;Event;Red;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];Final;0
 Just Do What I Say;;NIK-1-099;C;Event;Green;3;1;Goddess of Victory: Nikke [UE14BT];Active;4
@@ -1530,6 +1567,8 @@ Kasugai Crow;;KMY-3-013;C;Character;Blue;0;1;Demon Slayer: Kimetsu no Yaiba Vol.
 Kasumi Miwa;Kyoto Jujutsu High;JJK-1-083;C;Character;Purple;2;1;Jujutsu Kaisen [UE03BT];;0
 Kasumi Miwa;Kyoto Jujutsu High;JJK-1-084;SR;Character;Purple;4;2;Jujutsu Kaisen [UE03BT];Get;0
 Kasumi Miwa;Kyoto Jujutsu High;JJK-3-028;C;Character;Purple;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];Draw;0
+Katen;Katenkyokotsu;BLC-4-076;U;Site;Green;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
+Katenkyokotsu Karamatsu Shinju;Katenkyokotsu;BLC-4-081;U;Event;Green;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Special;0
 Kaworu Nagisa;;EVA-1-037;C;Character;Purple;0;1;Evangelion: New Theatrical Edition [UE15BT];;0
 Kaworu Nagisa;;EVA-1-038;U;Character;Purple;1;1;Evangelion: New Theatrical Edition [UE15BT];;0
 Kaworu Nagisa;;EVA-1-039;SR;Character;Purple;3;1;Evangelion: New Theatrical Edition [UE15BT];Color;0
@@ -1567,6 +1606,7 @@ Kenpachi Zaraki;Thirteen Court Guard Squads;BLC-1-081;SR;Character;Green;4;2;BLE
 Kenpachi Zaraki;Thirteen Court Guard Squads;BLC-2-066;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
 Kenpachi Zaraki;Thirteen Court Guard Squads;BLC-2-067;SR;Character;Green;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
 Kenpachi Zaraki;Thirteen Court Guard Squads;BLC-3-008;SP;Character;Green;4;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];;0
+Kenpachi Zaraki;Thirteen Court Guard Squads;BLC-4-070;U;Character;Green;1;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Kensei Muguruma & Rojuro Ohtoribashi;Thirteen Court Guard Squads/Kurotsuchi Corpse Unit;BLC-2-043;U;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Color;0
 Kensei Muguruma;Thirteen Court Guard Squads;BLC-1-090;C;Character;Green;2;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
 Kenshin Himura;;RNK-1-009;R;Character;Blue;1;1;Rurouni Kenshin [UE11BT];;0
@@ -1672,12 +1712,14 @@ Kisho Arima;CCG;TKG-1-003;U;Character;Yellow;2;1;Tokyo Ghoul series [UE18BT];;0
 Kisho Arima;CCG;TKG-1-004;SR;Character;Yellow;7;1;Tokyo Ghoul series [UE18BT];Raid;0
 Kisho Arima;CCG;TKG-1-084;R;Character;Red;12;2;Tokyo Ghoul series [UE18BT];Get;0
 Kisho Arima;CCG;TKG-1-110;R;Character;Yellow;5;1;Tokyo Ghoul [UE18ST];Active;0
-Kisuke Urahara;;BLC-1-037;U;Character;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];;1 # 1 booster
+Kisuke Urahara;;BLC-1-037;U;Character;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];;1 # 1 booster
 Kisuke Urahara;;BLC-1-038;R;Character;Purple;3;2;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Kisuke Urahara;;BLC-1-102;C;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01ST];Active;0
 Kisuke Urahara;;BLC-2-015;C;Character;Blue;1;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
-Kisuke Urahara;;BLC-2-050;C;Character;Purple;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
+Kisuke Urahara;;BLC-2-050;C;Character;Purple;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Draw;0
 Kisuke Urahara;;BLC-3-004;SP;Character;Purple;1;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Draw;0
+Kisuke Urahara;;BLC-4-023;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Kisuke Urahara;;BLC-4-024;U;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Kiyohiko Uzuki;Kamunabi/Anti-Cloud Gouger Special Forces;KGR-1-070;C;Character;Red;1;1;Kagurabachi [UE16BT];;0
 Kiyomi Azumabito;;AOT-2-004;U;Character;Yellow;1;1;Attack on Titan Vol.2 [UEX07BT];;0
 Kiyotaka Ijichi;;JJK-1-036;C;Character;Blue;0;1;Jujutsu Kaisen [UE03ST]/Jujutsu Kaisen [UE03BT];;4 # 4 starter deck
@@ -1702,6 +1744,7 @@ Kohaku;;IYS-1-055;C;Character;Red;0;1;INUYASHA [UE23BT];;0
 Kohaku;Naraku's Faction;IYS-1-024;U;Character;Purple;1;1;INUYASHA [UE23BT];;0
 Kokichi Muta;Kyoto Jujutsu High;JJK-3-029;C;Character;Purple;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Get;0
 Kokichi Muta;Kyoto Jujutsu High;JJK-3-030;U;Character;Purple;3;1;Jujutsu Kaisen Vol.2 [UEX02BT];Color;0
+Kon;;BLC-4-047;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Kon;;CSM-1-077;U;Event;Red;4;1;CHAINSAW MAN [UE22BT];Special;0
 Konomi Okonogi;;KJ8-1-013;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];;0
 Konomi Okonogi;;KJ8-1-051;C;Character;Green;0;1;Kaiju No. 8 [UE12BT];Draw;0
@@ -1739,6 +1782,7 @@ Kurapika;;HTR-2-077;R;Character;Green;4;1;Hunter × Hunter Vol.2 [UEX04BT];Activ
 Kurapika;;HTR-P-003;R;Character;Green;2;1;Hunter × Hunter [UE02BT];Active;1
 Kurobei;Kijin;TSK-1-014;U;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Kurobei;Kijin;TSK-2-004;C;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;1
+Kurohitsugi;;BLC-4-078;U;Event;Green;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
 Kuromomotaro;;YYH-1-009;C;Character;Purple;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];;0
 Kurotsuchi Corpse Unit;Kurotsuchi Corpse Unit;BLC-2-044;U;Site;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
 Kusuri Yakuzen;;RLY-1-013;C;Character;Yellow;0;1;The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You [UE21BT];Draw;0
@@ -1763,6 +1807,7 @@ Kyojuro Rengoku;Hashira;KMY-3-070;C;Character;Red;0;1;Demon Slayer: Kimetsu no Y
 Kyojuro Rengoku;Hashira;KMY-3-071;U;Character;Red;2;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Color;0
 Kyojuro Rengoku;Hashira;KMY-3-072;SR;Character;Red;6;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Raid;0
 Kyojuro Rengoku;Hashira;KMY-P-003;R;Character;Red;1;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
+Kyokotsu;Katenkyokotsu;BLC-4-077;U;Site;Green;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Kyora Sazanami;;KGR-1-001;SR;Character;Purple;5;1;Kagurabachi [UE16BT];Get;0
 Kyoshiro Tohdoh;Order of the Black Knights;CGH-1-012;C;Character;Purple;0;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Kyoshiro Tohdoh;Order of the Black Knights;CGH-1-013;R;Character;Purple;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Color;0
@@ -1813,6 +1858,7 @@ Leorio;;HTR-1-092;SR;Character;Green;4;1;Hunter × Hunter [UE02BT];Active;0
 Leorio;;HTR-1-105;C;Character;Green;3;1;Hunter × Hunter [UE02ST];Active;4
 Leorio;;HTR-2-070;R;Character;Green;3;1;Hunter × Hunter Vol.2 [UEX04BT];;0
 Let the Fun Experiment Begin!;;SMD-1-080;C;Event;Purple;2;1;Sakamoto Days [UE19BT];Active;0
+Let's Become the Strongest Quincies Ever;;BLC-4-020;U;Event;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Final;0
 Let's Go Home;;FMA-1-109;R;Event;Yellow;2;1;Fullmetal Alchemist [UE09ST];;4
 Let's Go;;OPM-1-026;C;Event;Yellow;2;1;One-Punch Man [UE06BT];Active;4
 Let's Start Here, From Square One. No... From Zero!;;REZ-1-061;U;Event;Blue;3;1;Re:ZERO -Starting Life in Another World- [UE24BT];Final;1
@@ -1835,12 +1881,15 @@ Liebe;Devil;BCV-1-072;U;Character;Red;2;1;Black Clover [UE08BT];Color;0
 LIGHT OF HERO;;NIK-1-100;R;Event;Green;4;1;Goddess of Victory: Nikke [UE14BT];Special;4
 Lilith;;EVA-1-058;C;Site;Purple;2;1;Evangelion: New Theatrical Edition [UE15BT];Get;0
 Liliweiss;Pilgrim/Goddess;NIK-2-032;PcC;Character;Purple;9;1;GODDESS OF VICTORY: NIKKE [UP01BT];;1
+Lille Barro;Stern Ritters;BLC-4-016;U;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Liltotto Lamperd;Stern Ritters/Bambies;BLC-2-011;U;Character;Yellow;1;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Liltotto Lamperd;Stern Ritters/Bambies;BLC-4-018;U;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
 Lim Tae-gyu;Fourth Jeju Island Raid;SLG-1-054;C;Character;Green;0;1;Solo Leveling [UE17BT];Active;4
 Linear;;SAO-2-059;R;Event;Purple;4;1;Sword Art Online Vol.2 [UEX06BT];Special;0
 Ling Yao;Xing;FMA-1-024;C;Character;Yellow;0;1;Fullmetal Alchemist [UE09BT];Active;4
 Ling Yao;Xing;FMA-1-025;U;Character;Yellow;3;1;Fullmetal Alchemist [UE09BT];;4
 Ling Yao;Xing;FMA-1-026;R;Character;Yellow;4;1;Fullmetal Alchemist [UE09BT];Color;4
+Lisa Yadomaru;Visoreds;BLC-4-062;C;Character;Green;2;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Lisbeth;Aincrad;SAO-1-047;C;Character;Blue;0;1;Sword Art Online [UE07ST]/Sword Art Online [UE07BT];;0
 Lisbeth;Aincrad;SAO-1-048;R;Character;Blue;3;1;Sword Art Online [UE07BT];Active;0
 Lisbeth;Aincrad;SAO-1-107;R;Character;Blue;3;2;Sword Art Online [UE07ST];Draw;0
@@ -1968,6 +2017,7 @@ Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-036;C;Character;Blue;0;1;BLE
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-037;R;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-2-038;SR;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
 Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-3-003;SP;Character;Blue;1;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Active;0
+Mayuri Kurotsuchi;Thirteen Court Guard Squads;BLC-4-042;R;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Medalize;;BLC-1-033;R;Event;Yellow;1;1;BLEACH: Thousand-Year Blood War [UE01BT];Special;0
 Medicine-Reversing Medicine;;RLY-1-076;C;Event;Green;2;1;The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You [UE21BT];Draw;0
 Meeting;;TSK-2-072;C;Site;Green;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Get;0
@@ -2153,6 +2203,8 @@ Naki;;TKG-1-078;R;Character;Red;3;1;Tokyo Ghoul series [UE18BT];Active;0
 Nakime;;KMY-1-042;U;Character;Purple;1;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 NaNaNa Najahkoop;Stern Ritters;BLC-1-010;U;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Nanao Ise;Thirteen Court Guard Squads;BLC-1-068;C;Character;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
+Nanao Ise;Thirteen Court Guard Squads;BLC-4-064;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Nanao Ise;Thirteen Court Guard Squads;BLC-4-065;R;Character;Green;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Color;0
 Nano Eiai;;RLY-1-010;C;Character;Yellow;0;1;The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You [UE21BT];Active;0
 Nano Eiai;;RLY-1-011;U;Character;Yellow;1;1;The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You [UE21BT];;0
 Nano Eiai;;RLY-1-012;R;Character;Yellow;4;1;The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You [UE21BT];Draw;0
@@ -2175,7 +2227,11 @@ Natsuki Seba;LABO;SMD-1-067;U;Character;Purple;1;1;Sakamoto Days [UE19BT];Active
 Natsuki Seba;LABO;SMD-1-068;U;Character;Purple;3;2;Sakamoto Days [UE19BT];Get;0
 Natsuki Seba;LABO;SMD-1-069;SR;Character;Purple;4;1;Sakamoto Days [UE19BT];Raid;0
 Nel Tu;;BLC-1-043;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
+Nelliel Tu Odelschwanck;Arrancars;BLC-4-037;C;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Nemu Kurotsuchi;Thirteen Court Guard Squads;BLC-2-035;U;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Nemu Kurotsuchi;Thirteen Court Guard Squads;BLC-4-040;C;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Nemu Kurotsuchi;Thirteen Court Guard Squads;BLC-4-041;SR;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Color;0
+Nemuri No. 7;Thirteen Court Guard Squads;BLC-4-043;U;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Nenji Kashiwazaki;Oniwaban Group;RNK-1-012;C;Character;Blue;3;1;Rurouni Kenshin [UE11BT];;0
 Neon: Blue Ocean;Elysion/Counters;NIK-2-002;PcR;Character;Yellow;3;1;GODDESS OF VICTORY: NIKKE [UP01BT];Active;1
 Neon;;HTR-1-084;R;Character;Green;5;2;Hunter × Hunter [UE02BT];;0
@@ -2275,10 +2331,12 @@ Opening Festival;;TSK-2-055;C;Site;Purple;2;1;That Time I Got Reincarnated as a 
 Operations Room (Operation Yashima);;EVA-1-093;C;Site;Red;4;1;Evangelion: New Theatrical Edition [UE15BT];Get;0
 Order of the Black Knights;;CGH-1-109;R;Event;Purple;1;1;Code Geass Lelouch of the Rebellion [UE04BT];Draw;0
 Orihime Inoue;;BLC-1-035;U;Character;Purple;1;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];;0
-Orihime Inoue;;BLC-1-036;R;Character;Purple;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
+Orihime Inoue;;BLC-1-036;R;Character;Purple;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Active;0
 Orihime Inoue;;BLC-1-101;C;Character;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01ST];Active;0
 Orihime Inoue;;BLC-2-013;C;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Orihime Inoue;;BLC-2-014;R;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Color;0
+Orihime Inoue;;BLC-4-022;SR;Character;Blue;4;2;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Get;0
+Orihime Inoue;;BLC-4-046;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Oruo Bozad;Levi Squad;AOT-1-005;C;Character;Blue;0;1;Attack on Titan [UE10BT];;1
 Osaragi;The Order;SMD-1-042;C;Character;Purple;0;1;Sakamoto Days [UE19BT];Get;0
 Osaragi;The Order;SMD-1-043;C;Character;Purple;1;1;Sakamoto Days [UE19BT];;0
@@ -2305,6 +2363,7 @@ Pen Pen;;EVA-1-089;C;Character;Red;0;1;Evangelion: New Theatrical Edition [UE15B
 Pendant of Aniorite;;SAO-2-058;C;Event;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];Active;0
 Pepper;Missilis/Seraphim;NIK-1-082;C;Character;Green;0;1;Goddess of Victory: Nikke [UE14BT];Draw;4
 Perfect Weapon Control;;SAO-2-012;C;Event;Yellow;3;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
+Pernida Parnkgjas;Stern Ritters;BLC-4-010;C;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Petra Leyte;;REZ-1-005;C;Character;Yellow;0;1;Re:ZERO -Starting Life in Another World- [UE24BT];Active;1
 Petra Rall;Levi Squad;AOT-1-006;C;Character;Blue;3;1;Attack on Titan [UE10BT];;0
 Phantom of the Bakumatsu;;RNK-1-067;C;Event;Purple;2;1;Rurouni Kenshin [UE11BT];Draw;0
@@ -2368,6 +2427,7 @@ Puu;;YYH-1-056;U;Character;Green;1;1;Yu Yu Hakusho: Ghost Files [UE13BT];Draw;0
 Quilge Opie;Stern Ritters;BLC-1-005;U;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
 Quilge Opie;Stern Ritters;BLC-1-006;R;Character;Yellow;4;2;BLEACH: Thousand-Year Blood War [UE01BT];Get;0
 Quincy Voll Stern Dich;;BLC-1-029;U;Event;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Final;0
+Quincy Voll Stern Dich;;BLC-4-019;U;Event;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Final;0
 Rabbit Stampede;Shikigami;JJK-3-008;C;Character;Yellow;0;1;Jujutsu Kaisen Vol.2 [UEX02BT];Active;0
 Radiant Light;;SAO-1-034;U;Event;Yellow;3;1;Sword Art Online [UE07BT];Special;1
 Ragout Rabbit Stew;;SAO-1-067;C;Event;Blue;2;1;Sword Art Online [UE07BT];Active;1
@@ -2478,8 +2538,11 @@ Renji Abarai;Thirteen Court Guard Squads;BLC-2-025;C;Character;Blue;0;1;BLEACH: 
 Renji Abarai;Thirteen Court Guard Squads;BLC-2-026;C;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Renji Abarai;Thirteen Court Guard Squads;BLC-2-027;R;Character;Blue;1;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
 Renji Abarai;Thirteen Court Guard Squads;BLC-2-028;SR;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
-Renji Abarai;Thirteen Court Guard Squads;BLC-2-052;C;Character;Purple;1;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Renji Abarai;Thirteen Court Guard Squads;BLC-2-052;C;Character;Purple;1;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT]/BLEACH: Thousand-Year Blood War [UE01DC];;0
 Renji Abarai;Thirteen Court Guard Squads;BLC-3-005;SP;Character;Purple;5;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Active;0
+Renji Abarai;Thirteen Court Guard Squads;BLC-4-048;U;Character;Purple;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Renji Abarai;Thirteen Court Guard Squads;BLC-4-049;R;Character;Purple;2;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Renji Abarai;Thirteen Court Guard Squads;BLC-4-050;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Raid;0
 Renji Yomo;;TKG-1-058;U;Character;Purple;4;1;Tokyo Ghoul [UE18ST]/Tokyo Ghoul series [UE18BT];Active;0
 Renji Yomo;;TKG-1-059;R;Character;Purple;3;1;Tokyo Ghoul series [UE18BT];Draw;0
 Reno Ichikawa;;KJ8-1-009;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];Draw;1
@@ -2499,6 +2562,7 @@ Requiem;;HTR-2-061;C;Event;Purple;3;1;Hunter × Hunter Vol.2 [UEX04BT];Draw;0
 Resurrection;;TSK-2-061;C;Event;Purple;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Retsu Unohana;Thirteen Court Guard Squads;BLC-1-071;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;1
 Retsu Unohana;Thirteen Court Guard Squads;BLC-1-072;U;Character;Green;2;1;BLEACH: Thousand-Year Blood War [UE01BT];;1
+Retsu Unohana;Thirteen Court Guard Squads;BLC-4-066;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Return;;HTR-2-048;C;Event;Blue;2;1;Hunter × Hunter Vol.2 [UEX04BT];Active;1
 Revived Memories;;CGH-2-049;U;Event;Purple;2;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Draw;1
 Revolution Life or Death Free Formation;;CGH-1-031;U;Event;Purple;3;1;Code Geass Lelouch of the Rebellion [UE04BT];Special;0
@@ -2545,6 +2609,7 @@ Rin;;IYS-1-011;C;Character;Purple;0;1;INUYASHA [UE23BT];;0
 Rin;;IYS-1-012;R;Character;Purple;3;1;INUYASHA [UE23BT];Draw;0
 Rin;;IYS-1-013;SR;Character;Purple;2;1;INUYASHA [UE23BT];;0
 Rinku;;YYH-1-028;U;Character;Purple;2;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
+Riruka Dokugamine;;BLC-4-034;R;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Color;0
 Risky Dice;Specified Slot;HTR-1-027;U;Site;Blue;3;1;Hunter × Hunter [UE02BT];Get;0
 Ritsuko Akagi;;EVA-1-068;U;Character;Red;2;1;Evangelion: New Theatrical Edition [UE15ST]/Evangelion: New Theatrical Edition [UE15BT];;0
 Ritsuko Akagi;WILLE;EVA-1-040;U;Character;Purple;1;1;Evangelion: New Theatrical Edition [UE15BT];;0
@@ -2585,16 +2650,20 @@ Royd Loyd;Stern Ritters;BLC-1-026;U;Character;Yellow;1;1;BLEACH: Thousand-Year B
 Rui;Lower Rank Demon;KMY-1-050;R;Character;Purple;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Ruka Rengoku;;KMY-3-067;C;Character;Red;2;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];;0
 Ruka;;YYH-1-062;C;Character;Green;3;1;Yu Yu Hakusho: Ghost Files [UE13BT];;1
-Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-051;C;Character;Purple;0;1;Promotional Card;Draw;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-051;C;Character;Purple;0;1;Promotional Card/BLEACH: Thousand-Year Blood War [UE01DC];Draw;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-052;R;Character;Purple;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;1
-Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-053;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-053;SR;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Raid;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-1-106;R;Character;Purple;4;2;BLEACH: Thousand-Year Blood War [UE01ST];Get;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-2-031;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Get;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-2-032;U;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-2-033;R;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-2-034;SR;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Raid;0
-Rukia Kuchiki;Thirteen Court Guard Squads;BLC-2-054;U;Character;Purple;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-2-054;U;Character;Purple;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Active;0
 Rukia Kuchiki;Thirteen Court Guard Squads;BLC-3-002;SP;Character;Blue;1;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Draw;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-4-038;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-4-039;R;Character;Blue;2;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-4-054;R;Character;Purple;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Color;0
+Rukia Kuchiki;Thirteen Court Guard Squads;BLC-4-083;SR;Character;Purple;2;1;BLEACH: Thousand-Year Blood War [UE01DC];;0
 Rumbling;;AOT-2-034;R;Event;Yellow;8;2;Attack on Titan Vol.2 [UEX07BT];;0
 Rupee;Tetra Line/Talentum;NIK-1-077;SR;Character;Green;3;1;Goddess of Victory: Nikke [UE14BT];Draw;1
 Ryo Ikaruga;;KJ8-1-045;C;Character;Green;3;1;Kaiju No. 8 [UE12BT];Active;1
@@ -2719,6 +2788,7 @@ Shifty;;NIK-1-001;C;Character;Yellow;0;1;Goddess of Victory: Nikke [UE14BT];;4
 Shigekuni Genryusai Yamamoto;Thirteen Court Guard Squads;BLC-1-092;R;Character;Green;5;1;BLEACH: Thousand-Year Blood War [UE01BT];Color;0
 Shigekuni Genryusai Yamamoto;Thirteen Court Guard Squads;BLC-1-093;SR;Character;Green;7;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
 Shigekuni Yamamoto;Thirteen Court Guard Squads;BLC-1-091;R;Character;Green;1;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;0
+Shigekuni Yamamoto;Thirteen Court Guard Squads;BLC-4-074;C;Character;Green;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
 Shikijo;Oniwaban Group;RNK-1-013;U;Character;Blue;4;1;Rurouni Kenshin [UE11BT];Draw;0
 Shikon Jewel Shard;;IYS-1-034;U;Event;Purple;3;1;INUYASHA [UE23BT];Final;0
 Shimizu Akari;Japanese Hunters/Fourth Jeju Island Raid;SLG-1-072;U;Character;Green;3;1;Solo Leveling [UE17BT];;4
@@ -2733,6 +2803,7 @@ Shinichiro Tamaki;Order of the Black Knights;CGH-1-104;C;Character;Purple;0;1;Co
 Shinji Hirako;Thirteen Court Guard Squads;BLC-1-087;R;Character;Green;2;1;BLEACH: Thousand-Year Blood War [UE01BT];Active;0
 Shinji Hirako;Thirteen Court Guard Squads;BLC-2-070;R;Character;Green;4;2;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
 Shinji Hirako;Thirteen Court Guard Squads;BLC-3-010;SP;Character;Green;1;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Draw;0
+Shinji Hirako;Thirteen Court Guard Squads;BLC-4-072;U;Character;Green;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
 Shinji Ikari;;EVA-1-027;C;Character;Purple;0;1;Evangelion: New Theatrical Edition [UE15BT];Draw;0
 Shinji Ikari;;EVA-1-028;U;Character;Purple;0;1;Evangelion: New Theatrical Edition [UE15BT];Active;0
 Shinji Ikari;;EVA-1-029;U;Character;Purple;2;1;Evangelion: New Theatrical Edition [UE15BT];;0
@@ -2743,12 +2814,14 @@ Shinji Ikari;;EVA-1-074;U;Character;Red;2;1;Evangelion: New Theatrical Edition [
 Shinji Ikari;;EVA-1-075;R;Character;Red;4;2;Evangelion: New Theatrical Edition [UE15BT];Color;0
 Shinji Ikari;;EVA-1-103;U;Character;Red;1;1;Evangelion: New Theatrical Edition [UE15ST];;0
 Shinjuro Rengoku;;KMY-3-066;C;Character;Red;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];;0
+Shinken Hakkyoken;;BLC-4-079;C;Event;Green;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
 Shinkiro;Order of the Black Knights/KMF;CGH-2-028;R;Character;Blue;4;1;Code Geass Lelouch of the Rebellion Vol.2 [UEX03BT];Get;2
 Shino Madarame & Ryunosuke Yuki;Thirteen Court Guard Squads;BLC-1-107;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01ST];;0
 Shinobu Kocho;Hashira;KMY-1-021;R;Character;Yellow;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];;0
 Shinobu Kocho;Hashira;KMY-2-005;U;Character;Yellow;4;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Active;0
 Shinobu Kocho;Hashira;KMY-3-008;SR;Character;Yellow;3;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Get;0
 Shinta;;RNK-1-002;C;Character;Blue;0;1;Rurouni Kenshin [UE11BT];Active;0
+Shinuchi Shirafude Ichimonji;;BLC-4-057;U;Event;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Special;0
 Shion;Kijin;TSK-1-015;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Shion;Kijin;TSK-1-016;R;Character;Yellow;1;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
 Shion;Kijin;TSK-1-054;C;Character;Blue;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Active;0
@@ -2817,9 +2890,14 @@ Shuna;Kijin;TSK-1-103;C;Character;Blue;0;1;That Time I Got Reincarnated as a Sli
 Shuna;Kijin;TSK-2-006;C;Character;Yellow;0;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Shuna;Kijin;TSK-2-007;SR;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Raid;0
 Shuna;Kijin;TSK-2-020;U;Character;Blue;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
+Shunko! Raijin Senkei!;;BLC-4-044;U;Event;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Special;0
+Shunko! Raijin Senkei!;;BLC-4-045;U;Event;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Final;0
 Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-1-074;R;Character;Green;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;1
 Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-2-063;U;Character;Green;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
 Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-3-007;SP;Character;Green;2;1;NEW CARD SELECTION BLEACH: Thousand-Year Blood War [UE01NC];Draw;0
+Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-4-067;C;Character;Green;1;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-4-068;R;Character;Green;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
+Shunsui Kyoraku;Thirteen Court Guard Squads;BLC-4-069;SR;Character;Green;5;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Raid;0
 Siegfried;Holy Britannian Empire/KMF;CGH-1-058;U;Character;Green;5;1;Code Geass Lelouch of the Rebellion [UE04BT];Get;0
 Silbern;;BLC-1-028;U;Site;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;0
 Silica;Aincrad;SAO-1-043;R;Character;Blue;3;1;Sword Art Online [UE07BT];Draw;0
@@ -2879,6 +2957,7 @@ Soei;Kijin;TSK-1-060;SR;Character;Blue;4;1;That Time I Got Reincarnated as a Sli
 Soei;Kijin;TSK-2-008;U;Character;Yellow;3;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Soei;Kijin;TSK-2-021;R;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE20BT];;0
 Soi Fon;Thirteen Court Guard Squads;BLC-1-055;R;Character;Purple;4;1;BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
+Soi Fon;Thirteen Court Guard Squads;BLC-4-071;U;Character;Green;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Sojiro Seta;Ten Swords;RNK-1-055;C;Character;Purple;0;1;Rurouni Kenshin [UE11BT];Get;0
 Sojiro Seta;Ten Swords;RNK-1-056;C;Character;Purple;1;1;Rurouni Kenshin [UE11BT];;0
 Sojiro Seta;Ten Swords;RNK-1-057;U;Character;Purple;3;1;Rurouni Kenshin [UE11BT];Active;0
@@ -2889,6 +2968,7 @@ Soka;;TSK-1-045;R;Character;Blue;2;1;That Time I Got Reincarnated as a Slime [UE
 Soka;;TSK-2-029;U;Character;Purple;2;1;That Time I Got Reincarnated as a Slime [UE20BT];Draw;0
 Sometimes You Gotta Risk It All... to Win That Special... Something!;;EVA-1-099;C;Event;Red;2;1;Evangelion: New Theatrical Edition [UE15BT];Active;0
 Song Chiyul;;SLG-1-042;U;Character;Green;0;1;Solo Leveling [UE17BT];;4
+So-Oh Zabimaru;;BLC-4-058;U;Event;Purple;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Special;0
 Soshiro Azami;Kamunabi;KGR-1-061;U;Character;Red;2;1;Kagurabachi [UE16BT];;0
 Soshiro Azami;Kamunabi;KGR-1-062;R;Character;Red;4;2;Kagurabachi [UE16BT];Get;0
 Soshiro Hoshina;;KJ8-1-029;C;Character;Yellow;0;1;Kaiju No. 8 [UE12BT];Active;1
@@ -2900,6 +2980,7 @@ Soshiro Hoshina;;KJ8-1-068;U;Character;Green;1;1;Kaiju No. 8 [UE12BT];;0
 Soshiro Hoshina;;KJ8-1-069;R;Character;Green;2;1;Kaiju No. 8 [UE12BT];Draw;0
 Soshiro Hoshina;;KJ8-1-070;SR;Character;Green;4;1;Kaiju No. 8 [UE12BT];Color;0
 Soshiro Hoshina;;KJ8-1-071;SR;Character;Green;4;1;Kaiju No. 8 [UE12BT];Raid;0
+Sosuke Aizen;;BLC-4-060;SR;Character;Green;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Get;0
 Sound Breathing Fifth Form: String Performance;;KMY-1-096;U;Event;Red;3;1;Demon Slayer: Kimetsu no Yaiba [UE05BT];Special;0
 Soya Sazanami;Tou;KGR-1-023;U;Character;Purple;4;1;Kagurabachi [UE16BT];Active;0
 Spear of Gaius;;EVA-1-063;U;Event;Purple;5;1;Evangelion: New Theatrical Edition [UE15BT];Special;0
@@ -3206,8 +3287,9 @@ Unlimited Landscape Manipulation Ability;;SAO-1-033;C;Event;Yellow;4;1;Sword Art
 Unlimited Void;;JJK-1-028;U;Site;Yellow;4;1;Jujutsu Kaisen [UE03BT];Get;0
 Uraurashima;;YYH-1-003;C;Character;Purple;0;1;Yu Yu Hakusho: Ghost Files [UE13BT];Active;0
 Urogi;Upper Rank Demon/Hantengu's Duplicate;KMY-3-057;C;Character;Purple;1;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Draw;0
-Uryu Ishida;;BLC-1-034;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];Draw;0
+Uryu Ishida;;BLC-1-034;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT]/BLEACH: Thousand-Year Blood War [UE01DC];Draw;0
 Uryu Ishida;Stern Ritters;BLC-2-002;R;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Draw;0
+Uryu Ishida;Stern Ritters;BLC-4-004;SR;Character;Yellow;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Active;0
 Usui Uonuma;Ten Swords;RNK-1-050;U;Character;Purple;4;1;Rurouni Kenshin [UE11BT];Draw;0
 Uta;;TKG-1-036;U;Character;Purple;4;1;Tokyo Ghoul [UE18ST]/Tokyo Ghoul series [UE18BT];Draw;0
 Uta;;TKG-1-037;SR;Character;Purple;3;1;Tokyo Ghoul series [UE18BT];Active;0
@@ -3292,12 +3374,16 @@ Yamikaze;GGO;SAO-1-095;U;Character;Green;1;1;Sword Art Online [UE07BT];;0
 Yan;Tetra Line/Talentum;NIK-1-076;C;Character;Green;2;1;Goddess of Victory: Nikke [UE14BT];;4
 Yasutora Sado (Chad);;BLC-1-042;C;Character;Purple;0;1;BLEACH: Thousand-Year Blood War [UE01ST]/BLEACH: Thousand-Year Blood War [UE01BT];;1 # 1 booster
 Yasutora Sado (Chad);;BLC-2-020;U;Character;Blue;1;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Yasutora Sado (Chad);;BLC-4-028;C;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Yelena;;AOT-2-001;U;Character;Yellow;2;1;Attack on Titan Vol.2 [UEX07BT];;0
 Yes, You Do;;CSM-1-034;U;Event;Purple;3;1;CHAINSAW MAN [UE22BT];Final;0
 Yhwach;Stern Ritters;BLC-1-021;C;Character;Yellow;0;1;BLEACH: Thousand-Year Blood War [UE01BT];Get;0
 Yhwach;Stern Ritters;BLC-1-022;U;Character;Yellow;3;1;BLEACH: Thousand-Year Blood War [UE01BT];Color;0
 Yhwach;Stern Ritters;BLC-1-023;R;Character;Yellow;4;2;BLEACH: Thousand-Year Blood War [UE01BT];Get;1
 Yhwach;Stern Ritters;BLC-1-024;SR;Character;Yellow;6;1;BLEACH: Thousand-Year Blood War [UE01BT];Raid;0
+Yhwach;Stern Ritters;BLC-4-013;C;Character;Yellow;1;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Yhwach;Stern Ritters;BLC-4-014;U;Character;Yellow;2;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Yhwach;Stern Ritters;BLC-4-015;R;Character;Yellow;5;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Get;0
 Ymir (Jaw Titan);104th Cadet Corps/Inheritor of the Titan;AOT-1-014;R;Character;Blue;4;1;Attack on Titan [UE10BT];Raid;0
 Ymir, Our Founder;;AOT-2-031;R;Site;Yellow;3;1;Attack on Titan Vol.2 [UEX07BT];Color;0
 Ymir;104th Cadet Corps/Inheritor of the Titan;AOT-1-012;C;Character;Blue;0;1;Attack on Titan [UE10BT];Get;0
@@ -3313,6 +3399,10 @@ Yoo Jinho;;SLG-1-052;C;Character;Green;0;1;Solo Leveling [UE17BT];Active;4
 Yoo Jinho;;SLG-1-053;R;Character;Green;3;1;Solo Leveling [UE17BT];Draw;3
 Yoriichi Type Zero;Swordsmith Village;KMY-3-029;C;Character;Blue;4;1;Demon Slayer: Kimetsu no Yaiba Vol.2 [UEX05BT];Active;0
 Yoruichi Shihoin;;BLC-2-024;U;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];Active;0
+Yoruichi Shihoin;;BLC-4-030;C;Character;Blue;0;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
+Yoruichi Shihoin;;BLC-4-031;U;Character;Blue;1;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];;0
+Yoruichi Shihoin;;BLC-4-032;R;Character;Blue;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Color;0
+Yoruichi Shihoin;;BLC-4-033;SR;Character;Blue;4;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Raid;0
 Yoshimura;;TKG-1-057;U;Character;Purple;2;1;Tokyo Ghoul [UE18ST]/Tokyo Ghoul series [UE18BT];;0
 Yoshinobu Gakuganji;Kyoto Jujutsu High;JJK-1-076;U;Character;Purple;0;1;Jujutsu Kaisen [UE03BT];Active;0
 You Call That Clean?! Do It All Again.;;AOT-1-030;U;Event;Blue;3;1;Attack on Titan [UE10BT];Final;0
@@ -3363,6 +3453,7 @@ Yukinori Shinohara;CCG;TKG-1-086;C;Character;Red;4;1;Tokyo Ghoul series [UE18BT]
 Yumi Komagata;;RNK-1-034;R;Character;Purple;1;1;Rurouni Kenshin [UE11BT];Draw;0
 Yumichika Ayasegawa;Thirteen Court Guard Squads;BLC-1-067;U;Character;Green;0;1;BLEACH: Thousand-Year Blood War [UE01BT];;0
 Yumichika Ayasegawa;Thirteen Court Guard Squads;BLC-2-062;C;Character;Green;2;1;BLEACH: Thousand-Year Blood War Vol.2 [UEX01BT];;0
+Yumichika Ayasegawa;Thirteen Court Guard Squads;BLC-4-063;C;Character;Green;3;1;BLEACH: Thousand-Year Blood War Vol.3 [UEX08BT];Draw;0
 Yuna;;SAO-2-028;C;Character;Purple;0;1;Sword Art Online Vol.2 [UEX06BT];Get;0
 Yuna;;SAO-2-029;C;Character;Purple;1;1;Sword Art Online Vol.2 [UEX06BT];Draw;1
 Yuna;;SAO-2-030;U;Character;Purple;2;1;Sword Art Online Vol.2 [UEX06BT];Draw;0
