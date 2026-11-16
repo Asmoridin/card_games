@@ -282,7 +282,7 @@ Bounty Posting;SHD-228-U;Event;Plan;Y;2
 Bracca Shipbreaker;LAW-192-C;Ground Unit;Fringe;R;0
 Brain Invaders;TWI-255-R;Ground Unit;Fringe;N;0
 Bravado;SHD-182-U;Event;Innate;R;3
-Bravo Squadron Fighter;SEC-199-C;Space Unit;Naboo/Vehicle/Fighter;Y/W;3 # 1 foil
+Bravo Squadron Fighter;SEC-199-C/IC27-152-C;Space Unit;Naboo/Vehicle/Fighter;Y/W;3 # 1 foil
 Breach;HMW-114-R;Event;Tactic;G/B;0
 Breaking In;TWI-224-C/IC27-176-C;Event;Tactic;Y;3 # 1 foil
 Bright Hope, Narrow Escape;IBH-014-S/IBH-026-S/IC27-080-S;Space Unit;Rebel/Vehicle/Transport;G/W;0
@@ -860,7 +860,7 @@ From a Certain Point of View;LAW-264-C;Event;Learned;N;0
 Frontier AT-RT;SOR-249-C;Ground Unit;Vehicle/Walker;N;3
 Frontier Trader;SHD-214-C;Ground Unit;Fringe/Jawa;Y;3 # 1 hyperspace
 Frontline Shuttle;SOR-110-R;Space Unit;Vehicle/Transport;G;1
-Frozen in Carbonite;SHD-193-U;Upgrade;Condition;Y/B;3 # 1 hyperspace
+Frozen in Carbonite;SHD-193-U/IC27-150-U;Upgrade;Condition;Y/B;3 # 1 hyperspace
 Fugitive Wookiee;SHD-211-C;Ground Unit;Wookiee;Y;3
 Fulcrum;LAW-150-R;Upgrade;Rebel;G/W;0
 Full of Surprises;ASH-232-C;Event;Trick;Y;0
@@ -1118,17 +1118,17 @@ Industrious Team;LAW-124-C;Ground Unit;Underworld/Bounty Hunter;U;2
 Infantry of the 212th;TWI-061-C;Ground Unit;Republic/Clone/Trooper;U;2
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;Imperial/Vehicle/Fighter;U/B;3
 Inferno Squad, We Can Grieve Later;HMW-202-U;Ground Unit;Imperial/Trooper;Y/B;0
-# Done through here
-Infiltrating Demolisher;TWI-182-C;Ground Unit;B/Y;2
-Infiltrator's Skill;SOR-166-C;Upgrade;R;3 # 1 foil
-Infused Brawler;LOF-156-U;Ground Unit;R;3
-Inner Rim Coalition;SEC-154-C;Ground Unit;R/W;3
-Inquisitor's Lightsaber;LOF-090-C;Upgrade;G/B;3
-Inspector's Shuttle;SEC-260-C;Space Unit;N;3 # 1 hyperspace
+Infiltrating Demolisher;TWI-182-C;Ground Unit;Separatist/Droid;B/Y;2
+Infiltrator's Skill;SOR-166-C;Upgrade;Learned;R;3 # 1 foil
+Infused Brawler;LOF-156-U;Ground Unit;Force/Night;R;3
+Inner Rim Coalition;SEC-154-C;Ground Unit;Republic/Official;R/W;3
+Inquisitor's Lightsaber;LOF-090-C;Upgrade;Item/Weapon/Lightsaber;G/B;3
+Inspector's Shuttle;SEC-260-C;Space Unit;Republic/Vehicle/Transport;N;3 # 1 hyperspace
 Inspired Recruit;LAW-180-C/ASH-152-C;Ground Unit;Rebel/Trooper;R/W;1
-Inspiring Mentor;SHD-104-R/IC27-085-U;Upgrade;G/W;0
-Inspiring Senator;SEC-261-C;Ground Unit;N;3 # 1 hyperspace
+Inspiring Mentor;SHD-104-R/IC27-085-U;Upgrade;Innate;G/W;0
+Inspiring Senator;SEC-261-C;Ground Unit;Republic/Official;N;3 # 1 hyperspace
 Inspiring Veteran;ASH-205-C;Ground Unit;Resistance/Trooper;Y/W;0
+# Done through here
 Insurgent Camp;HMW-216-U;Upgrade;Fortification;Y/W;0
 Insurgent Saboteurs;JTL-168-C;Ground Unit;R;3
 Intelligence Agency;HMW-205-U;Upgrade;Fortification;Y/B;0
@@ -2576,12 +2576,10 @@ Wat Tambor, Warped Warbling;IC27-143-U;Ground Unit;Separatist/Official;Y/B;0
 # IC27-144 missing
 Poggle the Lesser, Secret Designs;IC27-145-R;Ground Unit;Separatist/Official;Y/B;0
 Boba Fett, Compensated If He Dies;IC27-146-R;Ground Unit;Underworld/Bounty Hunter;Y/B;0
-# IC27-147 missing
-# IC27-148 missing
-# IC27-149 missing
-# IC27-150 missing
-# IC27-151 missing
-# IC27-152 missing
+Asajj Ventress, Death From Above;IC27-147-L;Ground Unit;Force/Separatist/Sith;Y/B;0
+Count Dooku, Silver-Tongued;IC27-148-L;Ground Unit;Force/Separatist/Sith/Official;Y/B;0
+The Invisible Hand, Confederate Might;IC27-149-R;Space Unit;Separatist/Vehicle/Capital Ship;Y/B;0
+R2-D2, The First Protagonist;IC27-151-R;Ground Unit;Rebel/Droid;Y/W;0
 Greef Karga, I Celebrate Your Success;IC27-153-U;Ground Unit;Official;Y/W;0
 Han Solo, Gamblin' Man;IC27-155-L;Ground Unit;Rebel;Y/W;0
 The Mandalorian, From the Shadows;IC27-157-R;Ground Unit;Mandalorian/Bounty Hunter;Y/W;0
