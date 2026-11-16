@@ -124,12 +124,12 @@ Aurora - Lore Guardian;Character;Sapphire;Floodborn/Hero/Princess;Sleeping Beaut
 Aurora - Regal Princess;Character;Sapphire;Storyborn/Hero/Princess;Sleeping Beauty;The First Chapter (Uncommon)/Fabled (Uncommon);4
 Aurora - Tranquil Princess;Character;Sapphire;Dreamborn/Hero/Princess;Sleeping Beauty;Ursula's Return (Common)/Fabled (Common);4
 Aurora - Waking Beauty;Character;Amber;Storyborn/Hero/Princess;Sleeping Beauty;Archazia's Island (Legendary);0
+Avalanche;Action;Steel;;Mulan;Ursula's Return (Uncommon);0
+B.E.N. - Eccentric Robot;Character;Sapphire;Storyborn/Ally/Robot/Pirate;Treasure Planet;Azurite Sea (Common);0
+Ba‐Boom!;Action;Steel;;Treasure Planet;Into the Inklands (Common);0
+Babyhead - Leader of Sid's Toys;Character;Ruby;Storyborn/Ally/Toy;Toy Story;Wilds Unknown (Rare);1
+Bad‐Anon - Villain Support Center;Location;Steel;;Wreck‐It Ralph;Shimmering Skies (Rare);1
 # franchises done through here
-Avalanche;Action;Steel;;;Ursula's Return (Uncommon);0
-B.E.N. - Eccentric Robot;Character;Sapphire;Storyborn/Ally/Robot/Pirate;;Azurite Sea (Common);0
-Ba-Boom!;Action;Steel;;;Into the Inklands (Common);0
-Babyhead - Leader of Sid's Toys;Character;Ruby;Storyborn/Ally/Toy;;Wilds Unknown (Rare);1
-Bad-Anon - Villain Support Center;Location;Steel;;;Shimmering Skies (Rare);1
 Bagheera - Cautious Explorer;Character;Amber;Storyborn/Ally;;Whispers in the Well (Uncommon);0
 Bagheera - Guardian Jaguar;Character;Steel;Storyborn/Ally;;Archazia's Island (Legendary);0
 Baloo - Carefree Bear;Character;Emerald;Floodborn/Ally;;Whispers in the Well (Rare);0
@@ -1650,23 +1650,23 @@ Perdita - Determined Mother;Character;Amber/Sapphire;Floodborn/Hero;101 Dalmatia
 Perdita - Devoted Mother;Character;Amber;Storyborn/Hero;101 Dalmatians;Into the Inklands (Legendary);0
 Perdita - On the Lookout;Character;Amber;Storyborn/Hero;101 Dalmatians;Reign of Jafar (Common);0
 Perdita - Playful Mother;Character;Amber/Sapphire;Storyborn/Hero;101 Dalmatians;Archazia's Island (Rare);0
+Performance Review;Action;Amethyst;;Hercules;Whispers in the Well (Uncommon);0
+Perilous Maze - Watery Labyrinth;Location;Emerald;;Lorcana;Azurite Sea (Common);2
+Perla - Nimble Seamstress;Character;Amber/Emerald;Storyborn/Ally;Cinderella;Archazia's Island (Uncommon);1
+Perplexing Signposts;Item;Amethyst;;Alice in Wonderland;Rise of the Floodborn (Rare);0
+Pete - Bad Guy;Character;Emerald;Storyborn/Villain;Mickey Mouse and Friends;Rise of the Floodborn (Rare);0
+Pete - Born to Cheat;Character;Emerald;Dreamborn/Villain/Musketeer;Mickey Mouse and Friends/Mickey, Donald, Goofy: The Three Musketeers;Ursula's Return (Super Rare);0
+Pete - Created by the Vine;Character;Amethyst;Floodborn/Vineling;Mickey Mouse and Friends;Attack of the Vine! (Common);0
+Pete - Freebooter;Character;Ruby;Dreamborn/Villain/Pirate;Mickey Mouse and Friends;Azurite Sea (Rare);1
+Pete - Games Referee;Character;Steel;Dreamborn/Villain;Mickey Mouse and Friends;Shimmering Skies (Uncommon);1
+Pete - Ghost of Christmas Future;Character;Sapphire;Storyborn/Ally/Ghost;Mickey Mouse and Friends/Mickey's Christmas Carol;Winterspell (Rare);2
+Pete - Pastry Chomper;Character;Ruby;Storyborn/Villain;Mickey Mouse and Friends;Shimmering Skies (Common);1
+Pete - Pirate Scoundrel;Character;Emerald;Storyborn/Villain/Pirate;Mickey Mouse and Friends;Archazia's Island (Common);0
+Pete - Rotten Guy;Character;Emerald;Storyborn/Villain/Musketeer;Mickey Mouse and Friends/Mickey, Donald, Goofy: The Three Musketeers;Ursula's Return (Uncommon);1
+Pete - Space Pirate;Character;Emerald/Steel;Floodborn/Villain/Pirate;Mickey Mouse and Friends;Archazia's Island (Super Rare);0
+Pete - Steamboat Rival;Character;Ruby;Storyborn/Villain;Mickey Mouse and Friends;Shimmering Skies (Super Rare);1
+Pete - Wrestling Champ;Character;Steel;Dreamborn/Villain;Mickey Mouse and Friends;Shimmering Skies (Rare);0
 # Traits done through here
-Performance Review;Action;Amethyst;;;Whispers in the Well (Uncommon);0
-Perilous Maze;Location;Emerald;;;Azurite Sea (Common);2
-Perla - Nimble Seamstress;Character;Amber/Emerald;;;Archazia's Island (Uncommon);1
-Perplexing Signposts;Item;Amethyst;;;Rise of the Floodborn (Rare);0
-Pete - Bad Guy;Character;Emerald;;;Rise of the Floodborn (Rare);0
-Pete - Born to Cheat;Character;Emerald;;;Ursula's Return (Super Rare);0
-Pete - Created by the Vine;Character;Amethyst;Floodborn/Vineling;;Attack of the Vine! (Common);0
-Pete - Freebooter;Character;Ruby;;;Azurite Sea (Rare);1
-Pete - Game Referee;Character;Steel;;;Shimmering Skies (Uncommon);1
-Pete - Ghost of Christmas Future;Character;Sapphire;Storyborn/Ally/Ghost;;Winterspell (Rare);2
-Pete - Pastry Chomper;Character;Ruby;;;Shimmering Skies (Common);1
-Pete - Pirate Scoundrel;Character;Emerald;;;Archazia's Island (Common);0
-Pete - Rotten Guy;Character;Emerald;;;Ursula's Return (Uncommon);1
-Pete - Space Pirate;Character;Emerald/Steel;;;Archazia's Island (Super Rare);0
-Pete - Steamboat Rival;Character;Ruby;;;Shimmering Skies (Super Rare);1
-Pete - Wrestling Champ;Character;Steel;;;Shimmering Skies (Rare);0
 Peter Pan & Tinker Bell - Fast Friends;Character;Amethyst/Ruby;Storyborn/Team/Hero/Fairy;;Attack of the Vine! (Super Rare);0
 Peter Pan - Created by the Vine;Character;Emerald;Floodborn/Vineling;;Attack of the Vine! (Rare);0
 Peter Pan - Fearless Fighter;Character;Ruby;;;The First Chapter (Common);0
@@ -2602,11 +2602,17 @@ Héctor Rivera - Street Musician;Character;Ruby;Storyborn/Mentor;Coco;Hyperia Ci
 Ernesto de la Cruz - Idol of Millions;Character;Ruby;Storyborn/Villain;Coco;Hyperia City (Common);0
 Pepita - Imelda's Right Hand;Character;Ruby;Storyborn/Ally;Coco;Hyperia City (Super Rare);0
 Ernesto de la Cruz - Ruthless Musician;Character;Ruby;Storyborn/Villain;Coco;Hyperia City (Rare);0
-# Hyperia City Done through here
-
 Héctor Rivera - Gone to Pieces;Character;Ruby;Storyborn/Mentor;Coco;Hyperia City (Rare);0
-
+Tramp - Quick on His Feet;Character;Ruby;Storyborn/Hero;Lady and the Tramp;Hyperia City (Rare);0
+Meilin Lee - Ecstatic Fan;Character;Ruby;Storyborn/Hero/Red Panda;Turning Red;Hyperia City (Common);0
 Roxanne - Concert Lover;Character;Ruby;Dreamborn/Ally;A Goofy Movie;Hyperia City (Rare);1
+Wasabi - Called into Battle;Character;Ruby;Dreamborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Super Rare);0
+Lady Tremaine - Scornful Snob;Character;Ruby;Storyborn/Villain;Cinderella;Hyperia City (Super Rare);0
+Mulan - Martial Arts Master;Character;Ruby;Dreamborn/Hero/Princess;Mulan;Hyperia City (Legendary);0
+Intimidation Tactics;Action;Ruby;;Gargoyles;Hyperia City (Uncommon);0
+Pushing Boundaries;Action;Ruby;;Big Hero 6;Hyperia City (Uncommon);0
+If She Doesn't Scare You;Action;Ruby;Song;101 Dalmatians;Hyperia City (Uncommon);0
+# Hyperia City Done through here
 
 Land of the Dead - Marigold Bridge;Location;Ruby;;Coco;Hyperia City (Uncommon);0
 Khan Stadium - State of the Art;Location;Ruby;Hyperia City;TaleSpin;Hyperia City (Common);0
