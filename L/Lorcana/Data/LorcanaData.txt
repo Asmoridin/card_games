@@ -137,12 +137,12 @@ Baloo - Fun-Loving Bear;Character;Ruby;Storyborn/Ally;The Jungle Book;Rise of th
 Baloo - Laid-Back Bear;Character;Emerald;Storyborn/Ally;The Jungle Book;Whispers in the Well (Common);0
 Baloo - Ol' Iron Paws;Character;Ruby;Storyborn/Ally;The Jungle Book;Archazia's Island (Legendary);0
 Baloo - von Bruinwald XIII;Character;Amber;Dreamborn/Hero;The Jungle Book/TaleSpin;Into the Inklands (Rare);0
+Bambi - Ethereal Fawn;Character;Amber;Storyborn/Hero/Prince/Whisper;Bambi;Winterspell (Super Rare);0
+Bambi - Little Prince;Character;Amethyst;Storyborn/Hero/Prince;Bambi;Reign of Jafar (Legendary);0
+Bambi - Prince of the Forest;Character;Amethyst;Storyborn/Hero/Prince;Bambi;Reign of Jafar (Common);1
+Banzai - Gluttonous Predator;Character;Emerald;Storyborn/Ally/Hyena;The Lion King;Shimmering Skies (Rare);0
+Banzai - Taunting Hyena;Character;Emerald;Storyborn/Ally/Hyena;The Lion King;Shimmering Skies (Common);0
 # franchises done through here
-Bambi - Ethereal Fawn;Character;Amber;Storyborn/Hero/Prince/Whisper;;Winterspell (Super Rare);0
-Bambi - Little Prince;Character;Amethyst;Storyborn/Hero/Prince;;Reign of Jafar (Legendary);0
-Bambi - Prince of the Forest;Character;Amethyst;Storyborn/Hero/Prince;;Reign of Jafar (Common);1
-Banzai - Gluttonous Predator;Character;Emerald;Storyborn/Ally/Hyena;;Shimmering Skies (Rare);0
-Banzai - Taunting Hyena;Character;Emerald;Storyborn/Ally/Hyena;;Shimmering Skies (Common);0
 Bashful - Adoring Knight;Character;Steel;Dreamborn/Ally/Knight/Seven Dwarfs;;Shimmering Skies (Uncommon);0
 Bashful - Hopeless Romantic;Character;Amber;Storyborn/Ally/Seven Dwarfs;;Rise of the Floodborn (Uncommon);0
 Bashful - Riding the Rails;Character;Amethyst;Storyborn/Ally/Seven Dwarfs;;Wilds Unknown (Common);0
@@ -1680,21 +1680,21 @@ Peter Pan - Searching Far and Wide;Character;Emerald;Dreamborn/Hero;Peter Pan;Wi
 Peter Pan - Shadow Catcher;Character;Amethyst;Storyborn/Hero;Peter Pan;Azurite Sea (Uncommon);0
 Peter Pan - Shadow Finder;Character;Amethyst;Storyborn/Hero;Peter Pan;Ursula's Return (Super Rare);0
 Peter Pan - Vine Duelist;Character;Ruby;Storyborn/Hero;Peter Pan;Attack of the Vine! (Common);0
+Peter Pan's Dagger;Item;Ruby;;Peter Pan;Rise of the Floodborn (Common);0
+Peter Pan's Shadow - Not Sewn On;Character;Amethyst;Storyborn/Ally;Peter Pan;Rise of the Floodborn (Super Rare)/Fabled (Super Rare);0
+Petrify;Action;Amethyst;;Lorcana;Attack of the Vine! (Common);0
+Philoctetes - No‐Nonsense Instructor;Character;Steel;Storyborn/Ally;Hercules;Ursula's Return (Rare)/Fabled (Rare);1
+Philoctetes - Trainer of Heroes;Character;Sapphire;Storyborn/Mentor;Hercules;The First Chapter (Common);0
+Pick a Fight;Action;Steel;;Wreck‐It Ralph;Rise of the Floodborn (Uncommon);0
+Pico - Helpful Toucan;Character;Amethyst;Storyborn/Ally;Encanto;Ursula's Return (Common);3
+Piercing Attack;Action;Emerald;;Lorcana;Attack of the Vine! (Common);0
+Piglet - Cocoa Maker;Character;Sapphire;Floodborn/Ally;Winnie the Pooh;Winterspell (Rare);1
+Piglet - Entranced by Snow;Character;Sapphire;Storyborn/Ally;Winnie the Pooh;Winterspell (Common);0
+Piglet - Hunny Mage Apprentice;Character;Sapphire;Dreamborn/Ally/Sorcerer/Hunny;Winnie the Pooh;Attack of the Vine! (Common);0
+Piglet - Pooh Pirate Captain;Character;Amber;Dreamborn/Hero/Pirate/Captain;Winnie the Pooh;Into the Inklands (Super Rare);0
+Piglet - Sturdy Swordsman;Character;Steel;Dreamborn/Hero;Winnie the Pooh;Ursula's Return (Legendary);0
+Piglet - Very Small Animal;Character;Amber;Storyborn/Ally;Winnie the Pooh;Rise of the Floodborn (Common);0
 # Traits done through here
-Peter Pan's Dagger;Item;Ruby;;;Rise of the Floodborn (Common);0
-Peter Pan's Shadow - Not Sewn On;Character;Amethyst;;;Rise of the Floodborn (Super Rare)/Fabled (Super Rare);0
-Petrify;Action;Amethyst;;;Attack of the Vine! (Common);0
-Philoctetes - No-Nonsense Instructor;Character;Steel;;;Ursula's Return (Rare)/Fabled (Rare);1
-Philoctetes - Trainer of Heroes;Character;Sapphire;;;The First Chapter (Common);0
-Pick a Fight;Action;Steel;;;Rise of the Floodborn (Uncommon);0
-Pico - Helpful Toucan;Character;Amethyst;;;Ursula's Return (Common);3
-Piercing Attack;Action;Emerald;;;Attack of the Vine! (Common);0
-Piglet - Cocoa Maker;Character;Sapphire;Floodborn/Ally;;Winterspell (Rare);1
-Piglet - Entranced by Snow;Character;Sapphire;Storyborn/Ally;;Winterspell (Common);0
-Piglet - Hunny Mage Apprentice;Character;Sapphire;Dreamborn/Ally/Sorcerer/Hunny;;Attack of the Vine! (Common);0
-Piglet - Pooh Pirate Captain;Character;Amber;;;Into the Inklands (Super Rare);0
-Piglet - Sturdy Swordsman;Character;Steel;;;Ursula's Return (Legendary);0
-Piglet - Very Small Animal;Character;Amber;;;Rise of the Floodborn (Common);0
 Pinocchio - On the Run;Character;Amethyst;;;Rise of the Floodborn (Uncommon);2
 Pinocchio - Star Attraction;Character;Amethyst;;;Rise of the Floodborn (Rare);0
 Pinocchio - Strings Attached;Character;Amethyst;;;Reign of Jafar (Legendary);0
@@ -2627,10 +2627,19 @@ Lafayette - All Ears;Character;Sapphire;Storyborn;The Aristocats;Hyperia City (U
 Abigail & Amelia - Gossiping Geese;Character;Sapphire;Storyborn;The Aristocats;Hyperia City (Common);0
 Honey Lemon - Ingenious Researcher;Character;Sapphire;Dreamborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Uncommon);1
 Go Go Tomago - Working Late;Character;Sapphire;Storyborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Uncommon);1
-# Hyperia City Done through here
-
+Madam Mim - Nosy Neighbor;Character;Sapphire;Storyborn/Villain/Sorcerer;The Sword in the Stone;Hyperia City (Common);0
+Lionheart - Cleaning Up the City;Character;Sapphire;Storyborn;Zootopia;Hyperia City (Uncommon);0
+Priscilla - Efficient Clerk;Character;Sapphire;Storyborn/Ally;Zootopia;Hyperia City (Rare);0
 Daisy Duck - Savvy Investor;Character;Sapphire;Dreamborn/Hero;Mickey Mouse and Friends;Hyperia City (Common);1
 Hiro Hamada - Pioneering Inventor;Character;Sapphire;Storyborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Common);1
+Honey Lemon - Endlessly Curious;Character;Sapphire;Storyborn/Super/Hero/Inventor;Big Hero 6;Hyperia City (Common);0
+Thomas O'Malley - Savvy Vagabond;Character;Sapphire;Storyborn/Hero;The Aristocats;Hyperia City (Super Rare);0
+Duchess - Cosmopolitan Cat;Character;Sapphire;Storyborn/Hero;The Aristocats;Hyperia City (Rare);0
+Judy Hopps - Day Camp Instructor;Character;Sapphire;Storyborn/Hero/Detective;Zootopia;Hyperia City (Rare);0
+Minnie Mouse - Urban Visionary;Character;Sapphire;Dreamborn/Hero;Mickey Mouse and Friends;Hyperia City (Super Rare);0
+Ariel - Collector of Oddities;Character;Sapphire;Dreamborn/Hero/Princess;The Little Mermaid;Hyperia City (Legendary);0
+Cinderella - Unintentional Icon;Character;Sapphire;Dreamborn/Hero/Princess;Cinderella;Hyperia City (Super Rare);0
+# Hyperia City Done through here
 
 Clarabelle - Out for a Stroll;Character;Sapphire;Storyborn/Ally;Mickey Mouse and Friends;Hyperia City (Uncommon);1
 Doug - Lying in Wait;Character;Sapphire;Storyborn/Ally;Zootopia;Hyperia City (Common);1
