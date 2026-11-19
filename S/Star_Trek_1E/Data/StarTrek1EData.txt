@@ -2187,8 +2187,14 @@ Space;Mission;Space;Q Continuum;360;;4;0 # needs errata
 Spacedock;Event;;Premiere/Virtual Promos;2139,6268,6631,6994,7512,7916,8280,8368;;4;0 # Needs errata
 Spacedoor;Doorway;;Official Tournament Sealed Deck/Virtual Promos;2140,2141,4086,4087,5895,5899;;4;0 # needs errata
 Spatial Rift;Dilemma;Dual;Voyager;2143;;4;4
+Sphere Encounter;Incident;;Enhanced First Contact;2144;;4;0
+Spiral-Wave Disruptor;Tactic;;Blaze of Glory/BaH!;2145,3728;;10;0
+Spock;Personnel;Federation;Introductory 2-Player Game/Virtual Promos;2146,3403,4061;;2;0
+Spot;Personnel;Neutral;Fajo Collection;2147;;2;0
+St. John Talbot;Personnel;Federation;The Motion Pictures;2148,7293;;2;0
 Stadi;Personnel;Federation;Voyager;361;;4;0
 Starfleet Phaser Pistol;Equipment;;Enterprise Collection/Virtual Promos;2149,3685,4805,5452;;4;0
+Starfleet Type I Phaser;Equipment;;Blaze of Glory/Trouble with Tribbles Starter Decks;2150,5270;;4;0
 Starfleet Type II Phaser;Equipment;;Premiere/Voyager;2151,2152,6269,6632,6995,7917,8281;;4;0 # Needs errata
 Starfleet Type III Phaser Rifle;Equipment;;First Contact/Voyager;2153,2154;;4;0 # have 2 VOY
 Starship Constitution (The Motion Pictures);Ship;Federation;The Motion Pictures;363,7203;;4;0
@@ -2535,9 +2541,7 @@ Zetal;Personnel;Klingon;Blaze of Glory;472;;4;0
 Zibalian Transport;Ship;Non-Aligned;Premiere;473,6035,6398,6761,7683,8047;;4;0
 Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 
-# Done through card 2140
-#2141-2143
-#2149
+# Done through card 2150
 #2151-2154
 #2159
 #2163-2165
@@ -2626,7 +2630,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3104-3113
 #3115
 #3117
-#3404-3405
+#3403-3405
 #3407
 #3418
 #3438
@@ -2653,7 +2657,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #3685
 #3688-3696
 #3698-3700
-#3702-3727
+#3702-3728
 #3730-3733
 #3744
 #3753
@@ -2672,8 +2676,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #4039-4041
 #4046-4047
 #4049-4056
-#4058-4060
-#4062-4063
+#4058-4063
 #4066-4073
 #4074
 #4078-4084
@@ -2759,8 +2762,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #5173-5179
 #5190
 #5209
-#5248-5269
-#5271-5273
+#5248-5273
 #5285
 #5288
 #5295
@@ -2851,7 +2853,7 @@ Zyree;Personnel;Dominion;The Dominion;474,4427;;4;0
 #7159-7161
 #7164-7166
 #7168-7180
-#7182-7292
+#7182-7293
 #7296
 #7298
 #7301
