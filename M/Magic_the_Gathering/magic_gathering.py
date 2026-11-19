@@ -551,9 +551,9 @@ commander_cat_fh.close()
 card_corrections = get_corrections(card_corrections_fh.readlines())
 
 SET_CHECK = 0
-CHECK_SET = 'Avacyn Restored'
-CHECK_AMOUNT = 244
-SET_CHECK += 10 # Extra basic lands
+CHECK_SET = 'Planechase 2012 Edition'
+CHECK_AMOUNT = 197
+SET_CHECK += 20 # Extra basic lands
 PRINT_SET = False
 
 TOTAL_OWN = 0

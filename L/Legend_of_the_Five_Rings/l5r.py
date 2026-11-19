@@ -32,7 +32,7 @@ PREGAME_TYPES = ['Stronghold', 'Sensei', 'Wind']
 
 VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling', 'Scorpion', 'Crab', 'Crane', 'Dragon', 'Mantis',
     'Phoenix', 'Spider', 'Naga', 'Unaligned', 'Unicorn', 'Brotherhood of Shinsei', "Toturi's Army",
-    'Ninja', 'Spirit', ]
+    'Ninja', 'Spirit', 'Minor Clan Alliance', 'Hare', ]
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
@@ -50,6 +50,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     "Thunderous Acclaim", 'The Imperial Gift 1', 'Siege: Clan War', 'Shattered Empire',
     "Rise of Jigoku", "Road to Ruin", "Rise of Otosan Uchi", "Gathering Storms",
     "Chaos Reigns I", 'Gates of Tengoku', 'Chaos Reigns II', 'Chaos Reigns III',
+    'Three Dynasties',
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -71,8 +72,8 @@ VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (G
     'Rain of Blood (Diamond)', 'Age of Enlightenment (Lotus)', 'Race for the Throne (Samurai)',
     'Destroyer War (Celestial)', 'Age of Conquest (Emperor)',
     "A Brother's Destiny (Ivory Edition)", "A Brother's Destiny (Twenty Festivals)",
-    'War of the Seals (Onyx Edition)', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', 
-    '20F Extended', 'Jade Extended', 'Jade Open', 'Legacy']
+    'War of the Seals (Onyx Edition)', 'Shattered Empire', 'Three Dynasties', 'Modern', 'BigDeck',
+    'Ivory Extended', '20F Extended', 'Jade Extended', 'Jade Open', 'Legacy']
 
 FORMAT_MAP = { # Maps a format name to its deck directory
     'Clan Wars (Imperial)':'01 - Imperial',
@@ -89,6 +90,7 @@ FORMAT_MAP = { # Maps a format name to its deck directory
     "A Brother's Destiny (Twenty Festivals)":'10 - Twenty Festivals',
     'War of the Seals (Onyx Edition)':'11 - Onyx Edition',
     'Shattered Empire':'12 - Shattered Empire',
+    'Three Dynasties':'13 - Three Dynasties',
     'Modern':'20 - Modern',
     'BigDeck':'21 - BigDeck',
     'Ivory Extended':'22 - Ivory Extended',
@@ -560,6 +562,10 @@ if __name__=="__main__":
     # 12 Shattered Empire
     shattered_dict = process_formats("Shattered Empire", card_lines, name_fix_lines)
     handle_output("Shattered Empire", shattered_dict, out_file_h)
+
+    # 13 Three Dynasties
+    three_dict = process_formats("Three Dynasties", card_lines, name_fix_lines)
+    handle_output("Three Dynasties", three_dict, out_file_h)
 
     # 20 Modern
     modern_dict = process_formats("Modern", card_lines, name_fix_lines)
