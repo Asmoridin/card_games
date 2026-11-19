@@ -174,7 +174,7 @@ Bail Organa, Responding to Catastrophe;SEC-198-U;Ground Unit;Republic/Official;Y
 Baktoid Spider Droid;TWI-117-C;Ground Unit;Separatist/Droid/Walker;G;2
 Bamboozle;SOR-199-U;Event;Trick;W/Y;3 # 1 foil
 Bank Job Fugitives;LAW-262-C;Ground Unit;Underworld;N;1 # 1 hyperspace
-Banking Clan Shuttle;LOF-181-C;Space Unit;Separatist/Vehicle/Transport;Y/B;3
+Banking Clan Shuttle;LOF-181-C/IC27-141-C;Space Unit;Separatist/Vehicle/Transport;Y/B;3
 Banking Clan Warship;HMW-143-C;Space Unit;Separatist/Vehicle/Capital Ship;G;0
 Banshee, Crippling Command;JTL-037-U;Space Unit;Separatist/Vehicle/Fighter;U/B;1
 Bardottan Ornithopter;SEC-062-C;Space Unit;Fringe/Vehicle/Transport;U;3
@@ -213,7 +213,7 @@ Benthic “Two Tubes”, The War Has Just Begun;LAW-057-R;Ground Unit;Underworld
 Bestial Bond;HMW-038-U;Upgrade;Innate;U/G;0
 Betrayed Trust;LAW-130-U;Event;Trick;U;0
 Bib Fortuna, Die Wanna Wanga?;LAW-134-R;Ground Unit;Underworld/Twi'lek;G/B;0
-Bib Fortuna, Jabba's Majordomo;SOR-177-U;Ground Unit;Underworld/Twi'lek;B/Y;3
+Bib Fortuna, Jabba's Majordomo;SOR-177-U/IC27-139-U;Ground Unit;Underworld/Twi'lek;B/Y;3
 Biggs Darklighter, They'll Never Stop Us;JTL-150-U;Ground Unit;Rebel/Pilot;R/W;1
 Bioweapons Lab;HMW-027-C;Base;Naboo;R;0
 Bith Brute;LAW-049-C;Ground Unit;Underworld;U/R;0
@@ -595,7 +595,7 @@ Depa Billaba, A Higher Purpose;LOF-199-U;Ground Unit;Force/Jedi/Republic;Y/W;3 #
 Deployed Droideka;TS26-77-C;Ground Unit;Separatist/Droid;Y;3
 Desert Sharpshooter;ASH-170-C;Ground Unit;Twi'lek/Bounty Hunter;R;1
 Desperado Freighter;SHD-152-C;Space Unit;Underworld/Vehicle/Transport;R/W;3 # 2 foil, 1 hyperspace
-Desperate Attack;SHD-179-C;Event;Tactic;R;3
+Desperate Attack;SHD-179-C/IC27-134-U;Event;Tactic;R;3
 Desperate Commando;JTL-060-C;Ground Unit;Resistance/Trooper;U;2
 Desperate Nantex;HMW-178-C;Space Unit;Separatist/Vehicle/Fighter;R;1
 Detention Block Rescue;SHD-180-C;Event;Gambit;R;3
@@ -1119,7 +1119,7 @@ Infantry of the 212th;TWI-061-C;Ground Unit;Republic/Clone/Trooper;U;2
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;Imperial/Vehicle/Fighter;U/B;3
 Inferno Squad, We Can Grieve Later;HMW-202-U;Ground Unit;Imperial/Trooper;Y/B;0
 Infiltrating Demolisher;TWI-182-C;Ground Unit;Separatist/Droid;B/Y;2
-Infiltrator's Skill;SOR-166-C;Upgrade;Learned;R;3 # 1 foil
+Infiltrator's Skill;SOR-166-C/IC27-133-C;Upgrade;Learned;R;3 # 1 foil
 Infused Brawler;LOF-156-U;Ground Unit;Force/Night;R;3
 Inner Rim Coalition;SEC-154-C;Ground Unit;Republic/Official;R/W;3
 Inquisitor's Lightsaber;LOF-090-C;Upgrade;Item/Weapon/Lightsaber;G/B;3
@@ -1128,17 +1128,17 @@ Inspired Recruit;LAW-180-C/ASH-152-C;Ground Unit;Rebel/Trooper;R/W;1
 Inspiring Mentor;SHD-104-R/IC27-085-U;Upgrade;Innate;G/W;0
 Inspiring Senator;SEC-261-C;Ground Unit;Republic/Official;N;3 # 1 hyperspace
 Inspiring Veteran;ASH-205-C;Ground Unit;Resistance/Trooper;Y/W;0
-# Done through here
 Insurgent Camp;HMW-216-U;Upgrade;Fortification;Y/W;0
-Insurgent Saboteurs;JTL-168-C;Ground Unit;R;3
+Insurgent Saboteurs;JTL-168-C;Ground Unit;Rebel/Trooper;R;3
 Intelligence Agency;HMW-205-U;Upgrade;Fortification;Y/B;0
-Interceptor Ace;JTL-034-C;Space Unit;U/B;3 # 1 foil
+Interceptor Ace;JTL-034-C;Space Unit;Imperial/Pilot;U/B;3 # 1 foil
 Interrogation Droid;LAW-075-U;Ground Unit;Imperial/Droid;R/Y/B;1
 Intimidation;ASH-185-C;Event;Innate;R;0
 Intimidator, Citadel Overwatch;LAW-140-L;Space Unit;Imperial/Vehicle/Capital Ship;G/B;1
-Invasion Control Ship;LOF-169-R;Space Unit;R;0
+Invasion Control Ship;LOF-169-R;Space Unit;Separatist/Vehicle/Capital Ship;R;0
 Invasion Lander;HMW-111-C;Space Unit;Separatist/Vehicle/Transport;G/B;0
-Invincible, Naval Adversary;JTL-191-L;Space Unit;Y/B;1
+Invincible, Naval Adversary;JTL-191-L;Space Unit;Separatist/Vehicle/Capital Ship;Y/B;1
+# Done through here
 Ion Cannon;IBH-016-S/IBH-027-S;Ground Unit;Y;0
 ISB Agent;SOR-176-C/SEC-184-C;Ground Unit;Y/B;3
 ISB Shuttle;SEC-083-C;Space Unit;G/B;3
@@ -1236,7 +1236,7 @@ Kimogila Heavy Fighter;JTL-222-C;Space Unit;Y;2
 King Grakchawwaa, King of Kashyyyk;HMW-123-R;Ground Unit;Wookiee/Official;G/W;0
 King Katuunko, Great King of Toydaria;TS26-16-R;Ground Unit;Official;U/G;1
 Kino Loy, You Answer to Me;SEC-114-U;Ground Unit;G;3 # 1 hyperspace, 1 foil
-Kintan Intimidator;SHD-183-C;Ground Unit;Y/B;3
+Kintan Intimidator;SHD-183-C/IC27-137-C;Ground Unit;Underworld;Y/B;3
 Kit Fisto's Aethersprite, Good Hunting;LOF-147-R;Space Unit;R/W;0
 Kit Fisto, Focused Jedi Master;LOF-011-C;Leader;R/W;1
 Kit Fisto, The Smiling Jedi;TWI-165-R;Ground Unit;R;0
@@ -1661,7 +1661,7 @@ Populist Advisor;SEC-041-U;Ground Unit;U/W;1
 Populist Champion;SEC-044-C;Ground Unit;U/W;3 # 1 foil
 Porg;LOF-254-C;Ground Unit;N;3
 Pounce;LOF-224-C/HMW-239-C;Event;Y;3 # 1 foil
-Power Failure;SOR-170-U;Event;R;1
+Power Failure;SOR-170-U/IC27-135-U;Event;Tactic;R;1
 Power from Pain;JTL-042-U;Event;U/B;0
 Power of the Dark Side;SOR-041-U;Event;U/B;2
 Praetorian Elite;ASH-145-C;Ground Unit;Imperial;R/B;1
@@ -1949,7 +1949,7 @@ Senator Chuchi, Voice for the Voiceless;SEC-045-U;Ground Unit;U/W;2
 Senator's Aide;SEC-108-C;Ground Unit;G;3 # 1 foil
 Senatorial Corvette;TWI-148-C;Space Unit;R/W;3 # 1 hyperspace, 1 foil
 Sense Through the Force;ASH-235-R;Event;Force;Y;0
-Separatist Commando;TWI-180-S;Ground Unit;B/Y;3
+Separatist Commando;TWI-180-S/IC27-140-U;Ground Unit;Separatist/Droid/Trooper;B/Y;3
 Separatist Council, Quarrelsome Holdouts;TS26-49-R;Ground Unit;Separatist/Official;G/B;1
 Separatist Harbinger;HMW-244-C;Space Unit;Separatist/Vehicle/Transport;B;0
 Separatist Super Tank;TWI-087-C;Ground Unit;G/B;3 # 1 foil
@@ -2563,17 +2563,10 @@ Kanan Jarrus, Sometimes I Hate Being Right;IC27-121-U;Ground Unit;Force/Jedi/Reb
 # IC27-128 missing
 # IC27-130 missing
 # IC27-132 missing
-# IC27-133 missing
-# IC27-134 missing
-# IC27-135 missing
-# IC27-137 missing
-# IC27-138 missing
-# IC27-139 missing
-# IC27-140 missing
-# IC27-141 missing
-# IC27-142 missing
+Banshee, Scream Machine;IC27-138-R;Space Unit;Separatist/Vehicle/Transport;Y/B;0
+Greedo, Big-Timer;IC27-142-R;Ground Unit;Underworld/Bounty Hunter;Y/B;0
 Wat Tambor, Warped Warbling;IC27-143-U;Ground Unit;Separatist/Official;Y/B;0
-# IC27-144 missing
+Jango Fett, Straight Shooter;IC27-144-R;Ground Unit;Separatist/Bounty Hunter;Y/B;0
 Poggle the Lesser, Secret Designs;IC27-145-R;Ground Unit;Separatist/Official;Y/B;0
 Boba Fett, Compensated If He Dies;IC27-146-R;Ground Unit;Underworld/Bounty Hunter;Y/B;0
 Asajj Ventress, Death From Above;IC27-147-L;Ground Unit;Force/Separatist/Sith;Y/B;0
