@@ -204,7 +204,7 @@ Beast Lair;HMW-147-R;Upgrade;Fortification;G;0
 Beguile;SEC-233-C;Event;Trick;Y;3 # 1 foil
 Beilert Valance, Target: Vader;LAW-051-R;Ground Unit;Underworld/Bounty Hunter;U/R;0
 Beloved Orator;SEC-097-C;Ground Unit;New Republic/Official;G/W;3 # 1 hyperfoil
-Ben Kenobi, Don't Be Afraid;HMW-261-U;Ground Unit;Force/Fringe/Jedi;W;0
+Ben Kenobi, Don't Be Afraid;HMW-261-U;Ground Unit;Force/Fringe/Jedi;W;1 # 1 hyperfoil
 Ben Solo, Facing the Light;LAW-185-L;Ground Unit;Force;R/W;0
 Bendu, Do You Fear the Storm?;LOF-170-L;Ground Unit;Force/Creature;R;0
 Bendu, The One In The Middle;SOR-056-R;Ground Unit;Force/Creature;U/U;2 # 1 foil
@@ -269,7 +269,7 @@ Boonta Eve Flagbearer;LAW-112-U;Ground Unit;Fringe;U;0
 BoShek, Charismatic Smuggler;JTL-215-U;Ground Unit;Fringe/Pilot;Y;3
 Boss Lyonie, Hypnotized;HMW-057-U;Ground Unit;Gungan/Official;Y/U;0
 Boss Nass, Otoh Gunga Boss;HMW-077-R;Ground Unit;Gungan/Official;U/W;0
-Bossk, Cruel Hunter;HMW-015-C;Leader;Underworld/Bounty Hunter;Y/B;0
+Bossk, Cruel Hunter;HMW-015-C;Leader;Underworld/Bounty Hunter;Y/B;1
 Bossk, Deadly Stalker;SOR-182-U;Ground Unit;Underworld/Bounty Hunter;B/Y;3
 Bossk, Hunt By Instinct;JTL-187-S;Ground Unit;Underworld/Bounty Hunter/Pilot;Y/B;3
 Bossk, Hunting His Prey;SHD-010-C;Leader;Underworld/Bounty Hunter;R/B;1 # 1 showcase
@@ -287,7 +287,7 @@ Breach;HMW-114-R;Event;Tactic;G/B;0
 Breaking In;TWI-224-C/IC27-176-C;Event;Tactic;Y;3 # 1 foil
 Bright Hope, Narrow Escape;IBH-014-S/IBH-026-S/IC27-080-S;Space Unit;Rebel/Vehicle/Transport;G/W;0
 Bright Hope, The Last Transport;SOR-099-U;Space Unit;Rebel/Vehicle/Transport;G/W;3
-Bright Tree Village;HMW-023-C;Base;Endor;G;0
+Bright Tree Village;HMW-023-C;Base;Endor;G;1
 Broken Horn, Vizago's Pride;LAW-083-U;Space Unit;Underworld/Vehicle/Transport;R/Y;1
 Brothers;TS26-59-R;Event;Innate;G;1
 Brutal Traditions;SHD-038-U;Upgrade;Learned;U/B;3 # 1 foil
@@ -381,7 +381,7 @@ Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;Underworld/Wookiee;W/Y;3
 Chewbacca, Mighty Rescuer;LAW-034-L;Ground Unit;Rebel/Wookiee;U/G/W;0
 Chewbacca, Pykesbane;SHD-050-R;Ground Unit;Underworld/Wookiee;U/W;1
 Chewbacca, Relentless Rebel;HMW-009-S;Leader;Rebel/Wookiee;G/W;1
-Chewbacca, Resourceful Wookiee;HMW-117-R;Ground Unit;Wookiee;G/W;0
+Chewbacca, Resourceful Wookiee;HMW-117-R;Ground Unit;Wookiee;G/W;1
 Chewbacca, Rrruuuurrr;IBH-003-S/IBH-046-S;Ground Unit;Rebel/Wookiee;Y/W;0
 Chewbacca, Walking Carpet;SOR-003-C;Leader;Underworld/Wookiee;U/W;1 # 1 hyperspace
 Chief Chirpa, Defiant Elder;HMW-164-R;Ground Unit;Ewok;R/W;1
@@ -656,7 +656,7 @@ Dornean Gunship;JTL-116-U;Space Unit;Rebel/Vehicle/Capital Ship;G;1
 Dorsal Turret;JTL-120-C;Upgrade;Modification/Weapon;G;3 # 1 foil
 Double-Cross;LAW-170-R;Event;Trick;G;0
 Dragon's Might;HMW-102-C;Event;Innate;U;1
-Dragonboat Freighter;HMW-231-C;Space Unit;Underworld/Vehicle/Transport;Y;0
+Dragonboat Freighter;HMW-231-C;Space Unit;Underworld/Vehicle/Transport;Y;1
 DragonSnake Bog;ASH-024-C;Base;Dagobah;R;0
 Drain Essence;LOF-041-C;Event;Force;U/B;3 # 1 foil
 Drengir Spawn;LOF-086-R;Ground Unit;Creature;G/B;1
@@ -1006,7 +1006,7 @@ Hera Syndulla, Spectre Two;SOR-008-R;Leader;Rebel/Twi'lek/Spectre;G/W;1
 Hera Syndulla, We've Lost Enough;JTL-045-U;Ground Unit;Rebel/Twi'lek/Spectre/Pilot;U/W;2 # 1 hyperspace
 Heroes on Both Sides;TWI-249-C;Event;Republic/Separatist;W;3 # 1 hyperspace
 Heroic ARC-170;SEC-254-C;Space Unit;Republic/Vehicle/Fighter;W;3 # 2 hyperspace
-Heroic Bravery;HMW-264-C;Upgrade;Innate;W;0
+Heroic Bravery;HMW-264-C;Upgrade;Innate;W;1
 Heroic Purrgil;ASH-207-C;Space Unit;Creature;Y/W;0
 Heroic Renegade;SHD-146-C;Ground Unit;Underworld;R/W;3
 Heroic Resolve;SHD-155-R;Upgrade;Innate;R/W;0
@@ -1095,7 +1095,7 @@ Imperial Interceptor;SOR-132-C;Space Unit;Imperial/Vehicle/Fighter;R/B;3 # 1 foi
 Imperial Loyalist;ASH-239-C;Ground Unit;Imperial;B;0
 Imperial Occupier;SEC-132-C;Ground Unit;Imperial/Trooper;R/B;3
 Imperial Prison Complex;SEC-023-C;Base;Narkina 5;R;1 # 1 hyperspace
-Imperial Venator;HMW-069-C;Space Unit;Imperial/Vehicle/Capital Ship;U/B;1 # 1 hyperspace
+Imperial Venator;HMW-069-C;Space Unit;Imperial/Vehicle/Capital Ship;U/B;2 # 1 hyperspace
 Implicate;SEC-231-R;Event;Trick;Y;1
 Imposing Scout Walker;ASH-176-C;Ground Unit;Imperial/Vehicle/Walker;R;0
 Impossible Escape;LOF-218-U;Event;Force;Y;3
@@ -1503,7 +1503,7 @@ New Tactics;HMW-218-C;Event;Learned/Tactic;Y/W;0
 Nien Nunb, Loyal Co-Pilot;JTL-093-R;Ground Unit;G/W;2
 Night Wind Assailants;LAW-251-C;Ground Unit;Underworld;B;0
 Nightbrother, Maul's Gauntlet;HMW-204-L;Space Unit;Vehicle/Transport;Y/B;0
-Nightfall;HMW-193-C;Event;Disaster;R;0
+Nightfall;HMW-193-C;Event;Disaster;R;1
 Nightsister Lair;LOF-020-C;Base;U;1
 Nightsister Prodigy;HMW-183-C;Ground Unit;Force/Night;R;0
 Nightsister Warrior;LOF-059-C;Ground Unit;U;3
@@ -1821,7 +1821,7 @@ Resistance Blue Squadron;JTL-102-C;Space Unit;G/W;2
 Resistance Headquarters;JTL-022-C;Base;G;1 # 1 hyperspace
 Resistance X-Wing;JTL-247-C;Space Unit;W;3 # 1 hyperfoil
 Resolute, Under Anakin's Command;TWI-151-L;Space Unit;R/W;0
-Resonate;HMW-098-U;Upgrade;Innate;U;0
+Resonate;HMW-098-U;Upgrade;Innate;U;1
 Resourceful Pursuers;SHD-218-C;Ground Unit;Y;3 # 1 foil
 Restock;SOR-252-C;Event;N;3
 Restore Freedom;SEC-257-R;Event;W;0
@@ -2013,7 +2013,7 @@ Snowtrooper Vanguard;IBH-057-S/IBH-080-S/IBH-096-S;Ground Unit;U/B;0
 Snowtrooper;IBH-063-S/IBH-077-S/IBH-087-S;Ground Unit;R/B;0
 Snub Fighter Squadron;ASH-194-U;Space Unit;Underworld/Vehicle/Fighter;Y/B;0
 Soaring Can-Cell;HMW-131-C;Ground Unit;Creature;G;1
-Sol, Compassionate Guardian;HMW-210-U;Ground Unit;Force/Jedi;Y/W;1
+Sol, Compassionate Guardian;HMW-210-U;Ground Unit;Force/Jedi;Y/W;2 # 1 hyperspace
 Soldier of the 501st;TWI-141-C;Ground Unit;R/W;3
 Son-tuul Berserkers;LAW-177-C;Ground Unit;Underworld/Trooper;R/B;1
 Sorcerers of Tund;LOF-214-C;Ground Unit;Y;3 # 1 hyperspace
@@ -2047,7 +2047,7 @@ Stolen Landspeeder;SHD-161-R;Ground Unit;R;1
 Stolen Starpath Unit;SEC-210-R;Upgrade;Y/W;1
 Storm Raider;LAW-172-C;Ground Unit;Underworld/Nihil;R/B;0
 Stormchaser;HMW-180-U;Ground Unit;Tusken;R;0
-Stormtrooper Patrol;HMW-107-U;Ground Unit;Imperial/Trooper;G/B;0
+Stormtrooper Patrol;HMW-107-U;Ground Unit;Imperial/Trooper;G/B;1
 Strafing Gunship;SOR-212-R;Space Unit;Y;1
 Strangled Cliffs;LOF-027-C;Base;R;1 # 1 hyperspace
 Strategic Acumen;TWI-120-C;Upgrade;G;3 # 1 hyperfoil
@@ -2263,7 +2263,7 @@ Trench Defender;IBH-008-S/IBH-029-S/IBH-050-S;Ground Unit;G/W;0
 Trench Run;JTL-156-R;Event;R/W;1
 Trexler Armored Marauder;ASH-082-C;Ground Unit;Imperial/Vehicle/Tank;U;0
 Tri-Droid Suppressor;TWI-217-C;Ground Unit;Y;3
-Tribubble Bongo Sub;HMW-213-C;Ground Unit;Vehicle;Y/W;0
+Tribubble Bongo Sub;HMW-213-C;Ground Unit;Vehicle;Y/W;1 # 1 hyperspace
 Tribunal, Grave of the 332nd;TS26-36-R;Space Unit;Republic/Vehicle/Capital Ship;Y/U;1
 Trident Assault Ship;LOF-120-C;Space Unit;G;3
 Triple Dark Raid;SHD-194-R;Event;Y/B;0
@@ -2274,7 +2274,7 @@ Turbolaser Salvo;JTL-131-L;Event;G;1
 Turning the Tide;ASH-138-C;Event;Tactic;G;0
 Tusken Bantha Rider;HMW-181-C;Ground Unit;Creature/Tusken;R;0
 Tusken Camp;HMW-026-C;Base;Tatooine;G;0
-Tusken Raider;HMW-224-C;Ground Unit;Tusken;Y;1
+Tusken Raider;HMW-224-C;Ground Unit;Tusken;Y;2
 Tusken Tracker;LOF-209-C;Ground Unit;Y;3
 Twi'lek Kalikori;HMW-265-R;Upgrade;Item;W;0
 Twice the Pride;TWI-155-U;Upgrade;R;1
@@ -2328,7 +2328,7 @@ Vanquish;SOR-078-C/TWI-077-C;Event;U;3 # 1 hyperspace
 Veiled Strength;LAW-128-U;Upgrade;Innate;U;0
 Vel Sartha, Aldhani Insurgent;LAW-006-C;Leader;Rebel;U/W;0
 Vel Sartha, One Path, One Choice;SEC-224-U;Ground Unit;Y;3
-Venomous Wyyyshokk;HMW-087-C;Ground Unit;Creature;U;0
+Venomous Wyyyshokk;HMW-087-C;Ground Unit;Creature;U;1
 Verdant Fortress;HMW-126-U;Upgrade;Fortification;G/W;0
 Vergence Temple;LOF-019-R;Base;U;1
 Vermillion, Qi'ra's Auction House;LAW-215-R;Space Unit;Underworld/Vehicle/Capital Ship;Y/B;0
@@ -2346,7 +2346,7 @@ Vigilant Pursuit Craft;SHD-065-C;Space Unit;U;3
 Vigilant Scouts;LAW-120-C;Ground Unit;Underworld/Bounty Hunter;U;0
 Village Protectors;SHD-043-C;Ground Unit;U/W;3
 Village Tender;LOF-107-C;Ground Unit;G;3
-Village Troublemaker;HMW-176-C;Ground Unit;Ewok;R;2
+Village Troublemaker;HMW-176-C;Ground Unit;Ewok;R;3
 Villainous Ambition;HMW-252-C;Upgrade;Innate;B;0
 Viper Probe Droid;SOR-228-C/SEC-239-C;Ground Unit;B;3 # 1 foil
 Volley Fire;HMW-192-U;Event;Tactic;R;0
@@ -2410,7 +2410,7 @@ Wookiee Rangers;HMW-142-C;Ground Unit;Wookiee;G;0
 Wookiee Warrior;SHD-249-C;Ground Unit;W;3 # 1 foil
 Wrecker, Boom!;SHD-154-R;Ground Unit;R/W;3
 Wrecker, Wrecking the Empire;HMW-263-U;Ground Unit;Clone;W;0
-Wroshyr Rebel;HMW-133-C;Ground Unit;Rebel/Wookiee;G;1
+Wroshyr Rebel;HMW-133-C;Ground Unit;Rebel/Wookiee;G;2
 Wroshyr Tree Tender;SHD-061-C;Ground Unit;U;3
 X-34 Landspeeder;JTL-214-C;Ground Unit;Y;2
 Xanadu Blood, Cad Bane's Reward;SHD-191-R;Space Unit;Y/B;1
