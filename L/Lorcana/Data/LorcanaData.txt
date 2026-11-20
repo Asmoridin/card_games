@@ -154,14 +154,14 @@ Basil - Practiced Detective;Character;Sapphire;Storyborn/Hero/Detective;The Grea
 Basil - Secret Informer;Character;Emerald;Dreamborn/Hero/Detective;The Great Mouse Detective;Archazia's Island (Rare);0
 Basil - Tenacious Mouse;Character;Steel;Dreamborn/Hero/Detective;The Great Mouse Detective;Whispers in the Well (Common);0
 Basil - Undercover Detective;Character;Emerald;Dreamborn/Hero/Detective;The Great Mouse Detective;Reign of Jafar (Rare);1
+Basil's Magnifying Glass;Item;Sapphire;;The Great Mouse Detective;Shimmering Skies (Rare);1
+Battering Ram;Item;Emerald;;Lorcana;Winterspell (Rare);0
+Baymax - Armored Companion;Character;Sapphire;Storyborn/Hero/Robot;Big Hero 6;Azurite Sea (Legendary);0
+Baymax - Giant Robot;Character;Emerald/Sapphire;Floodborn/Hero/Robot;Big Hero 6;Archazia's Island (Uncommon);0
+Baymax - Low Battery;Character;Emerald;Storyborn/Hero/Robot;Big Hero 6;Archazia's Island (Common);1
+Baymax - Personal Healthcare Companion;Character;Sapphire;Storyborn/Hero/Robot;Big Hero 6;Azurite Sea (Rare);1
+Baymax - Upgraded Robot;Character;Sapphire;Storyborn/Hero/Robot;Big Hero 6;Archazia's Island (Rare);0
 # franchises done through here
-Basil's Magnifying Glass;Item;Sapphire;;;Shimmering Skies (Rare);1
-Battering Ram;Item;Emerald;;;Winterspell (Rare);0
-Baymax - Armored Companion;Character;Sapphire;Storyborn/Hero/Robot;;Azurite Sea (Legendary);0
-Baymax - Giant Robot;Character;Emerald/Sapphire;Floodborn/Hero/Robot;;Archazia's Island (Uncommon);0
-Baymax - Low Battery;Character;Emerald;Storyborn/Hero/Robot;;Archazia's Island (Common);1
-Baymax - Personal Healthcare Companion;Character;Sapphire;Storyborn/Hero/Robot;;Azurite Sea (Rare);1
-Baymax - Upgraded Robot;Character;Sapphire;Storyborn/Hero/Robot;;Archazia's Island (Rare);0
 Baymax's Charging Station;Item;Sapphire;;;Archazia's Island (Common);1
 Baymax's Healthcare Chip;Item;Sapphire;;;Azurite Sea (Common);0
 Be King Undisputed;Action;Ruby;Song;;Ursula's Return (Rare)/Fabled (Uncommon);3
@@ -1704,18 +1704,18 @@ Plasma Blaster;Item;Steel;;Lilo & Stitch;The First Chapter (Rare);1
 Plate Armor;Item;Steel;;The Sword in the Stone;Shimmering Skies (Rare);0
 Pleakley - Arctic Naturalist;Character;Amber;Dreamborn/Ally/Alien;Lilo & Stitch;Winterspell (Uncommon);0
 Pleakley - Scientific Expert;Character;Sapphire;Storyborn/Ally/Alien;Lilo & Stitch;Azurite Sea (Uncommon);0
+Plunger Crossbow;Item;Steel;;Chip 'n' Dale Rescue Rangers;Wilds Unknown (Common);0
+Pluto - Clever Cluefinder;Character;Sapphire;Dreamborn/Ally;Mickey Mouse and Friends;Whispers in the Well (Uncommon);0
+Pluto - Determined Defender;Character;Amber;Floodborn/Ally;Mickey Mouse and Friends;Into the Inklands (Rare)/Fabled (Rare);0
+Pluto - Friendly Pooch;Character;Amber;Storyborn/Ally;Mickey Mouse and Friends;Into the Inklands (Uncommon)/Fabled (Common);1
+Pluto - Guard Dog;Character;Steel;Storyborn/Ally;Mickey Mouse and Friends;Azurite Sea (Uncommon);2
+Pluto - Mickey's Clever Friend;Character;Sapphire;Dreamborn/Ally;Mickey Mouse and Friends;Into the Inklands (Common);0
+Pluto - Rescue Dog;Character;Amber;Storyborn/Ally;Mickey Mouse and Friends;Ursula's Return (Uncommon)/Fabled (Common);4
+Pluto - Steel Champion;Character;Steel;Dreamborn/Ally;Mickey Mouse and Friends;Whispers in the Well (Rare);0
+Pluto - Suspicious Sentry;Character;Sapphire;Dreamborn/Ally;Mickey Mouse and Friends;Attack of the Vine! (Common);0
+Pluto - Tried and True;Character;Amber/Steel;Storyborn/Ally;Mickey Mouse and Friends;Reign of Jafar (Uncommon);0
+Pluto - Vigilant Traveler;Character;Amber;Dreamborn/Ally;Mickey Mouse and Friends;Wilds Unknown (Uncommon);0
 # Traits done through here
-Plunger Crossbow;Item;Steel;Song;;Wilds Unknown (Common);0
-Pluto - Clever Cluefinder;Character;Sapphire;;;Whispers in the Well (Uncommon);0
-Pluto - Determined Defender;Character;Amber;;;Into the Inklands (Rare)/Fabled (Rare);0
-Pluto - Friendly Pooch;Character;Amber;;;Into the Inklands (Uncommon)/Fabled (Common);1
-Pluto - Guard Dog;Character;Steel;;;Azurite Sea (Uncommon);2
-Pluto - Mickey's Clever Friend;Character;Sapphire;;;Into the Inklands (Common);0
-Pluto - Rescue Dog;Character;Amber;;;Ursula's Return (Uncommon)/Fabled (Common);4
-Pluto - Steel Champion;Character;Steel;;;Whispers in the Well (Rare);0
-Pluto - Suspicious Sentry;Character;Sapphire;Dreamborn/Ally;;Attack of the Vine! (Common);0
-Pluto - Tried and True;Character;Amber/Steel;;;Reign of Jafar (Uncommon);0
-Pluto - Vigilant Traveler;Character;Amber;Dreamborn/Ally;;Wilds Unknown (Uncommon);0
 Pocahontas & Meeko - Adventurous Friends;Character;Amber/Amethyst;Storyborn/Team/Hero/Princess;;Attack of the Vine! (Legendary);0
 Pocahontas - Finding the Way;Character;Amber;Storyborn/Hero/Princess;;Winterspell (Common);0
 Pocahontas - Following the Wind;Character;Amethyst;Dreamborn/Hero/Princess;;Winterspell (Super Rare);0
@@ -2653,9 +2653,17 @@ Spyglass Hat;Item;Sapphire;;The Little Mermaid;Hyperia City (Rare);0
 Upgraded Chem Purse;Item;Sapphire;;Big Hero 6;Hyperia City (Rare);0
 Institute of Technology - Honey Lemon's Lab;Location;Sapphire;;Big Hero 6;Hyperia City (Uncommon);0
 Flash - Efficient Clerk;Character;Steel;Storyborn/Ally;Zootopia;Hyperia City (Rare);1
-# Hyperia City Done through here
-
+Arthur - Merlin's Assistant;Character;Steel;Storyborn/Hero;The Sword in the Stone;Hyperia City (Rare);0
+Edgar Balthazar - Long‐Suffering Butler;Character;Steel;Storyborn/Villain;The Aristocats;Hyperia City (Common);0
+Kit Cloudkicker - Unpredictable Courier;Character;Steel;Dreamborn/Ally;TaleSpin;Hyperia City (Common);0
+Tick‐Tock - Canal Croc;Character;Steel;Storyborn;Peter Pan;Hyperia City (Uncommon);0
+Tiana - Restauranteur;Character;Steel;Dreamborn/Hero/Princess;The Princess and the Frog;Hyperia City (Common);0
+Raya - Determined Explorer;Character;Steel;Storyborn/Hero/Princess;Raya and the Last Dragon;Hyperia City (Rare);0
+Woolter & Jesse - Bellwether's Henchmen;Character;Steel;Storyborn/Ally;Zootopia;Hyperia City (Uncommon);0
+Napoleon - Patient Watchdog;Character;Steel;Storyborn;The Aristocats;Hyperia City (Common);0
+Wildcat - Unconventional Mechanic;Character;Steel;Storyborn/Ally;TaleSpin;Hyperia City (Common);0
 Sir Kay - Determined to Win;Character;Steel;Storyborn/Knight;The Sword in the Stone;Hyperia City (Common);1
+# Hyperia City Done through here
 
 Chief Bogo - Police Commissioner;Character;Steel;Dreamborn;Zootopia;Hyperia City (Uncommon);1
 
