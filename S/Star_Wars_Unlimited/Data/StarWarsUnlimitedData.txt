@@ -261,7 +261,7 @@ Bog Down in Procedure;SEC-234-C;Event;Law;Y;3
 Boga, Loyal Varactyl;HMW-122-U;Ground Unit;Creature;G/W;1
 Bokken Saber;ASH-180-U;Upgrade;Item/Weapon;R;0
 Bold Recon Commando;TWI-161-C;Ground Unit;Republic/Clone/Trooper;R;3
-Bold Resistance;TWI-153-U;Event;Tactic;R/W;2
+Bold Resistance;TWI-153-U/IC27-125-U;Event;Tactic;R/W;2
 Bolstered Endurance;LOF-074-C;Upgrade;Force;U;3
 Bombing Run;SOR-173-R;Event;Tactic;R;3
 Booma Ball;HMW-236-C;Upgrade;Item/Weapon;Y;0
@@ -338,7 +338,7 @@ Cargo Juggernaut;SOR-068-C/SHD-066-C;Ground Unit;Vehicle/Tank;U;3
 Carrion Spike, Harbinger of Tyranny;HMW-066-R;Space Unit;Imperial/Vehicle/Capital Ship;U/B;0
 Carson Teva, There's Something Going On;ASH-202-R;Ground Unit;New Republic;Y/W;0
 Cartel Heavy Fighter;LAW-259-C;Space Unit;Underworld/Vehicle/Fighter;N;1
-Cartel Interceptor;LOF-157-C;Space Unit;Underworld/Vehicle/Fighter;R;3 # 1 hyperfoil
+Cartel Interceptor;LOF-157-C/IC27-130-C;Space Unit;Underworld/Vehicle/Fighter;R;3 # 1 hyperfoil
 Cartel Spacer;SOR-178-U;Space Unit;Underworld/Vehicle/Fighter;B/Y;3 # 1 hyperspace
 Cartel Turncoat;SHD-195-C;Space Unit;Underworld/Vehicle/Fighter;Y/W;3
 Cassian Andor, Climb!;SEC-012-R;Leader;Rebel;R/W;0
@@ -471,7 +471,7 @@ Contested Caverns;LAW-025-C;Base;Quarzite;R;0
 Contraband Starhopper;SEC-161-C;Space Unit;Underworld/Vehicle/Fighter;R;3 # 1 foil
 Contracted Hunter;JTL-216-U;Ground Unit;Underworld/Bounty Hunter;Y;1
 Contracted Jumpmaster;JTL-184-C;Space Unit;Underworld/Vehicle/Transport;Y/B;3 # 1 hyperfoil
-Convene the Senate;SEC-128-U;Event;Law;G;2
+Convene the Senate;SEC-128-U/IC27-128-C;Event;Law;G;2
 Conveyex Security Captain;LAW-117-R;Ground Unit;Imperial/Trooper;U;0
 Coordinated Front;JTL-253-C/IC27-193-C;Event;Plan;W;3 # 1 hyperspace
 Corellian Freighter;SOR-250-C/JTL-258-C;Space Unit;Vehicle/Transport;N;3
@@ -1129,7 +1129,7 @@ Inspiring Mentor;SHD-104-R/IC27-085-U;Upgrade;Innate;G/W;0
 Inspiring Senator;SEC-261-C;Ground Unit;Republic/Official;N;3 # 1 hyperspace
 Inspiring Veteran;ASH-205-C;Ground Unit;Resistance/Trooper;Y/W;0
 Insurgent Camp;HMW-216-U;Upgrade;Fortification;Y/W;0
-Insurgent Saboteurs;JTL-168-C;Ground Unit;Rebel/Trooper;R;3
+Insurgent Saboteurs;JTL-168-C/IC27-132-C;Ground Unit;Rebel/Trooper;R;3
 Intelligence Agency;HMW-205-U;Upgrade;Fortification;Y/B;0
 Interceptor Ace;JTL-034-C;Space Unit;Imperial/Pilot;U/B;3 # 1 foil
 Interrogation Droid;LAW-075-U;Ground Unit;Imperial/Droid;R/Y/B;1
@@ -1138,21 +1138,21 @@ Intimidator, Citadel Overwatch;LAW-140-L;Space Unit;Imperial/Vehicle/Capital Shi
 Invasion Control Ship;LOF-169-R;Space Unit;Separatist/Vehicle/Capital Ship;R;0
 Invasion Lander;HMW-111-C;Space Unit;Separatist/Vehicle/Transport;G/B;0
 Invincible, Naval Adversary;JTL-191-L;Space Unit;Separatist/Vehicle/Capital Ship;Y/B;1
-# Done through here
-Ion Cannon;IBH-016-S/IBH-027-S;Ground Unit;Y;0
-ISB Agent;SOR-176-C/SEC-184-C;Ground Unit;Y/B;3
-ISB Shuttle;SEC-083-C;Space Unit;G/B;3
-It Binds All Things;SOR-075-R;Event;U;1
-It's a Trap;JTL-209-R;Event;Y/W;1
-It's Not Over Yet;SEC-177-U;Event;R;2
-It's Worse;LOF-264-C;Event;N;3 # 2 foil
-Itinerant Warrior;LOF-048-C;Ground Unit;U/W;3 # 1 hyperspace
+Ion Cannon;IBH-016-S/IBH-027-S;Ground Unit;Weapon;Y;0
+ISB Agent;SOR-176-C/SEC-184-C;Ground Unit;Imperial;Y/B;3
+ISB Shuttle;SEC-083-C;Space Unit;Imperial/Vehicle/Transport;G/B;3
+It Binds All Things;SOR-075-R;Event;Force;U;1
+It's a Trap;JTL-209-R;Event;Gambit;Y/W;1
+It's Not Over Yet;SEC-177-U;Event;Innate;R;2
+It's Worse;LOF-264-C;Event;Trick;N;3 # 2 foil
+Itinerant Warrior;LOF-048-C;Ground Unit;Force/Jedi;U/W;3 # 1 hyperspace
 J-Type Nubian Starship;LOF-194-C/IC27-156-C;Space Unit;Naboo/Vehicle/Transport;Y/W;3
 Jabba the Hutt, Crime Boss;LAW-015-S;Leader;Underworld/Hutt;Y/B;0
-Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;1
+Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;Underworld/Hutt;B/Y;1
 Jabba the Hutt, Eminence of Tatooine;ASH-042-R;Ground Unit;Underworld/Hutt;Y/U/B;0
-Jabba the Hutt, His High Exaltedness;SHD-006-R;Leader;G/B;1
-Jabba the Hutt, Wonderful Human Being;SEC-002-C;Leader;U/B;1 # 1 hyperspace
+Jabba the Hutt, His High Exaltedness;SHD-006-R;Leader;Underworld/Hutt;G/B;1
+Jabba the Hutt, Wonderful Human Being;SEC-002-C;Leader;Underworld/Hutt;U/B;1 # 1 hyperspace
+# Done through here
 Jabba's Palace;SHD-026-C;Base;Y;1 # 1 hyperspace
 Jabba's Rancor, Pateesa;SHD-091-U;Ground Unit;G/B;3 # 1 foil
 Jabba's Rancor, Snack Time!;LAW-216-U;Ground Unit;Underworld/Creature;Y/B;1
@@ -2552,17 +2552,13 @@ The Inquisitor's TIE, Would Rather Win;IC27-104-R;Space Unit;Imperial/Vehicle/Fi
 # IC27-117 missing
 # IC27-118 missing
 # IC27-119 missing
-# IC27-120 missing
+Rey, Embracing Destiny;IC27-120-L;Ground Unit;Force;R/W;0
 Kanan Jarrus, Sometimes I Hate Being Right;IC27-121-U;Ground Unit;Force/Jedi/Rebel/Spectre;R/W;0
-# IC27-122 missing
-# IC27-123 missing
-# IC27-124 missing
-# IC27-125 missing
-# IC27-126 missing
-# IC27-127 missing
-# IC27-128 missing
-# IC27-130 missing
-# IC27-132 missing
+The Ghost, Whale Watching;IC27-122-R;Space Unit;Rebel/Vehicle/Transport/Spectre;R/W;0
+Jyn Erso, Her Father's Revenge;IC27-123-L;Ground Unit;Rebel;R/W;0
+K-2SO, Evacuate the Vault Door;IC27-124-R;Ground Unit;Rebel/Droid;R/W;0
+Saw Gerrera, For the Cause;IC27-126-R;Ground Unit;Rebel;R;0
+Act of Aggression;IC27-127-U;Event;Innate;R;0
 Banshee, Scream Machine;IC27-138-R;Space Unit;Separatist/Vehicle/Transport;Y/B;0
 Greedo, Big-Timer;IC27-142-R;Ground Unit;Underworld/Bounty Hunter;Y/B;0
 Wat Tambor, Warped Warbling;IC27-143-U;Ground Unit;Separatist/Official;Y/B;0
