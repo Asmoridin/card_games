@@ -161,12 +161,12 @@ Baymax - Giant Robot;Character;Emerald/Sapphire;Floodborn/Hero/Robot;Big Hero 6;
 Baymax - Low Battery;Character;Emerald;Storyborn/Hero/Robot;Big Hero 6;Archazia's Island (Common);1
 Baymax - Personal Healthcare Companion;Character;Sapphire;Storyborn/Hero/Robot;Big Hero 6;Azurite Sea (Rare);1
 Baymax - Upgraded Robot;Character;Sapphire;Storyborn/Hero/Robot;Big Hero 6;Archazia's Island (Rare);0
+Baymax's Charging Station;Item;Sapphire;;Big Hero 6;Archazia's Island (Common);1
+Baymax's Healthcare Chip;Item;Sapphire;;Big Hero 6;Azurite Sea (Common);0
+Be King Undisputed;Action;Ruby;Song;The Lion King;Ursula's Return (Rare)/Fabled (Uncommon);3
+Be Our Guest;Action;Amber;Song;Beauty and the Beast;The First Chapter (Uncommon)/Fabled (Common);4
+Be Prepared;Action;Ruby;Song;The Lion King;The First Chapter (Rare);0
 # franchises done through here
-Baymax's Charging Station;Item;Sapphire;;;Archazia's Island (Common);1
-Baymax's Healthcare Chip;Item;Sapphire;;;Azurite Sea (Common);0
-Be King Undisputed;Action;Ruby;Song;;Ursula's Return (Rare)/Fabled (Uncommon);3
-Be Our Guest;Action;Amber;Song;;The First Chapter (Uncommon)/Fabled (Common);4
-Be Prepared;Action;Ruby;Song;;The First Chapter (Rare);0
 Beagle Boys - Small‐Time Crooks;Character;Ruby/Sapphire;Storyborn/Villain;;Archazia's Island (Uncommon);2
 Beast - Aggressive Lord;Character;Ruby;Storyborn/Hero/Prince/Whisper;;Whispers in the Well (Uncommon);0
 Beast - Fierce Defender;Character;Ruby;Storyborn/Hero/Prince;;Attack of the Vine! (Common);0
@@ -1715,18 +1715,18 @@ Pluto - Steel Champion;Character;Steel;Dreamborn/Ally;Mickey Mouse and Friends;W
 Pluto - Suspicious Sentry;Character;Sapphire;Dreamborn/Ally;Mickey Mouse and Friends;Attack of the Vine! (Common);0
 Pluto - Tried and True;Character;Amber/Steel;Storyborn/Ally;Mickey Mouse and Friends;Reign of Jafar (Uncommon);0
 Pluto - Vigilant Traveler;Character;Amber;Dreamborn/Ally;Mickey Mouse and Friends;Wilds Unknown (Uncommon);0
+Pocahontas & Meeko - Adventurous Friends;Character;Amber/Amethyst;Storyborn/Team/Hero/Princess;Pocahontas;Attack of the Vine! (Legendary);0
+Pocahontas - Finding the Way;Character;Amber;Storyborn/Hero/Princess;Pocahontas;Winterspell (Common);0
+Pocahontas - Following the Wind;Character;Amethyst;Dreamborn/Hero/Princess;Pocahontas;Winterspell (Super Rare);0
+Pocahontas - Guiding the Tribe;Character;Amber;Storyborn/Hero/Princess;Pocahontas;Attack of the Vine! (Rare);0
+Pocahontas - Peacekeeper;Character;Amber;Floodborn/Hero/Princess;Pocahontas;Winterspell (Legendary);0
+Pocahontas - Steadfast Traveler;Character;Steel;Dreamborn/Hero/Princess;Pocahontas;Wilds Unknown (Rare);0
+Poe De Spell - Magica's Brother;Character;Amethyst;Storyborn/Ally/Sorcerer;DuckTales;Reign of Jafar (Common);0
+Poisoned Apple;Item;Ruby;;Snow White and the Seven Dwarfs;The First Chapter (Rare);0
+Pongo - Dear Old Dad;Character;Amber/Sapphire;Storyborn/Hero;101 Dalmatians;Archazia's Island (Super Rare);0
+Pongo - Determined Father;Character;Amber;Storyborn/Hero;101 Dalmatians;Into the Inklands (Super Rare)/Fabled (Super Rare);0
+Pongo - Ol' Rascal;Character;Ruby;Storyborn/Hero;101 Dalmatians;The First Chapter (Common);3
 # Traits done through here
-Pocahontas & Meeko - Adventurous Friends;Character;Amber/Amethyst;Storyborn/Team/Hero/Princess;;Attack of the Vine! (Legendary);0
-Pocahontas - Finding the Way;Character;Amber;Storyborn/Hero/Princess;;Winterspell (Common);0
-Pocahontas - Following the Wind;Character;Amethyst;Dreamborn/Hero/Princess;;Winterspell (Super Rare);0
-Pocahontas - Guiding the Tribe;Character;Amber;Storyborn/Hero/Princess;;Attack of the Vine! (Rare);0
-Pocahontas - Peacekeeper;Character;Amber;Floodborn/Hero/Princess;;Winterspell (Legendary);0
-Pocahontas - Steadfast Traveler;Character;Steel;Dreamborn/Hero/Princess;;Wilds Unknown (Rare);0
-Poe De Spell - Magica's Brother;Character;Amethyst;;;Reign of Jafar (Common);0
-Poisoned Apple;Item;Ruby;;;The First Chapter (Rare);0
-Pongo - Dear Old Dad;Character;Amber/Sapphire;;;Archazia's Island (Super Rare);0
-Pongo - Determined Father;Character;Amber;;;Into the Inklands (Super Rare)/Fabled (Super Rare);0
-Pongo - Ol' Rascal;Character;Ruby;;;The First Chapter (Common);3
 Pooh Pirate Ship;Item;Amber;;;Azurite Sea (Rare);0
 Poor Unfortunate Souls;Action;Amethyst;;;Ursula's Return (Common)/Fabled (Common);2
 Posey - Vampire Potato;Character;Emerald;Storyborn/Monster;;Attack of the Vine! (Uncommon);0
@@ -2663,14 +2663,18 @@ Woolter & Jesse - Bellwether's Henchmen;Character;Steel;Storyborn/Ally;Zootopia;
 Napoleon - Patient Watchdog;Character;Steel;Storyborn;The Aristocats;Hyperia City (Common);0
 Wildcat - Unconventional Mechanic;Character;Steel;Storyborn/Ally;TaleSpin;Hyperia City (Common);0
 Sir Kay - Determined to Win;Character;Steel;Storyborn/Knight;The Sword in the Stone;Hyperia City (Common);1
-# Hyperia City Done through here
-
+Toulouse - Rough and Tumble;Character;Steel;Storyborn/Ally;The Aristocats;Hyperia City (Uncommon);0
 Chief Bogo - Police Commissioner;Character;Steel;Dreamborn;Zootopia;Hyperia City (Uncommon);1
-
+Sir Pellinore - Tougher Than He Looks;Character;Steel;Dreamborn/Knight;The Sword in the Stone;Hyperia City (Uncommon);0
+Arthur - Novice Blacksmith;Character;Steel;Dreamborn/Hero;The Sword in the Stone;Hyperia City (Common);0
+Berlioz - Tiny Rascal;Character;Steel;Storyborn/Ally;The Aristocats;Hyperia City (Rare);0
+Marie - Caught in the Act;Character;Steel;Storyborn/Ally;The Aristocats;Hyperia City (Rare);0
 Baloo - Delivery Pilot;Character;Steel;Storyborn/Hero/Captain;The Jungle Book/TaleSpin;Hyperia City (Uncommon);1
 Koslov - Imposing Enforcer;Character;Steel;Storyborn/Ally;Zootopia;Hyperia City (Common);1
-
+Sir Ector - Blustery Knight;Character;Steel;Storyborn/Knight;The Sword in the Stone;Hyperia City (Common);0
 Baloo - Freight Pilot;Character;Steel;Storyborn/Hero/Captain;The Jungle Book/TaleSpin;Hyperia City (Common);1
+Kit Cloudkicker - Sure Shot;Character;Steel;Dreamborn/Ally;TaleSpin;Hyperia City (Common);0
+# Hyperia City Done through here
 
 Tiana - Party Hostess;Character;Steel;Dreamborn/Hero/Princess;The Princess and the Frog;Hyperia City (Legendary);1
 
