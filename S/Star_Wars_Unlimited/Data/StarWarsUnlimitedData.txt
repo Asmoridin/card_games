@@ -188,7 +188,7 @@ Batcher, Loyal Hound;HMW-083-U;Ground Unit;Creature;U;0
 Battered Haulcraft;ASH-071-C;Space Unit;Vehicle/Transport;U;0
 Battle Droid Escort;TWI-229-S;Ground Unit;Separatist/Droid/Trooper;B;3
 Battle Droid Legion;TWI-235-U;Ground Unit;Separatist/Droid/Trooper;B;1
-Battle Fury;LOF-139-U;Upgrade;Innate;R/B;3
+Battle Fury;LOF-139-U/IC27-111-U;Upgrade;Innate;R/B;3
 Battle-Scarred Destroyer;HMW-158-U;Space Unit;Imperial/Vehicle/Capital Ship;R/B;0
 Battlefield Marine;SOR-095-C;Ground Unit;Rebel/Trooper;G/W;3
 Baylan Skoll, Enigmatic Master;LOF-185-U;Ground Unit;Force/Fringe;Y/B;2
@@ -1152,19 +1152,19 @@ Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;Underworld/Hutt;B/Y;1
 Jabba the Hutt, Eminence of Tatooine;ASH-042-R;Ground Unit;Underworld/Hutt;Y/U/B;0
 Jabba the Hutt, His High Exaltedness;SHD-006-R;Leader;Underworld/Hutt;G/B;1
 Jabba the Hutt, Wonderful Human Being;SEC-002-C;Leader;Underworld/Hutt;U/B;1 # 1 hyperspace
-# Done through here
-Jabba's Palace;SHD-026-C;Base;Y;1 # 1 hyperspace
-Jabba's Rancor, Pateesa;SHD-091-U;Ground Unit;G/B;3 # 1 foil
+Jabba's Palace;SHD-026-C;Base;Tatooine;Y;1 # 1 hyperspace
+Jabba's Rancor, Pateesa;SHD-091-U;Ground Unit;Underworld/Creature;G/B;3 # 1 foil
 Jabba's Rancor, Snack Time!;LAW-216-U;Ground Unit;Underworld/Creature;Y/B;1
-Jade Squadron Patrol;SEC-049-C;Space Unit;U/W;3
-Jam Communications;JTL-207-R;Event;Y/W;1 # 1 foil
-Jango Fett, Concealing the Conspiracy;TWI-016-C;Leader;B/Y;1 # 1 hyperspace
+Jade Squadron Patrol;SEC-049-C;Space Unit;Resistance/Vehicle/Fighter;U/W;3
+Jam Communications;JTL-207-R;Event;Trick;Y/W;1 # 1 foil
+Jango Fett, Concealing the Conspiracy;TWI-016-C;Leader;Underworld/Bounty Hunter;B/Y;1 # 1 hyperspace
 Jango Fett, Guarding the Count;TS26-75-R;Ground Unit;Separatist/Bounty Hunter;Y/B;1
-Jango Fett, Renowned Bounty Hunter;SHD-138-R;Ground Unit;R/B;1 # 1 hyperspace
+Jango Fett, Renowned Bounty Hunter;SHD-138-R;Ground Unit;Underworld/Bounty Hunter;R/B;1 # 1 hyperspace
 Jango Fett, Wily Mercenary;LAW-087-U;Ground Unit;Underworld/Bounty Hunter;Y/U/B;0
 Jar Jar Binks, Bombad General;HMW-005-C;Leader;Gungan;U/W;0
-Jar Jar Binks, Foolish Gungan;TWI-202-U;Ground Unit;Y/W;1
-Jar Jar Binks, Mesa Propose…;SEC-111-U;Ground Unit;G;3
+Jar Jar Binks, Foolish Gungan;TWI-202-U;Ground Unit;Gungan;Y/W;1
+Jar Jar Binks, Mesa Propose…;SEC-111-U;Ground Unit;Naboo/Republic/Gungan/Official;G;3
+# Done through here
 Jarek Yeager, Coordinating with the Resistance;JTL-109-U;Ground Unit;G;1
 Jaunty Light Freighter;LAW-147-C;Space Unit;Vehicle/Transport;G/W;0
 Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 2 foil, 1 hyperspace
@@ -1177,7 +1177,7 @@ Jedi Guardian;LOF-049-C;Ground Unit;U/W;3
 Jedi Holocron;LOF-051-R;Upgrade;U/W;0
 Jedi In Hiding;LOF-159-C;Event;R;3
 Jedi Interceptor;HMW-256-C;Space Unit;Jedi/Republic/Vehicle/Fighter;W;0
-Jedi Knight;LOF-145-C;Ground Unit;R/W;3
+Jedi Knight;LOF-145-C/IC27-118-C;Ground Unit;Force/Jedi;R/W;3
 Jedi Light Cruiser;JTL-251-C;Space Unit;W;2
 Jedi Lightsaber;SOR-054-R;Upgrade;U/W;1
 Jedi Sentinel;LOF-196-C;Ground Unit;Y/W;3 # 1 hyperspace
@@ -1756,7 +1756,7 @@ Rebel Operation;HMW-173-R;Event;Rebel/Plan;R/W;0
 Rebel Pathfinder;SOR-239-C/SEC-250-C;Ground Unit;W;3 # 1 hyperspace, 1 foil
 Rebel Propagandist;SEC-202-U;Ground Unit;Y/W;2
 Rebellion Y-Wing;IBH-006-S/IBH-024-S/IBH-032-S;Space Unit;Y/W;0
-Rebellious Functionary;SEC-146-C;Ground Unit;R/W;3 # 1 foil
+Rebellious Functionary;SEC-146-C/IC27-112-C;Ground Unit;Rebel/Official;R/W;3 # 1 foil
 Rebellious Hammerhead;JTL-153-C;Space Unit;R/W;2
 Reckless Gunslinger;SHD-160-C;Ground Unit;R;3
 Reckless Landing;TS26-32-R;Event;Gambit;R/Y;1
@@ -2542,16 +2542,14 @@ The Inquisitor's TIE, Would Rather Win;IC27-104-R;Space Unit;Imperial/Vehicle/Fi
 # IC27-106 missing
 # IC27-107 missing
 # IC27-109 missing
-# IC27-110 missing
-# IC27-111 missing
-# IC27-112 missing
-# IC27-113 missing
-# IC27-114 missing
-# IC27-115 missing
-# IC27-116 missing
-# IC27-117 missing
-# IC27-118 missing
-# IC27-119 missing
+
+Supremacy, Destroy the Resistance;IC27-110-L;Space Unit;First Order/Vehicle/Capital Ship;R/B;0
+Ezra Bridger, Down With the Freedom;IC27-113-R;Ground Unit;Force/Jedi/Rebel/Spectre;R/W;0
+Cassian Andor, Blending In;IC27-114-U;Ground Unit;Rebel;R/W;0
+Poe Dameron, Hero of the Resistance;IC27-115-R;Ground Unit;Resistance;R/W;0
+Black One, Draw Fire, Twice;IC27-116-R;Space Unit;Resistance/Vehicle/Fighter;R/W;0
+Hera Syndulla, Against the Odds;IC27-117-U/P26-277-U;Ground Unit;Rebel/Twi'lek/Spectre;R/W;0
+Sabine Wren, Liberator of Krownest;IC27-119-R;Ground Unit;Mandalorian/Rebel/Spectre;R/W;0
 Rey, Embracing Destiny;IC27-120-L;Ground Unit;Force;R/W;0
 Kanan Jarrus, Sometimes I Hate Being Right;IC27-121-U;Ground Unit;Force/Jedi/Rebel/Spectre;R/W;0
 The Ghost, Whale Watching;IC27-122-R;Space Unit;Rebel/Vehicle/Transport/Spectre;R/W;0
